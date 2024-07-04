@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/sql/"}
+{"dg-publish":true,"permalink":"/00-projects/sql/","noteIcon":""}
 ---
 
 

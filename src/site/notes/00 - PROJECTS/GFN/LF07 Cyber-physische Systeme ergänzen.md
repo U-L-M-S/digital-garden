@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-07-cyber-physische-systeme-ergaenzen/","tags":["LF07","GFN","inProgress"]}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-07-cyber-physische-systeme-ergaenzen/","tags":["LF07","GFN","inProgress"],"noteIcon":""}
 ---
 
 ## 1. Grundlage
