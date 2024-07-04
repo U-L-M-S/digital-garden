@@ -1,16 +1,13 @@
 ---
-tags:
-  - netzwerk/ip/ipv6
-dg-publish: true
-links: 
-path: Notes
-created: 2023-09-13 11:07
+{"dg-publish":true,"permalink":"/02-resources/notes/ipv6/","tags":["netzwerk/ip/ipv6"],"noteIcon":""}
 ---
-## ipv6 
-128-bit-Binärzahlen, die in Hexadezimal dargestellt werden und mit "**:**" getrennt sind(Gruppen).
-Es ist eine Erweiterung von [[02 - RESOURCES/Notes/ipv4\|ipv4]].
 
-**2001:0db8:85a3:0000:0000:8a2e:0370:7334**
+## ipv6 
+> 128-bit-Binärzahlen, die in Hexadezimal dargestellt werden und mit "**:**" getrennt sind(Gruppen).
+ Es ist eine Erweiterung von [[02 - RESOURCES/Notes/IPv4\|IPv4]].
+
+
+	**2001:0db8:85a3:0000:0000:8a2e:0370:7334**
 
 | 2001 | 0db8 | 85a3 | 0000 | 0000 | 8a2e | 0370 | 7334 |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|

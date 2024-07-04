@@ -11,7 +11,21 @@ created: 2024-06-23 11:17
 
 
 
-
+---
+tags:
+  - bedeutung
+links: 
+path: Notes
+created: 2023-09-13 13:03
+aliases:
+  - Statische
+  - statische
+  - Statisc
+  - Statischen
+  - statischen
+  - Statisches
+  - statisches
+---
 >DE: Statische.
 >Fix / Fest / **Konstant** / Unveränderlich
 

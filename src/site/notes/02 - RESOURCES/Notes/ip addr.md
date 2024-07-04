@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ip-addr/","tags":["linux","command"],"noteIcon":""}
+tags:
+  - linux
+  - command
+dg-publish: true
+aliases:
+  - Ip addr
+  - ip addr
+links: 
+path: Notes
+created: 2024-07-03 16:06
 ---
-
 > Zeig alle Informationen um das [[00 - PROJECTS/Netzwerk\|Netzwerk]].
 > [[02 - RESOURCES/Notes/IP Address\|IP Address]], [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]], usw
 

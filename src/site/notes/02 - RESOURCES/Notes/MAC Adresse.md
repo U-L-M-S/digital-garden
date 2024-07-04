@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mac-adresse/","tags":["netzwerk"],"noteIcon":""}
+tags:
+  - netzwerk
+dg-publish: true
+links: 
+path: Notes
+created: 2024-07-02 08:57
+aliases:
+  - MAC
 ---
-
 > Media Access Control
 > Einzigartige Adresse, der in jeder [[02 - RESOURCES/Notes/Netzwerkkarte\|Netzwerkkarte]] ist.
 > [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] werden verwendet für die Darstellung von [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]]n.

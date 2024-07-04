@@ -1,7 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dynamic/","tags":["bedeutung"],"noteIcon":""}
+tags:
+  - bedeutung
+dg-publish: true
+links: 
+path: Notes
+created: 2024-06-23 11:21
+aliases:
+  - Dynamisch
+  - Dynamische
+  - dynamische
+  - Dynamischen
+  - dynamischen
+  - Dynamisches
+  - dynamisches
 ---
-
 > Adjektiv für 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 

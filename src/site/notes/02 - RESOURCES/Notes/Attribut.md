@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/attribut/","tags":["#bedeutung","OOP"],"noteIcon":""}
+tags:
+  - "#bedeutung"
+  - OOP
+dg-publish: true
+links: 
+path: Notes
+created: 2024-05-20 13:32
 ---
-
 > Eigenschaften von eine Klasse.
 
 - Name
