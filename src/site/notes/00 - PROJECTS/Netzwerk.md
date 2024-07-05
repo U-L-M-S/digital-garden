@@ -8,7 +8,7 @@
 
 Es ist sehr wichtig zu wissen, dass [[02 - RESOURCES/Notes/Subnet Mask\|Subnet Mask]] / Subnetzmaske eine riesige Rolle spielt. Dadurch können wir die [[02 - RESOURCES/Notes/Network Portion und Host\|Network Portion und Host]] herauslesen und noch viel mehr machen.
 
-So eben das [[02 - RESOURCES/Notes/gateway\|gateway]] ist eine notwendig Begriff.
+So eben das [[02 - RESOURCES/Notes/Gateway\|Gateway]] ist eine notwendig Begriff.
 
 
 ### 
@@ -70,7 +70,7 @@ Durch die Verwendung von  [[02 - RESOURCES/Notes/Network Address Translation\|Ne
 Für Subnetting brauchst du die folgende Kenntnissen:
 - [[02 - RESOURCES/Notes/IP Address\|IP Address]] 
 - [[02 - RESOURCES/Notes/Subnet Mask\|Subnet Mask]] 
-- [[02 - RESOURCES/Notes/gateway\|gateway]] 
+- [[02 - RESOURCES/Notes/Gateway\|Gateway]] 
 - [[02 - RESOURCES/Notes/Binärzahlen\|Binärzahlen]]
 ___
 ### 
