@@ -1,13 +1,7 @@
 ---
-tags:
-  - mathe
-  - informatik
-  - netzwerk
-dg-publish: true
-links: 
-path: Notes
-created: 2024-07-02 09:53
+{"dg-publish":true,"permalink":"/02-resources/notes/hexadezimal/","tags":["mathe","informatik","netzwerk"],"noteIcon":""}
 ---
+
 > Zahlsystem, das Zahlen und Buchstaben nutzt.
 > Es enthält einen [[02 - RESOURCES/Notes/Zifferbereich\|Zifferbereich]] von **0** bis **F**.
 
