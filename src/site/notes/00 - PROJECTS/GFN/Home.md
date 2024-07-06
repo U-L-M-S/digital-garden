@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry"],"noteIcon":"","updated":"2024-07-06T21:05:46.111+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -21,6 +21,6 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 [[00 - PROJECTS/GFN/LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen\|LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen]] 
 [[00 - PROJECTS/GFN/LF05 Software zur Verwaltung von Daten anpassen\|LF05 Software zur Verwaltung von Daten anpassen]] 
 [[00 - PROJECTS/GFN/LF07 Cyber-physische Systeme ergänzen\|LF07 Cyber-physische Systeme ergänzen]]
+[[00 - PROJECTS/GFN/LF09 Netzwerke und Dienste bereitstellen\|LF09 Netzwerke und Dienste bereitstellen]]
 # Abschlussprüfung-relevant:
 [[00 - PROJECTS/GFN/LF08 Daten systemübergreifend bereitstellen\|LF08 Daten systemübergreifend bereitstellen]]
-[[00 - PROJECTS/GFN/LF09 Netzwerke und Dienste bereitstellen\|LF09 Netzwerke und Dienste bereitstellen]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["netzwerk/ip/ipv6"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["netzwerk/ip/ipv6"],"noteIcon":"","updated":"2024-07-05T10:48:04.000+02:00"}
 ---
 
 > 128-bit-Binärzahlen, die in Hexadezimal dargestellt werden und mit "**:**" getrennt sind( 8 Gruppen) und es wird als [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt.

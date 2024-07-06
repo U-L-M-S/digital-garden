@@ -1,12 +1,7 @@
 ---
-tags:
-  - netzwerk
-  - speicher
-dg-publish: true
-links: 
-path: Notes
-created: 2024-05-06 16:21
+{"dg-publish":true,"permalink":"/02-resources/notes/nas/","tags":["netzwerk","speicher"],"noteIcon":"","updated":"2024-07-06T08:19:50.328+02:00"}
 ---
+
 > Network Attached Storage
 
 Es ist nicht anders als ein Dateiserver.
