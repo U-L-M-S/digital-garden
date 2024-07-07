@@ -1,35 +1,18 @@
 ---
-tags:
-  - bedeutung
-dg-publish: true
-links: 
-path: Notes
-created: 2024-06-23 11:17
+{"dg-publish":true,"permalink":"/02-resources/notes/statisch/","tags":["bedeutung"],"noteIcon":"","updated":"2024-07-07T13:08:53.286+02:00"}
 ---
+
 > Adjektiv für 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
----
-tags:
-  - bedeutung
-links: 
-path: Notes
-created: 2023-09-13 13:03
-aliases:
-  - Statische
-  - statische
-  - Statisc
-  - Statischen
-  - statischen
-  - Statisches
-  - statisches
----
+
 >DE: Statische.
 >Fix / Fest / **Konstant** / Unveränderlich
 
 Etwas, dass man in die Regel nicht verändern kann.
+
 
 
 </div></div>
