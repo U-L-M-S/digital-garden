@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-07-02T15:47:37.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":""}
 ---
 
 

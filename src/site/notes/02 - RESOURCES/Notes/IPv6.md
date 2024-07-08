@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["netzwerk/ip/ipv6"],"noteIcon":"","updated":"2024-07-05T10:48:04.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["netzwerk/ip/ipv6","prüfungsrelevant"],"noteIcon":""}
 ---
 
 > 128-bit-Binärzahlen, die in Hexadezimal dargestellt werden und mit "**:**" getrennt sind( 8 Gruppen) und es wird als [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt.
@@ -35,6 +35,17 @@ Hier sind die Regeln, die man es folgen muss:
 
 # Adressen
 [[02 - RESOURCES/Notes/IPv6\|IPv6]] verwendet 3 Arten von Adressen. Diese sind...
-## [[02 - RESOURCES/Notes/Unicast\|Unicast]]
-## [[02 - RESOURCES/Notes/Multicast\|Multicast]]
-## [[02 - RESOURCES/Notes/Anycast\|Anycast]]
+## Public/Global
+> Zwischen den Router und Internet.
+> Es beginnt mit **2000::** oder **3000::**.
+> Es kann [[02 - RESOURCES/Notes/Unicast\|Unicast]] oder [[02 - RESOURCES/Notes/Anycast\|Anycast]] sein.
+
+## Private
+> Alles was hinter der Router steht.
+### Link - Local Adresse
+> Es beginnt mit **FE80::**
+> Es ist [[02 - RESOURCES/Notes/Unicast\|Unicast]]
+
+### Unique - Local Adresse
+> Es beginnt mit **FE00::** oder **FD00::**
+> Es ist [[02 - RESOURCES/Notes/Unicast\|Unicast]]

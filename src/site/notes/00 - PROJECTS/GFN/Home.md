@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry"],"noteIcon":"","updated":"2024-07-06T21:05:46.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # Hallo zusammen 😄 
@@ -24,3 +24,5 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 [[00 - PROJECTS/GFN/LF09 Netzwerke und Dienste bereitstellen\|LF09 Netzwerke und Dienste bereitstellen]]
 # Abschlussprüfung-relevant:
 [[00 - PROJECTS/GFN/LF08 Daten systemübergreifend bereitstellen\|LF08 Daten systemübergreifend bereitstellen]]
+
+
