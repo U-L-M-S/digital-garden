@@ -54,7 +54,7 @@ Gateway:
 ![Pasted image 20230913160229.png](/img/user/02%20-%20RESOURCES/Files/IMGs/Pasted%20image%2020230913160229.png)
 
 
-Durch die Verwendung von  [[02 - RESOURCES/Notes/Network Address Translation\|Network Address Translation]] können wir mit nur ein IP (Public) uns mit andere Geräte außerhalb unsere Netz kommunizieren. D.h ein Public IP für alle Geräte in unser Netz.
+Durch die Verwendung von  [[02 - RESOURCES/Notes/NAT\|NAT]] können wir mit nur ein IP (Public) uns mit andere Geräte außerhalb unsere Netz kommunizieren. D.h ein Public IP für alle Geräte in unser Netz.
 
 ![Pasted image 20230913180918.png](/img/user/02%20-%20RESOURCES/Files/IMGs/Pasted%20image%2020230913180918.png)
 
