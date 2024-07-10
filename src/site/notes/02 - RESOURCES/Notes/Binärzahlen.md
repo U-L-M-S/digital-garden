@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/binaerzahlen/","tags":["mathe/binaerzahlen"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/binaerzahlen/","tags":["mathe/binärzahlen"],"noteIcon":""}
 ---
 
 ## Binärzahlen 
