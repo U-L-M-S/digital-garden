@@ -86,20 +86,15 @@ Sichere [[02 - RESOURCES/Notes/LAN\|LAN]]-Verbindung durch ein unsicheres [[00 -
 
 
 
----
-tags: 
-- 
-dg-publish: true
-links: 
-path: Notes
-created: 2024-05-06 16:19
----
+
 > Storage Area Network 
 
 Verbindungsnetzwerk für Massenspeicher
 
 >[!important] 
->Kein [[02 - RESOURCES/Notes/NAS\|NAS]]
+>[[02 - RESOURCES/Notes/SAN\|SAN]]  != [[02 - RESOURCES/Notes/NAS\|NAS]]
+>**ABER** wenn man 2 oder mehrere [[02 - RESOURCES/Notes/NAS\|NAS]]s zusammen hat, dann kann man das als [[02 - RESOURCES/Notes/SAN\|SAN]] bezeichnen.
+
 
 </div></div>
 
