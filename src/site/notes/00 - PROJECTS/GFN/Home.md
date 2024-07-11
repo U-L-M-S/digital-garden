@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # Hallo zusammen 😄 
