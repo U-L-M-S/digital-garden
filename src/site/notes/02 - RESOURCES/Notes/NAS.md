@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/nas/","tags":["netzwerk","speicher"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/nas/","tags":["netzwerk","speicher","prüfungsrelevant"],"noteIcon":""}
 ---
 
 > Network Attached Storage
