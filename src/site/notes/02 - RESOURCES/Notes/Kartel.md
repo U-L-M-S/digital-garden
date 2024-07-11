@@ -1,11 +1,7 @@
 ---
-tags: 
-- 
-dg-publish: true
-links: 
-path: Notes
-created: 2024-02-07 22:01
+{"dg-publish":true,"permalink":"/02-resources/notes/kartel/","tags":[null],"noteIcon":""}
 ---
+
 >Absprache zwischen [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] (Preis, Absatzmarkt).
 >Ist 99% von alle Fälle Verbot.
 
