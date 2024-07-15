@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/c-panel/","tags":["LF09","tools","empty"],"noteIcon":"","updated":"2024-07-10T16:37:10.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/c-panel/","tags":["LF09","tools","empty"],"noteIcon":""}
 ---
 
 >Es ist eine Webhosting-Kontrollpanels 

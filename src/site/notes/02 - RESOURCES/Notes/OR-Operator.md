@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/or-operator/","tags":["informatik","mathe"],"noteIcon":"","updated":"2024-07-10T09:44:53.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/or-operator/","tags":["informatik","mathe"],"noteIcon":""}
 ---
 
 
