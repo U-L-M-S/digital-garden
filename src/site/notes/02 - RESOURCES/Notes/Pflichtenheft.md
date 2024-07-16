@@ -10,5 +10,8 @@
 
 >[!note] 
 >Es hängt extrem zusammen mit [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]]
+
+
 # [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]] Bsp
+Vorlage
 ![[lexoffice-Vorlage-Pflichtenheft.pdf]]

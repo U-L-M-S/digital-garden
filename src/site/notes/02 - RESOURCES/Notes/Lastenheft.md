@@ -10,4 +10,5 @@
 >[!note] 
 >Es hängt extrem mit [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]] zusammen und der [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] wird vordem [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]] geschrieben.
 
-![[lastenheft.docx]]
+
+![[lastenheft.pdf]]
