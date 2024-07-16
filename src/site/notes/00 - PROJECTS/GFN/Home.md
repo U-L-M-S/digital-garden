@@ -13,7 +13,8 @@ PS: Alle Zusammenfassungen wurde von mir erstellt (Jemand der deutsch nicht als 
 Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-L-M-S/obsidian) pushen.
 
 >[!important] 
->Dokumente wie PDF, World und usw (Textdokumente) werden hier nicht unterstützt und somit werden sie nicht angezeigt.
+>Dokumente wie PDF, World und usw (Textdokumente) 
+>werden hier nicht unterstützt und somit werden sie nicht angezeigt.
 
 
 ---
