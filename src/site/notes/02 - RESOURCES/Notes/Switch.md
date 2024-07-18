@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/switch/","tags":["netzwerk","hardware","LF09","LF03","prüfungsrelevant"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/switch/","tags":["netzwerk","hardware","LF09","LF03","prüfungsrelevant"],"noteIcon":"","updated":"2024-07-17T15:47:48.000+02:00"}
 ---
 
 > [[00 - PROJECTS/Netzwerk\|Netzwerk]]gäret, das Datenpakete basierend auf [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]] and die richtigen Ports weiterleitet. Hier sind die 'Ports', die Switch-Anschlüsse gemeint.
