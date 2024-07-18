@@ -1,6 +1,6 @@
 ---
 tags:
-  - bedeutung
+  - abkürzung
   - GUI
 dg-publish: true
 links: 

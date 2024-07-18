@@ -1,6 +1,6 @@
 ---
 tags:
-  - bedeutung
+  - abkürzung
 dg-publish: true
 links: 
 path: Notes

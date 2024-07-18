@@ -1,6 +1,6 @@
 ---
 tags:
-  - bedeutung
+  - abkürzung
   - LF08
 dg-publish: true
 links: 

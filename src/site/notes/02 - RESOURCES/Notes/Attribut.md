@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#bedeutung"
+  - "#abkürzung"
   - OOP
 dg-publish: true
 links: 

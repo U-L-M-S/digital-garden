@@ -1,7 +1,7 @@
 ---
 tags:
   - datenbank
-  - bedeutung
+  - abkürzung
 dg-publish: true
 links: 
 path: Notes

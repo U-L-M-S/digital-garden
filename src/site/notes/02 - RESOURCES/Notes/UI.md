@@ -1,7 +1,7 @@
 ---
 tags:
-  - bedeutung
-  - gui
+  - abkürzung
+  - GUI
 dg-publish: true
 links: 
 path: Notes

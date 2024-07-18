@@ -1,6 +1,6 @@
 ---
 tags:
-  - bedeutung
+  - abkürzung
 dg-publish: true
 links: 
 path: Notes
@@ -21,7 +21,7 @@ aliases:
 
 ---
 tags:
-  - bedeutung
+  - abkürzung
 links: 
 path: Notes
 created: 2023-09-13 13:48
