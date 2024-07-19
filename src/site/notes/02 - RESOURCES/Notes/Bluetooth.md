@@ -1,11 +1,7 @@
 ---
-tags: 
-- 
-dg-publish: true
-links: 
-path: Notes
-created: 2024-05-06 16:33
+{"dg-publish":true,"permalink":"/02-resources/notes/bluetooth/","tags":[null],"noteIcon":""}
 ---
+
 > Funkstandard
 
 Es wird für Datentransfer in kurze Distanzen verwendet.
