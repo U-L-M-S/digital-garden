@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/nat/","tags":["netzwerk/nat","prüfungsrelevant"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/nat/","tags":["netzwerk/nat","prüfungsrelevant"],"noteIcon":"","updated":"2024-07-10T14:56:16.000+02:00"}
 ---
 
 > Network Address Translation
