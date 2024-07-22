@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-07-22T18:49:24.193+02:00"}
 ---
 
 # I. Switching
@@ -28,3 +28,4 @@ Folgenden Themen über [[02 - RESOURCES/Notes/VLAN\|VLAN]]s werden hier berücks
 
 # III.  Routing
 ___
+[[02 - RESOURCES/Notes/Router\|Router]]

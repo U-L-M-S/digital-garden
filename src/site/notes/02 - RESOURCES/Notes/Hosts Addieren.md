@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hosts-addieren/","tags":["netzwerk/hostaddieren"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/hosts-addieren/","tags":["netzwerk/hostaddieren"],"noteIcon":"","updated":"2024-07-17T10:12:05.000+02:00"}
 ---
 
 ## Hosts Addieren 
