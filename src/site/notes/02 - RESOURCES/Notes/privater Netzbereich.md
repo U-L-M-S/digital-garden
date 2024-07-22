@@ -42,17 +42,29 @@ Auf ein Gelände beschränktes [[00 - PROJECTS/Netzwerk\|Netzwerk]].
 
 
 
----
-tags:
-  - netzwerk
-dg-publish: true
-links: 
-path: Notes
-created: 2024-05-06 16:10
----
+
 > Virtuelles [[02 - RESOURCES/Notes/LAN\|LAN]].
 
-Aufteilen in getrennte [[02 - RESOURCES/Notes/LAN\|LAN]]s in gemeinsamer Infrastruktur.
+>Aufteilen in getrennte [[02 - RESOURCES/Notes/LAN\|LAN]]s in gemeinsamer Infrastruktur.
+>Es wird sehr häufig in [[02 - RESOURCES/Notes/Switch\|Switch]]es verwendet.
+
+Mit andere Wörter 1 [[02 - RESOURCES/Notes/Switch\|Switch]] mit eine oder mehrere [[02 - RESOURCES/Notes/VLAN\|VLAN]]s.
+![VLAN-20240722141645311.png](/img/user/02%20-%20RESOURCES/Files/VLAN-20240722141645311.png)
+![VLAN-20240722141826439.png](/img/user/02%20-%20RESOURCES/Files/VLAN-20240722141826439.png)
+
+>[!important] 
+>Man kann auch [[02 - RESOURCES/Notes/Switch\|Switch]]es verbinden um die Anzahl von Geräte per [[02 - RESOURCES/Notes/VLAN\|VLAN]] zu erhöhen.
+>Man enthält aber viele Nachteilen. Wie:
+>- Teuer
+>- Unübersichtlich
+>- Nicht sinnvoll
+
+
+
+![VLAN-20240722142113905.png](/img/user/02%20-%20RESOURCES/Files/VLAN-20240722142113905.png)
+
+Dafür gibt es eine bessere Möglichkeit.
+Es heißt [[02 - RESOURCES/Notes/Trunking\|Trunking]] und Tagging
 
 </div></div>
 
