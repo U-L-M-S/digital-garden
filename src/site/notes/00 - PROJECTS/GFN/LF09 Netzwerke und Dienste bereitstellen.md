@@ -19,4 +19,4 @@ Andere Themen sowie [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]]n, [[02 - R
 - Was [[02 - RESOURCES/Notes/PDU\|PDU]] ist und die Informationen was jeder Layer in die [[02 - RESOURCES/Notes/IP-Pakete\|IP-Pakete]] einsetzt.
 
 
-# II. 
+# II. [[02 - RESOURCES/Notes/VLAN\|VLAN]]s
