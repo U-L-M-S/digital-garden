@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hosts-herausfinden/","tags":["netzwerk/host"],"noteIcon":"","updated":"2024-07-17T11:47:39.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hosts-herausfinden/","tags":["netzwerk/host"],"noteIcon":""}
 ---
 
 ## Hosts Herausfinden 
