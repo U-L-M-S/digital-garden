@@ -20,3 +20,11 @@ Andere Themen sowie [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]]n, [[02 - R
 
 
 # II. [[02 - RESOURCES/Notes/VLAN\|VLAN]]s
+___
+Folgenden Themen über [[02 - RESOURCES/Notes/VLAN\|VLAN]]s werden hier berücksichtigen:
+- Was sind [[02 - RESOURCES/Notes/VLAN\|VLAN]]s, wo werden sie meistens eingesetzt und warum.
+- Broadcast ? Ja, Nein ?
+- [[02 - RESOURCES/Notes/Trunking und Tagging\|Trunking und Tagging]]
+
+# III.  Routing
+___
