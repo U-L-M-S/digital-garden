@@ -23,4 +23,4 @@ Mit andere Wörter 1 [[02 - RESOURCES/Notes/Switch\|Switch]] mit eine oder mehre
 ![VLAN-20240722142113905.png](/img/user/02%20-%20RESOURCES/Files/VLAN-20240722142113905.png)
 
 Dafür gibt es eine bessere Möglichkeit.
-Es heißt [[02 - RESOURCES/Notes/Trunking\|Trunking]] und Tagging
+Es heißt [[02 - RESOURCES/Notes/Trunking und Tagging\|Trunking und Tagging]]
