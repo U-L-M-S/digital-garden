@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-09T14:17:38.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":""}
 ---
 
 > 32-bit-Binärzahlen, die in Dezimal dargestellt werden und mit "**.**"  getrennt sind.  
@@ -136,13 +136,13 @@ Hier kannst du sehen, dass mein IP (`Wlan`) `192.168.0.200` ist
 ### Klassen
 IPv4 wurde in 5 Klassen unterteilt:
 
-|          | -   |            Range            |   Subnet Mask   |     |
-| :------: | --- | :-------------------------: | :-------------: | --- |
-| Klasse A | -   |  1.0.0.0 - 126.255.255.255  |   *255*.0.0.0   |     |
-| Klasse B | -   |   128.0.0.0 - 191.255.0.0   |  *255.255*.0.0  |     |
-| Klasse C | -   |  192.0.0.0 - 223.255.255.0  | *255.255.255*.0 |     |
-| Klasse D | -   | 224.0.0.0 - 239.255.255.255 |                 |     |
-| Klasse E | -   | 240.0.0.0 - 255.255.255.255 |                 |     |
+|          | -   |            Range            |           Subnet Mask           |
+| :------: | --- | :-------------------------: | :-----------------------------: |
+| Klasse A | -   |  1.0.0.0 - 126.255.255.255  |           *255*.0.0.0           |
+| Klasse B | -   |   128.0.0.0 - 191.255.0.0   |          *255.255*.0.0          |
+| Klasse C | -   |  192.0.0.0 - 223.255.255.0  |         *255.255.255*.0         |
+| Klasse D | -   | 224.0.0.0 - 239.255.255.255 | Reserviert für [[02 - RESOURCES/Notes/Multicast\|Multicast]]ing |
+| Klasse E | -   | 240.0.0.0 - 255.255.255.255 |          Experimental           |
 { #872578}
 
 

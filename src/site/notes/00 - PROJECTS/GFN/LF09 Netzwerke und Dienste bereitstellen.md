@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-07-22T20:55:47.684+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":""}
 ---
 
 # I. Switching
@@ -16,16 +16,16 @@ Andere Themen sowie [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]]n, [[02 - R
 - Über [[02 - RESOURCES/Notes/STP\|STP]] muss du nur wissen, dass es verwendet wird um Loops  (Endlosschleifen) in 
   [[02 - RESOURCES/Notes/Switch\|Switch]]es zu stoppen.
 
-- Was [[02 - RESOURCES/Notes/PDU\|PDU]] ist und die Informationen was jeder Layer in die [[02 - RESOURCES/Notes/IP-Pakete\|IP-Pakete]] einsetzt ([[02 - RESOURCES/Notes/IPv4 Header\|IPv4 Header]]).
-
+- Was [[02 - RESOURCES/Notes/PDU\|PDU]] ist und die Informationen was jeder Layer in die [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]] einsetzt ([[02 - RESOURCES/Notes/IPv4 Header\|IPv4 Header]]).
 
 # II. [[02 - RESOURCES/Notes/VLAN\|VLAN]]s
 ___
 Folgenden Themen über [[02 - RESOURCES/Notes/VLAN\|VLAN]]s werden hier berücksichtigen:
 - Was sind [[02 - RESOURCES/Notes/VLAN\|VLAN]]s, wo werden sie meistens eingesetzt und warum.
 - Broadcast ? Ja, Nein ?
-- [[02 - RESOURCES/Notes/Trunking und Tagging\|Trunking und Tagging]]
+- [[02 - RESOURCES/Notes/Trunking und Tagging\|Trunking und Tagging]], was ist das und wofür man es braucht.
 
 # III.  Routing
 ___
-[[02 - RESOURCES/Notes/Router\|Router]] ist einer der wichtigiste Geräte in die [[00 - PROJECTS/Netzwerk\|Netzwerk]], er ermögliche hauptsächliche unsere Verbindung mit den Welt (das [[02 - RESOURCES/Notes/Internet\|Internet]])
+Der [[02 - RESOURCES/Notes/Router\|Router]] ist einer der wichtigsten Geräte in die [[00 - PROJECTS/Netzwerk\|Netzwerk]], er ermögliche hauptsächliche unsere Verbindung mit den Welt ([[02 - RESOURCES/Notes/Internet\|Internet]]).
+- 

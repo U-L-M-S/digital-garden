@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/switch/","tags":["netzwerk","hardware","LF09","LF03","prüfungsrelevant"],"noteIcon":"","updated":"2024-07-22T11:20:44.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/switch/","tags":["netzwerk","hardware","LF09","LF03","prüfungsrelevant"],"noteIcon":""}
 ---
 
 > [[00 - PROJECTS/Netzwerk\|Netzwerk]]gäret, das Datenpakete basierend auf [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]] and die richtigen Ports weiterleitet, wenn der Empfänger nicht in die Liste eingetragen ist wird das Datenpakete an allen weitergeleitet ([[02 - RESOURCES/Notes/Broadcast\|Broadcast]]). Hier sind die 'Ports', die Switch-Anschlüsse gemeint.
@@ -16,7 +16,7 @@ Switches arbeiten mit Listen, in denen die IP-Adressen der Sender aller durchgeh
 Jedes Mal, wenn ein Rechner nicht mehr in der Liste ist, kann es daran liegen, dass er noch nie in der Liste war oder weil das [[02 - RESOURCES/Notes/TTL\|TTL]] auf 0 gesetzt wurde. Dann macht die Liste einen [[02 - RESOURCES/Notes/Broadcast\|Broadcast]] und verschickt das [[02 - RESOURCES/Notes/Netzwerkpaket\|Netzwerkpaket]] an **alle** Rechner.
 
 >[!important] 
->Der [[02 - RESOURCES/Notes/Broadcast\|Broadcast]] leitet das [[02 - RESOURCES/Notes/IP-Pakete\|IP-Pakete]] an alle Gärete, die mit dem Switch verbunden ist. 
+>Der [[02 - RESOURCES/Notes/Broadcast\|Broadcast]] leitet das [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]] an alle Gärete, die mit dem Switch verbunden ist. 
 >Es wird jedoch vom  Router gestoppt, d.h, es geht nicht durch den Router hindurch.
 
 Die Rechner, die nicht in die Liste eingetragen sind, werden nur eingetragen, wenn diese ein [[02 - RESOURCES/Notes/Netzwerkpaket\|Netzwerkpaket]] verschickt.
