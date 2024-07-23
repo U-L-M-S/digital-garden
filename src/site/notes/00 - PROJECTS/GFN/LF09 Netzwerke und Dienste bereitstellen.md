@@ -28,4 +28,8 @@ Folgenden Themen über [[02 - RESOURCES/Notes/VLAN\|VLAN]]s werden hier berücks
 # III.  Routing
 ___
 Der [[02 - RESOURCES/Notes/Router\|Router]] ist einer der wichtigsten Geräte in die [[00 - PROJECTS/Netzwerk\|Netzwerk]], er ermögliche hauptsächliche unsere Verbindung mit den Welt ([[02 - RESOURCES/Notes/Internet\|Internet]]).
-- Was machen Router
+- Was macht der [[02 - RESOURCES/Notes/Router\|Router]].
+- [[02 - RESOURCES/Notes/Routing\|Routing]], was ist das und welche Art von [[02 - RESOURCES/Notes/Routing\|Routing]] gibt es und wie diesen funktionieren.
+
+## [[02 - RESOURCES/Notes/IGP\|IGP]] und [[02 - RESOURCES/Notes/EGP\|EGP]]
+Die [[02 - RESOURCES/Notes/IGP\|IGP]] und [[02 - RESOURCES/Notes/EGP\|EGP]] sind Untertitel des [[02 - RESOURCES/Notes/Routing\|Routing]]. Sie sind aber notwendig  zu verstehen. Da  
