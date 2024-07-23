@@ -28,4 +28,4 @@ Folgenden Themen über [[02 - RESOURCES/Notes/VLAN\|VLAN]]s werden hier berücks
 # III.  Routing
 ___
 Der [[02 - RESOURCES/Notes/Router\|Router]] ist einer der wichtigsten Geräte in die [[00 - PROJECTS/Netzwerk\|Netzwerk]], er ermögliche hauptsächliche unsere Verbindung mit den Welt ([[02 - RESOURCES/Notes/Internet\|Internet]]).
-- 
+- Was machen Router

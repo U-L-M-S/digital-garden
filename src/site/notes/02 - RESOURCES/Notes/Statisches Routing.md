@@ -7,8 +7,10 @@
 >Jeder Router kennt nur seiner Nachbar(Routing-Tabelle).
 >Bei Versendung von Paketen wird nur die Routers-[[02 - RESOURCES/Notes/IP\|IP]]s berücksichtig.
 
-![Statisches Routing-20240723105405929.png](/img/user/02%20-%20RESOURCES/Files/Statisches%20Routing-20240723105405929.png)
-
+>[!note] 
+>Wenn ein [[02 - RESOURCES/Notes/Router\|Router]] ausfällt oder den Weg nicht mehr stimmt wegen irgendwelche Grund, funktioniert nicht mehr.
+![Statisches Routing-20240723120123303.png](/img/user/02%20-%20RESOURCES/Files/Statisches%20Routing-20240723120123303.png)
+![Statisches Routing-20240723120400462.png](/img/user/02%20-%20RESOURCES/Files/Statisches%20Routing-20240723120400462.png)
 
 >[!multi-column]
 > 
