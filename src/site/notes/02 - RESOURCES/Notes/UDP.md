@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/udp/","tags":["protocol","netzwerk"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/udp/","tags":["netzwerk/protocol","netzwerk"],"noteIcon":""}
 ---
 
 > User Datagram Protocol

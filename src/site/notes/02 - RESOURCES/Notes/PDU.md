@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pdu/","tags":["netzwerk","protocol","prüfungsrelevant"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/pdu/","tags":["netzwerk","netzwerk/protocol","prüfungsrelevant"],"noteIcon":""}
 ---
 
 > Protocol Data Unit
