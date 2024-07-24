@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/02-resources/notes/dynamisches-routing/","tags":["netzwerk/gateway"],"noteIcon":""}
 ---
 
->Die Konfiguration von die Routing-Tabellen werden von jeder Router das wie in Echtzeit angepasst und aktualisiert.
+>Die Konfiguration von die Routingtabellen werden von jeder Router fast wie in Echtzeit angepasst und aktualisiert.
 
->Die Router senden sich gegenseitig ihre Routen zu
+>Die Router senden sich gegenseitig Daten um ihre Routingtabellen aktuell zu halten.
 
 >[!note] 
 >Die [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]] werden automatisch von Router zu Router transportiert, bis sie ihr Ziel erreichen. 
->Im Fall einer Verbindungunterbrechung wird ein neuer Pfad durch die gesamte Anzahl von [[02 - RESOURCES/Notes/Hop\|Hop]]s erstellt (der schnellest Weg ist der neueste Weg).
+>Im Fall einer Verbindungunterbrechung wird ein neuer Pfad durch die gesamte Anzahl der [[02 - RESOURCES/Notes/Hop\|Hop]]s / die Geschwindigkeit  über die Gesamtstrecke erstellt (der schnellest Weg ist der neueste Weg).
 ![Dynamisches Routing-20240723121714162.png](/img/user/02%20-%20RESOURCES/Files/Dynamisches%20Routing-20240723121714162.png)
 
 >[!multi-column]
