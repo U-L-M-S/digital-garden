@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dynamisches-routing/","tags":["netzwerk/gateway"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/dynamisches-routing/","tags":["netzwerk/gateway","prüfungsrelevant"],"noteIcon":""}
 ---
 
 >Die Konfiguration von die Routingtabellen werden von jeder Router fast wie in Echtzeit angepasst und aktualisiert.
@@ -22,3 +22,5 @@
 >>-  Router benötigen mehr CPU und Speicher als normal.
 >>-  Ein wenig Bandbreite geht verloren.
 >>- Um vernünftig zu routen, muss eine funktionierende Erstkonfiguration erstellt werden.
+
+[[02 - RESOURCES/Notes/Dynamische Routingprotokolle\|Dynamische Routingprotokolle]]
