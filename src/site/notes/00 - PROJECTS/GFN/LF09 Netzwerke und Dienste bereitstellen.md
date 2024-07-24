@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-07-24T19:37:15.014+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-07-24T19:37:17.610+02:00"}
 ---
 
 # I. Switching
@@ -45,3 +45,5 @@ Die [[02 - RESOURCES/Notes/IGP\|IGP]] und [[02 - RESOURCES/Notes/EGP\|EGP]] sind
 
 # V. Subnetting
 ___
+
+
