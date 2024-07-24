@@ -8,7 +8,7 @@
 
 >[!note] 
 >Die [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]] werden automatisch von Router zu Router transportiert, bis sie ihr Ziel erreichen. 
->Im Fall einer Verbindungunterbrechung wird ein neuer Pfad durch die gesamte Anzahl der [[02 - RESOURCES/Notes/Hop\|Hop]]s / die Geschwindigkeit  über die Gesamtstrecke erstellt (der schnellest Weg ist der neueste Weg).
+>Im Fall einer Verbindungunterbrechung wird ein neuer Pfad durch die gesamte Anzahl der [[02 - RESOURCES/Notes/Hop\|Hop]]s / die Geschwindigkeit  über die Gesamtstrecke erstellt (die kleinste Anzahl an [[02 - RESOURCES/Notes/Hop\|Hop]]s /der schnellste Weg ist der neueste Weg).
 ![Dynamisches Routing-20240723121714162.png](/img/user/02%20-%20RESOURCES/Files/Dynamisches%20Routing-20240723121714162.png)
 
 >[!multi-column]
