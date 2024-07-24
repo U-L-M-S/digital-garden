@@ -5,3 +5,4 @@
 >Protokollen verantwortlich für die automatische Erkennung von den beste Weg bei [[02 - RESOURCES/Notes/Dynamisches Routing\|Dynamisches Routing]].
 
 [[02 - RESOURCES/Notes/Distanzvektor Routing\|Distanzvektor Routing]]
+[[02 - RESOURCES/Notes/Link-State Routing\|Link-State Routing]]
