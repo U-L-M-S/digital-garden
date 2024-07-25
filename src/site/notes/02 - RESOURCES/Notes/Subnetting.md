@@ -26,3 +26,4 @@
 >>- Zusätzliche Verwaltungskosten
 >>- Eingeschränkte Flexibilität
 
+[[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]
