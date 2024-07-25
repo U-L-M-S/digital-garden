@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/oktett/","tags":["netzwerk"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/oktett/","tags":["netzwerk/ip/ipv4"],"noteIcon":""}
 ---
 
 > Ein Gruppe von 8 Bits.

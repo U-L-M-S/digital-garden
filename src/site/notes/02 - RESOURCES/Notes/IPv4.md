@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-resources/notes/i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":""}
 ---
 
-> 32-bit-Binärzahlen, die in Dezimal dargestellt werden und mit "**.**"  getrennt sind.  
+> 32-bit-Binärzahlen, die in Dezimal dargestellt werden und mit "**.**"  in vier [[02 - RESOURCES/Notes/Oktett\|Oktett]]e getrennt sind.  
 
 	**192.168.42.98**
 
