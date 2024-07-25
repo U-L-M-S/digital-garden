@@ -16,7 +16,7 @@ Obwohl man eine [[02 - RESOURCES/Notes/static\|static]] IP Address haben kann, d
 >[!important] 
 >Bei **ALLEN** [[00 - PROJECTS/Netzwerk\|Netzwerk]] müssen **IMMER** zwei [[02 - RESOURCES/Notes/IP Address\|IP Address]]en reserviert werden.
 >
->1- Network Adress
+>1- Network Adresse
 >
 >2- [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]-Adresse
 
