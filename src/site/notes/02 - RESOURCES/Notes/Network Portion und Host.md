@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/network-portion-und-host/","tags":["netzwerk/ip","netzwerk/subnet-mask","netzwerk/network-portion","netzwerk/host"],"noteIcon":"","updated":"2024-07-17T10:12:54.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/network-portion-und-host/","tags":["netzwerk/ip","netzwerk/subnet-mask","netzwerk/network-portion","netzwerk/host"],"noteIcon":""}
 ---
 
 ## Network Portion und Host 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-24T15:46:43.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":""}
 ---
 
 > 32-bit-Binärzahlen, die in Dezimal dargestellt werden und mit "**.**"  getrennt sind.  
@@ -14,11 +14,11 @@ mit andere Wörtern wir können 2³²(4,3 Milliarden) [[02 - RESOURCES/Notes/IP 
 Obwohl man eine [[02 - RESOURCES/Notes/static\|static]] IP Address haben kann, die meisten von denen werden durch den  [[02 - RESOURCES/Notes/DHCP\|DHCP]] Protokoll in der Router vergeben (automatisch).
 
 >[!important] 
->Bei **ALLEN** [[00 - PROJECTS/Netzwerk\|Netzwerk]] müssen **IMMER** zwei IPs reserviert sein.
+>Bei **ALLEN** [[00 - PROJECTS/Netzwerk\|Netzwerk]] müssen **IMMER** zwei [[02 - RESOURCES/Notes/IP Address\|IP Address]]en reserviert werden.
 >
->1- Network Address 
+>1- Network Adress
 >
->2- Brodcast Address
+>2- [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]-Adresse
 
 Mit andere Wörter wenn ich ein [[02 - RESOURCES/Notes/IP Address\|IP Address]] wie 192.168.1.204 und ein [[02 - RESOURCES/Notes/Gateway\|Gateway]] wie 255.255.255.0 habe. Dann kann ich insgesamt 256 [[02 - RESOURCES/Notes/IP Address\|IP Address]] haben [192.168.1.**0**, 192.168.1.**1**, 192.168.1.**2**, ..., 192.168.1.**255** ]. 
 
