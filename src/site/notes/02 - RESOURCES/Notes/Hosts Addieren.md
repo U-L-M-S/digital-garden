@@ -4,7 +4,7 @@
 
 ## Hosts Addieren 
 
-Um Hosts zu addieren brauchst du die [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] in [[02 - RESOURCES/Notes/Binärzahlen\|Binärzahlen]].
+Um Hosts zu addieren brauchst du die [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] in [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]].
 
 **255.255.255.0** -> 11111111.11111111.11111111.00000000 
 

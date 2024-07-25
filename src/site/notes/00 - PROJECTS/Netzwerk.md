@@ -75,7 +75,7 @@ Für Subnetting brauchst du die folgende Kenntnissen:
 - [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]] 
 - [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] 
 - [[02 - RESOURCES/Notes/Gateway\|Gateway]] 
-- [[02 - RESOURCES/Notes/Binärzahlen\|Binärzahlen]]
+- [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]
 ___
 ### 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/hosts-herausfinden/#hosts-herausfinden" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -87,7 +87,7 @@ Nehmen wir an du hast diese Informationen:
 - [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]]:192.168.32.5/24
 - [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]:255.255.255.0
 
-um die Anzahl von mögliche [Hosts]([[02 - RESOURCES/Notes/Network Portion und Host#^099b19\|Network Portion und Host#^099b19]]) zu berechnen muss du nur den [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] in [[02 - RESOURCES/Notes/Binärzahlen\|Binärzahlen]] darstellen und dann die Formel verwenden: $2^{{n}}-2$ wobei **n** die Anzahl von Nullen ist.
+um die Anzahl von mögliche [Hosts]([[02 - RESOURCES/Notes/Network Portion und Host#^099b19\|Network Portion und Host#^099b19]]) zu berechnen muss du nur den [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] in [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]] darstellen und dann die Formel verwenden: $2^{{n}}-2$ wobei **n** die Anzahl von Nullen ist.
 
 255.255.255.0 -> 11111111.11111111.11111111.00000000 -> (8 Nullen)
 
@@ -108,7 +108,7 @@ $2^{{8}}-2=254$
 
 ## Hosts Addieren 
 
-Um Hosts zu addieren brauchst du die [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] in [[02 - RESOURCES/Notes/Binärzahlen\|Binärzahlen]].
+Um Hosts zu addieren brauchst du die [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] in [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]].
 
 **255.255.255.0** -> 11111111.11111111.11111111.00000000 
 
