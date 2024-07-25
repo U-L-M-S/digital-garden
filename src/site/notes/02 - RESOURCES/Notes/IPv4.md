@@ -20,7 +20,7 @@ Obwohl man eine [[02 - RESOURCES/Notes/static\|static]] IP Address haben kann, d
 >
 >2- [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]-Adresse
 
-Mit andere Wörter wenn ich ein [[02 - RESOURCES/Notes/IP Address\|IP Address]] wie 192.168.1.204 und ein [[02 - RESOURCES/Notes/Gateway\|Gateway]] wie 255.255.255.0 habe. Dann kann ich insgesamt 256 [[02 - RESOURCES/Notes/IP Address\|IP Address]] haben [192.168.1.**0**, 192.168.1.**1**, 192.168.1.**2**, ..., 192.168.1.**255** ]. 
+Wenn man ein [[02 - RESOURCES/Notes/IP Address\|IP Address]] wie 192.168.1.204 und ein [[02 - RESOURCES/Notes/Gateway\|Gateway]] wie 192.168.1.4 hat. Dann kann ich insgesamt 255 [[02 - RESOURCES/Notes/IP Address\|IP Address]] haben [192.168.1.**0**, 192.168.1.**1**, 192.168.1.**2**, ..., 192.168.1.**255** ]. 
 
 Nützen darf ich nur 253. Das sind alle die zwischen **1** und  **254** sind. 
 Da 192.168.1.0 reserviert ist, für den Netzwerk Address und soeben 192.168.1.255 für den Broadcast Address.
