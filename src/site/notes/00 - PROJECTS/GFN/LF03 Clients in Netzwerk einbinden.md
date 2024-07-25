@@ -6,6 +6,6 @@
 # I.
 In dieses Kapitel und nächste sollst du **viele** Begriffen Kennenlernen. 
 Netzwerk ist nicht nur  das [[02 - RESOURCES/Notes/Internet\|Internet]]. Sonder es bezieht sich auf viel mehr.
-Sowie Protokollen,  
+Sowie [[02 - RESOURCES/Notes/Protokoll\|Protokoll]]en,  
 # II.
 Das Erste, was wir in diesem Kapitel lernen, ist, dass es hauptsächlich zwei Arten von Netzwerken([[02 - RESOURCES/Notes/öffentlicher Netzbereich\|öffentlicher Netzbereich]] und das [[02 - RESOURCES/Notes/privater Netzbereich\|privater Netzbereich]]).

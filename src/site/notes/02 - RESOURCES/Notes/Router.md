@@ -11,4 +11,6 @@ Man soll Hauptsächlich nur ein Begriff kennen lernen wenn es um [[02 - RESOURCE
 
 ![Router-20240722190813246.png|280](/img/user/02%20-%20RESOURCES/Files/Router-20240722190813246.png)![Router-20240723100123014.png|275](/img/user/02%20-%20RESOURCES/Files/Router-20240723100123014.png)
 >[!note] 
->Standartig ist der [[02 - RESOURCES/Notes/Router\|Router]]-[[02 - RESOURCES/Notes/IP\|IP]] das erste [[02 - RESOURCES/Notes/IP\|IP]] nach den Netzwerk-ID
+>Standartig ist der [[02 - RESOURCES/Notes/Router\|Router]]-[[02 - RESOURCES/Notes/IP\|IP]] das erste [[02 - RESOURCES/Notes/IP\|IP]] nach den Netzwerk-ID **ODER** ein vor den [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]-[[IP-Adresse\|IP-Adresse]]
+
+[[02 - RESOURCES/Notes/IP Adresse\|IP Adresse]]

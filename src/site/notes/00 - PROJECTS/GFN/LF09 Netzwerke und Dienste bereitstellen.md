@@ -43,7 +43,7 @@ Die [[02 - RESOURCES/Notes/IGP\|IGP]] und [[02 - RESOURCES/Notes/EGP\|EGP]] sind
 
 >[!note] Thema IV. existiert nicht.
 
-# V. Subnetting
+# V. [[02 - RESOURCES/Notes/Subnetting\|Subnetting]]
 ___
 
 
