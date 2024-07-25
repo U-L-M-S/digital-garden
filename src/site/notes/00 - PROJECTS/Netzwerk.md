@@ -8,9 +8,9 @@
 >Es gibt verschiedene Typen von Netzwerken, darunter lokale Netzwerke ([[02 - RESOURCES/Notes/LAN\|LAN]]s), die Geräte innerhalb eines begrenzten geografischen Bereichs verbinden, und Weitverkehrsnetze ([[02 - RESOURCES/Notes/WAN\|WAN]]s), die Geräte über größere Entfernungen hinweg verbinden.
 >Netzwerke nutzen verschiedene Technologien und [[02 - RESOURCES/Notes/Protokoll\|Protokoll]]e, um sicherzustellen, dass Daten effizient und zuverlässig übertragen werden.
 
-[[02 - RESOURCES/Notes/IP Adresse\|IP Adresse]] wird in die Netzwerkkarte gefunden  und somit kann jeder Rechner/System, der ein [[02 - RESOURCES/Notes/IP Adresse\|IP Adresse]] hat identifiziert werden. Da jeder IP in eine [[00 - PROJECTS/Netzwerk\|Netzwerk]] Einzigartig ist.
+[[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]] wird in die Netzwerkkarte gefunden  und somit kann jeder Rechner/System, der ein [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]] hat identifiziert werden. Da jeder IP in eine [[00 - PROJECTS/Netzwerk\|Netzwerk]] Einzigartig ist.
 
-Es ist sehr wichtig zu wissen, dass [[02 - RESOURCES/Notes/Subnetzmaske\|Subnetzmaske]] / Subnetzmaske eine riesige Rolle spielt. Dadurch können wir die [[02 - RESOURCES/Notes/Network Portion und Host\|Network Portion und Host]] herauslesen und noch viel mehr machen.
+Es ist sehr wichtig zu wissen, dass [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] / Subnetzmaske eine riesige Rolle spielt. Dadurch können wir die [[02 - RESOURCES/Notes/Network Portion und Host\|Network Portion und Host]] herauslesen und noch viel mehr machen.
 
 So eben das [[02 - RESOURCES/Notes/Gateway\|Gateway]] ist eine notwendig Begriff.
 
@@ -72,8 +72,8 @@ Durch die Verwendung von  [[02 - RESOURCES/Notes/NAT\|NAT]] können wir mit nur 
 
 ## Subnetting
 Für Subnetting brauchst du die folgende Kenntnissen:
-- [[02 - RESOURCES/Notes/IP Adresse\|IP Adresse]] 
-- [[02 - RESOURCES/Notes/Subnetzmaske\|Subnetzmaske]] 
+- [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]] 
+- [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] 
 - [[02 - RESOURCES/Notes/Gateway\|Gateway]] 
 - [[02 - RESOURCES/Notes/Binärzahlen\|Binärzahlen]]
 ___
@@ -84,16 +84,16 @@ ___
 
 ## Hosts Herausfinden 
 Nehmen wir an du hast diese Informationen:
-- [[02 - RESOURCES/Notes/IP Adresse\|IP Adresse]]:192.168.32.5/24
-- [[02 - RESOURCES/Notes/Subnetzmaske\|Subnetzmaske]]:255.255.255.0
+- [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]]:192.168.32.5/24
+- [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]:255.255.255.0
 
-um die Anzahl von mögliche [Hosts]([[02 - RESOURCES/Notes/Network Portion und Host#^099b19\|Network Portion und Host#^099b19]]) zu berechnen muss du nur den [[02 - RESOURCES/Notes/Subnetzmaske\|Subnetzmaske]] in [[02 - RESOURCES/Notes/Binärzahlen\|Binärzahlen]] darstellen und dann die Formel verwenden: $2^{{n}}-2$ wobei **n** die Anzahl von Nullen ist.
+um die Anzahl von mögliche [Hosts]([[02 - RESOURCES/Notes/Network Portion und Host#^099b19\|Network Portion und Host#^099b19]]) zu berechnen muss du nur den [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] in [[02 - RESOURCES/Notes/Binärzahlen\|Binärzahlen]] darstellen und dann die Formel verwenden: $2^{{n}}-2$ wobei **n** die Anzahl von Nullen ist.
 
 255.255.255.0 -> 11111111.11111111.11111111.00000000 -> (8 Nullen)
 
 $2^{{8}}-2=254$ 
 >[!info] Reminder
-> Wir müssen 2 subtrahieren da wir 2 [[02 - RESOURCES/Notes/IP Adresse\|IP Adresse]] für Network Address und Broadcast Address brauchen.
+> Wir müssen 2 subtrahieren da wir 2 [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]] für Network Address und Broadcast Address brauchen.
 
 
 
@@ -108,7 +108,7 @@ $2^{{8}}-2=254$
 
 ## Hosts Addieren 
 
-Um Hosts zu addieren brauchst du die [[02 - RESOURCES/Notes/Subnetzmaske\|Subnetzmaske]] in [[02 - RESOURCES/Notes/Binärzahlen\|Binärzahlen]].
+Um Hosts zu addieren brauchst du die [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] in [[02 - RESOURCES/Notes/Binärzahlen\|Binärzahlen]].
 
 **255.255.255.0** -> 11111111.11111111.11111111.00000000 
 
@@ -133,7 +133,7 @@ und jetzt muss man die Anzahl von Bits in die Host umflippen.
 
 11111111.11111111.11111111.**00000000** ->  11111111.11111111.11111111.**11**000000 
 
-und jetzt haben wir eine neue [[02 - RESOURCES/Notes/Subnetzmaske\|Subnetzmaske]].
+und jetzt haben wir eine neue [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]].
 Die lautet: **255.255.255.192**
 und insgesamt haben wir /26 [[00 - PROJECTS/Netzwerk\|Netzwerk]]en.  
 

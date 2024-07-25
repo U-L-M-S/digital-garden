@@ -57,4 +57,4 @@ output :
 default via 172.16.0.1 dev wlan0 proto dhcp src 172.16.3.180 metric 600 
 default via 172.16.0.1 dev wlan0 proto dhcp src 172.16.3.222 metric 600 
 ```
-In this case I have two gateways, but the second is a backup (just ignore it) and the [[02 - RESOURCES/Notes/IP Adresse\|IP Adresse]] of my gateway is `172.16.0.1`. 
+In this case I have two gateways, but the second is a backup (just ignore it) and the [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]] of my gateway is `172.16.0.1`. 

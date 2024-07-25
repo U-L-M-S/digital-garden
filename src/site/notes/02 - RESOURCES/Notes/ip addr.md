@@ -11,7 +11,7 @@ path: Notes
 created: 2024-07-03 16:06
 ---
 > Zeig alle Informationen um das [[00 - PROJECTS/Netzwerk\|Netzwerk]].
-> [[02 - RESOURCES/Notes/IP Adresse\|IP Adresse]], [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]], usw
+> [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]], [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]], usw
 
 ```bash
 user1@home-server:~/Docker$ ip addr

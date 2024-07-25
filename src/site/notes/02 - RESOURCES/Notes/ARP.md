@@ -4,7 +4,7 @@
 
 > Address Resolution Protocol
 
-> Protokoll zum Auflösen der Netzwerkadressen ([[02 - RESOURCES/Notes/IP Adresse\|IP Adresse]]en und [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]])
+> Protokoll zum Auflösen der Netzwerkadressen ([[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]]en und [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]])
 
 
 ```sh
