@@ -15,9 +15,9 @@
 >[!multi-column]
 > 
 >>[!check] Vorteile
->>- Netzwerkverwaltung
+>>- [[00 - PROJECTS/Netzwerk\|Netzwerk]]verwaltung
 >>- Erhöhte Sicherheit
->>- Reduzierung des Broadcast-Verkehrs
+>>- Reduzierung des [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]-Verkehrs
 >>- Skalierbarkeit
 > 
 >>[!fail] Nachteile
