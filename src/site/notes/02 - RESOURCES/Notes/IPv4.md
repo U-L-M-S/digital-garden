@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-25T14:57:00.000+02:00"}
 ---
 
 > 32-bit-Binärzahlen, die in Dezimal dargestellt werden und mit "**.**"  in vier [[02 - RESOURCES/Notes/Oktett\|Oktett]]e getrennt sind.  
