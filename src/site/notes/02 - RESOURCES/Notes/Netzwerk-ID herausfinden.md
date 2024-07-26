@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-26T22:43:14.767+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-26T23:13:56.876+02:00"}
 ---
 
 >[!example] Beispiel
@@ -17,7 +17,7 @@ Daher wissen wir, das die 1. und 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]] sich
 >>| --- | --- |---|
 >>|  11000000   |  10101000  | [[02 - RESOURCES/Notes/IP\|IP]] |
 >>|  11111111   |  11111111  | [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] |
->>|  11111111   |  11111111  | [[02 - RESOURCES/Notes/AND-Operator\|AND-Operator]] |
+>>|  11111111   |  11111111  | [[02 - RESOURCES/Notes/OR-Operator\|OR-Operator]] |
 >
 ><mark style="background: #FFF3A3A6;">192.168</mark>
 >und den Rest mit 0 setzen:
@@ -26,8 +26,8 @@ Daher wissen wir, das die 1. und 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]] sich
 >> 
 >>| 1. [[02 - RESOURCES/Notes/Oktett\|Oktett]]    | 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]]    | 3. [[02 - RESOURCES/Notes/Oktett\|Oktett]] | 4. [[02 - RESOURCES/Notes/Oktett\|Oktett]] | Inhalt |
 >>| --- | --- |---| --- | ---|
->>|  11111111   |  11111111  |  00000000 |  00000000   | [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] |
 >>|  11000000   |  10101000  |  00000000 |  00000000   | [[02 - RESOURCES/Notes/IP\|IP]] |
+>>|  11111111   |  11111111  |  00000000 |  00000000   | [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] |
 >>|  11000000   |  10101000  |  00000000 |  00000000   | [[02 - RESOURCES/Notes/AND-Operator\|AND-Operator]] |
 >
 > [[02 - RESOURCES/Notes/Netzwerk-ID\|Netzwerk-ID]]: <mark style="background: #FFF3A3A6;">192.168.0.0</mark>
