@@ -10,7 +10,7 @@
 >- Verteilung der [[02 - RESOURCES/Notes/Netzlast\|Netzlast]]
 >- Örtliche oder organisatorische Aufteilung der [[00 - PROJECTS/Netzwerk\|Netzwerk]]
 >- Trennen von Netzwerken aus Sicherheitsgründen
->- Einschränkung der Anzahl der [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]]n in einem [[00 - PROJECTS/Netzwerk\|Netzwerk]]
+>- Einschränkung der Anzahl der [[IP-Adresse\|IP-Adresse]]n in einem [[00 - PROJECTS/Netzwerk\|Netzwerk]]
 
 >[!multi-column]
 > 
@@ -22,7 +22,7 @@
 > 
 >>[!fail] Nachteile
 >>- Komplexität
->>- Verlust von [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]]en
+>>- Verlust von [[IP-Adresse\|IP-Adresse]]en
 >>- Zusätzliche Verwaltungskosten
 >>- Eingeschränkte Flexibilität
 

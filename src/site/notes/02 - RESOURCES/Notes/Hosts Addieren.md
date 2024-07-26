@@ -8,7 +8,7 @@ Um Hosts zu addieren brauchst du die [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzw
 
 **255.255.255.0** -> 11111111.11111111.11111111.00000000 
 
-Um mehrere [[00 - PROJECTS/Netzwerk\|Netzwerk]]en hinzufügen muss du ein Teil von den Host Bits ([[02 - RESOURCES/Notes/Network Portion und Host#^099b19\|Network Portion und Host#^099b19]]) nehmen.
+Um mehrere [[00 - PROJECTS/Netzwerk\|Netzwerk]]en hinzufügen muss du ein Teil von den Host Bits ([[02 - RESOURCES/Notes/Netzanteil und Hostanteil#^099b19\|Netzanteil und Hostanteil#^099b19]]) nehmen.
 Nehmen wir an du willst 4 Networks dazu machen.
 Man muss erstmal die Standard Tabelle für Bits verdoppeln.
 

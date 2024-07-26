@@ -4,7 +4,7 @@
 
 > Network Address Translation
 
-NAT hat nicht anders gemacht außer bestimmte [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]] zu zunehmen und diese Private gemacht.
+NAT hat nicht anders gemacht außer bestimmte [[IP-Adresse\|IP-Adresse]] zu zunehmen und diese Private gemacht.
 D.H die Standard Tabelle für IP-Klassen [[02 - RESOURCES/Notes/IPv4#^872578\|IPv4#^872578]] sieht jetzt so aus:
 
 |          | -   |             Range             |   Subnet Mask   |

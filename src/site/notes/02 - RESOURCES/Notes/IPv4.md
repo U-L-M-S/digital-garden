@@ -10,17 +10,17 @@
 | :---: | :---: | :---: | :---: |
 | 11000000 | 10101000 | 00101010 | 01100010 |
 
-mit andere Wörtern wir können 2³²(4,3 Milliarden) [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]]en haben, da  es von 0.0.0.0 bis 255.255.255.255 sein kann.
+mit andere Wörtern wir können 2³²(4,3 Milliarden) [[IP-Adresse\|IP-Adresse]]en haben, da  es von 0.0.0.0 bis 255.255.255.255 sein kann.
 Obwohl man eine [[02 - RESOURCES/Notes/static\|static]] IP Address haben kann, die meisten von denen werden durch den  [[02 - RESOURCES/Notes/DHCP\|DHCP]] Protokoll in der Router vergeben (automatisch).
 
 >[!important] 
->Bei **ALLEN** [[00 - PROJECTS/Netzwerk\|Netzwerk]] müssen **IMMER** zwei [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]]en reserviert werden.
+>Bei **ALLEN** [[00 - PROJECTS/Netzwerk\|Netzwerk]] müssen **IMMER** zwei [[IP-Adresse\|IP-Adresse]]en reserviert werden.
 >
 >1- Network Adresse
 >
 >2- [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]-Adresse
 
-Wenn man ein [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]] wie 192.168.1.204 und ein [[02 - RESOURCES/Notes/Gateway\|Gateway]] wie 192.168.1.4 hat. Dann kann ich insgesamt 255 [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]] haben [192.168.1.**0**, 192.168.1.**1**, 192.168.1.**2**, ..., 192.168.1.**255** ]. 
+Wenn man ein [[IP-Adresse\|IP-Adresse]] wie 192.168.1.204 und ein [[02 - RESOURCES/Notes/Gateway\|Gateway]] wie 192.168.1.4 hat. Dann kann ich insgesamt 255 [[IP-Adresse\|IP-Adresse]] haben [192.168.1.**0**, 192.168.1.**1**, 192.168.1.**2**, ..., 192.168.1.**255** ]. 
 
 Nützen darf ich nur 253. Das sind alle die zwischen **1** und  **254** sind. 
 Da 192.168.1.0 reserviert ist, für den Netzwerk Address und soeben 192.168.1.255 für den Broadcast Address.
@@ -83,13 +83,13 @@ output :
 default via 172.16.0.1 dev wlan0 proto dhcp src 172.16.3.180 metric 600 
 default via 172.16.0.1 dev wlan0 proto dhcp src 172.16.3.222 metric 600 
 ```
-In this case I have two gateways, but the second is a backup (just ignore it) and the [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]] of my gateway is `172.16.0.1`. 
+In this case I have two gateways, but the second is a backup (just ignore it) and the [[IP-Adresse\|IP-Adresse]] of my gateway is `172.16.0.1`. 
 
 </div></div>
 
 
 Hier wird angezeigt, dass man zwei Netzkarten hat (1 und 2). Wobei `lo` steht für die Netzwerk via Kabel und `wlan0` via [[02 - RESOURCES/Notes/Wi-Fi\|Wi-Fi]]. 
-Mein [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]] lautet: `127.16.3.180`.
+Mein [[IP-Adresse\|IP-Adresse]] lautet: `127.16.3.180`.
 
 #### Windows
 

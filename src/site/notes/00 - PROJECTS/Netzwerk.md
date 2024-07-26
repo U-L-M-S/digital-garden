@@ -8,9 +8,9 @@
 >Es gibt verschiedene Typen von Netzwerken, darunter lokale Netzwerke ([[02 - RESOURCES/Notes/LAN\|LAN]]s), die Geräte innerhalb eines begrenzten geografischen Bereichs verbinden, und Weitverkehrsnetze ([[02 - RESOURCES/Notes/WAN\|WAN]]s), die Geräte über größere Entfernungen hinweg verbinden.
 >Netzwerke nutzen verschiedene Technologien und [[02 - RESOURCES/Notes/Protokoll\|Protokoll]]e, um sicherzustellen, dass Daten effizient und zuverlässig übertragen werden.
 
-[[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]] wird in die Netzwerkkarte gefunden  und somit kann jeder Rechner/System, der eine [[02 - RESOURCES/Notes/Netzwerkkarte\|Netzwerkkarte]]  hat identifiziert werden. Da jeder [[02 - RESOURCES/Notes/IP\|IP]] in eine [[00 - PROJECTS/Netzwerk\|Netzwerk]] Einzigartig ist.
+[[IP-Adresse\|IP-Adresse]] wird in die Netzwerkkarte gefunden  und somit kann jeder Rechner/System, der eine [[02 - RESOURCES/Notes/Netzwerkkarte\|Netzwerkkarte]]  hat identifiziert werden. Da jeder [[02 - RESOURCES/Notes/IP\|IP]] in eine [[00 - PROJECTS/Netzwerk\|Netzwerk]] Einzigartig ist.
 
-Es ist sehr wichtig zu wissen, dass [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] /[[02 - RESOURCES/Notes/Netzwerkmaske\|Subnetzmaske]] eine riesige Rolle spielt. Dadurch können wir die [[02 - RESOURCES/Notes/Network Portion und Host\|Network Portion und Host]] herauslesen und noch viel mehr machen.
+Es ist sehr wichtig zu wissen, dass [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] /[[02 - RESOURCES/Notes/Netzwerkmaske\|Subnetzmaske]] eine riesige Rolle spielt. Dadurch können wir die [[02 - RESOURCES/Notes/Netzanteil und Hostanteil\|Netzanteil und Hostanteil]] herauslesen und noch viel mehr machen.
 
 So eben das [[02 - RESOURCES/Notes/Gateway\|Gateway]] ist eine notwendig Begriff.
 
@@ -72,7 +72,7 @@ Durch die Verwendung von  [[02 - RESOURCES/Notes/NAT\|NAT]] können wir mit nur 
 
 ## Subnetting
 Für Subnetting brauchst du die folgende Kenntnissen:
-- [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]] 
+- [[IP-Adresse\|IP-Adresse]] 
 - [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] 
 - [[02 - RESOURCES/Notes/Gateway\|Gateway]] 
 - [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]
@@ -84,16 +84,16 @@ ___
 
 ## Hosts Herausfinden 
 Nehmen wir an du hast diese Informationen:
-- [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]]:192.168.32.5/24
+- [[02 - RESOURCES/Notes/IP\|IP]]:192.168.32.5/24
 - [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]:255.255.255.0
 
-um die Anzahl von mögliche [Hosts]([[02 - RESOURCES/Notes/Network Portion und Host#^099b19\|Network Portion und Host#^099b19]]) zu berechnen muss du nur den [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] in [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]] darstellen und dann die Formel verwenden: $2^{{n}}-2$ wobei **n** die Anzahl von Nullen ist.
+um die Anzahl von mögliche [Hosts]([[02 - RESOURCES/Notes/Netzanteil und Hostanteil#^099b19\|Netzanteil und Hostanteil#^099b19]]) zu berechnen muss du nur den [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] in [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]] darstellen und dann die Formel verwenden: $2^{{n}}-2$ wobei **n** die Anzahl von Nullen ist.
 
 255.255.255.0 -> 11111111.11111111.11111111.00000000 -> (8 Nullen)
 
 $2^{{8}}-2=254$ 
 >[!info] Reminder
-> Wir müssen 2 subtrahieren da wir 2 [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]] für Network Address und Broadcast Address brauchen.
+> Wir müssen 2 subtrahieren da wir 2 [[IP-Adresse\|IP-Adresse]] für Network Address und Broadcast Address brauchen.
 
 
 
@@ -112,7 +112,7 @@ Um Hosts zu addieren brauchst du die [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzw
 
 **255.255.255.0** -> 11111111.11111111.11111111.00000000 
 
-Um mehrere [[00 - PROJECTS/Netzwerk\|Netzwerk]]en hinzufügen muss du ein Teil von den Host Bits ([[02 - RESOURCES/Notes/Network Portion und Host#^099b19\|Network Portion und Host#^099b19]]) nehmen.
+Um mehrere [[00 - PROJECTS/Netzwerk\|Netzwerk]]en hinzufügen muss du ein Teil von den Host Bits ([[02 - RESOURCES/Notes/Netzanteil und Hostanteil#^099b19\|Netzanteil und Hostanteil#^099b19]]) nehmen.
 Nehmen wir an du willst 4 Networks dazu machen.
 Man muss erstmal die Standard Tabelle für Bits verdoppeln.
 
