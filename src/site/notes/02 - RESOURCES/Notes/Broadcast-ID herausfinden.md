@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/broadcast-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-27T00:27:35.044+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/broadcast-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-27T00:30:46.205+02:00"}
 ---
 
 >[!example] Bsp
@@ -17,7 +17,7 @@ und den Rest mit 1 setzen:
 >>| 1. [[02 - RESOURCES/Notes/Oktett\|Oktett]]    | 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]]    | 3. [[02 - RESOURCES/Notes/Oktett\|Oktett]] | 4. [[02 - RESOURCES/Notes/Oktett\|Oktett]] | Inhalt |
 >>| --- | --- |---| --- | ---|
 >>|  11000000   |  10101000  |  00000000 |  00000000   | [[02 - RESOURCES/Notes/IP\|IP]] |
->>|  11111111   |  11111111  |  00000000 |  00000000   | [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] |
->>|  11000000   |  10101000  |  11111111 |  11111111   | **[[02 - RESOURCES/Notes/IP\|IP]] unveränderbar** |
+>>|  11111111   |  11111111  |  <mark style="background: #FF5582A6;">00000000</mark> |  <mark style="background: #FF5582A6;">00000000</mark>   | [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] |
+>>|  11000000   |  10101000  |  <mark style="background: #FF5582A6;">11111111</mark> |  <mark style="background: #FF5582A6;">11111111</mark>   | **[[02 - RESOURCES/Notes/IP\|IP]] unveränderbar** |
 >
  [[02 - RESOURCES/Notes/Netzwerk-ID\|Netzwerk-ID]]: <mark style="background: #FFF3A3A6;">192.168.255.255</mark>
