@@ -8,6 +8,8 @@
 | :---------: | --- | :------------: | :------------: | :------------: | -------------- |
 | 192.168.1.4 | ->  |    11000000    |    10101000    |    00000001    | 00000100       |
 | 255.255.0.0 | ->  |    11111111    |    11111111    |    00000000    | 00000000       |
+Schon mit diese Info können wir die [[02 - RESOURCES/Notes/Netzwerk-ID herausfinden\|Netzwerk-ID herausfinden]] und so auch die [[02 - RESOURCES/Notes/Broadcast-ID herausfinden\|Broadcast-ID herausfinden]]
 
-Jetzt lass uns das [[02 - RESOURCES/Notes/Netzwerk-ID\|Netzwerk-ID]] von dieses [[02 - RESOURCES/Notes/IP\|IP]] (**192.168.1.4/16**) identifizieren.
-Da wir [[02 - RESOURCES/Notes/CIDR\|CIDR]] lesen können, können wir sagen, dass das [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] 255.255.0.0 lautet.
+
+>[!important] 
+>Das ist eine ein
