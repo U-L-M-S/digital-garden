@@ -1,15 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/broadcast-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-27T00:30:46.205+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/broadcast-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-27T00:38:45.964+02:00"}
 ---
 
 >[!example] Bsp
->Um den [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] zu identifizieren können wir das selbe Logik wie bei [[02 - RESOURCES/Notes/Netzwerk-ID herausfinden\|Netzwerk-ID herausfinden]] nutzen.
+>Um die [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] zu identifizieren, können wir  dieselbe Logik wie beim [[02 - RESOURCES/Notes/Netzwerk-ID herausfinden\|Netzwerk-ID herausfinden]] anwenden.
 >
 (**192.168.1.4/16**)
 >
-Da wir [[02 - RESOURCES/Notes/CIDR\|CIDR]] lesen können (/16), können wir sehen, dass das [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] 255.255.0.0 lautet und wir wissen auch dass das [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] immer die letzter [[02 - RESOURCES/Notes/IP\|IP]] in das [[00 - PROJECTS/Netzwerk\|Netzwerk]] ist.
+Da wir [[02 - RESOURCES/Notes/CIDR\|CIDR]] lesen können (/16),  sehen wir, dass die [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] 255.255.0.0 lautet. 
+Wir wissen auch, dass das [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] immer die letzte [[02 - RESOURCES/Notes/IP\|IP]] im [[00 - PROJECTS/Netzwerk\|Netzwerk]] ist.
 >
-Daher wissen wir das die 1. und 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]]en sich nicht ändern können und den [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] mit Binären ([[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]) 1 einsetzen und alle [[02 - RESOURCES/Notes/Bit\|Bit]]s von [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]]: 
+Daher wissen wir, dass die 1. und 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]]en sich nicht ändern können. Wir setzen die [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] mit [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en 1 auf und alle [[02 - RESOURCES/Notes/Bit\|Bit]]s des [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]] auf: 
 ><mark style="background: #FFF3A3A6;">192.168</mark>
 und den Rest mit 1 setzen:
 >>> [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en

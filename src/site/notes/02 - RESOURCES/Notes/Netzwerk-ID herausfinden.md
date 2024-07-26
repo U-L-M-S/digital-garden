@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-27T00:32:31.763+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-27T00:45:19.514+02:00"}
 ---
 
 >[!example] Beispiel
@@ -32,3 +32,9 @@ Daher wissen wir, das die 1. und 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]] sich
 >>|  <mark style="background: #BBFABBA6;">11000000</mark>   |  <mark style="background: #BBFABBA6;">10101000</mark>  |  00000000 |  00000000   | **[[02 - RESOURCES/Notes/IP\|IP]] unveränderbar** |
 >
 > [[02 - RESOURCES/Notes/Netzwerk-ID\|Netzwerk-ID]]: <mark style="background: #FFF3A3A6;">192.168.0.0</mark>
+
+Der Grund warum man mit den [[02 - RESOURCES/Notes/Bit\|Bit]]s/Tabel arbeitet ist um logische Fehler zu vermeiden wenn das gegebene  [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] nicht ein [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8 ist.
+Sieh Beispiel:
+
+>[!example] Bsp mit nicht [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8
+>Gegeben ist den [[02 - RESOURCES/Notes/IP\|IP]] 
