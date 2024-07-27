@@ -1,12 +1,46 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ip/","tags":["netzwerk/ip","netzwerk/gateway","netzwerk/subnet-mask","command","linux"],"noteIcon":"","updated":"2024-07-25T14:57:00.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ip/","tags":["netzwerk/ip","netzwerk/gateway","netzwerk/subnet-mask","command","linux"],"noteIcon":"","updated":"2024-07-27T17:08:51.384+02:00"}
 ---
 
 >Internet Protocol
 >>Standard Protokoll, der Weltweit verwendet wird um Rechners zu erkennen.
 >>Es kann [[02 - RESOURCES/Notes/IPv6\|IPv6]]  oder [[02 - RESOURCES/Notes/IPv4\|IPv4]] sein.
-### Arguments
-#### a
+
+## Command
+
+### Windows
+ 
+```bash
+ipconfig
+```
+output:
+```bash
+Windows IP-Konfiguration
+
+Ethernet-Adapter LAN-Verbindung:
+
+   Verbindungsspezifisches DNS-Suffix: lokaledomäne.local
+   Verbindungslokale IPv6-Adresse  . : fe80::abcd:1234:5678:9abc%12
+   IPv4-Adresse  . . . . . . . . . . : 192.168.1.100
+   Subnetzmaske  . . . . . . . . . . : 255.255.255.0
+   Standardgateway . . . . . . . . . : 192.168.1.1
+
+Drahtlos-LAN-Adapter WLAN:
+
+   Verbindungsspezifisches DNS-Suffix: lokaledomäne.local
+   Verbindungslokale IPv6-Adresse  . : fe80::1234:5678:abcd:9abc%11
+   IPv4-Adresse  . . . . . . . . . . : 192.168.0.200
+   Subnetzmaske  . . . . . . . . . . : 255.255.255.0
+   Standardgateway . . . . . . . . . : 192.168.0.1
+
+Tunneladapter LAN-Verbindung*:
+
+   Medienstatus. . . . . . . . . . . : Medium getrennt
+   Verbindungsspezifisches DNS-Suffix: 
+
+```
+
+### Linux
 ```bash
 ❯ ip a
 ```
@@ -47,14 +81,3 @@ output:
        valid_lft forever preferred_lft forever
 ```
 
-#### route 
-```bash
-❯ ip route show | grep default
-```
-output :
-```bash
-❯ ip route show | grep default
-default via 172.16.0.1 dev wlan0 proto dhcp src 172.16.3.180 metric 600 
-default via 172.16.0.1 dev wlan0 proto dhcp src 172.16.3.222 metric 600 
-```
-In this case I have two gateways, but the second is a backup (just ignore it) and the [[IP-Adresse\|IP-Adresse]] of my gateway is `172.16.0.1`. 

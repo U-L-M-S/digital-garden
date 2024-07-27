@@ -14,7 +14,7 @@ Es besteht als 6 Paaren von [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]].
 Das ersten 3 Paaren sind die Hersteller, d.h. dadurch kann man der Hersteller herausfinden.
 
 >[!tip] 
->Man kann das [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]] herausfinden mit den  [[02 - RESOURCES/Notes/ipconfig\|ipconfig]](Windows) oder [[02 - RESOURCES/Notes/ip addr\|ip addr]](Linux).
+>Man kann das [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]] herausfinden mit den  [[ipconfig\|ipconfig]](Windows) oder [[ip addr\|ip addr]](Linux).
 
 >[!note] 
 >Es befindet sich in die [[02 - RESOURCES/Notes/Layer 2\|Layer 2]] und kann in die [[02 - RESOURCES/Notes/Netzwerkkarte\|Netzwerkkarte]] gefunden werden.
