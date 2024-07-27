@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-27T12:01:29.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-27T18:47:15.669+02:00"}
 ---
 
 >[!example] Beispiel
@@ -37,4 +37,28 @@ Der Grund warum man mit den [[02 - RESOURCES/Notes/Bit\|Bit]]s/Tabel arbeitet is
 Sieh Beispiel:
 
 >[!example] Bsp mit nicht [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8
->Gegeben ist die [[02 - RESOURCES/Notes/IP\|IP]]  
+>Gegeben ist die [[02 - RESOURCES/Notes/IP\|IP]]  **198.154.27.0/22**.
+>Man denkt sich sofort, dass die [[02 - RESOURCES/Notes/Netzwerk-ID\|Netzwerk-ID]] **198.157.0.0** ist.
+>Das ist natürlich **falsch**. Artet auf den [[02 - RESOURCES/Notes/CIDR\|CIDR]]! Die Zahl ist keine [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8 und somit können wir am besten diese in eine Tabelle eintragen.
+>
+>>|  -  |    A     |    B     |        C        |    D     |  E  |  F  |  G  |     |
+>>| :-: | :------: | :------: | :-------------: | :------: | :-: | :-: | :-: | --- |
+>>|  1  |   198    |   154    |       27        |    0     |     |     |     |     |
+>>|  2  | 11000110 | 10011010 |  000110**11**   | 00000000 |     |     |     |     |
+>>|  3  | 11111111 | 11111111 |  111111**00**   | 00000000 | /22 |     |     |     |
+>>|  4  |          |          | `rir:ArrowDown` |          |     |     |     |     |
+>>|  5  |          |          | `rir:ArrowDown` |          |     |     |     |     |
+>>|  6  |   198    |   154    |       24        |    0     |     |     |     |     |
+>>|  7  | 11000110 | 10011010 |  000110**00**   | 00000000 |     |     |     |     |
+>>|  8  |          |          |                 |          |     |     |     |     |
+>>|  9  |          |          |                 |          |     |     |     |     |
+>
+>Die letzten **11** in C2 werden von die letzten **00** in C3 *nicht* berücksichtigen und daher gehören sie zu den [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]] 
+>
+
+ 
+
+
+
+
+

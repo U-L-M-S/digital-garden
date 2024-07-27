@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-27T17:33:23.415+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-27T18:44:08.121+02:00"}
 ---
 
->Zuerst lass uns einen Blick auf das werfen, was wir über [[02 - RESOURCES/Notes/IP\|IP]] und [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]n wissen. Sie bestehen aus [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en, die durch Punkte getrennt sind '.' und sie werden uns als Dezimal dargestellt.
+>Zuerst lass uns einen Blick auf das werfen, was wir über [[02 - RESOURCES/Notes/IP\|IP]] und [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]n wissen. 
+>Sie bestehen aus [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en, die durch Punkte getrennt sind '.' und sie werden uns als Dezimal dargestellt.
 
 |   Dezimal   | >   | 1. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e | 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e | 3. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e | 4. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e |
 | :---------: | --- | :------------: | :------------: | :------------: | -------------- |
