@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-27T18:47:15.669+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-27T23:14:50.096+02:00"}
 ---
 
 >[!example] Beispiel
@@ -44,21 +44,14 @@ Sieh Beispiel:
 >>|  -  |    A     |    B     |        C        |    D     |  E  |  F  |  G  |     |
 >>| :-: | :------: | :------: | :-------------: | :------: | :-: | :-: | :-: | --- |
 >>|  1  |   198    |   154    |       27        |    0     |     |     |     |     |
->>|  2  | 11000110 | 10011010 |  000110**11**   | 00000000 |     |     |     |     |
+>>|  2  | 11000110 | 10011010 |  <mark style="background: #FFB8EBA6;">000110**11**</mark>   | 00000000 |     |     |     |     |
 >>|  3  | 11111111 | 11111111 |  111111**00**   | 00000000 | /22 |     |     |     |
 >>|  4  |          |          | `rir:ArrowDown` |          |     |     |     |     |
 >>|  5  |          |          | `rir:ArrowDown` |          |     |     |     |     |
 >>|  6  |   198    |   154    |       24        |    0     |     |     |     |     |
->>|  7  | 11000110 | 10011010 |  000110**00**   | 00000000 |     |     |     |     |
+>>|  7  | 11000110 | 10011010 |  <mark style="background: #FFB8EBA6;">000110**00**</mark>   | 00000000 |     |     |     |     |
 >>|  8  |          |          |                 |          |     |     |     |     |
 >>|  9  |          |          |                 |          |     |     |     |     |
 >
->Die letzten **11** in C2 werden von die letzten **00** in C3 *nicht* berücksichtigen und daher gehören sie zu den [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]] 
->
-
- 
-
-
-
-
-
+>Die letzten **11** in C2 werden von die letzten **00** in C3 *nicht* berücksichtigen und daher gehören sie zu den [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]].
+>Somit können wir sagen, dass die [[02 - RESOURCES/Notes/Netzwerk-ID\|Netzwerk-ID]] hier **198.154.24.0** ist.
