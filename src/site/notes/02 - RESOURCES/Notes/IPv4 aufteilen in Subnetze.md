@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4-aufteilen-in-subnetze/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-28T00:31:02.095+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4-aufteilen-in-subnetze/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-28T01:00:20.380+02:00"}
 ---
 
 >Um das zumachen müssen wir erstens wissen wie viele Subnetze wir brauchen um die [[02 - RESOURCES/Notes/Bit\|Bit]]s bei den [[02 - RESOURCES/Notes/Netzanteil\|Netzanteil]] nach Rechts zu verschieben und ein Teil von den [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]] für sich zunehmen.
 >>$$2^{n}=gewünsche Anzahl Von Subnetze$$
 
-
->[!example] Anzahl der [[02 - RESOURCES/Notes/Bit\|Bit]]s Berechen
+[[02 - RESOURCES/Notes/Anzahl der Bits berechen\|Anzahl der Bits berechen]]
+>[!example] Anzahl der [[02 - RESOURCES/Notes/Bit\|Bit]]s berechen
 >
 >Nehmen wir an wir haben dieses [[02 - RESOURCES/Notes/IP\|IP]]: 192.168.0.0/24
 >und wir möchten diese Netz in 4 kleinere Subnetze unterteilen.
