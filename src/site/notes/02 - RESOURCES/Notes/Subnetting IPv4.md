@@ -25,8 +25,6 @@ Eine 3. und wichtige Information ist die Anzahl der verfügbaren [[02 - RESOURCE
 
 
 
->[!important] [[02 - RESOURCES/Notes/Netzanteil erweitern\|Netzanteil erweitern]]
-Als nächsten Schritt beim [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] müssen wir lernen, wie man den [[02 - RESOURCES/Notes/Netzanteil erweitern\|Netzanteil erweitern]] um kleinere [[00 - PROJECTS/Netzwerk\|Netzwerk]]en zu erstellen.
+>[!important] [[02 - RESOURCES/Notes/Netzanteil erweitern\|Netzanteil erweitern]] und [[02 - RESOURCES/Notes/Netzwerk unterteilen\|Netzwerk unterteilen]]
+Als nächsten Schritt beim [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] müssen wir lernen, wie man den [[02 - RESOURCES/Notes/Netzanteil erweitern\|Netzanteil erweitern]] um kleinere [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e zu erstellen, und schließlich die [[02 - RESOURCES/Notes/Netzwerk unterteilen\|Netzwerk unterteilen]] in kleinere [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e unterteilen.
 
-
->[[02 - RESOURCES/Notes/Netzwerk unterteilen\|Netzwerk unterteilen]]
