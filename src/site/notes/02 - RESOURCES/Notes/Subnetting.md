@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting/","tags":["netzwerk/ip","netzwerk/ip/ipv4","netzwerk/ip/ipv6","prüfungsrelevant"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting/","tags":["netzwerk/ip","netzwerk/ip/ipv4","netzwerk/ip/ipv6","prüfungsrelevant"],"noteIcon":"","updated":"2024-07-29T18:41:38.187+02:00"}
 ---
 
->Beim [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] wird ein großes Netz in kleinere Netze unterteilt. 
+>Beim [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] wird ein großes [[00 - PROJECTS/Netzwerk\|Netz]] in kleinere Netze unterteilt. 
 >Dies kann sowohl mit [[02 - RESOURCES/Notes/IPv4\|IPv4]] als auch mit [[02 - RESOURCES/Notes/IPv6\|IPv6]] durchgeführt werden.
 
 

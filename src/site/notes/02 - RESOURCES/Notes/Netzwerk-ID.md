@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-id/","tags":["netzwerk/ip"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-id/","tags":["netzwerk/ip"],"noteIcon":"","updated":"2024-07-26T14:19:34.000+02:00"}
 ---
 
 >Es ist immer das erste [[02 - RESOURCES/Notes/IP\|IP]] von jeder [[00 - PROJECTS/Netzwerk\|Netzwerk]].

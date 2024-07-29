@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-07-29T18:40:57.939+02:00"}
 ---
 
 # I. Switching
@@ -18,10 +18,10 @@ Andere Themen sowie [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]]n, [[02 - R
 ___
 Folgenden Themen über [[02 - RESOURCES/Notes/VLAN\|VLAN]]s werden hier berücksichtigen:
 - Was sind [[02 - RESOURCES/Notes/VLAN\|VLAN]]s, wo werden sie meistens eingesetzt und warum.
-- Broadcast ? Ja, Nein ?
+- [[02 - RESOURCES/Notes/Broadcast\|Broadcast]] ? Ja, Nein ?
 - [[02 - RESOURCES/Notes/Trunking und Tagging\|Trunking und Tagging]], was ist das und wofür man es braucht.
 
-# III.  Routing
+# III.  [[02 - RESOURCES/Notes/Routing\|Routing]]
 ___
 Der [[02 - RESOURCES/Notes/Router\|Router]] ist einer der wichtigsten Geräte in die [[00 - PROJECTS/Netzwerk\|Netzwerk]], er ermögliche hauptsächliche unsere Verbindung mit den Welt ([[02 - RESOURCES/Notes/Internet\|Internet]]).
 - Was macht der [[02 - RESOURCES/Notes/Router\|Router]].

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-29T18:42:06.034+02:00"}
 ---
 
 >Zuerst lass uns einen Blick auf das werfen, was wir über [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]n wissen. 
->>Sie bestehen aus [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en, die durch Punkte getrennt sind '.' und sie werden uns als Dezimal dargestellt.
+>>Sie bestehen aus [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en, die durch Punkte getrennt sind '.' und sie werden uns als [[02 - RESOURCES/Notes/Dezimal\|Dezimal]] dargestellt.
 
 |   Dezimal   | >   | 1. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e | 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e | 3. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e | 4. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e |
 | :---------: | --- | :------------: | :------------: | :------------: | -------------- |
@@ -28,3 +28,5 @@ Eine 3. und wichtige Information ist die Anzahl der verfügbaren [[02 - RESOURCE
 >[!important] [[02 - RESOURCES/Notes/Netzanteil erweitern\|Netzanteil erweitern]] und [[02 - RESOURCES/Notes/Netzwerk unterteilen\|Netzwerk unterteilen]]
 Als nächsten Schritt beim [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] müssen wir lernen, wie man den [[02 - RESOURCES/Notes/Netzanteil erweitern\|Netzanteil erweitern]] um kleinere [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e zu erstellen, und schließlich die [[02 - RESOURCES/Notes/Netzwerk unterteilen\|Netzwerk unterteilen]] in kleinere [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e unterteilen.
 
+
+>[!hint] [[02 - RESOURCES/Notes/Subnetz bestimmen\|Subnetz bestimmen]]
