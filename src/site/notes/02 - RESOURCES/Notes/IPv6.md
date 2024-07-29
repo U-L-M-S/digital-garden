@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["netzwerk/ip/ipv6","prüfungsrelevant"],"noteIcon":"","updated":"2024-07-29T22:24:06.236+02:00"}
 ---
 
->128-[[02 - RESOURCES/Notes/Bit\|bit]]-[[02 - RESOURCES/Notes/Binärzahlen\|Binärzahlen]], die in [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt werden und 
+>128-[[02 - RESOURCES/Notes/Bit\|bit]]-[[Binärzahlen\|Binärzahlen]], die in [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt werden und 
 >mit "**:**" getrennt sind( 8 Gruppen) und es wird als [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt.
 >>Es ist der Nachfolger von [[02 - RESOURCES/Notes/IPv4\|IPv4]].
 

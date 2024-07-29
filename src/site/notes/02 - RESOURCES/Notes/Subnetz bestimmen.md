@@ -12,7 +12,7 @@
 > 24=162^{4}=1624=16  
 > 192.152.0.0/28
 > 
-> Jetzt müssen wir mit [[02 - RESOURCES/Notes/Binärzahlen\|Binärzahlen]] arbeiten.  
+> Jetzt müssen wir mit [[Binärzahlen\|Binärzahlen]] arbeiten.  
 > ID1->0000  
 > ID2->0001  
 > ID3->0010  
