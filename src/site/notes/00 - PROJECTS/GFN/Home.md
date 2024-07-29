@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # Hallo zusammen 😄 
@@ -32,3 +32,8 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 [[00 - PROJECTS/GFN/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]]
 
 
+>[!important] Achtung
+Diese Website steht in keiner Verbindung mit der GFN GmbH. Sie wurde von ehrenamtlichen Teilnehmern der GFN GmbH erstellt, gehostet und gepflegt.
+>
+>Jeder, der interessiert ist, sich zu beteiligen, ist herzlich eingeladen.
+>- [GitHub](https://github.com/U-L-M-S/obsidian)
