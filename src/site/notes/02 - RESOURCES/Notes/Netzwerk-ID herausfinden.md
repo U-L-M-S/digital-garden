@@ -41,17 +41,17 @@ Sieh Beispiel:
 >Man denkt sich sofort, dass die [[02 - RESOURCES/Notes/Netzwerk-ID\|Netzwerk-ID]] **198.157.0.0** ist.
 >Das ist natürlich **falsch**. Artet auf den [[02 - RESOURCES/Notes/CIDR\|CIDR]]! Die Zahl ist keine [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8 und somit können wir am besten diese in eine Tabelle eintragen.
 >
->>|  -  |    A     |    B     |        C        |    D     |  E  |  F  |  G  |     |
+>>|  -  |    A     |    B     |        C        |    D     |  E  | 
 >>| :-: | :------: | :------: | :-------------: | :------: | :-: | 
->>|  1  |   198    |   154    |       27        |    0     |     |     |     |     |
->>|  2  | 11000110 | 10011010 |  <mark style="background: #FFB8EBA6;">000110**11**</mark>   | 00000000 |     |     |     |     |
->>|  3  | 11111111 | 11111111 |  111111**00**   | 00000000 | /22 |     |     |     |
->>|  4  |          |          | **↓** |          |     |     |     |     |
->>|  5  |          |          | **↓** |          |     |     |     |     |
->>|  6  |   198    |   154    |       24        |    0     |     |     |     |     |
->>|  7  | 11000110 | 10011010 |  <mark style="background: #FFB8EBA6;">000110**00**</mark>   | 00000000 |     |     |     |     |
->>|  8  |          |          |                 |          |     |     |     |     |
->>|  9  |          |          |                 |          |     |     |     |     |
+>>|  1  |   198    |   154    |       27        |    0     |     |     
+>>|  2  | 11000110 | 10011010 |  <mark style="background: #FFB8EBA6;">000110**11**</mark>   | 00000000 |     |
+>>|  3  | 11111111 | 11111111 |  111111**00**   | 00000000 | /22 |     
+>>|  4  |          |          | **↓** |          |     | 
+>>|  5  |          |          | **↓** |          |     | 
+>>|  6  |   198    |   154    |       24        |    0     |     |
+>>|  7  | 11000110 | 10011010 |  <mark style="background: #FFB8EBA6;">000110**00**</mark>   | 00000000 |     |
+>>|  8  |          |          |                 |          |     |
+>>|  9  |          |          |                 |          |     |
 >
 >Die letzten **11** in C2 werden von die letzten **00** in C3 *nicht* berücksichtigen und daher gehören sie zu den [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]].
 >Somit können wir sagen, dass die [[02 - RESOURCES/Notes/Netzwerk-ID\|Netzwerk-ID]] hier **198.154.24.0** ist.
