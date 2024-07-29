@@ -10,5 +10,5 @@ created: 2024-05-08 15:26
 
 [[02 - RESOURCES/Notes/WAN\|WAN]]
 [[02 - RESOURCES/Notes/LPWAN\|LPWAN]]
-[[02 - RESOURCES/Notes/MAN\|MAN]]
+[[MAN\|MAN]]
 [[02 - RESOURCES/Notes/GAN\|GAN]]
