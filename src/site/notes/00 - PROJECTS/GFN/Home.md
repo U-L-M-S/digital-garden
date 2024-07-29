@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","updated":"2024-07-29T14:55:32.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry"],"noteIcon":"","updated":"2024-07-29T22:34:41.204+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -10,7 +10,7 @@ Ich hoffe es gefällt euch!
 
 PS: Alle Zusammenfassungen wurde von mir erstellt (Jemand der deutsch nicht als Muttersprachen hat). Mit andere Wörter: erwartet nicht von mir ein **super**-hochdeutsch (Das heißt meine Satzbildung so einfach sein wird, dass sogar Ausländer die verstehen können).
 
-Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-L-M-S/obsidian) pushen.
+Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-L-M-S/digital-garden) pushen.
 
 >[!important] 
 >Dokumente wie PDF, World und usw (Textdokumente) 
@@ -38,5 +38,5 @@ ___
 Diese Website steht in keiner Verbindung mit der GFN GmbH. Sie wurde von ehrenamtlichen Teilnehmern der GFN GmbH erstellt, gehostet und gepflegt.
 >
 >Jeder, der interessiert ist, sich zu beteiligen, ist herzlich eingeladen.
->- [GitHub](https://github.com/U-L-M-S/obsidian)
+>- [GitHub](https://github.com/U-L-M-S/digital-garden)
 
