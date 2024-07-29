@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-29T18:42:06.034+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-29T22:16:08.210+02:00"}
 ---
 
 >Zuerst lass uns einen Blick auf das werfen, was wir über [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]n wissen. 
@@ -30,3 +30,5 @@ Als nächsten Schritt beim [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] müss
 
 
 >[!hint] [[02 - RESOURCES/Notes/Subnetz bestimmen\|Subnetz bestimmen]]
+>Mit dieser Methode können wir [[02 - RESOURCES/Notes/Netzwerk-ID\|Netzwerk-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] bestimmter  [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]en herausfinden, ohne die ganze Rechnerei und Tabelldarstellung.
+
