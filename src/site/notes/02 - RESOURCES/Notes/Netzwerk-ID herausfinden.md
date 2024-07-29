@@ -42,7 +42,7 @@ Sieh Beispiel:
 >Das ist natürlich **falsch**. Artet auf den [[02 - RESOURCES/Notes/CIDR\|CIDR]]! Die Zahl ist keine [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8 und somit können wir am besten diese in eine Tabelle eintragen.
 >
 >>|  -  |    A     |    B     |        C        |    D     |  E  |  F  |  G  |     |
->>| :-: | :------: | :------: | :-------------: | :------: | :-: | :-: | :-: | --- |
+>>| :-: | :------: | :------: | :-------------: | :------: | :-: | 
 >>|  1  |   198    |   154    |       27        |    0     |     |     |     |     |
 >>|  2  | 11000110 | 10011010 |  <mark style="background: #FFB8EBA6;">000110**11**</mark>   | 00000000 |     |     |     |     |
 >>|  3  | 11111111 | 11111111 |  111111**00**   | 00000000 | /22 |     |     |     |
