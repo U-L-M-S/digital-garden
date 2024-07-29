@@ -8,9 +8,3 @@
 | :---------: | --- | :--------: | :--------: | :--------: | :--------: |
 | Subnet Mask | -   |    255     |    255     |    255     |     0      |
 |     IP      | -   |    192     |    168     |     1      |    204     |
-
-{ #099b19}
-
-
->[!important] 
->Es kann passiert dass das [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] nicht in eine 
