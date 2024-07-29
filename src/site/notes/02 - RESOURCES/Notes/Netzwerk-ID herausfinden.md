@@ -33,7 +33,7 @@ Daher wissen wir, das die 1. und 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]] sich
 >
 > [[02 - RESOURCES/Notes/Netzwerk-ID\|Netzwerk-ID]]: <mark style="background: #FFF3A3A6;">192.168.0.0</mark>
 
-Der Grund warum man mit den [[02 - RESOURCES/Notes/Bit\|Bit]]s/Tabel arbeitet ist um logische Fehler zu vermeiden wenn das gegebene  [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] nicht ein [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8 ist.
+Der Grund warum man mit den [[02 - RESOURCES/Notes/Bit\|Bit]]s/Tabell arbeitet ist um logische Fehler zu vermeiden wenn das gegebene  [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] nicht ein [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8 ist.
 Sieh Beispiel:
 
 >[!example] Bsp mit nicht [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8
