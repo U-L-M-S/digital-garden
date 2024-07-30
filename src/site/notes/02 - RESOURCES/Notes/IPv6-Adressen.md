@@ -1,30 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["netzwerk/ip/ipv6","prüfungsrelevant"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6-adressen/","tags":["netzwerk/ip/ipv6"],"noteIcon":""}
 ---
-
->128-[[02 - RESOURCES/Notes/Bit\|bit]]-[[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en, die in [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt werden und 
->mit "**:**" getrennt sind( 8 Gruppen) und es wird als [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt.
->>Es ist der Nachfolger von [[02 - RESOURCES/Notes/IPv4\|IPv4]].
-
-
-```
-2001:0db8:85a3:0000:0000:8a2e:0000:7334
-```
-
-|          2001          |          0db8          |          85a3          |          0000          |          0000          |          8a2e          |          0370          |          7334          |
-| :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: |
-| 0010\|0000\|0000\|0001 | 0000\|1101\|1110\|1000 | 1000\|0101\|1010\|0011 | 0000\|0000\|0000\|0000 | 0000\|0000\|0000\|0000 | 1000\|1010\|0010\|1110 | 0000\|0011\|0111\|0000 | 0111\|0011\|0011\|0100 |
-
->[!important]  
-Da [[02 - RESOURCES/Notes/IPv6\|IPv6]] lang ist, wurden bestimmte Regeln eingesetzt, um ihn lesbar zu machen. Bei diesen Regeln wird nur die [[02 - RESOURCES/Notes/IPv6-Verkürzung\|IPv6-Verkürzung]] verwendet.
-
->[!note] 
->Es immer wichtig auf die ersten [[02 - RESOURCES/Notes/Bit\|Bit]]s von [[02 - RESOURCES/Notes/IPv6\|IPv6]] zu achten. Da man es erkennen kann welche Art von Adresse es sich handelt.
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/i-pv6-adressen/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 > [[02 - RESOURCES/Notes/IPv6\|IPv6]] verwendet keine Klassen wie bei [[02 - RESOURCES/Notes/IPv4\|IPv4]] ([[02 - RESOURCES/Notes/IPv4-Klassen\|IPv4-Klassen]]).
 > Sonder, es verwendet 3 Arten von Adressen und jeder Adresse ist für irgendwas bestimmt.
@@ -89,10 +65,6 @@ indem man die ersten Bits der Adresse betrachtet.
 
 
 </div></div>
-
-
-</div></div>
-
 
 
 </div></div>

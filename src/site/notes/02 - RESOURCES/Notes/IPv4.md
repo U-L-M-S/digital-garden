@@ -14,13 +14,13 @@ mit andere Wörtern wir können 2³²(4,3 Milliarden) [[IP-Adresse\|IP-Adresse]]
 Obwohl man eine [[02 - RESOURCES/Notes/static\|static]] [[02 - RESOURCES/Notes/IP\|IP]]  haben kann, die meisten von denen werden durch den  [[02 - RESOURCES/Notes/DHCP\|DHCP]] [[02 - RESOURCES/Notes/Protokoll\|Protokoll]] in der [[02 - RESOURCES/Notes/Router\|Router]] vergeben (automatisch).
 
 >[!important] 
->Bei **ALLEN** [[00 - PROJECTS/Netzwerk\|Netzwerk]] müssen **IMMER** zwei [[IP-Adresse\|IP-Adresse]]en reserviert werden.
+>Bei **ALLEN** [[00 - PROJECTS/Netzwerk\|Netzwerk]] müssen **IMMER** zwei [[02 - RESOURCES/Notes/IP\|IP]] reserviert werden.
 >
 >1- Network Adresse
 >
 >2- [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]-Adresse
 
-Wenn man ein [[IP-Adresse\|IP-Adresse]] wie 192.168.1.204 und ein [[02 - RESOURCES/Notes/Gateway\|Gateway]] wie 192.168.1.4 hat. Dann kann ich insgesamt 255 [[IP-Adresse\|IP-Adresse]] haben [192.168.1.**0**, 192.168.1.**1**, 192.168.1.**2**, ..., 192.168.1.**255** ]. 
+Wenn man ein [[02 - RESOURCES/Notes/IP\|IP]] wie 192.168.1.204 und ein [[02 - RESOURCES/Notes/Gateway\|Gateway]] wie 192.168.1.4 hat. Dann kann ich insgesamt 255 [[02 - RESOURCES/Notes/IP\|IP]] haben [192.168.1.**0**, 192.168.1.**1**, 192.168.1.**2**, ..., 192.168.1.**255** ]. 
 
 Nützen darf ich nur 253. Das sind alle die zwischen **1** und  **254** sind. 
 Da 192.168.1.0 reserviert ist, für den [[00 - PROJECTS/Netzwerk\|Netzwerk]] Address und soeben 192.168.1.255 für den [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] 
@@ -54,23 +54,7 @@ ipconfig
 </div></div>
 
 Hier kannst du sehen, dass mein [[02 - RESOURCES/Notes/IP\|IP]] ([[02 - RESOURCES/Notes/WLAN\|WLAN]]) `192.168.0.200` ist
-### Klassen
-IPv4 wurde in 5 Klassen unterteilt:
 
-|          | -   |            Range            |           Subnet Mask           |
-| :------: | --- | :-------------------------: | :-----------------------------: |
-| Klasse A | -   |  1.0.0.0 - 126.255.255.255  |           *255*.0.0.0           |
-| Klasse B | -   |   128.0.0.0 - 191.255.0.0   |          *255.255*.0.0          |
-| Klasse C | -   |  192.0.0.0 - 223.255.255.0  |         *255.255.255*.0         |
-| Klasse D | -   | 224.0.0.0 - 239.255.255.255 | Reserviert für [[02 - RESOURCES/Notes/Multicast\|Multicast]]ing |
-| Klasse E | -   | 240.0.0.0 - 255.255.255.255 |          Experimental           |
-{ #872578}
-
-
->[!important] 
->
-Heutzutage wird meistens **Klasse C** bei die meisten [[02 - RESOURCES/Notes/Router\|Router]] verwendet, die man zuhause hat.
-
-
->[!tip] There is not place like home
->Zwischen Klasse A und B sind die Adressen 127.0.0.0 nicht gelistet. Sie sind die [[02 - RESOURCES/Notes/loop back address\|loop back address]]
+>[!important] [[02 - RESOURCES/Notes/IPv4-Klassen\|IPv4-Klassen]]
+>Es gibt 5 Arten von [[02 - RESOURCES/Notes/IPv4\|IPv4]] und diese wurde in Klassen unterteilen.
+>Hier sind die [[02 - RESOURCES/Notes/IPv4-Klassen\|IPv4-Klassen]].

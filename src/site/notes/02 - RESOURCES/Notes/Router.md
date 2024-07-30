@@ -11,17 +11,23 @@ Man soll Hauptsächlich nur ein Begriff kennen lernen wenn es um [[02 - RESOURCE
 
 ![Router-20240722190813246.png|280](/img/user/02%20-%20RESOURCES/Files/Router-20240722190813246.png)![Router-20240723100123014.png|275](/img/user/02%20-%20RESOURCES/Files/Router-20240723100123014.png)
 >[!note] 
->Standartig ist der [[02 - RESOURCES/Notes/Router\|Router]]-[[02 - RESOURCES/Notes/IP\|IP]] das erste [[02 - RESOURCES/Notes/IP\|IP]] nach den Netzwerk-ID **ODER** ein vor den [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]-[[02 - RESOURCES/Notes/IP\|IP]]
+>Standartig ist der [[02 - RESOURCES/Notes/Router\|Router]]-[[02 - RESOURCES/Notes/IP\|IP]] das erste [[02 - RESOURCES/Notes/IP\|IP]] nach den [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] **ODER** ein vor den [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]-[[02 - RESOURCES/Notes/IP\|IP]]
 
 
-## Command 
+## [[02 - RESOURCES/Notes/Router\|Router]]-[[02 - RESOURCES/Notes/IP\|IP]] 
+>Unter Linux kann man die [[02 - RESOURCES/Notes/IP\|IP]] von den [[02 - RESOURCES/Notes/Router\|Router]] so abrufen.
+>Aber das ist das [[02 - RESOURCES/Notes/Gateway\|Gateway]]. D.h ein private [[02 - RESOURCES/Notes/IP\|IP]].
 ```bash
 ❯ ip route show | grep default
 ```
 output :
 ```bash
 ❯ ip route show | grep default
-default via 172.16.0.1 dev wlan0 proto dhcp src 172.16.3.180 metric 600 
-default via 172.16.0.1 dev wlan0 proto dhcp src 172.16.3.222 metric 600 
+default via 172.31.32.1 dev eth0 proto kernel
 ```
-In this case I have two gateways, but the second is a backup (just ignore it) and the [[IP-Adresse\|IP-Adresse]] of my gateway is `172.16.0.1`. 
+
+Wenn du den Public [[02 - RESOURCES/Notes/IP\|IP]] von den Router willst muss du die Info von außer holen.
+```bash
+❯ curl ipinfo.io/ip
+213.164.90.5
+```
