@@ -26,8 +26,7 @@
 >>- Zusätzliche Verwaltungskosten
 >>- Eingeschränkte Flexibilität
 
-[[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]
-## [[02 - RESOURCES/Notes/IPv6\|IPv6]]
-Es funktioniert genau wie bei [[02 - RESOURCES/Notes/IPv4\|IPv4]]. [[02 - RESOURCES/Notes/IPv6\|IPv6]] hat aber eine [[02 - RESOURCES/Notes/Bit\|Bit]]sanzahl von 128 [[02 - RESOURCES/Notes/Bit\|Bit]]s und keine [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] oder [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]]
-Daher:
-$$2^{128-mask_{bits}}$$
+>[!summary] Algorithm
+>So funktioniert das Algorithm für die Subnetting bei [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[02 - RESOURCES/Notes/IPv6\|IPv6]]
+>- [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]
+>- [[02 - RESOURCES/Notes/Subnetting IPv6\|Subnetting IPv6]]

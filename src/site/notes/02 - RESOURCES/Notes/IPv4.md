@@ -3,8 +3,11 @@
 ---
 
 > 32-[[02 - RESOURCES/Notes/Bit\|bit]]-Binärzahlen, die in [[02 - RESOURCES/Notes/Dezimal\|Dezimal]] dargestellt werden und mit "**.**"  in vier [[02 - RESOURCES/Notes/Oktett\|Oktett]]e getrennt sind.  
+>>$$2^{32}$$
 
-	**192.168.42.98**
+
+
+	192.168.42.98
 
 | 192 | 168 | 42 | 98 |
 | :---: | :---: | :---: | :---: |

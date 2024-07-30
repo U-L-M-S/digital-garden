@@ -4,6 +4,8 @@
 
 >128-[[02 - RESOURCES/Notes/Bit\|bit]]-[[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en, die in [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt werden und 
 >mit "**:**" getrennt sind( 8 Gruppen) und es wird als [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt.
+>Jeder **Block** ist 16 [[02 - RESOURCES/Notes/Bit\|Bit]]-Lang und bei [[02 - RESOURCES/Notes/IPv6\|IPv6]] gibt's kein [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] sowie bei [[02 - RESOURCES/Notes/IPv4\|IPv4]], sonder ein [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] (**Standard /64**) und dieser hat das selbe Aufgabe wie der [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] bei [[02 - RESOURCES/Notes/IPv4\|IPv4]].
+>$$2^{128}$$
 >>Es ist der Nachfolger von [[02 - RESOURCES/Notes/IPv4\|IPv4]].
 
 
@@ -14,6 +16,8 @@
 |          2001          |          0db8          |          85a3          |          0000          |          0000          |          8a2e          |          0370          |          7334          |
 | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: |
 | 0010\|0000\|0000\|0001 | 0000\|1101\|1110\|1000 | 1000\|0101\|1010\|0011 | 0000\|0000\|0000\|0000 | 0000\|0000\|0000\|0000 | 1000\|1010\|0010\|1110 | 0000\|0011\|0111\|0000 | 0111\|0011\|0011\|0100 |
+>Ich habe jeder 4. Bit getrennt (|) damit man es besser erkennen kann.
+>Es ist einfacherer [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] zu [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]] umzuwandeln als zu [[02 - RESOURCES/Notes/Dezimal\|Dezimal]].
 
 >[!important]  
 Da [[02 - RESOURCES/Notes/IPv6\|IPv6]] lang ist, wurden bestimmte Regeln eingesetzt, um ihn lesbar zu machen. Bei diesen Regeln wird nur die [[02 - RESOURCES/Notes/IPv6-Verkürzung\|IPv6-Verkürzung]] verwendet.
