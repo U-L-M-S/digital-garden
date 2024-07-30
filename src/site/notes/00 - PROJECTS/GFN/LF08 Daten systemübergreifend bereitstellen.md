@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java"],"noteIcon":"","updated":"2024-07-03T14:28:08.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java"],"noteIcon":""}
 ---
 
 ## IV. [[02 - RESOURCES/Notes/Software-Ergonomie\|Software-Ergonomie]] von Benutzerschnittstellen

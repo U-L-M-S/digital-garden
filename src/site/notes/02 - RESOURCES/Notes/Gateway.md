@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/gateway/","tags":["netzwerk/gateway"],"noteIcon":"","updated":"2024-07-25T14:56:59.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/gateway/","tags":["netzwerk/gateway"],"noteIcon":""}
 ---
 
 ## gateway 
@@ -22,6 +22,8 @@ Gateway oder Default Gateway ist nicht anders als die private [[IP-Adresse\|IP-A
 ```bash
 ipconfig
 ```
+
+
 output:
 ```bash
 Windows IP-Konfiguration
@@ -53,6 +55,8 @@ Tunneladapter LAN-Verbindung*:
 ```bash
 ❯ ip a
 ```
+
+
 output:
 ```bash
 ❯ ip a
@@ -110,6 +114,8 @@ output:
 ```bash
 ipconfig
 ```
+
+
 output:
 ```bash
 Windows IP-Konfiguration
@@ -141,6 +147,8 @@ Tunneladapter LAN-Verbindung*:
 ```bash
 ❯ ip a
 ```
+
+
 output:
 ```bash
 ❯ ip a

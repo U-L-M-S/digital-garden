@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dns/","tags":["netzwerk/dns"],"noteIcon":"","updated":"2024-07-08T14:03:10.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dns/","tags":["netzwerk/dns"],"noteIcon":""}
 ---
 
 > Domain Name System

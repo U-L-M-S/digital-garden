@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ip/","tags":["netzwerk/ip","netzwerk/gateway","netzwerk/subnet-mask","command","linux"],"noteIcon":"","updated":"2024-07-27T17:08:51.384+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ip/","tags":["netzwerk/ip","netzwerk/gateway","netzwerk/subnet-mask","command","linux"],"noteIcon":""}
 ---
 
 >Internet Protocol
@@ -13,6 +13,9 @@
 ```bash
 ipconfig
 ```
+{ #0f192b}
+
+
 output:
 ```bash
 Windows IP-Konfiguration
@@ -44,6 +47,9 @@ Tunneladapter LAN-Verbindung*:
 ```bash
 ❯ ip a
 ```
+{ #d26d3a}
+
+
 output:
 ```bash
 ❯ ip a

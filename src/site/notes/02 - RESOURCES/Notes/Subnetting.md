@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting/","tags":["netzwerk/ip","netzwerk/ip/ipv4","netzwerk/ip/ipv6","prüfungsrelevant"],"noteIcon":"","updated":"2024-07-29T22:16:49.081+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting/","tags":["netzwerk/ip","netzwerk/ip/ipv4","netzwerk/ip/ipv6","prüfungsrelevant"],"noteIcon":""}
 ---
 
 >Beim [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] wird ein großes [[00 - PROJECTS/Netzwerk\|Netz]] in kleinere Netze unterteilt. 
@@ -28,6 +28,6 @@
 
 [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]
 ## [[02 - RESOURCES/Notes/IPv6\|IPv6]]
-Es funktioniert genau wie bei [[02 - RESOURCES/Notes/IPv4\|IPv4]]. [[02 - RESOURCES/Notes/IPv6\|IPv6]] hat aber eine [[02 - RESOURCES/Notes/Bit\|Bit]]sanzahl von 128 [[02 - RESOURCES/Notes/Bit\|Bit]]s und keine [[02 - RESOURCES/Notes/Netzwerk-ID\|Netzwerk-ID]] oder [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]]
+Es funktioniert genau wie bei [[02 - RESOURCES/Notes/IPv4\|IPv4]]. [[02 - RESOURCES/Notes/IPv6\|IPv6]] hat aber eine [[02 - RESOURCES/Notes/Bit\|Bit]]sanzahl von 128 [[02 - RESOURCES/Notes/Bit\|Bit]]s und keine [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] oder [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]]
 Daher:
 $$2^{128-mask_{bits}}$$

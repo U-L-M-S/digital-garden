@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/netzwerk/","tags":["netzwerk/subnetting","inProgress"],"noteIcon":"","updated":"2024-07-29T22:38:57.790+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/netzwerk/","tags":["netzwerk/subnetting","inProgress"],"noteIcon":""}
 ---
 
 >Es ist eine Gruppe von miteinander verbundenen Computern und anderen Geräten, die Daten und Ressourcen gemeinsam nutzen können. 
