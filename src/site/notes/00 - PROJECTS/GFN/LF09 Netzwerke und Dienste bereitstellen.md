@@ -50,4 +50,4 @@ In diese Bereich geht es hauptsächlich um [[02 - RESOURCES/Notes/Subnetting\|Su
 		- [[02 - RESOURCES/Notes/Netzanteil\|Netzanteil]]
 - [[02 - RESOURCES/Notes/IPv6\|IPv6]]
 	- [[02 - RESOURCES/Notes/Subnetting IPv6\|Subnetting IPv6]]
-	- 
+	- [[02 - RESOURCES/Notes/IPv6-Verkürzung\|iPv6 Verkürzung]]
