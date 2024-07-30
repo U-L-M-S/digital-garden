@@ -41,5 +41,13 @@ Die [[02 - RESOURCES/Notes/IGP\|IGP]] und [[02 - RESOURCES/Notes/EGP\|EGP]] sind
 
 # V. [[02 - RESOURCES/Notes/Subnetting\|Subnetting]]
 ___
-
-
+In diese Bereich geht es hauptsächlich um [[02 - RESOURCES/Notes/Subnetting\|Subnetting]]. Hier wird deine Kenntnissen in [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[02 - RESOURCES/Notes/IPv6\|IPv6]] vertiefen.
+- [[02 - RESOURCES/Notes/IPv4\|IPv4]]
+	- [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]
+		- [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]
+		- [[CIDR]
+		- [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]]
+		- [[02 - RESOURCES/Notes/Netzanteil\|Netzanteil]]
+- [[02 - RESOURCES/Notes/IPv6\|IPv6]]
+	- [[Subnetting IPv6\|Subnetting IPv6]]
+	- 
