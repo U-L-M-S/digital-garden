@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-unterteilen/","tags":["netzwerk/subnetting","netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-29T17:56:29.551+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-unterteilen/","tags":["netzwerk/subnetting","netzwerk/ip/ipv4"],"noteIcon":""}
 ---
 
 >Bei [[02 - RESOURCES/Notes/Subnetting\|Subnetting]], man kann die [[00 - PROJECTS/Netzwerk\|Netzwerk]]en umstellen wie man möchten.
@@ -30,14 +30,15 @@
 >
 
 
-|                                          |          |          |          |          |
-| ---------------------------------------- | -------- | -------- | -------- | -------- |
-| [[02 - RESOURCES/Notes/IP\|IP]]: 192.168.0.0                      | 11000000 | 10101000 | 00000000 | 00000000 |
-| [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]: 255.255.255.192 (/26) | 11111111 | 11111111 | 11111111 | 11000000 |
-| [[02 - RESOURCES/Notes/Netzwerk-ID\|Netzwerk-ID]] 1                        | 11000000 | 10101000 | 00000000 | 00000000 |
-| [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] 1                       | 11000000 | 10101000 | 00000000 | 00111111 |
-| [[02 - RESOURCES/Notes/Netzwerk-ID\|Netzwerk-ID]] 2                        | 11000000 | 10101000 | 00000000 |          |
-| [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] 2                       |          |          |          |          |
-
-
-
+|                                          |          |          |          |          |     |     |
+| ---------------------------------------- | -------- | -------- | -------- | -------- | --- | --- |
+| [[02 - RESOURCES/Notes/IP\|IP]]: 192.168.0.0                      | 11000000 | 10101000 | 00000000 | 00000000 |     |     |
+| [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]: 255.255.255.192 (/26) | 11111111 | 11111111 | 11111111 | 11000000 |     |     |
+| [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] 1                            | 11000000 | 10101000 | 00000000 | 00000000 | >   | 0   |
+| [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] 1                       | 11000000 | 10101000 | 00000000 | 00111111 | >   | 63  |
+| [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] 2                            | 11000000 | 10101000 | 00000000 | 01000000 | >   | 64  |
+| [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] 2                       | 11000000 | 10101000 | 00000000 | 01111111 | >   | 127 |
+| [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] 3                            | 11000000 | 10101000 | 00000000 | 10000000 | >   | 128 |
+| [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] 3                       | 11000000 | 10101000 | 00000000 | 10111111 | >   | 191 |
+| [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] 4                            | 11000000 | 10101000 | 00000000 | 11000000 | >   | 192 |
+| [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] 4                       | 11000000 | 10101000 | 00000000 | 11111111 | >   | 255 |
