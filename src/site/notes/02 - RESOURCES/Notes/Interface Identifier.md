@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/interface-identifier/","tags":["netzwerk/ip/ipv6"],"noteIcon":"","updated":"2024-07-30T12:26:42.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/interface-identifier/","tags":["netzwerk/ip/ipv6"],"noteIcon":""}
 ---
 
 >Alles anders was nicht zu [[02 - RESOURCES/Notes/Network Präfix\|Network Präfix]] gehört.

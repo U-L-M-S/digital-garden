@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/broadcast-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-30T08:43:13.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/broadcast-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":""}
 ---
 
 >[!example] Bsp
@@ -8,7 +8,7 @@
 (**192.168.1.4/16**)
 >
 Da wir [[02 - RESOURCES/Notes/CIDR\|CIDR]] lesen können (/16),  sehen wir, dass die [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] 255.255.0.0 lautet. 
-Wir wissen auch, dass das [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] immer die letzte [[02 - RESOURCES/Notes/IP\|IP]] im [[00 - PROJECTS/Netzwerk\|Netzwerk]] ist.
+Wir wissen auch, dass das [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] immer die letzte [[02 - RESOURCES/Notes/IP\|IP]] im [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] ist.
 >
 Daher wissen wir, dass die 1. und 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]]en sich nicht ändern können. Wir setzen die [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] mit [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en 1 auf und alle [[02 - RESOURCES/Notes/Bit\|Bit]]s des [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]] auf: 
 ><mark style="background: #FFF3A3A6;">192.168</mark>

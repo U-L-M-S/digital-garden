@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/projekt/","tags":["prüfungsrelevant","projektmanagement"],"noteIcon":"","updated":"2024-07-25T09:38:33.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/projekt/","tags":["prüfungsrelevant","projektmanagement"],"noteIcon":""}
 ---
 
 > Bauvorhaben. Projekt kommt aus Lateinisch und hat als Merkmale eine Aufgabe einmal zu machen (Ohne Wiederholung). Daher soll man [[02 - RESOURCES/Notes/Projekt\|Projekt]]en nicht mit Routinen verwechseln.

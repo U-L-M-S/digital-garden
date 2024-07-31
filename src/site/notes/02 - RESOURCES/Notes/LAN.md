@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lan/","tags":["netzwerk"],"noteIcon":"","updated":"2024-07-10T14:57:43.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/lan/","tags":["netzwerk"],"noteIcon":""}
 ---
 
 > Local Area Network.
 
-Auf ein Gelände beschränktes [[00 - PROJECTS/Netzwerk\|Netzwerk]].
+Auf ein Gelände beschränktes [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]].

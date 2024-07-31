@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-03-clients-in-netzwerk-einbinden/","tags":["inProgress","netzwerk","GFN","LF03"],"noteIcon":"","updated":"2024-07-25T11:39:33.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-03-clients-in-netzwerk-einbinden/","tags":["inProgress","netzwerk","GFN","LF03"],"noteIcon":""}
 ---
 
-> Das ist eine Zusammenfassung bei den, du  lernen wirst die Grundlage von [[00 - PROJECTS/Netzwerk\|Netzwerk]]  so wie die Grundlage von [[02 - RESOURCES/Notes/elektrische Strom\|elektrische Strom]] und [[02 - RESOURCES/Notes/elektrische Spannung\|elektrische Spannung]].
+> Das ist eine Zusammenfassung bei den, du  lernen wirst die Grundlage von [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]  so wie die Grundlage von [[02 - RESOURCES/Notes/elektrische Strom\|elektrische Strom]] und [[02 - RESOURCES/Notes/elektrische Spannung\|elektrische Spannung]].
 # I.
 In dieses Kapitel und nächste sollst du **viele** Begriffen Kennenlernen. 
 Netzwerk ist nicht nur  das [[02 - RESOURCES/Notes/Internet\|Internet]]. Sonder es bezieht sich auf viel mehr.

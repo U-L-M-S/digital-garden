@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-07-31T05:11:15.094+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":""}
 ---
 
 # I. Switching
@@ -9,7 +9,7 @@ Andere Themen sowie [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]]n, [[02 - R
 
 - Hier muss du in der Lager sein zu verstehen was eine [[02 - RESOURCES/Notes/Switch\|Switch]] und wie diese funktioniert.
 - [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]] muss du in der Lager sein zu wissen wo man es findet.
-- [[02 - RESOURCES/Notes/ARP\|ARP]] wird nur benutzt um anzuzeigen alle Rechner in das [[00 - PROJECTS/Netzwerk\|Netzwerk]].
+- [[02 - RESOURCES/Notes/ARP\|ARP]] wird nur benutzt um anzuzeigen alle Rechner in das [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]].
 - Über [[02 - RESOURCES/Notes/STP\|STP]] muss du nur wissen, dass es verwendet wird um Loops  (Endlosschleifen) in [[02 - RESOURCES/Notes/Switch\|Switch]]es zu stoppen.
 - Was [[02 - RESOURCES/Notes/PDU\|PDU]] ist und die Informationen was jeder Layer in die [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]] einsetzt ([[02 - RESOURCES/Notes/IPv4 Header\|IPv4 Header]]).
 
@@ -22,7 +22,7 @@ Folgenden Themen über [[02 - RESOURCES/Notes/VLAN\|VLAN]]s werden hier berücks
 
 # III.  [[02 - RESOURCES/Notes/Routing\|Routing]]
 ___
-Der [[02 - RESOURCES/Notes/Router\|Router]] ist einer der wichtigsten Geräte in die [[00 - PROJECTS/Netzwerk\|Netzwerk]], er ermögliche hauptsächliche unsere Verbindung mit den Welt ([[02 - RESOURCES/Notes/Internet\|Internet]]).
+Der [[02 - RESOURCES/Notes/Router\|Router]] ist einer der wichtigsten Geräte in die [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]], er ermögliche hauptsächliche unsere Verbindung mit den Welt ([[02 - RESOURCES/Notes/Internet\|Internet]]).
 - Was macht der [[02 - RESOURCES/Notes/Router\|Router]].
 - [[02 - RESOURCES/Notes/Routing\|Routing]], was ist das und welche Art von [[02 - RESOURCES/Notes/Routing\|Routing]] gibt es und wie diesen funktionieren.
 - [[02 - RESOURCES/Notes/Dynamisches Routing\|Dynamisches Routing]] und wie es funktioniert.

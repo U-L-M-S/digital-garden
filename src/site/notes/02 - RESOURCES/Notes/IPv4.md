@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-31T05:06:19.880+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":""}
 ---
 
 > 32-[[02 - RESOURCES/Notes/Bit\|bit]]-Binärzahlen, die in [[02 - RESOURCES/Notes/Dezimal\|Dezimal]] dargestellt werden und mit "**.**"  in vier [[02 - RESOURCES/Notes/Oktett\|Oktett]]e getrennt sind.  
@@ -17,7 +17,7 @@ mit andere Wörtern wir können 2³²(4,3 Milliarden) [[IP-Adresse\|IP-Adresse]]
 Obwohl man eine [[02 - RESOURCES/Notes/static\|static]] [[02 - RESOURCES/Notes/IP\|IP]]  haben kann, die meisten von denen werden durch den  [[02 - RESOURCES/Notes/DHCP\|DHCP]] [[02 - RESOURCES/Notes/Protokoll\|Protokoll]] in der [[02 - RESOURCES/Notes/Router\|Router]] vergeben (automatisch).
 
 >[!important] 
->Bei **ALLEN** [[00 - PROJECTS/Netzwerk\|Netzwerk]] müssen **IMMER** zwei [[02 - RESOURCES/Notes/IP\|IP]] reserviert werden.
+>Bei **ALLEN** [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] müssen **IMMER** zwei [[02 - RESOURCES/Notes/IP\|IP]] reserviert werden.
 >
 >1- Network Adresse
 >
@@ -26,7 +26,7 @@ Obwohl man eine [[02 - RESOURCES/Notes/static\|static]] [[02 - RESOURCES/Notes/I
 Wenn man ein [[02 - RESOURCES/Notes/IP\|IP]] wie 192.168.1.204 und ein [[02 - RESOURCES/Notes/Gateway\|Gateway]] wie 192.168.1.4 hat. Dann kann ich insgesamt 255 [[02 - RESOURCES/Notes/IP\|IP]] haben [192.168.1.**0**, 192.168.1.**1**, 192.168.1.**2**, ..., 192.168.1.**255** ]. 
 
 Nützen darf ich nur 253. Das sind alle die zwischen **1** und  **254** sind. 
-Da 192.168.1.0 reserviert ist, für den [[00 - PROJECTS/Netzwerk\|Netzwerk]] Address und soeben 192.168.1.255 für den [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] 
+Da 192.168.1.0 reserviert ist, für den [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] Address und soeben 192.168.1.255 für den [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] 
 ## [[02 - RESOURCES/Notes/IP\|IP]] finden
 ### Linux
 
@@ -41,7 +41,7 @@ Da 192.168.1.0 reserviert ist, für den [[00 - PROJECTS/Netzwerk\|Netzwerk]] Add
 </div></div>
 
 
-Hier wird angezeigt, dass man zwei Netzkarten hat (1 und 2). Wobei `lo` steht für die [[00 - PROJECTS/Netzwerk\|Netzwerk]] via Kabel und `wlan0` via [[02 - RESOURCES/Notes/Wi-Fi\|Wi-Fi]]. 
+Hier wird angezeigt, dass man zwei Netzkarten hat (1 und 2). Wobei `lo` steht für die [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] via Kabel und `wlan0` via [[02 - RESOURCES/Notes/Wi-Fi\|Wi-Fi]]. 
 Mein [[02 - RESOURCES/Notes/IP\|IP]] lautet: `127.16.3.180`.
 
 ### Windows

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6-verkuerzung/","tags":["netzwerk/ip/ipv6"],"noteIcon":"","updated":"2024-07-30T09:27:33.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6-verkuerzung/","tags":["netzwerk/ip/ipv6"],"noteIcon":""}
 ---
 
 >Um [[02 - RESOURCES/Notes/IPv6\|IPv6]] zu lesbarer zu machen kann man es verkürzen.

@@ -7,7 +7,7 @@ links:
 path: Notes
 created: 2024-05-06 15:09
 ---
-> Unternehmensweites [[00 - PROJECTS/Netzwerk\|Netzwerk]] (Privat). Wird verwendet um Daten in eines [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] zu verwalten/bearbeiten/teilen.
+> Unternehmensweites [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] (Privat). Wird verwendet um Daten in eines [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] zu verwalten/bearbeiten/teilen.
 
 	Es gibt 6 hauptsächliche untere Bereiche der Intranet
 
@@ -33,7 +33,7 @@ Drahtloses, in ein [[02 - RESOURCES/Notes/LAN\|LAN]].
 
 > Local Area Network.
 
-Auf ein Gelände beschränktes [[00 - PROJECTS/Netzwerk\|Netzwerk]].
+Auf ein Gelände beschränktes [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]].
 
 </div></div>
 
@@ -90,7 +90,7 @@ created: 2024-05-06 16:17
 ---
 > Virtual Private Network 
 
-Sichere [[02 - RESOURCES/Notes/LAN\|LAN]]-Verbindung durch ein unsicheres [[00 - PROJECTS/Netzwerk\|Netzwerk]].
+Sichere [[02 - RESOURCES/Notes/LAN\|LAN]]-Verbindung durch ein unsicheres [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]].
 
 </div></div>
 
@@ -127,7 +127,7 @@ created: 2024-05-06 16:29
 ---
 > Personal Area Network.
 
-[[00 - PROJECTS/Netzwerk\|Netzwerk]] mit geringe Reichweite.
+[[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] mit geringe Reichweite.
 - [[02 - RESOURCES/Notes/Bluetooth\|Bluetooth]]
 - [[02 - RESOURCES/Notes/NFC\|NFC]]
 - [[02 - RESOURCES/Notes/IrDA\|IrDA]]

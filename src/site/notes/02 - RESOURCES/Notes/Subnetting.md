@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting/","tags":["netzwerk/ip","netzwerk/ip/ipv4","netzwerk/ip/ipv6","prüfungsrelevant"],"noteIcon":"","updated":"2024-07-31T04:52:32.875+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting/","tags":["netzwerk/ip","netzwerk/ip/ipv4","netzwerk/ip/ipv6","prüfungsrelevant"],"noteIcon":""}
 ---
 
->Beim [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] wird ein großes [[00 - PROJECTS/Netzwerk\|Netz]] in kleinere Netze unterteilt. 
+>Beim [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] wird ein großes [[02 - RESOURCES/Notes/Netzwerk\|Netz]] in kleinere Netze unterteilt. 
 >>Dies kann sowohl mit [[02 - RESOURCES/Notes/IPv4\|IPv4]] als auch mit [[02 - RESOURCES/Notes/IPv6\|IPv6]] durchgeführt werden.
 
 
 >[!important] Diese wird gemacht unter folgende Ziele:
 >- Verteilung der [[02 - RESOURCES/Notes/Netzlast\|Netzlast]]
->- Örtliche oder organisatorische Aufteilung der [[00 - PROJECTS/Netzwerk\|Netzwerk]]
+>- Örtliche oder organisatorische Aufteilung der [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]
 >- Trennen von Netzwerken aus Sicherheitsgründen
->- Einschränkung der Anzahl die [[02 - RESOURCES/Notes/IP\|IP]]s in einem [[00 - PROJECTS/Netzwerk\|Netzwerk]]
+>- Einschränkung der Anzahl die [[02 - RESOURCES/Notes/IP\|IP]]s in einem [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]
 
 >[!multi-column]
 > 
 >>[!check] Vorteile
->>- [[00 - PROJECTS/Netzwerk\|Netzwerk]]verwaltung
+>>- [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]verwaltung
 >>- Erhöhte Sicherheit
 >>- Reduzierung des [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]-Verkehrs
 >>- Skalierbarkeit
