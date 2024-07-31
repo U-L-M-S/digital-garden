@@ -3,4 +3,4 @@
 ---
 
 >Wert, der eingesetzt wird am Ende [[02 - RESOURCES/Notes/IPv6\|IPv6]] um zu trennen das [[02 - RESOURCES/Notes/Network Präfix\|Network Präfix]] von [[02 - RESOURCES/Notes/Interface Identifier\|Interface Identifier]]
->>Standard: **/64**
+>> **/64**

@@ -2,55 +2,117 @@
 {"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv6/","tags":["netzwerk/subnetting","netzwerk/ip/ipv6"],"noteIcon":""}
 ---
 
->Es funktioniert genau wie bei [[02 - RESOURCES/Notes/IPv4\|IPv4]]. [[02 - RESOURCES/Notes/IPv6\|IPv6]] hat aber eine [[02 - RESOURCES/Notes/Bit\|Bit]]sanzahl von 128 [[02 - RESOURCES/Notes/Bit\|Bit]]s.
->$$2^{128-mask_{bits}}$$
+>[[02 - RESOURCES/Notes/Subnetting IPv6\|Subnetting IPv6]]  funktioniert genaue wie bei [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]. Es hat aber ein paar Merkmalen was wir besonders achten müssen.
+>> [[02 - RESOURCES/Notes/IPv6\|IPv6]] hat kein [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] oder [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]]
+>> Es hat kein [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]], sonder ein [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]], dieser ist /64.
+>> [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] und [[02 - RESOURCES/Notes/Bit\|Bit]]s-Umsetzung passiert in die [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] Bereich.
+>> [[02 - RESOURCES/Notes/IPv6\|IPv6]] ist nicht 32 [[02 - RESOURCES/Notes/Bit\|Bit]]slang, sonder 128. Daher es ist nur [[02 - RESOURCES/Notes/Bit\|Bit]]s-Zahlen, die in [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt sind.
+>$$2^{128}$$
+
 
 
 >[!example] Beispiel 1  
 >FD00::/50 in 4 Subnetze  
->Okay, zunächst müssen wir das [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] um 2 [[02 - RESOURCES/Notes/Bit\|Bit]]s erweitern.  
->$$2^{2}=4$$
->Das bedeutet, dass das [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] auf **FD00::/52** erweitert wird, was unser erstes [[02 - RESOURCES/Notes/Subnetz-ID\|Subnetz-ID]] ergibt. Genauer gesagt: FD00:0000:0000:0000:0000:0000:0000:0000/52.  
->Aber lass uns die Kurzform verwenden. 
-> 
->| FD00 | 0000 | 0000 | <mark style="background: #FFF3A3A6;">0</mark>000  |
->| :----: | :----: | :----: | ----- |
->| 16   | 16   | 16   | 4 |
+>Lass uns erstmal prüfen mit welchen [[02 - RESOURCES/Notes/Bit\|Bit]]s wir arbeiten müssen.
+>Jeder Block entspricht 16 [[02 - RESOURCES/Notes/Bit\|Bit]]s.
+>$$50-16-16-16=2$$
+>3 Blöcke + 2 [[02 - RESOURCES/Notes/Bit\|Bit]]s. Das heißt:
 >
->I. Subnetz: FD00::/52  
->II. Subnetz: FD00:0:0:<mark style="background: #FFF3A3A6;">1</mark>000::/52  
->III. Subnetz: FD00:0:0:<mark style="background: #FFF3A3A6;">2</mark>000::/52  
->IV. Subnetz: FD00:0:0:<mark style="background: #FFF3A3A6;">3</mark>000::/52
+>
+>|  <mark style="background: #BBFABBA6;">FD00</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">0000</mark> | 0000 |
+>| --- | --- | --- | --- |
+>| 16     |  16   |  16    |  2   |
+>
+>Aktuell sieht das 4. Block so aus:
+>><mark style="background: #CACFD9A6;">Das erste Ziffer ist nicht vollständig!</mark>
+>
+>|   0        0        0        0  |
+>| :---: |
+>|  <mark style="background: #BBFABBA6;">00</mark>00 0000 0000 0000   |
+>
+>
+>Und jetzt müssen wir das [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] erweitern mit 2 [[02 - RESOURCES/Notes/Bit\|Bit]]s (4 Subnetze ). 
+>$$2^{2}=4$$
+>
+>Das heißt:
+>
+>|  <mark style="background: #BBFABBA6;">FD00</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">0</mark>000 |
+>| --- | --- | --- | --- |
+>| 16     |  16   |  16    |  2+2   |
+>
+>>Wir wissen dass jeder Block 16 [[02 - RESOURCES/Notes/Bit\|Bit]]s entspricht und somit entspricht jeder Ziffer 4 [[02 - RESOURCES/Notes/Bit\|Bit]]s
+>
+>Das alles bedeutet, dass das [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] auf **FD00::/52** erweitert wurde, was unser erstes [[02 - RESOURCES/Notes/Subnetz\|Subnetz]] ergibt. 
+>Genauer gesagt: FD00:0000:0000:0000:0000:0000:0000:0000/52.  
+>Aber lass uns die Kurzform verwenden. 
+>
+>>#### Achtung
+>>Vergiss bitte nicht, dass [[02 - RESOURCES/Notes/IPv6\|IPv6]] als [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt wird. D.h. das erste Ziffer in das 4. Block sich so verhält:
+>>
+>>I. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]
+>>
+>>|  0        0        0        0 |
+>>| :---: |
+>>| 0000  0000  0000  0000    |
+>>
+>>II. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]
+>>
+>>|  1        0        0        0 |
+>>| :---: |
+>>| 0001  0000  0000  0000    |
+>>
+>>III. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]
+>>
+>>|  2        0        0        0 |
+>>| :---: |
+>>| 0010  0000  0000  0000    |
+>>
+>>IV. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]
+>>
+>>|  3        0        0        0 |
+>>| :---: |
+>>| 0011  0000  0000  0000    |
+>
+> 
+>
+>I. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FD00::/52  
+>II. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FD00:0:0:<mark style="background: #BBFABBA6;">1</mark>000::/52  
+>III. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FD00:0:0:<mark style="background: #BBFABBA6;">2</mark>000::/52  
+>IV. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FD00:0:0:<mark style="background: #BBFABBA6;">3</mark>000::/52
 
 
 >[!note] Yep. Super einfach, wenn man [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]] schon kann😉
 
+
 >[!example] Beispiel 2
 >FE80:0:3a:: /56 in 8 [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e
->[[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] 3 [[02 - RESOURCES/Notes/Bit\|Bit]]s erweitern.
+>Gleiche Schema wie vorher, lass uns  nachschauen mit welche [[02 - RESOURCES/Notes/Bit\|Bit]]/Block wir zutun haben.
+>$$56-16-16-16=8$$
+>3 Blocks und 8 Bits
+>
+>|  <mark style="background: #BBFABBA6;">FD00</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003a</mark> | <mark style="background: #BBFABBA6;">00</mark>00 |
+>| --- | --- | --- | --- |
+>| 16     |  16   |  16    |  4+4   |
+>
+>und jetzt das [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] um 3 [[02 - RESOURCES/Notes/Bit\|Bit]]s erweitern (8 [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e).
 >$$2^{3}=8$$
 >
 >FE80:0:3a:: /59
 >
->Okay... "59"..Das ist ein Sonderfall. Lassen Sie uns das genauer betrachten:
 >
->| FE80 | 0000 | 003a |   0    0    0    0  |
+>| <mark style="background: #BBFABBA6;">FE80</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003a</mark> |   <mark style="background: #BBFABBA6;">0    0 </mark>   0    0  |
 >| ---- | ---- | ---- | ----- |
->| 16   | 16   | 16   |  4    4    4 |
->| 16   | 32   | 48   | 52 56  60 |
+>| 16   | 16   | 16   |  4    4    3 |
+>| 16   | 32   | 48   | 52 56  59 |
 >
->Da wir ein [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] von 59 Bit haben und eine ungerade Zahl verwenden, wird die Blockziffer nach dem Zielwert (60) berücksichtigt. 
->Die 16 möglichen Ziffern (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F) werden auf 8 [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e **(Es wurde nach 8 [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e gefragt)** verteilt, was 2 Ziffern pro [[02 - RESOURCES/Notes/Subnetz\|Subnetz]] ergibt.
+>3. Ziffer von 4.Block:
+>      
+>
+>|   1110  |
+>| --- | 
+>|     |     
+>
 > 
-> (<mark style="background: #FFB8EBA6;">0, 1,</mark> <mark style="background: #FF5582A6;">2, 3,</mark> <mark style="background: #FFB86CA6;">4, 5,</mark> <mark style="background: #FFB86CA6;">6, 7,</mark> <mark style="background: #FFF3A3A6;">8, 9,</mark> <mark style="background: #BBFABBA6;">A, B,</mark> <mark style="background: #ABF7F7A6;">C, D,</mark> <mark style="background: #ADCCFFA6;">E, F</mark>)
-> 
-> I. Subnetz: FE80:0:3a:: /59
-> II. Subnetz: FE80:0:3a:20:: /59
-> III. Subnetz: FE80:0:3a:40:: /59
-> IV. Subnetz: FE80:0:3a:60:: /59
-> V. Subnetz: FE80:0:3a:80:: /59
-> VI. Subnetz: FE80:0:3a:A0:: /59
-> VII. Subnetz: FE80:0:3a:C0:: /59
-> VIII. Subnetz: FE80:0:3a:E0:: /59
 
 
+[[02 - RESOURCES/Notes/temp\|temp]]
