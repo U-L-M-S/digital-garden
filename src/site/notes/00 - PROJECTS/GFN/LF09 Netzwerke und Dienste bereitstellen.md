@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-07-31T05:02:38.323+02:00"}
 ---
 
 # I. Switching
@@ -10,8 +10,7 @@ Andere Themen sowie [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]]n, [[02 - R
 - Hier muss du in der Lager sein zu verstehen was eine [[02 - RESOURCES/Notes/Switch\|Switch]] und wie diese funktioniert.
 - [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]] muss du in der Lager sein zu wissen wo man es findet.
 - [[02 - RESOURCES/Notes/ARP\|ARP]] wird nur benutzt um anzuzeigen alle Rechner in das [[00 - PROJECTS/Netzwerk\|Netzwerk]].
-- Über [[02 - RESOURCES/Notes/STP\|STP]] muss du nur wissen, dass es verwendet wird um Loops  (Endlosschleifen) in 
-  [[02 - RESOURCES/Notes/Switch\|Switch]]es zu stoppen.
+- Über [[02 - RESOURCES/Notes/STP\|STP]] muss du nur wissen, dass es verwendet wird um Loops  (Endlosschleifen) in [[02 - RESOURCES/Notes/Switch\|Switch]]es zu stoppen.
 - Was [[02 - RESOURCES/Notes/PDU\|PDU]] ist und die Informationen was jeder Layer in die [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]] einsetzt ([[02 - RESOURCES/Notes/IPv4 Header\|IPv4 Header]]).
 
 # II. [[02 - RESOURCES/Notes/VLAN\|VLAN]]s
