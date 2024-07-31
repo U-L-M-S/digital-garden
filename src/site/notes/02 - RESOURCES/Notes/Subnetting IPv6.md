@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv6/","tags":["netzwerk/subnetting","netzwerk/ip/ipv6"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv6/","tags":["netzwerk/subnetting","netzwerk/ip/ipv6"],"noteIcon":"","updated":"2024-07-31T22:36:35.966+02:00"}
 ---
 
 >[[02 - RESOURCES/Notes/Subnetting IPv6\|Subnetting IPv6]]  funktioniert genaue wie bei [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]. Es hat aber ein paar Merkmalen was wir besonders achten müssen.
@@ -19,7 +19,7 @@
 >3 Blöcke + 2 [[02 - RESOURCES/Notes/Bit\|Bit]]s. Das heißt:
 >
 >
->|  <mark style="background: #BBFABBA6;">FD00</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">0000</mark> | 0000 |
+>|  <mark style="background: #BBFABBA6;">FD00</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #CACFD9A6;">0</mark>000 |
 >| --- | --- | --- | --- |
 >| 16     |  16   |  16    |  2   |
 >
@@ -31,7 +31,9 @@
 >|  <mark style="background: #BBFABBA6;">00</mark>00 0000 0000 0000   |
 >
 >
->Und jetzt müssen wir das [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] erweitern mit 2 [[02 - RESOURCES/Notes/Bit\|Bit]]s (4 Subnetze ). 
+>Und jetzt müssen wir das [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] erweitern mit 2 [[02 - RESOURCES/Notes/Bit\|Bit]]s (4 Subnetze ).
+>>**Ja. Ganz genau! So wie bei [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]] ([[02 - RESOURCES/Notes/Bit\|Bit]]serweiterung), werden wir diese 2 [[02 - RESOURCES/Notes/Bit\|Bit]]s hier verwenden für die [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]verteilung.** 
+>
 >$$2^{2}=4$$
 >
 >Das heißt:
@@ -40,7 +42,7 @@
 >| --- | --- | --- | --- |
 >| 16     |  16   |  16    |  2+2   |
 >
->>Wir wissen dass jeder Block 16 [[02 - RESOURCES/Notes/Bit\|Bit]]s entspricht und somit entspricht jeder Ziffer 4 [[02 - RESOURCES/Notes/Bit\|Bit]]s
+>>Wir wissen, dass jeder Block 16 [[02 - RESOURCES/Notes/Bit\|Bit]]s entspricht und somit entspricht jeder Ziffer 4 [[02 - RESOURCES/Notes/Bit\|Bit]]s
 >
 >Das alles bedeutet, dass das [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] auf **FD00::/52** erweitert wurde, was unser erstes [[02 - RESOURCES/Notes/Subnetz\|Subnetz]] ergibt. 
 >Genauer gesagt: FD00:0000:0000:0000:0000:0000:0000:0000/52.  
@@ -97,22 +99,35 @@
 >und jetzt das [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] um 3 [[02 - RESOURCES/Notes/Bit\|Bit]]s erweitern (8 [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e).
 >$$2^{3}=8$$
 >
->FE80:0:3a:: /59
+>FE80:0:3A:: /59
 >
 >
->| <mark style="background: #BBFABBA6;">FE80</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003a</mark> |   <mark style="background: #BBFABBA6;">0        0 </mark>       0        0  |
+>| <mark style="background: #BBFABBA6;">FE80</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003a</mark> |   <mark style="background: #BBFABBA6;">0        0 </mark>       0        <mark style="background: #D2B3FFA6;">0</mark>  |
 >| ---- | ---- | ---- | ----- |
 >| 16   | 16   | 16   |  4         4         3 |
 >| 16   | 32   | 48   | 52      56       59 |
 >
 >3. Ziffer von 4.Block:
->      
+>>Nochmal: Ich darf nur die zusätzlichen Bits verwenden; den Index 0 darf ich nicht anfassen.
 >
->|   1110  |
->| --- | 
->|     |     
 >
-> 
+>| 1110 |     |     |
+>| ---- | --- | --- |
+>| 0000 | >   | <mark style="background: #FFB86CA6;">0 </mark>  |
+>| 0010 | >   | <mark style="background: #FFB86CA6;">2 </mark>  |
+>| 0100 | >   | <mark style="background: #FFB86CA6;">4 </mark>  |
+>| 0110 | >   | <mark style="background: #FFB86CA6;">6</mark>   |
+>| 1000 | >   | <mark style="background: #FFB86CA6;">8</mark>   |
+>| 1010 | >   | <mark style="background: #FFB86CA6;">A</mark>   |
+>| 1100 | >   | <mark style="background: #FFB86CA6;">C </mark>  |
+>| 1110 | >   | <mark style="background: #FFB86CA6;">E</mark>   |
+>
+>I. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A::/59
+>II. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:<mark style="background: #FFB86CA6;">2</mark><mark style="background: #D2B3FFA6;">0</mark>::/59
+>III. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:<mark style="background: #FFB86CA6;">4</mark><mark style="background: #D2B3FFA6;">0</mark>::/59
+>IV. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:<mark style="background: #FFB86CA6;">6</mark><mark style="background: #D2B3FFA6;">0</mark>::/59
+>V. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:<mark style="background: #FFB86CA6;">8</mark><mark style="background: #D2B3FFA6;">0</mark>::/59
+>VI. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:<mark style="background: #FFB86CA6;">A</mark><mark style="background: #D2B3FFA6;">0</mark>::/59
+>VII. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:<mark style="background: #FFB86CA6;">C</mark><mark style="background: #D2B3FFA6;">0</mark>::/59
+>VIII. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:<mark style="background: #FFB86CA6;">E</mark><mark style="background: #D2B3FFA6;">0</mark>::/59
 
-
-[[02 - RESOURCES/Notes/temp\|temp]]

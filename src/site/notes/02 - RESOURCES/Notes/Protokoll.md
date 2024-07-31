@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/protokoll/","tags":["netzwerk/protocol"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/protokoll/","tags":["netzwerk/protocol"],"noteIcon":"","updated":"2024-07-31T11:51:50.000+02:00"}
 ---
 
 >Neutral
