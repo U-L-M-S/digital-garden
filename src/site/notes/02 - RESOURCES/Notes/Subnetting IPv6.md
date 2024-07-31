@@ -100,10 +100,10 @@
 >FE80:0:3a:: /59
 >
 >
->| <mark style="background: #BBFABBA6;">FE80</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003a</mark> |   <mark style="background: #BBFABBA6;">0    0 </mark>   0    0  |
+>| <mark style="background: #BBFABBA6;">FE80</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003a</mark> |   <mark style="background: #BBFABBA6;">0        0 </mark>       0        0  |
 >| ---- | ---- | ---- | ----- |
->| 16   | 16   | 16   |  4    4    3 |
->| 16   | 32   | 48   | 52 56  59 |
+>| 16   | 16   | 16   |  4         4         3 |
+>| 16   | 32   | 48   | 52      56       59 |
 >
 >3. Ziffer von 4.Block:
 >      
