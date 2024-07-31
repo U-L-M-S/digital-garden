@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["netzwerk/ip/ipv6","prüfungsrelevant"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["netzwerk/ip/ipv6","prüfungsrelevant"],"noteIcon":"","updated":"2024-07-31T05:09:16.934+02:00"}
 ---
 
 >128-[[02 - RESOURCES/Notes/Bit\|bit]]-[[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en, die in [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt werden und 
 >mit "**:**" getrennt sind( 8 Gruppen) und es wird als [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt.
->Jeder **Block** ist 16 [[02 - RESOURCES/Notes/Bit\|Bit]]-Lang und bei [[02 - RESOURCES/Notes/IPv6\|IPv6]] gibt's kein [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] sowie bei [[02 - RESOURCES/Notes/IPv4\|IPv4]], sonder ein [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] (**Standard /64**) und dieser hat das selbe Aufgabe wie der [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] bei [[02 - RESOURCES/Notes/IPv4\|IPv4]].
+>Jeder **Block** ist 16 [[02 - RESOURCES/Notes/Bit\|Bit]]-Lang und bei [[02 - RESOURCES/Notes/IPv6\|IPv6]] gibt's kein [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] oder [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] sowie bei [[02 - RESOURCES/Notes/IPv4\|IPv4]], sonder ein [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] (**/64**) und dieser hat das selbe Aufgabe wie der [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] bei [[02 - RESOURCES/Notes/IPv4\|IPv4]].
 >$$2^{128}$$
 >>Es ist der Nachfolger von [[02 - RESOURCES/Notes/IPv4\|IPv4]].
 
@@ -101,3 +101,5 @@ indem man die ersten Bits der Adresse betrachtet.
 
 </div></div>
 
+
+## [[02 - RESOURCES/Notes/Subnetting IPv6\|Subnetting IPv6]]

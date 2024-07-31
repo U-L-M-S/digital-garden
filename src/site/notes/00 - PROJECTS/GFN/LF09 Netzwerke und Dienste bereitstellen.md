@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-07-31T05:02:38.323+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-07-31T05:11:15.094+02:00"}
 ---
 
 # I. Switching
@@ -44,9 +44,9 @@ In diese Bereich geht es hauptsächlich um [[02 - RESOURCES/Notes/Subnetting\|Su
 - [[02 - RESOURCES/Notes/IPv4\|IPv4]]
 	- [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]
 		- [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]
-		- [[CIDR]
-		- [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]]
-		- [[02 - RESOURCES/Notes/Netzanteil\|Netzanteil]]
+			- [[02 - RESOURCES/Notes/CIDR\|CIDR]]
+			- [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]]
+			- [[02 - RESOURCES/Notes/Netzanteil\|Netzanteil]]
 - [[02 - RESOURCES/Notes/IPv6\|IPv6]]
 	- [[02 - RESOURCES/Notes/Subnetting IPv6\|Subnetting IPv6]]
 	- [[02 - RESOURCES/Notes/IPv6-Verkürzung\|iPv6 Verkürzung]]

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting/","tags":["netzwerk/ip","netzwerk/ip/ipv4","netzwerk/ip/ipv6","prüfungsrelevant"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting/","tags":["netzwerk/ip","netzwerk/ip/ipv4","netzwerk/ip/ipv6","prüfungsrelevant"],"noteIcon":"","updated":"2024-07-31T04:52:32.875+02:00"}
 ---
 
 >Beim [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] wird ein großes [[00 - PROJECTS/Netzwerk\|Netz]] in kleinere Netze unterteilt. 
->Dies kann sowohl mit [[02 - RESOURCES/Notes/IPv4\|IPv4]] als auch mit [[02 - RESOURCES/Notes/IPv6\|IPv6]] durchgeführt werden.
+>>Dies kann sowohl mit [[02 - RESOURCES/Notes/IPv4\|IPv4]] als auch mit [[02 - RESOURCES/Notes/IPv6\|IPv6]] durchgeführt werden.
 
 
 >[!important] Diese wird gemacht unter folgende Ziele:
@@ -26,7 +26,7 @@
 >>- Zusätzliche Verwaltungskosten
 >>- Eingeschränkte Flexibilität
 
->[!summary] Algorithm
->So funktioniert das Algorithm für die Subnetting bei [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[02 - RESOURCES/Notes/IPv6\|IPv6]]
+>[!summary] Algorithmus
+>So funktioniert der Algorithmus für das Subnetting bei [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[02 - RESOURCES/Notes/IPv6\|IPv6]]
 >- [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]
 >- [[02 - RESOURCES/Notes/Subnetting IPv6\|Subnetting IPv6]]

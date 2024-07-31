@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzanteil-erweitern/","tags":["netzwerk/subnetting","netzwerk/ip/ipv4"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzanteil-erweitern/","tags":["netzwerk/subnetting","netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-30T18:26:35.952+02:00"}
 ---
 
 >$$2^{n}=gewünsche Anzahl Von Subnetze$$
@@ -10,7 +10,7 @@
 >[!example] Anzahl der [[02 - RESOURCES/Notes/Bit\|Bit]]s berechen
 >
 >Nehmen wir an wir haben dieses [[02 - RESOURCES/Notes/IP\|IP]]: 192.168.0.0/24
->und wir möchten diese Netz in 4 kleinere Subnetze unterteilen.
+>und wir möchten diese [[00 - PROJECTS/Netzwerk\|Netz]] in 4 kleinere Subnetze unterteilen.
 >Dann benötigen wir $$2^{2}=4$$ 
 >**2** [[02 - RESOURCES/Notes/Bit\|Bit]]s von den [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]].
 >$$24+2=26$$
@@ -19,7 +19,7 @@
 
 Tabellarisch sieht es so aus:
 
-|    Dezimal     | >   |                    1. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e                    |                    2. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e                    |                    3. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e                    | 4. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e                                       |
+|    [[02 - RESOURCES/Notes/Dezimal\|Dezimal]]     | >   |                    1. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e                    |                    2. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e                    |                    3. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e                    | 4. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e                                       |
 | :------------: | --- | :--------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: | ---------------------------------------------------- |
 | 192.168.0.0/24 | >   | <mark style="background: #ABF7F7A6;">11000000</mark> | <mark style="background: #ABF7F7A6;">10101000</mark> | <mark style="background: #ABF7F7A6;">00000000</mark> | 00000000                                             |
 | 192.168.0.0/27 | >   | <mark style="background: #ABF7F7A6;">11000000</mark> | <mark style="background: #ABF7F7A6;">10101000</mark> | <mark style="background: #ABF7F7A6;">00000000</mark> | <mark style="background: #ABF7F7A6;">00</mark>000000 |
@@ -29,7 +29,7 @@ Im Fall von Zahlen, die kein [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von
 
 >[!example] Anzahl der [Bit](app://obsidian.md/Bit)s berechnen, nicht [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 2.
 >Nehmen wir an, wir haben dieses [[02 - RESOURCES/Notes/IP\|IP]]: 192.168.0.0/24
->und wir möchten dieses Netz in 7 kleinere Subnetze unterteilen.
+>und wir möchten dieses [[00 - PROJECTS/Netzwerk\|Netz]] in 7 kleinere Subnetze unterteilen.
 >Dann benötigen wir $$2^{3}=8$$ 
 >**3** [[02 - RESOURCES/Notes/Bit\|Bit]]s von den [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]].
 >$$24+3=27$$
@@ -39,7 +39,7 @@ Im Fall von Zahlen, die kein [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von
 
 Tabellarisch sieht es so aus:
 
-|    Dezimal     | >   |                    1. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e                    |                    2. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e                    |                    3. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e                    | 4. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e                                       |
+|    [[02 - RESOURCES/Notes/Dezimal\|Dezimal]]     | >   |                    1. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e                    |                    2. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e                    |                    3. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e                    | 4. [[02 - RESOURCES/Notes/Oktett\|Oktett]]e                                       |
 | :------------: | --- | :--------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: | ---------------------------------------------------- |
 | 192.168.0.0/24 | >   | <mark style="background: #ABF7F7A6;">11000000</mark> | <mark style="background: #ABF7F7A6;">10101000</mark> | <mark style="background: #ABF7F7A6;">00000000</mark> | 00000000                                             |
 | 192.168.0.0/27 | >   | <mark style="background: #ABF7F7A6;">11000000</mark> | <mark style="background: #ABF7F7A6;">10101000</mark> | <mark style="background: #ABF7F7A6;">00000000</mark> | <mark style="background: #ABF7F7A6;">000</mark>00000 |

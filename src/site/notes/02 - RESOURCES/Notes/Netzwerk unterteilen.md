@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-unterteilen/","tags":["netzwerk/subnetting","netzwerk/ip/ipv4"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-unterteilen/","tags":["netzwerk/subnetting","netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-30T08:51:29.000+02:00"}
 ---
 
 >Bei [[02 - RESOURCES/Notes/Subnetting\|Subnetting]], man kann die [[00 - PROJECTS/Netzwerk\|Netzwerk]]en umstellen wie man möchten.
