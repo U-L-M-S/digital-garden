@@ -23,7 +23,7 @@
 >IV. Subnetz: FD00:0:0:<mark style="background: #FFF3A3A6;">3</mark>000::/52
 
 
->[!note] Yep. Super einfach, wenn man [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]] schon kann `fas:SmileWink`
+>[!note] Yep. Super einfach, wenn man [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]] schon kann😉
 
 >[!example] Beispiel 2
 >FE80:0:3a:: /56 in 8 [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e
