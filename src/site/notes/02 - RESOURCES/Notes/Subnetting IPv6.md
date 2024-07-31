@@ -31,13 +31,13 @@
 >$$2^{3}=8$$
 >
 >FE80:0:3a:: /59
->Okay. Das ist eine extra Fall. Lass uns das genauer anschauen.
 >
+>Okay... "59"..Das ist ein Sonderfall. Lassen Sie uns das genauer betrachten:
 >
->| FE80 | 0000 | 003a | 0  0  0  0  |
+>| FE80 | 0000 | 003a |   0    0    0    0  |
 >| ---- | ---- | ---- | ----- |
->| 16   | 16   | 16   | 4  4  4 |
->| 16   | 32   | 48   | 52 56 60 |
+>| 16   | 16   | 16   |  4    4    4 |
+>| 16   | 32   | 48   | 52 56  60 |
 >
 >Da wir ein [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] von 59 Bit haben und eine ungerade Zahl verwenden, wird die Blockziffer nach dem Zielwert (60) berücksichtigt. 
 >Die 16 möglichen Ziffern (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F) werden auf 8 [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e **(Es wurde nach 8 [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e gefragt)** verteilt, was 2 Ziffern pro [[02 - RESOURCES/Notes/Subnetz\|Subnetz]] ergibt.
