@@ -134,7 +134,7 @@
 >VIII. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:<mark style="background: #FFB86CA6;">E</mark><mark style="background: #D2B3FFA6;">0</mark>::/59
 
 >[!example] Beispiel 3
->IP: FE80:0:3A:: /59 
+>[[02 - RESOURCES/Notes/IP\|IP]]: FE80:0:3A:: /59 
 >In 8 Subnetze einteilen
 >
 >$$59=16-16-16=11$$
@@ -144,13 +144,43 @@
 >| --- | --- | --- | --- |
 >| 16     |  16   |  16    |  4+4+3   |
 >
->4. Block 3 und 4 Ziffer:
+>4. Block  4 Ziffer:
 >   
 >| <mark style="background: #BBFABBA6;">FE80</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003a</mark> |   <mark style="background: #BBFABBA6;">0        0 </mark>       0        <mark style="background: #D2B3FFA6;">0</mark>  |
 >| ---- | ---- | ---- | ----- |
 >| 16   | 16   | 16   |  4         4         3 |
 >| 16   | 32   | 48   | 52      56       59 |
-
-
-
+>
+>8 [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]
+>$$2^{3}=8$$
+>
+>$$59+3=62$$
+>
+>| <mark style="background: #BBFABBA6;">FE80</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003a</mark> |   <mark style="background: #BBFABBA6;">0        0 </mark>       <mark style="background: #D2B3FFA6;">0        0</mark>  |
+>| ---- | ---- | ---- | ----- |
+>| 16   | 16   | 16   |  4         4         3+1     2 |
+>| 16   | 32   | 48   | 52      56       60       62 |
+>
+>><mark style="background: #D2B3FFA6;">0        0</mark>
+>
+>|xxx<mark style="background: #D2B3FFA6;">0</mark> | <mark style="background: #D2B3FFA6;">00</mark>xx |     |  [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]]   |
+>| --- | --- | :---: | :---: |
+>| 0000   |   0000  |    >    |   0   |
+>| 0000    |    0100 |   >    |   4   |
+>| 0000    |    1000 |   >    |   8   |
+>| 0000    |   1100 |    >   |   C   |
+>| 0001    |    0000 |    >   |   10   |
+>| 0001    |    0100 |   >    |   14   |
+>| 0001    |    1000 |   >    |   18   |
+>| 0001    |    1100 |   >    |   1C   |
+>
+>I. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A::/62
+>II. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:4::/62
+>III. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:8::/62
+>IV. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:C::/62
+>V. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:10::/62
+>VI. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:14::/62
+>VII. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:18::/62
+>VIII. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:1C::/62
+>
 
