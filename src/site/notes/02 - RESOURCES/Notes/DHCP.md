@@ -9,3 +9,4 @@
 >>>[[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]
 >>>[[02 - RESOURCES/Notes/Gateway\|Gateway]]
 >>>[[02 - RESOURCES/Notes/DNS-Server\|DNS-Server]]
+

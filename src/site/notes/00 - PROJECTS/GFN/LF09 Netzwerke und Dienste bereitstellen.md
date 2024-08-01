@@ -54,3 +54,4 @@ In diese Bereich geht es hauptsächlich um [[02 - RESOURCES/Notes/Subnetting\|Su
 
 # VI. [[02 - RESOURCES/Notes/DHCP\|DHCP]] und [[02 - RESOURCES/Notes/DNS\|DNS]]
 ___
+[[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]]
