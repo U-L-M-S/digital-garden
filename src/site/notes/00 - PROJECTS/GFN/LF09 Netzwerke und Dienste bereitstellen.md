@@ -39,6 +39,7 @@ Die [[02 - RESOURCES/Notes/IGP\|IGP]] und [[02 - RESOURCES/Notes/EGP\|EGP]] sind
 >[!note] Thema IV. existiert nicht.
 
 # V. [[02 - RESOURCES/Notes/Subnetting\|Subnetting]]
+>Notwendige Kenntnisse für jeden ITler.
 ___
 In diese Bereich geht es hauptsächlich um [[02 - RESOURCES/Notes/Subnetting\|Subnetting]]. Hier wird deine Kenntnissen in [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[02 - RESOURCES/Notes/IPv6\|IPv6]] vertiefen.
 - [[02 - RESOURCES/Notes/IPv4\|IPv4]]

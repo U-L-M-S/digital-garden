@@ -161,6 +161,7 @@
 >| 16   | 16   | 16   |  4         4         3+1     2 |
 >| 16   | 32   | 48   | 52      56       60       62 |
 >
+>
 >><mark style="background: #D2B3FFA6;">0        0</mark>
 >
 >|xxx<mark style="background: #D2B3FFA6;">0</mark> | <mark style="background: #D2B3FFA6;">00</mark>xx |     |  [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]]   |
