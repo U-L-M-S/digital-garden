@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv6/","tags":["netzwerk/subnetting","netzwerk/ip/ipv6"],"noteIcon":"","updated":"2024-07-31T22:36:35.966+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv6/","tags":["netzwerk/subnetting","netzwerk/ip/ipv6"],"noteIcon":""}
 ---
 
 >[[02 - RESOURCES/Notes/Subnetting IPv6\|Subnetting IPv6]]  funktioniert genaue wie bei [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]. Es hat aber ein paar Merkmalen was wir besonders achten müssen.
->> [[02 - RESOURCES/Notes/IPv6\|IPv6]] hat kein [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] oder [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]]
->> Es hat kein [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]], sonder ein [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]], dieser ist /64.
->> [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] und [[02 - RESOURCES/Notes/Bit\|Bit]]s-Umsetzung passiert in die [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] Bereich.
->> [[02 - RESOURCES/Notes/IPv6\|IPv6]] ist nicht 32 [[02 - RESOURCES/Notes/Bit\|Bit]]slang, sonder 128. Daher es ist nur [[02 - RESOURCES/Notes/Bit\|Bit]]s-Zahlen, die in [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt sind.
+>>- [[02 - RESOURCES/Notes/IPv6\|IPv6]] hat kein [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] oder [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]]
+>>- Es hat kein [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]], sonder ein [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]], dieser ist /64.
+>>- Bei [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]] wird ein Teil von den [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]] genommen für die [[02 - RESOURCES/Notes/Subnetting\|Subnetting]], während bei [[02 - RESOURCES/Notes/IPv6\|IPv6]] passiert das alles in die in [[02 - RESOURCES/Notes/Netzwerk Präfix\|Netzwerk Präfix]]. 
+>>- [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] und [[02 - RESOURCES/Notes/Bit\|Bit]]s-Umsetzung passiert in die [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] Bereich.
+>>- [[02 - RESOURCES/Notes/IPv6\|IPv6]] ist nicht 32 [[02 - RESOURCES/Notes/Bit\|Bit]]slang, sonder 128. 
+>>  Daher es ist nur [[02 - RESOURCES/Notes/Bit\|Bit]]s-Zahlen, die in [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt sind.
 >$$2^{128}$$
 
 
@@ -83,7 +85,7 @@
 >IV. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FD00:0:0:<mark style="background: #BBFABBA6;">3</mark>000::/52
 
 
->[!note] Yep. Super einfach, wenn man [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]] schon kann😉
+>[!tip] Yep. Super einfach, wenn man [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]] schon kann😉
 
 
 >[!example] Beispiel 2
@@ -113,13 +115,13 @@
 >
 >| 1110 |     |     |
 >| ---- | --- | --- |
->| 0000 | >   | <mark style="background: #FFB86CA6;">0 </mark>  |
->| 0010 | >   | <mark style="background: #FFB86CA6;">2 </mark>  |
->| 0100 | >   | <mark style="background: #FFB86CA6;">4 </mark>  |
+>| 0000 | >   | <mark style="background: #FFB86CA6;">0</mark>  |
+>| 0010 | >   | <mark style="background: #FFB86CA6;">2</mark>  |
+>| 0100 | >   | <mark style="background: #FFB86CA6;">4</mark>  |
 >| 0110 | >   | <mark style="background: #FFB86CA6;">6</mark>   |
 >| 1000 | >   | <mark style="background: #FFB86CA6;">8</mark>   |
 >| 1010 | >   | <mark style="background: #FFB86CA6;">A</mark>   |
->| 1100 | >   | <mark style="background: #FFB86CA6;">C </mark>  |
+>| 1100 | >   | <mark style="background: #FFB86CA6;">C</mark>  |
 >| 1110 | >   | <mark style="background: #FFB86CA6;">E</mark>   |
 >
 >I. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A::/59
@@ -130,4 +132,25 @@
 >VI. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:<mark style="background: #FFB86CA6;">A</mark><mark style="background: #D2B3FFA6;">0</mark>::/59
 >VII. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:<mark style="background: #FFB86CA6;">C</mark><mark style="background: #D2B3FFA6;">0</mark>::/59
 >VIII. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:<mark style="background: #FFB86CA6;">E</mark><mark style="background: #D2B3FFA6;">0</mark>::/59
+
+>[!example] Beispiel 3
+>IP: FE80:0:3A:: /59 
+>In 8 Subnetze einteilen
+>
+>$$59=16-16-16=11$$
+>3 Blöcke und 11 Bits
+>
+>>|  <mark style="background: #BBFABBA6;">FE80</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003A</mark> | <mark style="background: #BBFABBA6;">00</mark>00 |
+>| --- | --- | --- | --- |
+>| 16     |  16   |  16    |  4+4+3   |
+>
+>4. Block 3 und 4 Ziffer:
+>   
+>| <mark style="background: #BBFABBA6;">FE80</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003a</mark> |   <mark style="background: #BBFABBA6;">0        0 </mark>       0        <mark style="background: #D2B3FFA6;">0</mark>  |
+>| ---- | ---- | ---- | ----- |
+>| 16   | 16   | 16   |  4         4         3 |
+>| 16   | 32   | 48   | 52      56       59 |
+
+
+
 

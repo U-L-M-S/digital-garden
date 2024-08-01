@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["netzwerk/ip/ipv6","prüfungsrelevant"],"noteIcon":"","updated":"2024-07-31T05:09:16.934+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["netzwerk/ip/ipv6","prüfungsrelevant"],"noteIcon":""}
 ---
 
 >128-[[02 - RESOURCES/Notes/Bit\|bit]]-[[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en, die in [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt werden und 
@@ -16,6 +16,7 @@
 |          2001          |          0db8          |          85a3          |          0000          |          0000          |          8a2e          |          0370          |          7334          |
 | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: |
 | 0010\|0000\|0000\|0001 | 0000\|1101\|1110\|1000 | 1000\|0101\|1010\|0011 | 0000\|0000\|0000\|0000 | 0000\|0000\|0000\|0000 | 1000\|1010\|0010\|1110 | 0000\|0011\|0111\|0000 | 0111\|0011\|0011\|0100 |
+
 >Ich habe jeder 4. Bit getrennt (|) damit man es besser erkennen kann.
 >Es ist einfacherer [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] zu [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]] umzuwandeln als zu [[02 - RESOURCES/Notes/Dezimal\|Dezimal]].
 
