@@ -9,4 +9,5 @@
 >>>[[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]
 >>>[[02 - RESOURCES/Notes/Gateway\|Gateway]]
 >>>[[02 - RESOURCES/Notes/DNS-Server\|DNS-Server]]
-
+>
+>Es wird [[02 - RESOURCES/Notes/UDP\|UDP]] verwendet.
