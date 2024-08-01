@@ -5,7 +5,7 @@
 >[[02 - RESOURCES/Notes/Subnetting IPv6\|Subnetting IPv6]]  funktioniert genaue wie bei [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]. Es hat aber ein paar Merkmalen was wir besonders achten müssen.
 >>- [[02 - RESOURCES/Notes/IPv6\|IPv6]] hat kein [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] oder [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]]
 >>- Es hat kein [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]], sonder ein [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]], dieser ist /64.
->>- Bei [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]] wird ein Teil von den [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]] genommen für die [[02 - RESOURCES/Notes/Subnetting\|Subnetting]], während bei [[02 - RESOURCES/Notes/IPv6\|IPv6]] passiert das alles in die in [[02 - RESOURCES/Notes/Netzwerk Präfix\|Netzwerk Präfix]]. 
+>>- Bei [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]] wird ein Teil von den [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]] genommen für die [[02 - RESOURCES/Notes/Subnetting\|Subnetting]], während bei [[02 - RESOURCES/Notes/IPv6\|IPv6]] passiert das alles in die in [[02 - RESOURCES/Notes/Netzwerkpräfix\|Netzwerkpräfix]]. 
 >>- [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] und [[02 - RESOURCES/Notes/Bit\|Bit]]s-Umsetzung passiert in die [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] Bereich.
 >>- [[02 - RESOURCES/Notes/IPv6\|IPv6]] ist nicht 32 [[02 - RESOURCES/Notes/Bit\|Bit]]slang, sonder 128. 
 >>  Daher es ist nur [[02 - RESOURCES/Notes/Bit\|Bit]]s-Zahlen, die in [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt sind.
