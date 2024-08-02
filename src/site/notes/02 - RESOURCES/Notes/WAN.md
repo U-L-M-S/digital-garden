@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wan/","tags":["netzwerk"],"noteIcon":"","updated":"2024-08-02T05:48:29.248+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wan/","tags":["netzwerk"],"noteIcon":"","updated":"2024-08-02T13:16:32.266+02:00"}
 ---
 
 > Wide Area Network
@@ -9,8 +9,8 @@
 
 Öffentliche [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] über große Distanz:
 - [[02 - RESOURCES/Notes/DOCSIS\|DOCSIS]]
-- [[FTTC\|FTTC]]
 - [[02 - RESOURCES/Notes/DSL\|DSL]]
+- [[FTTC\|FTTC]]
 - [[FTTB\|FTTB]]
 - [[FTTH\|FTTH]]
 - [[FTTD\|FTTD]]
