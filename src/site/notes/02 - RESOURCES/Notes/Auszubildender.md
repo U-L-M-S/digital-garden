@@ -1,11 +1,7 @@
 ---
-tags: 
-- 
-dg-publish: true
-links: 
-path: Notes
-created: 2023-10-13 17:48
+{"dg-publish":true,"permalink":"/02-resources/notes/auszubildender/","tags":[null],"noteIcon":"","updated":"2024-08-02T15:51:14.449+02:00"}
 ---
+
 ## Auszubildender 
 > Jemand der eine Ausbildung macht.
 

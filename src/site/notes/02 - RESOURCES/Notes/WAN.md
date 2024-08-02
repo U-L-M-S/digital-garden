@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wan/","tags":["netzwerk"],"noteIcon":"","updated":"2024-08-02T15:40:24.223+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wan/","tags":["netzwerk"],"noteIcon":"","updated":"2024-08-02T16:07:57.601+02:00"}
 ---
 
 > Wide Area Network
@@ -18,5 +18,7 @@ ___
 - [[02 - RESOURCES/Notes/FTTD\|FTTD]]
 ___
 - [[02 - RESOURCES/Notes/Satelliten-Verbindung\|Satelliten-Verbindung]]
-- [[02 - RESOURCES/Notes/Dialup\|Dialup]]
-- [[Mobilfunknetz\|Mobilfunknetz]]
+___
+- [[02 - RESOURCES/Notes/Dial-Up\|Dial-Up]]
+___
+- [[02 - RESOURCES/Notes/Mobilfunknetz\|Mobilfunknetz]]
