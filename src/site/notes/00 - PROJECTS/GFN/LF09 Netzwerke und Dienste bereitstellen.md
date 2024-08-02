@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-08-02T13:14:41.167+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-08-02T18:31:44.482+02:00"}
 ---
 
 # I. Switching
@@ -60,3 +60,10 @@ ___
 # VII. [[02 - RESOURCES/Notes/WAN\|WAN]]
 ___
 Hier geht es um den Bereich [[02 - RESOURCES/Notes/Internet\|Internet]]. Du wirst lernen, wie man aus dem internen [[02 - RESOURCES/Notes/Netzwerk\|Netz]] herauskommt. Es geht nicht nur über [[02 - RESOURCES/Notes/Router\|Router]], es gibt auch andere Hardware, die du kennenlernen wirst.
+
+Die Haupt Punkten hier sind:
+- [[02 - RESOURCES/Notes/WAN\|WAN]]
+- [[02 - RESOURCES/Notes/Dual Stack\|Dual Stack]]
+- [[02 - RESOURCES/Notes/NAT\|NAT]]
+
+# VIII. [[02 - RESOURCES/Notes/ACL\|ACL]] und DMZ 
