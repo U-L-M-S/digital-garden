@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/nat/","tags":["netzwerk/nat","prüfungsrelevant"],"noteIcon":"","updated":"2024-07-25T14:57:00.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/nat/","tags":["netzwerk/nat","prüfungsrelevant"],"noteIcon":"","updated":"2024-08-02T05:52:07.460+02:00"}
 ---
 
 > Network Address Translation
 
-NAT hat nicht anders gemacht außer bestimmte [[IP-Adresse\|IP-Adresse]] zu zunehmen und diese Private gemacht.
-D.H die Standard Tabelle für IP-Klassen [[02 - RESOURCES/Notes/IPv4#^872578\|IPv4#^872578]] sieht jetzt so aus:
+NAT hat nicht anders gemacht außer bestimmte [[02 - RESOURCES/Notes/IP\|IP]] zu zunehmen und diese Private gemacht.
+D.H die Standard Tabelle für [[02 - RESOURCES/Notes/IPv4-Klassen\|IPv4-Klassen]] sieht jetzt so aus:
 
 |          | -   |             Range             |   Subnet Mask   |
 | :------: | --- | :---------------------------: | :-------------: |

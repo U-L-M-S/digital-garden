@@ -1,11 +1,6 @@
 ---
-tags:
-  - GUI
-  - abkürzung
-dg-publish: true
-links: 
-path: Notes
-created: 2024-06-22 20:09
+{"dg-publish":true,"permalink":"/02-resources/notes/gui/","tags":["GUI"],"noteIcon":"","updated":"2024-08-02T05:26:26.360+02:00"}
 ---
+
 > **G**raphical **U**ser **I**nterface.
 > Alles was der Benutzer als Graphen sehen kann in ein [[02 - RESOURCES/Notes/Software\|Software]].

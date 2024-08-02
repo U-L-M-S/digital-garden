@@ -1,12 +1,8 @@
 ---
-tags:
-  - abkürzung
-dg-publish: true
-links: 
-path: Notes
-created: 2024-06-23 11:12
+{"dg-publish":true,"permalink":"/02-resources/notes/lipsum/","noteIcon":"","updated":"2024-08-02T05:28:00.628+02:00"}
 ---
-> Random Text, oft in Latin für Platzhalterung.
+
+> Random Text, oft in Latin für Platzhalter.
 
 
 BSP:

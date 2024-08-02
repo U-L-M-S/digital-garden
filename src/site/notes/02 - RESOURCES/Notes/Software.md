@@ -1,9 +1,5 @@
 ---
-tags:
-  - abkürzung
-dg-publish: true
-links: 
-path: Notes
-created: 2024-06-22 20:19
+{"dg-publish":true,"permalink":"/02-resources/notes/software/","noteIcon":"","updated":"2024-08-02T05:28:08.234+02:00"}
 ---
+
 > Ein Programm, der eine oder mehrere Anweisungen durchführt.
