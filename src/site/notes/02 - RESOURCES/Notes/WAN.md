@@ -10,7 +10,7 @@ created: 2024-05-08 15:37
 
 ![[wan-netzwerk-erklärt-was-ist-das-lan.avif]]
 
-Öffentliche Netzwerk über große Distanz
+Öffentliche [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] über große Distanz
 - Providernetze
 - DSL
 - Kabelmodem

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-08-02T03:39:57.843+02:00"}
 ---
 
 # I. Switching
@@ -54,4 +54,9 @@ In diese Bereich geht es hauptsächlich um [[02 - RESOURCES/Notes/Subnetting\|Su
 
 # VI. [[02 - RESOURCES/Notes/DHCP\|DHCP]] und [[02 - RESOURCES/Notes/DNS\|DNS]]
 ___
-[[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]]
+[[02 - RESOURCES/Notes/DHCP\|DHCP]], [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]] und [[02 - RESOURCES/Notes/DNS\|DNS]] sollen nach diesem Kapitel keine Fremdwörter mehr für dich sein. Es ist relativ klein, aber wichtig.
+>Du musst unbedingt wissen, wie der [[02 - RESOURCES/Notes/DHCP-Prozess\|DHCP-Prozess]] funktioniert und was [[02 - RESOURCES/Notes/DNS\|DNS]] ist und was es macht.
+
+# VII. [[02 - RESOURCES/Notes/WAN\|WAN]]
+___
+[[02 - RESOURCES/Notes/DOCSIS\|DOCSIS]]

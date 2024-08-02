@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/broadcast-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/broadcast-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-30T08:43:13.000+02:00"}
 ---
 
 >[!example] Bsp

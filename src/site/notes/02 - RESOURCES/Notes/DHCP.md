@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dhcp/","tags":["netzwerk","netzwerk/protocol"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/dhcp/","tags":["netzwerk","netzwerk/protocol"],"noteIcon":"","updated":"2024-08-02T01:14:58.132+02:00"}
 ---
 
 > Dynamic Host Configuration Protocol
@@ -8,6 +8,6 @@
 >>>[[02 - RESOURCES/Notes/IP\|IP]]-Adresse
 >>>[[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]
 >>>[[02 - RESOURCES/Notes/Gateway\|Gateway]]
->>>[[02 - RESOURCES/Notes/DNS-Server\|DNS-Server]]
+>>>[[DNS-Server\|DNS-Server]]
 >
->Es wird [[02 - RESOURCES/Notes/UDP\|UDP]] verwendet.
+>Die [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]]-Übertragung passiert über [[02 - RESOURCES/Notes/UDP\|UDP]].

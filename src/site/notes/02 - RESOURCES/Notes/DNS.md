@@ -1,20 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dns/","tags":["netzwerk/dns"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/dns/","tags":["netzwerk/dns"],"noteIcon":"","updated":"2024-08-02T03:07:47.735+02:00"}
 ---
 
-> Domain Name System
+> [[02 - RESOURCES/Notes/Domain\|Domain]] Name System
 
+Wenn wir beispielsweise eine URL in unseren Browser eingeben, wie zum Beispiel [www.haus-meyer.bank.com](http://www.haus-meyer.bank.com), werden wir direkt zur Website der Bank Haus Meyer weitergeleitet. Der Prozess, der das möglich macht, ist jedoch nicht so simpel, wie es scheint.
 
-
-Wenn wir beispielsweise eine URL in unseren Browser eingeben, wie zum Beispiel www.haus-meyer.bank.com, werden wir direkt zur Website der Bank Haus Meyer weitergeleitet. Der Prozess, der all das möglich macht, ist nicht so simpel, wie es scheint.
-
-Um zu begreifen, was eigentlich hinter den Bühne passiert, musst du verstehen, was Domain Name Server (DNS) sind und wie der gesamte Ablauf von Anfragen (Requests) und Antworten (Responses) funktioniert.
+Um zu verstehen, was hinter den Kulissen passiert, musst du wissen, was Domain Name Server (DNS) sind und wie der gesamte Ablauf von Anfragen (Requests) und Antworten (Responses) funktioniert.
 
 <mark style="background: #BBFABBA6;">haus-meyer</mark>.<mark style="background: #FFF3A3A6;">bank</mark>.<mark style="background: #FF5582A6;">com</mark>
 
-<mark style="background: #BBFABBA6;">[[02 - RESOURCES/Notes/subdomain\|subdomain]]</mark>
-<mark style="background: #FFF3A3A6;">[[02 - RESOURCES/Notes/domain\|domain]]</mark>
-<mark style="background: #FF5582A6;">[[02 - RESOURCES/Notes/top-level Domain\|top-level Domain]]</mark>
+<mark style="background: #BBFABBA6;">[[02 - RESOURCES/Notes/Subdomain\|Subdomain]]</mark>
+<mark style="background: #FFF3A3A6;">[[02 - RESOURCES/Notes/Domain\|Domain]]</mark>
+<mark style="background: #FF5582A6;">[[02 - RESOURCES/Notes/TLD\|TLD]]</mark>
 
 ```mermaid
 graph LR
@@ -50,6 +48,6 @@ Um das besser zu verstehen. Lass uns den Website [uol](https://www.uol.com.br/) 
 >- Mein Browser schickt ein Request an der Resolver in Frankfurt
 > - Diese schickt eine request an den Root-Server(am nähst) mit den Endung '.br' 
 > - Es kriegt zurück eine Liste mit allen Root-Servers die '.br' TLD haben 
-> - Der Resolver schickt erneut eine Request , aber dieses mal an der Authoritative Server und diese schickt der IP von uol zurück 
+> - Der Resolver schickt erneut eine Request , aber dieses mal an der Authoritative Server und diese schickt der [[02 - RESOURCES/Notes/IP\|IP]] von uol zurück 
 > - Sobald der Recursive Resolver das enthält schickt es an mein Browser zurück 
-> - mein Browser jetzt muss nur ein Request an diese IP schicken und auf den Response warten
+> - mein Browser jetzt muss nur ein Request an diese [[02 - RESOURCES/Notes/IP\|IP]] schicken und auf den Response warten
