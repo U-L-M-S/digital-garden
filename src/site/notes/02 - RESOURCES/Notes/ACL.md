@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/acl/","tags":["netzwerk/firewall"],"noteIcon":"","updated":"2024-08-04T00:02:57.936+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/acl/","tags":["netzwerk/firewall"],"noteIcon":"","updated":"2024-08-04T00:05:34.817+02:00"}
 ---
 
 ![ACL-20240804000247511.png](/img/user/02%20-%20RESOURCES/Files/ACL-20240804000247511.png)
@@ -13,4 +13,4 @@
 - [[02 - RESOURCES/Notes/TCP\|TCP]]- und [[02 - RESOURCES/Notes/UDP\|UDP]]-Ports
 - [[02 - RESOURCES/Notes/ICMP\|ICMP]] und andere [[02 - RESOURCES/Notes/Protokoll\|Protokoll]]en
 
->>Jeder Netzwerkpakete wird anhand von einer Regel-Liste (von oben nach unter), wenn eine Regel getroffen wird, wird diese getriggert und durchgeführt und der Vorgang beendet.
+>>Jeder [[02 - RESOURCES/Notes/Datenpakete\|Netzwerkpakete]] wird anhand von einer Regel-Liste (von oben nach unter), wenn eine Regel getroffen wird, wird diese getriggert und durchgeführt und der Vorgang beendet.

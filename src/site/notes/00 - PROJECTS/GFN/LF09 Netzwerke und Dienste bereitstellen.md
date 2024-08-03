@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-08-03T23:55:17.476+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-08-04T00:14:23.809+02:00"}
 ---
 
 # I. Switching
@@ -67,3 +67,8 @@ Die Haupt Punkten hier sind:
 - [[02 - RESOURCES/Notes/NAT\|NAT]]
 
 # VIII. [[02 - RESOURCES/Notes/ACL\|ACL]] und [[02 - RESOURCES/Notes/DMZ\|DMZ]] 
+___
+>Kleine, aber wichtige Themen! Es geht um die Sicherheit im [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]], insbesondere um Verbindungen von außen nach innen. Diese Konzepte und Werkzeuge werden in Firewalls verwendet.
+
+# IX. [[02 - RESOURCES/Notes/WLAN\|WLAN]]
+___

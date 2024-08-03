@@ -19,9 +19,8 @@ created: 2024-05-06 15:09
 
 
 
-> Wireless LAN
-
-Drahtloses [[02 - RESOURCES/Notes/LAN\|LAN]].
+>Wireless [[02 - RESOURCES/Notes/LAN\|LAN]]
+>Drahtloses [[02 - RESOURCES/Notes/LAN\|LAN]]
 
 </div></div>
 
