@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-31T05:06:19.880+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-08-03T10:53:49.288+02:00"}
 ---
 
 > 32-[[02 - RESOURCES/Notes/Bit\|bit]]-Binärzahlen, die in [[02 - RESOURCES/Notes/Dezimal\|Dezimal]] dargestellt werden und mit "**.**"  in vier [[02 - RESOURCES/Notes/Oktett\|Oktett]]e getrennt sind.  
@@ -23,7 +23,7 @@ Obwohl man eine [[02 - RESOURCES/Notes/static\|static]] [[02 - RESOURCES/Notes/I
 >
 >2- [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]-Adresse
 
-Wenn man ein [[02 - RESOURCES/Notes/IP\|IP]] wie 192.168.1.204 und ein [[02 - RESOURCES/Notes/Gateway\|Gateway]] wie 192.168.1.4 hat. Dann kann ich insgesamt 255 [[02 - RESOURCES/Notes/IP\|IP]] haben [192.168.1.**0**, 192.168.1.**1**, 192.168.1.**2**, ..., 192.168.1.**255** ]. 
+Wenn man ein [[02 - RESOURCES/Notes/IP\|IP]] wie 192.168.1.204 und ein [[02 - RESOURCES/Notes/Gateway\|Gateway]] wie 192.168.1.1 hat. Dann kann ich insgesamt 255 [[02 - RESOURCES/Notes/IP\|IP]] haben [192.168.1.**0**, 192.168.1.**1**, 192.168.1.**2**, ..., 192.168.1.**255** ]. 
 
 Nützen darf ich nur 253. Das sind alle die zwischen **1** und  **254** sind. 
 Da 192.168.1.0 reserviert ist, für den [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] Address und soeben 192.168.1.255 für den [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] 
