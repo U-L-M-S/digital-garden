@@ -21,7 +21,7 @@ created: 2024-05-06 15:09
 
 > Wireless LAN
 
-Drahtloses, in ein [[02 - RESOURCES/Notes/LAN\|LAN]].
+Drahtloses [[02 - RESOURCES/Notes/LAN\|LAN]].
 
 </div></div>
 
