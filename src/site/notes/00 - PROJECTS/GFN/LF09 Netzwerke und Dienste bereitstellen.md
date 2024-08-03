@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-08-02T18:31:44.482+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-08-03T23:55:17.476+02:00"}
 ---
 
 # I. Switching
@@ -66,4 +66,4 @@ Die Haupt Punkten hier sind:
 - [[02 - RESOURCES/Notes/Dual Stack\|Dual Stack]]
 - [[02 - RESOURCES/Notes/NAT\|NAT]]
 
-# VIII. [[02 - RESOURCES/Notes/ACL\|ACL]] und DMZ 
+# VIII. [[02 - RESOURCES/Notes/ACL\|ACL]] und [[02 - RESOURCES/Notes/DMZ\|DMZ]] 
