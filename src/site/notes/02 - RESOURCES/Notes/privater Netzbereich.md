@@ -22,6 +22,12 @@ created: 2024-05-06 15:09
 >Wireless [[02 - RESOURCES/Notes/LAN\|LAN]]
 >Drahtloses [[02 - RESOURCES/Notes/LAN\|LAN]]
 
+Es gibt hauptsächlich 3 Frequenzbereiche für . Diese sind:
+
+[[02 - RESOURCES/Notes/2.4 GHz Frequenzbereich\|2.4 GHz Frequenzbereich]]
+[[02 - RESOURCES/Notes/5 GHz Frequenzbereich\|5 GHz Frequenzbereich]]
+[[02 - RESOURCES/Notes/6 GHz Frequenzbereich\|6 GHz Frequenzbereich]]
+
 </div></div>
 
 

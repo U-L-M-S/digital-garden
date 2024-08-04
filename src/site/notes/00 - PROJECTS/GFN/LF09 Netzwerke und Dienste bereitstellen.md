@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-08-04T00:14:23.809+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","inProgress","GFN","netzwerk"],"noteIcon":"","updated":"2024-08-04T20:52:30.460+02:00"}
 ---
 
 # I. Switching
@@ -59,16 +59,18 @@ ___
 
 # VII. [[02 - RESOURCES/Notes/WAN\|WAN]]
 ___
-Hier geht es um den Bereich [[02 - RESOURCES/Notes/Internet\|Internet]]. Du wirst lernen, wie man aus dem internen [[02 - RESOURCES/Notes/Netzwerk\|Netz]] herauskommt. Es geht nicht nur über [[02 - RESOURCES/Notes/Router\|Router]], es gibt auch andere Hardware, die du kennenlernen wirst.
+Hier geht es um den Bereich [[02 - RESOURCES/Notes/Internet\|Internet]]. Du wirst lernen, wie man aus dem internen [[02 - RESOURCES/Notes/Netzwerk\|Netz]] herauskommt. Es geht nicht nur um [[02 - RESOURCES/Notes/Router\|Router]], es gibt auch andere Hardware, die du kennenlernen wirst.
 
-Die Haupt Punkten hier sind:
+Die Hauptpunkte hier sind:
 - [[02 - RESOURCES/Notes/WAN\|WAN]]
 - [[02 - RESOURCES/Notes/Dual Stack\|Dual Stack]]
 - [[02 - RESOURCES/Notes/NAT\|NAT]]
 
 # VIII. [[02 - RESOURCES/Notes/ACL\|ACL]] und [[02 - RESOURCES/Notes/DMZ\|DMZ]] 
 ___
->Kleine, aber wichtige Themen! Es geht um die Sicherheit im [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]], insbesondere um Verbindungen von außen nach innen. Diese Konzepte und Werkzeuge werden in Firewalls verwendet.
+>Kleine, aber wichtige Themen! 
+>Es geht um die Sicherheit im [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]], insbesondere um Verbindungen von außen nach innen. 
+>Diese Konzepte und Werkzeuge werden in Firewalls verwendet.
 
 # IX. [[02 - RESOURCES/Notes/WLAN\|WLAN]]
 ___
