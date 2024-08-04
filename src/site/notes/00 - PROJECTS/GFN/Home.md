@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry"],"noteIcon":"","updated":"2024-07-31T14:19:11.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry"],"noteIcon":"","updated":"2024-08-04T21:20:05.677+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -28,6 +28,7 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 [[00 - PROJECTS/GFN/LF08 Daten systemübergreifend bereitstellen\|LF08 Daten systemübergreifend bereitstellen]]
 [[00 - PROJECTS/GFN/LF09 Netzwerke und Dienste bereitstellen\|LF09 Netzwerke und Dienste bereitstellen]]
 
+[[00 - PROJECTS/GFN/LFF1 Fachliches Englisch\|LFF1 Fachliches Englisch]]
 [[00 - PROJECTS/GFN/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]]
 
 
