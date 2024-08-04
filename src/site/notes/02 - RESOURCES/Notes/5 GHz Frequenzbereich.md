@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/5-g-hz-frequenzbereich/","tags":["netzwerk/wifi"],"noteIcon":"","updated":"2024-08-04T21:18:38.980+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/5-g-hz-frequenzbereich/","tags":["netzwerk/wifi"],"noteIcon":"","updated":"2024-08-04T21:31:27.218+02:00"}
 ---
 
 >[!multi-column]
@@ -9,6 +9,6 @@
 >>- Niedrige Störungsrate
 > 
 >>[!fail] Nachteile
->>- [[Ad-hoc-Modus\|Ad-hoc-Modus]] wird von den meisten Geräten nicht unterstützt.
+>>- [[02 - RESOURCES/Notes/Ad-hoc Mode\|Ad-hoc Mode]] wird von den meisten Geräten nicht unterstützt.
 >>- Riesig Datenverlust durch Wände. 
 

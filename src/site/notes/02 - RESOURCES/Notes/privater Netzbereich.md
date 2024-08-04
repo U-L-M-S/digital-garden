@@ -28,6 +28,10 @@ Es gibt hauptsächlich 3 Frequenzbereiche für . Diese sind:
 [[02 - RESOURCES/Notes/5 GHz Frequenzbereich\|5 GHz Frequenzbereich]]
 [[02 - RESOURCES/Notes/6 GHz Frequenzbereich\|6 GHz Frequenzbereich]]
 
+# [[02 - RESOURCES/Notes/WLAN Standards\|WLAN Standards]] 
+
+# [[02 - RESOURCES/Notes/WLAN-Verschlüsselung\|WLAN-Verschlüsselung]]
+
 </div></div>
 
 
