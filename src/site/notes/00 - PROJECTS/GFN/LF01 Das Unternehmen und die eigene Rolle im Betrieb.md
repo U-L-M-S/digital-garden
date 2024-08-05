@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["GFN","inProgress","LF01"],"noteIcon":"","updated":"2024-08-04T21:22:22.888+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["GFN","inProgress","LF01"],"noteIcon":""}
 ---
 
 ## Das Duale System 
