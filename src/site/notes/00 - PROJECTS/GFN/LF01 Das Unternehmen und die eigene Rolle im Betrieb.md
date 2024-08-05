@@ -2,8 +2,12 @@
 {"dg-publish":true,"permalink":"/00-projects/gfn/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["GFN","inProgress","LF01"],"noteIcon":""}
 ---
 
-## Das Duale System 
-In Deutschland basiert die Berufsausbildung in eine [[02 - RESOURCES/Notes/Duale System\|Duale System]].
+# I. Das Duale System vorstellen Präsentation
+>In Deutschland basiert die Berufsausbildung in eine [[02 - RESOURCES/Notes/Duale System\|Duale System]].
+___
+
+
+
 
 Der [[02 - RESOURCES/Notes/Auszubildender\|Auszubildender]] wird während sein Zeit in [[02 - RESOURCES/Notes/Betrieb\|Betrieb]] von einer [[02 - RESOURCES/Notes/Ausbilder\|Ausbilder]] verantwortlich sein, beiden haben ihre Pflichten.
 
@@ -23,7 +27,6 @@ Bevor die Ausbildung beginnt ist es wichtig, dass der [[02 - RESOURCES/Notes/Aus
 
 ### Begriffen
 Du muss in der Lager sein zu unterscheiden: [[02 - RESOURCES/Notes/Firma\|Firma]],  [[02 - RESOURCES/Notes/Betrieb\|Betrieb]] und [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]. 
-
 ### Good to know:
 [[02 - RESOURCES/Notes/GmbH\|GmbH]]   
 [[02 - RESOURCES/Notes/eG\|eG]] 

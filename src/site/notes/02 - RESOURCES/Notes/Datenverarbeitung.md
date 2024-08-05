@@ -1,11 +1,7 @@
 ---
-tags: 
-- 
-dg-publish: true
-links: 
-path: Notes
-created: 2024-03-11 09:47
+{"dg-publish":true,"permalink":"/02-resources/notes/datenverarbeitung/","tags":["LF02"],"noteIcon":""}
 ---
+
 > Es bezeichnet den organisierten Umgang mit Datenmengen mit dem Ziel. Informationen zu gewinnen oder die Datenmenge zu verändern.
 
 
