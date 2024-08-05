@@ -3,9 +3,3 @@
 ---
 
 > Ein Bit ist die kleinste Informationseinheit in der Informatik. Es kann nur zwei Zustände annehmen: 0 oder 1.
-
-
-| A   | B   |
-| --- | --- |
-|     |     |
-|     |     |
