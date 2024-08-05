@@ -28,10 +28,9 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 [[00 - PROJECTS/GFN/LF08 Daten systemübergreifend bereitstellen\|LF08 Daten systemübergreifend bereitstellen]]
 [[00 - PROJECTS/GFN/LF09 Netzwerke und Dienste bereitstellen\|LF09 Netzwerke und Dienste bereitstellen]]
 
+
 [[00 - PROJECTS/GFN/LFF1 Fachliches Englisch\|LFF1 Fachliches Englisch]]
 [[00 - PROJECTS/GFN/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]]
-
-
 ___
 ___
 
@@ -48,4 +47,3 @@ Sie wurde von ehrenamtlichen Teilnehmern der GFN GmbH erstellt, gehostet und gep
 >
 >Jeder, der interessiert ist, sich zu beteiligen, ist herzlich eingeladen.
 >- [GitHub](https://github.com/U-L-M-S/digital-garden)
-
