@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/00-projects/gfn/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["GFN","inProgress","LF01"],"noteIcon":""}
 ---
 
-# I. Das Duale System vorstellen Präsentation
+# I. Das [[02 - RESOURCES/Notes/Duale System\|Duale System]] vorstellen Präsentation
 >In Deutschland basiert die Berufsausbildung in eine [[02 - RESOURCES/Notes/Duale System\|Duale System]].
 ___
 
