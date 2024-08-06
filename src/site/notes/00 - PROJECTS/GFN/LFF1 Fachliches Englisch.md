@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lff-1-fachliches-englisch/","tags":["LFF1"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lff-1-fachliches-englisch/","tags":["LFF1"],"noteIcon":"","updated":"2024-08-06T04:28:21.126+02:00"}
 ---
 
 # I. People and jobs in IT

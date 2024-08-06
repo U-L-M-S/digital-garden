@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/tertiaerverkabelung/","tags":["LF03","netzwerk/kabel"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/tertiaerverkabelung/","tags":["LF03","netzwerk/kabel"],"noteIcon":"","updated":"2024-08-02T13:12:58.709+02:00"}
 ---
 
 ![Tertiärverkabelung-20240802130932832.png](/img/user/02%20-%20RESOURCES/Files/Terti%C3%A4rverkabelung-20240802130932832.png)

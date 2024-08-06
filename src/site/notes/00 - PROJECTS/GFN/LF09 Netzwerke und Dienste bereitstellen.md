@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","GFN","netzwerk","finished"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","GFN","netzwerk","finished"],"noteIcon":"","updated":"2024-08-06T22:50:06.913+02:00"}
 ---
 
 # I. Switching
@@ -76,3 +76,11 @@ ___
 ___
 >Dieses Kapitel beschäftigt sich nur mit [[02 - RESOURCES/Notes/WLAN\|WLAN]]s: deren Modelle, Frequenzen und Sicherheit. 
 >Es wird besonders auf die Thematik der Frequenzbereiche eingegangen.
+
+
+
+___
+>[!info] 
+>Diese Zusammenfassung basiert auf den Materialien von Herrn Ralf Behnke. 
+>Die Informationen und Konzepte wurden aus den von ihm bereitgestellten Lehrunterlagen und Vorlesungen entnommen. 
+>Mein Ziel war es, die wesentlichen Punkte zusammenzufassen und die Kerninhalte verständlich darzustellen.
