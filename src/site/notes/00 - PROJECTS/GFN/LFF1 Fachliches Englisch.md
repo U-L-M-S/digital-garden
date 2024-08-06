@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lff-1-fachliches-englisch/","tags":["LFF1"],"noteIcon":"","updated":"2024-08-06T04:28:21.126+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lff-1-fachliches-englisch/","tags":["LFF1"],"noteIcon":"","updated":"2024-08-07T00:04:36.771+02:00"}
 ---
 
 # I. People and jobs in IT
@@ -27,5 +27,4 @@ However, they often start a conversation by going straight to the point.
 
 
 [https://www.monster.com/career-advice/article/it-cover-letter-sample](https://www.monster.com/career-advice/article/it-cover-letter-sample "https://www.monster.com/career-advice/article/it-cover-letter-sample")
-
 ![LFF1 Fachliches Englisch-20240806042508993.png](/img/user/02%20-%20RESOURCES/Files/LFF1%20Fachliches%20Englisch-20240806042508993.png)
