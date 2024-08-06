@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sdsl/","tags":["netzwerk","hardware"],"noteIcon":"","updated":"2024-08-02T14:04:37.458+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sdsl/","tags":["netzwerk","hardware"],"noteIcon":""}
 ---
 
 >Symmetric [[02 - RESOURCES/Notes/DSL\|DSL]]

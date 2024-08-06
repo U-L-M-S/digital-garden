@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java"],"noteIcon":"","updated":"2024-07-03T14:28:08.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java","inProgress"],"noteIcon":""}
 ---
 
 ## IV. [[02 - RESOURCES/Notes/Software-Ergonomie\|Software-Ergonomie]] von Benutzerschnittstellen
 
-In diesem Kapitel lernen wir den Begriff [[02 - RESOURCES/Notes/Software-Ergonomie\|Software-Ergonomie]] kennen. Wie der Name schon sagt, es ist nicht anders als ein Software so einfach stellen, dass der Nutzer sofort verstehen kann was er tun kann und was zutun ist.
+In diesem Kapitel lernen wir den Begriff [[02 - RESOURCES/Notes/Software-Ergonomie\|Software-Ergonomie]] kennen. Wie der Name schon sagt, geht es darum, Software so einfach zu gestalten, dass der Nutzer sofort verstehen kann was er tun kann und was zu tun ist.
 
-Natürlich spielt [[02 - RESOURCES/Notes/UX\|UX]] eine Rolle in diese Thematik und soeben andere Themen wie [[02 - RESOURCES/Notes/Corporate Design\|Corporate Design]]
+Natürlich spielt [[02 - RESOURCES/Notes/UX\|UX]] eine Rolle in dieser Thematik sowie andere Themen wie [[02 - RESOURCES/Notes/Corporate Design\|Corporate Design]].
 
 ___
 

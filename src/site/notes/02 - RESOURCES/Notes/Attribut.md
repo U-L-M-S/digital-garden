@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/attribut/","tags":["OOP"],"noteIcon":"","updated":"2024-08-02T05:25:30.962+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/attribut/","tags":["OOP"],"noteIcon":""}
 ---
 
 > Eigenschaften von eine Klasse.
