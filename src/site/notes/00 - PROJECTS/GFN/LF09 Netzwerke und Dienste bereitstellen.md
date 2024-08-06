@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","GFN","netzwerk","finished"],"noteIcon":"","updated":"2024-08-06T22:50:06.913+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","GFN","netzwerk","finished"],"noteIcon":"","updated":"2024-08-06T23:07:15.855+02:00"}
 ---
 
 # I. Switching
@@ -80,6 +80,9 @@ ___
 
 
 ___
+___
+___
+
 >[!info] 
 >Diese Zusammenfassung basiert auf den Materialien von Herrn Ralf Behnke. 
 >Die Informationen und Konzepte wurden aus den von ihm bereitgestellten Lehrunterlagen und Vorlesungen entnommen. 
