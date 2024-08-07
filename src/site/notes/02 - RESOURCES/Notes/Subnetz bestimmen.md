@@ -7,7 +7,7 @@
 
 > [!example]  Beispiel 1 - Einfach
 > Gegeben: 192.152.0.0/24. 
-> Teile dieses [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] in 12 gleich große [[Subnetze\|Subnetze]] auf. Gib die [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] des 7. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]es an.
+> Teile dieses [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] in 12 gleich große [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e auf. Gib die [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] des 7. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]es an.
 > 
 > Erstens müssen wir den [[02 - RESOURCES/Notes/Netzanteil\|Netzanteil]] um 4 Bits erweitern.  
 > 24=162^{4}=1624=16  
