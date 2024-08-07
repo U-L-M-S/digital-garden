@@ -42,7 +42,7 @@
 
 >[!example] Beispiel 2 - Extrem
 >Gegeben: 14.0.0.0/8 
->Teile dieses [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] in 268 gleich große [[Subnetze\|Subnetze]] auf. Gib die [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] des 158. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]es an.
+>Teile dieses [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] in 268 gleich große [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e auf. Gib die [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] des 158. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]es an.
 >
 >>Wir könnte das Tabellarisch lösen, es wurde aber viel zu viel Zeit benötigen.
 >>Dafür gibt es ein Algorithmus.
