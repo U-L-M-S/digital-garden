@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["GFN","inProgress","LF01"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["GFN","inProgress","LF01","prüfungsrelevant"],"noteIcon":""}
 ---
 
 # I. Das [[02 - RESOURCES/Notes/Duale System\|Duale System]] vorstellen Präsentation

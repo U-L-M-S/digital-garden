@@ -10,7 +10,7 @@
 > Teile dieses [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] in 12 gleich große [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e auf. Gib die [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] des 7. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]es an.
 > 
 > Erstens müssen wir den [[02 - RESOURCES/Notes/Netzanteil\|Netzanteil]] um 4 Bits erweitern.  
-> 24=162^{4}=1624=16  
+> $$2^{4}=16$$  
 > 192.152.0.0/28
 > 
 > Jetzt müssen wir mit [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en arbeiten.  
@@ -44,13 +44,28 @@
 >Gegeben: 14.0.0.0/8 
 >Teile dieses [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] in 268 gleich große [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e auf. Gib die [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] des 158. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]es an.
 >
->>Wir könnte das Tabellarisch lösen, es wurde aber viel zu viel Zeit benötigen.
->>Dafür gibt es ein Algorithmus.
+>>Wir könnten das tabellarisch lösen, es würde jedoch viel zu viel Zeit in Anspruch nehmen.
+>>Dafür gibt es einen Algorithmus.
 >>Es sieht so aus:
 >
->Lass uns das [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]  in Binär umwandeln und diese erweitern:
+>Lass uns das [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]  in Binär umwandeln und erweitern:
 >255.0.0.0 > 11111111.00000000.00000000.00000000
 >>$$2^{9}=512$$
 >[[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] 9 [[02 - RESOURCES/Notes/Bit\|Bit]]s erweitern.
 >11111111.00000000.00000000.00000000 > 11111111.11111111.10000000.00000000
 >
+>Jetzt müssen wir die gewünschte [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] in Binär umstellen.
+>>158 > 10011110
+>
+>und diese in die  [[02 - RESOURCES/Notes/IP\|IP]] ( als Binär) einsetzen,  wo die erweiterte<mark style="background: #FFF3A3A6;"> [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] </mark>relevant ist (von hinten nach vorne).
+>>14.0.0.0 > 00001110.00000000.00000000.00000000
+>
+>
+>
+>|  00001110   | <mark style="background: #FFF3A3A6;">00000000</mark>    |  <mark style="background: #FFF3A3A6;">0</mark>0000000   |  00000000   |
+>| --- | ---: | --- | --- |
+>|     |  1001111   |  0   |     |
+>
+>00001110.X1001111.00000000.00000000
+>
+>> 
