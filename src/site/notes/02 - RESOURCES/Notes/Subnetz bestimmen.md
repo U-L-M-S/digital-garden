@@ -68,4 +68,15 @@
 >
 >00001110.X1001111.00000000.00000000
 >
->> 
+>> Es ist dir aufgefallen das 158 (10011110) nicht jeder [[02 - RESOURCES/Notes/Bit\|Bit]] befählen kann.
+>> Daher hab ich ein X eingesetzt, da wo es nicht einfühlen kann.
+>> Dieser X muss man mit nullen (0) fühlen und schon hat man das [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]].
+>
+>00001110.01001111.00000000.00000000
+>14.79.0.0
+>
+>Und schon können wir lesen, dass das 14.79.0.0 das [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] ist und um das Broadcast herausfinden müssen wir die ganze Nullen mit eins vertauschen.
+>#### 
+>
+>00001110.01001111.11111111.11111111
+>14.79.255.255
