@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4-header/"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4-header/","updated":"2024-07-22T14:57:57.000+02:00"}
 ---
 
 

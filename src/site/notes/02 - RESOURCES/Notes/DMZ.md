@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dmz/","tags":["netzwerk/firewall"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/dmz/","tags":["netzwerk/firewall"],"updated":"2024-08-04T00:05:58.000+02:00"}
 ---
 
 ![DMZ-20240804000213781.png](/img/user/02%20-%20RESOURCES/Files/DMZ-20240804000213781.png)

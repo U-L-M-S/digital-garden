@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java","inProgress"]}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java","inProgress"],"updated":"2024-08-10T23:33:29.441+02:00"}
 ---
 
 # I. Aufträge im Rahmen von Softwareprojekten bearbeiten
-
 
 # IV. [[02 - RESOURCES/Notes/Software-Ergonomie\|Software-Ergonomie]] von Benutzerschnittstellen
 

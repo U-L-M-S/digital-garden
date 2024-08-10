@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dial-up/","tags":["netzwerk","hardware"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/dial-up/","tags":["netzwerk","hardware"],"updated":"2024-08-02T16:41:10.000+02:00"}
 ---
 
 ![Dial-Up-20240802160446072.png](/img/user/02%20-%20RESOURCES/Files/Dial-Up-20240802160446072.png)

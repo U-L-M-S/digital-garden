@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/schluesselattribut/","tags":["datenbank"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/schluesselattribut/","tags":["datenbank"],"updated":"2024-08-02T05:28:42.000+02:00"}
 ---
 
 > Einzigartig [[02 - RESOURCES/Notes/Attribut\|Attribut]], der verwendet wird um eine [[02 - RESOURCES/Notes/Entität\|Entität]] zu erkennen.

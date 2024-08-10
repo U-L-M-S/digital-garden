@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/link-state-routing/","tags":["netzwerk/protocol"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/link-state-routing/","tags":["netzwerk/protocol"],"updated":"2024-07-24T15:54:58.000+02:00"}
 ---
 
 >Nicht der kürzeste Weg ([[02 - RESOURCES/Notes/Hop\|Hop]]), sondern der schnellste Weg wird hier verwendet.
