@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/primaerverkabelung/","tags":["netzwerk/kabel","LF03"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/02-resources/notes/primaerverkabelung/","tags":["netzwerk/kabel","LF03"],"noteIcon":"","updated":"2024-08-02T13:03:59.813+02:00"}
 ---
 
 ![Primärverkabelung-20240802125838064.png|388](/img/user/02%20-%20RESOURCES/Files/Prim%C3%A4rverkabelung-20240802125838064.png)
