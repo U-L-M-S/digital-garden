@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/00-projects/gfn/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["LF09","GFN","netzwerk","finished"]}
 ---
 
+>Dieses Lernfeld ist eine Erweiterung von [[00 - PROJECTS/GFN/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]. 
+>>Hier werden wir das Thema [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] nun etwas tiefer behandeln.
 # I. Switching
 ___
 Wie der Name schon sagt, es geht hier hauptsächlich um [[02 - RESOURCES/Notes/Switch\|Switch]]es.

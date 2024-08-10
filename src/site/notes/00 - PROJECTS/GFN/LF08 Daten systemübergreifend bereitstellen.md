@@ -2,12 +2,13 @@
 {"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java","inProgress"]}
 ---
 
-## IV. [[02 - RESOURCES/Notes/Software-Ergonomie\|Software-Ergonomie]] von Benutzerschnittstellen
+# I. Aufträge im Rahmen von Softwareprojekten bearbeiten
 
-In diesem Kapitel lernen wir den Begriff [[02 - RESOURCES/Notes/Software-Ergonomie\|Software-Ergonomie]] kennen. Wie der Name schon sagt, geht es darum, Software so einfach zu gestalten, dass der Nutzer sofort verstehen kann was er tun kann und was zu tun ist.
 
-Natürlich spielt [[02 - RESOURCES/Notes/UX\|UX]] eine Rolle in dieser Thematik sowie andere Themen wie [[02 - RESOURCES/Notes/Corporate Design\|Corporate Design]].
+# IV. [[02 - RESOURCES/Notes/Software-Ergonomie\|Software-Ergonomie]] von Benutzerschnittstellen
 
+>In diesem Kapitel lernen wir den Begriff [[02 - RESOURCES/Notes/Software-Ergonomie\|Software-Ergonomie]] kennen.
+>>Wie der Name schon sagt, geht es darum, Software so einfach zu gestalten, dass der Nutzer sofort verstehen kann was er tun kann und was zu tun ist. Natürlich spielt [[02 - RESOURCES/Notes/UX\|UX]] eine Rolle in dieser Thematik sowie andere Themen wie [[02 - RESOURCES/Notes/Corporate Design\|Corporate Design]].
 ___
 
 Als nächste soll man verstehen was den Begriff [[02 - RESOURCES/Notes/GUI\|GUI]] bedeutet und wie diese aufgebaut ist. Diese kann man in 4 Schritten aufteilen.
@@ -25,14 +26,14 @@ Als nächste soll man verstehen was den Begriff [[02 - RESOURCES/Notes/GUI\|GUI]
 - Prototyp: 
 	-  Funktionen und Verlinkung werden eingesetzt.
 
-## V. Anwendungen in Java implementieren
+# V. Anwendungen in Java implementieren
 In diesem Kapitel geht es nur um [[00 - PROJECTS/Java\|Java]].
 
 
-## VI. Anwendungen in Python implementieren
+# VI. Anwendungen in Python implementieren
 In diesem Kapitel geht es nur um [[00 - PROJECTS/Python\|Python]].
 
-## VII. Datenbanklösungen bedarfsgerecht entwickeln
+# VII. Datenbanklösungen bedarfsgerecht entwickeln
 In diesem Kapitel geht es nur um [[00 - PROJECTS/SQL\|SQL]].
 
 Es ist eigentlich nur eine Wiederholung aber etwas intensiver und mit mehr Theorie.
