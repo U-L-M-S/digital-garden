@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry","gardenEntry"],"noteIcon":"","updated":"2024-08-05T09:40:16.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry"]}
 ---
 
 # Hallo zusammen 😄 
@@ -29,7 +29,6 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 [[00 - PROJECTS/GFN/LF09 Netzwerke und Dienste bereitstellen\|LF09 Netzwerke und Dienste bereitstellen]]
 
 
-[[00 - PROJECTS/GFN/LFF1 Fachliches Englisch\|LFF1 Fachliches Englisch]]
 [[00 - PROJECTS/GFN/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]]
 ___
 ___
