@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/berufsausbildungsvertrag/","tags":["prüfungsrelevant","LF01"],"updated":"2024-08-11T00:00:58.930+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/berufsausbildungsvertrag/","tags":["prüfungsrelevant","LF01"],"noteIcon":"","updated":"2024-08-11T00:00:58.000+02:00"}
 ---
 
 > [!important] 

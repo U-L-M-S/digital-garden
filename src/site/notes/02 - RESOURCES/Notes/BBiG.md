@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/b-bi-g/","tags":["BBiG"],"updated":"2024-08-06T15:06:50.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/b-bi-g/","tags":["BBiG"],"noteIcon":"","updated":"2024-08-06T15:06:50.000+02:00"}
 ---
 
 >Berufsbildungsgesetz

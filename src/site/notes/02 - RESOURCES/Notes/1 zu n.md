@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/1-zu-n/","tags":["kardinatität"],"updated":"2024-07-25T21:40:45.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/1-zu-n/","tags":["kardinatität"],"noteIcon":"","updated":"2024-07-25T21:40:45.609+02:00"}
 ---
 
 > 1 zu n | 1:n ODER n zu 1 | n:1

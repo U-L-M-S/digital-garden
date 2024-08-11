@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/tcp/","tags":["netzwerk"],"updated":"2024-07-23T10:12:36.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/tcp/","tags":["netzwerk"],"noteIcon":"","updated":"2024-07-23T10:12:36.000+02:00"}
 ---
 
 >Transmission Control Protocol 
