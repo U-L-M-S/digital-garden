@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/san/","tags":["prüfungsrelevant","netzwerk","speicher"],"noteIcon":"","updated":"2024-07-18T11:00:03.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/san/","tags":["prüfungsrelevant","netzwerk","speicher"]}
 ---
 
 > Storage Area Network 

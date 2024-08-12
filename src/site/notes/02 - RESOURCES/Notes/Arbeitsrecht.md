@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/arbeitsrecht/","tags":["LF01","prüfungsrelevant"],"noteIcon":"","updated":"2024-08-11T00:01:52.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/arbeitsrecht/","tags":["LF01","prüfungsrelevant"]}
 ---
 
 >Es gibt 2 arten von Arbeitsrecht.

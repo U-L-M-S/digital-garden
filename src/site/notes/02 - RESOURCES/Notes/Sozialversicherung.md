@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sozialversicherung/","tags":["LF01","prüfungsrelevant"],"noteIcon":"","updated":"2024-08-11T00:01:31.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sozialversicherung/","tags":["LF01","prüfungsrelevant"]}
 ---
 
 >Es sind hauptsächlich 5 Sozialversicherung.
