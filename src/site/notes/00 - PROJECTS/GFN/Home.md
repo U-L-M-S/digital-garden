@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry"]}
 ---
 
 # Hallo zusammen 😄 
@@ -13,7 +13,7 @@ PS: Alle Zusammenfassungen wurde von mir erstellt (Jemand der deutsch nicht als 
 Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-L-M-S/digital-garden) pushen.
 
 >[!important] 
->Dokumente wie PDF, World und usw (Textdokumente) 
+>Dokumente wie PDF, World usw (Textdokumente) 
 >werden hier nicht unterstützt und somit werden sie nicht angezeigt.
 
 
