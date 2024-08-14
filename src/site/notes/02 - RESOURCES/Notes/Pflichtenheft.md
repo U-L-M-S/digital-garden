@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pflichtenheft/","tags":["prüfungsrelevant","projektmanagement"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/pflichtenheft/","tags":["prüfungsrelevant","projektmanagement"],"noteIcon":"","updated":"2024-07-16T11:18:32.000+02:00"}
 ---
 
 >Notwendig Dokument für die Entstehung eines Projekts.
