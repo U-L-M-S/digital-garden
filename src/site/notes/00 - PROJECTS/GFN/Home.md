@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry"],"noteIcon":"","updated":"2024-08-16T18:43:58.067+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry"],"noteIcon":"","updated":"2024-08-16T18:45:55.115+02:00"}
 ---
 
 # Hallo zusammen 😄 
 
 >Das ist meine Zusammenfassung für die IHK-Prüfung als Fachinformatik für Anwendungsentwickler.
-
-Ich hoffe es gefällt euch!
+>Ich hoffe es gefällt euch!
 
 >>PS: Alle Zusammenfassungen wurde von mir erstellt (Jemand der deutsch nicht als Muttersprachen hat). Mit andere Wörter: erwartet nicht von mir ein **super**-hochdeutsch (Das heißt meine Satzbildung so einfach sein wird, dass sogar Ausländer die verstehen können).
 
