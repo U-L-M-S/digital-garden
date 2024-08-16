@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lastenheft/","tags":["prüfungsrelevant","projektmanagement"],"noteIcon":"","updated":"2024-07-16T10:33:29.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/lastenheft/","tags":["prüfungsrelevant","projektmanagement"]}
 ---
 
 >Notwendige Dokument für die Definition und Beschreibung der Kundenanforderungen und Erwartungen an ein Projekt. Ein [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] legt fest, was der Kunde will und braucht, und bildet die Grundlage für das [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]].

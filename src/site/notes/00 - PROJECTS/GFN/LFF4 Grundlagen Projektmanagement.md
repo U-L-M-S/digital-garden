@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lff-4-grundlagen-projektmanagement/","tags":["GFN","inProgress","LFF4"],"noteIcon":"","updated":"2024-08-15T21:41:11.435+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lff-4-grundlagen-projektmanagement/","tags":["GFN","inProgress","LFF4"]}
 ---
 
 > In diese Lernfeld geht es hauptsächlich nur um Projekt.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java","inProgress"],"noteIcon":"","updated":"2024-08-10T23:33:29.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["LF08","GFN","java","inProgress"]}
 ---
 
 # I. Aufträge im Rahmen von Softwareprojekten bearbeiten
