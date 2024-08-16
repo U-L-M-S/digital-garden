@@ -1,12 +1,7 @@
 ---
-tags:
-  - "#netzwerk"
-  - GFN/prüfungsrelevant
-dg-publish: true
-links: 
-path: Notes
-created: 2024-05-06 15:09
+{"dg-publish":true,"permalink":"/02-resources/notes/privater-netzbereich/","tags":["#netzwerk","GFN/prüfungsrelevant"],"noteIcon":"","updated":"2024-08-16T18:39:45.915+02:00"}
 ---
+
 > Unternehmensweites [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] (Privat). Wird verwendet um Daten in eines [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] zu verwalten/bearbeiten/teilen.
 
 	Es gibt 6 hauptsächliche untere Bereiche der Intranet
