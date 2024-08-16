@@ -1,6 +1,6 @@
 ---
 tags:
-  - OOP
+  - code/OOP
 dg-publish: true
 links: 
 path: Notes

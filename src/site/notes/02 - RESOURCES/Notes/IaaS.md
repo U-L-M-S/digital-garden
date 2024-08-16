@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/iaa-s/","tags":["LF03","LF09","netzwerk"],"noteIcon":"","updated":"2024-07-11T09:07:25.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/iaa-s/","tags":["GFN/LF03","GFN/LF09","netzwerk"],"noteIcon":"","updated":"2024-08-16T18:34:27.099+02:00"}
 ---
 
 >Infrastructure as a Service

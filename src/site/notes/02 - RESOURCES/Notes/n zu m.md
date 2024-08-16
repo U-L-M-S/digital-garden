@@ -1,6 +1,6 @@
 ---
 tags:
-  - kardinatität
+  - datenbank/kardinatität
 dg-publish: true
 links: 
 path: Notes

@@ -1,7 +1,7 @@
 ---
 tags:
   - netzwerk
-  - wireless
+  - netzwerk/wireless
 dg-publish: true
 links: 
 path: Notes

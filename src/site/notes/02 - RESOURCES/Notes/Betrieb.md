@@ -1,7 +1,7 @@
 ---
 tags:
   - bwl
-  - "#LF01"
+  - "#GFN/LF01"
 dg-publish: true
 links: 
 path: Notes

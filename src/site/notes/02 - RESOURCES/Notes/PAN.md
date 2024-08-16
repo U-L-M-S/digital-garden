@@ -1,6 +1,6 @@
 ---
 tags:
-  - wireless
+  - netzwerk/wireless
   - netzwerk
 dg-publish: true
 links: 

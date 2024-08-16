@@ -1,7 +1,7 @@
 ---
 tags:
   - datenbank
-  - prüfungsrelevant
+  - GFN/prüfungsrelevant
 dg-publish: true
 links: 
 path: Notes

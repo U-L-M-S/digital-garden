@@ -1,7 +1,7 @@
 ---
 tags:
   - tools
-  - LF08
+  - GFN/LF08
 dg-publish: true
 links: https://www.eclipse.org/downloads/
 path: Notes

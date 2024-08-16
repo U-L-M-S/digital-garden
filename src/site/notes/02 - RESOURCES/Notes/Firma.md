@@ -1,7 +1,7 @@
 ---
 tags:
-  - LF01
-  - "#prüfungsrelevant"
+  - GFN/LF01
+  - "#GFN/prüfungsrelevant"
 dg-publish: true
 links: 
 path: Notes

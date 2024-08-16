@@ -1,7 +1,7 @@
 ---
 tags:
   - "#netzwerk"
-  - prüfungsrelevant
+  - GFN/prüfungsrelevant
 dg-publish: true
 links: 
 path: Notes
@@ -127,7 +127,7 @@ Verbindungsnetzwerk für Massenspeicher
 
 ---
 tags:
-  - wireless
+  - netzwerk/wireless
   - netzwerk
 dg-publish: true
 links: 

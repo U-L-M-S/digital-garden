@@ -2,7 +2,7 @@
 tags:
   - code/java
   - code/python
-  - OOP
+  - code/OOP
 dg-publish: true
 links: 
 path: Notes
