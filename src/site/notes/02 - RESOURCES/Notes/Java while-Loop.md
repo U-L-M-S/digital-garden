@@ -1,6 +1,6 @@
 ---
 tags:
-  - java/loop
+  - code/java/loop
 dg-publish: true
 links: 
 path: Notes

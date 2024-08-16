@@ -1,8 +1,8 @@
 ---
 tags:
-  - java
-  - python
-  - perl
+  - code/java
+  - code/python
+  - code/perl
   - cpp
 dg-publish: true
 links: 

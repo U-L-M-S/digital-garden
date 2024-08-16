@@ -1,6 +1,6 @@
 ---
 tags:
-  - java/user-input
+  - code/java/user-input
 dg-publish: true
 links: 
 path: Notes

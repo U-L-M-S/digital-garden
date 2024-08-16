@@ -1,7 +1,7 @@
 ---
 tags:
-  - java/switch-case
-  - java
+  - code/java/switch-case
+  - code/java
 dg-publish: true
 links: 
 path: Notes

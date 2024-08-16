@@ -15,7 +15,7 @@ created: 2024-06-24 12:49
 
 ---
 tags:
-  - java/method
+  - code/java/method
 links: 
 path: Tools
 created: 2023-08-20 20:45

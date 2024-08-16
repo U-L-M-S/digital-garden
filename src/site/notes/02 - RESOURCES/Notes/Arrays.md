@@ -1,6 +1,6 @@
 ---
 tags:
-  - java/array
+  - code/java/array
 dg-publish: true
 links: 
 path: Notes

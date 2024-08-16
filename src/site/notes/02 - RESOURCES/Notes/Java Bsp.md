@@ -1,6 +1,6 @@
 ---
 tags:
-  - java
+  - code/java
   - algorithmus
 dg-publish: true
 links: 

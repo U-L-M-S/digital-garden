@@ -1,6 +1,6 @@
 ---
 tags:
-  - java/tools
+  - code/java/tools
 dg-publish: true
 links: 
 path: Notes

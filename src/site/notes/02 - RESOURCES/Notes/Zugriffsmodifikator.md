@@ -1,7 +1,7 @@
 ---
 tags:
-  - java
-  - python
+  - code/java
+  - code/python
   - OOP
 dg-publish: true
 links: 

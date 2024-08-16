@@ -1,6 +1,6 @@
 ---
 tags:
-  - java/klassen
+  - code/java/klassen
 dg-publish: true
 links: 
 path: Notes

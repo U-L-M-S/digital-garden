@@ -1,6 +1,6 @@
 ---
 tags:
-  - java/klassen/vererbung
+  - code/java/klassen/vererbung
 dg-publish: true
 links: 
 path: Notes
