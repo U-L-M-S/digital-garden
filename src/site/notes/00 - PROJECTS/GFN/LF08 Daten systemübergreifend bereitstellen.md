@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["GFN/LF08","code/java","inProgress"],"noteIcon":"","updated":"2024-08-17T23:51:49.549+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["GFN/LF08","code/java","inProgress"],"noteIcon":"","updated":"2024-08-17T23:55:08.213+02:00"}
 ---
 
 # I. Aufträge im Rahmen von Softwareprojekten bearbeiten
@@ -7,7 +7,8 @@ ___
 
 # IV. [[02 - RESOURCES/Notes/Software-Ergonomie\|Software-Ergonomie]] von Benutzerschnittstellen
 >In diesem Kapitel lernen wir den Begriff [[02 - RESOURCES/Notes/Software-Ergonomie\|Software-Ergonomie]] kennen.
->>Wie der Name schon sagt, geht es darum, Software so einfach zu gestalten, dass der Nutzer sofort verstehen kann was er tun kann und was zu tun ist. Natürlich spielt [[02 - RESOURCES/Notes/UX\|UX]] eine Rolle in dieser Thematik sowie andere Themen wie [[02 - RESOURCES/Notes/Corporate Design\|Corporate Design]].
+>>Wie der Name schon sagt, geht es darum, Software so einfach zu gestalten, dass der Nutzer sofort verstehen kann was er tun kann und was zu tun ist. 
+>>Natürlich spielt [[02 - RESOURCES/Notes/UX\|UX]] eine Rolle in dieser Thematik sowie andere Themen wie [[02 - RESOURCES/Notes/Corporate Design\|Corporate Design]].
 ___
 
 Als nächste soll man verstehen was den Begriff [[02 - RESOURCES/Notes/GUI\|GUI]] bedeutet und wie diese aufgebaut ist. Diese kann man in 4 Schritten aufteilen.
