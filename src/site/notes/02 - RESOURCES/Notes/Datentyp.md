@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datentyp/","tags":["code","empty"],"updated":"2024-08-16T20:14:25.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/datentyp/","tags":["code","empty"],"noteIcon":"","updated":"2024-08-16T20:14:25.567+02:00"}
 ---
 
 >In den meisten Programmiersprachen gibt es die sogenannten Hauptdatentypen.

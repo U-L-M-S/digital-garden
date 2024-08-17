@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/schnittstellenbezeichner/","tags":["netzwerk/ip/ipv6"],"updated":"2024-08-01T11:23:05.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/schnittstellenbezeichner/","tags":["netzwerk/ip/ipv6"],"noteIcon":"","updated":"2024-08-01T11:23:05.000+02:00"}
 ---
 
 >Alles anders was nicht zu [[02 - RESOURCES/Notes/Netzwerkpräfix\|Netzwerkpräfix]] gehört.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dynamische-routingprotokolle/","tags":["netzwerk/protocol","GFN/prüfungsrelevant"],"updated":"2024-08-16T18:36:35.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dynamische-routingprotokolle/","tags":["netzwerk/protocol","GFN/prüfungsrelevant"],"noteIcon":"","updated":"2024-08-16T18:36:35.625+02:00"}
 ---
 
 >Protokollen verantwortlich für die automatische Erkennung von den beste Weg bei [[02 - RESOURCES/Notes/Dynamisches Routing\|Dynamisches Routing]].

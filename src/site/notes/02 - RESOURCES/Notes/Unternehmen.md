@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/unternehmen/","tags":["bwl","GFN/LF01","GFN/prüfungsrelevant"],"updated":"2024-08-16T18:36:37.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/unternehmen/","tags":["bwl","GFN/LF01","GFN/prüfungsrelevant"],"noteIcon":"","updated":"2024-08-16T18:36:37.492+02:00"}
 ---
 
 ## Unternehmen

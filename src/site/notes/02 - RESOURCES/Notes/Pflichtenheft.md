@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pflichtenheft/","tags":["GFN/prüfungsrelevant","projektmanagement"],"updated":"2024-08-16T18:36:36.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pflichtenheft/","tags":["GFN/prüfungsrelevant","projektmanagement"],"noteIcon":"","updated":"2024-08-16T18:36:36.758+02:00"}
 ---
 
 >Notwendig Dokument für die Entstehung eines Projekts.
