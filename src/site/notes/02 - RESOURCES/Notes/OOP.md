@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/oop/","tags":["code"],"noteIcon":"","updated":"2024-08-16T19:20:42.217+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/oop/","tags":["code"],"updated":"2024-08-16T19:20:42.000+02:00"}
 ---
 
 > **O**bject **O**riented **P**rogramming.

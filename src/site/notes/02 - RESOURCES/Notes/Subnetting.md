@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting/","tags":["netzwerk/ip","netzwerk/ip/ipv4","netzwerk/ip/ipv6","GFN/prüfungsrelevant"],"noteIcon":"","updated":"2024-08-16T18:36:37.408+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting/","tags":["netzwerk/ip","netzwerk/ip/ipv4","netzwerk/ip/ipv6","GFN/prüfungsrelevant"],"updated":"2024-08-16T18:36:37.000+02:00"}
 ---
 
 >Beim [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] wird ein großes [[02 - RESOURCES/Notes/Netzwerk\|Netz]] in kleinere Netze unterteilt. 
