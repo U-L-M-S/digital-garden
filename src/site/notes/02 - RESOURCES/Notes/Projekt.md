@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/projekt/","tags":["GFN/prüfungsrelevant/AP1","projektmanagement"],"noteIcon":"","updated":"2024-08-18T19:18:13.188+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/projekt/","tags":["GFN/prüfungsrelevant/AP1","projektmanagement"],"noteIcon":"","updated":"2024-08-18T21:28:40.515+02:00"}
 ---
 
 >Es kommt aus Lateinisch und hat als Merkmale eine Aufgabe einmal zu machen (Ohne Wiederholung). 
@@ -18,4 +18,6 @@ Ein [[02 - RESOURCES/Notes/Projekt\|Projekt]] kann aber in 2 Arten getrennt werd
 | Festes Budget                      | [[02 - RESOURCES/Notes/Kosten\|Kosten]] müssen geplant und abgestimmt werden             |
 | Wenig Risiko in der Zielerreichung | Wesentliche Unsicherheit in der Zielerreichung              |
 
-Jetzt, da du weißt, was ein [[02 - RESOURCES/Notes/Projekt\|Projekt]] ist, solltest du den [[02 - RESOURCES/Notes/Deming Zyklus\|Deming Zyklus]] kennenlernen.
+Jetzt, da du weißt, was ein [[02 - RESOURCES/Notes/Projekt\|Projekt]] ist, solltest du den [[02 - RESOURCES/Notes/Deming Zyklus\|Deming Zyklus]] kennenlernen und natürlich wissen die 5 Gründe für eine Projektmanagement.
+
+[[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]]
