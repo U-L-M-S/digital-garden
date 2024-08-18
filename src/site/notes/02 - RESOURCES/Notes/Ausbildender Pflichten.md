@@ -1,6 +1,6 @@
 ---
 tags:
-  - GFN/prüfungsrelevant
+  - GFN/prüfungsrelevant/AP1
   - GFN/LF01
 dg-publish: true
 links: 

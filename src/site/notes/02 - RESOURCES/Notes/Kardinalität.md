@@ -1,7 +1,7 @@
 ---
 tags:
   - datenbank
-  - GFN/prüfungsrelevant
+  - GFN/prüfungsrelevant/AP1
 dg-publish: true
 links: 
 path: Notes
