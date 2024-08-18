@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["gardenEntry"],"noteIcon":"","updated":"2024-08-16T18:45:55.115+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2024-08-18T18:26:43.510+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -23,10 +23,10 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 [[00 - PROJECTS/GFN/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]] 
 [[00 - PROJECTS/GFN/LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen\|LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen]] 
 [[00 - PROJECTS/GFN/LF05 Software zur Verwaltung von Daten anpassen\|LF05 Software zur Verwaltung von Daten anpassen]] 
+[[00 - PROJECTS/GFN/LF06 Serviceanfragen bearbeiten\|LF06 Serviceanfragen bearbeiten]]
 [[00 - PROJECTS/GFN/LF07 Cyber-physische Systeme ergänzen\|LF07 Cyber-physische Systeme ergänzen]]
 [[00 - PROJECTS/GFN/LF08 Daten systemübergreifend bereitstellen\|LF08 Daten systemübergreifend bereitstellen]]
 [[00 - PROJECTS/GFN/LF09 Netzwerke und Dienste bereitstellen\|LF09 Netzwerke und Dienste bereitstellen]]
-
 
 [[00 - PROJECTS/GFN/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]]
 ___
