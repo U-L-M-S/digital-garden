@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/corporate-identity/","tags":["GFN/LF08"],"noteIcon":"","updated":"2024-08-16T18:34:20.413+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/corporate-identity/","tags":["GFN/LF08"]}
 ---
 
 > Umfassungen von Merkmale und Charakteristika eines Unternehmens.
