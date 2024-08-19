@@ -1,6 +1,6 @@
 ---
 tags:
-  - bwl
+  - BWL
   - "#GFN/LF01"
 dg-publish: true
 links: 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - bwl
+  - BWL
 dg-publish: true
 links: 
 path: Notes
@@ -19,7 +19,7 @@ Unternehmen können hauptsächlich 3 Ziele haben:
 
 ---
 tags:
-  - bwl
+  - BWL
 dg-publish: true
 links: 
 path: Notes
@@ -54,7 +54,7 @@ Bemerkungen:
 
 ---
 tags:
-  - bwl
+  - BWL
 dg-publish: true
 links: 
 path: Notes
@@ -86,7 +86,7 @@ Bemerkungen:
 
 ---
 tags:
-  - bwl
+  - BWL
 dg-publish: true
 links: 
 path: Notes

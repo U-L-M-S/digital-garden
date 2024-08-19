@@ -55,7 +55,8 @@ print(type(variable_tuple))
 ```
 
 >[!important] 
->Python erkennt eine Variable [[02 - RESOURCES/Notes/Datentyp\|Datentyp]] nur solange das Wert in den Code definiert wurde. Sobald den Nutzer ein Wert über Terminal eingibt wird diese als String gesehen.
+>Python erkennt eine Variable [[02 - RESOURCES/Notes/Datentyp\|Datentyp]] nur solange das Wert in den Code definiert wurde.
+>Sobald den Nutzer ein Wert über Terminal eingibt wird diese als String gesehen.
 
 ```python
 user_input = input("Gib bitte ein Wert ein: ")

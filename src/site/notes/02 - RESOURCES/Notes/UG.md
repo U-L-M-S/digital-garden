@@ -1,6 +1,6 @@
 ---
 tags:
-  - bwl
+  - BWL
 dg-publish: true
 links: 
 path: Notes
