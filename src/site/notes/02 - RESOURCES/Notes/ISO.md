@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/iso/"}
+{"dg-publish":true,"permalink":"/02-resources/notes/iso/","tags":["BWL"]}
 ---
 
 > Internationale Organisation für Normung.
