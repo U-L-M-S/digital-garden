@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/payload/","tags":["netzwerk/ip"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/payload/","tags":["netzwerk/ip"],"noteIcon":"","updated":"2024-07-23T10:16:30.000+02:00"}
 ---
 
 >Es wird auch als 'Daten' genannt.  
