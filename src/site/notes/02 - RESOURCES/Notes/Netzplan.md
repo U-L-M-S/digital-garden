@@ -7,18 +7,30 @@
 >>Das Muster, wie es aussehen soll, ist entweder vorgegeben oder man kann sich eines ausdenken. 
 >>Die Werte müssen aber immer vorhanden sein.
 
+
+
 >[!multi-column]
 > 
 >>[!check] Vorteile
->>- Übersichtliche Darstellung
->>>Zeigt klar die Abfolge und Abhängigkeiten von Aufgaben im Projekt.
->>- Kritischer Pfad
->>>Identifiziert wichtige Aufgaben, deren Verzögerung den Projektabschluss gefährdet.
->>- Zeitmanagement
->>>Unterstützt bei der genauen Planung und Kontrolle von Projektzeiten.
+>>- **Übersichtliche Darstellung**
+>>Zeigt klar die Abfolge und Abhängigkeiten von Aufgaben im Projekt.
+>>- **Kritischer Pfad**
+>>Identifiziert wichtige Aufgaben, deren Verzögerung den Projektabschluss gefährdet.
+>>- **Zeitmanagement**
+>>Unterstützt bei der genauen Planung und Kontrolle von Projektzeiten.
+>
+>[!fail] Nachteile
+>>- **Komplexität**
+>>Bei großen Projekten kann die Erstellung und Pflege eines Netzplans aufwendig und kompliziert sein.
+>>- **Statische Natur**
+>>Änderungen im Projekt erfordern häufige Anpassungen, was den Netzplan unflexibel macht.
+>>- **Überblicksverlust**
+>>Bei vielen Aufgaben und Abhängigkeiten kann der Netzplan unübersichtlich werden.
 
->>[!fail] Nachteile
->> 
+
+
+
+
 
 
 
