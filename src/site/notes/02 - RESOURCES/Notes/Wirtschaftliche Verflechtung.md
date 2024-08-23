@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wirtschaftliche-verflechtung/","tags":["GFN/prüfungsrelevant/AP1","GFN/LF01"],"noteIcon":"","updated":"2024-08-18T18:44:38.615+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wirtschaftliche-verflechtung/","tags":["GFN/prüfungsrelevant/AP1","GFN/LF01"]}
 ---
 
 >Es bedeutet zwei oder mehrere [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]n verbindet sich damit sie miteinander Geschäften machen oder auf andere Weise wirtschaftlich voneinander abhängen. Es gibt insgesamt 5 Arten von Wirtschaftliche Verflechtung.
