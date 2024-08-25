@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datentyp/","tags":["code"],"noteIcon":"","updated":"2024-08-25T22:38:44.184+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/datentyp/","tags":["code"],"noteIcon":"","updated":"2024-08-25T22:43:33.879+02:00"}
 ---
 
 >In den meisten Programmiersprachen gibt es die sogenannten Hauptdatentypen.
@@ -12,7 +12,7 @@ Diese sind:
 >- [[02 - RESOURCES/Notes/long\|long]]
 
 >[!summary] Nummerisch ([[02 - RESOURCES/Notes/reellen Zahlen\|reellen Zahlen]])
->- float
+>- [[02 - RESOURCES/Notes/float\|float]]
 >- double
 
 >[!summary] Zeichen
