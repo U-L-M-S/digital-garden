@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datentyp/","tags":["code"],"noteIcon":"","updated":"2024-08-25T22:59:22.175+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/datentyp/","tags":["code"],"noteIcon":"","updated":"2024-08-25T23:17:18.894+02:00"}
 ---
 
 >In den meisten Programmiersprachen gibt es die sogenannten Hauptdatentypen.
@@ -21,7 +21,7 @@ Diese sind:
 
 >[!summary] Zeichenfolgen
 >- char[]
->- String
+>- [[02 - RESOURCES/Notes/String\|String]]
 
 
 >[!summary] Bool/Boolean
