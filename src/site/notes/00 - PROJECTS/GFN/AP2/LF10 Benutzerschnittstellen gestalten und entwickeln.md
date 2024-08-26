@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-10-benutzerschnittstellen-gestalten-und-entwickeln/","tags":["GFN/LF10","inProgress"],"noteIcon":"","updated":"2024-08-27T01:02:58.142+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-10-benutzerschnittstellen-gestalten-und-entwickeln/","tags":["GFN/LF10","inProgress"],"noteIcon":"","updated":"2024-08-27T01:03:11.219+02:00"}
 ---
 
 >In diesem Lernfeld werden wir das Web kennenlernen, einschließlich
@@ -22,7 +22,7 @@ und diese macht ein "BIP", bevor sie sich automatisch öffnet.
 
 Es ist jedoch wichtig zu beachten, dass manche Systeme keine Ausgabe benötigen, da die Reaktion intuitiv ist und eine Ausgabe für den Nutzer nicht sinnvoll wäre (**Lenkrad**). Achtet bitte darauf, dass dies zu vielen Problemen in der Benutzerschnittstelle führen kann, wenn die [[02 - RESOURCES/Notes/UI\|UI]] nicht intuitiv ist.
 
-### Hier sind die aktuell am häufigsten verwendeten Benutzerschnittstellen
+#### Hier sind die aktuell am häufigsten verwendeten Benutzerschnittstellen
 
 >[!tip] Command Line Interface (CLI)
 >![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827002824359.png](/img/user/02%20-%20RESOURCES/Files/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827002824359.png)
