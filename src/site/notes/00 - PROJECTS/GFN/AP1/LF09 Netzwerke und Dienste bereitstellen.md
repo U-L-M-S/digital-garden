@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["GFN/LF09","netzwerk","finished"],"noteIcon":"","updated":"2024-08-16T18:42:18.545+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["GFN/LF09","netzwerk","finished"],"noteIcon":"","updated":"2024-08-27T00:20:03.784+02:00"}
 ---
 
 >Dieses Lernfeld ist eine Erweiterung von [[00 - PROJECTS/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]. 
@@ -87,5 +87,6 @@ ___
 
 >[!info] 
 >Diese Zusammenfassung basiert auf den Materialien von Herrn Ralf Behnke. 
->Die Informationen und Konzepte wurden aus den von ihm bereitgestellten Lehrunterlagen und Vorlesungen entnommen. 
+>Die Informationen und Konzepte wurden aus den von ihm bereitgestellten Lehrunterlagen und Vorlesungen entnommen.
+>Alle Bilder, die hier gepostet wurden, stammen aus dem Buch [Westermann](https://www.westermann.de/reihe/ITBERUF2020/IT-Berufe?a=1) oder aus den PDF-Präsentationen von Herrn Ralf Behnke.
 >Mein Ziel war es, die wesentlichen Punkte zusammenzufassen und die Kerninhalte verständlich darzustellen.
