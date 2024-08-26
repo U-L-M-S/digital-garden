@@ -1,12 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-10-benutzerschnittstellen-gestalten-und-entwickeln/","tags":["GFN/LF10","inProgress"],"noteIcon":"","updated":"2024-08-27T00:31:52.522+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-10-benutzerschnittstellen-gestalten-und-entwickeln/","tags":["GFN/LF10","inProgress"],"noteIcon":"","updated":"2024-08-27T00:56:08.670+02:00"}
 ---
+
+>[!multi-column]
+> 
+>>[!check] Vorteile
+>> 
+> 
+>>[!fail] Nachteile
+>> 
 
 >In diesem Lernfeld werden wir das Web kennenlernen, einschließlich
 >>Frontend, Backend und bestimmter Frameworks.
 ___
 # I. User Interface
 ___
+![[Lernfeld 10a_Kapitel 1_User Interfaces_Präsentation.pdf]]
 >Dieses Kapitel ist nur ein Einstieg.
 >>Hier werden Benutzeroberflächen betrachtet.  
 
@@ -19,86 +28,74 @@ Nehmen wir an, ich öffne eine automatische Tür mit einer Chipkarte,
 und diese macht ein "BIP", bevor sie sich automatisch öffnet.
 > Das "BIP" ist die Ausgabe, und das Öffnen der Tür ist die Reaktion.
 
-Es ist aber wichtig zu betrachten dass manche Systeme keine Ausgabe benötigt. Da die Reaktion Intuitiv ist und eine Ausgabe nicht sinnvolle wäre für den Nutzer (**Lenkrad**). Achtet bitte drauf dass wegen das können viele Probleme stehen in der Benutzerschnittstelle. Da diu UI nicht intuitiv ist.
+Es ist jedoch wichtig zu beachten, dass manche Systeme keine Ausgabe benötigen, da die Reaktion intuitiv ist und eine Ausgabe für den Nutzer nicht sinnvoll wäre (**Lenkrad**). Achtet bitte darauf, dass dies zu vielen Problemen in der Benutzerschnittstelle führen kann, wenn die UI nicht intuitiv ist.
 
-
-## Hier sind die meisten verwendet Benutzerschnittstellen aktuell
+## Hier sind die aktuell am häufigsten verwendeten Benutzerschnittstellen
 
 >[!tip] Command Line Interface (CLI)
 >![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827002824359.png](/img/user/02%20-%20RESOURCES/Files/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827002824359.png)
->Es wird häufig von Programmierer verwendet.
->>[!multi-column]
+>>Es wird häufig von Programmierer verwendet.
+> 
 > 
 >>[!check] Vorteile
->>- schnell
->>- direkt
->>- effektiv für Profis
->>- programmierbar (Script)
+>>- Schnell
+>>- Direkt
+>>- Effektiv für Profis
+>>- Programmierbar (Script)
 >>- Remote Access
 > 
 >>[!fail] Nachteile
->>- hohe Lernkurve
->>- nicht einsteigerfreundlich
->>- fehleranfällig (vertippen)
+>>- Hohe Lernkurve
+>>- Nicht einsteigerfreundlich
+>>- Fehleranfällig (vertippen)
 >>- Eingabe ohne Tastatur schwieri
 
+>[!tip] Menu-Driven Interface
+>![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827003945993.png](/img/user/02%20-%20RESOURCES/Files/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827003945993.png)
+>>Einfache Benutzerschnittstelle mit grundlegenden Optionen wird häufig bei Geldautomaten, im BIOS/UEFI und in Kassensystemen verwendet.
+>
+> 
+>>[!check] Vorteile
+>>- Schnell
+>>- Simpel
+>>- Einsteigerfreundlich
+>>- Benutzer wird geführt
+> 
+>>[!fail] Nachteile
+>>- Beschränkt auf die vorgesehene Auswahl
+>>- Unflexibel
+>>- Manchmal unübersichtlich
+>>- Keine Hilfe bei Out-of-the-Box-Problemen
 
 
+>[!tip]  Graphical user interface (GUI)
+>![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827004807000.png](/img/user/02%20-%20RESOURCES/Files/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827004807000.png)
+>>Fast in jeder System verwendet.
+>
+>
+> 
+>>[!check] Vorteile
+>>- Weit verbreitet
+>>- Multi-Channel-Ansatz
+>>- Komplexe UIs abbildbar
+> 
+>>[!fail] Nachteile
+>>- Initial hoher Lernaufwand 
+>>- Kann schnell unübersichtlich werden
 
-
-
-
-![[Lernfeld 10a_Kapitel 1_User Interfaces_Präsentation.pdf]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>[!tip] Conversational User Interface
+>![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827005332750.png](/img/user/02%20-%20RESOURCES/Files/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827005332750.png)
+>>Interaktive mit menschlicher Sprache.
+>
+>
+> 
+>>[!check] Vorteile
+>>- Zero Lernkurve
+>>- Reagiert wie ein menschlicher Berater
+>>- Versteht auch komplexe Eingaben
+> 
+>>[!fail] Nachteile
+>>- Fehlende Akzeptanz: Menschen mögen es nicht, mit Maschinen zu reden!
 
 
 
