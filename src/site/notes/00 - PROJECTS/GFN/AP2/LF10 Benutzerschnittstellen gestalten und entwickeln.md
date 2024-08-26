@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-10-benutzerschnittstellen-gestalten-und-entwickeln/","tags":["GFN/LF10","inProgress"],"noteIcon":"","updated":"2024-08-27T00:56:33.707+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-10-benutzerschnittstellen-gestalten-und-entwickeln/","tags":["GFN/LF10","inProgress"],"noteIcon":"","updated":"2024-08-27T00:58:32.249+02:00"}
 ---
 
 >In diesem Lernfeld werden wir das Web kennenlernen, einschließlich
@@ -20,7 +20,7 @@ Nehmen wir an, ich öffne eine automatische Tür mit einer Chipkarte,
 und diese macht ein "BIP", bevor sie sich automatisch öffnet.
 > Das "BIP" ist die Ausgabe, und das Öffnen der Tür ist die Reaktion.
 
-Es ist jedoch wichtig zu beachten, dass manche Systeme keine Ausgabe benötigen, da die Reaktion intuitiv ist und eine Ausgabe für den Nutzer nicht sinnvoll wäre (**Lenkrad**). Achtet bitte darauf, dass dies zu vielen Problemen in der Benutzerschnittstelle führen kann, wenn die UI nicht intuitiv ist.
+Es ist jedoch wichtig zu beachten, dass manche Systeme keine Ausgabe benötigen, da die Reaktion intuitiv ist und eine Ausgabe für den Nutzer nicht sinnvoll wäre (**Lenkrad**). Achtet bitte darauf, dass dies zu vielen Problemen in der Benutzerschnittstelle führen kann, wenn die [[02 - RESOURCES/Notes/UI\|UI]] nicht intuitiv ist.
 
 ## Hier sind die aktuell am häufigsten verwendeten Benutzerschnittstellen
 
@@ -60,7 +60,7 @@ Es ist jedoch wichtig zu beachten, dass manche Systeme keine Ausgabe benötigen,
 >>- Keine Hilfe bei Out-of-the-Box-Problemen
 
 
->[!tip]  Graphical user interface (GUI)
+>[!tip]  Graphical user interface ([[02 - RESOURCES/Notes/GUI\|GUI]])
 >![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827004807000.png](/img/user/02%20-%20RESOURCES/Files/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827004807000.png)
 >>Fast in jeder System verwendet.
 >
