@@ -3,7 +3,7 @@
 ---
 
 >**U**ser **I**nterface.
-> [[Benutzeroberfläche\|Benutzeroberfläche]].
+> [[02 - RESOURCES/Notes/Benutzeroberfläche\|Benutzeroberfläche]].
 
 Es beschreibt den ganze Teil von ein Software bei den der Benutzer eine [[02 - RESOURCES/Notes/GUI\|GUI]] benutzt.
 
