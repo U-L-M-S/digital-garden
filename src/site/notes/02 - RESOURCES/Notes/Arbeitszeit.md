@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/arbeitszeit/","tags":["#jArbSchG"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/arbeitszeit/","tags":["#jArbSchG"],"noteIcon":"","updated":"2024-08-11T00:01:44.000+02:00"}
 ---
 
 # Jugendliche

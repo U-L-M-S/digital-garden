@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dynamisches-routing/","tags":["netzwerk/gateway","GFN/prüfungsrelevant/AP1"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/dynamisches-routing/","tags":["netzwerk/gateway","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2024-08-18T18:44:37.462+02:00"}
 ---
 
 >Die Konfiguration von die Routingtabellen werden von jeder Router fast wie in Echtzeit angepasst und aktualisiert.
