@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-10-benutzerschnittstellen-gestalten-und-entwickeln/","tags":["GFN/LF10","inProgress"],"noteIcon":"","updated":"2024-08-27T01:03:11.219+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-10-benutzerschnittstellen-gestalten-und-entwickeln/","tags":["GFN/LF10","inProgress"]}
 ---
 
 >In diesem Lernfeld werden wir das Web kennenlernen, einschließlich
 >>Frontend, Backend und bestimmter Frameworks.
 ___
+[[02 - RESOURCES/Tägliche Notizen/2024-08-26\|2024-08-26]]
 # I. User Interface
 ___
 ![[Lernfeld 10a_Kapitel 1_User Interfaces_Präsentation.pdf]]
@@ -89,6 +90,9 @@ Es ist jedoch wichtig zu beachten, dass manche Systeme keine Ausgabe benötigen,
 >>[!fail] Nachteile
 >>- Fehlende Akzeptanz: Menschen mögen es nicht, mit Maschinen zu reden!
 
+# II. Qualitätsicherung
+___
+[[02 - RESOURCES/Tägliche Notizen/2024-08-27\|2024-08-27]]
 
 
 
