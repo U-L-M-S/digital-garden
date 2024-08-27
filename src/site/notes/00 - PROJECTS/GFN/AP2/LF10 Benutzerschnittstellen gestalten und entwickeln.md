@@ -5,13 +5,12 @@
 >In diesem Lernfeld werden wir das Web kennenlernen, einschließlich
 >>Frontend, Backend und bestimmter Frameworks.
 ___
-[[02 - RESOURCES/Tägliche Notizen/2024-08-26\|2024-08-26]]
 # I. User Interface
-___
-![[Lernfeld 10a_Kapitel 1_User Interfaces_Präsentation.pdf]]
 >Dieses Kapitel ist nur ein Einstieg.
 >>Hier werden Benutzeroberflächen betrachtet.  
-
+___
+[[02 - RESOURCES/Tägliche Notizen/2024-08-26\|2024-08-26]]
+![[Lernfeld 10a_Kapitel 1_User Interfaces_Präsentation.pdf]]
 Zunächst wird klargestellt, wie wichtig die Eingabe und die Ausgabe sind.  
 
 Die Eingabe ermöglicht die Kommunikation des Nutzers mit dem Gerät. Theoretisch ist ein Gerät ohne Eingabe möglich, aber es gibt dann keine Möglichkeit, eine [[02 - RESOURCES/Notes/dynamic\|dynamische]] Ausgabe zu haben. Wie bereits gesagt, ist die Ausgabe die Kommunikation des Geräts mit dem Nutzer.
