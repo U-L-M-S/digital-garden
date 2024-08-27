@@ -27,7 +27,7 @@ Es ist jedoch wichtig zu beachten, dass manche Systeme keine Ausgabe benötigen,
 
 >[!tip] Command Line Interface (CLI)
 >![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827002824359.png](/img/user/02%20-%20RESOURCES/Files/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827002824359.png)
->>Es wird häufig von Programmierer verwendet.
+>>Es wird häufig von Programmierern verwendet.
 > 
 > 
 >>[!check] Vorteile
@@ -45,7 +45,7 @@ Es ist jedoch wichtig zu beachten, dass manche Systeme keine Ausgabe benötigen,
 
 >[!tip] Menu-Driven Interface
 >![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827003945993.png](/img/user/02%20-%20RESOURCES/Files/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827003945993.png)
->>Einfache Benutzerschnittstelle mit grundlegenden Optionen wird häufig bei Geldautomaten, im BIOS/UEFI und in Kassensystemen verwendet.
+>>Einfache Benutzerschnittstellen mit grundlegenden Optionen werden häufig bei Geldautomaten, im BIOS/UEFI und in Kassensystemen verwendet.
 >
 > 
 >>[!check] Vorteile
@@ -63,8 +63,7 @@ Es ist jedoch wichtig zu beachten, dass manche Systeme keine Ausgabe benötigen,
 
 >[!tip]  Graphical user interface ([[02 - RESOURCES/Notes/GUI\|GUI]])
 >![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827004807000.png](/img/user/02%20-%20RESOURCES/Files/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827004807000.png)
->>Fast in jeder System verwendet.
->
+>>Fast in jedem System verwendet.
 >
 > 
 >>[!check] Vorteile
@@ -78,10 +77,9 @@ Es ist jedoch wichtig zu beachten, dass manche Systeme keine Ausgabe benötigen,
 
 >[!tip] Conversational User Interface
 >![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827005332750.png](/img/user/02%20-%20RESOURCES/Files/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827005332750.png)
->>Interaktive mit menschlicher Sprache.
+>>Interaktion mit menschlicher Sprache.
 >
 >
-> 
 >>[!check] Vorteile
 >>- Zero Lernkurve
 >>- Reagiert wie ein menschlicher Berater
