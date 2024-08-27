@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/user-interface/","tags":["GFN/LF10"],"noteIcon":"","updated":"2024-08-27T21:44:10.016+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/user-interface/","tags":["GFN/LF10"],"noteIcon":"","updated":"2024-08-27T21:59:16.395+02:00"}
 ---
 
->Schnittstelle, über die Menschen mit Computern oder Software interagieren. Sie umfasst alle visuellen Elemente wie Schaltflächen, Menüs und Symbole, die zur Bedienung verwendet werden. 
+>Schnittstelle, über die Menschen mit Computern oder [[02 - RESOURCES/Notes/Software\|Software]] interagieren. Sie umfasst alle visuellen Elemente wie Schaltflächen, Menüs und Symbole, die zur Bedienung verwendet werden. 
 >Ziel ist es, die Nutzung intuitiv und einfach zu gestalten.
 ![[Lernfeld 10a_Kapitel 1_User Interfaces_Präsentation.pdf]]
 >>Zunächst wird klargestellt, wie wichtig die **Eingabe** und die **Ausgabe** sind.  
@@ -19,13 +19,11 @@ Achtet bitte darauf, dass dies zu vielen Problemen in der Benutzerschnittstelle 
 
 >[!summary] 
 >Okay. Lass uns zusammenzufassen.
->Jeder Gerät/Software besitzt eine Benutzerschnittstelle. Diese können enthalten:
+>Jeder Gerät/[[02 - RESOURCES/Notes/Software\|Software]] besitzt eine Benutzerschnittstelle. Diese können enthalten:
 >- Eingabe
 >- Ausgabe
 >- Eingabe & Ausgabe
 
-
-![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827203951288.png](/img/user/02%20-%20RESOURCES/Files/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827203951288.png)
 #### Hier sind die aktuell am häufigsten verwendeten Benutzerschnittstellen
 
 >[!tip] Command Line Interface (CLI)
@@ -98,6 +96,25 @@ Achtet bitte darauf, dass dies zu vielen Problemen in der Benutzerschnittstelle 
 >>[!fail] Nachteile
 >>- Fehlende Akzeptanz (Menschen mögen es nicht, mit Maschinen zu reden!)
 
+>[!tip] Virtual reality user interface
+>![User Interface-20240827215259892.png](/img/user/02%20-%20RESOURCES/Files/User%20Interface-20240827215259892.png)
+>>Weiterentwicklung des [[02 - RESOURCES/Notes/GUI\|GUI]]s.
+>>>- Handgestensteuerung
+>>>- Virtuelle Controller
+>>>- Blicksteuerung
+>
+> 
+>>[!check] Vorteile
+>>- Immersive Erfahrung
+>>- Natürliche Interaktion
+> 
+>>[!fail] Nachteile
+>>- Ermüdung und Unwohlsein
+>>- Hohe technische Anforderungen
 
->Wie bereits gesagt wurde [[02 - RESOURCES/Notes/GUI\|GUI]] am meisten verbreitest in unsere Aktuelle Zeit.
->Andere Gründe dafür sind 
+
+
+>[!summary] 
+>Wie bereits gesagt, ist die [[02 - RESOURCES/Notes/GUI\|GUI]] in unserer heutigen Zeit am weitesten verbreitet.
+>
+>Weitere Gründe dafür sind die Arbeit mit mehreren Fenstern (Multitasking) und die intuitive Bedienung, als würde der Nutzer ein analoges Werkzeug verwenden.

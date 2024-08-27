@@ -1,19 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-10-benutzerschnittstellen-gestalten-und-entwickeln/","tags":["GFN/LF10","inProgress"],"noteIcon":"","updated":"2024-08-27T21:09:29.913+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-10-benutzerschnittstellen-gestalten-und-entwickeln/","tags":["GFN/LF10","inProgress"],"noteIcon":"","updated":"2024-08-27T22:10:13.929+02:00"}
 ---
 
 >In diesem Lernfeld werden wir das Web kennenlernen, einschließlich
 >>Frontend, Backend und bestimmter Frameworks.
 ___
 # I. [[02 - RESOURCES/Notes/User Interface\|User Interface]]
->Dieses Kapitel ist nur ein Einstieg.
->>Hier werden Benutzeroberflächen betrachtet.  
-___
 [[02 - RESOURCES/Tägliche Notizen/2024-08-26\|2024-08-26]]
-# II. Qualitätssicherung
 ___
+>Dieses Kapitel ist nur ein Einstieg.
+>>Hier werden [[02 - RESOURCES/Notes/User Interface\|Benutzeroberflächen]] betrachtet.
+
+Man muss in der Lager sein: 
+- Eingabe und Ausgabe zu identifizieren.
+- Benutzerschnittstellen 
+	- Identifizieren
+	- Vorteilen / Nachteilen erkennen
+# II. [[02 - RESOURCES/Notes/Qualitätssicherung\|Qualitätssicherung]]
 [[02 - RESOURCES/Tägliche Notizen/2024-08-27\|2024-08-27]]
-![[Lernfeld 10a_Kapitel 2_Qualitätssicherung_Präsentation.pdf]]
+___
 
 
 
