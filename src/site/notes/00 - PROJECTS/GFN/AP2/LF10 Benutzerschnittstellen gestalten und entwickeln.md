@@ -59,7 +59,6 @@ Es ist jedoch wichtig zu beachten, dass manche Systeme keine Ausgabe benötigen,
 >>- Manchmal unübersichtlich
 >>- Keine Hilfe bei Out-of-the-Box-Problemen
 
-
 >[!tip]  Graphical user interface ([[02 - RESOURCES/Notes/GUI\|GUI]])
 >![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827004807000.png](/img/user/02%20-%20RESOURCES/Files/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827004807000.png)
 >>Fast in jedem System verwendet.
@@ -90,8 +89,7 @@ Es ist jedoch wichtig zu beachten, dass manche Systeme keine Ausgabe benötigen,
 # II. Qualitätssicherung
 ___
 [[02 - RESOURCES/Tägliche Notizen/2024-08-27\|2024-08-27]]
-
-
+![[Lernfeld 10a_Kapitel 2_Qualitätssicherung_Präsentation.pdf]]
 
 
 
