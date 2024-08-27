@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ui/","tags":["GUI"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/ui/","tags":["GUI"],"noteIcon":"","updated":"2024-08-27T01:04:00.556+02:00"}
 ---
 
 >**U**ser **I**nterface.
