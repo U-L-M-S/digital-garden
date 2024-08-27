@@ -88,9 +88,9 @@ Es ist jedoch wichtig zu beachten, dass manche Systeme keine Ausgabe benötigen,
 >>- Versteht auch komplexe Eingaben
 > 
 >>[!fail] Nachteile
->>- Fehlende Akzeptanz: Menschen mögen es nicht, mit Maschinen zu reden!
+>>- Fehlende Akzeptanz (Menschen mögen es nicht, mit Maschinen zu reden!)
 
-# II. Qualitätsicherung
+# II. Qualitätssicherung
 ___
 [[02 - RESOURCES/Tägliche Notizen/2024-08-27\|2024-08-27]]
 
