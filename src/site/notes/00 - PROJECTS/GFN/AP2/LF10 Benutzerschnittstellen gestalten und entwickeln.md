@@ -3,7 +3,7 @@
 ---
 
 >In diesem Lernfeld werden wir das Web kennenlernen, einschließlich
->>Frontend, Backend und bestimmter Frameworks.
+>>Frontend, Backend und bestimmter Framework.
 ___
 # I. [[02 - RESOURCES/Notes/User Interface\|User Interface]]
 [[02 - RESOURCES/Tägliche Notizen/2024-08-26\|2024-08-26]]
