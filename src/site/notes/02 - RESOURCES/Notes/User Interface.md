@@ -4,7 +4,6 @@
 
 >Schnittstelle, über die Menschen mit Computern oder [[02 - RESOURCES/Notes/Software\|Software]] interagieren. Sie umfasst alle visuellen Elemente wie Schaltflächen, Menüs und Symbole, die zur Bedienung verwendet werden. 
 >Ziel ist es, die Nutzung intuitiv und einfach zu gestalten.
-![[Lernfeld 10a_Kapitel 1_User Interfaces_Präsentation.pdf]]
 >>Zunächst wird klargestellt, wie wichtig die **Eingabe** und die **Ausgabe** sind.  
 
 Die Eingabe ermöglicht die Kommunikation des Nutzers mit dem Gerät. Theoretisch ist ein Gerät ohne Eingabe möglich, aber es gibt dann keine Möglichkeit, eine [[02 - RESOURCES/Notes/dynamic\|dynamische]] Ausgabe zu haben. Wie bereits gesagt, ist die Ausgabe die Kommunikation des Geräts mit dem Nutzer.

@@ -3,7 +3,7 @@
 ---
 
 >In diesem Lernfeld werden wir das Web kennenlernen, einschließlich
->>Frontend, Backend und bestimmter Framework.
+>>Frontend, Backend und bestimmter Frameworks.
 ___
 # I. [[02 - RESOURCES/Notes/User Interface\|User Interface]]
 [[02 - RESOURCES/Tägliche Notizen/2024-08-26\|2024-08-26]]
@@ -11,6 +11,7 @@ ___
 >Dieses Kapitel ist nur ein Einstieg.
 >>Hier werden [[02 - RESOURCES/Notes/User Interface\|Benutzeroberflächen]] betrachtet.
 
+![[Lernfeld 10a_Kapitel 1_User Interfaces_Präsentation.pdf]]
 Man muss in der Lager sein: 
 - Eingabe und Ausgabe zu identifizieren.
 - Benutzerschnittstellen 
@@ -20,6 +21,12 @@ Man muss in der Lager sein:
 [[02 - RESOURCES/Tägliche Notizen/2024-08-27\|2024-08-27]]
 ___
 
+![[Lernfeld 10a_Kapitel 2_Qualitätssicherung_Präsentation.pdf]]
+
+# III. [[UX|User Experience]
+[[02 - RESOURCES/Tägliche Notizen/2024-08-28\|2024-08-28]]
+___
+![[Lernfeld 10a_Kapitel 3_User Experience_Teil 1_Präsentation.pdf]]
 
 
 
