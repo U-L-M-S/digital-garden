@@ -23,11 +23,11 @@ ___
 
 ![[Lernfeld 10a_Kapitel 2_Qualitätssicherung_Präsentation.pdf]]
 
-# III. [[UX|User Experience]
+# III. [[02 - RESOURCES/Notes/UX\|User Experience]]
 [[02 - RESOURCES/Tägliche Notizen/2024-08-28\|2024-08-28]]
 ___
 ![[Lernfeld 10a_Kapitel 3_User Experience_Teil 1_Präsentation.pdf]]
-
+![[Lernfeld 10a_Kapitel 3_User Experience_Teil 2_Präsentation.pdf]]
 
 
 ___
