@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"]}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2024-08-28T19:41:23.270+02:00"}
 ---
 
 # I. Das [[02 - RESOURCES/Notes/Duale System\|Duale System]] vorstellen Präsentation
@@ -18,7 +18,7 @@ Hier sind diese:
 
 Bevor die Ausbildung beginnt ist es wichtig, dass der [[02 - RESOURCES/Notes/Auszubildender\|Auszubildender]] einer   [[02 - RESOURCES/Notes/Berufsausbildungsvertrag\|Berufsausbildungsvertrag]] unterschreibt.
 
-[[02 - RESOURCES/Notes/Kündigung\|Kündigung]] 
+[[02 - RESOURCES/Notes/Ausbildung Kündigung\|Ausbildung Kündigung]] 
 ### [[02 - RESOURCES/Notes/Sozialversicherung\|Sozialversicherung]]
 
 ## [[02 - RESOURCES/Notes/Arbeitsrecht\|Arbeitsrecht]]
