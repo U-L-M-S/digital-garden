@@ -3,10 +3,11 @@
 ---
 
 >PHP ist eine Computer Sprache, bei den man in die Backend sowie in die Frontend verwenden werden können.
+>>Es verwendet Semikolon `;`.
 
 # [[02 - RESOURCES/Notes/PHP in Windows installieren\|PHP in Windows installieren]]
 
-````PHP
+```PHP
 <!DOCTYPE html>
 
 <html>
@@ -29,3 +30,5 @@
 
 </html>
 ```
+
+# [[02 - RESOURCES/Notes/PHP für Frontend\|PHP für Frontend]]

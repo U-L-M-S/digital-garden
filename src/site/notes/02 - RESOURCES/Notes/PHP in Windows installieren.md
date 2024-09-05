@@ -18,4 +18,3 @@ Jetzt muss du nur ein [[00 - PROJECTS/PHP\|PHP]]-Datei einlegen und anfangen mit
 
 >[!hint] 
 >Öffnet dein Browser und gib als URL 'http://localhost/' ein.
-
