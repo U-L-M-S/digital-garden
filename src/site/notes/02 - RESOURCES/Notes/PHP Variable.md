@@ -23,3 +23,6 @@
 	echo 'Hi, my name is ' . $name . ' and I\'m ' . $age . ' years old.'
 ?>
 ```
+
+>[!hint] 
+>Das `.` hier entspricht das `+` bei [[02 - RESOURCES/Notes/Python\|Python]] und [[00 - PROJECTS/Java\|Java]],
