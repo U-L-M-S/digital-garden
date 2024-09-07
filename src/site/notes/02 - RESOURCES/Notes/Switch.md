@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/switch/","tags":["netzwerk","hardware","GFN/LF09","GFN/LF03","GFN/prüfungsrelevant/AP1"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/switch/","tags":["netzwerk","hardware","GFN/LF09","GFN/LF03","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2024-08-18T18:44:38.498+02:00"}
 ---
 
 > [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]gäret, das Datenpakete basierend auf [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]] and die richtigen Ports weiterleitet, wenn der Empfänger nicht in die Liste eingetragen ist wird das Datenpakete an allen weitergeleitet ([[02 - RESOURCES/Notes/Broadcast\|Broadcast]]). Hier sind die 'Ports', die Switch-Anschlüsse gemeint.
