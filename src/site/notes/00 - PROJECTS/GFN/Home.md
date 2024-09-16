@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry"]}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2024-09-16T21:28:23.164+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -30,8 +30,7 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 
 # AP2-relevant
 [[00 - PROJECTS/GFN/AP2/LF10 Benutzerschnittstellen gestalten und entwickeln\|LF10 Benutzerschnittstellen gestalten und entwickeln]]
-
-
+[[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]]
 
 [[00 - PROJECTS/GFN/AP1/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]]
 ___

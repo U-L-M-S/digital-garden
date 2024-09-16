@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/php/","tags":["code/PHP"]}
+{"dg-publish":true,"permalink":"/00-projects/php/","tags":["code/PHP"],"noteIcon":"","updated":"2024-09-05T16:24:46.000+02:00"}
 ---
 
 >PHP ist eine Computer Sprache, bei den man in die Backend sowie in die Frontend verwenden werden können.

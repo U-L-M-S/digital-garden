@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-10-benutzerschnittstellen-gestalten-und-entwickeln/","tags":["GFN/LF10","inProgress"]}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-10-benutzerschnittstellen-gestalten-und-entwickeln/","tags":["GFN/LF10","inProgress"],"noteIcon":"","updated":"2024-08-28T15:47:47.000+02:00"}
 ---
 
 >In diesem Lernfeld werden wir das Web kennenlernen, einschließlich
