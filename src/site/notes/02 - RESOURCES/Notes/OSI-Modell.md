@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/osi-modell/","tags":["netzwerk"],"noteIcon":"","updated":"2024-08-28T09:26:13.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/osi-modell/","tags":["netzwerk"]}
 ---
 
 >Man kann die Layers  einfach merken mit den Satz:
