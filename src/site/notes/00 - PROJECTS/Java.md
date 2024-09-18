@@ -23,6 +23,12 @@ Nun hat die Funktion drei Begriffen bei sich:
 - void: Rückgabewerttyp, die Methode keinen Rückgabewert hat.
 
 Der Befehl `System.out.println("Hello, World!");` macht nicht anders als "Hello, World!" in der Console auszugeben.
+
+___
+
+[[02 - RESOURCES/Notes/Java Variablen\|Java Variablen]]
+
+
 [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]
 
 
