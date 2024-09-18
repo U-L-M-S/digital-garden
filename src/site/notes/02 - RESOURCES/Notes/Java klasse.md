@@ -1,11 +1,7 @@
 ---
-tags:
-  - code/java/klassen
-dg-publish: true
-links: 
-path: Notes
-created: 2024-06-21 16:38
+{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["code/java/klassen"]}
 ---
+
 
 ```java
 public class Kreis {
