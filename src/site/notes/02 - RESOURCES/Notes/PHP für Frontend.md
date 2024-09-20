@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/php-fuer-frontend/","tags":["code/PHP"],"noteIcon":"","updated":"2024-09-05T16:22:45.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/php-fuer-frontend/","tags":["code/PHP"]}
 ---
 
 >Damit man mit [[00 - PROJECTS/PHP\|PHP]] in den Frontend arbeiten kann braucht man mit den `<body>` zu arbeiten und da die [[00 - PROJECTS/PHP\|PHP]]-Syntax arbeiten **ODER** man arbeitet in ein extra [[00 - PROJECTS/PHP\|PHP]]-Datei mit Funktionen und importiert diese in den index.html Datei.
