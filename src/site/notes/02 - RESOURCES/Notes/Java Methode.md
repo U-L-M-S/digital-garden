@@ -1,12 +1,6 @@
 ---
-tags:
-  - code/java/method
-links: 
-path: Tools
-created: 2023-08-20 20:45
-dg-publish: true
+{"dg-publish":true,"permalink":"/02-resources/notes/java-methode/","tags":["code/java/method"],"updated":"2024-09-23T15:57:41.320+02:00"}
 ---
-## Java Methoden 
 
 >Syntax
 >[[02 - RESOURCES/Notes/Zugriffsmodifikator\|access modifer]] returnDateType methodName (parameters) 
