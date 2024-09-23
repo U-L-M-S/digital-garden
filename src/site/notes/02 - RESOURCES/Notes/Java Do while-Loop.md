@@ -1,12 +1,9 @@
 ---
-tags:
-  - code/java/loop
-dg-publish: true
-links: 
-path: Notes
-created: 2024-06-21 16:34
+{"dg-publish":true,"permalink":"/02-resources/notes/java-do-while-loop/","tags":["code/java/loop"],"updated":"2024-09-23T13:10:47.918+02:00"}
 ---
 
+>Bei [[02 - RESOURCES/Notes/Do-While-Loop\|Do-While-Loop]] wird die Anweisung mindestens **1** mal wiederholt.
+>Es folgt die Denkweise von [[02 - RESOURCES/Notes/While-Loop\|While-Loop]]
 ```java
 public class Main {
     public static void main(String[] args) {
