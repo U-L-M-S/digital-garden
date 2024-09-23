@@ -4,4 +4,4 @@
 
 >In diesen Lernfelder lernen wir nur die Java-Grundlage + Objektorientierung.
 
-[[00 - PROJECTS/Java\|Java]]
+[[02 - RESOURCES/Notes/Java\|Java]]

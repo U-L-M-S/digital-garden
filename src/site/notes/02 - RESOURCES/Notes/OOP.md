@@ -3,4 +3,4 @@
 ---
 
 > **O**bject **O**riented **P**rogramming.
->> [[02 - RESOURCES/Notes/Python\|Python]], [[00 - PROJECTS/Java\|Java]], [[03 - ARCHIVES/Abgeschlossen/Perl\|Perl]], etc
+>> [[02 - RESOURCES/Notes/Python\|Python]], [[02 - RESOURCES/Notes/Java\|Java]], [[03 - ARCHIVES/Abgeschlossen/Perl\|Perl]], etc

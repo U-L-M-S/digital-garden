@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-resources/notes/php-fuer-frontend/","tags":["code/PHP"],"updated":"2024-09-05T16:22:45.603+02:00"}
 ---
 
->Damit man mit [[00 - PROJECTS/PHP\|PHP]] in den Frontend arbeiten kann braucht man mit den `<body>` zu arbeiten und da die [[00 - PROJECTS/PHP\|PHP]]-Syntax arbeiten **ODER** man arbeitet in ein extra [[00 - PROJECTS/PHP\|PHP]]-Datei mit Funktionen und importiert diese in den index.html Datei.
+>Damit man mit [[02 - RESOURCES/Notes/PHP\|PHP]] in den Frontend arbeiten kann braucht man mit den `<body>` zu arbeiten und da die [[02 - RESOURCES/Notes/PHP\|PHP]]-Syntax arbeiten **ODER** man arbeitet in ein extra [[02 - RESOURCES/Notes/PHP\|PHP]]-Datei mit Funktionen und importiert diese in den index.html Datei.
 
 ```php
 <!DOCTYPE html>
@@ -60,7 +60,7 @@ Man kann auch HTML-Syntax verwenden um den Format umzupassen.
 ![PHP für Frontend-20240905122722946.png](/img/user/02%20-%20RESOURCES/Files/PHP%20f%C3%BCr%20Frontend-20240905122722946.png)
 
 ___
->Wie bereits gesagt wurde. Man kann [[00 - PROJECTS/PHP\|PHP]]-Werten importieren, oder besser gesagt Funktionen.
+>Wie bereits gesagt wurde. Man kann [[02 - RESOURCES/Notes/PHP\|PHP]]-Werten importieren, oder besser gesagt Funktionen.
 
 functions.php:
 ```php

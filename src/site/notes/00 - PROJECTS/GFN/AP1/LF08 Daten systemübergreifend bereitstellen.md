@@ -27,7 +27,7 @@ Als nächste soll man verstehen was den Begriff [[02 - RESOURCES/Notes/GUI\|GUI]
 	-  Funktionen und Verlinkung werden eingesetzt.
 
 # V. Anwendungen in Java implementieren
-In diesem Kapitel geht es nur um [[00 - PROJECTS/Java\|Java]].
+In diesem Kapitel geht es nur um [[02 - RESOURCES/Notes/Java\|Java]].
 ___
 
 
