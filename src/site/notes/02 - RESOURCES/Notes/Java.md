@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","inProgress"],"updated":"2024-09-23T11:29:42.122+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","inProgress"],"updated":"2024-09-23T13:42:37.653+02:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -28,6 +28,7 @@ ___
 
 [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]
 [[02 - RESOURCES/Notes/Java Variablen\|Java Variablen]]
+[[02 - RESOURCES/Notes/Java Array\|Java Array]]
 [[02 - RESOURCES/Notes/Java Bedingung\|Java Bedingung]]
 
 [[02 - RESOURCES/Notes/Java For-Loop\|Java For-Loop]]
