@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-array/","tags":["code/java/array"],"updated":"2024-09-23T14:01:56.845+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-array/","tags":["code/java/array"],"updated":"2024-09-23T14:07:52.625+02:00"}
 ---
 
 >So wie die meisten Programmiersprachen fängt Java-Array bei 0 an (Index).
 >- Array-Deklaration: `datatype[] arrayName;`
 >- Array-Deklaration und Initialisierung (feste Länge): `datatype[] arrayName = new datatype[n];`
->>- Somit wird die [[02 - RESOURCES/Notes/Array\|Array]] deklariert und Initialisiert. **ABER**  es wird kein Wert zugewiesen. Es wird nur die Länge (`n`) von die Array definiert.
+>>- Somit wird die Array deklariert und Initialisiert. **ABER**  es wird kein Wert zugewiesen. Es wird nur die Länge (`n`) von die Array definiert.
 >- Array-Deklaration und Initialisierung: ``datatype[] arrayName = {n0, n1, n2, n3};`
 
 ```java
