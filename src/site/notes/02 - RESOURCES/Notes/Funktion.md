@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/funktion/","tags":["code","code/python"],"updated":"2024-09-23T15:33:23.703+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/funktion/","tags":["code"],"updated":"2024-09-23T16:15:01.045+02:00"}
 ---
 
 >Es ist Block von wiederverwendbarem Code, der eine bestimmte Aufgabe ausführt.
@@ -12,3 +12,7 @@ def sayHello(name):
 # Aufruf der Funktion
 print(sayHello("Nutzer"))
 ```
+
+>[!important] 
+>Nicht mit [[02 - RESOURCES/Notes/Methode\|Methode]] verwechseln!!!
+
