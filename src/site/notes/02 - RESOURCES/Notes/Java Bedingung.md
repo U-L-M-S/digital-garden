@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-bedingung/","tags":["code/java/loop"],"noteIcon":"","updated":"2024-09-19T16:10:58.616+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-bedingung/","tags":["code/java/loop"],"updated":"2024-09-21T17:25:20.000+02:00"}
 ---
 
 # IF
@@ -46,7 +46,6 @@ public class ConditionalOperator {
 >[!note] 
 >`else` wird nur getriggert wenn keine andere Möglichkeit gibt.
 
-
 # ELSE IF
 ```java
 public class ConditionalOperator {
@@ -57,15 +56,19 @@ public class ConditionalOperator {
 	    
 	    if(number1 > number2) {
 		    max = number1;    
+		    System.out.println("Der groesste Wert ist: " + max);
 	    }
-	    else{
+	    else if(number2 > number1){
 		    max = number2;
+	        System.out.println("Der groesste Wert ist: " + max);
+	    }	   
+	    else{
+		    System.out.println("Sie sind genau so gross");
 	    }
-
-        System.out.println("Der groesste Wert ist: " + max);
     }
 }
 ```
 
+# Tip
 >[!tip] 
 >[[02 - RESOURCES/Notes/ternären Operator\|ternären Operator]] es ist immer ein Nice To Know ;)

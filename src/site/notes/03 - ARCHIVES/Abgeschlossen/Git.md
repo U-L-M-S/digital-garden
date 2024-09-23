@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-archives/abgeschlossen/git/","tags":["git","finished"],"noteIcon":"","updated":"2024-08-27T21:41:47.274+02:00"}
+{"dg-publish":true,"permalink":"/03-archives/abgeschlossen/git/","tags":["git","finished"],"updated":"2024-08-27T21:41:47.000+02:00"}
 ---
 
 >Versionskontrollsystem.  
