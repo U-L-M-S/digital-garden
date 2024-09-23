@@ -1,12 +1,8 @@
 ---
-tags:
-  - code/java/loop
-dg-publish: true
-links: 
-path: Notes
-created: 2024-06-21 16:35
+{"dg-publish":true,"permalink":"/02-resources/notes/java-while-loop/","tags":["code/java/loop"],"updated":"2024-09-23T12:51:42.492+02:00"}
 ---
 
+>
 ```java
 public class Main {
     public static void main(String[] args) {

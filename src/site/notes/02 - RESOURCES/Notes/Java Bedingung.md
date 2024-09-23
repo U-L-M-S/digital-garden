@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-bedingung/","tags":["code/java/loop"],"updated":"2024-09-21T17:25:20.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-bedingung/","tags":["code/java/loop"],"updated":"2024-09-23T11:24:09.180+02:00"}
 ---
 
 # IF
@@ -19,10 +19,9 @@ public class ConditionalOperator {
 }
 ```
 >[!note] 
->Hier wird nur das IF geprüft. Wenn das Wert bei `number1` größer ist als bei `number2` bekommt `max` dieses Wert.
->Was passiert aber, wenn das nicht stimmt ?
->>Da wird den Code abstürzen!
->>Somit haben wir `else`  um solche Fälle zu begrenzen.
+>Hier wird nur das `if` geprüft. Wenn der Wert von `number1` größer ist als der von `number2`, erhält `max` diesen Wert. Aber was passiert, wenn das nicht der Fall ist?
+>>Dann stürzt der Code ab! 
+>>Dafür haben wir `else`, um solche Fälle zu behandeln.
 
 # ELSE
 ```java
@@ -44,7 +43,7 @@ public class ConditionalOperator {
 }
 ```
 >[!note] 
->`else` wird nur getriggert wenn keine andere Möglichkeit gibt.
+>`else` wird nur ausgeführt, wenn keine andere Bedingung zutrifft.
 
 # ELSE IF
 ```java
@@ -68,7 +67,8 @@ public class ConditionalOperator {
     }
 }
 ```
-
+>[!note] 
+>Das `else if` wird nur überprüft, falls das erste `if` false ist, und es wird nur ausgeführt, wenn `number2 > number1` true ist. Andernfalls wird `else` ausgeführt.
 # Tip
 >[!tip] 
 >[[02 - RESOURCES/Notes/ternären Operator\|ternären Operator]] es ist immer ein Nice To Know ;)
