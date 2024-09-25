@@ -1,74 +1,36 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["code/java/klassen"],"updated":"2024-09-25T14:01:48.158+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["code/java/klassen"],"updated":"2024-09-25T15:39:19.756+02:00"}
 ---
 
->Um eine klasse in [[02 - RESOURCES/Notes/Java\|Java]] einzulegen muss man die Syntax folgen:
->[[02 - RESOURCES/Notes/Zugriffsmodifikator\|Zugriffsmodifikator]] class ClassName {}
->> Arte bitte drauf, dass die ClassName groß geschrieben ist.
+>Um eine [[02 - RESOURCES/Notes/Klasse\|Klasse]] in [[02 - RESOURCES/Notes/Java\|Java]] zu erstellen, muss man der folgenden Syntax folgen: [[02 - RESOURCES/Notes/Zugriffsmodifikator\|Zugriffsmodifikator]] class ClassName {}
+> 
+> > Achte bitte darauf, dass der ClassName groß geschrieben ist.
+
 ```java
-public class Kreis {
-	double radius;
-	
-	// Konstruktoren erzeugen
-	Kreis(){
-		radius = 0;
-	}
-	Kreis(double r){
-		radius = r;
-	}
-	
-	//Getter und Setter Methoden einrichten
-	double getRadius() {
-		return radius;
-	}
-	
-	void setRadius(double r) {
-		radius = r;
-	}
-	
-	
-	double getUmfang() {
-		return 2 * Math.PI * radius;
-	}
-	
-	double getFlaeche() {
-		return Math.PI * radius * radius;
-	}
-	
-	void setUmfang(double u) {
-		radius = u / (2* Math.PI);
-	}
-	
-	void setFlaeche(double f) {
-		radius = Math.sqrt(f/Math.PI);
-	}
+public class Car {
+    // Fields (attributes)
+    String model;
+    String color;
+    int year;
 
-	
-}
+    // Constructor
+    public Car(String model, String color, int year) {
+        this.model = model;
+        this.color = color;
+        this.year = year;
+    }
 
-```
-
-use class Kreis 
-```java
-import javax.swing.JOptionPane;
-
-public class Kreistest {
-
-	public static void main(String[] args) {
-		String kreisradius, einheit;
-		double r;
-		
-		kreisradius = JOptionPane.showInputDialog("Geben Sie den Kreisradius ein: ");
-		r = Double.parseDouble(kreisradius);
-		einheit = JOptionPane.showInputDialog("Geben Sie die Masseeinheit ein: ");
-		
-		Kreis k = new Kreis(r);
-		
-		System.out.println("Kreisradius: " + k.getRadius() + " " + einheit);
-		System.out.println("Kreisumfang: " + k.getUmfang() + " " + einheit);
-		System.out.println("Kreisflaeche: " + k.getFlaeche() + " " + einheit + '\u00b2');
-
-	}
-
+    // Method to display car details
+    public void displayDetails() {
+        System.out.println("Model: " + model);
+        System.out.println("Color: " + color);
+        System.out.println("Year: " + year);
+    }
 }
 ```
+
+Jetzt dass wir eine einfachere [[02 - RESOURCES/Notes/Java klasse\|Java klasse]] haben. Können wir eine [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] erstellen.
+
+>[!note] 
+>Ein [[02 - RESOURCES/Notes/Konstruktor\|Konstruktor]] wurde hier verwendet.
+

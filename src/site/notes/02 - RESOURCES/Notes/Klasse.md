@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/klasse/","updated":"2024-07-06T08:17:52.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/klasse/","tags":["code"],"updated":"2024-09-25T15:33:07.891+02:00"}
 ---
 
+>In der Programmierung ist eine Klasse eine Vorlage oder ein Bauplan für Objekte. 
+>Sie definiert eine Struktur, indem sie Attribute (Daten) und Methoden (Funktionen) beschreibt, die die Objekte der Klasse besitzen und verwenden können. 
+>>Eine Klasse dient dazu, zusammengehörige Daten und Funktionen zu gruppieren und wiederverwendbare Codeeinheiten zu erstellen. 
 
+Beispiel:
+- Eine Klasse „Auto“ könnte Attribute wie „Marke“, „Modell“ und „Baujahr“ enthalten.
+- Sie könnte Methoden wie „fahren“ oder „bremsen“ definieren.
+
+Durch das Erstellen von Objekten dieser Klasse können wir dann spezifische Instanzen der Klasse mit eigenen Werten und Verhaltensweisen erstellen.
