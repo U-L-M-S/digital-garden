@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","inProgress"],"updated":"2024-09-23T16:23:08.348+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","inProgress"],"updated":"2024-09-25T12:58:47.697+02:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -19,7 +19,7 @@ Ist dass alles in eine [[02 - RESOURCES/Notes/Klasse\|klasse]] (HelloWorld) gesp
 Die [[02 - RESOURCES/Notes/Funktion\|Funktion]] `main()` ist der **Starter** der Programm.
 Nun hat die [[02 - RESOURCES/Notes/Funktion\|Funktion]] drei Begriffen bei sich:
 - public: Der [[02 - RESOURCES/Notes/Zugriffsmodifikator\|Zugriffsmodifikator]] der festlegt, dass die [[02 - RESOURCES/Notes/Methode\|Methode]] von überall aufgerufen werden kann.
-- static: Bedeutet, dass die [[02 - RESOURCES/Notes/Methode\|Methode]] ohne Erstellen eines Objekts der [[02 - RESOURCES/Notes/Klasse\|Klasse]] aufgerufen werden kann.
+- [[02 - RESOURCES/Notes/static\|static]]: Bedeutet, dass die [[02 - RESOURCES/Notes/Methode\|Methode]] ohne Erstellen eines Objekts der [[02 - RESOURCES/Notes/Klasse\|Klasse]] aufgerufen werden kann.
 - void: Rückgabewerttyp, die [[02 - RESOURCES/Notes/Methode\|Methode]] keinen Rückgabewert hat.
 
 Der Befehl `System.out.println("Hello, World!");` macht nicht anders als "Hello, World!" in der Console auszugeben.

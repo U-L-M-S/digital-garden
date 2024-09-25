@@ -1,13 +1,7 @@
 ---
-tags:
-  - code/java
-  - code/python
-  - code/OOP
-dg-publish: true
-links: 
-path: Notes
-created: 2024-06-24 10:57
+{"dg-publish":true,"permalink":"/02-resources/notes/zugriffsmodifikator/","tags":["code/java","code/python","code/OOP"],"updated":"2024-09-25T13:16:31.952+02:00"}
 ---
+
 > Zugriffsrechten.
 > Es bestimmt wie weit ein [[02 - RESOURCES/Notes/Attribut\|Attribut]] oder [[02 - RESOURCES/Notes/Methode\|Methode]] zugänglich ist.
 

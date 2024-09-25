@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["code/java/klassen"],"updated":"2024-09-18T13:20:38.191+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["code/java/klassen"],"updated":"2024-09-25T14:01:48.158+02:00"}
 ---
 
-
+>Um eine klasse in [[02 - RESOURCES/Notes/Java\|Java]] einzulegen muss man die Syntax folgen:
+>[[02 - RESOURCES/Notes/Zugriffsmodifikator\|Zugriffsmodifikator]] class ClassName {}
+>> Arte bitte drauf, dass die ClassName groß geschrieben ist.
 ```java
 public class Kreis {
 	double radius;
