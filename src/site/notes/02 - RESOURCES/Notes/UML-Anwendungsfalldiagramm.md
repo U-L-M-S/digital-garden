@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-anwendungsfalldiagramm/","tags":["empty","GFN/prüfungsrelevant/AP2"],"updated":"2024-09-24T11:32:46.399+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-anwendungsfalldiagramm/","tags":["empty","GFN/prüfungsrelevant/AP2"],"updated":"2024-09-26T11:09:32.768+02:00"}
 ---
 
