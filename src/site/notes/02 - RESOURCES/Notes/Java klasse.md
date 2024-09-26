@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["code/java/klassen"],"updated":"2024-09-25T15:39:19.756+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["code/java/klasse"],"updated":"2024-09-26T13:28:43.915+02:00"}
 ---
 
 >Um eine [[02 - RESOURCES/Notes/Klasse\|Klasse]] in [[02 - RESOURCES/Notes/Java\|Java]] zu erstellen, muss man der folgenden Syntax folgen: [[02 - RESOURCES/Notes/Zugriffsmodifikator\|Zugriffsmodifikator]] class ClassName {}
@@ -34,3 +34,5 @@ Jetzt dass wir eine einfachere [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]
 >[!note] 
 >Ein [[02 - RESOURCES/Notes/Konstruktor\|Konstruktor]] wurde hier verwendet.
 
+___
+[[02 - RESOURCES/Notes/Java Getter und Setter\|Java Getter und Setter]]
