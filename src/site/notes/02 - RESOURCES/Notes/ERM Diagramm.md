@@ -1,12 +1,7 @@
 ---
-tags:
-  - datenbank
-  - GFN/prüfungsrelevant/AP1
-dg-publish: true
-links: 
-path: Notes
-created: 2024-05-15 15:42
+{"dg-publish":true,"permalink":"/02-resources/notes/erm-diagramm/","tags":["datenbank","GFN/prüfungsrelevant/AP1","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2024-09-30T21:56:48.022+02:00"}
 ---
+
 > Entity Relationship Diagramm.
 > Zeigt wie zwei [[02 - RESOURCES/Notes/Entität\|Entität]]en sich verhalten gegenseitig verhalten.
 
