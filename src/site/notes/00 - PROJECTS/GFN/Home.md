@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry"],"updated":"2024-09-16T21:28:23.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2024-09-30T14:19:32.000+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -33,6 +33,7 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 [[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]]
 
 [[00 - PROJECTS/GFN/AP1/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]]
+[[00 - PROJECTS/GFN/AP2/LFvt4 Datenbanken und SQL\|LFvt4 Datenbanken und SQL]]
 ___
 ___
 

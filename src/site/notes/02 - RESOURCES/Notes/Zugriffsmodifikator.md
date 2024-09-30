@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/zugriffsmodifikator/","tags":["code/java","code/python","code/OOP"],"updated":"2024-09-25T13:16:31.952+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/zugriffsmodifikator/","tags":["code/java","code/python","code/OOP"],"noteIcon":"","updated":"2024-09-25T13:16:31.000+02:00"}
 ---
 
 > Zugriffsrechten.
