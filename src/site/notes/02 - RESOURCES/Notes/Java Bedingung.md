@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-bedingung/","tags":["code/java/loop"],"noteIcon":"","updated":"2024-09-23T11:24:09.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-bedingung/","tags":["code/java/loop"],"updated":"2024-09-23T11:24:09.180+02:00"}
 ---
 
 # IF
