@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/cidr/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-25T15:21:32.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/cidr/","tags":["netzwerk/ip/ipv4"],"updated":"2024-07-25T15:21:32.890+02:00"}
 ---
 
 > Classless Inter-Domain Routing
