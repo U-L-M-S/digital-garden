@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dual-stack/","tags":["netzwerk","netzwerk/ip/ipv4","netzwerk/ip/ipv6"],"updated":"2024-08-02T17:33:55.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dual-stack/","tags":["netzwerk","netzwerk/ip/ipv4","netzwerk/ip/ipv6"],"noteIcon":"","updated":"2024-08-02T17:33:55.955+02:00"}
 ---
 
 >Methode, die verwendet wird in eine [[02 - RESOURCES/Notes/Netzwerk\|Netz]] damit Geräte [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[02 - RESOURCES/Notes/IPv6\|IPv6]] gleichzeitig verwenden kann.
