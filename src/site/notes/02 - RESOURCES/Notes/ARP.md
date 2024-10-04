@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/arp/","tags":["netzwerk/protocol","netzwerk/protocol","linux","command","windows"],"noteIcon":"","updated":"2024-07-25T14:56:59.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/arp/","tags":["netzwerk/protocol","netzwerk/protocol","linux","command","windows"],"updated":"2024-07-25T14:56:59.630+02:00"}
 ---
 
 > Address Resolution Protocol
