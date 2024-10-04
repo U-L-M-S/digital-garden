@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/erm-diagramm/","tags":["datenbank","GFN/prüfungsrelevant/AP1","GFN/prüfungsrelevant/AP2"],"updated":"2024-09-30T21:56:48.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/erm-diagramm/","tags":["datenbank","GFN/prüfungsrelevant/AP1","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2024-09-30T21:56:48.022+02:00"}
 ---
 
 > Entity Relationship Diagramm.
