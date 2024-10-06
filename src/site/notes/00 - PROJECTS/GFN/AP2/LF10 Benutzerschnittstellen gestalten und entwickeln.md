@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-10-benutzerschnittstellen-gestalten-und-entwickeln/","tags":["GFN/LF10","inProgress"],"noteIcon":"","updated":"2024-08-28T15:47:47.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-10-benutzerschnittstellen-gestalten-und-entwickeln/","tags":["GFN/LF10","inProgress"],"noteIcon":"","updated":"2024-10-06T19:55:27.247+02:00"}
 ---
+
+>[!important] 
+>Diese Zusammenfassung ist noch nicht vollständig.
+>Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
 
 >In diesem Lernfeld werden wir das Web kennenlernen, einschließlich
 >>Frontend, Backend und bestimmter Frameworks.

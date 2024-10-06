@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-11-funktionalitaet-in-anwendungen-realisieren/","tags":["GFN/LF11"],"noteIcon":"","updated":"2024-09-19T13:38:32.574+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-11-funktionalitaet-in-anwendungen-realisieren/","tags":["GFN/LF11"],"noteIcon":"","updated":"2024-10-06T19:55:38.860+02:00"}
 ---
+
+>[!important] 
+>Diese Zusammenfassung ist noch nicht vollständig.
+>Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
 
 >In diesen Lernfelder lernen wir nur die Java-Grundlage + Objektorientierung.
 

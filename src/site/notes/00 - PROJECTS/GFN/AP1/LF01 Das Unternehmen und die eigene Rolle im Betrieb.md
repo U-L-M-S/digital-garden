@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2024-10-06T14:31:18.181+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2024-10-06T19:53:41.826+02:00"}
 ---
+
+>[!important] 
+>Diese Zusammenfassung ist noch nicht vollständig.
+>Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
+
 
 # I. Das [[02 - RESOURCES/Notes/Duale System\|Duale System]] vorstellen Präsentation
 >In Deutschland basiert die Berufsausbildung in eine [[02 - RESOURCES/Notes/Duale System\|Duale System]].
