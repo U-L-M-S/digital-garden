@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","updated":"2024-09-30T22:05:12.985+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry"],"updated":"2024-10-07T09:54:08.028+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -25,6 +25,9 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 [[00 - PROJECTS/GFN/AP1/LF05 Software zur Verwaltung von Daten anpassen\|LF05 Software zur Verwaltung von Daten anpassen]] 
 [[00 - PROJECTS/GFN/AP1/LF06 Serviceanfragen bearbeiten\|LF06 Serviceanfragen bearbeiten]]
 
+[[00 - PROJECTS/GFN/AP1/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]]
+
+
 [[00 - PROJECTS/GFN/AP1/LF07 Cyber-physische Systeme ergänzen\|LF07 Cyber-physische Systeme ergänzen]]
 [[00 - PROJECTS/GFN/AP1/LF08 Daten systemübergreifend bereitstellen\|LF08 Daten systemübergreifend bereitstellen]]
 [[00 - PROJECTS/GFN/AP1/LF09 Netzwerke und Dienste bereitstellen\|LF09 Netzwerke und Dienste bereitstellen]]
@@ -32,9 +35,8 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 # AP2-relevant
 [[00 - PROJECTS/GFN/AP2/LF10 Benutzerschnittstellen gestalten und entwickeln\|LF10 Benutzerschnittstellen gestalten und entwickeln]]
 [[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]]
-[[00 - PROJECTS/GFN/AP2/LFvt4 Datenbanken und SQL\|LFvt4 Datenbanken und SQL]]
 
-[[00 - PROJECTS/GFN/AP1/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]]
+[[00 - PROJECTS/GFN/AP2/LFvt4 Datenbanken und SQL\|LFvt4 Datenbanken und SQL]]
 ___
 ___
 
