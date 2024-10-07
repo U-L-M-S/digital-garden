@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","inProgress"],"updated":"2024-09-25T15:34:01.358+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","inProgress"],"updated":"2024-10-07T10:30:56.565+02:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -17,6 +17,9 @@ Wie du schon in der classic Code "Hello World" sehen kannst.
 Ist dass alles in eine [[02 - RESOURCES/Notes/Klasse\|klasse]] (HelloWorld) gespeichert ist.
 
 Die [[02 - RESOURCES/Notes/Funktion\|Funktion]] `main()` ist der **Starter** der Programm.
+>[!note] 
+>Eigentlich... [[02 - RESOURCES/Notes/Methode\|Methode]]. Da wir in [[02 - RESOURCES/Notes/Java\|Java]] keine  echten [[02 - RESOURCES/Notes/Funktion\|Funktion]]en haben.
+
 Nun hat die [[02 - RESOURCES/Notes/Funktion\|Funktion]] drei Begriffen bei sich:
 - public: Der [[02 - RESOURCES/Notes/Zugriffsmodifikator\|Zugriffsmodifikator]] der festlegt, dass die [[02 - RESOURCES/Notes/Methode\|Methode]] von überall aufgerufen werden kann.
 - [[02 - RESOURCES/Notes/static\|static]]: Bedeutet, dass die [[02 - RESOURCES/Notes/Methode\|Methode]] ohne Erstellen eines Objekts der [[02 - RESOURCES/Notes/Klasse\|Klasse]] aufgerufen werden kann.
