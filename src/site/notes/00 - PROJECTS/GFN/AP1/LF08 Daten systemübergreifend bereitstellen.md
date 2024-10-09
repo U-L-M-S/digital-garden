@@ -39,7 +39,7 @@ ___
 In diesem Kapitel geht es nur um [[02 - RESOURCES/Notes/Python\|Python]].
 ___
 # VII. Datenbanklösungen bedarfsgerecht entwickeln
-In diesem Kapitel geht es nur um [[00 - PROJECTS/SQL\|SQL]].
+In diesem Kapitel geht es nur um [[02 - RESOURCES/Notes/SQL\|SQL]].
 ___
 
 Es ist eigentlich nur eine Wiederholung aber etwas intensiver und mit mehr Theorie.
