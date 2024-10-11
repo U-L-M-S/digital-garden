@@ -1,6 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/primary-key/","tags":["datenbank"],"updated":"2024-10-10T09:40:17.583+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/primary-key/","tags":["code/SQL"],"updated":"2024-10-10T13:51:04.160+02:00"}
 ---
 
 >Selbe wie [[02 - RESOURCES/Notes/Schlüsselattribut\|Schlüsselattribut]] in die [[02 - RESOURCES/Notes/ERM\|ERM]]
->> Bei [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] ist das die [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]], die verwendet wird, um eine [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] mit einer anderen [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] zu verlinken.
+>
+>>In einer [[02 - RESOURCES/Notes/SQL\|SQL]]-Tabelle ist eine [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]] oder eine Kombination von [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]], die jeden Datensatz in der [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] eindeutig identifiziert. 
+>>Jeder Wert im Primary Key muss einzigartig sein und darf nicht NULL sein.
+```sql
+CREATE TABLE Kurse (
+    kurs_id INT PRIMARY KEY,          -- Primärschlüssel
+    kurs_name VARCHAR(100),
+    lehrer_name VARCHAR(100)
+);
+```
