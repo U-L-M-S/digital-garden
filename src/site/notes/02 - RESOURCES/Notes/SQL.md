@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL","GFN/prüfungsrelevant/AP2"],"updated":"2024-10-11T15:22:51.608+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL","GFN/prüfungsrelevant/AP2"],"updated":"2024-10-11T15:32:21.109+02:00"}
 ---
 
 >SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.
@@ -143,3 +143,20 @@ FROM Schueler;
 >[!info] [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]]
 >Es ist das **IF** in [[02 - RESOURCES/Notes/SQL\|SQL]].
 
+>Alle Schüler, die vor 2005 geboren sind:
+
+```sql
+SELECT vorname, nachname, geburtsdatum
+FROM Schueler
+WHERE geburtsdatum <= '2005-12-31';
+```
+
+**ODER**
+
+```sql
+SELECT vorname, nachname, geburtsdatum
+FROM Schueler
+WHERE YEAR(geburtsdatum) <= 2005;
+```
+
+___
