@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL"],"updated":"2024-10-10T14:19:49.571+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL","GFN/prüfungsrelevant/AP2"],"updated":"2024-10-11T11:21:46.637+02:00"}
 ---
 
 >SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.
@@ -47,4 +47,62 @@ CREATE TABLE Einschreibung (
 
 >[!info] Die [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]]n wurden erstellt, sind aber noch leer.
 
-[[02 - RESOURCES/Notes/SQL INSERT\|SQL INSERT]]
+Mit [[02 - RESOURCES/Notes/SQL INSERT\|SQL INSERT]] können wir [[02 - RESOURCES/Notes/SQL Zeile\|SQL Zeile]]n in die [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n einsetzen.
+
+```sql
+INSERT INTO Schueler (schueler_id, vorname, nachname, geburtsdatum) VALUES
+(1, 'Max', 'Muster', '2005-04-15'),
+(2, 'Anna', 'Beispiel', '2006-05-20'),
+(3, 'Tom', 'Schneider', '2004-08-12'),
+(4, 'Lisa', 'Müller', '2005-11-01');
+```
+
+```sql
+INSERT INTO Kurse (kurs_id, kurs_name, lehrer_name) VALUES
+(1, 'Mathematik', 'Schmidt'),
+(2, 'Deutsch', 'Müller'),
+(3, 'Biologie', 'Wagner'),
+(4, 'Chemie', 'Schmidt');
+```
+
+```sql
+INSERT INTO Einschreibung (einschreibung_id, schueler_id, kurs_id, einschreibedatum) VALUES
+(1, 1, 1, '2023-09-01')
+(2, 1, 2, '2023-09-01'),
+(3, 2, 1, '2023-09-01'), 
+(4, 3, 3, '2023-09-01'),  
+(5, 4, 4, '2023-09-01');  
+```
+
+So sehen die [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]]n aus (Tabell Format):
+
+Schueler:
+
+| schueler_id | vorname | nachname  | geburtsdatum |
+| :---------: | :-----: | :-------: | :----------: |
+|      1      |   Max   |  Muster   |  2005-04-15  |
+|      2      |  Anna   | Beispiel  |  2006-05-20  |
+|      3      |   Tom   | Schneider |  2004-08-12  |
+|      4      |  Lisa   |  Müller   |  2005-11-01  |
+
+Kurse:
+ 
+| kurs_id | kurs_name  | lehrer_name |
+| :-----: | :--------: | :---------: |
+|    1    | Mathematik |   Schmidt   |
+|    2    |  Deutsch   |   Müller    |
+|    3    |  Biologie  |   Wagner    |
+|    4    |   Chemie   |   Schmidt   |
+
+Einschreibung:
+
+| einschreibung_id | schueler_id | kurs_id | einschreibedatum |
+| :--------------: | :---------: | :-----: | :--------------: |
+|        1         |      1      |    1    |    2023-09-01    |
+|        2         |      1      |    2    |    2023-09-01    |
+|        3         |      2      |    1    |    2023-09-01    |
+|        4         |      3      |    3    |    2023-09-01    |
+|        5         |      4      |    4    |    2023-09-01    |
+
+>[!note] 
+>Jetzt wissen wir wie man ein Datenbank erstellt und wie man 
