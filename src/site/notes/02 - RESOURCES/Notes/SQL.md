@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL","GFN/prüfungsrelevant/AP2"],"updated":"2024-10-11T14:34:37.779+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL","GFN/prüfungsrelevant/AP2"],"updated":"2024-10-11T15:22:51.608+02:00"}
 ---
 
 >SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.
@@ -120,10 +120,26 @@ Einschreibung:
 >Bevor wir anfangen, ist es wichtig zu verstehen, wie [[02 - RESOURCES/Notes/SQL\|SQL]] unter der Haube funktioniert.
 >>Es ist dir wahrscheinlich aufgefallen, dass [[02 - RESOURCES/Notes/SQL\|SQL]] mit [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]]n arbeitet.  
 >>Jede [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] hat ihre eigenen [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n ([[02 - RESOURCES/Notes/Variable\|Variable]]n) und kann mit [[02 - RESOURCES/Notes/SQL SELECT\|SQL SELECT]] und [[02 - RESOURCES/Notes/SQL FROM\|SQL FROM]] abgefragt werden.
-
->[!example] bsp
+>
 >```sql
 >SELECT *
 >FROM Tabellename;
 >```
+
+
+In unser Bsp wurde etwas so aussehen:
+```sql
+SELECT *
+FROM Schueler;
+``` 
+
+| schueler_id | vorname | nachname  | geburtsdatum |
+| :---------: | :-----: | :-------: | :----------: |
+|      1      |   Max   |  Muster   |  2005-04-15  |
+|      2      |  Anna   | Beispiel  |  2006-05-20  |
+|      3      |   Tom   | Schneider |  2004-08-12  |
+|      4      |  Lisa   |  Müller   |  2005-11-01  |
+
+>[!info] [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]]
+>Es ist das **IF** in [[02 - RESOURCES/Notes/SQL\|SQL]].
 
