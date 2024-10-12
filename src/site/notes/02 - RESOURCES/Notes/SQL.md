@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL","GFN/prüfungsrelevant/AP2"],"updated":"2024-10-11T15:32:21.109+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2024-10-11T20:04:21.784+02:00"}
 ---
 
 >SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.
@@ -116,7 +116,7 @@ Einschreibung:
 >>Das lernen wir als nächstes
 
 
-# Werten rauslesen
+# Werte aus [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]]n extrahieren
 >Bevor wir anfangen, ist es wichtig zu verstehen, wie [[02 - RESOURCES/Notes/SQL\|SQL]] unter der Haube funktioniert.
 >>Es ist dir wahrscheinlich aufgefallen, dass [[02 - RESOURCES/Notes/SQL\|SQL]] mit [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]]n arbeitet.  
 >>Jede [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] hat ihre eigenen [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n ([[02 - RESOURCES/Notes/Variable\|Variable]]n) und kann mit [[02 - RESOURCES/Notes/SQL SELECT\|SQL SELECT]] und [[02 - RESOURCES/Notes/SQL FROM\|SQL FROM]] abgefragt werden.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lan/","tags":["netzwerk"],"updated":"2024-07-10T14:57:43.663+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/lan/","tags":["netzwerk"],"noteIcon":"","updated":"2024-07-10T14:57:43.000+02:00"}
 ---
 
 > Local Area Network.
