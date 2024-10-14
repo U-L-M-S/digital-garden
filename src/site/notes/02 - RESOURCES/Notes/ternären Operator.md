@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ternaeren-operator/","tags":["code"],"noteIcon":"","updated":"2024-09-19T13:59:29.885+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ternaeren-operator/","tags":["code"],"updated":"2024-09-19T13:59:29.000+02:00"}
 ---
 
 >IF in Programierung, aber in eine Zeile verkürzt.

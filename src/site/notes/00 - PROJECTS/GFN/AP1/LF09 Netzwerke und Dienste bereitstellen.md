@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["GFN/LF09","netzwerk","finished"],"noteIcon":"","updated":"2024-08-29T22:55:50.341+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["GFN/LF09","netzwerk","finished"],"updated":"2024-10-14T16:08:19.695+02:00"}
 ---
 
 >Dieses Lernfeld ist eine Erweiterung von [[00 - PROJECTS/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]. 
@@ -7,11 +7,11 @@
 # I. Switching
 ___
 Wie der Name schon sagt, es geht hier hauptsächlich um [[02 - RESOURCES/Notes/Switch\|Switch]]es.
-Andere Themen sowie [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]]n, [[02 - RESOURCES/Notes/Broadcast\|Broadcast]], [[02 - RESOURCES/Notes/ARP\|ARP]] und [[02 - RESOURCES/Notes/STP\|STP]] werden hier auch berücksichtigen.
+Andere Themen sowie [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]]n, [[02 - RESOURCES/Notes/Broadcast\|Broadcast]], [[02 - RESOURCES/Notes/arp\|arp]] und [[02 - RESOURCES/Notes/STP\|STP]] werden hier auch berücksichtigen.
 
 - Hier muss du in der Lager sein zu verstehen was eine [[02 - RESOURCES/Notes/Switch\|Switch]] und wie diese funktioniert.
 - [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]] muss du in der Lager sein zu wissen wo man es findet.
-- [[02 - RESOURCES/Notes/ARP\|ARP]] wird nur benutzt um anzuzeigen alle Rechner in das [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]].
+- [[02 - RESOURCES/Notes/arp\|arp]] wird nur benutzt um anzuzeigen alle Rechner in das [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]].
 - Über [[02 - RESOURCES/Notes/STP\|STP]] muss du nur wissen, dass es verwendet wird um Loops  (Endlosschleifen) in [[02 - RESOURCES/Notes/Switch\|Switch]]es zu stoppen.
 - Was [[02 - RESOURCES/Notes/PDU\|PDU]] ist und die Informationen was jeder Layer in die [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]] einsetzt ([[02 - RESOURCES/Notes/IPv4 Header\|IPv4 Header]]).
 

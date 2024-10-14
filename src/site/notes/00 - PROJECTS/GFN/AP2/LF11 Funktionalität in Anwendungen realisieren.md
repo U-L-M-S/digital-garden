@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-11-funktionalitaet-in-anwendungen-realisieren/","tags":["GFN/LF11"],"noteIcon":"","updated":"2024-10-06T19:55:38.860+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-11-funktionalitaet-in-anwendungen-realisieren/","tags":["GFN/LF11"],"updated":"2024-10-06T19:55:38.000+02:00"}
 ---
 
 >[!important] 

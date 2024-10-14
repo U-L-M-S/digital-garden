@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/gateway/","tags":["netzwerk/gateway"],"noteIcon":"","updated":"2024-07-25T14:56:59.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/gateway/","tags":["netzwerk/gateway"],"updated":"2024-07-25T14:56:59.829+02:00"}
 ---
 
 ## gateway 
@@ -52,6 +52,8 @@ Tunneladapter LAN-Verbindung*:
 ```
 
 ### Linux
+
+
 ```bash
 ❯ ip a
 ```
@@ -144,6 +146,8 @@ Tunneladapter LAN-Verbindung*:
 ```
 
 ### Linux
+
+
 ```bash
 ❯ ip a
 ```
