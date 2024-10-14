@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dual-stack/","tags":["netzwerk","netzwerk/ip/ipv4","netzwerk/ip/ipv6"],"updated":"2024-10-14T16:27:01.994+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dual-stack/","tags":["netzwerk","netzwerk/ip/ipv4","netzwerk/ip/ipv6"],"updated":"2024-10-14T16:29:56.282+02:00"}
 ---
 
 >Methode, die verwendet wird in eine [[02 - RESOURCES/Notes/Netzwerk\|Netz]] damit Geräte [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[02 - RESOURCES/Notes/IPv6\|IPv6]] gleichzeitig verwenden kann.
 >>Es ist kein [[02 - RESOURCES/Notes/Protokoll\|Protokoll]], sonder eine Einstellung. Moderne Geräte können das heutzutage.
 
 >[!summary] IPv4
->[[02 - RESOURCES/Notes/arp temp\|arp temp]] wird ersetzt durch Neighbor MAC Discovery.
+>[[02 - RESOURCES/Notes/arp\|arp]] wird ersetzt durch Neighbor MAC Discovery.
 
 >[!summary] IPv6
 >Damit [[02 - RESOURCES/Notes/Dual Stack\|Dual Stack]] funktionieren kann, muss [[02 - RESOURCES/Notes/IPv6\|IPv6]]  konfiguriert werden mit:
