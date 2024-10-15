@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datensatz/","tags":["code/SQL","datenbank"],"updated":"2024-10-15T09:32:33.861+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/datensatz/","tags":["code/SQL","datenbank"],"updated":"2024-10-15T09:44:17.303+02:00"}
 ---
 
 >Es ist eine Gruppe von Daten, die zusammengehören und in einer strukturierten Form gespeichert werden. 
@@ -7,6 +7,6 @@
 
 
 | kurs_id | kurs_name  | lehrer_name |
-| ------- | ---------- | ----------- |
-| 1       | Mathematik | Müller      |
+| :-----: | :--------: | :---------: |
+|    1    | Mathematik |   Müller    |
 >[!note] Der Kurs mit der ID 1 ist "Mathematik" und wird von "Müller" unterrichtet.
