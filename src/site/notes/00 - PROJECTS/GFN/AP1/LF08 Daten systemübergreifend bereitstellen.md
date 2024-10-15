@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["GFN/LF08","code/java","inProgress"],"noteIcon":"","updated":"2024-10-06T19:54:37.440+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["GFN/LF08","code/java","inProgress"],"updated":"2024-10-06T19:54:37.000+02:00"}
 ---
 
 >[!important] 

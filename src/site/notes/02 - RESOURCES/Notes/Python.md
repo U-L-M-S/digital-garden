@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/python/","tags":["inProgress","code/python","GFN/LF08"],"noteIcon":"","updated":"2024-08-19T21:42:24.383+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/python/","tags":["inProgress","code/python","GFN/LF08"],"updated":"2024-08-19T21:42:24.000+02:00"}
 ---
 
 >Python ist eine vielseitige, hochgradig lesbare Programmiersprache, die sowohl für Einsteiger als auch für erfahrene Entwickler geeignet ist.

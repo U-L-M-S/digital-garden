@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-03-clients-in-netzwerk-einbinden/","tags":["inProgress","netzwerk","GFN/LF03"],"noteIcon":"","updated":"2024-10-06T19:53:49.429+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-03-clients-in-netzwerk-einbinden/","tags":["inProgress","netzwerk","GFN/LF03"],"updated":"2024-10-06T19:53:49.000+02:00"}
 ---
 
 >[!important] 
