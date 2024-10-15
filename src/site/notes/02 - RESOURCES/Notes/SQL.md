@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL","GFN/prüfungsrelevant/AP2"],"updated":"2024-10-11T20:04:21.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL","GFN/prüfungsrelevant/AP2"],"updated":"2024-10-15T14:49:53.135+02:00"}
 ---
 
 >SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.
@@ -160,3 +160,72 @@ WHERE YEAR(geburtsdatum) <= 2005;
 ```
 
 ___
+>[!info] 
+>Jetzt, dass du die Grundlage über SQL gelernt hast.
+>Es ist Zeit auf die Vertiefung an den Thema.
+>>Ab hier wirst du bestimmten Anweisungen, Syntax und noch viel mehr.
+
+# SQL Algorithmus
+>Es gibt unendlich viele Wege, um eine Aufgabe in SQL zu lösen.
+>Ich zeige dir, wie **ich** es immer mache.
+
+Patient:
+
+| patient_ID | first_name | last_name | birthdate  |
+| ---------- | ---------- | --------- | ---------- |
+| 1          | Max        | Müller    | 1980-01-15 |
+| 2          | Maria      | Doe       | 1975-09-10 |
+| 3          | Lux        | Schmitz   | 1992-05-22 |
+Weight:
+
+| weight_ID | patient_ID | date       | kg   |
+| --------- | ---------- | ---------- | ---- |
+| 1         | 1          | 2024-10-10 | 82.5 |
+| 2         | 1          | 2024-11-15 | 80.0 |
+| 3         | 2          | 2024-10-05 | 68.4 |
+| 4         | 3          | 2024-10-12 | 90.2 |
+
+>[!note] Aufgabe
+>Erstelle eine SQL-Abfrage, die den Vornamen, Nachnamen, das Datum und das Gewicht (kg) jedes Patienten anzeigt.
+
+1. Welche [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n sind hier gefragt ?
+   >Vorname, Nachname, Datum und  KG
+   >>Deise füge ich in den SELECT ein.
+   
+```sql
+SELECT Patient.first_name, Patient.last_name, Weight.date, Weight.kg
+```
+   
+| patient_ID | <mark style="background: #FFF3A3A6;">first_name</mark> | <mark style="background: #FFF3A3A6;">last_name</mark> | birthdate  |
+| ---------- | ------------------------------------------------------ | ----------------------------------------------------- | ---------- |
+| 1          | Max                                                    | Müller                                                | 1980-01-15 |
+| 2          | Maria                                                  | Doe                                                   | 1975-09-10 |
+| 3          | Lux                                                    | Schmitz                                               | 1992-05-22 |
+
+| weight_ID | patient_ID | <mark style="background: #FFF3A3A6;">date</mark> | <mark style="background: #FFF3A3A6;">kg</mark> |
+| --------- | ---------- | ------------------------------------------------ | ---------------------------------------------- |
+| 1         | 1          | 2024-10-10                                       | 82.5                                           |
+| 2         | 1          | 2024-11-15                                       | 80.0                                           |
+| 3         | 2          | 2024-10-05                                       | 68.4                                           |
+| 4         | 3          | 2024-10-12                                       | 90.2                                           |
+2. Welchen Tabellen werden hier benötigen?
+   >Patient und Weight
+   >>Diese füge ich in den FROM ein.
+   
+```sql
+SELECT Patient.first_name, Patient.last_name, Weight.date, Weight.kg
+FROM Patient, Weight
+```
+
+3. Welchen Bedingungen müssen erfühlen werden?
+   >Bei diese Aufgabe, müssen die `patient_ID` und `weight_ID` übereinstimmen.
+   >>Diese Bedingung kommt in den WHERE.
+   
+```sql
+SELECT Patient.first_name, Patient.last_name, Weight.date, Weight.kg
+FROM Patient, Weight
+WHERE Patient.patient_ID = Weight.weight_ID; 
+```
+
+>[!note] und das war's!!!
+
