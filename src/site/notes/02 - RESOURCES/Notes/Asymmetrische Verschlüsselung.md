@@ -13,7 +13,7 @@ Da nur der Besitzer des privaten Schlüssels die verschlüsselten Daten entschl�
 
 1. **[[02 - RESOURCES/Notes/Vertraulichkeit\|Vertraulichkeit]]:** Asymmetrische Verschlüsselung sorgt dafür, dass nur der beabsichtigte Empfänger auf die verschlüsselten Daten zugreifen kann, was unbefugten Zugriff verhindert.
 
-2. **[[02 - RESOURCES/Notes/Authentizität\|Authentizität]]:** Durch die Verwendung von digitalen Signaturen wird sichergestellt, dass die Identität des Absenders überprüft werden kann, was Betrug und Identitätsdiebstahl reduziert.
+2. **[[Authentizität\|Authentizität]]:** Durch die Verwendung von digitalen Signaturen wird sichergestellt, dass die Identität des Absenders überprüft werden kann, was Betrug und Identitätsdiebstahl reduziert.
 
 3. **[[02 - RESOURCES/Notes/Integrität\|Integrität]]:** Die Verschlüsselung und digitalen Signaturen gewährleisten, dass die übermittelten Daten nicht manipuliert wurden, was Vertrauen in die [[02 - RESOURCES/Notes/Integrität\|Integrität]] der Informationen schafft.
 
