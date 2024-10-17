@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL","GFN/prüfungsrelevant/AP2","datenbank"],"updated":"2024-10-17T14:00:04.632+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL","GFN/prüfungsrelevant/AP2","datenbank"],"updated":"2024-10-17T16:22:54.966+02:00"}
 ---
 
 >SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.
@@ -233,4 +233,4 @@ WHERE Patient.patient_ID = Weight.patient_ID;
 >Wir haben gelernt, dass man mit [[02 - RESOURCES/Notes/SQL FROM\|SQL FROM]] und [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]] eine Verbindung zwischen [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] herstellen kann, indem man die Primärschlüssel verwendet, um nur die relevanten Datensätze zu filtern. 
 >>Im Vergleich dazu ermöglicht ein **INNER JOIN** eine klarere und effizientere Methode zur Verknüpfung von Tabellen, indem die Beziehung zwischen ihnen explizit definiert wird, wodurch die Abfrage lesbarer und die Verarbeitungsgeschwindigkeit optimiert wird.
 
-[[02 - RESOURCES/Notes/SQL JOIN\|SQL JOIN]]
+[[02 - RESOURCES/Notes/SQL JOIN\|SQL JOIN]]s

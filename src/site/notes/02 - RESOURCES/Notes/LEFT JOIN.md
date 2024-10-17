@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/left-join/","tags":["datenbank","code/SQL"],"updated":"2024-10-17T14:19:07.175+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/left-join/","tags":["datenbank","code/SQL"],"updated":"2024-10-17T16:17:41.239+02:00"}
 ---
 
 >Ein **LEFT JOIN** gibt **alle [[02 - RESOURCES/Notes/Datensatz\|Datensätze]] der linken Tabelle** (in diesem Fall `customers`) zurück, **auch wenn es keine Übereinstimmung** in der rechten Tabelle (`orders`) gibt.
 >>Wenn keine Übereinstimmung vorhanden ist, werden die fehlenden Werte aus der rechten Tabelle als [[02 - RESOURCES/Notes/NULL\|NULL]] angezeigt.
 
 
-**Tabelle: `customers` 
+Tabelle: `customers` 
 
-|customer_ID|name|
-|---|---|
-|1|Alice|
-|2|Bob|
-|3|Carol|
+| customer_ID | name  |
+| ----------- | ----- |
+| 1           | Alice |
+| 2           | Bob   |
+| 3           | Carol |
 
-**Tabelle: `orders` 
+Tabelle: `orders` 
 
 |order_ID|customer_ID|amount|
 |---|---|---|
