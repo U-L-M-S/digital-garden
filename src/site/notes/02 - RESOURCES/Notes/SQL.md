@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL","GFN/prüfungsrelevant/AP2"],"updated":"2024-10-15T14:49:53.135+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL","GFN/prüfungsrelevant/AP2"],"updated":"2024-10-17T09:44:54.545+02:00"}
 ---
 
 >SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.
@@ -189,8 +189,8 @@ Weight:
 >Erstelle eine SQL-Abfrage, die den Vornamen, Nachnamen, das Datum und das Gewicht (kg) jedes Patienten anzeigt.
 
 1. Welche [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n sind hier gefragt ?
-   >Vorname, Nachname, Datum und  KG
-   >>Deise füge ich in den SELECT ein.
+   >Vorname, Nachname, Datum und KG
+   >>Deise füge ich in den [[02 - RESOURCES/Notes/SQL SELECT\|SQL SELECT]] ein.
    
 ```sql
 SELECT Patient.first_name, Patient.last_name, Weight.date, Weight.kg
@@ -210,7 +210,7 @@ SELECT Patient.first_name, Patient.last_name, Weight.date, Weight.kg
 | 4         | 3          | 2024-10-12                                       | 90.2                                           |
 2. Welchen Tabellen werden hier benötigen?
    >Patient und Weight
-   >>Diese füge ich in den FROM ein.
+   >>Diese füge ich in den [[02 - RESOURCES/Notes/SQL FROM\|SQL FROM]] ein.
    
 ```sql
 SELECT Patient.first_name, Patient.last_name, Weight.date, Weight.kg
@@ -219,7 +219,7 @@ FROM Patient, Weight
 
 3. Welchen Bedingungen müssen erfühlen werden?
    >Bei diese Aufgabe, müssen die `patient_ID` und `weight_ID` übereinstimmen.
-   >>Diese Bedingung kommt in den WHERE.
+   >>Diese Bedingung kommt in den [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]].
    
 ```sql
 SELECT Patient.first_name, Patient.last_name, Weight.date, Weight.kg
@@ -228,4 +228,3 @@ WHERE Patient.patient_ID = Weight.weight_ID;
 ```
 
 >[!note] und das war's!!!
-
