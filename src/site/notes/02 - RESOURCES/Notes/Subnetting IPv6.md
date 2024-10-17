@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv6/","tags":["netzwerk/subnetting","netzwerk/ip/ipv6"],"updated":"2024-08-01T13:14:58.467+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv6/","tags":["netzwerk/subnetting","netzwerk/ip/ipv6"],"noteIcon":"","updated":"2024-10-17T20:37:38.062+02:00"}
 ---
 
 >[[02 - RESOURCES/Notes/Subnetting IPv6\|Subnetting IPv6]]  funktioniert genaue wie bei [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]. Es hat aber ein paar Merkmalen was wir besonders achten müssen.
@@ -134,7 +134,7 @@
 >VIII. [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]: FE80:0:3A:<mark style="background: #FFB86CA6;">E</mark><mark style="background: #D2B3FFA6;">0</mark>::/59
 
 >[!example] Beispiel 3
->[[02 - RESOURCES/Notes/IP\|IP]]: FE80:0:3A:: /59 
+>[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]: FE80:0:3A:: /59 
 >In 8 Subnetze einteilen
 >
 >$$59=16-16-16=11$$

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/statisches-routing/","tags":["netzwerk/paket"],"updated":"2024-07-23T12:17:34.932+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/statisches-routing/","tags":["netzwerk/paket"],"noteIcon":"","updated":"2024-10-17T20:37:35.302+02:00"}
 ---
 
 >Die Konfiguration von  die Routing-Tabellen werden manuell von einem Administrator konfiguriert.
 
 >Jeder Router kennt nur seiner Nachbar(Routing-Tabelle).
->Bei Versendung von Paketen wird nur die Routers-[[02 - RESOURCES/Notes/IP\|IP]]s berücksichtig.
+>Bei Versendung von Paketen wird nur die Routers-[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]s berücksichtig.
 
 >[!note] 
 >Wenn ein [[02 - RESOURCES/Notes/Router\|Router]] ausfällt oder den Weg nicht mehr stimmt wegen irgendwelche Grund, funktioniert nicht mehr.

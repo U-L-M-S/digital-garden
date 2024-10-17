@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dhcp-prozess/","tags":["algorithmus","netzwerk"],"updated":"2024-08-02T02:47:48.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dhcp-prozess/","tags":["algorithmus","netzwerk"],"noteIcon":"","updated":"2024-08-02T02:47:48.463+02:00"}
 ---
 
 >Algorithmus von [[02 - RESOURCES/Notes/DHCP\|DHCP]] zwischen [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]] und jedem Rechner, der neu in das [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] kommt.
@@ -17,11 +17,11 @@
 >
 >>Das [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]] enthält folgenden Infos:
 >>- Sender-[[02 - RESOURCES/Notes/MAC Adresse\|MAC]]
->>- Empfänger-[[02 - RESOURCES/Notes/IP\|IP]]: (255.255.255.255) [[02 - RESOURCES/Notes/Broadcast\|Broadcast]] 
+>>- Empfänger-[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]: (255.255.255.255) [[02 - RESOURCES/Notes/Broadcast\|Broadcast]] 
 >>- Transactions-ID:01
 >>- [[02 - RESOURCES/Notes/DHCP-Nachricht\|DHCP-Nachricht]]: [[02 - RESOURCES/Notes/DHCPDISCOVER\|DHCPDISCOVER]]
 >>- List-Requirements:
->>	- Neuer [[02 - RESOURCES/Notes/IP\|IP]]
+>>	- Neuer [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]
 >>	- [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]
 >>	- [[02 - RESOURCES/Notes/Gateway\|Gateway]]
 
@@ -39,10 +39,10 @@
 >[[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]] enthält das [[02 - RESOURCES/Notes/DHCP Discover\|DHCP Discover]]-Paket und verschickt zurück einen [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]] mit die gefragte Informationen von der neuer Nutzer.
 >
 >>Das [Datenpakete](app://obsidian.md/Datenpakete) enthält folgenden Infos:
->>- [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]]-[[02 - RESOURCES/Notes/IP\|IP]]: 192.x.x.x
+>>- [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]]-[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]: 192.x.x.x
 >>- Transactions-ID:01
 >>- Empfänger-[[02 - RESOURCES/Notes/MAC Adresse\|MAC]]:xxx (Neuer Nutzer)
->>- Angebote [[02 - RESOURCES/Notes/IP\|IP]]: 192.x.x.y
+>>- Angebote [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]: 192.x.x.y
 >>- [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]: 255...
 >>- [[02 - RESOURCES/Notes/Lease Time\|Lease Time]]: 60
 >>- [[02 - RESOURCES/Notes/DHCP-Nachricht\|DHCP-Nachricht]]: [[02 - RESOURCES/Notes/DHCPOFFER\|DHCPOFFER]] 
@@ -64,10 +64,10 @@
 >Neuer Nutzer enthält das [[02 - RESOURCES/Notes/DHCP Offer\|DHCP Offer]] von [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]], akzeptiert diese und schickt erneut ein [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]] an [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]].
 >
 >>Das [Datenpakete](app://obsidian.md/Datenpakete) enthält folgenden Infos:
->>- [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]]-[[02 - RESOURCES/Notes/IP\|IP]]: 192.x.x.x
+>>- [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]]-[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]: 192.x.x.x
 >>- Transactions-ID:01
 >>- Empfänger-[[02 - RESOURCES/Notes/MAC Adresse\|MAC]]:xxx (Neuer Nutzer)
->>- Angebote [[02 - RESOURCES/Notes/IP\|IP]]: 192.x.x.y
+>>- Angebote [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]: 192.x.x.y
 >>- [[02 - RESOURCES/Notes/DHCP-Nachricht\|DHCP-Nachricht]]: [[02 - RESOURCES/Notes/DHCPREQUEST\|DHCPREQUEST]] 
 >>- [[02 - RESOURCES/Notes/DHCP\|DHCP]] Options:
 >>	- [[02 - RESOURCES/Notes/Gateway\|Gateway]]
@@ -87,10 +87,10 @@
 >
 >
 >>Das [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]] enthält folgenden Infos:
->>- [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]]-[[02 - RESOURCES/Notes/IP\|IP]]: 192.x.x.x
+>>- [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]]-[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]: 192.x.x.x
 >>- Transactions-ID:01
 >>- Empfänger-[[02 - RESOURCES/Notes/MAC Adresse\|MAC]]:xxx (Neuer Nutzer)
->>- Endgültig zugewiesene [[02 - RESOURCES/Notes/IP\|IP]]: 192.x.x.y
+>>- Endgültig zugewiesene [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]: 192.x.x.y
 >>- [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]: 255...
 >>- [[02 - RESOURCES/Notes/Lease Time\|Lease Time]]: 60
 >>- [[02 - RESOURCES/Notes/DHCP-Nachricht\|DHCP-Nachricht]]: [[02 - RESOURCES/Notes/DHCPACK\|DHCPACK]]

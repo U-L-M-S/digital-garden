@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/cidr/","tags":["netzwerk/ip/ipv4"],"updated":"2024-07-25T15:21:32.890+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/cidr/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-10-17T20:37:27.782+02:00"}
 ---
 
 > Classless Inter-Domain Routing
@@ -9,4 +9,4 @@
 Statt [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] zu verwenden `255.255.0.0` benutzt man die [[02 - RESOURCES/Notes/CIDR\|CIDR]] schreibweise:
 
 Bsp:
-[[02 - RESOURCES/Notes/IP\|IP]]: 192.168.1.0 und [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]: `255.255.255.0` -> 192.168.1.0/24`
+[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]: 192.168.1.0 und [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]: `255.255.255.0` -> 192.168.1.0/24`

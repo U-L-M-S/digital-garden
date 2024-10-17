@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-do-while-loop/","tags":["code/java/loop"],"updated":"2024-09-23T13:10:47.918+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-do-while-loop/","tags":["code/java/loop"],"noteIcon":"","updated":"2024-09-23T13:10:47.000+02:00"}
 ---
 
 >Bei [[02 - RESOURCES/Notes/Do-While-Loop\|Do-While-Loop]] wird die Anweisung mindestens **1** mal wiederholt.

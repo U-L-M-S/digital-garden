@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ip/","tags":["netzwerk/ip","netzwerk/gateway","netzwerk/subnet-mask","linux"],"updated":"2024-10-14T16:07:34.714+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ip/","tags":["netzwerk/ip","netzwerk/gateway","netzwerk/subnet-mask","linux"],"noteIcon":"","updated":"2024-10-17T20:37:35.472+02:00"}
 ---
 
 >Internet Protocol
 >>Standard Protokoll, der Weltweit verwendet wird um Rechners zu erkennen.
 >>Es kann [[02 - RESOURCES/Notes/IPv6\|IPv6]]  oder [[02 - RESOURCES/Notes/IPv4\|IPv4]] sein.
+
 
 ## Command
 

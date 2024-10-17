@@ -1,24 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"updated":"2024-07-30T08:43:13.676+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-10-17T20:37:31.255+02:00"}
 ---
 
 >[!example] Beispiel
->Jetzt lass uns die [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] von dieser [[02 - RESOURCES/Notes/IP\|IP]] (**192.168.1.4/16**) identifizieren.
+>Jetzt lass uns die [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] von dieser [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] (**192.168.1.4/16**) identifizieren.
 >
 Da wir [[02 - RESOURCES/Notes/CIDR\|CIDR]] lesen können (/16), sehen wir, dass das [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] 255.255.0.0 lautet.
 >
-Daher wissen wir, das die 1. und 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]] sich nicht ändern können und dass die [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] immer die erste [[02 - RESOURCES/Notes/IP\|IP]] ist. 
+Daher wissen wir, das die 1. und 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]] sich nicht ändern können und dass die [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] immer die erste [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] ist. 
 >Wir müssen nur die ersten beiden [[02 - RESOURCES/Notes/Oktett\|Oktett]]e wiederholen: 
 >
 >> Am besten machen wir das in [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en um zufällige Schwierigkeiten zu vermeiden (falls die Netzwerkmaske kein [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8 ist).
->>Vergleiche [[02 - RESOURCES/Notes/IP\|IP]] und [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]  zusammen. Überall wo ein 1 bei [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] steht, darf das [[02 - RESOURCES/Notes/Bit\|Bit]]wert für den [[02 - RESOURCES/Notes/IP\|IP]] nicht geändert werden.
+>>Vergleiche [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] und [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]  zusammen. Überall wo ein 1 bei [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] steht, darf das [[02 - RESOURCES/Notes/Bit\|Bit]]wert für den [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] nicht geändert werden.
 >>
 >> 
 >>| 1. [[02 - RESOURCES/Notes/Oktett\|Oktett]]    | 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]]    | 3. [[02 - RESOURCES/Notes/Oktett\|Oktett]] | 4. [[02 - RESOURCES/Notes/Oktett\|Oktett]] | Inhalt |
 >>| --- | --- |---| --- | ---|
->>|  11000000   |  10101000  | 00000000  |  00000000   | [[02 - RESOURCES/Notes/IP\|IP]] |
+>>|  11000000   |  10101000  | 00000000  |  00000000   | [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] |
 >>|  11111111   |  11111111  | 00000000  |  00000000   | [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] |
->>|  11000000   |  10101000  | | |**[[02 - RESOURCES/Notes/IP\|IP]] unveränderbar**|
+>>|  11000000   |  10101000  | | |**[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] unveränderbar**|
 >
 ><mark style="background: #FFF3A3A6;">192.168</mark>
 >und den Rest mit 0 setzen:
@@ -27,9 +27,9 @@ Daher wissen wir, das die 1. und 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]] sich
 >> 
 >>| 1. [[02 - RESOURCES/Notes/Oktett\|Oktett]]    | 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]]    | 3. [[02 - RESOURCES/Notes/Oktett\|Oktett]] | 4. [[02 - RESOURCES/Notes/Oktett\|Oktett]] | Inhalt |
 >>| --- | --- |---| --- | ---|
->>|  11000000   |  10101000  |  <mark style="background: #BBFABBA6;">00000000 </mark> |  <mark style="background: #BBFABBA6;">00000000</mark>   | [[02 - RESOURCES/Notes/IP\|IP]] |
+>>|  11000000   |  10101000  |  <mark style="background: #BBFABBA6;">00000000 </mark> |  <mark style="background: #BBFABBA6;">00000000</mark>   | [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] |
 >>|  11111111   |  11111111  |  00000000 |  00000000   | [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] |
->>|  11000000   |  10101000  |  <mark style="background: #BBFABBA6;">00000000</mark> |  <mark style="background: #BBFABBA6;">00000000</mark>   | **[[02 - RESOURCES/Notes/IP\|IP]] unveränderbar** |
+>>|  11000000   |  10101000  |  <mark style="background: #BBFABBA6;">00000000</mark> |  <mark style="background: #BBFABBA6;">00000000</mark>   | **[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] unveränderbar** |
 >
 > [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]]: <mark style="background: #FFF3A3A6;">192.168.0.0</mark>
 
@@ -37,7 +37,7 @@ Der Grund warum man mit den [[02 - RESOURCES/Notes/Bit\|Bit]]s/Tabell arbeitet i
 Sieh Beispiel:
 
 >[!example] Bsp mit nicht [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8
->Gegeben ist die [[02 - RESOURCES/Notes/IP\|IP]]  **198.154.27.0/22**.
+>Gegeben ist die [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]  **198.154.27.0/22**.
 >Man denkt sich sofort, dass die [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] **198.157.0.0** ist.
 >Das ist natürlich **falsch**. Artet auf den [[02 - RESOURCES/Notes/CIDR\|CIDR]]! Die Zahl ist keine [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8 und somit können wir am besten diese in eine Tabelle eintragen.
 >

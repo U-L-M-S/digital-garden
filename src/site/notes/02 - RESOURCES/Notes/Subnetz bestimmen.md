@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetz-bestimmen/","tags":["netzwerk/subnetting","netzwerk/ip/ipv4"],"updated":"2024-08-09T15:14:02.356+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetz-bestimmen/","tags":["netzwerk/subnetting","netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-10-17T20:37:40.692+02:00"}
 ---
 
-> Nehmen wir an, du hast eine [[02 - RESOURCES/Notes/IP\|IP]] und [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] erhalten und musst nun das [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] in 12 gleich große [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e unterteilen. Gefragt sind die 7. [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]].  
+> Nehmen wir an, du hast eine [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] und [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] erhalten und musst nun das [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] in 12 gleich große [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e unterteilen. Gefragt sind die 7. [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]].  
 > Natürlich kannst du eine Tabelle erstellen und alle Werte bis zur 7. [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] eintragen.
 
 > [!example]  Beispiel 1 - Einfach
@@ -57,7 +57,7 @@
 >Jetzt müssen wir die gewünschte [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] in Binär umstellen.
 >>158 > 10011110
 >
->und diese in die  [[02 - RESOURCES/Notes/IP\|IP]] ( als Binär) einsetzen,  wo die erweiterte<mark style="background: #FFF3A3A6;"> [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] </mark>relevant ist (von hinten nach vorne).
+>und diese in die  [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] ( als Binär) einsetzen,  wo die erweiterte<mark style="background: #FFF3A3A6;"> [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] </mark>relevant ist (von hinten nach vorne).
 >>14.0.0.0 > 00001110.00000000.00000000.00000000
 >
 >

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hostanteil/","tags":["netzwerk/ip/ipv4"],"updated":"2024-07-30T09:06:14.633+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hostanteil/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-10-17T20:37:28.595+02:00"}
 ---
 
->Es ist der Teil von den IP-Bereich, der man ändern kann und somit [[02 - RESOURCES/Notes/IP\|IP]]s zu jeder Rechner verteilen kann.
+>Es ist der Teil von den IP-Bereich, der man ändern kann und somit [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]s zu jeder Rechner verteilen kann.
 >>Es wird von den [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] definiert.
 >>[[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] definiert den [[02 - RESOURCES/Notes/Netzanteil\|Netzanteil]] und alles anders was nicht definiert ist nennt man als [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]].
 

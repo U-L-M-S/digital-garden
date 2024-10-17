@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/gateway/","tags":["netzwerk/gateway"],"updated":"2024-07-25T14:56:59.829+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/gateway/","tags":["netzwerk/gateway"],"noteIcon":"","updated":"2024-10-17T20:37:28.482+02:00"}
 ---
 
 ## gateway 
@@ -14,6 +14,7 @@ Gateway oder Default Gateway ist nicht anders als die private [[IP-Adresse\|IP-A
 >Internet Protocol
 >>Standard Protokoll, der Weltweit verwendet wird um Rechners zu erkennen.
 >>Es kann [[02 - RESOURCES/Notes/IPv6\|IPv6]]  oder [[02 - RESOURCES/Notes/IPv4\|IPv4]] sein.
+
 
 ## Command
 
@@ -108,6 +109,7 @@ output:
 >Internet Protocol
 >>Standard Protokoll, der Weltweit verwendet wird um Rechners zu erkennen.
 >>Es kann [[02 - RESOURCES/Notes/IPv6\|IPv6]]  oder [[02 - RESOURCES/Notes/IPv4\|IPv4]] sein.
+
 
 ## Command
 

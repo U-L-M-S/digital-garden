@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk/","tags":["netzwerk/subnetting","inProgress"],"updated":"2024-07-31T16:45:24.493+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk/","tags":["netzwerk/subnetting","inProgress"],"noteIcon":"","updated":"2024-10-17T20:37:31.872+02:00"}
 ---
 
 >Es ist eine Gruppe von miteinander verbundenen Computern und anderen Geräten, die Daten und Ressourcen gemeinsam nutzen können. 
@@ -8,7 +8,7 @@
 >Es gibt verschiedene Typen von Netzwerken, darunter lokale Netzwerke ([[02 - RESOURCES/Notes/LAN\|LAN]]s), die Geräte innerhalb eines begrenzten geografischen Bereichs verbinden, und Weitverkehrsnetze ([[02 - RESOURCES/Notes/WAN\|WAN]]s), die Geräte über größere Entfernungen hinweg verbinden.
 >Netzwerke nutzen verschiedene Technologien und [[02 - RESOURCES/Notes/Protokoll\|Protokoll]]e, um sicherzustellen, dass Daten effizient und zuverlässig übertragen werden.
 
-[[02 - RESOURCES/Notes/IP\|IP]] wird in die [[02 - RESOURCES/Notes/Netzwerkkarte\|Netzwerkkarte]] gefunden  und somit kann jeder Rechner/System, der eine [[02 - RESOURCES/Notes/Netzwerkkarte\|Netzwerkkarte]]  hat identifiziert werden. Da jeder [[02 - RESOURCES/Notes/IP\|IP]] in eine [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] Einzigartig ist.
+[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] wird in die [[02 - RESOURCES/Notes/Netzwerkkarte\|Netzwerkkarte]] gefunden  und somit kann jeder Rechner/System, der eine [[02 - RESOURCES/Notes/Netzwerkkarte\|Netzwerkkarte]]  hat identifiziert werden. Da jeder [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] in eine [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] Einzigartig ist.
 
 Es ist sehr wichtig zu wissen, dass [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] /[[02 - RESOURCES/Notes/Netzwerkmaske\|Subnetzmaske]] eine riesige Rolle spielt. Dadurch können wir die [[02 - RESOURCES/Notes/Netzanteil und Hostanteil\|Netzanteil und Hostanteil]] herauslesen und noch viel mehr machen.
 

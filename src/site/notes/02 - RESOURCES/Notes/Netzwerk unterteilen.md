@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-unterteilen/","tags":["netzwerk/subnetting","netzwerk/ip/ipv4"],"updated":"2024-07-30T08:51:29.036+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-unterteilen/","tags":["netzwerk/subnetting","netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-10-17T20:37:30.795+02:00"}
 ---
 
 >Bei [[02 - RESOURCES/Notes/Subnetting\|Subnetting]], man kann die [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]en umstellen wie man möchten.
@@ -16,12 +16,12 @@
 >Da wir 4 Subnetzen brauchen ([[02 - RESOURCES/Notes/Netzanteil erweitern\|Netzanteil erweitern]]) können wir einfach in Kopf rechen ($2^{2}=4$). Also 2 [[02 - RESOURCES/Notes/Bit\|Bit]]s
 >-> **/24 + /2 = /26**
 >Sobald wir wissen, dass wir nur 6 [[02 - RESOURCES/Notes/Bit\|Bit]]s (32 - 26) zu verfügen haben. 
->Können wir sagen, dass wir $2^{6}=64$ [[02 - RESOURCES/Notes/IP\|IP]]s für Subnetze haben und somit die erste Subnetz-ID und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] sagen.
->I - **192.168.0.0 bis 192.168.0.63** | 64 [[02 - RESOURCES/Notes/IP\|IP]]s
->(Für die nächste Subnetz, muss man nur die [[02 - RESOURCES/Notes/IP\|IP]]s (64) zusammen zählen.) 
->II - **192.168.0.64 bis 192.168.0.127** | 64 [[02 - RESOURCES/Notes/IP\|IP]]s
->III - **192.168.0.128 bis 192.168.0.191** | 64 [[02 - RESOURCES/Notes/IP\|IP]]s
->IV - **192.168.0.192 bis 192.168.0.255** | 64 [[02 - RESOURCES/Notes/IP\|IP]]s 
+>Können wir sagen, dass wir $2^{6}=64$ [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]s für Subnetze haben und somit die erste Subnetz-ID und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] sagen.
+>I - **192.168.0.0 bis 192.168.0.63** | 64 [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]s
+>(Für die nächste Subnetz, muss man nur die [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]s (64) zusammen zählen.) 
+>II - **192.168.0.64 bis 192.168.0.127** | 64 [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]s
+>III - **192.168.0.128 bis 192.168.0.191** | 64 [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]s
+>IV - **192.168.0.192 bis 192.168.0.255** | 64 [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]s 
 >
 >___
 >
@@ -32,7 +32,7 @@
 
 |                                          |          |          |          |          |     |     |
 | ---------------------------------------- | -------- | -------- | -------- | -------- | --- | --- |
-| [[02 - RESOURCES/Notes/IP\|IP]]: 192.168.0.0                      | 11000000 | 10101000 | 00000000 | 00000000 |     |     |
+| [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]: 192.168.0.0                      | 11000000 | 10101000 | 00000000 | 00000000 |     |     |
 | [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]: 255.255.255.192 (/26) | 11111111 | 11111111 | 11111111 | 11000000 |     |     |
 | [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] 1                            | 11000000 | 10101000 | 00000000 | 00000000 | >   | 0   |
 | [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] 1                       | 11000000 | 10101000 | 00000000 | 00111111 | >   | 63  |

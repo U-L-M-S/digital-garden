@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting/","tags":["netzwerk/ip","netzwerk/ip/ipv4","netzwerk/ip/ipv6","GFN/prüfungsrelevant/AP1"],"updated":"2024-08-18T18:44:38.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting/","tags":["netzwerk/ip","netzwerk/ip/ipv4","netzwerk/ip/ipv6","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2024-10-17T20:37:39.498+02:00"}
 ---
 
 >Beim [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] wird ein großes [[02 - RESOURCES/Notes/Netzwerk\|Netz]] in kleinere Netze unterteilt. 
@@ -10,7 +10,7 @@
 >- Verteilung der [[02 - RESOURCES/Notes/Netzlast\|Netzlast]]
 >- Örtliche oder organisatorische Aufteilung der [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]
 >- Trennen von Netzwerken aus Sicherheitsgründen
->- Einschränkung der Anzahl die [[02 - RESOURCES/Notes/IP\|IP]]s in einem [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]
+>- Einschränkung der Anzahl die [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]s in einem [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]
 
 >[!multi-column]
 > 
@@ -22,7 +22,7 @@
 > 
 >>[!fail] Nachteile
 >>- Komplexität
->>- Verlust von [[02 - RESOURCES/Notes/IP\|IP]]s
+>>- Verlust von [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]s
 >>- Zusätzliche Verwaltungskosten
 >>- Eingeschränkte Flexibilität
 

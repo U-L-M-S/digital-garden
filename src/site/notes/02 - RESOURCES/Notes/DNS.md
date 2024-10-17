@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dns/","tags":["netzwerk/dns"],"updated":"2024-08-02T03:07:47.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dns/","tags":["netzwerk/dns"],"noteIcon":"","updated":"2024-10-17T20:37:28.402+02:00"}
 ---
 
 > [[02 - RESOURCES/Notes/Domain\|Domain]] Name System
 
 Wenn wir beispielsweise eine URL in unseren Browser eingeben, wie zum Beispiel [www.haus-meyer.bank.com](http://www.haus-meyer.bank.com), werden wir direkt zur Website der Bank Haus Meyer weitergeleitet. Der Prozess, der das möglich macht, ist jedoch nicht so simpel, wie es scheint.
 
-Um zu verstehen, was hinter den Kulissen passiert, musst du wissen, was Domain Name Server (DNS) sind und wie der gesamte Ablauf von Anfragen (Requests) und Antworten (Responses) funktioniert.
+Um zu verstehen, was hinter den Kulissen passiert, musst du wissen, was [[02 - RESOURCES/Notes/Domain\|Domain]] Name Server (DNS) sind und wie der gesamte Ablauf von Anfragen (Requests) und Antworten (Responses) funktioniert.
 
 <mark style="background: #BBFABBA6;">haus-meyer</mark>.<mark style="background: #FFF3A3A6;">bank</mark>.<mark style="background: #FF5582A6;">com</mark>
 
@@ -47,7 +47,7 @@ Um das besser zu verstehen. Lass uns den Website [uol](https://www.uol.com.br/) 
 >[!summary] 
 >- Mein Browser schickt ein Request an der Resolver in Frankfurt
 > - Diese schickt eine request an den Root-Server(am nähst) mit den Endung '.br' 
-> - Es kriegt zurück eine Liste mit allen Root-Servers die '.br' TLD haben 
-> - Der Resolver schickt erneut eine Request , aber dieses mal an der Authoritative Server und diese schickt der [[02 - RESOURCES/Notes/IP\|IP]] von uol zurück 
+> - Es kriegt zurück eine Liste mit allen Root-Servers die '.br' [[02 - RESOURCES/Notes/TLD\|TLD]] haben 
+> - Der Resolver schickt erneut eine Request , aber dieses mal an der Authoritative Server und diese schickt der [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] von uol zurück 
 > - Sobald der Recursive Resolver das enthält schickt es an mein Browser zurück 
-> - mein Browser jetzt muss nur ein Request an diese [[02 - RESOURCES/Notes/IP\|IP]] schicken und auf den Response warten
+> - mein Browser jetzt muss nur ein Request an diese [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] schicken und auf den Response warten
