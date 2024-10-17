@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL","GFN/prüfungsrelevant/AP2"],"updated":"2024-10-17T09:50:32.309+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL","GFN/prüfungsrelevant/AP2"],"updated":"2024-10-17T09:51:44.268+02:00"}
 ---
 
 >SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.
@@ -228,3 +228,4 @@ WHERE Patient.patient_ID = Weight.weight_ID;
 ```
 
 >[!note] und das war's!!!
+
