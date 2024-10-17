@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/null/","tags":["code"],"noteIcon":"","updated":"2024-10-11T14:16:55.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/null/","tags":["code"],"updated":"2024-10-11T14:16:55.010+02:00"}
 ---
 
 >Wir wissen, dass jede [[02 - RESOURCES/Notes/Variable\|Variable]] einen [[02 - RESOURCES/Notes/Datentyp\|Datentyp]] hat und einen Wert.  
