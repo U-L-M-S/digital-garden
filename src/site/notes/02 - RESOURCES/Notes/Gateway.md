@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/gateway/","tags":["netzwerk/gateway"],"noteIcon":"","updated":"2024-10-17T20:37:28.482+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/gateway/","tags":["netzwerk/gateway"],"updated":"2024-10-17T20:37:28.000+02:00"}
 ---
 
 ## gateway 

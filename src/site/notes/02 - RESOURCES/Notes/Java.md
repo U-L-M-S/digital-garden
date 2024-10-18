@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","inProgress"],"noteIcon":"","updated":"2024-10-07T10:30:56.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","inProgress"],"updated":"2024-10-07T10:30:56.565+02:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
