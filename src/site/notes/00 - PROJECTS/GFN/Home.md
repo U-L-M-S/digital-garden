@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2024-10-07T09:54:08.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2024-10-20T19:48:23.447+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -35,14 +35,14 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 # AP2-relevant
 [[00 - PROJECTS/GFN/AP2/LF10 Benutzerschnittstellen gestalten und entwickeln\|LF10 Benutzerschnittstellen gestalten und entwickeln]]
 [[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]]
-
 [[00 - PROJECTS/GFN/AP2/LFvt4 Datenbanken und SQL\|LFvt4 Datenbanken und SQL]]
+
 ___
 ___
 
 >[!note] Besonderer Dank an:
 >- [Felix Frommherz](https://github.com/Felix-From)
->  
+>- [Mariella Vigliotti](https://www.facebook.com/mariella1991)
 >  
 >Für die Unterstützung des Projekts.
 
