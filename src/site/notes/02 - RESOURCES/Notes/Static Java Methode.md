@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/static-java-methode/","tags":["code/java/method"],"updated":"2024-10-21T16:29:52.346+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/static-java-methode/","tags":["code/java/method"],"noteIcon":"","updated":"2024-10-21T21:07:34.689+02:00"}
 ---
 
->Wir haben gelernt; wir brauchen ein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] damit wir mit [[02 - RESOURCES/Notes/OOP\|OOP]] in Java arbeiten können.
+>Wir haben gelernt; wir brauchen ein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] damit wir mit [[02 - RESOURCES/Notes/OOP\|OOP]] in [[02 - RESOURCES/Notes/Java\|Java]] arbeiten können.
 >>Nun mit eine statische Methode ist es möglich eine [[02 - RESOURCES/Notes/Java Methode\|Java Methode]] zu benutzen ohne ein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] zu initialisieren.
 
 # Bsp
@@ -22,5 +22,6 @@ public class Auto {
 Auto meinAuto = new Auto(); // Wir erstellen ein Auto
 meinAuto.fahren();          // Das Auto fährt
 
+// Ohne Objekt
 Auto.hupen(); // Das Auto hupt
 ```

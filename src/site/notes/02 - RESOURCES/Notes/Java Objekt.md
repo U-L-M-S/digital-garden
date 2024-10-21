@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-objekt/","tags":["code/java/klasse"],"updated":"2024-10-21T15:57:18.789+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-objekt/","tags":["code/java/klasse"],"noteIcon":"","updated":"2024-10-21T15:57:18.000+02:00"}
 ---
 
 >Es ist eine Instanz einer [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] in der objektorientierten Programmierung ([[02 - RESOURCES/Notes/OOP\|OOP]]). 

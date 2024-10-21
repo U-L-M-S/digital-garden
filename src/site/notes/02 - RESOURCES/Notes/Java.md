@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","inProgress"],"updated":"2024-10-21T15:56:15.190+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java"],"noteIcon":"","updated":"2024-10-21T21:30:28.356+02:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -22,8 +22,8 @@ Die [[02 - RESOURCES/Notes/Funktion\|Funktion]] `main()` ist der **Starter** der
 
 Nun hat die [[02 - RESOURCES/Notes/Funktion\|Funktion]] drei Begriffen bei sich:
 - public: Der [[02 - RESOURCES/Notes/Zugriffsmodifikator\|Zugriffsmodifikator]] der festlegt, dass die [[02 - RESOURCES/Notes/Methode\|Methode]] von überall aufgerufen werden kann.
-- [[02 - RESOURCES/Notes/static\|static]]: Bedeutet, dass die [[02 - RESOURCES/Notes/Methode\|Methode]] ohne Erstellen eines Objekts der [[02 - RESOURCES/Notes/Klasse\|Klasse]] aufgerufen werden kann.
-- void: Rückgabewerttyp, die [[02 - RESOURCES/Notes/Methode\|Methode]] keinen Rückgabewert hat.
+- [[02 - RESOURCES/Notes/static\|static]]: ([[02 - RESOURCES/Notes/Static Java Methode\|Static Java Methode]]) bedeutet, dass die [[02 - RESOURCES/Notes/Methode\|Methode]] ohne Erstellen eines Objekts der [[02 - RESOURCES/Notes/Klasse\|Klasse]] aufgerufen werden kann.
+- void: [[02 - RESOURCES/Notes/Rückgabewerttyp\|Rückgabewerttyp]], die [[02 - RESOURCES/Notes/Methode\|Methode]] keinen Rückgabewert hat.
 
 Der Befehl `System.out.println("Hello, World!");` macht nicht anders als "Hello, World!" in der Console auszugeben.
 
@@ -36,9 +36,7 @@ ___
 [[02 - RESOURCES/Notes/Java Loop\|Java Loop]]
 [[02 - RESOURCES/Notes/Java Switch-Case\|Java Switch-Case]]
 
-[[02 - RESOURCES/Notes/Java Methode\|Java Methode]]
 
 [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]
-
-
+[[02 - RESOURCES/Notes/Java Methode\|Java Methode]]
 [[02 - RESOURCES/Notes/Java Static\|Java Static]]

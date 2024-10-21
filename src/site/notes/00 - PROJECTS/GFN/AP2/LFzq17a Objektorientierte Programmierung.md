@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/l-fzq17a-objektorientierte-programmierung/","tags":["GFN/LFzq17a"],"updated":"2024-10-21T09:20:47.017+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/l-fzq17a-objektorientierte-programmierung/","tags":["GFN/LFzq17a"],"noteIcon":"","updated":"2024-10-21T22:58:50.750+02:00"}
 ---
 
 >[!important] 
 >Diese Zusammenfassung ist noch nicht vollständig.
 >Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
 
-
+>[[02 - RESOURCES/Notes/Java\|Java]]
 
 
 
