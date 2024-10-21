@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/service-strategie/","tags":["GFN/LF06"],"noteIcon":"","updated":"2024-10-20T20:36:18.034+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/service-strategie/","tags":["GFN/LF06"],"updated":"2024-10-20T20:36:18.000+02:00"}
 ---
 
 >In dieser Phase wird festgelegt, welche Services angeboten werden sollen und wie diese Services dem Geschäftswert dienen.

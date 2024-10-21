@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","inProgress"],"noteIcon":"","updated":"2024-10-07T10:30:56.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","inProgress"],"updated":"2024-10-21T15:56:15.190+02:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -30,7 +30,7 @@ Der Befehl `System.out.println("Hello, World!");` macht nicht anders als "Hello,
 ___
 
 [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]
-[[02 - RESOURCES/Notes/Java Variablen\|Java Variablen]]
+[[02 - RESOURCES/Notes/Java Variable\|Java Variable]]
 [[02 - RESOURCES/Notes/Java Array\|Java Array]]
 [[02 - RESOURCES/Notes/Java Bedingung\|Java Bedingung]]
 [[02 - RESOURCES/Notes/Java Loop\|Java Loop]]
@@ -41,3 +41,4 @@ ___
 [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]
 
 
+[[02 - RESOURCES/Notes/Java Static\|Java Static]]
