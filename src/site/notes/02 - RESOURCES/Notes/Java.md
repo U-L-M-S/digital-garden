@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java"],"updated":"2024-10-21T21:30:28.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java"],"updated":"2024-10-22T09:50:57.344+02:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
 
-Das erste was wir in [[02 - RESOURCES/Notes/Java\|Java]] lernen ist: [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]n.
 ```java
 class HelloWorld {
     public static void main(String[] args) {
@@ -13,12 +12,10 @@ class HelloWorld {
 }
 ```
 
-Wie du schon in der classic Code "Hello World" sehen kannst. 
-Ist dass alles in eine [[02 - RESOURCES/Notes/Klasse\|klasse]] (HelloWorld) gespeichert ist.
+>Wie du bereits im klassischen "Hello World"-Code sehen kannst, ist alles in einer [[02 - RESOURCES/Notes/Klasse\|Klasse]] (HelloWorld) gespeichert.
 
 Die [[02 - RESOURCES/Notes/Funktion\|Funktion]] `main()` ist der **Starter** der Programm.
->[!note] 
->Eigentlich... [[02 - RESOURCES/Notes/Methode\|Methode]]. Da wir in [[02 - RESOURCES/Notes/Java\|Java]] keine  echten [[02 - RESOURCES/Notes/Funktion\|Funktion]]en haben.
+>[!note] Eigentlich... [[02 - RESOURCES/Notes/Methode\|Methode]]. Da wir in [[02 - RESOURCES/Notes/Java\|Java]] keine  echten [[02 - RESOURCES/Notes/Funktion\|Funktion]]en haben.
 
 Nun hat die [[02 - RESOURCES/Notes/Funktion\|Funktion]] drei Begriffen bei sich:
 - public: Der [[02 - RESOURCES/Notes/Zugriffsmodifikator\|Zugriffsmodifikator]] der festlegt, dass die [[02 - RESOURCES/Notes/Methode\|Methode]] von überall aufgerufen werden kann.
@@ -28,14 +25,16 @@ Nun hat die [[02 - RESOURCES/Notes/Funktion\|Funktion]] drei Begriffen bei sich:
 Der Befehl `System.out.println("Hello, World!");` macht nicht anders als "Hello, World!" in der Console auszugeben.
 
 ___
+# # Grundlage
+> Hier lernst du die Syntax der wichtigsten Befehle, um mit der [[02 - RESOURCES/Notes/Java\|Java]]-Sprache umzugehen.
 
 [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]
 [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]
 [[02 - RESOURCES/Notes/Java Array\|Java Array]]
+[[02 - RESOURCES/Notes/Java 2D-Array\|Java 2D-Array]]
 [[02 - RESOURCES/Notes/Java Bedingung\|Java Bedingung]]
 [[02 - RESOURCES/Notes/Java Loop\|Java Loop]]
 [[02 - RESOURCES/Notes/Java Switch-Case\|Java Switch-Case]]
-
 
 [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]
 [[02 - RESOURCES/Notes/Java Methode\|Java Methode]]

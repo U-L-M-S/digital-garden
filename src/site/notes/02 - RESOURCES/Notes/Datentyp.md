@@ -1,49 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datentyp/","tags":["code"],"updated":"2024-08-25T23:17:18.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/datentyp/","tags":["code"],"updated":"2024-10-22T10:23:06.435+02:00"}
 ---
 
->In den meisten Programmiersprachen gibt es die sogenannten Hauptdatentypen.
+>In den meisten Programmiersprachen gibt es zwei [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]en:
+>>Diese sind:
 
-Diese sind:
-
->[!summary] Nummerisch ([[02 - RESOURCES/Notes/ganze Zahlen\|Ganze Zahlen]])
->- [[02 - RESOURCES/Notes/short\|short]]
->- [[02 - RESOURCES/Notes/int\|int]]
->- [[02 - RESOURCES/Notes/long\|long]]
-
->[!summary] Nummerisch ([[02 - RESOURCES/Notes/reellen Zahlen\|reellen Zahlen]])
->- [[02 - RESOURCES/Notes/float\|float]]
->- [[02 - RESOURCES/Notes/double\|double]]
-
->[!summary] Zeichen
->- [[02 - RESOURCES/Notes/char\|char]]
-
-
->[!summary] Zeichenfolgen
->- char[]
->- [[02 - RESOURCES/Notes/String\|String]]
-
-
->[!summary] Bool/Boolean
->- bool
->- boolean
->> Ob **bool** oder **boolean**, hängt von die Sprache ab. 
-
-
->[!summary] Arrays
->- int[]
->- string[]
-
-
->[!summary] Listen 
->- List int 
->- List string
-
-
->[!summary] Objekte
-  >> Nur für die [[02 - RESOURCES/Notes/OOP\|OOP]]
-  
->[!summary] Datum/Uhrzeit
->- Date
->- Time
->- datetime
+# [[02 - RESOURCES/Notes/Primärdatentyp\|Primärdatentyp]]en
+# [[02 - RESOURCES/Notes/Referenzdatentyp\|Referenzdatentyp]]en
