@@ -1,11 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["code/java/klasse"],"updated":"2024-10-21T14:06:54.873+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["code/java/klasse"],"updated":"2024-10-22T14:19:35.560+02:00"}
 ---
 
->Um eine [[02 - RESOURCES/Notes/Klasse\|Klasse]] in [[02 - RESOURCES/Notes/Java\|Java]] zu erstellen, muss man der folgenden Syntax folgen: [[02 - RESOURCES/Notes/Zugriffsmodifikator\|Zugriffsmodifikator]] class ClassName {}
-> 
-> > Achte bitte darauf, dass der ClassName groß geschrieben ist.
+>In [[02 - RESOURCES/Notes/Java\|Java]] gibt's keine echten [[02 - RESOURCES/Notes/Funktion\|Funktion]]en. Da alles in [[02 - RESOURCES/Notes/Java klasse\|Java klasse]] gemacht werden.
+>> Achte bitte darauf, dass der `ClassName` groß geschrieben ist.
+# Syntax
+```java
+public class ClassName{
 
+}
+```
+>Um eine [[02 - RESOURCES/Notes/Klasse\|Klasse]] in [[02 - RESOURCES/Notes/Java\|Java]] zu erstellen, muss man der folgenden Syntax folgen: [[02 - RESOURCES/Notes/Zugriffsmodifikator\|Zugriffsmodifikator]] `class ClassName{}`
+
+# Bsp
 ```java
 public class Car {
     // Fields (attributes)
@@ -34,5 +41,4 @@ Jetzt dass wir eine einfachere [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]
 >[!note] 
 >Ein [[02 - RESOURCES/Notes/Konstruktor\|Konstruktor]] wurde hier verwendet.
 
-___
 

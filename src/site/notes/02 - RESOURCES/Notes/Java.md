@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java"],"updated":"2024-10-22T09:50:57.344+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java"],"updated":"2024-10-22T15:17:01.982+02:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -28,8 +28,26 @@ ___
 # # Grundlage
 > Hier lernst du die Syntax der wichtigsten Befehle, um mit der [[02 - RESOURCES/Notes/Java\|Java]]-Sprache umzugehen.
 
+## [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]n
+
+So wie bereits gesagt: [[02 - RESOURCES/Notes/Java\|Java]] ist eine [[02 - RESOURCES/Notes/OOP\|Objektorientierte Programmierung]]. Das heißt, alles ist ein Objekt in [[02 - RESOURCES/Notes/Java\|Java]] und muss in einer [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] definiert werden.
+```java
+public MyClass{
+	public static void main(String[] args){
+		//<do something>
+	}
+}
+```
+>[!summary] 
+>[[02 - RESOURCES/Notes/Java klasse\|Java Klasse]]n können miteinander noch Kompositionen eingehen.
+>Aber das lernst du später. Zuerst lass uns die Grundlagen lernen.
+
+## [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n
+
+Wie in 
 [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]
-[[02 - RESOURCES/Notes/Java Variable\|Java Variable]]
+
+
 [[02 - RESOURCES/Notes/Java Array\|Java Array]]
 [[02 - RESOURCES/Notes/Java 2D-Array\|Java 2D-Array]]
 [[02 - RESOURCES/Notes/Java Bedingung\|Java Bedingung]]
