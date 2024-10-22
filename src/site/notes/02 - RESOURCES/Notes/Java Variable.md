@@ -1,9 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-variable/","tags":["code/java/variable"],"updated":"2024-09-19T13:44:53.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-variable/","tags":["code/java"],"updated":"2024-10-22T15:36:58.735+02:00"}
 ---
 
->Syntax
->`[[02 - RESOURCES/Notes/Datentyp\|Datentyp]]  [[Variable]]-Name = valuer`
+# Syntax
+[[02 - RESOURCES/Notes/Datentyp\|Datentyp]]  [[02 - RESOURCES/Notes/Variable\|Variable]]-Name = Wert
+
+```java
+Datentyp variableName = valuer;
+```
+# Bsp
 
 ```java
 public class AwesomeJavaProgram{
@@ -21,6 +26,8 @@ public class AwesomeJavaProgram{
 }
 ```
 
+# Notz
+
 >[!hint] Regeln zur Vergabe von Variablennamen:
 >- Ein Variablenname muss mit einem Buchstaben, Unterstrich (`_`) oder Dollarzeichen (`$`) beginnen, aber nicht mit einer Zahl.
 >  
@@ -32,4 +39,4 @@ public class AwesomeJavaProgram{
 >  
 >- Es dürfen keine reservierten Schlüsselwörter von Java verwendet werden (z. B. `int`, `class`, `public`, etc.).
 
-[[02 - RESOURCES/Notes/String\|String]] ist großgeschrieben, weil es in die Wirklichkeit keine [[Datentyp]] ist, sonder eine [[02 - RESOURCES/Notes/Klasse\|Klasse]].
+[[02 - RESOURCES/Notes/String\|String]] ist großgeschrieben, weil es in die Wirklichkeit keine [[02 - RESOURCES/Notes/Datentyp\|Datentyp]] ist, sonder eine [[02 - RESOURCES/Notes/Klasse\|Klasse]].

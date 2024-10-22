@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java"],"updated":"2024-10-22T15:17:01.982+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java"],"updated":"2024-10-22T16:25:54.498+02:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -44,16 +44,79 @@ public MyClass{
 
 ## [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n
 
-Wie in 
-[[02 - RESOURCES/Notes/Datentyp\|Datentyp]]
+Wie in jede Computersprache enthält [[02 - RESOURCES/Notes/Java\|Java]] [[02 - RESOURCES/Notes/Variable\|Variable]]n und ihre Syntax is ganz ähmlich wie bei [[00 - PROJECTS/C Sprache\|C Sprache]].  
+Also man muss auf die [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]en aufpassen wenn man [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n initialisiert oder deklariert.
 
+```java
+public class MyClass {
+    public static void main(String[] args) {
+        // int: 4 Bytes
+        int number = 42;
 
-[[02 - RESOURCES/Notes/Java Array\|Java Array]]
-[[02 - RESOURCES/Notes/Java 2D-Array\|Java 2D-Array]]
-[[02 - RESOURCES/Notes/Java Bedingung\|Java Bedingung]]
-[[02 - RESOURCES/Notes/Java Loop\|Java Loop]]
-[[02 - RESOURCES/Notes/Java Switch-Case\|Java Switch-Case]]
+        // double: 8 Bytes
+        double decimalValue = 3.14;
 
-[[02 - RESOURCES/Notes/Java klasse\|Java klasse]]
-[[02 - RESOURCES/Notes/Java Methode\|Java Methode]]
-[[02 - RESOURCES/Notes/Java Static\|Java Static]]
+        // char: 2 Bytes
+        char letter = 'A';
+
+        // boolean: 1 Byte (obwohl der tatsächliche Speicherplatz je nach JVM variieren kann)
+        boolean isTrue = true;
+
+        // byte: 1 Byte
+        byte smallNumber = 100;
+
+        // short: 2 Bytes
+        short mediumNumber = 10000;
+
+        // long: 8 Bytes
+        long largeNumber = 100000L;
+
+        // float: 4 Bytes
+        float floatValue = 2.5f;
+
+    }
+}
+```
+>[!note] 
+>Es ist dir vielleicht aufgefallen, aber das sind alle [[02 - RESOURCES/Notes/Primärdatentyp\|Primärdatentyp]]en. 
+
+```java
+public class MyClass {
+    public static void main(String[] args) {
+        // String: Referenztyp, speichert eine Zeichenkette
+        String text = "Hello, World!"; // Größe variabel, je nach Inhalt
+
+        // Array: Referenztyp, speichert eine Sammlung von Elementen
+        int[] numbers = {1, 2, 3, 4, 5}; // Größe variabel, basierend auf der Anzahl der Elemente
+
+        // Klasse (z.B. MyObject): Benutzerdefinierter Referenztyp
+        MyObject myObject = new MyObject(); // Größe abhängig von den Attributen der Klasse
+
+        // Liste: Referenztyp, speichert eine dynamische Sammlung von Elementen (Java Collections Framework)
+        java.util.List<String> list = new java.util.ArrayList<>(); // Größe variabel, basierend auf der Anzahl der Elemente
+
+        // HashMap: Referenztyp, speichert Schlüssel-Wert-Paare
+        java.util.HashMap<String, Integer> map = new java.util.HashMap<>(); // Größe variabel, basierend auf der Anzahl der Schlüssel-Wert-Paare
+    }
+
+    // Benutzerdefinierte Klasse für das Beispiel
+    static class MyObject {
+        // Beispielattribute (Größe ist abhängig von den Datentypen)
+        int id; // int: 4 Bytes
+        String name; // Referenztyp, Größe variabel
+    }
+}
+```
+>[!note] 
+>Das sind die [[02 - RESOURCES/Notes/Referenzdatentyp\|Referenzdatentyp]]en.
+>> Genau [[02 - RESOURCES/Notes/String\|String]] ist ein Objekt.
+
+## [[02 - RESOURCES/Notes/Java Array\|Java Array]]
+
+## [[02 - RESOURCES/Notes/Java Bedingung\|Java Bedingung]]
+## [[02 - RESOURCES/Notes/Java Loop\|Java Loop]]
+## [[02 - RESOURCES/Notes/Java Switch-Case\|Java Switch-Case]]
+
+## [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]
+## [[02 - RESOURCES/Notes/Java Methode\|Java Methode]]
+## [[02 - RESOURCES/Notes/Java Static\|Java Static]]

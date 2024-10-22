@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-array/","tags":["code/java/array"],"updated":"2024-10-21T14:59:22.148+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-array/","tags":["code/java/array"],"updated":"2024-10-22T16:02:22.931+02:00"}
 ---
 
 >So wie die meisten Programmiersprachen fängt Java Array bei 0 an (Index).
@@ -42,3 +42,7 @@ public class BeispielArrayZufallszahlen {
 
 }
 ```
+
+# [[02 - RESOURCES/Notes/Java 2D-Array\|Java 2D-Array]]
+>Eigentlich kann [[02 - RESOURCES/Notes/Java Array\|Java Array]] unendlich lang sein. D.h: 3D, 4D, 5D, ... [[02 - RESOURCES/Notes/Java Array\|Java Array]]
+>Es macht aber kein Sinn.  
