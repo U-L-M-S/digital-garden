@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry","gardenEntry","gardenEntry"],"updated":"2024-10-21T09:26:48.073+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry"],"updated":"2024-10-22T12:28:17.418+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -48,8 +48,8 @@ ___
 
 
 >[!info] Achtung
-Diese Website steht in keiner Verbindung mit der GFN GmbH. 
-Sie wurde von ehrenamtlichen Teilnehmern der GFN GmbH erstellt, gehostet und gepflegt.
+Diese Website steht in keiner Verbindung mit der [GFN GmbH](https://www.gfn.de). 
+Sie wurde von ehrenamtlichen Teilnehmern der [GFN GmbH](https://www.gfn.de) erstellt, gehostet und gepflegt.
 >
 >Jeder, der interessiert ist, sich zu beteiligen, ist herzlich eingeladen.
 >- [GitHub](https://github.com/U-L-M-S/digital-garden)
