@@ -1,27 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-array/","tags":["code/java/array"],"updated":"2024-10-22T16:02:22.931+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-array/","tags":["code/java/array"],"updated":"2024-10-23T08:57:24.248+02:00"}
 ---
 
->So wie die meisten Programmiersprachen fängt Java Array bei 0 an (Index).
+>[!summary] Regeln
+>- So wie die meisten Programmiersprachen fängt [[02 - RESOURCES/Notes/Java Array\|Java Array]] bei 0 an (Index).
+>- Jedes Element in die [[02 - RESOURCES/Notes/Java Array\|Java Array]] haben das gleiche [[02 - RESOURCES/Notes/Datentyp\|Datentyp]].
 
 # Syntax
- ## Array-Deklaration
- ```java
- datatype[] arrayName;
-```
+>[!info] Array-Deklaration
+> ```java
+ >datatype[] arrayName;
+>```
  
- ## Array-Deklaration und Initialisierung (**n** feste Länge) 
- ```java
- datatype[] arrayName = new datatype[n];
-```
-
+ >[!info] Array-Deklaration und Initialisierung (**n** feste Länge)
+> ```java
+ >datatype[] arrayName = new datatype[n];
+>```
 >Somit wird die Array deklariert und Initialisiert. **ABER**  es wird kein Wert zugewiesen. 
  >>Es wird nur die Länge (`n`) von die Array definiert.
  
- ## Array-Deklaration und Initialisierung 
- ```java
-datatype[] arrayName = {n0, n1, n2, n3};
-```
+ >[!info] Array-Deklaration und Initialisierung
+> ```java
+>datatype[] arrayName = {n0, n1, n2, n3};
+>```
 # Bsp
 
 ```java

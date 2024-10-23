@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java"],"updated":"2024-10-22T16:25:54.498+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java"],"updated":"2024-10-23T08:49:53.484+02:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -109,9 +109,9 @@ public class MyClass {
 ```
 >[!note] 
 >Das sind die [[02 - RESOURCES/Notes/Referenzdatentyp\|Referenzdatentyp]]en.
->> Genau [[02 - RESOURCES/Notes/String\|String]] ist ein Objekt.
+>> Genau gesagt: [[02 - RESOURCES/Notes/String\|String]] ist eine [[02 - RESOURCES/Notes/Klasse\|Klasse]].
 
-## [[02 - RESOURCES/Notes/Java Array\|Java Array]]
+## [[02 - RESOURCES/Notes/Java Array\|Java Array]]    
 
 ## [[02 - RESOURCES/Notes/Java Bedingung\|Java Bedingung]]
 ## [[02 - RESOURCES/Notes/Java Loop\|Java Loop]]
