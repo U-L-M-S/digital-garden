@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["code/java/klasse"],"updated":"2024-10-22T14:19:35.560+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["code/java/klasse"],"updated":"2024-10-23T09:43:00.169+02:00"}
 ---
 
 >In [[02 - RESOURCES/Notes/Java\|Java]] gibt's keine echten [[02 - RESOURCES/Notes/Funktion\|Funktion]]en. Da alles in [[02 - RESOURCES/Notes/Java klasse\|Java klasse]] gemacht werden.
@@ -11,6 +11,11 @@ public class ClassName{
 }
 ```
 >Um eine [[02 - RESOURCES/Notes/Klasse\|Klasse]] in [[02 - RESOURCES/Notes/Java\|Java]] zu erstellen, muss man der folgenden Syntax folgen: [[02 - RESOURCES/Notes/Zugriffsmodifikator\|Zugriffsmodifikator]] `class ClassName{}`
+
+
+>[!important] 
+>Achtet bitte auf [[02 - RESOURCES/Notes/Java Static\|Java Static]]. 
+>Es ist ein extrem wichtiges Konzept und wird später benötigt.
 
 # Bsp
 ```java
