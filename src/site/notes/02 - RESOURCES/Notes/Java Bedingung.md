@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-bedingung/","tags":["code/java/loop"],"updated":"2024-09-23T11:24:09.180+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-bedingung/","tags":["code/java"],"updated":"2024-10-24T11:20:42.085+02:00"}
 ---
 
 # IF
@@ -45,7 +45,7 @@ public class ConditionalOperator {
 >[!note] 
 >`else` wird nur ausgeführt, wenn keine andere Bedingung zutrifft.
 
-# ELSE IF
+# ELSEIF
 ```java
 public class ConditionalOperator {
     public static void main(String[] args) {

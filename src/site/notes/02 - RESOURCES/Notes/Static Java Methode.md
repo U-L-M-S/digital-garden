@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/static-java-methode/","tags":["code/java/method","code/java/klasse"],"updated":"2024-10-22T09:30:46.337+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/static-java-methode/","tags":["code/java/klasse","code/java"],"updated":"2024-10-24T11:22:24.410+02:00"}
 ---
 
 >Wir haben gelernt; wir brauchen ein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] damit wir mit [[02 - RESOURCES/Notes/OOP\|OOP]] in [[02 - RESOURCES/Notes/Java\|Java]] arbeiten können.
