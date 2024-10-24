@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/l-fzq17a-objektorientierte-programmierung/","tags":["GFN/LFzq17a"],"noteIcon":"","updated":"2024-10-21T22:58:50.750+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/l-fzq17a-objektorientierte-programmierung/","tags":["GFN/LFzq17a"],"updated":"2024-10-21T22:58:50.000+02:00"}
 ---
 
 >[!important] 
