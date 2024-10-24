@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2"],"updated":"2024-10-23T09:43:20.842+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2"],"updated":"2024-10-24T09:05:47.512+02:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -28,7 +28,7 @@ ___
 # # Grundlage
 > Hier lernst du die Syntax der wichtigsten Befehle, um mit der [[02 - RESOURCES/Notes/Java\|Java]]-Sprache umzugehen.
 
-## [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]n
+## [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]
 
 So wie bereits gesagt: [[02 - RESOURCES/Notes/Java\|Java]] ist eine [[02 - RESOURCES/Notes/OOP\|Objektorientierte Programmierung]]. Das heißt, alles ist ein Objekt in [[02 - RESOURCES/Notes/Java\|Java]] und muss in einer [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] definiert werden.
 ```java
@@ -42,7 +42,7 @@ public MyClass{
 >[[02 - RESOURCES/Notes/Java klasse\|Java Klasse]]n können miteinander noch Kompositionen eingehen.
 >Aber das lernst du später. Zuerst lass uns die Grundlagen lernen.
 
-## [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n
+## [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]
 
 Wie in jede Computersprache enthält [[02 - RESOURCES/Notes/Java\|Java]] [[02 - RESOURCES/Notes/Variable\|Variable]]n und ihre Syntax is ganz ähmlich wie bei [[00 - PROJECTS/C Sprache\|C Sprache]].  
 Also man muss auf die [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]en aufpassen wenn man [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n initialisiert oder deklariert.
