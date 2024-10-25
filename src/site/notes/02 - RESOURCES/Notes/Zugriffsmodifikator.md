@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/zugriffsmodifikator/","tags":["code/java","code/python","code/OOP"],"updated":"2024-09-25T13:16:31.952+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/zugriffsmodifikator/","tags":["code/java","code/python","code/OOP"],"updated":"2024-10-25T10:49:09.080+02:00"}
 ---
 
 > Zugriffsrechten.
@@ -8,7 +8,8 @@
 Zugriffmodifikatoren können `public`, `privated`, `protected` sein. 
 Es hängt nur davon ab, wovon man die [[02 - RESOURCES/Notes/Attribut\|Attribut]]/[[02 - RESOURCES/Notes/Methode\|Methode]] zugreifen möchte.
 
-| public    | Überall zugreifbar                                                               |
-| --------- | -------------------------------------------------------------------------------- |
-| Private   | Nur in die selbe [[02 - RESOURCES/Notes/Klasse\|Klasse]], die erstellt wurde zugreifbar                       |
-| Protected | Nur in die selbe [[02 - RESOURCES/Notes/Klasse\|Klasse]], die erstellt wurde zugreifbar und in die Subklassen |
+| Zugriffsmodifikator | Zugriff                                                                          |
+| :-----------------: | :------------------------------------------------------------------------------- |
+|       public        | Überall zugreifbar                                                               |
+|       Private       | Nur in die selbe [[02 - RESOURCES/Notes/Klasse\|Klasse]], die erstellt wurde zugreifbar                       |
+|      Protected      | Nur in die selbe [[02 - RESOURCES/Notes/Klasse\|Klasse]], die erstellt wurde zugreifbar und in die Subklassen |
