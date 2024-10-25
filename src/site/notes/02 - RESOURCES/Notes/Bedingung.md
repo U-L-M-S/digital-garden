@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bedingung/","tags":["code"],"updated":"2024-10-25T11:57:32.301+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bedingung/","tags":["code","empty"],"updated":"2024-10-25T16:32:03.116+02:00"}
 ---
 
 >In die Programmierungwelt die Bedingung sind nötiwendigen um Entscheidung in den Code zu treffen.
