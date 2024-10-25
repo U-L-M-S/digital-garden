@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/setter-methode/","tags":["code/OOP","code/java"],"updated":"2024-10-21T14:06:23.516+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/setter-methode/","tags":["code/OOP","code/java"],"updated":"2024-10-25T11:26:04.055+02:00"}
 ---
 
 >Setter Methode ist eine speziell Methode, die in jeder Programmiert Sprache mit [[02 - RESOURCES/Notes/OOP\|OOP]] existiert.

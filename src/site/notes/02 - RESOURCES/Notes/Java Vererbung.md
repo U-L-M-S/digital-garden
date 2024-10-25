@@ -1,11 +1,7 @@
 ---
-tags:
-  - code/java/klasse/vererbung
-dg-publish: true
-links: 
-path: Notes
-created: 2024-06-21 16:24
+{"dg-publish":true,"permalink":"/02-resources/notes/java-vererbung/","tags":["code/OOP/vererbung"],"updated":"2024-10-25T11:26:32.087+02:00"}
 ---
+
 
 ```Java
 #PARENT CLASS
