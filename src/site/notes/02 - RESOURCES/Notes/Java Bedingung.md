@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-bedingung/","tags":["code/java"],"noteIcon":"","updated":"2024-10-24T11:20:42.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-bedingung/","tags":["code/java"],"noteIcon":"","updated":"2024-10-26T21:25:31.151+02:00"}
 ---
 
 # IF
@@ -45,7 +45,7 @@ public class ConditionalOperator {
 >[!note] 
 >`else` wird nur ausgeführt, wenn keine andere Bedingung zutrifft.
 
-# ELSEIF
+# ELSE IF
 ```java
 public class ConditionalOperator {
     public static void main(String[] args) {
@@ -71,4 +71,4 @@ public class ConditionalOperator {
 >Das `else if` wird nur überprüft, falls das erste `if` false ist, und es wird nur ausgeführt, wenn `number2 > number1` true ist. Andernfalls wird `else` ausgeführt.
 # Tip
 >[!tip] 
->[[02 - RESOURCES/Notes/ternären Operator\|ternären Operator]] es ist immer ein Nice To Know ;)
+>[[02 - RESOURCES/Notes/Ternärer Operator\|Ternärer Operator]] es ist immer ein Nice To Know ;)
