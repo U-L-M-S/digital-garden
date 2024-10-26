@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2024-10-26T21:22:02.021+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2024-10-26T21:49:54.422+02:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -112,8 +112,60 @@ public class ArrayExample {
 >[!note] 
 >Yep... In Java wir müssen ein Objekt erstellen für eine [[02 - RESOURCES/Notes/Java Array\|Java Array]].
 ## [[02 - RESOURCES/Notes/Java Bedingung\|Java Bedingung]]
-## [[02 - RESOURCES/Notes/Java Loop\|Java Loop]]
+[[02 - RESOURCES/Notes/IF-Bedingung\|IF-Bedingung]], [[02 - RESOURCES/Notes/ELSE IF-Bedingung\|ELSE IF-Bedingung]] und [[02 - RESOURCES/Notes/ELSE-Bedingung\|ELSE-Bedingung]] in Java.
+```java
+public class NumberCheck {
+    public static void main(String[] args) {
+        int number = -5;
+
+        if (number > 0) {
+            System.out.println("Die Zahl ist positiv.");
+        } else if (number < 0) {
+            System.out.println("Die Zahl ist negativ.");
+        } else {
+            System.out.println("Die Zahl ist null.");
+        }
+    }
+}
+``` 
+
 ## [[02 - RESOURCES/Notes/Java Switch-Case\|Java Switch-Case]]
+Stell dir mal vor, es wären die [[02 - RESOURCES/Notes/Java Bedingung\|Java Bedingung]]en, aber etwas präziser (wenn man mehr als eine [[02 - RESOURCES/Notes/IF-Bedingung\|IF-Bedingung]] hat).
+```java
+public class Wochentag {
+    public static void main(String[] args) {
+        int tag = 3;
+
+        switch (tag) {
+            case 1:
+                System.out.println("Montag");
+                break;
+            case 2:
+                System.out.println("Dienstag");
+                break;
+            case 3:
+                System.out.println("Mittwoch");
+                break;
+            case 4:
+                System.out.println("Donnerstag");
+                break;
+            case 5:
+                System.out.println("Freitag");
+                break;
+            case 6:
+                System.out.println("Samstag");
+                break;
+            case 7:
+                System.out.println("Sonntag");
+                break;
+            default:
+                System.out.println("Ungültige Zahl! Bitte eine Zahl zwischen 1 und 7 eingeben.");
+        }
+    }
+}
+```
+## [[02 - RESOURCES/Notes/Java Loop\|Java Loop]]
+Es gibt die Möglichkeit, einen Codeblock X-mal zu wiederholen.
 
 ## [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]
 ## [[02 - RESOURCES/Notes/Java Methode\|Java Methode]]

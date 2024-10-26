@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-array/","tags":["code/java"],"noteIcon":"","updated":"2024-10-24T11:21:22.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-array/","tags":["code/java"],"noteIcon":"","updated":"2024-10-26T21:58:04.279+02:00"}
 ---
 
 >[!summary] Regeln
@@ -51,28 +51,26 @@ public class BeispielArrayZufallszahlen {
 >Es gibt hauptsächlich 2 Wege um das zu machen.
 
 >[!example] Automatisch (Mit Bibliotheken)
->```java
->import java.util.ArrayList;
->
->public class ArrayListExample {
->    public static void main(String[] args) {
->        
->        ArrayList<Integer> zahlen = new ArrayList<>();
->        
->        zahlen.add(10);
->        zahlen.add(20);
->        zahlen.add(30);
->
->        // Element hinzufügen (z.B. 40)
->        zahlen.add(40);
->
->        // Ausgabe
->        System.out.println("ArrayList nach dem Hinzufügen: " + zahlen);
->   }
->}
->```
+```java
+import java.util.ArrayList;
 
->[]
+public class ArrayListExample {
+    public static void main(String[] args) {
+        
+        ArrayList<Integer> zahlen = new ArrayList<>();
+        
+        zahlen.add(10);
+        zahlen.add(20);
+        zahlen.add(30);
+
+        // Element hinzufügen (z.B. 40)
+        zahlen.add(40);
+
+        // Ausgabe
+        System.out.println("ArrayList nach dem Hinzufügen: " + zahlen);
+   }
+}
+```
 
 # [[02 - RESOURCES/Notes/Java 2D-Array\|Java 2D-Array]]
 >Eigentlich kann [[02 - RESOURCES/Notes/Java Array\|Java Array]] unendlich lang sein. D.h: 3D, 4D, 5D, ... [[02 - RESOURCES/Notes/Java Array\|Java Array]]
