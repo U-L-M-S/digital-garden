@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/authentifizierung/","tags":["it-sicherheit"],"updated":"2024-10-17T08:59:35.161+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/authentifizierung/","tags":["it-sicherheit"],"noteIcon":"","updated":"2024-10-17T08:59:35.000+02:00"}
 ---
 
 >Die Herkunft von Informationen oder Nachrichten ist verlässlich und kann bestätigt werden.
