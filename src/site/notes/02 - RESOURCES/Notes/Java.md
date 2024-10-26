@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2024-10-24T09:05:47.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2024-10-26T19:44:58.769+02:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
+
+# Wie Java funktioniert
 
 ```java
 class HelloWorld {
@@ -20,12 +22,12 @@ Die [[02 - RESOURCES/Notes/Funktion\|Funktion]] `main()` ist der **Starter** der
 Nun hat die [[02 - RESOURCES/Notes/Funktion\|Funktion]] drei Begriffen bei sich:
 - public: Der [[02 - RESOURCES/Notes/Zugriffsmodifikator\|Zugriffsmodifikator]] der festlegt, dass die [[02 - RESOURCES/Notes/Methode\|Methode]] von überall aufgerufen werden kann.
 - [[02 - RESOURCES/Notes/static\|static]]: ([[02 - RESOURCES/Notes/Static Java Methode\|Static Java Methode]]) bedeutet, dass die [[02 - RESOURCES/Notes/Methode\|Methode]] ohne Erstellen eines Objekts der [[02 - RESOURCES/Notes/Klasse\|Klasse]] aufgerufen werden kann.
-- void: [[02 - RESOURCES/Notes/Rückgabewerttyp\|Rückgabewerttyp]], die [[02 - RESOURCES/Notes/Methode\|Methode]] keinen Rückgabewert hat.
+- void: [[02 - RESOURCES/Notes/Rückgabewerttyp\|Rückgabewerttyp]]; die [[02 - RESOURCES/Notes/Methode\|Methode]] hat keinen Rückgabewert.
 
 Der Befehl `System.out.println("Hello, World!");` macht nicht anders als "Hello, World!" in der Console auszugeben.
 
 ___
-# # Grundlage
+# Grundlage
 > Hier lernst du die Syntax der wichtigsten Befehle, um mit der [[02 - RESOURCES/Notes/Java\|Java]]-Sprache umzugehen.
 
 ## [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]
