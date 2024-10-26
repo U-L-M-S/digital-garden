@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2024-10-26T21:49:54.422+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2024-10-26T22:43:49.408+02:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -166,7 +166,69 @@ public class Wochentag {
 ```
 ## [[02 - RESOURCES/Notes/Java Loop\|Java Loop]]
 Es gibt die Möglichkeit, einen Codeblock X-mal zu wiederholen.
+```java
+public class LoopExample {
+    public static void main(String[] args) {
+        // for-Schleife
+        for (int i = 0; i < 5; i++) {
+            System.out.println("Dies ist die Iteration: " + i);
+        }
 
-## [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]
+        // while-Schleife
+        int j = 0;
+        while (j < 5) {
+            System.out.println("Dies ist die Iteration: " + j);
+            j++;
+        }
+
+        // do-while-Schleife
+        int k = 0;
+        do {
+            System.out.println("Dies ist die Iteration: " + k);
+            k++;
+        } while (k < 5);
+    }
+}
+```
+>[!note] Schleifen sind nützlich, um wiederholte Aufgaben effizient zu erledigen.
 ## [[02 - RESOURCES/Notes/Java Methode\|Java Methode]]
+Eine [[02 - RESOURCES/Notes/Java Methode\|Java Methode]] ist ein Block von Code, der eine bestimmte Aufgabe ausführt. Methoden helfen, den Code zu organisieren und wiederverwendbar zu machen.
+```java
+public class MethodExample {
+    public static void main(String[] args) {
+        int summe = addiere(5, 10);
+        System.out.println("Die Summe ist: " + summe);
+    }
+
+    // Methode zum Addieren zweier Zahlen
+    public static int addiere(int a, int b) {
+        return a + b;
+    }
+}
+```
+>[!note] Methoden können Parameter akzeptieren und einen Wert zurückgeben.
 ## [[02 - RESOURCES/Notes/Java Static\|Java Static]]
+Es wird verwendet, um Mitglieder (Variablen und Methoden) einer Klasse als zugehörig zur Klasse selbst zu kennzeichnen, anstatt zu einer Instanz der Klasse.
+```java
+public class StaticExample {
+    static int zaehler = 0; // Statische Variable
+
+    public static void main(String[] args) {
+        // Zugriff auf die statische Methode
+        erhoeheZaehler();
+        System.out.println("Der Zählerwert ist: " + zaehler);
+    }
+
+    // Statische Methode zur Erhöhung des Zählers
+    public static void erhoeheZaehler() {
+        zaehler++;
+    }
+}
+```
+>[!note] Statische Mitglieder können ohne Erstellen einer Instanz der Klasse aufgerufen werden.
+
+___
+
+
+
+
