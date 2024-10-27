@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2024-10-26T23:02:00.465+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2024-10-27T13:07:36.140+01:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -209,6 +209,7 @@ public class MethodExample {
 >[!note] Methoden können Parameter akzeptieren und einen Wert zurückgeben.
 ## [[02 - RESOURCES/Notes/Java Static\|Java Static]]
 Es wird verwendet, um Mitglieder (Variablen und Methoden) einer Klasse als zugehörig zur Klasse selbst zu kennzeichnen, anstatt zu einer Instanz der Klasse.
+(Man kann Variablen und Methoden benutzen ohne ein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] zu generieren).
 ```java
 public class StaticExample {
     static int zaehler = 0; // Statische Variable
