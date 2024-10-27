@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2024-10-27T13:07:36.140+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2","GFN/LFzq17a"],"noteIcon":"","updated":"2024-10-27T13:12:05.776+01:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -231,3 +231,4 @@ public class StaticExample {
 ___
 
 # Java [[02 - RESOURCES/Notes/OOP\|OOP]]
+>Jetzt dass du mit Java Grundlage vertraut bist. Können wir 
