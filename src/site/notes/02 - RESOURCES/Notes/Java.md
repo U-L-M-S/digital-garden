@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2","GFN/LFzq17a"],"noteIcon":"","updated":"2024-10-27T13:12:05.776+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2","GFN/LFzq17a"],"noteIcon":"","updated":"2024-10-27T13:14:09.004+01:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -27,7 +27,7 @@ public MyClass{
 
 ## [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]
 
-Wie in jede Computersprache enthält [[02 - RESOURCES/Notes/Java\|Java]] [[02 - RESOURCES/Notes/Variable\|Variable]]n und ihre Syntax is ganz ähmlich wie bei [[00 - PROJECTS/C Sprache\|C Sprache]].  
+Wie in jede Computersprache enthält [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n und ihre Syntax is ganz ähnlich wie bei [[00 - PROJECTS/C Sprache\|C Sprache]].
 Also man muss auf die [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]en aufpassen wenn man [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n initialisiert oder deklariert.
 
 ```java
