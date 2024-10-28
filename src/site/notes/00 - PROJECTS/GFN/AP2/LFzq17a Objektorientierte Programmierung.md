@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/l-fzq17a-objektorientierte-programmierung/","tags":["GFN/LFzq17a","code/java","code/OOP"],"updated":"2024-10-28T09:34:25.506+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/l-fzq17a-objektorientierte-programmierung/","tags":["GFN/LFzq17a","code/java","code/OOP"],"updated":"2024-10-28T10:56:21.165+01:00"}
 ---
 
 >[!important] 
@@ -19,7 +19,7 @@ ___
 >- [[02 - RESOURCES/Notes/Java\|Java]]-Bibliotheken kennen lernen und lernen wie man sie versteht
 >- [[02 - RESOURCES/Notes/Java Static\|Java Static]]
 >- [[02 - RESOURCES/Notes/Java final\|Java final]]
->- 
+>- [[02 - RESOURCES/Notes/Setter Methode\|Getter-Methode]]
 
 
 
