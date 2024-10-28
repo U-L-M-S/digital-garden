@@ -1,12 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/l-fzq17a-objektorientierte-programmierung/","tags":["GFN/LFzq17a"],"noteIcon":"","updated":"2024-10-21T22:58:50.750+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/l-fzq17a-objektorientierte-programmierung/","tags":["GFN/LFzq17a","code/java","code/OOP"],"updated":"2024-10-28T08:49:18.786+01:00"}
 ---
 
 >[!important] 
 >Diese Zusammenfassung ist noch nicht vollständig.
 >Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
 
->[[02 - RESOURCES/Notes/Java\|Java]]
+
+>Dieses Lernfeld ist eine Erweiterung von [[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]], aber extrem auf [[02 - RESOURCES/Notes/OOP\|OOP]] mit [[02 - RESOURCES/Notes/Java\|Java]] fokussiert. 
+>>Ich habe dieses Lernfeld in Wochen statt in Kapiteln aufgeteilt, wie ich es normalerweise mache.
+
+>[!note] 
+>Den Code kannst du gern in deiner [[02 - RESOURCES/Notes/IDE\|IDE]] ausführen oder, wenn dir das lieber ist, [online](https://www.programiz.com/java-programming/online-compiler/).
+
+# 1. Woche
+___
+>In unser erste Woche haben wir eine kleine Wiederholung über [[02 - RESOURCES/Notes/Java Array\|Java Array]], [[02 - RESOURCES/Notes/NULL\|NULL]] und [[02 - RESOURCES/Notes/Java Loop\|Java Loop]] gemacht. Danach ging es los mit folgende Themas:
+>- [[02 - RESOURCES/Notes/Java Static\|Java Static]]
+>- [[02 - RESOURCES/Notes/Java final\|Java final]]
+>- 
 
 
 

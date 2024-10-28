@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2","GFN/LFzq17a"],"noteIcon":"","updated":"2024-10-27T13:14:09.004+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2","GFN/LFzq17a"],"updated":"2024-10-27T13:39:00.000+01:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -112,7 +112,7 @@ public class ArrayExample {
 >[!note] 
 >Yep... In Java wir müssen ein Objekt erstellen für eine [[02 - RESOURCES/Notes/Java Array\|Java Array]].
 ## [[02 - RESOURCES/Notes/Java Bedingung\|Java Bedingung]]
-[[02 - RESOURCES/Notes/IF-Bedingung\|IF-Bedingung]], [[02 - RESOURCES/Notes/ELSE IF-Bedingung\|ELSE IF-Bedingung]] und [[02 - RESOURCES/Notes/ELSE-Bedingung\|ELSE-Bedingung]] in Java.
+[[02 - RESOURCES/Notes/IF-Bedingung\|IF-Bedingung]], [[02 - RESOURCES/Notes/ELSE IF-Bedingung\|ELSE IF-Bedingung]] und [[ELSE-Bedingung\|ELSE-Bedingung]] in Java.
 ```java
 public class NumberCheck {
     public static void main(String[] args) {
@@ -226,9 +226,10 @@ public class StaticExample {
     }
 }
 ```
->[!note] Statische Mitglieder können ohne Erstellen einer Instanz der Klasse aufgerufen werden.
+>[!note] Statische Mitglieder können ohne Erstellen einer Instanz der [[02 - RESOURCES/Notes/Klasse\|Klasse]] aufgerufen werden.
 
 ___
 
 # Java [[02 - RESOURCES/Notes/OOP\|OOP]]
->Jetzt dass du mit Java Grundlage vertraut bist. Können wir 
+>Jetzt, da du mit den Java-Grundlagen vertraut bist, können wir uns ein bisschen in die Java-Objektorientierung ([[02 - RESOURCES/Notes/OOP\|OOP]]) vertiefen.
+
