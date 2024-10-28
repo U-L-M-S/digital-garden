@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/l-fzq17a-objektorientierte-programmierung/","tags":["GFN/LFzq17a","code/java","code/OOP"],"updated":"2024-10-28T08:49:18.786+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/l-fzq17a-objektorientierte-programmierung/","tags":["GFN/LFzq17a","code/java","code/OOP"],"updated":"2024-10-28T09:34:25.506+01:00"}
 ---
 
 >[!important] 
@@ -16,6 +16,7 @@
 # 1. Woche
 ___
 >In unser erste Woche haben wir eine kleine Wiederholung über [[02 - RESOURCES/Notes/Java Array\|Java Array]], [[02 - RESOURCES/Notes/NULL\|NULL]] und [[02 - RESOURCES/Notes/Java Loop\|Java Loop]] gemacht. Danach ging es los mit folgende Themas:
+>- [[02 - RESOURCES/Notes/Java\|Java]]-Bibliotheken kennen lernen und lernen wie man sie versteht
 >- [[02 - RESOURCES/Notes/Java Static\|Java Static]]
 >- [[02 - RESOURCES/Notes/Java final\|Java final]]
 >- 
