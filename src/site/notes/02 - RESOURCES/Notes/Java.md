@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2","GFN/LFzq17a"],"noteIcon":"","updated":"2024-10-29T01:03:25.924+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2","GFN/LFzq17a"],"noteIcon":"","updated":"2024-10-29T02:24:03.842+01:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -231,10 +231,155 @@ public class StaticExample {
 ___
 
 # Java [[02 - RESOURCES/Notes/OOP\|OOP]]
->Jetzt, da du mit den Java-Grundlagen vertraut bist, können wir uns ein bisschen in die Java-Objektorientierung ([[02 - RESOURCES/Notes/OOP\|OOP]]) vertiefen.
+>Jetzt, da du mit den Java-Grundlagen vertraut bist, können wir uns etwas tiefer in die Java-Objektorientierung ([[02 - RESOURCES/Notes/OOP\|OOP]]) vertiefen.
 
-## Klassen arten
+## Klassenarten
 
-### Standard
-<div id="Java_2024-10-29_0047.37.excalidraw.md2"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.5.2","elements":[{"id":"i_0UWtDjzGBoF-sD9czaY","type":"rectangle","x":-350.7914849716946,"y":-259.2109375,"width":169.04202030360037,"height":203.7030870445344,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a0","roundness":{"type":3},"seed":870840339,"version":331,"versionNonce":1201936221,"isDeleted":false,"boundElements":[{"type":"text","id":"jBwVs4DU"},{"id":"UKR4joS4Ib9vP-gV-NNMz","type":"arrow"}],"updated":1730160145216,"link":null,"locked":false},{"id":"jBwVs4DU","type":"text","x":-345.7914849716946,"y":-254.2109375,"width":150.8575439453125,"height":157.81931356145265,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a1","roundness":null,"seed":361818301,"version":627,"versionNonce":1341670205,"isDeleted":false,"boundElements":null,"updated":1730160159534,"link":null,"locked":false,"text":"\n________________\n+brand: String \n+speed: double \n+plate: String \n________________\n+Auto()\n+drive()\n+stop()","rawText":"\n________________\n+brand: String \n+speed: double \n+plate: String \n________________\n+Auto()\n+drive()\n+stop()","fontSize":14.028383427684679,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":"i_0UWtDjzGBoF-sD9czaY","originalText":"\n________________\n+brand: String \n+speed: double \n+plate: String \n________________\n+Auto()\n+drive()\n+stop()","autoResize":true,"lineHeight":1.25},{"id":"70vsxeak","type":"text","x":-282.7538253474239,"y":-251.49532661477343,"width":33.34544129275696,"height":17.535479284605845,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a2","roundness":null,"seed":953611987,"version":154,"versionNonce":1383268573,"isDeleted":false,"boundElements":null,"updated":1730160145217,"link":null,"locked":false,"text":"Auto","rawText":"Auto","fontSize":14.028383427684679,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Auto","autoResize":true,"lineHeight":1.25},{"id":"cHjVsL-xh-yTLg-S_uHC5","type":"rectangle","x":-355,"y":-13.012808344133873,"width":167.6391819608319,"height":81.36462388057113,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a3","roundness":{"type":3},"seed":63405117,"version":287,"versionNonce":48220019,"isDeleted":false,"boundElements":[{"type":"text","id":"4g4BEQAN"},{"id":"UKR4joS4Ib9vP-gV-NNMz","type":"arrow"}],"updated":1730160145217,"link":null,"locked":false},{"id":"4g4BEQAN","type":"text","x":-350,"y":-8.012808344133873,"width":150.8575439453125,"height":52.606437853817546,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a4","roundness":null,"seed":1550893139,"version":507,"versionNonce":455444925,"isDeleted":false,"boundElements":null,"updated":1730160152034,"link":null,"locked":false,"text":"\n________________\n+main()","rawText":"\n________________\n+main()","fontSize":14.028383427684679,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":"cHjVsL-xh-yTLg-S_uHC5","originalText":"\n________________\n+main()","autoResize":true,"lineHeight":1.25},{"id":"No1Sjnsi","type":"text","x":-283.4552445188081,"y":-5.297197458907306,"width":29.627917543859084,"height":17.535479284605845,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a5","roundness":null,"seed":369868147,"version":368,"versionNonce":1364162643,"isDeleted":false,"boundElements":[{"id":"UKR4joS4Ib9vP-gV-NNMz","type":"arrow"}],"updated":1730160145217,"link":null,"locked":false,"text":"Main","rawText":"Main","fontSize":14.028383427684679,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Main","autoResize":true,"lineHeight":1.25},{"id":"UKR4joS4Ib9vP-gV-NNMz","type":"arrow","x":-267.31357082612215,"y":-54.50785045546558,"width":0.011093449983731133,"height":35.182269568873565,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a6","roundness":{"type":2},"seed":834642621,"version":789,"versionNonce":1868005555,"isDeleted":false,"boundElements":[],"updated":1730160159596,"link":null,"locked":false,"points":[[0,0],[0.011093449983731133,35.182269568873565]],"lastCommittedPoint":null,"startBinding":{"elementId":"i_0UWtDjzGBoF-sD9czaY","focus":0.012720127115509976,"gap":1,"fixedPoint":null},"endBinding":{"elementId":"No1Sjnsi","focus":0.09084304720479283,"gap":14.028383427684707,"fixedPoint":null},"startArrowhead":null,"endArrowhead":null,"elbowed":false}],"appState":{"theme":"dark","viewBackgroundColor":"#ffffff","currentItemStrokeColor":"#1e1e1e","currentItemBackgroundColor":"transparent","currentItemFillStyle":"solid","currentItemStrokeWidth":2,"currentItemStrokeStyle":"solid","currentItemRoughness":1,"currentItemOpacity":100,"currentItemFontFamily":5,"currentItemFontSize":20,"currentItemTextAlign":"left","currentItemStartArrowhead":null,"currentItemEndArrowhead":null,"currentItemArrowType":"round","scrollX":616.5,"scrollY":453.7890625,"zoom":{"value":1},"currentItemRoundness":"round","gridSize":20,"gridStep":5,"gridModeEnabled":false,"gridColor":{"Bold":"rgba(217, 217, 217, 0.5)","Regular":"rgba(230, 230, 230, 0.5)"},"currentStrokeOptions":null,"frameRendering":{"enabled":true,"clip":true,"name":true,"outline":true},"objectsSnapModeEnabled":false,"activeTool":{"type":"selection","customType":null,"locked":false,"lastActiveTool":null}},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("Java_2024-10-29_0047.37.excalidraw.md2");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>
+### Basis
+<div id="Java_2024-10-29_0047.37.excalidraw.md2"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.5.2","elements":[{"type":"rectangle","version":361,"versionNonce":1335865821,"index":"a0","isDeleted":false,"id":"i_0UWtDjzGBoF-sD9czaY","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-349.8926995465934,"y":-259.2109375,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":205.14323487849916,"height":247.20664220647774,"seed":870840339,"groupIds":[],"frameId":null,"roundness":{"type":3},"boundElements":[{"type":"text","id":"jBwVs4DU"},{"id":"UKR4joS4Ib9vP-gV-NNMz","type":"arrow"}],"updated":1730160219941,"link":null,"locked":false},{"type":"text","version":729,"versionNonce":1079544733,"index":"a1","isDeleted":false,"id":"jBwVs4DU","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-344.8926995465934,"y":-254.2109375,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":183.0076904296875,"height":191.52376700274817,"seed":361818301,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1730164262655,"link":null,"locked":false,"fontSize":17.024334844688727,"fontFamily":5,"text":"\n________________\n+brand: String \n+speed: double \n+plate: String \n________________\n+Auto()\n+ void drive()\n+ void stop()","rawText":"\n________________\n+brand: String \n+speed: double \n+plate: String \n________________\n+Auto()\n+ void drive()\n+ void stop()","textAlign":"left","verticalAlign":"top","containerId":"i_0UWtDjzGBoF-sD9czaY","originalText":"\n________________\n+brand: String \n+speed: double \n+plate: String \n________________\n+Auto()\n+ void drive()\n+ void stop()","autoResize":true,"lineHeight":1.25},{"type":"text","version":184,"versionNonce":1150114653,"index":"a2","isDeleted":false,"id":"70vsxeak","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-267.32467554985305,"y":-249.8475533354212,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":40.44630432128906,"height":21.28041855586091,"seed":953611987,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1730160219942,"link":null,"locked":false,"fontSize":17.024334844688727,"fontFamily":5,"text":"Auto","rawText":"Auto","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Auto","autoResize":true,"lineHeight":1.25},{"type":"rectangle","version":317,"versionNonce":437146867,"index":"a3","isDeleted":false,"id":"cHjVsL-xh-yTLg-S_uHC5","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-355,"y":39.566139024287224,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":203.4408013940303,"height":98.74114209919462,"seed":63405117,"groupIds":[],"frameId":null,"roundness":{"type":3},"boundElements":[{"type":"text","id":"4g4BEQAN"},{"id":"UKR4joS4Ib9vP-gV-NNMz","type":"arrow"}],"updated":1730160219942,"link":null,"locked":false},{"type":"text","version":597,"versionNonce":194901043,"index":"a4","isDeleted":false,"id":"4g4BEQAN","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-350,"y":44.566139024287224,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":183.0076904296875,"height":63.84125566758273,"seed":1550893139,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1730160219942,"link":null,"locked":false,"fontSize":17.024334844688727,"fontFamily":5,"text":"\n________________\n+main()","rawText":"\n________________\n+main()","textAlign":"left","verticalAlign":"top","containerId":"cHjVsL-xh-yTLg-S_uHC5","originalText":"\n________________\n+main()","autoResize":true,"lineHeight":1.25},{"type":"text","version":399,"versionNonce":2055467507,"index":"a5","isDeleted":false,"id":"No1Sjnsi","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-268.17589229208744,"y":48.92952318886597,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":35.98689270019531,"height":21.28041855586091,"seed":369868147,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1730160220073,"link":null,"locked":false,"fontSize":17.024334844688727,"fontFamily":5,"text":"Main","rawText":"Main","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Main","autoResize":true,"lineHeight":1.25},{"type":"arrow","version":899,"versionNonce":1952890355,"index":"a6","isDeleted":false,"id":"UKR4joS4Ib9vP-gV-NNMz","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-248.58694540347622,"y":-10.79073173985637,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":0.013462606584671587,"height":42.69592008403358,"seed":834642621,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1730164244522,"link":null,"locked":false,"startBinding":{"elementId":"i_0UWtDjzGBoF-sD9czaY","focus":0.012720127115509055,"gap":1.2135635536658924,"fixedPoint":null},"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[0.013462606584671587,42.69592008403358]],"elbowed":false}],"appState":{"theme":"dark","viewBackgroundColor":"#ffffff","currentItemStrokeColor":"#1e1e1e","currentItemBackgroundColor":"transparent","currentItemFillStyle":"solid","currentItemStrokeWidth":2,"currentItemStrokeStyle":"solid","currentItemRoughness":1,"currentItemOpacity":100,"currentItemFontFamily":5,"currentItemFontSize":20,"currentItemTextAlign":"left","currentItemStartArrowhead":null,"currentItemEndArrowhead":null,"currentItemArrowType":"round","scrollX":558.1247323340472,"scrollY":287.34635943825907,"zoom":{"value":2},"currentItemRoundness":"round","gridSize":20,"gridStep":5,"gridModeEnabled":false,"gridColor":{"Bold":"rgba(217, 217, 217, 0.5)","Regular":"rgba(230, 230, 230, 0.5)"},"currentStrokeOptions":null,"frameRendering":{"enabled":true,"clip":true,"name":true,"outline":true},"objectsSnapModeEnabled":false,"activeTool":{"type":"selection","customType":null,"locked":false,"lastActiveTool":null}},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("Java_2024-10-29_0047.37.excalidraw.md2");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>
+
+>[!example] 
+>Dies ist eine Standardklasse in [[02 - RESOURCES/Notes/Java\|Java]]. Ein Objekt wurde in einer anderen Datei erstellt, in die Main-Klasse importiert, und ein Objekt wird erstellt, mit dem wir arbeiten können.
+>
+>Natürlich gibt es unendlich viele Möglichkeiten, wie man das anpassen kann. Am besten sollten wir die [[02 - RESOURCES/Notes/Variable\|Variable]]n mit [[02 - RESOURCES/Notes/Zugriffsmodifikator\|Zugriffsmodifikator]] auf _private_ setzen.
+>
+>- Bitte schau noch einmal nach, was [[02 - RESOURCES/Notes/Java Static\|Java Static]] ist und wie man den Code entsprechend anpassen würde.
+>
+>```java
+>class Auto {
+>    // Attribute
+>    public String brand;
+>    public double speed;
+>    public String plate;
+>
+>    // Konstruktor
+>    public Auto(String brand, double speed, String plate) {
+>        this.brand = brand;
+>        this.speed = speed;
+>        this.plate = plate;
+>    }
+>
+>    // Methode zum Fahren
+>    public void drive() {
+>        System.out.println(brand + " fährt mit " + speed + " km/h.");
+>    }
+>
+>    // Methode zum Anhalten
+>    public void stop() {
+>        speed = 0;
+>        System.out.println(brand + " hat angehalten.");
+>    }
+>}
+>
+>public class Main {
+>    public static void main(String[] args) {
+>        // Erstellen eines Auto-Objekts und Aufruf der Methoden
+>        Auto meinAuto = new Auto("BMW", 120.5, "AB-1234");
+>        meinAuto.drive();
+>        meinAuto.stop();
+>    }
+>}
+>```
+
+>[!example] 
+>
+>
+>```java
+>class Auto {
+>
+>   // Statische Methode zum Fahren
+>   public static void drive(String brand, double speed) {
+>       System.out.println(brand + " fährt mit " + speed + " km/h.");
+>   }
+>
+>   // Statische Methode zum Anhalten
+>   public static void stop(String brand) {
+>       System.out.println(brand + " hat angehalten.");
+>   }
+>}
+>
+>public class Main {
+>   public static void main(String[] args) {
+>       // Aufruf der statischen Methoden ohne ein Objekt zu erstellen
+>       Auto.drive("BMW", 120.5);
+>       Auto.stop("BMW");
+>   }
+>}
+>
+>```
+
+### [[02 - RESOURCES/Notes/Java Vererbung\|Java Vererbung]]
+<div id="Java_2024-10-29_0136.53.excalidraw.md3"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.5.2","elements":[{"id":"bFmY4URfnvQFT3y_WVJA8","type":"rectangle","x":-199,"y":-345.2109375,"width":255,"height":171,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a0","roundness":{"type":3},"seed":295774365,"version":43,"versionNonce":949276435,"isDeleted":false,"boundElements":[{"type":"text","id":"p9YCtUEr"},{"id":"LeZPhEfGKceGD-QoffTI7","type":"arrow"},{"id":"VXL4JazB6DNpU75XYixD_","type":"arrow"},{"id":"GN1K-DvhzGGZKNYviHX8N","type":"arrow"}],"updated":1730164427291,"link":null,"locked":false},{"id":"p9YCtUEr","type":"text","x":-194,"y":-340.2109375,"width":241.79989624023438,"height":125,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a1","roundness":null,"seed":732677171,"version":59,"versionNonce":957799421,"isDeleted":false,"boundElements":null,"updated":1730164342138,"link":null,"locked":false,"text":"\n__________________\n+ void fly()\n+ void run()\n+ void swim() ","rawText":"\n__________________\n+ void fly()\n+ void run()\n+ void swim() ","fontSize":20,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":"bFmY4URfnvQFT3y_WVJA8","originalText":"\n__________________\n+ void fly()\n+ void run()\n+ void swim() ","autoResize":true,"lineHeight":1.25},{"type":"rectangle","version":97,"versionNonce":1839089875,"index":"a2","isDeleted":false,"id":"gmVSWaTipH_FGD9agqNXC","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-385.5,"y":-93.7109375,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":255,"height":171,"seed":675266301,"groupIds":[],"frameId":null,"roundness":{"type":3},"boundElements":[{"type":"text","id":"9QoYD63f"},{"id":"LeZPhEfGKceGD-QoffTI7","type":"arrow"}],"updated":1730164405037,"link":null,"locked":false},{"type":"text","version":107,"versionNonce":2058633971,"index":"a3","isDeleted":false,"id":"9QoYD63f","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-380.5,"y":-88.7109375,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":241.79989624023438,"height":125,"seed":122214237,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1730164366674,"link":null,"locked":false,"fontSize":20,"fontFamily":5,"text":"\n__________________\n+ void fly()\n+ void run()\n+ void swim()","rawText":"\n__________________\n+ void fly()\n+ void run()\n+ void swim()","textAlign":"left","verticalAlign":"top","containerId":"gmVSWaTipH_FGD9agqNXC","originalText":"\n__________________\n+ void fly()\n+ void run()\n+ void swim()","autoResize":true,"lineHeight":1.25},{"type":"rectangle","version":102,"versionNonce":1416996221,"index":"a4","isDeleted":false,"id":"txqh8kpdPZuxzjSEeKxUO","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-26.5,"y":-99.7109375,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":255,"height":171,"seed":802087261,"groupIds":[],"frameId":null,"roundness":{"type":3},"boundElements":[{"type":"text","id":"iswkrBJs"},{"id":"VXL4JazB6DNpU75XYixD_","type":"arrow"}],"updated":1730164417887,"link":null,"locked":false},{"type":"text","version":97,"versionNonce":1944871123,"index":"a5","isDeleted":false,"id":"iswkrBJs","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-21.5,"y":-94.7109375,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":241.79989624023438,"height":75,"seed":1770302909,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1730164378934,"link":null,"locked":false,"fontSize":20,"fontFamily":5,"text":"\n__________________\n+ void run()","rawText":"\n__________________\n+ void run()","textAlign":"left","verticalAlign":"top","containerId":"txqh8kpdPZuxzjSEeKxUO","originalText":"\n__________________\n+ void run()","autoResize":true,"lineHeight":1.25},{"type":"rectangle","version":64,"versionNonce":1442564349,"index":"a6","isDeleted":false,"id":"8Z6VPNPAjsb4sCB61bNRq","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":311.5,"y":-94.7109375,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":255,"height":171,"seed":1003077939,"groupIds":[],"frameId":null,"roundness":{"type":3},"boundElements":[{"type":"text","id":"La6kIwqm"},{"id":"GN1K-DvhzGGZKNYviHX8N","type":"arrow"}],"updated":1730164436619,"link":null,"locked":false},{"type":"text","version":58,"versionNonce":1962123613,"index":"a7","isDeleted":false,"id":"La6kIwqm","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":316.5,"y":-89.7109375,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":241.79989624023438,"height":75,"seed":704717523,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1730164436619,"link":null,"locked":false,"fontSize":20,"fontFamily":5,"text":"\n__________________\n+ void swim","rawText":"\n__________________\n+ void swim","textAlign":"left","verticalAlign":"top","containerId":"8Z6VPNPAjsb4sCB61bNRq","originalText":"\n__________________\n+ void swim","autoResize":true,"lineHeight":1.25},{"id":"BfU226LV","type":"text","x":-151,"y":-331.2109375,"width":167.6998291015625,"height":25,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a8","roundness":null,"seed":1952018717,"version":107,"versionNonce":1629665427,"isDeleted":false,"boundElements":null,"updated":1730164755814,"link":null,"locked":false,"text":"Animal (abstract)","rawText":"Animal (abstract)","fontSize":20,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Animal (abstract)","autoResize":true,"lineHeight":1.25},{"id":"LeZPhEfGKceGD-QoffTI7","type":"arrow","x":-240,"y":-98.7109375,"width":156,"height":70.5,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a9","roundness":null,"seed":777718717,"version":54,"versionNonce":574998355,"isDeleted":false,"boundElements":null,"updated":1730164407842,"link":null,"locked":false,"points":[[0,0],[0,-35.25],[156,-35.25],[156,-70.5]],"lastCommittedPoint":null,"startBinding":{"elementId":"gmVSWaTipH_FGD9agqNXC","focus":-0.5610687022900763,"gap":1.5,"fixedPoint":[0.5705882352941176,-0.029239766081871343]},"endBinding":{"elementId":"bFmY4URfnvQFT3y_WVJA8","focus":-0.6454016721192294,"gap":11,"fixedPoint":[0.45098039215686275,1.0292397660818713]},"startArrowhead":null,"endArrowhead":"arrow","elbowed":true},{"id":"VXL4JazB6DNpU75XYixD_","type":"arrow","x":100.9,"y":-104.7109375,"width":172.5,"height":64.5,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aA","roundness":null,"seed":190276851,"version":52,"versionNonce":821947869,"isDeleted":false,"boundElements":null,"updated":1730164417888,"link":null,"locked":false,"points":[[0,0],[0,-32.25],[-172.5,-32.25],[-172.5,-64.5]],"lastCommittedPoint":null,"startBinding":{"elementId":"txqh8kpdPZuxzjSEeKxUO","focus":-0.0007843137254901515,"gap":5,"fixedPoint":[0.4996078431372549,-0.029239766081871343]},"endBinding":{"elementId":"bFmY4URfnvQFT3y_WVJA8","focus":0.0007843137254901515,"gap":5,"fixedPoint":[0.4996078431372549,1.0292397660818713]},"startArrowhead":null,"endArrowhead":"arrow","elbowed":true},{"id":"GN1K-DvhzGGZKNYviHX8N","type":"arrow","x":424,"y":-99.7109375,"width":495.6,"height":69.5,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aB","roundness":null,"seed":725510579,"version":124,"versionNonce":739339709,"isDeleted":false,"boundElements":[],"updated":1730164436619,"link":null,"locked":false,"points":[[0,0],[0,-35],[-240.25,-35],[-240.25,-34.5],[-495.6,-34.5],[-495.6,-69.5]],"lastCommittedPoint":null,"startBinding":{"elementId":"8Z6VPNPAjsb4sCB61bNRq","focus":-0.11764705882352941,"gap":5,"fixedPoint":[0.4411764705882353,-0.029239766081871343]},"endBinding":{"elementId":"bFmY4URfnvQFT3y_WVJA8","focus":0.0007843137254903744,"gap":5,"fixedPoint":[0.4996078431372548,1.0292397660818713]},"startArrowhead":null,"endArrowhead":"arrow","elbowed":true},{"id":"yPUvzmxw","type":"text","x":-295,"y":-83.2109375,"width":47.299957275390625,"height":25,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aD","roundness":null,"seed":1588431581,"version":51,"versionNonce":1896803837,"isDeleted":false,"boundElements":null,"updated":1730164445140,"link":null,"locked":false,"text":"Duck","rawText":"Duck","fontSize":20,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Duck","autoResize":true,"lineHeight":1.25},{"id":"1PJCfQFn","type":"text","x":85,"y":-86.2109375,"width":38.69996643066406,"height":25,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aE","roundness":null,"seed":939656083,"version":80,"versionNonce":237692307,"isDeleted":false,"boundElements":null,"updated":1730164452260,"link":null,"locked":false,"text":"Dog","rawText":"Dog","fontSize":20,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Dog","autoResize":true,"lineHeight":1.25},{"id":"p7ryQwZj","type":"text","x":412,"y":-79.2109375,"width":40.299957275390625,"height":25,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aF","roundness":null,"seed":721440221,"version":58,"versionNonce":1031536541,"isDeleted":false,"boundElements":null,"updated":1730164458464,"link":null,"locked":false,"text":"Fish","rawText":"Fish","fontSize":20,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Fish","autoResize":true,"lineHeight":1.25}],"appState":{"theme":"dark","viewBackgroundColor":"#ffffff","currentItemStrokeColor":"#1e1e1e","currentItemBackgroundColor":"transparent","currentItemFillStyle":"solid","currentItemStrokeWidth":2,"currentItemStrokeStyle":"solid","currentItemRoughness":1,"currentItemOpacity":100,"currentItemFontFamily":5,"currentItemFontSize":20,"currentItemTextAlign":"left","currentItemStartArrowhead":null,"currentItemEndArrowhead":"arrow","currentItemArrowType":"elbow","scrollX":616.5,"scrollY":453.7890625,"zoom":{"value":1},"currentItemRoundness":"round","gridSize":20,"gridStep":5,"gridModeEnabled":false,"gridColor":{"Bold":"rgba(217, 217, 217, 0.5)","Regular":"rgba(230, 230, 230, 0.5)"},"currentStrokeOptions":null,"frameRendering":{"enabled":true,"clip":true,"name":true,"outline":true},"objectsSnapModeEnabled":false,"activeTool":{"type":"selection","customType":null,"locked":false,"lastActiveTool":null}},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("Java_2024-10-29_0136.53.excalidraw.md3");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>
+
+>[!example] 
+>Eine [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] wird erstellt (Parent-Klasse), und alle anderen Java Klassen (Child-Klassen) werden von dieser abgeleitet, in denen die Java Klassen die [[02 - RESOURCES/Notes/Java Methode\|Java Methode]]n und [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n bei sich kopieren.
+>
+>```java
+>class Animal {
+>    void fly() {
+>        System.out.println("This animal cannot fly.");
+>    }
+>
+>    void run() {
+>        System.out.println("This animal cannot run.");
+>    }
+>
+>    void swim() {
+>        System.out.println("This animal cannot swim.");
+>    }
+>}
+>
+>class Duck extends Animal {
+>    @Override
+>    void fly() {
+>        System.out.println("The duck flies in the sky.");
+>    }
+>
+>    @Override
+>    void run() {
+>        System.out.println("The duck waddles along the shore.");
+>    }
+>
+>    @Override
+>    void swim() {
+>        System.out.println("The duck swims in the pond.");
+>    }
+>}
+>
+>class Dog extends Animal {
+>    @Override
+>    void run() {
+>        System.out.println("The dog runs quickly in the park.");
+>    }
+>}
+>
+>class Fish extends Animal {
+>    @Override
+>    void swim() {
+>        System.out.println("The fish swims in the water.");
+>    }
+>}
+>
+>
+>public class Main {
+>    public static void main(String[] args) {
+>        Animal duck = new Duck();
+>        duck.fly(); // Output: The duck flies in the sky.
+>        duck.run(); // Output: The duck waddles along the shore.
+>        duck.swim(); // Output: The duck swims in the pond.
+>
+>        Animal dog = new Dog();
+>        dog.run(); // Output: The dog runs quickly in the park.
+>        dog.fly(); // Output: This animal cannot fly.
+>        dog.swim(); // Output: This animal cannot swim.
+>
+>        Animal fish = new Fish();
+>        fish.swim(); // Output: The fish swims in the water.
+>        fish.fly(); // Output: This animal cannot fly.
+>        fish.run(); // Output: This animal cannot run.
+>    }
+>}
+>
+>```
+
 
