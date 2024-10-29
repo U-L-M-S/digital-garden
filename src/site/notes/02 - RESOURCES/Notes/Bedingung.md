@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bedingung/","tags":["code","empty"],"updated":"2024-10-26T19:21:46.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bedingung/","tags":["code","empty"],"noteIcon":"","updated":"2024-10-26T19:21:46.626+02:00"}
 ---
 
 >In der Programmierwelt sind Bedingungen notwendig, um Entscheidungen im Code zu treffen.
