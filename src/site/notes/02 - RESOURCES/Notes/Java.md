@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2","GFN/LFzq17a"],"noteIcon":"","updated":"2024-10-29T02:24:03.842+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2","GFN/LFzq17a"],"noteIcon":"","updated":"2024-10-29T02:34:55.391+01:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -243,7 +243,7 @@ ___
 >
 >Natürlich gibt es unendlich viele Möglichkeiten, wie man das anpassen kann. Am besten sollten wir die [[02 - RESOURCES/Notes/Variable\|Variable]]n mit [[02 - RESOURCES/Notes/Zugriffsmodifikator\|Zugriffsmodifikator]] auf _private_ setzen.
 >
->- Bitte schau noch einmal nach, was [[02 - RESOURCES/Notes/Java Static\|Java Static]] ist und wie man den Code entsprechend anpassen würde.
+>
 >
 >```java
 >class Auto {
@@ -283,6 +283,7 @@ ___
 
 >[!example] 
 >
+>Gleiche BSP aber mit [[02 - RESOURCES/Notes/Java Static\|Java Static]]
 >
 >```java
 >class Auto {
