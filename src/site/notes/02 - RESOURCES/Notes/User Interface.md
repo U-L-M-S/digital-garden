@@ -30,7 +30,7 @@ Achtet bitte darauf, dass dies zu vielen Problemen in der Benutzerschnittstelle 
 >>Es wird häufig von Programmierern verwendet.
 >>>- Bash
 >>>- Windows Command Prompt
->>>- [[03 - ARCHIVES/Abgeschlossen/Git\|Git]] Bash
+>>>- [[02 - RESOURCES/Notes/Git\|Git]] Bash
 > 
 >>[!check] Vorteile
 >>- Schnell
