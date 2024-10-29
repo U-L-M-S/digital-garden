@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/else-bedingung/","tags":["code"],"noteIcon":"","updated":"2024-10-26T19:36:23.842+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/else-bedingung/","tags":["code"],"updated":"2024-10-29T08:46:42.314+01:00"}
 ---
 
->Eine [[02 - RESOURCES/Notes/ELSE\|else]]-Bedingung wird verwendet, um einen **Codeblock** auszuführen, wenn die vorhergehende `if`-Bedingung **falsch** ist. 
+>Eine [[else\|else]]-Bedingung wird verwendet, um einen **Codeblock** auszuführen, wenn die vorhergehende `if`-Bedingung **falsch** ist. 
 >Sie bietet eine Alternative und ermöglicht es, verschiedene Aktionen basierend auf den Bedingungen zu definieren.
 >>Wenn die [[02 - RESOURCES/Notes/IF-Bedingung\|if-Bedingung]] nicht erfüllt wird, springt das Programm direkt zum `else`-Codeblock und führt diesen aus.
 
