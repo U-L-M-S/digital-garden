@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2","GFN/LFzq17a"],"updated":"2024-10-29T02:34:55.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2","GFN/LFzq17a"],"updated":"2024-10-29T16:25:22.811+01:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -383,4 +383,81 @@ ___
 >
 >```
 
+>[!example] 
+>[[02 - RESOURCES/Notes/Java Vererbung\|Java Vererbung]] kann sich noch erweitern und eine Child-Klassen in eine Parent-Klasse umzuwandeln.
+>```java
+>class Animal {
+>   void fly() {
+>       System.out.println("This animal cannot fly.");
+>   }
+>
+>   void run() {
+>       System.out.println("This animal cannot run.");
+>   }
+>
+>   void swim() {
+>       System.out.println("This animal cannot swim.");
+>   }
+>}
+>
+>class Ostrich extends Animal {
+>   @Override
+>   void run() {
+>       System.out.println("The bird waddles along the shore.");
+>   }
+>
+>class Duck extends Ostrich {
+>   @Override
+>   void fly() {
+>       System.out.println("The bird flies in the sky.");
+>   }
+>   @Override
+>   void swim() {
+>       System.out.println("The bird swims in the pond.");
+>   }
+>}
+>
+>class Dog extends Animal {
+>   @Override
+>   void run() {
+>       System.out.println("The dog runs quickly in the park.");
+>   }
+>}
+>
+>class Fish extends Animal {
+>   @Override
+>   void swim() {
+>       System.out.println("The fish swims in the water.");
+>   }
+>}
+>
+>
+>public class Main {
+>   public static void main(String[] args) {
+>
+>       Animal dog = new Dog();
+>       dog.run(); // Output: The dog runs quickly in the park.
+>       dog.fly(); // Output: This animal cannot fly.
+>       dog.swim(); // Output: This animal cannot swim.
+>
+>       Animal fish = new Fish();
+>       fish.swim(); // Output: The fish swims in the water.
+>       fish.fly(); // Output: This animal cannot fly.
+>       fish.run(); // Output: This animal cannot run.
+>       
+>       Animal ostrich = new Ostrich();
+>       ostrich.swim(); //This animal cannot swim
+>       ostrich.fly(); //  The bird flies in the sky
+>       ostrich.run(); // The bird waddles along the shore
+>       
+>       Ostrich duck = new Duck();
+>       duck.fly(); // Output: The bird flies in the sky
+>       duck.run(); // Output: The bird waddles along the shore.
+>       duck.swim(); // Output: The bird swims in the pond.
+>   }
+>}
+>```
 
+
+>[!note] https://chatgpt.com/c/67209356-7ca8-8000-95ec-d9c1c880de0b
+>Static Factory Method
