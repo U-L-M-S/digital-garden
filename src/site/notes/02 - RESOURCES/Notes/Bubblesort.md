@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bubblesort/","tags":["code/C","code/java","code/python","code/time-complexity","code/algorithmus"],"noteIcon":"","updated":"2024-10-31T22:13:06.739+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bubblesort/","tags":["code/C","code/java","code/python","code/time-complexity","code/algorithmus"],"noteIcon":"","updated":"2024-10-31T22:40:31.978+01:00"}
 ---
 
 >**Bubblesort** ist ein einfacher, iterativer Sortieralgorithmus, der durch wiederholtes Vergleichen benachbarter Elemente funktioniert. 
 >>Er vertauscht die Elemente, wenn sie in der falschen Reihenfolge stehen. Dieser Vorgang wird wiederholt, bis das Array vollständig sortiert ist.
 
 # [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]]
-- **Best-Case: [[02 - RESOURCES/Notes/O-n-1\|O-n-1]]**  
+- **Best-Case: [[02 - RESOURCES/Notes/O (n)\|O (n)]]**  
 	Das Array ist bereits sortiert, sodass nur eine Durchlauf benötigt wird, um festzustellen, dass keine Vertauschungen notwendig sind.
-- **Worst-Case: [[02 - RESOURCES/Notes/O-n-squared\|O-n-squared]]**  
+- **Worst-Case: [[02 - RESOURCES/Notes/O (n²)\|O (n²)]]**  
 	Das Array ist in umgekehrter Reihenfolge sortiert, was zu n Durchläufen mit n Vergleichen führt.
 
 # Bsp

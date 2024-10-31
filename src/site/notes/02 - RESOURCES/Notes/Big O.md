@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/big-o/","tags":["code/algorithmus","finished"],"noteIcon":"","updated":"2024-10-31T22:35:38.743+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/big-o/","tags":["code/algorithmus","finished"],"noteIcon":"","updated":"2024-10-31T22:40:55.471+01:00"}
 ---
 
 >Notation in der Informatik, die verwendet wird, um die Effizienz von Algorithmen zu beschreiben, insbesondere in Bezug auf ihre Laufzeit oder ihren Speicherbedarf, wenn die Größe der Eingabe wächst. 
@@ -11,11 +11,11 @@ Es gibt insgesamt 9 Möglichkeiten. Diese sind:
 - [[02 - RESOURCES/Notes/O (1)\|O (1)]]
 - [[02 - RESOURCES/Notes/O (log n)\|O (log n)]]
 - [[02 - RESOURCES/Notes/O (√n)\|O (√n)]]
-- [[02 - RESOURCES/Notes/O-n-1\|O-n-1]]
-- [[02 - RESOURCES/Notes/O n log n\|O n log n]]
-- [[02 - RESOURCES/Notes/O-n-squared\|O-n-squared]]
-- [[02 - RESOURCES/Notes/O-n-cubed\|O-n-cubed]]
-- [[02 - RESOURCES/Notes/O 2ⁿ\|O 2ⁿ]]
-- [[02 - RESOURCES/Notes/O-n-exclamation\|O-n-exclamation]]
+- [[02 - RESOURCES/Notes/O (n)\|O (n)]]
+- [[02 - RESOURCES/Notes/O (n log n)\|O (n log n)]]
+- [[02 - RESOURCES/Notes/O (n²)\|O (n²)]]
+- [[02 - RESOURCES/Notes/O (n³)\|O (n³)]]
+- [[02 - RESOURCES/Notes/O (2ⁿ)\|O (2ⁿ)]]
+- [[02 - RESOURCES/Notes/O (n!)\|O (n!)]]
 
 # [[02 - RESOURCES/Notes/Zeitkomplexität analysieren\|Zeitkomplexität analysieren]]

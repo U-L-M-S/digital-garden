@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/quicksort/","tags":["code/C","code/java","code/python","code/time-complexity","code/algorithmus"],"noteIcon":"","updated":"2024-10-31T22:13:06.639+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/quicksort/","tags":["code/C","code/java","code/python","code/time-complexity","code/algorithmus"],"noteIcon":"","updated":"2024-10-31T22:40:31.791+01:00"}
 ---
 
 >Quicksort ist ein effizienter, rekursiver Sortieralgorithmus, der das Prinzip des Teilens und Herrschens anwendet. 
@@ -8,9 +8,9 @@
 
 
 # [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]]
-- Best-Case: [[02 - RESOURCES/Notes/O n log n\|O n log n]]
+- Best-Case: [[02 - RESOURCES/Notes/O (n log n)\|O (n log n)]]
 	Das Pivot-Element teilt das Array optimal in zwei gleich große Hälften.
-- Worst-Case: [[02 - RESOURCES/Notes/O-n-squared\|O(n²)]] 
+- Worst-Case: [[02 - RESOURCES/Notes/O (n²)\|O(n²)]] 
 	Das Pivot-Element ist das kleinste oder größte Element, was zu ungleichen Partitionen führt.
 # Bsp
 ## [[02 - RESOURCES/Notes/Python\|Python]]
