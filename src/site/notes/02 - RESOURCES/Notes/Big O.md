@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/big-o/","tags":["code/algorithmus","finished"],"noteIcon":"","updated":"2024-10-31T23:32:08.244+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/big-o/","tags":["code/algorithmus","finished"],"noteIcon":"","updated":"2024-10-31T23:42:01.841+01:00"}
 ---
 
 >Notation in der Informatik, die verwendet wird, um die Effizienz von Algorithmen zu beschreiben, insbesondere in Bezug auf ihre Laufzeit oder ihren Speicherbedarf, wenn die Größe der Eingabe wächst. 
