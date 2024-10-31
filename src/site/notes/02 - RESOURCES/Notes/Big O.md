@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/big-o/","tags":["code/algorithmus","inProgress"],"noteIcon":"","updated":"2024-10-30T23:22:57.776+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/big-o/","tags":["code/algorithmus","finished"],"noteIcon":"","updated":"2024-10-31T21:19:33.667+01:00"}
 ---
 
 >Notation in der Informatik, die verwendet wird, um die Effizienz von Algorithmen zu beschreiben, insbesondere in Bezug auf ihre Laufzeit oder ihren Speicherbedarf, wenn die Größe der Eingabe wächst. 
@@ -17,3 +17,5 @@ Es gibt insgesamt 9 Möglichkeiten. Diese sind:
 - [[02 - RESOURCES/Notes/O(n³)\|O(n³)]]
 - [[02 - RESOURCES/Notes/O(2ⁿ)\|O(2ⁿ)]]
 - [[02 - RESOURCES/Notes/O(n!)\|O(n!)]]
+
+# [[02 - RESOURCES/Notes/Zeitkomplexität analysieren\|Zeitkomplexität analysieren]]
