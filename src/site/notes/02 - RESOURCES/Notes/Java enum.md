@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-enum/","tags":["code/java"],"noteIcon":"","updated":"2024-10-28T09:51:49.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-enum/","tags":["code/java"],"noteIcon":"","updated":"2024-11-01T23:17:59.496+01:00"}
 ---
 
->Ein `enum` in Java ist ein spezieller Datentyp, der eine Sammlung von Konstanten definiert. 
+>Ein `enum` in [[02 - RESOURCES/Notes/Java\|Java]] ist ein spezieller [[02 - RESOURCES/Notes/Datentyp\|Datentyp]], der eine Sammlung von Konstanten definiert. 
 >Es wird verwendet, um eine feste Anzahl von Werten zu speichern, wie zum Beispiel die Wochentage oder Jahreszeiten.
->> `enum`-Typen sind in Java Klassen und können Methoden und Attribute haben.
+>> `enum`-Typen sind in [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]]n und können [[02 - RESOURCES/Notes/Java Methode\|Java Methode]]n und [[02 - RESOURCES/Notes/Attribut\|Attribut]]e haben.
 
 # Syntax
 ```java
