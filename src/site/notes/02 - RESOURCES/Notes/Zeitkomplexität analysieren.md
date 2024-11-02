@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/zeitkomplexitaet-analysieren/","tags":["code/python","code/algorithmus"],"noteIcon":"","updated":"2024-11-02T12:10:45.429+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/zeitkomplexitaet-analysieren/","tags":["code/python","code/algorithmus"],"noteIcon":"","updated":"2024-11-02T12:19:41.881+01:00"}
 ---
 
 >Die [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] eines Codes gibt an, wie die Laufzeit des [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] mit der Größe der Eingabedaten wächst. Um die [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] zu bestimmen, betrachten wir die Anzahl der Operationen, die der [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] in Abhängigkeit von der Größe der Eingabe ausführt.
@@ -54,8 +54,8 @@ def sum_array(arr):
    - Bei rekursiven Funktionen zählt man die Anzahl der rekursiven Aufrufe. Der Zeitkomplexitätsausdruck ergibt sich oft aus der Rekursionsbeziehung.
 
 3. **Bestimmte Operationen**:
-   - Hinzufügen, Entfernen und Zugreifen auf ein Element in einer Liste oder einem Array sind \( [[02 - RESOURCES/Notes/1. Big O (1)\|1. Big O (1)]] \).
-   - Suchen in einer nicht sortierten Liste hat eine [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] von \( [[02 - RESOURCES/Notes/4. Big O(n)\|4. Big O(n)]] \), während die Suche in einer sortierten Liste mit binärer Suche \( [[02 - RESOURCES/Notes/2. Big O (log n)\|2. Big O (log n)]] \) hat.
+   - Hinzufügen, Entfernen und Zugreifen auf ein Element in einer Liste oder einem Array sind \( [[02 - RESOURCES/Notes/1. Big O(1)\|1. Big O(1)]] \).
+   - Suchen in einer nicht sortierten Liste hat eine [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] von \( [[02 - RESOURCES/Notes/4. Big O(n)\|4. Big O(n)]] \), während die Suche in einer sortierten Liste mit binärer Suche \( [[02 - RESOURCES/Notes/2. Big O(log n)\|2. Big O(log n)]] \) hat.
 
 # Gesamte [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] berechnen
 
