@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-grundlage/","tags":["code/java"],"noteIcon":"","updated":"2024-11-02T15:10:35.617+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-grundlage/","tags":["code/java"],"noteIcon":"","updated":"2024-11-02T22:36:52.291+01:00"}
 ---
 
 
 > Hier lernst du die Syntax der wichtigsten Befehle, um mit der [[02 - RESOURCES/Notes/Java\|Java]]-Sprache umzugehen.
 
-## [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]
+# [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]
 
 So wie bereits gesagt: [[02 - RESOURCES/Notes/Java\|Java]] ist eine [[02 - RESOURCES/Notes/OOP\|Objektorientierte Programmierung]]. Das heißt, alles ist ein Objekt in [[02 - RESOURCES/Notes/Java\|Java]] und muss in einer [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] definiert werden.
 ```java
@@ -19,7 +19,7 @@ public MyClass{
 >[[02 - RESOURCES/Notes/Java klasse\|Java Klasse]]n können miteinander noch Kompositionen eingehen.
 >Aber das lernst du später. Zuerst lass uns die Grundlagen lernen.
 
-## [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]
+# [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]
 
 Wie in jede Computersprache enthält [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n und ihre Syntax is ganz ähnlich wie bei [[00 - PROJECTS/C Sprache\|C Sprache]].
 Also man muss auf die [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]en aufpassen wenn man [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n initialisiert oder deklariert.
@@ -88,7 +88,7 @@ public class MyClass {
 >Das sind die [[02 - RESOURCES/Notes/Referenzdatentyp\|Referenzdatentyp]]en.
 >> Genau gesagt: [[02 - RESOURCES/Notes/String\|String]] ist eine [[02 - RESOURCES/Notes/Klasse\|Klasse]].
 
-## [[02 - RESOURCES/Notes/Java Array\|Java Array]]
+# [[02 - RESOURCES/Notes/Java Array\|Java Array]]
 Es wird benötig wenn man mehrere Werten 
 ```java
 public class ArrayExample {
@@ -105,7 +105,7 @@ public class ArrayExample {
 ```
 >[!note] 
 >Yep... In Java wir müssen ein Objekt erstellen für eine [[02 - RESOURCES/Notes/Java Array\|Java Array]].
-## [[02 - RESOURCES/Notes/Java Bedingung\|Java Bedingung]]
+# [[02 - RESOURCES/Notes/Java Bedingung\|Java Bedingung]]
 [[02 - RESOURCES/Notes/IF-Bedingung\|IF-Bedingung]], [[02 - RESOURCES/Notes/ELSE IF-Bedingung\|ELSE IF-Bedingung]] und [[02 - RESOURCES/Notes/ELSE-Bedingung\|ELSE-Bedingung]] in Java.
 ```java
 public class NumberCheck {
@@ -123,7 +123,7 @@ public class NumberCheck {
 }
 ``` 
 
-## [[02 - RESOURCES/Notes/Java Switch-Case\|Java Switch-Case]]
+# [[02 - RESOURCES/Notes/Java Switch-Case\|Java Switch-Case]]
 Stell dir mal vor, es wären die [[02 - RESOURCES/Notes/Java Bedingung\|Java Bedingung]]en, aber etwas präziser (wenn man mehr als eine [[02 - RESOURCES/Notes/IF-Bedingung\|IF-Bedingung]] hat).
 ```java
 public class Wochentag {
@@ -158,7 +158,7 @@ public class Wochentag {
     }
 }
 ```
-## [[02 - RESOURCES/Notes/Java Loop\|Java Loop]]
+# [[02 - RESOURCES/Notes/Java Loop\|Java Loop]]
 Es gibt die Möglichkeit, einen Codeblock X-mal zu wiederholen.
 ```java
 public class LoopExample {
@@ -185,7 +185,7 @@ public class LoopExample {
 }
 ```
 >[!note] Schleifen sind nützlich, um wiederholte Aufgaben effizient zu erledigen.
-## [[02 - RESOURCES/Notes/Java Methode\|Java Methode]]
+# [[02 - RESOURCES/Notes/Java Methode\|Java Methode]]
 Eine [[02 - RESOURCES/Notes/Java Methode\|Java Methode]] ist ein Block von Code, der eine bestimmte Aufgabe ausführt. Methoden helfen, den Code zu organisieren und wiederverwendbar zu machen.
 ```java
 public class MethodExample {
@@ -201,7 +201,7 @@ public class MethodExample {
 }
 ```
 >[!note] Methoden können Parameter akzeptieren und einen Wert zurückgeben.
-## [[02 - RESOURCES/Notes/Java Static\|Java Static]]
+# [[02 - RESOURCES/Notes/Java Static\|Java Static]]
 Es wird verwendet, um Mitglieder (Variablen und Methoden) einer Klasse als zugehörig zur Klasse selbst zu kennzeichnen, anstatt zu einer Instanz der Klasse.
 (Man kann Variablen und Methoden benutzen ohne ein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] zu generieren).
 ```java

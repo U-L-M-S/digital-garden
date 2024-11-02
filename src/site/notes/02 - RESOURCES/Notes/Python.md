@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/python/","tags":["inProgress","code/python","GFN/LF08"],"noteIcon":"","updated":"2024-08-19T21:42:24.383+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/python/","tags":["inProgress","code/python","GFN/LF08"],"noteIcon":"","updated":"2024-11-02T22:47:32.109+01:00"}
 ---
 
 >Python ist eine vielseitige, hochgradig lesbare Programmiersprache, die sowohl für Einsteiger als auch für erfahrene Entwickler geeignet ist.
@@ -14,23 +14,11 @@ print("Hello World :D")
 ```
 # [[02 - RESOURCES/Notes/Python installieren\|Python installieren]]
 >Wie installiert man [[02 - RESOURCES/Notes/Python\|Python]] auf seinem eigenen Rechner.
-# [[02 - RESOURCES/Notes/Python Variablen\|Python Variablen]]
->[[02 - RESOURCES/Notes/Datentyp\|Datentyp]], Variablen Syntax und wie funktioniert das [[02 - RESOURCES/Notes/Datentyp\|Datentyp]] innerhalb 
->und außerhalb von den Code.
 
+___
 
+# [[02 - RESOURCES/Notes/Python Grundlage\|Python Grundlage]]
 
-
-
-
-
-
-
-
-
-
-
-
-
+___
 
 [[02 - RESOURCES/Notes/Python server\|Python server]]

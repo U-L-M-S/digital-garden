@@ -1,8 +1,50 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-oop/","tags":["code/java","code/OOP"],"noteIcon":"","updated":"2024-11-02T15:49:13.104+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-oop/","tags":["code/java","code/OOP"],"noteIcon":"","updated":"2024-11-02T22:28:46.806+01:00"}
 ---
 
->Jetzt, da du mit den [[02 - RESOURCES/Notes/Java Grundlage\|Java-Grundlage]]n vertraut bist, können wir uns etwas tiefer in die Java-Objektorientierung ([[02 - RESOURCES/Notes/OOP\|OOP]]) vertiefen.
+> Jetzt, da du mit den [[02 - RESOURCES/Notes/Java Grundlage\|Java Grundlage]]n vertraut bist, können wir uns etwas tiefer in die Java-Objektorientierung ([[02 - RESOURCES/Notes/OOP\|OOP]]) vertiefen.
+
+In deinem ersten Java-Code hast du sicherlich `Hello World` auf der Konsole ausgegeben. Schauen wir uns genauer an, was da passiert ist:
+
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+
+In [[02 - RESOURCES/Notes/Java Grundlage\|Java Grundlage]]n lernen wir, dass `main` eine spezielle [[02 - RESOURCES/Notes/Java Methode\|Java Methode]] ist. Es ist der Code-STARTER. Egal, wie groß der Code ist – das Erste, was der Compiler macht, ist, nach `main` zu suchen. Nun... Es ist dir bereits bekannt, was [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]]n sind und dass der gesamte Code in einer [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] abläuft, hier in `HelloWorld`.
+
+Was passiert aber, wenn wir eine Klasse **OHNE** eine `main`-Methode erstellen?
+
+```java
+public class SayHelloWorld {
+    public String getGreeting() {
+        return "Hello, World!";
+    }
+}
+```
+
+Diese [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] können wir nicht direkt ausführen, da sie keine `main`-Methode besitzt. ABER wir können die [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] `SayHelloWorld` in unserer [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] `HelloWorld` importieren, sie als [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] in unserer `main`-Methode instanziieren und verwenden:
+
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        SayHelloWorld hello = new SayHelloWorld();
+        System.out.println(hello.getGreeting());
+    }
+}
+```
+
+>[!note] 
+>Und das ist alles... :)
+> [[02 - RESOURCES/Notes/Java OOP\|Java OOP]] bedeutet nichts anderes, als mit verschiedenen [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]]n zu arbeiten, sie zu verknüpfen und Probleme zu lösen. Natürlich gibt es noch viel mehr zu lernen, aber im Grunde ist das [[02 - RESOURCES/Notes/Java OOP\|Java OOP]].
+
+___
+
 
 # Klassenarten
 
