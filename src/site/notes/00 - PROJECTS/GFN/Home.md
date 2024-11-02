@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","updated":"2024-10-22T12:52:17.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2024-11-02T22:50:53.977+01:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -34,8 +34,11 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 # AP2-relevant
 [[00 - PROJECTS/GFN/AP2/LF10 Benutzerschnittstellen gestalten und entwickeln\|LF10 Benutzerschnittstellen gestalten und entwickeln]]
 [[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]]
+
+# +
 [[00 - PROJECTS/GFN/AP2/LFvt4 Datenbanken und SQL\|LFvt4 Datenbanken und SQL]]
 [[00 - PROJECTS/GFN/AP2/LFzq17a Objektorientierte Programmierung\|LFzq17a Objektorientierte Programmierung]]
+
 ___
 ___
 
