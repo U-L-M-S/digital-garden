@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/big-o/","tags":["code/algorithmus","finished"],"noteIcon":"","updated":"2024-11-02T12:09:35.895+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/big-o/","tags":["code/algorithmus","finished"],"noteIcon":"","updated":"2024-11-02T12:10:45.285+01:00"}
 ---
 
 >Notation in der Informatik, die verwendet wird, um die Effizienz von Algorithmen zu beschreiben, insbesondere in Bezug auf ihre Laufzeit oder ihren Speicherbedarf, wenn die Größe der Eingabe wächst. 
@@ -11,7 +11,7 @@ Es gibt insgesamt 9 Möglichkeiten. Diese sind:
 - [[02 - RESOURCES/Notes/1. Big O (1)\|1. Big O (1)]]
 - [[02 - RESOURCES/Notes/2. Big O (log n)\|2. Big O (log n)]]
 - [[02 - RESOURCES/Notes/3. Big O(√n)\|3. Big O(√n)]]
-- [[02 - RESOURCES/Notes/4. O(n)\|4. O(n)]]
+- [[02 - RESOURCES/Notes/4. Big O(n)\|4. Big O(n)]]
 - [[02 - RESOURCES/Notes/5. Big O(n log n)\|5. Big O(n log n)]]
 - [[02 - RESOURCES/Notes/6. Big O(n²)\|6. Big O(n²)]]
 - [[02 - RESOURCES/Notes/7. Big O(n³)\|7. Big O(n³)]]

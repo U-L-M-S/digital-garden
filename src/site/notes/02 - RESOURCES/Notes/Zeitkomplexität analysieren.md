@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/zeitkomplexitaet-analysieren/","tags":["code/python","code/algorithmus"],"noteIcon":"","updated":"2024-11-02T12:09:06.522+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/zeitkomplexitaet-analysieren/","tags":["code/python","code/algorithmus"],"noteIcon":"","updated":"2024-11-02T12:10:45.429+01:00"}
 ---
 
 >Die [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] eines Codes gibt an, wie die Laufzeit des [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] mit der Größe der Eingabedaten wächst. Um die [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] zu bestimmen, betrachten wir die Anzahl der Operationen, die der [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] in Abhängigkeit von der Größe der Eingabe ausführt.
@@ -39,15 +39,15 @@ def sum_array(arr):
    - Die Schleife läuft \( n \) Mal, wobei \( n \) die Anzahl der Elemente im Array ist.
 
 3. **Bestimme die Dominante**:
-   - Die Anzahl der Operationen ist also proportional zu ( n ), also ( [[02 - RESOURCES/Notes/4. O(n)\|4. O(n)]] ).
+   - Die Anzahl der Operationen ist also proportional zu ( n ), also ( [[02 - RESOURCES/Notes/4. Big O(n)\|4. Big O(n)]] ).
 
 4. **Schreibe die [[02 - RESOURCES/Notes/Big O\|Big O]]-Notation**:
-   - Die [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] von `sum_array` ist ( [[02 - RESOURCES/Notes/4. O(n)\|4. O(n)]] ).
+   - Die [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] von `sum_array` ist ( [[02 - RESOURCES/Notes/4. Big O(n)\|4. Big O(n)]] ).
 
 # Regeln zur Bestimmung der [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]]
 
 1. **Schleifen**:
-   - Eine einfache Schleife von 1 bis \( n \) hat eine [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] von ( [[02 - RESOURCES/Notes/4. O(n)\|4. O(n)]] ).
+   - Eine einfache Schleife von 1 bis \( n \) hat eine [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] von ( [[02 - RESOURCES/Notes/4. Big O(n)\|4. Big O(n)]] ).
    - Verschachtelte Schleifen führen die [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] zu \( O(n^2) \) (z.B. zwei Schleifen, die beide von 1 bis \( n \) laufen).
 
 2. **Rekursion**:
@@ -55,7 +55,7 @@ def sum_array(arr):
 
 3. **Bestimmte Operationen**:
    - Hinzufügen, Entfernen und Zugreifen auf ein Element in einer Liste oder einem Array sind \( [[02 - RESOURCES/Notes/1. Big O (1)\|1. Big O (1)]] \).
-   - Suchen in einer nicht sortierten Liste hat eine [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] von \( [[02 - RESOURCES/Notes/4. O(n)\|4. O(n)]] \), während die Suche in einer sortierten Liste mit binärer Suche \( [[02 - RESOURCES/Notes/2. Big O (log n)\|2. Big O (log n)]] \) hat.
+   - Suchen in einer nicht sortierten Liste hat eine [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] von \( [[02 - RESOURCES/Notes/4. Big O(n)\|4. Big O(n)]] \), während die Suche in einer sortierten Liste mit binärer Suche \( [[02 - RESOURCES/Notes/2. Big O (log n)\|2. Big O (log n)]] \) hat.
 
 # Gesamte [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] berechnen
 
@@ -72,8 +72,8 @@ def example_function(arr):
         print(j)
 ```
 
-- Die [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] für die erste Schleife ist \( [[02 - RESOURCES/Notes/4. O(n)\|4. O(n)]] \) und für die zweite Schleife \( O(n^2) \).
-- **Gesamtzeitkomplexität**: \( [[02 - RESOURCES/Notes/4. O(n)\|4. O(n)]] + O(n^2) = O(n^2) \)
+- Die [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] für die erste Schleife ist \( [[02 - RESOURCES/Notes/4. Big O(n)\|4. Big O(n)]] \) und für die zweite Schleife \( O(n^2) \).
+- **Gesamtzeitkomplexität**: \( [[02 - RESOURCES/Notes/4. Big O(n)\|4. Big O(n)]] + O(n^2) = O(n^2) \)
 
 # Fazit
 
