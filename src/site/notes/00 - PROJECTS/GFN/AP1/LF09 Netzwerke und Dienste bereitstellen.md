@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["GFN/LF09","netzwerk","finished"],"updated":"2024-10-14T16:29:55.958+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["GFN/LF09","netzwerk","finished"],"updated":"2024-11-04T13:01:21.419+01:00"}
 ---
 
 >Dieses Lernfeld ist eine Erweiterung von [[00 - PROJECTS/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]. 
@@ -13,7 +13,7 @@ Andere Themen sowie [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]]n, [[02 - R
 - [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]] muss du in der Lager sein zu wissen wo man es findet.
 - [[02 - RESOURCES/Notes/arp\|arp]] wird nur benutzt um anzuzeigen alle Rechner in das [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]].
 - Über [[02 - RESOURCES/Notes/STP\|STP]] muss du nur wissen, dass es verwendet wird um Loops  (Endlosschleifen) in [[02 - RESOURCES/Notes/Switch\|Switch]]es zu stoppen.
-- Was [[02 - RESOURCES/Notes/PDU\|PDU]] ist und die Informationen was jeder Layer in die [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]] einsetzt ([[02 - RESOURCES/Notes/IPv4 Header\|IPv4 Header]]).
+- Was [[02 - RESOURCES/Notes/PDU\|PDU]] ist und die Informationen was jeder Layer in die [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]] einsetzt ([[IPv5 Header\|IPv5 Header]]).
 
 # II. [[02 - RESOURCES/Notes/VLAN\|VLAN]]s
 ___
