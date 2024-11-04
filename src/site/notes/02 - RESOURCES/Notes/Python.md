@@ -17,7 +17,7 @@ print("Hello World :D")
 
 ___
 
-# [[Python Grundlage\|Python Grundlage]]
+# [[02 - RESOURCES/Notes/Python Grundlage\|Python Grundlage]]
 
 ___
 

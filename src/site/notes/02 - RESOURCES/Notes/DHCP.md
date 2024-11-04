@@ -8,6 +8,6 @@
 >>>[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]-Adresse
 >>>[[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]
 >>>[[02 - RESOURCES/Notes/Gateway\|Gateway]]
->>>[[DNS Server\|DNS Server]]
+>>>[[02 - RESOURCES/Notes/DNS Server\|DNS Server]]
 >
 >Die [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]]-Übertragung passiert über [[02 - RESOURCES/Notes/UDP\|UDP]].

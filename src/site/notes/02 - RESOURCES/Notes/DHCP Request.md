@@ -13,4 +13,4 @@
 >>- [[02 - RESOURCES/Notes/DHCP-Nachricht\|DHCP-Nachricht]]: [[02 - RESOURCES/Notes/DHCPREQUEST\|DHCPREQUEST]] 
 >>- [[02 - RESOURCES/Notes/DHCP\|DHCP]] Options:
 >>	- [[02 - RESOURCES/Notes/Gateway\|Gateway]]
->>	- [[DNS Server\|DNS Server]]
+>>	- [[02 - RESOURCES/Notes/DNS Server\|DNS Server]]
