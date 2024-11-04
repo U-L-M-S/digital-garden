@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/python/","tags":["inProgress","code/python","GFN/LF08"],"noteIcon":"","updated":"2024-11-02T22:47:32.109+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/python/","tags":["inProgress","code/python","GFN/LF08"],"updated":"2024-11-02T22:47:32.000+01:00"}
 ---
 
 >Python ist eine vielseitige, hochgradig lesbare Programmiersprache, die sowohl für Einsteiger als auch für erfahrene Entwickler geeignet ist.
@@ -17,7 +17,7 @@ print("Hello World :D")
 
 ___
 
-# [[02 - RESOURCES/Notes/Python Grundlage\|Python Grundlage]]
+# [[Python Grundlage\|Python Grundlage]]
 
 ___
 

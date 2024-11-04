@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dhcp-prozess/","tags":["algorithmus","netzwerk"],"noteIcon":"","updated":"2024-08-02T02:47:48.463+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dhcp-prozess/","tags":["algorithmus","netzwerk"],"updated":"2024-08-02T02:47:48.000+02:00"}
 ---
 
 >Algorithmus von [[02 - RESOURCES/Notes/DHCP\|DHCP]] zwischen [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]] und jedem Rechner, der neu in das [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] kommt.
@@ -48,7 +48,7 @@
 >>- [[02 - RESOURCES/Notes/DHCP-Nachricht\|DHCP-Nachricht]]: [[02 - RESOURCES/Notes/DHCPOFFER\|DHCPOFFER]] 
 >>- [[02 - RESOURCES/Notes/DHCP\|DHCP]] Options:
 >>	- [[02 - RESOURCES/Notes/Gateway\|Gateway]]
->>	- [[02 - RESOURCES/Notes/DNS Server\|DNS Server]]
+>>	- [[DNS Server\|DNS Server]]
 
 
 </div></div>
@@ -71,7 +71,7 @@
 >>- [[02 - RESOURCES/Notes/DHCP-Nachricht\|DHCP-Nachricht]]: [[02 - RESOURCES/Notes/DHCPREQUEST\|DHCPREQUEST]] 
 >>- [[02 - RESOURCES/Notes/DHCP\|DHCP]] Options:
 >>	- [[02 - RESOURCES/Notes/Gateway\|Gateway]]
->>	- [[02 - RESOURCES/Notes/DNS Server\|DNS Server]]
+>>	- [[DNS Server\|DNS Server]]
 
 </div></div>
 
@@ -96,7 +96,7 @@
 >>- [[02 - RESOURCES/Notes/DHCP-Nachricht\|DHCP-Nachricht]]: [[02 - RESOURCES/Notes/DHCPACK\|DHCPACK]]
 >>- [[02 - RESOURCES/Notes/DHCP\|DHCP]] Options:
 >>	- [[02 - RESOURCES/Notes/Gateway\|Gateway]]
->>	- [[02 - RESOURCES/Notes/DNS Server\|DNS Server]]
+>>	- [[DNS Server\|DNS Server]]
 
 
 </div></div>

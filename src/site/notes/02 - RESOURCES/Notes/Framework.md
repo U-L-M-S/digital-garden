@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/framework/","tags":["code/java/","code/python"],"noteIcon":"","updated":"2024-10-25T11:33:45.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/framework/","tags":["code/java/","code/python"],"updated":"2024-10-25T11:33:45.704+02:00"}
 ---
 
 >Es ist ein Softwaregerüst, das vorgefertigte Bausteine und Regeln zur Verfügung stellt, um Anwendungen effizient zu entwickeln. 

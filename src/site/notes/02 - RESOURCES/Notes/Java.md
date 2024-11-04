@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2","GFN/LFzq17a","UML"],"noteIcon":"","updated":"2024-11-02T15:10:07.213+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2","GFN/LFzq17a","UML"],"updated":"2024-11-02T15:10:07.000+01:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -8,6 +8,6 @@
 # [[02 - RESOURCES/Notes/Java wie funktioniert es\|Java wie funktioniert es]]
 
 ___
-# [[02 - RESOURCES/Notes/Java Grundlage\|Java Grundlage]]
+# [[Java Grundlage\|Java Grundlage]]
 
-# [[02 - RESOURCES/Notes/Java OOP\|Java OOP]]
+# [[Java OOP\|Java OOP]]
