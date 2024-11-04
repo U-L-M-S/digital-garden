@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry","gardenEntry"],"updated":"2024-11-02T22:50:53.000+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry","gardenEntry","gardenEntry"],"updated":"2024-11-02T22:50:53.000+01:00"}
 ---
 
 # Hallo zusammen 😄 
