@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2024-11-05T19:03:51.010+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2024-11-05T19:27:55.284+01:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -56,3 +56,4 @@ Sie wurde von ehrenamtlichen Teilnehmern der [GFN GmbH](https://www.gfn.de) erst
 >
 >Jeder, der interessiert ist, sich zu beteiligen, ist herzlich eingeladen.
 >- [GitHub](https://github.com/U-L-M-S/digital-garden)
+
