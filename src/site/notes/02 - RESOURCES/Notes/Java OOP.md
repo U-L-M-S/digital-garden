@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-oop/","tags":["code/java","code/OOP"],"updated":"2024-11-05T14:43:13.180+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-oop/","tags":["code/java","code/OOP"],"noteIcon":"","updated":"2024-11-05T14:43:13.000+01:00"}
 ---
 
 > Jetzt, da du mit den [[02 - RESOURCES/Notes/Java Grundlage\|Java Grundlage]]n vertraut bist, können wir uns etwas tiefer in die [[02 - RESOURCES/Notes/Java\|Java]]-Objektorientierung ([[02 - RESOURCES/Notes/OOP\|OOP]]) vertiefen.

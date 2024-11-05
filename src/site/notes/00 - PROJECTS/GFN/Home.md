@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"updated":"2024-11-02T22:50:53.000+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2024-11-05T19:03:51.010+01:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -45,7 +45,8 @@ ___
 >[!note] Besonderer Dank an:
 >- [Felix Frommherz](https://github.com/Felix-From)
 >- [Mariella Vigliotti](https://www.facebook.com/mariella1991)
->  
+>- [Meral Karagül](https://meralkaragul.com/)
+> 
 >Für die Unterstützung des Projekts.
 
 

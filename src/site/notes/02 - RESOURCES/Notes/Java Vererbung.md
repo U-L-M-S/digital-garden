@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-vererbung/","tags":["code/OOP/vererbung"],"updated":"2024-10-25T11:26:32.087+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-vererbung/","tags":["code/OOP/vererbung"],"noteIcon":"","updated":"2024-10-25T11:26:32.000+02:00"}
 ---
 
 
