@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml/","tags":["GFN/prüfungsrelevant/AP2","UML","empty"],"noteIcon":"","updated":"2024-11-04T15:50:08.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml/","tags":["GFN/prüfungsrelevant/AP2","UML","empty"],"noteIcon":"","updated":"2024-11-06T10:26:06.373+01:00"}
 ---
 
->Unified Modeling Language
->Es ist eine visuelle Darstellung von Softwarestrukturen, -verhalten oder -architekturen. 
->Es wird verwendet, um Systeme zu modellieren und ihre Komponenten sowie deren Beziehungen zu verdeutlichen. 
->UML-Diagramme helfen bei der Planung und Dokumentation von Softwareprojekten und sind besonders nützlich, um komplexe Systeme verständlich zu machen. 
->>Es gibt **verschiedene Arten von UML-Diagrammen**, wie [[02 - RESOURCES/Notes/UML-Klassendiagramm\|Klassendiagramme]], [[02 - RESOURCES/Notes/UML-Anwendungsfalldiagramm\|Anwendungsfalldiagramme]], Sequenzdiagramme und Zustandsdiagramme, die unterschiedliche Aspekte eines Systems abbilden.
+>**Unified Modeling Language (UML)**  
+>Die UML ist eine visuelle Darstellung von Softwarestrukturen, -verhalten oder -architekturen.
+>Sie wird verwendet, um Systeme zu modellieren und deren Komponenten sowie die Beziehungen zwischen ihnen zu verdeutlichen. UML-Diagramme unterstützen die Planung und Dokumentation von Softwareprojekten und sind besonders nützlich, um komplexe Systeme verständlich zu machen.
 
->[!important] 
->Es ist ein Thema, dass **immer** in der  [[02 - RESOURCES/Notes/IHK\|IHK]]-Prüfung (Teil 2) drankommt.
->Also... lern das :)
+Es gibt verschiedene Arten von UML-Diagrammen, wie [[02 - RESOURCES/Notes/UML-Klassendiagramm\|Klassendiagramme]], [[02 - RESOURCES/Notes/UML-Anwendungsfalldiagramm\|Anwendungsfalldiagramme]], [[02 - RESOURCES/Notes/UML-Anwendungsdiagramm\|UML-Anwendungsdiagramm]], [[02 - RESOURCES/Notes/UML-Sequenzdiagramme\|UML-Sequenzdiagramme]] und [[02 - RESOURCES/Notes/UML-Zustandsdiagramme\|UML-Zustandsdiagramme]], die unterschiedliche Aspekte eines Systems abbilden.
+
+> [!important]  
+> Dieses Thema kommt **immer** in der [[02 - RESOURCES/Notes/IHK\|IHK]]-Prüfung (Teil 2) vor. Also… lerne es gut! :)
