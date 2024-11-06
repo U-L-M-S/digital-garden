@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-oop/","tags":["code/java","code/OOP"],"noteIcon":"","updated":"2024-11-05T14:43:13.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-oop/","tags":["code/java","code/OOP"],"noteIcon":"","updated":"2024-11-06T09:18:59.631+01:00"}
 ---
 
-> Jetzt, da du mit den [[02 - RESOURCES/Notes/Java Grundlage\|Java Grundlage]]n vertraut bist, können wir uns etwas tiefer in die [[02 - RESOURCES/Notes/Java\|Java]]-Objektorientierung ([[02 - RESOURCES/Notes/OOP\|OOP]]) vertiefen.
+> Da du jetzt die [[02 - RESOURCES/Notes/Java Grundlage\|Java Grundlage]]n kennst, tauchen wir tiefer in die objektorientierte Programmierung ([[02 - RESOURCES/Notes/OOP\|OOP]]) von [[02 - RESOURCES/Notes/Java\|Java]] ein.
 
-In deinem ersten [[02 - RESOURCES/Notes/Java\|Java]]-Code hast du sicherlich `Hello World` auf der Konsole ausgegeben. Schauen wir uns genauer an, was da passiert ist:
-
+In deinem ersten [[02 - RESOURCES/Notes/Java\|Java]]-Code hast du wahrscheinlich `Hello World` auf der Konsole ausgegeben. Lass uns anschauen, was hier passiert ist:
 
 ```java
 public class HelloWorld {
@@ -15,9 +14,9 @@ public class HelloWorld {
 }
 ```
 
-In [[02 - RESOURCES/Notes/Java Grundlage\|Java Grundlage]]n lernen wir, dass `main` eine spezielle [[02 - RESOURCES/Notes/Java Methode\|Java Methode]] ist. Es ist der Code-STARTER. Egal, wie groß der Code ist – das Erste, was der [[02 - RESOURCES/Notes/Compiler\|Compiler]] macht, ist, nach `main` zu suchen. Nun... Es ist dir bereits bekannt, was [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]]n sind und dass der gesamte Code in einer [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] abläuft, hier in `HelloWorld`.
+In den [[02 - RESOURCES/Notes/Java Grundlage\|Java Grundlage]]n haben wir gelernt, dass `main` eine spezielle [[02 - RESOURCES/Notes/Java Methode\|Java Methode]] ist – sie ist der Code-STARTER. Egal wie groß das Programm ist, der [[02 - RESOURCES/Notes/Compiler\|Compiler]] sucht immer zuerst nach `main`. Dir ist bereits bekannt, dass Code in einer [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] abläuft, in diesem Fall `HelloWorld`.
 
-Was passiert aber, wenn wir eine [[02 - RESOURCES/Notes/Klasse\|Klasse]] **OHNE** eine `main`-[[02 - RESOURCES/Notes/Methode\|Methode]] erstellen?
+Aber was passiert, wenn wir eine [[02 - RESOURCES/Notes/Klasse\|Klasse]] ohne `main`-[[02 - RESOURCES/Notes/Methode\|Methode]] erstellen?
 
 ```java
 public class SayHelloWorld {
@@ -27,8 +26,7 @@ public class SayHelloWorld {
 }
 ```
 
-Diese [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] können wir nicht direkt ausführen, da sie keine `main`-Methode besitzt. ABER wir können die [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] `SayHelloWorld` in unserer [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] `HelloWorld` importieren, sie als [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] in unserer `main`-[[02 - RESOURCES/Notes/Methode\|Methode]] instanziieren und verwenden:
-
+Diese [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] lässt sich nicht direkt ausführen, da sie keine `main`-Methode hat. ABER wir können `SayHelloWorld` in `HelloWorld` importieren, dort als [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] instanziieren und in der `main`-[[02 - RESOURCES/Notes/Methode\|Methode]] verwenden:
 
 ```java
 public class HelloWorld {
@@ -40,12 +38,12 @@ public class HelloWorld {
 ```
 
 >[!note] 
->Und das ist alles... :)
-> [[02 - RESOURCES/Notes/Java OOP\|Java OOP]] bedeutet nichts anderes, als mit verschiedenen [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]]n zu arbeiten, sie zu verknüpfen und Probleme zu lösen. Natürlich gibt es noch viel mehr zu lernen, aber im Grunde ist das [[02 - RESOURCES/Notes/Java OOP\|Java OOP]].
+>[[02 - RESOURCES/Notes/Java OOP\|Java OOP]] bedeutet im Grunde, mit verschiedenen [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]]n zu arbeiten und diese zu verknüpfen, um Probleme zu lösen. Es gibt natürlich noch viele weitere Details, aber das ist die Basis von [[02 - RESOURCES/Notes/Java OOP\|Java OOP]].
 
 >[!important] 
->Bevor wir weiter lernen lass uns ein Blick auf [[02 - RESOURCES/Notes/Java Static\|Java Static]] werfen.
->Unter wird den gleiche Code wie oben geschrieben, aber `getGreeting` ist jetzt [[02 - RESOURCES/Notes/static\|static]].
+>Bevor wir weiterlernen, werfen wir einen Blick auf [[02 - RESOURCES/Notes/Java Static\|Java Static]].
+>Hier ist derselbe Code wie oben, aber `getGreeting` ist jetzt [[02 - RESOURCES/Notes/static\|static]]:
+
 ```java
 public class SayHelloWorld {
     public static String getGreeting() {
@@ -59,20 +57,19 @@ public class HelloWorld {
 }
 ```
 
-Nun haben wir denselben OUTPUT, jedoch ohne ein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] zu erstellen.
+Jetzt erhalten wir dieselbe Ausgabe, ohne ein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] erstellen zu müssen.
 
 # [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] oder [[02 - RESOURCES/Notes/Java Static\|Java Static]]?
 
->Ob du in [[02 - RESOURCES/Notes/Java\|Java]] eine Instanz eines Objekts oder eine `static`-[[02 - RESOURCES/Notes/Methode\|Methode]] verwenden solltest, hängt vor allem davon ab, wie die Methode auf Daten zugreifen soll und wie flexibel und wiederverwendbar der Code sein soll.
->Schauen wir uns an, wann du was bevorzugen solltest:
+>Ob du in [[02 - RESOURCES/Notes/Java\|Java]] eine Instanz eines Objekts oder eine `static`-[[02 - RESOURCES/Notes/Methode\|Methode]] verwenden solltest, hängt davon ab, wie die Methode auf Daten zugreift und wie flexibel der Code sein muss. Schauen wir uns an, wann was zu bevorzugen ist:
 
 ## Wann verwende ich ein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]]?
 
-Ein Objekt bietet dir die Möglichkeit, Daten individuell für jede Instanz zu speichern und zu verwalten. Das ist ideal, wenn du Informationen pro Instanz speichern musst oder wenn die Methode oder der Zustand der Klasse sich auf das spezifische Objekt beziehen. 
+Ein Objekt ermöglicht dir, Daten individuell für jede Instanz zu speichern. Das ist ideal, wenn die Methode oder der Zustand der Klasse auf ein spezifisches Objekt bezogen ist.
 
 Beispiel:
-- Ein **Konto**-Objekt, das verschiedene Daten wie `kontostand`, `kontoinhaber`, und `kontoNummer` speichert. Jeder Kontoinhaber hat andere Informationen, also macht eine Instanz mehr Sinn.
-  
+- Ein **Konto**-Objekt, das Informationen wie `kontostand`, `kontoinhaber`, und `kontoNummer` speichert. Da jeder Kontoinhaber eigene Daten hat, ist eine Instanz sinnvoll.
+
 ```java
 public class Konto {
     private double kontostand;
@@ -87,14 +84,14 @@ public class Konto {
 }
 ```
 
-Hier können wir mehrere `Konto`-Objekte mit jeweils unterschiedlichem Kontostand erstellen und verwalten.
+Hier können wir mehrere `Konto`-Objekte mit unterschiedlichem Kontostand erstellen.
 
 ## Wann verwende ich eine [[02 - RESOURCES/Notes/Java Static\|Java Static]] Methode?
 
-`static`-Methoden sind besonders dann praktisch, wenn die Methode keine spezifischen Daten von einer Instanz benötigt, sondern allgemeine Berechnungen, Aktionen oder logische Prozesse durchführt. Diese Methoden können direkt über die Klasse aufgerufen werden, ohne dass ein Objekt instanziiert werden muss.
+`static`-Methoden sind nützlich, wenn die Methode keine spezifischen Daten einer Instanz benötigt, sondern allgemeine Berechnungen oder logische Prozesse durchführt. Sie lassen sich direkt über die Klasse aufrufen, ohne dass ein Objekt erstellt werden muss.
 
 Beispiel:
-- Ein `Math`-Helper, der allgemeine mathematische Berechnungen wie `addieren` oder `subtrahieren` durchführt. Da diese Berechnungen unabhängig von einem spezifischen Objekt sind, können sie `static` sein.
+- Ein `Math`-Helper für allgemeine Berechnungen wie `addieren` oder `subtrahieren`. Da diese unabhängig von einem spezifischen Objekt sind, können sie `static` sein.
 
 ```java
 public class MathHelper {
@@ -105,11 +102,12 @@ public class MathHelper {
 ```
 
 ## Entscheidungshilfe
-1. **Objektmethode (Instanzmethode)**: Verwenden, wenn du auf Daten oder Methoden zugreifen willst, die von einer spezifischen Instanz abhängen oder sich auf diese beziehen.
-2. **Static Methode**: Verwenden, wenn keine Instanzdaten benötigt werden und die [[02 - RESOURCES/Notes/Methode\|Methode]] universelle, wiederverwendbare Funktionalität bietet.
+1. **Objektmethode (Instanzmethode)**: Verwende sie, wenn auf Daten oder Methoden einer spezifischen Instanz zugegriffen wird oder diese benötigt werden.
+2. **Static Methode**: Verwende sie, wenn keine Instanzdaten erforderlich sind und die [[02 - RESOURCES/Notes/Methode\|Methode]] universell einsetzbar ist.
 
 >[!note] 
->Einfach gesagt: Wenn der Code sich auf das spezifische **Objekt** bezieht, verwende ein **[[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]]**. Wenn der Code allgemein für alle **Objekte** gleich ist, verwende **[[02 - RESOURCES/Notes/Java Static\|Java Static]]**.
+>Einfach gesagt: Wenn der Code sich auf ein spezifisches **Objekt** bezieht, nutze ein **[[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]]**. Wenn der Code für alle **Objekte** gleich ist, verwende **[[02 - RESOURCES/Notes/Java Static\|Java Static]]**.
+
 
 ___
 
