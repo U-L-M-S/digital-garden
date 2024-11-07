@@ -1,13 +1,51 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/setter-methode/","tags":["code/OOP","code/java"],"noteIcon":"","updated":"2024-10-28T11:06:54.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/setter-methode/","tags":["code/OOP","code/java"],"noteIcon":"","updated":"2024-11-07T11:49:58.696+01:00"}
 ---
 
->Setter Methode ist eine speziell Methode, die in jeder Programmiert Sprache mit [[02 - RESOURCES/Notes/OOP\|OOP]] existiert.
->>Es ist nur da um den Wert von eine Private [[02 - RESOURCES/Notes/Variable\|Variable]] in eine [[02 - RESOURCES/Notes/Klasse\|Klasse]] einzusetzen.
+> Setter-Methode ist eine spezielle Methode, die in jeder Programmiersprache mit [[02 - RESOURCES/Notes/OOP\|OOP]] existiert.  
+>> Sie dient dazu, den Wert einer privaten [[02 - RESOURCES/Notes/Variable\|Variable]] in einer [[02 - RESOURCES/Notes/Klasse\|Klasse]] zu setzen.  
+>> Sie wird oft verwendet, um den Wert anzupassen, nachdem man ein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] bereits mit einem Wert erstellt hat.
 
+```java
+class Auto {
+    // Private Variable
+    private String marke;
+
+    // Konstruktor
+    public Auto(String marke) {
+        this.marke = marke;
+    }
+
+    // Setter Methode
+    public void setMarke(String marke) {
+        this.marke = marke;  // Der Wert der privaten Variable 'marke' wird durch die Methode gesetzt
+    }
+
+    // Getter Methode
+    public String getMarke() {
+        return marke;  // Gibt den Wert der privaten Variable 'marke' zurück
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        // Erstelle ein neues Auto-Objekt mit der Marke "BMW"
+        Auto meinAuto = new Auto("BMW");
+
+        // Ausgabe vor dem Setzen des neuen Wertes
+        System.out.println("Vorher: " + meinAuto.getMarke());  // Gibt "BMW" aus
+
+        // Benutze die Setter-Methode, um die Marke des Autos zu ändern
+        meinAuto.setMarke("Audi");
+
+        // Ausgabe nach dem Setzen des neuen Wertes
+        System.out.println("Nachher: " + meinAuto.getMarke());  // Gibt "Audi" aus
+    }
+}
+```
 # Syntax
 ```java
-setVariableName(String variableName){
+public void setVariableName(String variableName){
 	this.variableName = variableName;
 }
 ```
