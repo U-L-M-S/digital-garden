@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-klassendiagramm/","tags":["GFN/prüfungsrelevant/AP2","UML/Klassendiagramm","empty"],"noteIcon":"","updated":"2024-11-06T18:03:33.281+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-klassendiagramm/","tags":["GFN/prüfungsrelevant/AP2","UML/Klassendiagramm","empty"],"noteIcon":"","updated":"2024-11-07T10:46:42.379+01:00"}
 ---
 
 >Ein **Klassendiagramm** ist ein [[02 - RESOURCES/Notes/UML\|UML]]-Diagramm, das die Struktur eines Systems durch Klassen, ihre Eigenschaften, Methoden und Beziehungen zueinander darstellt. 
@@ -73,3 +73,9 @@ public class Auto {
 
 # [[02 - RESOURCES/Notes/Klasse\|Klasse]]n verbinden
 >Um Klassen miteinander zu verbinden, verwenden wir [[02 - RESOURCES/Notes/UML-Terminologie\|UML-Terminologie]].
+>Das sind die Linien, zwischen die [[02 - RESOURCES/Notes/Klasse\|Klasse]]n.
+
+# [[02 - RESOURCES/Notes/UML-Assoziation\|UML-Assoziation]]
+# [[02 - RESOURCES/Notes/UML-Vererbung\|UML-Vererbung]]
+# [[02 - RESOURCES/Notes/UML-Aggregation\|UML-Aggregation]]
+# [[02 - RESOURCES/Notes/UML-Komposition\|UML-Komposition]]
