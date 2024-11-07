@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-vererbung/","tags":["code/OOP/vererbung"],"noteIcon":"","updated":"2024-10-25T11:26:32.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-vererbung/","tags":["code/OOP/vererbung"],"noteIcon":"","updated":"2024-11-07T14:05:49.165+01:00"}
 ---
 
-
+>In [[02 - RESOURCES/Notes/Java\|Java]] ermöglicht die [[02 - RESOURCES/Notes/UML-Vererbung\|Vererbung]], dass eine [[02 - RESOURCES/Notes/Klasse\|Klasse]] (die _Kindklasse_ oder _Subklasse_) von einer anderen [[02 - RESOURCES/Notes/Klasse\|Klasse]] (der _Elternklasse_ oder _Superklasse_) erbt. 
+>>Die Subklasse übernimmt damit die Attribute und Methoden der Superklasse und kann zusätzliche Funktionen hinzufügen oder vorhandene Methoden überschreiben.
 ```Java
 #PARENT CLASS
 public class Luftfahrzeug {
@@ -103,3 +104,9 @@ Bezeichnung: A310
 Gewicht: 71069.0
 Baujahr: 1995 
 ```
+
+>[!note] 
+>PARENT CLASSES sind als standard [[02 - RESOURCES/Notes/Java abstrakte Klasse\|Java abstrakte Klasse]]n.
+
+>[!summary] 
+>Durch die [[02 - RESOURCES/Notes/UML-Vererbung\|Vererbung]] können allgemeine Eigenschaften und Methoden in der Elternklasse definiert werden, sodass sie nicht in jeder Kindklasse neu geschrieben werden müssen.
