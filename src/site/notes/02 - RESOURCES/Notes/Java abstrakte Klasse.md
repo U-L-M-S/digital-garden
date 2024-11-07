@@ -1,9 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-abstrakte-klasse/","tags":["code/java","code/OOP/vererbung"],"noteIcon":"","updated":"2024-11-07T14:23:17.291+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-abstrakte-klasse/","tags":["code/java","code/OOP/vererbung"],"noteIcon":"","updated":"2024-11-07T14:27:26.665+01:00"}
 ---
 
 >Es ist eine [[02 - RESOURCES/Notes/Java klasse\|Java klasse]], die nicht initialisiert werden kann.
 
+# Syntax
+```java
+abstract class ClassName{
+
+}
+```
+
+# Bsp
 ```java
 // Abstrakte Klasse
 abstract class Tier {
