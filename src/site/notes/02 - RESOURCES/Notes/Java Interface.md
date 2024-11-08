@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-interface/","tags":["code/java","code/OOP/vererbung"],"updated":"2024-11-08T13:44:06.466+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-interface/","tags":["code/java","code/OOP/vererbung","empty"],"updated":"2024-11-08T16:13:12.654+01:00"}
 ---
 
 >Du hast mit Sicherheit bereits gelernt wie [[02 - RESOURCES/Notes/Java Vererbung\|Java Vererbung]] funktioniert und wie man dieser verwendet.
@@ -21,7 +21,18 @@ class Child implements InterfaceName1, InterfaceName2 {
 # Bsp
 ```java
 public interface Prey{
-	
+	void flee()
+}
+public interface Pretator{
+	void hunt()
 }
 
+public class Rabbit implements Prey{
+	@override
+	public void flee(){
+		System.out.println("Der Hase flieht!");
+	}
+}
+
+public class Wolf
 ```
