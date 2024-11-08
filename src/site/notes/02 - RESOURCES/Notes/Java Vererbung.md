@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-vererbung/","tags":["code/OOP/vererbung"],"noteIcon":"","updated":"2024-11-07T14:05:49.165+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-vererbung/","tags":["code/OOP/vererbung"],"updated":"2024-11-08T09:44:00.598+01:00"}
 ---
 
 >In [[02 - RESOURCES/Notes/Java\|Java]] ermöglicht die [[02 - RESOURCES/Notes/UML-Vererbung\|Vererbung]], dass eine [[02 - RESOURCES/Notes/Klasse\|Klasse]] (die _Kindklasse_ oder _Subklasse_) von einer anderen [[02 - RESOURCES/Notes/Klasse\|Klasse]] (der _Elternklasse_ oder _Superklasse_) erbt. 
@@ -110,3 +110,7 @@ Baujahr: 1995
 
 >[!summary] 
 >Durch die [[02 - RESOURCES/Notes/UML-Vererbung\|Vererbung]] können allgemeine Eigenschaften und Methoden in der Elternklasse definiert werden, sodass sie nicht in jeder Kindklasse neu geschrieben werden müssen.
+>
+
+>[!important] 
+>Eine CHILD Klasse kann nur von ein PARENT Klasse vererben. Wenn dieser von zwei oder mehrere [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]n vererben muss. Sollst du [[02 - RESOURCES/Notes/Java Interface\|Java Interface]] verwenden.
