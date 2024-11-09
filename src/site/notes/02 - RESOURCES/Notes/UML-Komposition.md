@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-komposition/","tags":["UML/Klassendiagramm"],"updated":"2024-11-06T18:00:59.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-komposition/","tags":["UML/Klassendiagramm"],"noteIcon":"","updated":"2024-11-06T18:00:59.090+01:00"}
 ---
 
 >[[02 - RESOURCES/Notes/Klasse\|Klasse]]n können nur existieren wenn eine andere Klasse auch existiert.
