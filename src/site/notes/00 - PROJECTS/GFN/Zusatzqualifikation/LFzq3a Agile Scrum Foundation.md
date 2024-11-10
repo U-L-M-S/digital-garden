@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-10T14:17:53.985+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-10T14:27:14.308+01:00"}
 ---
 
-
+>Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Agile Scrum\|Agile Scrum]].
+>> An ende des Kurses wird keine LZK geschrieben. Dieses Lernfeld ist nur da um uns für die [[02 - RESOURCES/Notes/Agile Scrum\|Agile Scrum]]- Zertifikat zu vorbereiten.
+![[2020-Scrum-Guide-German.pdf]]
 
 
 >[!info] 
