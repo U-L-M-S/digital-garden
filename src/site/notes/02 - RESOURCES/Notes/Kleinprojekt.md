@@ -5,7 +5,7 @@ links:
 path: Notes
 created: 2024-02-22 09:31
 ---
-> Es ist ein Unterbegriff von [[02 - RESOURCES/Notes/Projekt\|Projekt]]. Die Kriterien sind, aber minimalistischer als Möglich.
+> Es ist ein Unterbegriff von [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]. Die Kriterien sind, aber minimalistischer als Möglich.
  
 ## Kriterien 
 | Kriterien                    | [[02 - RESOURCES/Notes/Kleinprojekt\|Kleinprojekt]] |

@@ -1,20 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/agile-vorgehensmodelle/","tags":["projektmanagement"],"noteIcon":"","updated":"2024-08-14T22:50:14.664+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/agile-vorgehensmodelle/","tags":["projektmanagement"],"noteIcon":"","updated":"2024-11-10T15:12:35.940+01:00"}
 ---
 
-> Wie der Name schon sagt, es ist eine Vorgehensweise  wie man ein [[02 - RESOURCES/Notes/Projekt\|Projekt]] besser strukturiert.
->>Interaktiver, Inkrementeller, kontinuierlich Verbesserung, kurzfristige [[02 - RESOURCES/Notes/Planungsphase\|Planungsphase]], enge Zusammenarbeit zwischen Team und [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]]n sind Merkmalen davon.
->>>Es ist genau das gegenteil von [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassische Vorgehensmodelle]].
+>**Agile Vorgehensmodelle** sind eine Herangehensweise, um das [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] flexibler und effizienter zu gestalten, indem sie auf kontinuierliche Anpassung und Zusammenarbeit setzen.  
+
+>[!summary]   Sie zeichnen sich durch folgende Merkmale aus:
+>
+>- **Interaktive, inkrementelle Entwicklung**: Projekte werden in kurzen Iterationen (Sprints) entwickelt und angepasst.
+>- **Kontinuierliche Verbesserung**: Nach jeder Iteration wird das Produkt evaluiert, um es weiter zu optimieren.
+>- **Kurzfristige [[02 - RESOURCES/Notes/Planungsphase\|Planungsphase]]**: Planung erfolgt in kleinen Schritten und wird regelmäßig überprüft und angepasst.
+>- **Enge Zusammenarbeit zwischen Team und [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]]n**: Das Team arbeitet eng mit den Stakeholdern zusammen, um deren Bedürfnisse besser zu verstehen und umzusetzen.
+>- **Fokus auf funktionierende [[02 - RESOURCES/Notes/Software\|Software]] und Kundenwert**: Ergebnisse werden regelmäßig in Form von funktionalen Inkrementen präsentiert.
+
+>> Agilität ist das Gegenteil von [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassische Vorgehensmodelle]], da es nicht strikt linear verläuft, sondern Flexibilität und Anpassung während des gesamten Projekts erfordert.
 
 >[!multi-column]
-> 
-> >[!check] Vorteile
-> > - Hohe Anpassungsfähigkeit
-> >- Schnelle Lieferung
-> >- Förderung von Kommunikation
-> >- Förderung von Teamarbeit
-> 
->>[!fail] Nachteile
->> - Große Aufwand für Dokumentation und Kommunikation
->>- Kann zu unklaren Prioritäten und Zielsetzungen führen
-
+>
+> >[!check] **Vorteile**:
+> > - Hohe Anpassungsfähigkeit an Veränderungen
+> > - Schnellere Lieferung von funktionierenden Ergebnissen
+> > - Ständige Förderung von Kommunikation und Feedback
+> > - Verbesserung der Teamarbeit durch regelmäßige Meetings und Kollaboration
+> > - Höhere Kundenzufriedenheit, da regelmäßig auf Bedürfnisse und Wünsche eingegangen wird
+>
+>>[!fail] **Nachteile**:
+>> - Hoher Aufwand für Dokumentation und Kommunikation, vor allem bei größeren Teams
+>> - Mögliche Unklarheit bei Prioritäten und Zielsetzungen, wenn die Anforderungen nicht klar definiert sind
+>> - Gefahr der Überforderung durch ständige Anpassungen und Änderungen
+>> - Nicht immer ideal für Projekte mit festen, unveränderbaren Anforderungen und Zeitrahmen
