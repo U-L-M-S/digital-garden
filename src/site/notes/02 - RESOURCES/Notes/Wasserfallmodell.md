@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wasserfallmodell/","tags":["projektmanagement"],"noteIcon":"","updated":"2024-11-10T15:57:15.358+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wasserfallmodell/","tags":["projektmanagement"],"noteIcon":"","updated":"2024-11-10T16:00:06.400+01:00"}
 ---
 
 
 >Es ist eine Art von [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]].
->>Genauer gesagt handelt es sich um ein [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassische Vorgehensmodelle]].
+>>Genauer gesagt handelt es sich um ein [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassisches Vorgehensmodelle]].
 
 >[!summary] 
 >Das [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]] wird in 5~6 Phasen unterteilt.
