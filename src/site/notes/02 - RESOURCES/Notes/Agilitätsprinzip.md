@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/agilitaetsprinzip/","tags":["projektmanagement/vorgehensmodell/agile","BWL"],"noteIcon":"","updated":"2024-11-11T21:20:01.105+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/agilitaetsprinzip/","tags":["projektmanagement/vorgehensmodell/agile","BWL"],"noteIcon":"","updated":"2024-11-11T21:30:21.785+01:00"}
 ---
 
 >Es ist die Fähigkeit eines [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]s, Entscheidungen flexibel, kreativ, [[02 - RESOURCES/Notes/dynamic\|dynamisch]] und mit Freude zu treffen, um **schneller** und **flexibler** auf Kundenanforderungen eingehen zu können.
 >>Somit wird Kundenfeedback in vielen Prozessen essenziell für die Entwicklung des Endprodukts.
 
 # Ziele
->Dieser sind die Ziele des [[02 - RESOURCES/Notes/Agilitätsprinzip\|Agilitätsprinzip]].
+>Diese sind die 4 Hauptzielen des [[02 - RESOURCES/Notes/Agilitätsprinzip\|Agilitätsprinzip]].
 
 ## 1. Zusammenarbeit mit dem Kunden
 >Durch regelmäßiges Kundenfeedback und kontinuierliche Anpassungen wird die Produktentwicklung verbessert.
@@ -17,3 +17,6 @@
 >Die Förderung von Zusammenarbeit und Kommunikation innerhalb des Teams ist entscheidend, um die besten Lösungen zu entwickeln.
 ## 4. Reagieren auf Veränderung
 >[[02 - RESOURCES/Notes/agile Organisation\|agile Organisation]]en passen sich flexibel an Veränderungen im Markt, bei den Anforderungen oder in der Technologie an, um stets relevant und wettbewerbsfähig zu bleiben.
+
+
+Natürlich 
