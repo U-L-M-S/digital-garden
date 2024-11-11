@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"updated":"2024-11-11T16:22:49.149+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-11T21:10:02.988+01:00"}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Agile Scrum\|Agile Scrum]].
@@ -8,7 +8,13 @@
 [[ASF Präsentation v3.0.pdf]]
 
 # 1. Das Agile Manifest
->Wir beginnen das Thematik mit die Brutal Information, dass weniger als $\frac{1}{4}$ von jeder Softwareprojekt erfolggreich abgeschlossen wird.
+>Wir beginnen das Thema mit der brutalen Information, dass weniger als $\frac{1}{4}$ aller Softwareprojekte erfolgreich abgeschlossen werden.
+
+Der Grund dafür ist, dass viele [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] das [[02 - RESOURCES/Notes/Agilitätsprinzip\|Agilitätsprinzip]] nicht verstehen oder nicht richtig in ihrer Arbeitskultur einsetzen.
+
+>[!summary] Kapitelzusammenfassung  
+>In diesem Kapitel sollst du verstehen, was das [[02 - RESOURCES/Notes/Agilitätsprinzip\|Agilitätsprinzip]] ist und wie es in einer [[02 - RESOURCES/Notes/agile Organisation\|agile Organisation]] funktioniert.
+
 
 ## Die 4 Werte
 
