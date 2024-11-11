@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-vererbung/","tags":["UML/Klassendiagramm"],"noteIcon":"","updated":"2024-11-06T17:47:39.291+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-vererbung/","tags":["UML/Klassendiagramm"],"updated":"2024-11-06T17:47:39.000+01:00"}
 ---
 
 >Entweder ein [[02 - RESOURCES/Notes/Attribut\|Attribut]] oder [[02 - RESOURCES/Notes/Methode\|Methode]] wird geerbt von eine Klasse zu die andere.
