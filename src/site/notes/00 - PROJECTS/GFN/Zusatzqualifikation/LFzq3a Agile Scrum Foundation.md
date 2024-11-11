@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"updated":"2024-11-11T15:26:13.919+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"updated":"2024-11-11T16:22:49.149+01:00"}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Agile Scrum\|Agile Scrum]].
@@ -8,7 +8,9 @@
 [[ASF Präsentation v3.0.pdf]]
 
 # 1. Das Agile Manifest
->Wir beginnen das Thematik mit die Brutal Information, dass weniger als $\frac{1}{4}$ von jeder Softwareprojekt erfolggreich abgeschlossen wird
+>Wir beginnen das Thematik mit die Brutal Information, dass weniger als $\frac{1}{4}$ von jeder Softwareprojekt erfolggreich abgeschlossen wird.
+
+## Die 4 Werte
 
 >[!info] 
 >Diese Zusammenfassung basiert auf den Materialien von Frau [Gote Alexandra Himmelfreundpointner](https://www.credly.com/users/gote-alexandra-himmelfreundpointner).  
