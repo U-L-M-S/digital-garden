@@ -1,15 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"updated":"2024-11-11T14:32:06.442+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"updated":"2024-11-11T15:26:13.919+01:00"}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Agile Scrum\|Agile Scrum]].
 >> An ende des Kurses wird keine LZK geschrieben. Dieses Lernfeld ist nur da um uns für die [[02 - RESOURCES/Notes/Agile Scrum\|Agile Scrum]]- Zertifikat zu vorbereiten.
-![[2020-Scrum-Guide-German.pdf]]
+[[2020-Scrum-Guide-German.pdf]]
+[[ASF Präsentation v3.0.pdf]]
 
-![[ASF Präsentation v3.0.pdf]]
+# 1. Das Agile Manifest
+>Wir beginnen das Thematik mit die Brutal Information, dass weniger als $\frac{1}{4}$ von jeder Softwareprojekt erfolggreich abgeschlossen wird
 
 >[!info] 
 >Diese Zusammenfassung basiert auf den Materialien von Frau [Gote Alexandra Himmelfreundpointner](https://www.credly.com/users/gote-alexandra-himmelfreundpointner).  
 >Die Informationen und Konzepte wurden aus den von ihm bereitgestellten Lehrunterlagen und Vorlesungen entnommen. 
->Alle Bilder, die hier gepostet wurden, wurden in meiner eigenen Umgebung erstellt, stammen aus dem Buch [Westermann](https://www.westermann.de/reihe/ITBERUF2020/IT-Berufe?a=1) oder aus den PDF-Präsentationen von Frau [Gote Alexandra Himmelfreundpointner](https://www.credly.com/users/gote-alexandra-himmelfreundpointner).  
+>Alle Bilder, die hier gepostet wurden, wurden in meiner eigenen Umgebung erstellt, stammen aus [Scrum Guides](https://scrumguides.org/) oder aus den PDF-Präsentationen von Frau [Gote Alexandra Himmelfreundpointner](https://www.credly.com/users/gote-alexandra-himmelfreundpointner).  
 >Mein Ziel war es, die wesentlichen Punkte zusammenzufassen und die Kerninhalte verständlich darzustellen.
