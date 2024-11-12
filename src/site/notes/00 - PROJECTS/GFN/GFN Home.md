@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry","gardenEntry"],"updated":"2024-11-12T12:17:26.201+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"updated":"2024-11-12T13:06:55.301+01:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -14,7 +14,6 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 >[!important] 
 >Dokumente wie PDF, World usw (Textdokumente) 
 >werden hier nicht unterstützt und somit werden sie nicht angezeigt.
-
 
 ---
 # AP1-relevant:
