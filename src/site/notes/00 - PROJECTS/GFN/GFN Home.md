@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"updated":"2024-11-10T14:16:12.000+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"updated":"2024-11-12T12:17:26.201+01:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -18,30 +18,30 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 
 ---
 # AP1-relevant:
-[[00 - PROJECTS/GFN/AP1/LF01 Das Unternehmen und die eigene Rolle im Betrieb\|LF01 Das Unternehmen und die eigene Rolle im Betrieb]]
-[[00 - PROJECTS/GFN/AP1/LF02 Arbeitsplatz nach Kundenwunsch ausstatten\|LF02 Arbeitsplatz nach Kundenwunsch ausstatten]] 
-[[00 - PROJECTS/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]] 
-[[00 - PROJECTS/GFN/AP1/LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen\|LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen]] 
-[[00 - PROJECTS/GFN/AP1/LF05 Software zur Verwaltung von Daten anpassen\|LF05 Software zur Verwaltung von Daten anpassen]] 
-[[00 - PROJECTS/GFN/AP1/LF06 Serviceanfragen bearbeiten\|LF06 Serviceanfragen bearbeiten]]
+- [[00 - PROJECTS/GFN/AP1/LF01 Das Unternehmen und die eigene Rolle im Betrieb\|LF01 Das Unternehmen und die eigene Rolle im Betrieb]]
+- [[00 - PROJECTS/GFN/AP1/LF02 Arbeitsplatz nach Kundenwunsch ausstatten\|LF02 Arbeitsplatz nach Kundenwunsch ausstatten]] 
+- [[00 - PROJECTS/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]] 
+- [[00 - PROJECTS/GFN/AP1/LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen\|LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen]] 
+- [[00 - PROJECTS/GFN/AP1/LF05 Software zur Verwaltung von Daten anpassen\|LF05 Software zur Verwaltung von Daten anpassen]] 
+- [[00 - PROJECTS/GFN/AP1/LF06 Serviceanfragen bearbeiten\|LF06 Serviceanfragen bearbeiten]]
 
 >[!note] Die API1-Prüfung ist dafür bekannt, die Lernfelder LF1 bis LF6 abzudecken. Alles andere ist nur ein "Nice-to-Have"-Inhalt.
 
-[[00 - PROJECTS/GFN/AP1/LF07 Cyber-physische Systeme ergänzen\|LF07 Cyber-physische Systeme ergänzen]]
-[[00 - PROJECTS/GFN/AP1/LF08 Daten systemübergreifend bereitstellen\|LF08 Daten systemübergreifend bereitstellen]]
-[[00 - PROJECTS/GFN/AP1/LF09 Netzwerke und Dienste bereitstellen\|LF09 Netzwerke und Dienste bereitstellen]]
+- [[00 - PROJECTS/GFN/AP1/LF07 Cyber-physische Systeme ergänzen\|LF07 Cyber-physische Systeme ergänzen]]
+- [[00 - PROJECTS/GFN/AP1/LF08 Daten systemübergreifend bereitstellen\|LF08 Daten systemübergreifend bereitstellen]]
+- [[00 - PROJECTS/GFN/AP1/LF09 Netzwerke und Dienste bereitstellen\|LF09 Netzwerke und Dienste bereitstellen]]
 
 # AP2-relevant
-[[00 - PROJECTS/GFN/AP2/LF10 Benutzerschnittstellen gestalten und entwickeln\|LF10 Benutzerschnittstellen gestalten und entwickeln]]
-[[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]]
+- [[00 - PROJECTS/GFN/AP2/LF10 Benutzerschnittstellen gestalten und entwickeln\|LF10 Benutzerschnittstellen gestalten und entwickeln]]
+- [[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]]
 
 # +
-[[00 - PROJECTS/GFN/+/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]]
-[[00 - PROJECTS/GFN/+/LFvt4 Datenbanken und SQL\|LFvt4 Datenbanken und SQL]]
-[[00 - PROJECTS/GFN/+/LFzq17a Objektorientierte Programmierung\|LFzq17a Objektorientierte Programmierung]]
+- [[00 - PROJECTS/GFN/+/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]]
+- [[00 - PROJECTS/GFN/+/LFvt4 Datenbanken und SQL\|LFvt4 Datenbanken und SQL]]
+- [[00 - PROJECTS/GFN/+/LFzq17a Objektorientierte Programmierung\|LFzq17a Objektorientierte Programmierung]]
 
 # Zusatzqualifikation
-[[00 - PROJECTS/GFN/Zusatzqualifikation/LFzq3a Agile Scrum Foundation\|LFzq3a Agile Scrum Foundation]]
+- [[00 - PROJECTS/GFN/Zusatzqualifikation/LFzq3a Agile Scrum Foundation\|LFzq3a Agile Scrum Foundation]]
 
 
 ___
