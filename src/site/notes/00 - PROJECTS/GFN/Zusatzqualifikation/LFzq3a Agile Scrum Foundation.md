@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"updated":"2024-11-12T16:30:48.392+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"updated":"2024-11-13T08:44:29.715+01:00"}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Agile Scrum\|Agile Scrum]].
 >> An ende des Kurses wird keine LZK geschrieben. Dieses Lernfeld ist nur da um uns für die [[02 - RESOURCES/Notes/Agile Scrum\|Agile Scrum]]- Zertifikat zu vorbereiten.
 [[2020-Scrum-Guide-German.pdf]]
-[[ASF Präsentation v3.0.pdf]]
+![[ASF Präsentation v3.0.pdf]]
 
 # 1. Das Agile Manifest
 >Wir beginnen das Thema mit der brutalen Information, dass weniger als $\frac{1}{4}$ aller Softwareprojekte erfolgreich abgeschlossen werden.
