@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"updated":"2024-11-14T09:02:52.778+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"updated":"2024-11-14T16:14:11.278+01:00"}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Agile Scrum\|Agile Scrum]].
@@ -16,7 +16,10 @@ Der Grund dafür ist, dass viele [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen
 >In diesem Kapitel sollst du verstehen, was das [[02 - RESOURCES/Notes/Agilitätsprinzip\|Agilitätsprinzip]] ist und wie es in einer [[02 - RESOURCES/Notes/agile Organisation\|agile Organisation]] funktioniert.
 
 
-# Agiles Mindset
+# 2. Agiles Mindset
+
+
+
 
 >[!info] 
 >Diese Zusammenfassung basiert auf den Materialien von Frau [Gote Alexandra Himmelfreundpointner](https://www.credly.com/users/gote-alexandra-himmelfreundpointner).  
