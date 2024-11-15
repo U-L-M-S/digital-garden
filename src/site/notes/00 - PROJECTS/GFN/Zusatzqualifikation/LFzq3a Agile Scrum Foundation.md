@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"updated":"2024-11-15T13:17:18.033+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-16T00:15:04.429+01:00"}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Agile Scrum\|Agile Scrum]].
@@ -17,8 +17,12 @@ Der Grund dafür ist, dass viele [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen
 
 
 # 2. Agiles Mindset
-[[02 - RESOURCES/Notes/VUCA\|VUCA]]
+Wir alle leben in einer [[02 - RESOURCES/Notes/VUCA\|VUCA]]-Welt, das heißt, Unternehmen müssen sich schnell anpassen, um überhaupt überleben zu können.  
 
+Standardmäßig werden [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassische Vorgehensmodelle]] wie das [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]] verwendet. In der IT-Welt hingegen kommen häufig die [[02 - RESOURCES/Notes/Agilitätsprinzip\|Agilitätsprinzip]]en zum Einsatz, um Risiken zu minimieren, sich schnell an Kundenwünsche anzupassen und iterativ sowie inkrementell zu arbeiten.  
+
+Mit anderen Worten: Die Phasen des [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassische Vorgehensmodelle]]s, die im [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]] nacheinander durchlaufen werden, laufen bei agilen Ansätzen nicht über das gesamte Projekt hinweg, sondern werden in kleine Einheiten ([[02 - RESOURCES/Notes/Sprint\|Sprint]]s) aufgeteilt. In jedem [[02 - RESOURCES/Notes/Sprint\|Sprint]] durchlaufen die Phasen (Analyse, Design, Entwicklung, Test und Rollout), die es auch im [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]] gibt, mehrfach denselben Ablauf.
+![LFzq3a Agile Scrum Foundation-20241116001502595.png](/img/user/02%20-%20RESOURCES/Files/LFzq3a%20Agile%20Scrum%20Foundation-20241116001502595.png)
 
 
 
