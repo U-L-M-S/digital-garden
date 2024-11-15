@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"updated":"2024-11-14T16:14:11.278+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"updated":"2024-11-14T22:30:04.000+01:00"}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Agile Scrum\|Agile Scrum]].
@@ -17,6 +17,7 @@ Der Grund dafür ist, dass viele [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen
 
 
 # 2. Agiles Mindset
+
 
 
 
