@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2","GFN/LFzq17a","UML"],"noteIcon":"","updated":"2024-11-18T21:42:21.478+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["code/java","GFN/prüfungsrelevant/AP2","GFN/LFzq17a","UML"],"noteIcon":"","updated":"2024-11-18T21:42:42.078+01:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
@@ -12,5 +12,6 @@ ___
 
 # [[02 - RESOURCES/Notes/Java OOP\|Java OOP]]
 
-[[00 - PROJECTS/CSharp\|C#]]
-das ist ein T
+asdas dasdas da
+[[00 - PROJECTS/CSharp\|C#]] Text after link :)
+das ist ein Test
