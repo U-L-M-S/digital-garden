@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-grundlage/","tags":["code/java"],"noteIcon":"","updated":"2024-11-02T22:36:52.291+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-grundlage/","tags":["code/java"],"noteIcon":"","updated":"2024-11-18T21:34:33.938+01:00"}
 ---
 
 
-> Hier lernst du die Syntax der wichtigsten Befehle, um mit der [[02 - RESOURCES/Notes/Java\|Java]]-Sprache umzugehen.
+> Hier findest du die wichtigsten Java-Syntaxregeln, um die Sprache effektiv zu nutzen.
 
 # [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]
 

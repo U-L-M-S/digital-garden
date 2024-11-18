@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-18T19:10:39.848+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-18T20:12:41.655+01:00"}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Agile Scrum\|Agile Scrum]].
@@ -7,6 +7,7 @@
 ![[ASF Präsentation v3.0.pdf]]
 
 # 1. Das Agile Manifest
+___
 >Wir beginnen das Thema mit der brutalen Information, dass weniger als $\frac{1}{4}$ aller Softwareprojekte erfolgreich abgeschlossen werden.
 
 Der Grund dafür ist, dass viele [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] das [[02 - RESOURCES/Notes/Agilitätsprinzip\|Agilitätsprinzip]] nicht verstehen oder nicht richtig in ihrer Arbeitskultur einsetzen.
@@ -16,6 +17,7 @@ Der Grund dafür ist, dass viele [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen
 
 
 # 2. Agiles Mindset
+___
 Wir alle leben in einer [[02 - RESOURCES/Notes/VUCA\|VUCA]]-Welt, das heißt, Unternehmen müssen sich schnell anpassen, um überhaupt überleben zu können.  
 
 Standardmäßig werden [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassische Vorgehensmodelle]] wie das [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]] verwendet. In der IT-Welt hingegen kommen häufig die [[02 - RESOURCES/Notes/Agilitätsprinzip\|Agilitätsprinzip]]en zum Einsatz, um Risiken zu minimieren, sich schnell an Kundenwünsche anzupassen und iterativ sowie inkrementell zu arbeiten.  
