@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-17T21:06:50.705+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-18T19:10:39.848+01:00"}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Agile Scrum\|Agile Scrum]].
@@ -22,6 +22,8 @@ Standardmäßig werden [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klass
 
 Mit anderen Worten: Die Phasen des [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassische Vorgehensmodelle]]s, die im [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]] nacheinander durchlaufen werden, laufen bei agilen Ansätzen nicht über das gesamte Projekt hinweg, sondern werden in kleine Einheiten ([[02 - RESOURCES/Notes/Sprint\|Sprint]]s) aufgeteilt. In jedem [[02 - RESOURCES/Notes/Sprint\|Sprint]] durchlaufen die Phasen (Analyse, Design, Entwicklung, Test und Rollout), die es auch im [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]] gibt, mehrfach denselben Ablauf.
 ![LFzq3a Agile Scrum Foundation-20241116001502595.png](/img/user/02%20-%20RESOURCES/Files/LFzq3a%20Agile%20Scrum%20Foundation-20241116001502595.png)
+
+
 
 
 
