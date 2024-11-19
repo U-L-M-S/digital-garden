@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-18T20:12:41.655+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-19T20:33:08.962+01:00"}
 ---
 
->Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Agile Scrum\|Agile Scrum]].
->> An ende des Kurses wird keine LZK geschrieben. Dieses Lernfeld ist nur da um uns für die [[02 - RESOURCES/Notes/Agile Scrum\|Agile Scrum]]- Zertifikat zu vorbereiten.
+>Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Scrum\|Scrum]].
+>> An ende des Kurses wird keine LZK geschrieben. Dieses Lernfeld ist nur da um uns für die [[02 - RESOURCES/Notes/Scrum\|Scrum]]- Zertifikat zu vorbereiten.
 ![[ASF Präsentation v3.0.pdf]]
 
 # 1. Das Agile Manifest
@@ -18,13 +18,27 @@ Der Grund dafür ist, dass viele [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen
 
 # 2. Agiles Mindset
 ___
-Wir alle leben in einer [[02 - RESOURCES/Notes/VUCA\|VUCA]]-Welt, das heißt, Unternehmen müssen sich schnell anpassen, um überhaupt überleben zu können.  
+>Wir alle leben in einer [[02 - RESOURCES/Notes/VUCA\|VUCA]]-Welt, das heißt, [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] müssen sich schnell anpassen, um überhaupt überleben zu können.  
 
 Standardmäßig werden [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassische Vorgehensmodelle]] wie das [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]] verwendet. In der IT-Welt hingegen kommen häufig die [[02 - RESOURCES/Notes/Agilitätsprinzip\|Agilitätsprinzip]]en zum Einsatz, um Risiken zu minimieren, sich schnell an Kundenwünsche anzupassen und iterativ sowie inkrementell zu arbeiten.  
 
 Mit anderen Worten: Die Phasen des [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassische Vorgehensmodelle]]s, die im [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]] nacheinander durchlaufen werden, laufen bei agilen Ansätzen nicht über das gesamte Projekt hinweg, sondern werden in kleine Einheiten ([[02 - RESOURCES/Notes/Sprint\|Sprint]]s) aufgeteilt. In jedem [[02 - RESOURCES/Notes/Sprint\|Sprint]] durchlaufen die Phasen (Analyse, Design, Entwicklung, Test und Rollout), die es auch im [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]] gibt, mehrfach denselben Ablauf.
 ![LFzq3a Agile Scrum Foundation-20241116001502595.png](/img/user/02%20-%20RESOURCES/Files/LFzq3a%20Agile%20Scrum%20Foundation-20241116001502595.png)
+# 3. [[02 - RESOURCES/Notes/Scrum\|Scrum]] Grundlagen
+___  
+>[[02 - RESOURCES/Notes/Scrum\|Scrum]] ist ein leichtgewichtiges Rahmenwerk, das entwickelt wurde, um Menschen, Teams und Organisationen dabei zu helfen, durch adaptive Lösungen Wert für komplexe Probleme zu schaffen. 
+>>Es kombiniert [[02 - RESOURCES/Notes/Empirie\|Empirie]] und [[02 - RESOURCES/Notes/Lean Thinking\|Lean Thinking]], um Vorhersagbarkeit zu optimieren und Risiken zu minimieren.  
 
+Das Rahmenwerk basiert auf drei Säulen:  
+- **Transparenz**: Alle Aspekte des Prozesses müssen <mark style="background: #BBFABBA6;">sichtbar und verständlich</mark> sein, sowohl für das <mark style="background: #BBFABBA6;">Team (die Entwickler)</mark> als auch für die [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]].  
+- **Überprüfung**: [[02 - RESOURCES/Notes/Scrum\|Scrum]]-Events erlauben eine <mark style="background: #BBFABBA6;">regelmäßige Überprüfung des Fortschritts</mark> und der <mark style="background: #BBFABBA6;">Prozesse</mark>.  
+- **Anpassung**: Erkenntnisse aus den Überprüfungen führen zu<mark style="background: #BBFABBA6;"> kontinuierlichen Verbesserungen</mark>.  
+
+Die Werte von [[02 - RESOURCES/Notes/Scrum\|Scrum]] – **Commitment**, **Fokus**, **Offenheit**, **Respekt** und **Mut** – unterstützen die Umsetzung dieser Säulen in der täglichen Arbeit.  
+
+
+>[!summary] Kapitelzusammenfassung  
+>In diesem Kapitel lernst du, wie [[02 - RESOURCES/Notes/Scrum\|Scrum]] funktioniert und warum es so effektiv für die Zusammenarbeit in Teams und komplexe Projekte ist.
 
 
 

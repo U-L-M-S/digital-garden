@@ -1,8 +1,37 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/methode/","tags":["code/OOP"],"noteIcon":"","updated":"2024-10-25T11:26:03.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/methode/","tags":["code/OOP","projektmanagement"],"noteIcon":"","updated":"2024-11-19T20:28:38.004+01:00"}
 ---
 
-> Eine Methode ist eine [[02 - RESOURCES/Notes/Funktion\|Funktion]], die innerhalb einer [[02 - RESOURCES/Notes/Klasse\|Klasse]] definiert ist und auf Instanzen dieser [[02 - RESOURCES/Notes/Klasse\|Klasse]] angewendet werden kann. [[02 - RESOURCES/Notes/Methode\|Methode]]n haben Zugriff auf die [[Daten\|Daten]] der [[02 - RESOURCES/Notes/Klasse\|Klasse]] und können diese manipulieren oder verwenden, um bestimmte Operationen auszuführen.
+>Eine **Methode** ist ein systematischer, geordneter und oft wiederholbarer Ansatz, um ein bestimmtes Ziel zu erreichen oder ein Problem zu lösen. Sie beschreibt den Weg, den man geht, um eine Aufgabe zu erledigen, und umfasst eine Reihe von Schritten oder Handlungen, die in einer bestimmten Reihenfolge ausgeführt werden.
+
+# Merkmale einer Methode
+- **Zielorientiert**: Eine Methode verfolgt ein spezifisches Ziel oder Ergebnis.
+- **Strukturiert**: Sie besteht aus klar definierten Schritten oder Phasen.
+- **Wiederholbar**: Methoden können in ähnlichen Situationen immer wieder verwendet werden.
+- **Analytisch**: Sie basiert oft auf Überlegungen und Analysen, um effizient und zielgerichtet zu arbeiten.
+
+# Bsp
+Nehmen wir das Beispiel einer **mathematischen Methode**, um eine Gleichung zu lösen:
+- Ziel: Die Unbekannte in der Gleichung finden.
+- Methode: 
+  1. Die Gleichung nach der Unbekannten umstellen.
+  2. Die Operationen durchführen (z. B. beide Seiten der Gleichung mit der gleichen Zahl multiplizieren).
+  3. Die Lösung überprüfen.
+
+Ein anderes Beispiel könnte die **Wissenschaftsmethode** sein, um ein Experiment durchzuführen:
+- Ziel: Eine Hypothese testen.
+- Methode:
+  1. Eine Fragestellung aufstellen.
+  2. Eine Hypothese formulieren.
+  3. Ein Experiment durchführen.
+  4. Ergebnisse sammeln und analysieren.
+  5. Schlussfolgerungen ziehen.
+
+Zusammengefasst ist eine Methode also der Plan oder der Prozess, den man befolgt, um ein Ziel auf eine systematische und nachvollziehbare Weise zu erreichen.
+
+___
+
+>In die Programmierung eine Methode ist eine [[02 - RESOURCES/Notes/Funktion\|Funktion]], die innerhalb einer [[02 - RESOURCES/Notes/Klasse\|Klasse]] definiert ist und auf Instanzen dieser [[02 - RESOURCES/Notes/Klasse\|Klasse]] angewendet werden kann. [[02 - RESOURCES/Notes/Methode\|Methode]]n haben Zugriff auf die [[Daten\|Daten]] der [[02 - RESOURCES/Notes/Klasse\|Klasse]] und können diese manipulieren oder verwenden, um bestimmte Operationen auszuführen.
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/java-methode/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
