@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-19T20:33:08.962+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-19T20:34:54.827+01:00"}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Scrum\|Scrum]].
@@ -36,6 +36,7 @@ Das Rahmenwerk basiert auf drei Säulen:
 
 Die Werte von [[02 - RESOURCES/Notes/Scrum\|Scrum]] – **Commitment**, **Fokus**, **Offenheit**, **Respekt** und **Mut** – unterstützen die Umsetzung dieser Säulen in der täglichen Arbeit.  
 
+## Scrum Werten
 
 >[!summary] Kapitelzusammenfassung  
 >In diesem Kapitel lernst du, wie [[02 - RESOURCES/Notes/Scrum\|Scrum]] funktioniert und warum es so effektiv für die Zusammenarbeit in Teams und komplexe Projekte ist.
