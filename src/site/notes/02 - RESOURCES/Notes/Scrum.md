@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/scrum/","tags":["GFN/LFzq3a","projektmanagement"],"noteIcon":"","updated":"2024-11-22T10:09:54.053+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/scrum/","tags":["GFN/LFzq3a","projektmanagement"],"noteIcon":"","updated":"2024-11-22T21:17:39.229+01:00"}
 ---
 
 >**Scrum** ist ein **agiles [[02 - RESOURCES/Notes/Framework\|Framework]]**, das hauptsächlich im Bereich der Softwareentwicklung, aber auch in anderen Bereichen, wie [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] oder Produktentwicklung, verwendet wird. 
@@ -46,13 +46,13 @@ Stellen wir uns vor, ein Team entwickelt eine neue App:
    - App-Design verbessern
 
 2. **Sprint Planning**:
-   Der Product Owner priorisiert, dass zuerst der Login und die Benutzerregistrierung entwickelt werden.
+   Der [[02 - RESOURCES/Notes/Product Owner\|Product Owner]] priorisiert, dass zuerst der Login und die Benutzerregistrierung entwickelt werden.
 
 3. **Sprint**:
    Das Team arbeitet 2 Wochen am Login und der Registrierung. Am Ende des Sprints ist dieser Teil funktionsfähig.
 
 4. **Sprint Review**:
-   Das Team zeigt die fertige Login-Funktionalität dem Product Owner und den Stakeholdern.
+   Das Team zeigt die fertige Login-Funktionalität dem [[02 - RESOURCES/Notes/Product Owner\|Product Owner]] und den Stakeholdern.
 
 5. **Sprint Retrospective**:
    Das Team reflektiert, ob der [[02 - RESOURCES/Notes/Sprint\|Sprint]] gut verlaufen ist und welche Prozesse verbessert werden können.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-22T11:59:14.025+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-22T21:20:54.214+01:00"}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Scrum\|Scrum]].
@@ -47,12 +47,20 @@ ___
 ## Scrum Werten
 >Die Werte von [[02 - RESOURCES/Notes/Scrum\|Scrum]] – **Commitment**, **Fokus**, **Offenheit**, **Respekt** und **Mut** – unterstützen die Umsetzung dieser Säulen in der täglichen Arbeit. 
 
+- **Mut** – Mut, schwierige Aufgaben anzugehen, Fehler zu machen, Risiken wegen Veränderungen einzugehen, Dinge in Frage zu stellen und über den Tellerrand zu schauen.
+- **Respekt** – Respekt, sich gegenseitig als fähige, unabhängige Personen zu achten (cross-functional) und Respekt gegenüber dem Kunden zu zeigen.
+- **Offenheit** – Offenheit bezüglich der zu erledigenden Aufgaben, der damit verbundenen Herausforderungen und der grundlegenden kulturellen Aspekte der Zusammenarbeit.
+- **Fokus** – Fokus auf den bestmöglichen Fortschritt der Arbeit in einem Sprint und ein gemeinsames Verständnis für das Ziel.
+- **Commitment** – Commitment zur Verpflichtung, Ziele zu erreichen und sich gegenseitig zu unterstützen. 
 
 >[!summary] Kapitelzusammenfassung  
 >In diesem Kapitel lernst du, wie [[02 - RESOURCES/Notes/Scrum\|Scrum]] funktioniert und warum es so effektiv für die Zusammenarbeit in Teams und komplexe Projekte ist.
 
-
-
+# 4. [[02 - RESOURCES/Notes/Scrum Framework\|Scrum Framework]]
+___
+>Dieses Kapitel ist eine Zusammenfassung wie das [[02 - RESOURCES/Notes/Scrum\|Scrum]] (Grafisch) aussieht.
+![LFzq3a Agile Scrum Foundation-20241122210130759.png](/img/user/02%20-%20RESOURCES/Files/LFzq3a%20Agile%20Scrum%20Foundation-20241122210130759.png)
+[[02 - RESOURCES/Notes/Scrum-Team\|Scrum-Team]]
 
 >[!info] 
 >Diese Zusammenfassung basiert auf den Materialien von Frau [Gote Alexandra Himmelfreundpointner](https://www.credly.com/users/gote-alexandra-himmelfreundpointner).  
