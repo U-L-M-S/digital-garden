@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/scrum/","tags":["GFN/LFzq3a","projektmanagement"],"updated":"2024-11-19T20:31:38.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/scrum/","tags":["GFN/LFzq3a","projektmanagement"],"noteIcon":"","updated":"2024-11-22T10:09:54.053+01:00"}
 ---
 
 >**Scrum** ist ein **agiles [[02 - RESOURCES/Notes/Framework\|Framework]]**, das hauptsächlich im Bereich der Softwareentwicklung, aber auch in anderen Bereichen, wie [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] oder Produktentwicklung, verwendet wird. 
@@ -26,12 +26,12 @@
    - **Sprint Planning**: Zu Beginn eines Sprints wird festgelegt, welche Aufgaben aus dem Product Backlog im Sprint bearbeitet werden.
    - **Daily Scrum**: Ein tägliches, kurzes Meeting (max. 15 Minuten), bei dem das Team den Fortschritt bespricht.
    - **Sprint Review**: Am Ende eines Sprints wird das Inkrement dem Product Owner und anderen Stakeholdern präsentiert.
-   - **Sprint Retrospective**: Nach dem Sprint reflektiert das Team über den Ablauf und die Arbeitsweise, um Verbesserungen für den nächsten Sprint zu erarbeiten.
+   - **Sprint Retrospective**: Nach dem Sprint reflektiert das Team über den Ablauf und die Arbeitsweise, um Verbesserungen für den nächsten [[02 - RESOURCES/Notes/Sprint\|Sprint]] zu erarbeiten.
 
 # Warum braucht man Scrum?
 
 - **Flexibilität**: Durch regelmäßige Anpassungen (Retrospektiven) kann das Team effizient auf Veränderungen reagieren.
-- **Transparenz**: Alle Teammitglieder und Stakeholder haben klare Einsicht in den Fortschritt und die Ziele.
+- **Transparenz**: Alle Teammitglieder und [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]] haben klare Einsicht in den Fortschritt und die Ziele.
 - **Kontinuierliche Verbesserung**: Scrum fördert die kontinuierliche Überprüfung und Verbesserung von Prozessen.
 - **Kundennutzen**: Mit jeder Sprint-Iteration wird ein funktionierendes Produktinkrement geliefert, das der Kunde oder Nutzer schnell bewerten kann.
 

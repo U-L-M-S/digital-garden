@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"updated":"2024-11-19T20:34:54.000+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-22T10:41:10.353+01:00"}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Scrum\|Scrum]].
@@ -28,6 +28,16 @@ Mit anderen Worten: Die Phasen des [[02 - RESOURCES/Notes/Klassische Vorgehensmo
 ___  
 >[[02 - RESOURCES/Notes/Scrum\|Scrum]] ist ein leichtgewichtiges Rahmenwerk, das entwickelt wurde, um Menschen, Teams und Organisationen dabei zu helfen, durch adaptive Lösungen Wert für komplexe Probleme zu schaffen. 
 >>Es kombiniert [[02 - RESOURCES/Notes/Empirie\|Empirie]] und [[02 - RESOURCES/Notes/Lean Thinking\|Lean Thinking]], um Vorhersagbarkeit zu optimieren und Risiken zu minimieren.  
+
+Hier ist der korrigierte Text:
+
+## Aktivitäten
+> Wie bereits besprochen: [[02 - RESOURCES/Notes/Scrum\|Scrum]] erfolgt in [[02 - RESOURCES/Notes/Sprint\|Sprint]]-Intervallen von 4 Wochen.
+> > Das Scrum-Team hat keinen [[02 - RESOURCES/Notes/Teamleiter\|Teamleiter]]; alles wird von den Mitarbeitenden erarbeitet und vorbereitet. Am Ende jedes [[02 - RESOURCES/Notes/Sprint\|Sprint]]s wird der [[02 - RESOURCES/Notes/Product Owner\|Product Owner]] informiert, und neue Wünsche sowie Änderungen werden in das Product Backlog für den nächsten [[02 - RESOURCES/Notes/Sprint\|Sprint]] aufgenommen.
+
+> [!summary]  
+> Die gesamten Scrum-Schritte können wir grafisch wie folgt darstellen:
+>![LFzq3a Agile Scrum Foundation-20241122103701336.png](/img/user/02%20-%20RESOURCES/Files/LFzq3a%20Agile%20Scrum%20Foundation-20241122103701336.png)
 
 Das Rahmenwerk basiert auf drei Säulen:  
 - **Transparenz**: Alle Aspekte des Prozesses müssen <mark style="background: #BBFABBA6;">sichtbar und verständlich</mark> sein, sowohl für das <mark style="background: #BBFABBA6;">Team (die Entwickler)</mark> als auch für die [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]].  
