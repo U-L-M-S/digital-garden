@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-22T21:20:54.214+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-23T16:11:56.649+01:00"}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Scrum\|Scrum]].
@@ -60,7 +60,6 @@ ___
 ___
 >Dieses Kapitel ist eine Zusammenfassung wie das [[02 - RESOURCES/Notes/Scrum\|Scrum]] (Grafisch) aussieht.
 ![LFzq3a Agile Scrum Foundation-20241122210130759.png](/img/user/02%20-%20RESOURCES/Files/LFzq3a%20Agile%20Scrum%20Foundation-20241122210130759.png)
-[[02 - RESOURCES/Notes/Scrum-Team\|Scrum-Team]]
 
 >[!info] 
 >Diese Zusammenfassung basiert auf den Materialien von Frau [Gote Alexandra Himmelfreundpointner](https://www.credly.com/users/gote-alexandra-himmelfreundpointner).  
