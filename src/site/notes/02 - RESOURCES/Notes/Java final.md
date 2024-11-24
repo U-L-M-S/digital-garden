@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-resources/notes/java-final/","tags":["code/java"],"noteIcon":"","updated":"2024-10-28T11:43:00.000+01:00"}
 ---
 
->In [[02 - RESOURCES/Notes/Java\|Java]] wird `final` verwendet, wenn man [[02 - RESOURCES/Notes/Variable\|Variable]]n, [[02 - RESOURCES/Notes/Methode\|Methode]]n oder [[02 - RESOURCES/Notes/Klasse\|Klasse]]n **konstant** machen möchte.
+>In [[03 - ARCHIVES/Abgeschlossen/Java\|Java]] wird `final` verwendet, wenn man [[02 - RESOURCES/Notes/Variable\|Variable]]n, [[02 - RESOURCES/Notes/Methode\|Methode]]n oder [[02 - RESOURCES/Notes/Klasse\|Klasse]]n **konstant** machen möchte.
 >Der Wert, die [[02 - RESOURCES/Notes/Methode\|Methode]] und die [[02 - RESOURCES/Notes/Klasse\|Klasse]] können dann nicht erneut überschrieben werden: keine neue Wertzuweisung, kein `@Override` bei Vererbung und bei Klassen können [[02 - RESOURCES/Notes/Methode\|Methode]]n und Eigenschaften nicht erweitert werden.
 
 ```java

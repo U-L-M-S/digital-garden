@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-resources/notes/java-2-d-array/","tags":["code/java"],"noteIcon":"","updated":"2024-10-22T16:00:12.000+02:00"}
 ---
 
-> In [[02 - RESOURCES/Notes/Java\|Java]] beginnt der Index eines 2D-Arrays ebenfalls bei 0. Ein 2D-Array kann als ein Array von Arrays betrachtet werden, ähnlich wie eine Tabelle mit Zeilen und Spalten.
+> In [[03 - ARCHIVES/Abgeschlossen/Java\|Java]] beginnt der Index eines 2D-Arrays ebenfalls bei 0. Ein 2D-Array kann als ein Array von Arrays betrachtet werden, ähnlich wie eine Tabelle mit Zeilen und Spalten.
 
 # Syntax
 ## 2D-Array-Deklaration

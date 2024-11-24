@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-resources/notes/java-for-loop/","tags":["code/java"],"noteIcon":"","updated":"2024-10-24T11:24:39.000+02:00"}
 ---
 
->[[02 - RESOURCES/Notes/For-Loop\|For-Loop]]s in [[02 - RESOURCES/Notes/Java\|Java]] hat das gleiche Syntax wie bei [[00 - PROJECTS/C Sprache\|C Sprache]].
+>[[02 - RESOURCES/Notes/For-Loop\|For-Loop]]s in [[03 - ARCHIVES/Abgeschlossen/Java\|Java]] hat das gleiche Syntax wie bei [[00 - PROJECTS/C Sprache\|C Sprache]].
 
 ```java
 public class Main {

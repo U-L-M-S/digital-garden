@@ -29,7 +29,7 @@ def bubblesort(arr):
 print(bubblesort([64, 34, 25, 12, 22, 11, 90]))
 ```
 
-## [[02 - RESOURCES/Notes/Java\|Java]]
+## [[03 - ARCHIVES/Abgeschlossen/Java\|Java]]
 ```java
 public class Bubblesort {
     public static void bubblesort(int[] arr) {

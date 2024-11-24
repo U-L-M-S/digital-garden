@@ -27,7 +27,7 @@ def quicksort(arr):
 print(quicksort([3, 6, 8, 10, 1, 2, 1]))
 ```
 
-## [[02 - RESOURCES/Notes/Java\|Java]]
+## [[03 - ARCHIVES/Abgeschlossen/Java\|Java]]
 ```java
 public class Quicksort {
     public static void quicksort(int[] arr, int low, int high) {

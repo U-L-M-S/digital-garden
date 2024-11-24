@@ -18,7 +18,7 @@ class HelloWorld {
 >Wie du bereits im klassischen "Hello World"-Code sehen kannst, ist alles in einer [[02 - RESOURCES/Notes/Klasse\|Klasse]] (HelloWorld) gespeichert.
 
 Die [[02 - RESOURCES/Notes/Funktion\|Funktion]] `main()` ist der **Starter** der Programm.
->[!note] Eigentlich... [[02 - RESOURCES/Notes/Methode\|Methode]]. Da wir in [[02 - RESOURCES/Notes/Java\|Java]] keine  echten [[02 - RESOURCES/Notes/Funktion\|Funktion]]en haben.
+>[!note] Eigentlich... [[02 - RESOURCES/Notes/Methode\|Methode]]. Da wir in [[03 - ARCHIVES/Abgeschlossen/Java\|Java]] keine  echten [[02 - RESOURCES/Notes/Funktion\|Funktion]]en haben.
 
 Nun hat die [[02 - RESOURCES/Notes/Funktion\|Funktion]] drei Begriffen bei sich:
 - public: Der [[02 - RESOURCES/Notes/Zugriffsmodifikator\|Zugriffsmodifikator]] der festlegt, dass die [[02 - RESOURCES/Notes/Methode\|Methode]] von überall aufgerufen werden kann.
@@ -43,6 +43,6 @@ Somit wird ein HelloWorld-Datei als [[02 - RESOURCES/Notes/Binärzahl\|Binär]] 
 java HelloWorld
 ```
 
-Mit diesem Befehl wird die [[02 - RESOURCES/Notes/Binärzahl\|Binär]]-Datei in der [[02 - RESOURCES/Notes/Java\|Java]] Virtual Machine ausgeführt, und das Ergebnis wird an unsere Hostmaschine zurückgegeben.
+Mit diesem Befehl wird die [[02 - RESOURCES/Notes/Binärzahl\|Binär]]-Datei in der [[03 - ARCHIVES/Abgeschlossen/Java\|Java]] Virtual Machine ausgeführt, und das Ergebnis wird an unsere Hostmaschine zurückgegeben.
 
->[!important] Yep... Virtualisierung sogar hier bei [[02 - RESOURCES/Notes/Java\|Java]] ;D
+>[!important] Yep... Virtualisierung sogar hier bei [[03 - ARCHIVES/Abgeschlossen/Java\|Java]] ;D

@@ -10,7 +10,7 @@
 
 >In diesen Lernfelder lernen wir nur die Java-Grundlage + Objektorientierung.
 
-[[02 - RESOURCES/Notes/Java\|Java]]
+[[03 - ARCHIVES/Abgeschlossen/Java\|Java]]
 
 
 

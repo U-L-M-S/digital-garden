@@ -4,7 +4,7 @@
 
 > Hier lernst du die Syntax der wichtigsten Befehle, um mit der [[02 - RESOURCES/Notes/Python\|Python]]-Sprache umzugehen.
 
-Wie [[02 - RESOURCES/Notes/Java\|Java]] ist [[02 - RESOURCES/Notes/Python\|Python]] eine vielseitige Programmiersprache, die verschiedene Paradigmen unterstützt, einschließlich [[02 - RESOURCES/Notes/OOP\|Objektorientierte Programmierung]]. 
+Wie [[03 - ARCHIVES/Abgeschlossen/Java\|Java]] ist [[02 - RESOURCES/Notes/Python\|Python]] eine vielseitige Programmiersprache, die verschiedene Paradigmen unterstützt, einschließlich [[02 - RESOURCES/Notes/OOP\|Objektorientierte Programmierung]]. 
 [[02 - RESOURCES/Notes/Python\|Python]]-Programme können in einem [[02 - RESOURCES/Notes/Interpreter\|Interpreter]] ausgeführt werden, ohne dass eine Kompilierung erforderlich ist.
 ```python
 def my_function():

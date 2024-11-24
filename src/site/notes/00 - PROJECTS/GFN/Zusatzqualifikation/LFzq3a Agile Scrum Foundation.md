@@ -1,14 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-24T21:46:45.122+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-24T21:48:39.119+01:00"}
 ---
-
-12th:
-![[2024-11-12 13-16-03.mp4]]
-
-![[2024-11-12 10-34-17.mp4]]
-
-![[2024-11-12 08-40-43.mp4]]
-___
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Scrum\|Scrum]].
 >> An ende des Kurses wird keine LZK geschrieben. Dieses Lernfeld ist nur da um uns für die [[02 - RESOURCES/Notes/Scrum\|Scrum]]- Zertifikat zu vorbereiten.
