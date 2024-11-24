@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-23T16:11:56.649+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-24T18:48:32.060+01:00"}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Scrum\|Scrum]].
@@ -58,8 +58,14 @@ ___
 
 # 4. [[02 - RESOURCES/Notes/Scrum Framework\|Scrum Framework]]
 ___
->Dieses Kapitel ist eine Zusammenfassung wie das [[02 - RESOURCES/Notes/Scrum\|Scrum]] (Grafisch) aussieht.
+>Dieses Kapitel ist eine Zusammenfassung der wichtigsten Punkte des [[02 - RESOURCES/Notes/Scrum Framework\|Scrum Framework]]s.
+>Hier werden die Scrum-Elemente in Gruppen eingeteilt und deren Verantwortlichkeiten erklärt.
 ![LFzq3a Agile Scrum Foundation-20241122210130759.png](/img/user/02%20-%20RESOURCES/Files/LFzq3a%20Agile%20Scrum%20Foundation-20241122210130759.png)
+## [[02 - RESOURCES/Notes/Scrum-Team\|Scrum-Team]]
+- [[02 - RESOURCES/Notes/Scrum Master\|Scrum Master]]
+- [[02 - RESOURCES/Notes/Product Owner\|Product Owner]]
+- Entwicklerteam
+Diese 3 sind die wichtigen Elementen für das Endeprodukt und so übernähmen sie die vollverantwortung für das Produkt.
 
 >[!info] 
 >Diese Zusammenfassung basiert auf den Materialien von Frau [Gote Alexandra Himmelfreundpointner](https://www.credly.com/users/gote-alexandra-himmelfreundpointner).  
