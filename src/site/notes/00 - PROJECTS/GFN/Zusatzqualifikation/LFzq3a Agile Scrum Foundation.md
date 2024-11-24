@@ -1,6 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-24T18:48:32.060+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2024-11-24T21:46:45.122+01:00"}
 ---
+
+12th:
+![[2024-11-12 13-16-03.mp4]]
+
+![[2024-11-12 10-34-17.mp4]]
+
+![[2024-11-12 08-40-43.mp4]]
+___
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Scrum\|Scrum]].
 >> An ende des Kurses wird keine LZK geschrieben. Dieses Lernfeld ist nur da um uns für die [[02 - RESOURCES/Notes/Scrum\|Scrum]]- Zertifikat zu vorbereiten.
@@ -59,13 +67,38 @@ ___
 # 4. [[02 - RESOURCES/Notes/Scrum Framework\|Scrum Framework]]
 ___
 >Dieses Kapitel ist eine Zusammenfassung der wichtigsten Punkte des [[02 - RESOURCES/Notes/Scrum Framework\|Scrum Framework]]s.
->Hier werden die Scrum-Elemente in Gruppen eingeteilt und deren Verantwortlichkeiten erklärt.
+>Hier werden die Scrum-Ereignisse in Gruppen eingeteilt und deren Verantwortlichkeiten erklärt.
 ![LFzq3a Agile Scrum Foundation-20241122210130759.png](/img/user/02%20-%20RESOURCES/Files/LFzq3a%20Agile%20Scrum%20Foundation-20241122210130759.png)
 ## [[02 - RESOURCES/Notes/Scrum-Team\|Scrum-Team]]
 - [[02 - RESOURCES/Notes/Scrum Master\|Scrum Master]]
 - [[02 - RESOURCES/Notes/Product Owner\|Product Owner]]
 - Entwicklerteam
-Diese 3 sind die wichtigen Elementen für das Endeprodukt und so übernähmen sie die vollverantwortung für das Produkt.
+Diese drei sind die wichtigen Elemente für das Endprodukt und übernehmen daher die volle Verantwortung für das Produkt.
+
+### Entwickler
+> Die Entwickler sind hauptsächlich verantwortlich für die Herstellung des Endprodukts.
+> > Um das möglich zu machen, müssen sie alle folgenden Kriterien erfüllen:
+
+- Erstellen den Plan für den [[02 - RESOURCES/Notes/Sprint\|Sprint]]: [[02 - RESOURCES/Notes/Sprint Backlog\|Sprint Backlog]].
+- Teilnahme an täglichen Meetings, die nicht länger als 15 Minuten dauern dürfen: Sprint [[02 - RESOURCES/Notes/Daily Scrum\|Daily Scrum]].
+- Das Entwicklerteam ist interdisziplinär aufgestellt und verfügt über alle notwendigen Fähigkeiten, um ein fertiges [[02 - RESOURCES/Notes/Inkrement\|Inkrement]] herzustellen.  
+    (Falls ein Tool, [[02 - RESOURCES/Notes/Framework\|Framework]] oder Thema für das [[02 - RESOURCES/Notes/Inkrement\|Inkrement]] erforderlich ist, wird es von einem oder mehreren Teammitgliedern erlernt.)
+- Arbeiten selbstständig und unterstützen sich gegenseitig, indem sie sich als Experten wahrnehmen und gemeinsam Verantwortung übernehmen.
+- Gewährleisten feste Qualität durch die [[02 - RESOURCES/Notes/Definition of Done\|DoD]] ([[02 - RESOURCES/Notes/Definition of Done\|Definition of Done]]).
+
+### [[02 - RESOURCES/Notes/Product Owner\|Product Owner]]
+>[[02 - RESOURCES/Notes/Product Owner\|Product Owner]] oder [[02 - RESOURCES/Notes/Product Owner\|Produktinhaber]]
+
+
+
+
+
+
+
+
+
+
+
 
 >[!info] 
 >Diese Zusammenfassung basiert auf den Materialien von Frau [Gote Alexandra Himmelfreundpointner](https://www.credly.com/users/gote-alexandra-himmelfreundpointner).  

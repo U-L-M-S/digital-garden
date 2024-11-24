@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/inkrement/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2024-11-22T21:54:03.708+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/inkrement/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2024-11-24T20:07:31.055+01:00"}
 ---
 
->Es ist ein funktionsfähiger Bestandteil eines Produkts, der am Ende eines Sprints geliefert wird.
+>Ein abgeschlossener, nutzbarer Teil eines Produkts.
+>>Standardmäßig wird dieser am Ende des [[02 - RESOURCES/Notes/Sprint\|Sprint]]s abgegeben.
 
 # Bedeutung:
 
