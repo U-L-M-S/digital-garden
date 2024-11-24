@@ -8,5 +8,5 @@
 >Die [[02 - RESOURCES/Notes/Routing\|Routing]] passiert in das [[02 - RESOURCES/Notes/Internet\|Internet]]
 >Es verwendet das [[02 - RESOURCES/Notes/BGP\|BGP]]
 
-![EGP-20240723143859496.png](/img/user/02%20-%20RESOURCES/Files/EGP-20240723143859496.png)
+![EGP-20240723143859496.png](/img/user/02%20-%20RESOURCES/Files/IMG/EGP-20240723143859496.png)
 

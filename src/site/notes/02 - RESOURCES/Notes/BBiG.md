@@ -4,4 +4,4 @@
 
 >Berufsbildungsgesetz
 
-![Pasted image 20240206222043.png](/img/user/02%20-%20RESOURCES/Files/IMGs/Pasted%20image%2020240206222043.png)
+![Pasted image 20240206222043.png](/img/user/02%20-%20RESOURCES/Files/IMG/Pasted%20image%2020240206222043.png)

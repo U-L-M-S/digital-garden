@@ -5,7 +5,7 @@
 >Interior [[02 - RESOURCES/Notes/Gateway\|Gateway]] Protocol
 
 >[[02 - RESOURCES/Notes/Autonome Systeme\|Autonome Systeme]] werden mit einander verbunden durch [[02 - RESOURCES/Notes/IGP\|IGP]].
-![IGP-20240723143824101.png](/img/user/02%20-%20RESOURCES/Files/IGP-20240723143824101.png)
+![IGP-20240723143824101.png](/img/user/02%20-%20RESOURCES/Files/IMG/IGP-20240723143824101.png)
 
 Man kann entweder [[02 - RESOURCES/Notes/IPv4\|IPv4]] oder [[02 - RESOURCES/Notes/IPv6\|IPv6]] verwenden.
 Die Dynamische Routingprotokollen müssen, aber berücksichtig werden.

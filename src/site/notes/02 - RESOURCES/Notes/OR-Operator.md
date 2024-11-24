@@ -10,4 +10,4 @@
 |  0  |  1  |  **1**  |
 |  1  |  0  |  **1**  |
 |  1  |  1  |  **1**  |
-![OR-Operator-20240726134738425.png|630](/img/user/02%20-%20RESOURCES/Files/OR-Operator-20240726134738425.png)
+![OR-Operator-20240726134738425.png|630](/img/user/02%20-%20RESOURCES/Files/IMG/OR-Operator-20240726134738425.png)

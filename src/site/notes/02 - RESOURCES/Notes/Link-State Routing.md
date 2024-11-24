@@ -8,4 +8,4 @@
 >Dia Qualität und Datenübertragungsrate der Verbindung ist hier extrem wichtig und werden regelmäßig überprüft.
 >[[02 - RESOURCES/Notes/OSPFv2\|OSPFv2]] und [[02 - RESOURCES/Notes/OSPFv3\|OSPFv3]] werden hier verwendet.
 
-![Link-State Routing-20240724154918373.png](/img/user/02%20-%20RESOURCES/Files/Link-State%20Routing-20240724154918373.png)
+![Link-State Routing-20240724154918373.png](/img/user/02%20-%20RESOURCES/Files/IMG/Link-State%20Routing-20240724154918373.png)

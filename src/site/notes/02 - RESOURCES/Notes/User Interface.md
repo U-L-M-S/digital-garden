@@ -26,7 +26,7 @@ Achtet bitte darauf, dass dies zu vielen Problemen in der Benutzerschnittstelle 
 #### Hier sind die aktuell am häufigsten verwendeten Benutzerschnittstellen
 
 >[!tip] Command Line Interface (CLI)
->![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827002824359.png](/img/user/02%20-%20RESOURCES/Files/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827002824359.png)
+>![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827002824359.png](/img/user/02%20-%20RESOURCES/Files/IMG/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827002824359.png)
 >>Es wird häufig von Programmierern verwendet.
 >>>- Bash
 >>>- Windows Command Prompt
@@ -46,7 +46,7 @@ Achtet bitte darauf, dass dies zu vielen Problemen in der Benutzerschnittstelle 
 >>- Eingabe ohne Tastatur schwieri
 
 >[!tip] Menu-Driven Interface
->![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827003945993.png](/img/user/02%20-%20RESOURCES/Files/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827003945993.png)
+>![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827003945993.png](/img/user/02%20-%20RESOURCES/Files/IMG/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827003945993.png)
 >>Einfache Benutzerschnittstellen mit grundlegenden Optionen werden häufig bei Geldautomaten, im BIOS/UEFI und in Kassensystemen verwendet.
 >>>- BIOS Setup
 >>>- ATM
@@ -65,7 +65,7 @@ Achtet bitte darauf, dass dies zu vielen Problemen in der Benutzerschnittstelle 
 >>- Keine Hilfe bei Out-of-the-Box-Problemen
 
 >[!tip]  Graphical user interface ([[02 - RESOURCES/Notes/GUI\|GUI]])
->![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827004807000.png](/img/user/02%20-%20RESOURCES/Files/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827004807000.png)
+>![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827004807000.png](/img/user/02%20-%20RESOURCES/Files/IMG/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827004807000.png)
 >>Fast in jedem System verwendet.
 >>>- Windows 11
 >>>- macOS Finder
@@ -81,7 +81,7 @@ Achtet bitte darauf, dass dies zu vielen Problemen in der Benutzerschnittstelle 
 >>- Kann schnell unübersichtlich werden
 
 >[!tip] Conversational User Interface
->![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827005332750.png](/img/user/02%20-%20RESOURCES/Files/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827005332750.png)
+>![LF10 Benutzerschnittstellen gestalten und entwickeln-20240827005332750.png](/img/user/02%20-%20RESOURCES/Files/IMG/LF10%20Benutzerschnittstellen%20gestalten%20und%20entwickeln-20240827005332750.png)
 >>Interaktion mit menschlicher Sprache.
 >>>- Siri 
 >>>- Amazon Alexa
@@ -96,7 +96,7 @@ Achtet bitte darauf, dass dies zu vielen Problemen in der Benutzerschnittstelle 
 >>- Fehlende Akzeptanz (Menschen mögen es nicht, mit Maschinen zu reden!)
 
 >[!tip] Virtual reality user interface
->![User Interface-20240827215259892.png](/img/user/02%20-%20RESOURCES/Files/User%20Interface-20240827215259892.png)
+>![User Interface-20240827215259892.png](/img/user/02%20-%20RESOURCES/Files/IMG/User%20Interface-20240827215259892.png)
 >>Weiterentwicklung des [[02 - RESOURCES/Notes/GUI\|GUI]]s.
 >>>- Handgestensteuerung
 >>>- Virtuelle Controller

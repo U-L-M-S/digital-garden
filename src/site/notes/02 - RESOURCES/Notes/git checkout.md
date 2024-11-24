@@ -24,7 +24,7 @@ git checkout -b <new-branch-name>
 ``` 
 
 Somit erstellst du eine neue Brach und kannst deine vorherige Commits nicht überschreiben.
-![Pasted image 20230806113223.png](/img/user/02%20-%20RESOURCES/Files/IMGs/Pasted%20image%2020230806113223.png)
+![Pasted image 20230806113223.png](/img/user/02%20-%20RESOURCES/Files/IMG/Pasted%20image%2020230806113223.png)
 
 ```bash
 git checkout <branch-name>

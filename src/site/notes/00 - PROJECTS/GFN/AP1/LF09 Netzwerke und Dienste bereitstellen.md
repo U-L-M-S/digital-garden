@@ -31,8 +31,8 @@ Der [[02 - RESOURCES/Notes/Router\|Router]] ist einer der wichtigsten Geräte in
 
 ## [[02 - RESOURCES/Notes/IGP\|IGP]] und [[02 - RESOURCES/Notes/EGP\|EGP]]
 Die [[02 - RESOURCES/Notes/IGP\|IGP]] und [[02 - RESOURCES/Notes/EGP\|EGP]] sind Arten von [[02 - RESOURCES/Notes/Routing\|Routing]]s, und es ist wichtig, sie zu verstehen, da  [[02 - RESOURCES/Notes/Autonome Systeme\|Autonome Systeme]] mit diese Protokollen verbunden werden.
-![LF09 Netzwerke und Dienste bereitstellen-20240723143614522.png](/img/user/02%20-%20RESOURCES/Files/LF09%20Netzwerke%20und%20Dienste%20bereitstellen-20240723143614522.png)
-![LF09 Netzwerke und Dienste bereitstellen-20240724112516020.png|666](/img/user/02%20-%20RESOURCES/Files/LF09%20Netzwerke%20und%20Dienste%20bereitstellen-20240724112516020.png)
+![LF09 Netzwerke und Dienste bereitstellen-20240723143614522.png](/img/user/02%20-%20RESOURCES/Files/IMG/LF09%20Netzwerke%20und%20Dienste%20bereitstellen-20240723143614522.png)
+![LF09 Netzwerke und Dienste bereitstellen-20240724112516020.png|666](/img/user/02%20-%20RESOURCES/Files/IMG/LF09%20Netzwerke%20und%20Dienste%20bereitstellen-20240724112516020.png)
 
 - Was ist [[02 - RESOURCES/Notes/IGP\|IGP]], [[02 - RESOURCES/Notes/EGP\|EGP]], [[02 - RESOURCES/Notes/Autonome Systeme\|Autonome Systeme]] und wo und wie funktioniert [[02 - RESOURCES/Notes/IGP\|IGP]] und [[02 - RESOURCES/Notes/EGP\|EGP]].
 

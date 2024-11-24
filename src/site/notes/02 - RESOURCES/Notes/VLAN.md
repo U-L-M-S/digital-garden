@@ -10,8 +10,8 @@
 
 
 Mit andere Wörter 1 [[02 - RESOURCES/Notes/Switch\|Switch]] mit eine oder mehrere [[02 - RESOURCES/Notes/VLAN\|VLAN]]s.
-![VLAN-20240722141645311.png](/img/user/02%20-%20RESOURCES/Files/VLAN-20240722141645311.png)
-![VLAN-20240722141826439.png](/img/user/02%20-%20RESOURCES/Files/VLAN-20240722141826439.png)
+![VLAN-20240722141645311.png](/img/user/02%20-%20RESOURCES/Files/IMG/VLAN-20240722141645311.png)
+![VLAN-20240722141826439.png](/img/user/02%20-%20RESOURCES/Files/IMG/VLAN-20240722141826439.png)
 
 >[!important] 
 >Man kann auch [[02 - RESOURCES/Notes/Switch\|Switch]]es verbinden um die Anzahl von Geräte per [[02 - RESOURCES/Notes/VLAN\|VLAN]] zu erhöhen.
@@ -22,7 +22,7 @@ Mit andere Wörter 1 [[02 - RESOURCES/Notes/Switch\|Switch]] mit eine oder mehre
 
 
 
-![VLAN-20240722142113905.png](/img/user/02%20-%20RESOURCES/Files/VLAN-20240722142113905.png)
+![VLAN-20240722142113905.png](/img/user/02%20-%20RESOURCES/Files/IMG/VLAN-20240722142113905.png)
 
 Dafür gibt es eine bessere Möglichkeit.
 Es heißt [[02 - RESOURCES/Notes/Trunking und Tagging\|Trunking und Tagging]].

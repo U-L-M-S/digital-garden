@@ -58,7 +58,7 @@
 
 </html>
 ```
-![PHP für Frontend-20240905115538632.png](/img/user/02%20-%20RESOURCES/Files/PHP%20f%C3%BCr%20Frontend-20240905115538632.png)
+![PHP für Frontend-20240905115538632.png](/img/user/02%20-%20RESOURCES/Files/IMG/PHP%20f%C3%BCr%20Frontend-20240905115538632.png)
 
 Man kann auch HTML-Syntax verwenden um den Format umzupassen.
 ```php
@@ -87,7 +87,7 @@ Man kann auch HTML-Syntax verwenden um den Format umzupassen.
 </html>
 ```
 
-![PHP für Frontend-20240905122722946.png](/img/user/02%20-%20RESOURCES/Files/PHP%20f%C3%BCr%20Frontend-20240905122722946.png)
+![PHP für Frontend-20240905122722946.png](/img/user/02%20-%20RESOURCES/Files/IMG/PHP%20f%C3%BCr%20Frontend-20240905122722946.png)
 
 ___
 >Wie bereits gesagt wurde. Man kann [[02 - RESOURCES/Notes/PHP\|PHP]]-Werten importieren, oder besser gesagt Funktionen.

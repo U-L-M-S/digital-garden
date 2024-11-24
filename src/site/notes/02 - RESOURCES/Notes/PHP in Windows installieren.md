@@ -6,9 +6,9 @@
 > 
 > > Sobald du [XAMPP](https://www.youtube.com/watch?v=G2VEf-8nepc&t=235s) installiert hast, starte [XAMPP](https://www.youtube.com/watch?v=G2VEf-8nepc&t=235s).
 > > 
-> > > Jetzt lass uns den [[02 - RESOURCES/Notes/PHP\|PHP]]-Server konfigurieren. Erstelle einen Ordner, wo du willst, und kopiere den Pfad zu diesem Ordner. Zurück in der [XAMPP](https://www.youtube.com/watch?v=G2VEf-8nepc&t=235s)-Oberfläche, wähle "Apache" (httpd.conf). ![PHP in Windows installieren-20240905105749965.png](/img/user/02%20-%20RESOURCES/Files/PHP%20in%20Windows%20installieren-20240905105749965.png) In den Zeilen 252 und 253 ersetze sie mit deinem Pfad.
+> > > Jetzt lass uns den [[02 - RESOURCES/Notes/PHP\|PHP]]-Server konfigurieren. Erstelle einen Ordner, wo du willst, und kopiere den Pfad zu diesem Ordner. Zurück in der [XAMPP](https://www.youtube.com/watch?v=G2VEf-8nepc&t=235s)-Oberfläche, wähle "Apache" (httpd.conf). ![PHP in Windows installieren-20240905105749965.png](/img/user/02%20-%20RESOURCES/Files/IMG/PHP%20in%20Windows%20installieren-20240905105749965.png) In den Zeilen 252 und 253 ersetze sie mit deinem Pfad.
 
-![PHP in Windows installieren-20240905105821087.png](/img/user/02%20-%20RESOURCES/Files/PHP%20in%20Windows%20installieren-20240905105821087.png) (Ich habe den Ordner auf meinem Desktop erstellt.)
+![PHP in Windows installieren-20240905105821087.png](/img/user/02%20-%20RESOURCES/Files/IMG/PHP%20in%20Windows%20installieren-20240905105821087.png) (Ich habe den Ordner auf meinem Desktop erstellt.)
 
 > [!summary]  
 > Jetzt, sobald ich Apache neu starte, wird der Ordner  

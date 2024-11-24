@@ -6,7 +6,7 @@
 
 	Es gibt 6 hauptsächliche untere Bereiche der Intranet
 
-![LF3 Clients in Netzwerk einbinden-20240506155735382.png](/img/user/02%20-%20RESOURCES/Files/IMGs/LF3%20Clients%20in%20Netzwerk%20einbinden-20240506155735382.png)
+![LF3 Clients in Netzwerk einbinden-20240506155735382.png](/img/user/02%20-%20RESOURCES/Files/IMG/LF3%20Clients%20in%20Netzwerk%20einbinden-20240506155735382.png)
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/wlan/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -55,8 +55,8 @@ Auf ein Gelände beschränktes [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]].
 
 
 Mit andere Wörter 1 [[02 - RESOURCES/Notes/Switch\|Switch]] mit eine oder mehrere [[02 - RESOURCES/Notes/VLAN\|VLAN]]s.
-![VLAN-20240722141645311.png](/img/user/02%20-%20RESOURCES/Files/VLAN-20240722141645311.png)
-![VLAN-20240722141826439.png](/img/user/02%20-%20RESOURCES/Files/VLAN-20240722141826439.png)
+![VLAN-20240722141645311.png](/img/user/02%20-%20RESOURCES/Files/IMG/VLAN-20240722141645311.png)
+![VLAN-20240722141826439.png](/img/user/02%20-%20RESOURCES/Files/IMG/VLAN-20240722141826439.png)
 
 >[!important] 
 >Man kann auch [[02 - RESOURCES/Notes/Switch\|Switch]]es verbinden um die Anzahl von Geräte per [[02 - RESOURCES/Notes/VLAN\|VLAN]] zu erhöhen.
@@ -67,7 +67,7 @@ Mit andere Wörter 1 [[02 - RESOURCES/Notes/Switch\|Switch]] mit eine oder mehre
 
 
 
-![VLAN-20240722142113905.png](/img/user/02%20-%20RESOURCES/Files/VLAN-20240722142113905.png)
+![VLAN-20240722142113905.png](/img/user/02%20-%20RESOURCES/Files/IMG/VLAN-20240722142113905.png)
 
 Dafür gibt es eine bessere Möglichkeit.
 Es heißt [[02 - RESOURCES/Notes/Trunking und Tagging\|Trunking und Tagging]].

@@ -12,8 +12,8 @@ git commit -m "this is a commit"
 >[!tip] 
 >Du kannst ```git commit -m "Titel #ENTER Kurz Beschreibung #ENTER"```
 >eingeben. Somit  wird in deinen GitHub so aussehen:
->![Pasted image 20230804162548.png](/img/user/02%20-%20RESOURCES/Files/IMGs/Pasted%20image%2020230804162548.png)
->![Pasted image 20230804162651.png](/img/user/02%20-%20RESOURCES/Files/IMGs/Pasted%20image%2020230804162651.png)
+>![Pasted image 20230804162548.png](/img/user/02%20-%20RESOURCES/Files/IMG/Pasted%20image%2020230804162548.png)
+>![Pasted image 20230804162651.png](/img/user/02%20-%20RESOURCES/Files/IMG/Pasted%20image%2020230804162651.png)
 
 # --amend
 ```bash

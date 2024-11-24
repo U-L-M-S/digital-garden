@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-resources/notes/dmz/","tags":["netzwerk/firewall"],"noteIcon":"","updated":"2024-08-04T00:05:58.778+02:00"}
 ---
 
-![DMZ-20240804000213781.png](/img/user/02%20-%20RESOURCES/Files/DMZ-20240804000213781.png)
+![DMZ-20240804000213781.png](/img/user/02%20-%20RESOURCES/Files/IMG/DMZ-20240804000213781.png)
 >Demilitarisierte Zone
 >>Ein Sicherheitsbereich in einem [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]], der es ermöglicht, dass bestimmte Dienste von außen erreichbar sind, ohne das interne [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] zu gefährden.
 >>>Es liegt zwischen dem internen [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] ([[02 - RESOURCES/Notes/LAN\|LAN]]) un dem [[02 - RESOURCES/Notes/Internet\|Internet]].

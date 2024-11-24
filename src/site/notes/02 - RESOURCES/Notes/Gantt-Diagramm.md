@@ -9,7 +9,7 @@ Hier ist eine Zusammenfassung für das **Gantt-Diagramm** in deinem Stil:
 
 >[!summary]  
 >Ein **Gantt-Diagramm** bietet eine klare Übersicht über Projektaufgaben, ihre Dauer und Abhängigkeiten. Es zeigt den zeitlichen Ablauf und den Fortschritt des Projekts.
->![Gantt-Diagramm-20241110173547482.png](/img/user/02%20-%20RESOURCES/Files/Gantt-Diagramm-20241110173547482.png)
+>![Gantt-Diagramm-20241110173547482.png](/img/user/02%20-%20RESOURCES/Files/IMG/Gantt-Diagramm-20241110173547482.png)
 >
 >>- **Projektphasen und Aufgaben**: Das Projekt wird in Phasen und spezifische Aufgaben unterteilt, die dann auf der Zeitleiste dargestellt werden.
 >>- **Dauer**: Jede Aufgabe erhält eine Start- und Endzeit, die ihre Dauer bestimmt.

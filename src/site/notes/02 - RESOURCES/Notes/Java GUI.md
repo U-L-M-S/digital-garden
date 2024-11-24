@@ -8,5 +8,5 @@ Erstens installiert den [[02 - RESOURCES/Notes/Framework\|Framework]] [[02 - RES
 > [!note] PATH
 > Help -> Eclipse Marketplace... -> nach "[[02 - RESOURCES/Notes/WindowBuilder\|WindowBuilder]]" nachsuchen und installieren
 
-![2024-06-21-20240621140219152.png](/img/user/02%20-%20RESOURCES/Files/2024-06-21-20240621140219152.png)
+![2024-06-21-20240621140219152.png](/img/user/02%20-%20RESOURCES/Files/IMG/2024-06-21-20240621140219152.png)
 Es ist ein Plugin, der durch drag and drop Code generiert.

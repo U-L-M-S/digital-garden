@@ -9,7 +9,7 @@ Man soll Hauptsächlich nur ein Begriff kennen lernen wenn es um [[02 - RESOURCE
 >[!note] 
 >Wenn ein [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]] nicht in das Netz verbunden ist. Ist die Aufgabe der [[02 - RESOURCES/Notes/Router\|Router]] die [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]s zu vergeben. Viele moderne [[02 - RESOURCES/Notes/Router\|Router]] haben eine [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]] in sich.
 
-![Router-20240722190813246.png|280](/img/user/02%20-%20RESOURCES/Files/Router-20240722190813246.png)![Router-20240723100123014.png|275](/img/user/02%20-%20RESOURCES/Files/Router-20240723100123014.png)
+![Router-20240722190813246.png|280](/img/user/02%20-%20RESOURCES/Files/IMG/Router-20240722190813246.png)![Router-20240723100123014.png|275](/img/user/02%20-%20RESOURCES/Files/IMG/Router-20240723100123014.png)
 >[!note] 
 >Standartig ist der [[02 - RESOURCES/Notes/Router\|Router]]-[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] das erste [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] nach den [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] **ODER** ein vor den [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]-[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]
 

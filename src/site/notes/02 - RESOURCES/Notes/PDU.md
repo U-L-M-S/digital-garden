@@ -13,4 +13,4 @@ Protokoll, der die Verantwortung hat die bestimmte Information von jeder Layer i
 - [[02 - RESOURCES/Notes/Layer 3\|Layer 3]] setzt das **Packet** ein. Ziel des [[IP-Adresse\|IP-Adresse]].
 - [[02 - RESOURCES/Notes/Layer 2\|Layer 2]] setzt das **Frame** ein. Informationen über das [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]] von Sender und Empfänger.
 - [[02 - RESOURCES/Notes/Layer 1\|Layer 1]] setzt die **Bits** ein. Informationen über die Übertragung: elektronische Signale, Lichtimpulsen, Funkwellen.
-![PDU-20240722114159211.png](/img/user/02%20-%20RESOURCES/Files/PDU-20240722114159211.png)
+![PDU-20240722114159211.png](/img/user/02%20-%20RESOURCES/Files/IMG/PDU-20240722114159211.png)

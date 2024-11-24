@@ -9,7 +9,7 @@
 Du kannst mit Git auf zwei Arten arbeiten: Offline(Local) oder Online(GitHub).
 
 # Basics (Offline)
-![Pasted image 20230803235339.png](/img/user/02%20-%20RESOURCES/Files/IMGs/Pasted%20image%2020230803235339.png)
+![Pasted image 20230803235339.png](/img/user/02%20-%20RESOURCES/Files/IMG/Pasted%20image%2020230803235339.png)
 [[02 - RESOURCES/Notes/git init\|git init]]
 
 [[02 - RESOURCES/Notes/git add\|git add]]
@@ -28,7 +28,7 @@ Du kannst mit Git auf zwei Arten arbeiten: Offline(Local) oder Online(GitHub).
 [[02 - RESOURCES/Notes/gitignore\|gitignore]]
 
 # GitHub
-![Pasted image 20230806150949.png](/img/user/02%20-%20RESOURCES/Files/IMGs/Pasted%20image%2020230806150949.png)
+![Pasted image 20230806150949.png](/img/user/02%20-%20RESOURCES/Files/IMG/Pasted%20image%2020230806150949.png)
 >Wie du es sehen kannst, GitHub ist nicht anders als eine Klone von deinen Local Git. 
 
 [[02 - RESOURCES/Notes/git clone\|git clone]]

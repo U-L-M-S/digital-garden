@@ -5,7 +5,7 @@
 > [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]gäret, das Datenpakete basierend auf [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]] and die richtigen Ports weiterleitet, wenn der Empfänger nicht in die Liste eingetragen ist wird das Datenpakete an allen weitergeleitet ([[02 - RESOURCES/Notes/Broadcast\|Broadcast]]). Hier sind die 'Ports', die Switch-Anschlüsse gemeint.
 > Es arbeitet in die [[02 - RESOURCES/Notes/Layer 2\|Layer 2]] und sorgt noch dafür die effiziente Kommunikation innerhalb eines lokalen [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]s.
 
-![Switch-20240715155812018.png|147](/img/user/02%20-%20RESOURCES/Files/Switch-20240715155812018.png) ![Switch-20240715160016523.png|150](/img/user/02%20-%20RESOURCES/Files/Switch-20240715160016523.png)
+![Switch-20240715155812018.png|147](/img/user/02%20-%20RESOURCES/Files/IMG/Switch-20240715155812018.png) ![Switch-20240715160016523.png|150](/img/user/02%20-%20RESOURCES/Files/IMG/Switch-20240715160016523.png)
 
 
 
@@ -20,5 +20,5 @@ Jedes Mal, wenn ein Rechner nicht mehr in der Liste ist, kann es daran liegen, d
 >Es wird jedoch vom  Router gestoppt, d.h, es geht nicht durch den Router hindurch.
 
 Die Rechner, die nicht in die Liste eingetragen sind, werden nur eingetragen, wenn diese ein [[Netzwerkpaket\|Netzwerkpaket]] verschickt.
-![Switch-20240715161703377.png](/img/user/02%20-%20RESOURCES/Files/Switch-20240715161703377.png)
+![Switch-20240715161703377.png](/img/user/02%20-%20RESOURCES/Files/IMG/Switch-20240715161703377.png)
 So sieht die Liste aus. Das [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]]n von jeder Rechner, der was sendet, wird diese in den Liste eingetragen.
