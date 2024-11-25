@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"updated":"2024-11-12T13:06:55.301+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"updated":"2024-11-25T14:12:30.010+01:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -24,7 +24,7 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 - [[00 - PROJECTS/GFN/AP1/LF05 Software zur Verwaltung von Daten anpassen\|LF05 Software zur Verwaltung von Daten anpassen]] 
 - [[00 - PROJECTS/GFN/AP1/LF06 Serviceanfragen bearbeiten\|LF06 Serviceanfragen bearbeiten]]
 
->[!note] Die API1-Prüfung ist dafür bekannt, die Lernfelder LF1 bis LF6 abzudecken. Alles andere ist nur ein "Nice-to-Have"-Inhalt.
+>[!note] Die AP1-Prüfung ist dafür bekannt, die Lernfelder LF1 bis LF6 abzudecken. Alles andere ist nur ein "Nice-to-Have"-Inhalt.
 
 - [[00 - PROJECTS/GFN/AP1/LF07 Cyber-physische Systeme ergänzen\|LF07 Cyber-physische Systeme ergänzen]]
 - [[00 - PROJECTS/GFN/AP1/LF08 Daten systemübergreifend bereitstellen\|LF08 Daten systemübergreifend bereitstellen]]
