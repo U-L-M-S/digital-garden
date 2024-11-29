@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-archives/abgeschlossen/java/","tags":["code/java","GFN/prüfungsrelevant/AP2","GFN/LFzq17a","UML","finished"],"noteIcon":"","updated":"2024-11-24T22:04:10.731+01:00"}
+{"dg-publish":true,"permalink":"/03-archives/abgeschlossen/java/","tags":["code/java","GFN/prüfungsrelevant/AP2","GFN/LFzq17a","UML","finished"],"updated":"2024-11-24T22:04:10.000+01:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
