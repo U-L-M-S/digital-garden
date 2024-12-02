@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry","gardenEntry","gardenEntry"],"updated":"2024-11-25T14:12:30.010+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"updated":"2024-12-02T09:11:30.306+01:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -33,7 +33,7 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 # AP2-relevant
 - [[00 - PROJECTS/GFN/AP2/LF10 Benutzerschnittstellen gestalten und entwickeln\|LF10 Benutzerschnittstellen gestalten und entwickeln]]
 - [[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]]
-
+- [[00 - PROJECTS/GFN/AP2/LF12 Kundenspezifische Anwendungsentwicklung durchführen\|LF12 Kundenspezifische Anwendungsentwicklung durchführen]]
 # +
 - [[00 - PROJECTS/GFN/+/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]]
 - [[00 - PROJECTS/GFN/+/LFvt4 Datenbanken und SQL\|LFvt4 Datenbanken und SQL]]
