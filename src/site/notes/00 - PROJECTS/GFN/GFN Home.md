@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2024-12-15T17:44:11.816+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2024-12-15T17:44:53.267+01:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -20,7 +20,6 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 ---
 # AP1-relevant:
 - [[00 - PROJECTS/GFN/+/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]] (Fertig)
-
 - [[00 - PROJECTS/GFN/AP1/LF01 Das Unternehmen und die eigene Rolle im Betrieb\|LF01 Das Unternehmen und die eigene Rolle im Betrieb]] (In Progress)
 - [[00 - PROJECTS/GFN/AP1/LF02 Arbeitsplatz nach Kundenwunsch ausstatten\|LF02 Arbeitsplatz nach Kundenwunsch ausstatten]] (In Progress)
 - [[00 - PROJECTS/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]] (In Progress)
