@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2024-12-14T20:48:34.430+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2024-12-14T20:48:55.144+01:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -21,15 +21,7 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 - [[00 - PROJECTS/GFN/AP1/LF02 Arbeitsplatz nach Kundenwunsch ausstatten\|LF02 Arbeitsplatz nach Kundenwunsch ausstatten]] (In Progress)
 - [[00 - PROJECTS/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]] (In Progress)
 - [[00 - PROJECTS/GFN/AP1/LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen\|LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen]] (In Progress) 
-- [[00 - PROJECTS/GFN/AP1/LF05 Software zur Verwaltung von Daten anpassen\|LF05 Software zur Verwaltung von Daten anpassen]] (In Progress) 
-- [[00 - PROJECTS/GFN/AP1/LF06 Serviceanfragen bearbeiten\|LF06 Serviceanfragen bearbeiten]] (In Progress)
-
->[!note] Die AP1-Prüfung ist dafür bekannt, die Lernfelder LF1 bis LF6 abzudecken. Alles andere ist nur ein "Nice-to-Have"-Inhalt.
-
-- [[00 - PROJECTS/GFN/AP1/LF07 Cyber-physische Systeme ergänzen\|LF07 Cyber-physische Systeme ergänzen]] (In Progress)
-- [[00 - PROJECTS/GFN/AP1/LF08 Daten systemübergreifend bereitstellen\|LF08 Daten systemübergreifend bereitstellen]] (In Progress)
-- [[00 - PROJECTS/GFN/AP1/LF09 Netzwerke und Dienste bereitstellen\|LF09 Netzwerke und Dienste bereitstellen]] (Finished)
-
+- [[LF05 Software zur 
 # AP2-relevant
 - [[00 - PROJECTS/GFN/AP2/LF10 Benutzerschnittstellen gestalten und entwickeln\|LF10 Benutzerschnittstellen gestalten und entwickeln]] (In Progress)
 - [[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]] (In Progress)
