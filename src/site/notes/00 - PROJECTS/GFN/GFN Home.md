@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2024-12-15T17:35:04.187+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2024-12-15T17:36:48.253+01:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -32,10 +32,9 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 - [[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]] (In Progress)
 - [[00 - PROJECTS/GFN/AP2/LF12 Kundenspezifische Anwendungsentwicklung durchführen\|LF12 Kundenspezifische Anwendungsentwicklung durchführen]] (In Progress)
 # +
-- [[00 - PROJECTS/GFN/AP1/LF07 Cyber-physische Systeme ergänzen\|LF07 Cyber-physische Systeme ergänzen]]
-- [[00 - PROJECTS/GFN/AP1/LF08 Daten systemübergreifend bereitstellen\|LF08 Daten systemübergreifend bereitstellen]]
-- [[00 - PROJECTS/GFN/AP1/LF09 Netzwerke und Dienste bereitstellen\|LF09 Netzwerke und Dienste bereitstellen]]
-___
+- [[00 - PROJECTS/GFN/AP1/LF07 Cyber-physische Systeme ergänzen\|LF07 Cyber-physische Systeme ergänzen]] (In Progress)
+- [[00 - PROJECTS/GFN/AP1/LF08 Daten systemübergreifend bereitstellen\|LF08 Daten systemübergreifend bereitstellen]] (In Progress)
+- [[00 - PROJECTS/GFN/AP1/LF09 Netzwerke und Dienste bereitstellen\|LF09 Netzwerke und Dienste bereitstellen]] (Fertig)
 - [[00 - PROJECTS/GFN/+/LFvt4 Datenbanken und SQL\|LFvt4 Datenbanken und SQL]] (In Progress)
 - [[00 - PROJECTS/GFN/+/LFzq17a Objektorientierte Programmierung\|LFzq17a Objektorientierte Programmierung]] (In Progress)
 
