@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2024-12-15T17:37:36.286+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2024-12-15T17:38:00.124+01:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -17,6 +17,8 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 
 ---
 # AP1-relevant:
+- - [[00 - PROJECTS/GFN/+/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]] (Fertig)
+
 - [[00 - PROJECTS/GFN/AP1/LF01 Das Unternehmen und die eigene Rolle im Betrieb\|LF01 Das Unternehmen und die eigene Rolle im Betrieb]] (In Progress)
 - [[00 - PROJECTS/GFN/AP1/LF02 Arbeitsplatz nach Kundenwunsch ausstatten\|LF02 Arbeitsplatz nach Kundenwunsch ausstatten]] (In Progress)
 - [[00 - PROJECTS/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]] (In Progress)
@@ -24,7 +26,6 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 - [[00 - PROJECTS/GFN/AP1/LF05 Software zur Verwaltung von Daten anpassen\|LF05 Software zur Verwaltung von Daten anpassen]] (In Progress) 
 - [[00 - PROJECTS/GFN/AP1/LF06 Serviceanfragen bearbeiten\|LF06 Serviceanfragen bearbeiten]] (In Progress)
 
-- [[00 - PROJECTS/GFN/+/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]] (Fertig)
 
 >[!note] In der AP1-Prüfung kommen immer LF01 bis LF06 dran. LF07 bis LF09 sind nur ein "Nice-to-have".
 
