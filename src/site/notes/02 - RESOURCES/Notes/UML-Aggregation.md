@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-aggregation/","tags":["UML/Klassendiagramm"],"noteIcon":"","updated":"2024-11-06T17:56:41.579+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-aggregation/","tags":["UML/Klassendiagramm"],"updated":"2024-11-06T17:56:41.000+01:00"}
 ---
 
 >Bei Aggregation wird die eine [[02 - RESOURCES/Notes/Klasse\|Klasse]] mit einer anderen verbunden, ohne dass die eine von der Existenz der anderen komplett abhängig ist.
