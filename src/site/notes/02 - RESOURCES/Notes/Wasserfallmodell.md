@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wasserfallmodell/","tags":["projektmanagement"],"noteIcon":"","updated":"2024-11-10T16:00:06.400+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wasserfallmodell/","tags":["projektmanagement"],"updated":"2024-11-10T16:00:06.000+01:00"}
 ---
 
 
