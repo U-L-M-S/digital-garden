@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/product-owner/","tags":["projektmanagement/vorgehensmodell"],"noteIcon":"","updated":"2024-11-22T21:14:41.993+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/product-owner/","tags":["projektmanagement/vorgehensmodell"],"updated":"2024-11-22T21:14:41.000+01:00"}
 ---
 
 >Ein **Product Owner** ist eine zentrale Rolle im [[02 - RESOURCES/Notes/Scrum\|Scrum]]-[[02 - RESOURCES/Notes/Framework\|Framework]]. Er oder sie ist verantwortlich für die [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Priorisierung des **Product Backlogs**, also der Liste der Aufgaben, die im Rahmen des Projekts erledigt werden müssen. 
