@@ -1,15 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/product-owner/","tags":["projektmanagement/vorgehensmodell"],"updated":"2024-11-22T21:14:41.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/product-owner/","tags":["GFN/LFzq3a"],"updated":"2025-01-13T17:08:58.000+01:00"}
 ---
 
->Ein **Product Owner** ist eine zentrale Rolle im [[02 - RESOURCES/Notes/Scrum\|Scrum]]-[[02 - RESOURCES/Notes/Framework\|Framework]]. Er oder sie ist verantwortlich für die [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Priorisierung des **Product Backlogs**, also der Liste der Aufgaben, die im Rahmen des Projekts erledigt werden müssen. 
->>Der Product Owner stellt sicher, dass das Team an den wichtigsten und wertvollsten Aufgaben arbeitet, die den größten Nutzen für das [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] oder den Kunden bringen.
+>Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Scrum\|Scrum]].
+>> An ende des Kurses wird keine LZK geschrieben. Dieses Lernfeld ist nur da um uns für die [[02 - RESOURCES/Notes/Scrum\|Scrum]]- Zertifikat zu vorbereiten.
+![[ASF Präsentation v3.0.pdf]]
 
-Zu den Hauptaufgaben eines Product Owners gehören:
+# 1. Das Agile Manifest
+___
+>Wir beginnen das Thema mit der brutalen Information, dass weniger als $\frac{1}{4}$ aller Softwareprojekte erfolgreich abgeschlossen werden.
 
-1. **Definition der Anforderungen**: Der Product Owner beschreibt die Funktionen und Anforderungen, die das Produkt haben soll.
-2. **Priorisierung des Backlogs**: Er oder sie ordnet die Aufgaben nach Wichtigkeit, basierend auf dem Wert für das [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]].
-3. **[[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]]-Management**: Der Product Owner kommuniziert regelmäßig mit Stakeholdern (wie Kunden oder Führungskräften), um sicherzustellen, dass das Team an den richtigen Prioritäten arbeitet.
-4. **Annahme von Ergebnissen**: Der Product Owner überprüft und akzeptiert die Ergebnisse der Sprints, um sicherzustellen, dass die entwickelten Funktionen den Anforderungen entsprechen.
+Der Grund dafür ist, dass viele [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] das [[02 - RESOURCES/Notes/Agilitätsprinzip\|Agilitätsprinzip]] nicht verstehen oder nicht richtig in ihrer Arbeitskultur einsetzen.
 
-Der Product Owner arbeitet eng mit dem [[02 - RESOURCES/Notes/Scrum\|Scrum]]-Team zusammen, sorgt jedoch dafür, dass das Team in einer klaren Richtung arbeitet und keine Ressourcen auf weniger wichtige Aufgaben verschwendet werden.
+>[!summary] Kapitelzusammenfassung  
+>In diesem Kapitel sollst du verstehen, was das [[02 - RESOURCES/Notes/Agilitätsprinzip\|Agilitätsprinzip]] ist und wie es in einer [[02 - RESOURCES/Notes/agile Organisation\|agile Organisation]] funktioniert.
+
+
+# 2. Agiles Mindset
+___
+>Wir alle leben in einer [[02 - RESOURCES/Notes/VUCA\|VUCA]]-Welt, das heißt, [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] müssen sich schnell anpassen, um überhaupt überleben zu können.  
+
+Standardmäßig werden [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassische Vorgehensmodelle]] wie das [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]] verwendet. In der IT-Welt hingegen kommen häufig die [[02 - RESOURCES/Notes/Agilitätsprinzip\|Agilitätsprinzip]]en zum Einsatz, um Risiken zu minimieren, sich schnell an Kundenwünsche anzupassen und iterativ sowie inkrementell zu arbeiten.  
+
+Mit anderen Worten: Die Phasen des [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassische Vorgehensmodelle]]s, die im [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]] nacheinander durchlaufen werden, laufen bei agilen Ansätzen nicht über das gesamte Projekt hinweg

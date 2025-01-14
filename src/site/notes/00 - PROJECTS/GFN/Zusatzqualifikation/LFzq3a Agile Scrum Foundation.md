@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"updated":"2024-11-24T21:48:39.000+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"updated":"2025-01-13T17:46:44.000+01:00"}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Scrum\|Scrum]].
@@ -67,6 +67,9 @@ ___
 - Entwicklerteam
 Diese drei sind die wichtigen Elemente für das Endprodukt und übernehmen daher die volle Verantwortung für das Produkt.
 
+>[!note] 
+>10 oder weniger Mitglieder.
+
 ### Entwickler
 > Die Entwickler sind hauptsächlich verantwortlich für die Herstellung des Endprodukts.
 > > Um das möglich zu machen, müssen sie alle folgenden Kriterien erfüllen:
@@ -81,6 +84,10 @@ Diese drei sind die wichtigen Elemente für das Endprodukt und übernehmen daher
 ### [[02 - RESOURCES/Notes/Product Owner\|Product Owner]]
 >[[02 - RESOURCES/Notes/Product Owner\|Product Owner]] oder [[02 - RESOURCES/Notes/Product Owner\|Produktinhaber]]
 
+
+### [[02 - RESOURCES/Notes/Scrum Master\|Scrum Master]]
+> [[02 - RESOURCES/Notes/Scrum Master\|Scrum Master]] hat nicht die Aufgabe die Entwickler als auch die Organisation  zu unterstützen um den Produkt zu beenden. 
+> Seine Aufgabe ist nur den Team das Scrum einzuführen damit die Frameworks richtig eingesetzt werden.
 
 
 
