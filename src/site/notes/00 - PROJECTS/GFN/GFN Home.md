@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry","gardenEntry"],"updated":"2025-01-10T15:44:57.015+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"updated":"2025-01-19T16:43:04.000+01:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -27,7 +27,6 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 - [[00 - PROJECTS/GFN/AP1/LF05 Software zur Verwaltung von Daten anpassen\|LF05 Software zur Verwaltung von Daten anpassen]] (In Progress) 
 - [[00 - PROJECTS/GFN/AP1/LF06 Serviceanfragen bearbeiten\|LF06 Serviceanfragen bearbeiten]] (In Progress)
 
-
 >[!note] In der AP1-Prüfung kommen immer LF01 bis LF06 dran. LF07 bis LF09 sind nur ein "Nice-to-have".
 
 # AP2-relevant
@@ -43,7 +42,6 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 
 # Zusatzqualifikation
 - [[00 - PROJECTS/GFN/Zusatzqualifikation/LFzq3a Agile Scrum Foundation\|LFzq3a Agile Scrum Foundation]] (In Progress)
-
 
 ___
 ___
