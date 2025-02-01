@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rueckgabewerttyp/","tags":["code"],"updated":"2024-10-21T21:26:36.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/rueckgabewerttyp/","tags":["code"],"noteIcon":"","updated":"2024-10-21T21:26:36.395+02:00"}
 ---
 
 >Der **Rückgabewerttyp** einer [[02 - RESOURCES/Notes/Methode\|Methode]] oder [[02 - RESOURCES/Notes/Funktion\|Funktion]] in der Programmierung gibt an, **welchen [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]** die [[02 - RESOURCES/Notes/Methode\|Methode]] nach ihrer Ausführung zurückliefert. 
