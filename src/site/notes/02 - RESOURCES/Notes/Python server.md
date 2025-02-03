@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/python-server/","tags":["code/python","software/server","netzwerk/protocol"],"noteIcon":"","updated":"2024-11-02T22:48:21.383+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/python-server/","tags":["code/python","software/server","netzwerk/protocol"],"updated":"2024-11-02T22:48:21.000+01:00"}
 ---
 
 >Ein [[02 - RESOURCES/Notes/HTTP\|HTTP]]-Server starten.

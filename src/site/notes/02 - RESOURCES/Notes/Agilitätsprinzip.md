@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/agilitaetsprinzip/","tags":["projektmanagement/vorgehensmodell/agile","BWL"],"noteIcon":"","updated":"2024-11-12T05:59:13.065+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/agilitaetsprinzip/","tags":["projektmanagement/vorgehensmodell/agile","BWL"],"updated":"2024-11-12T05:59:13.000+01:00"}
 ---
 
 >Es ist die Fähigkeit eines [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]s, Entscheidungen flexibel, kreativ, [[02 - RESOURCES/Notes/dynamic\|dynamisch]] und mit Freude zu treffen, um **schneller** und **flexibler** auf Kundenanforderungen eingehen zu können.
