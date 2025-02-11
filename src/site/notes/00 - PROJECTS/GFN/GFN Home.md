@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"updated":"2025-01-19T16:43:04.000+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"updated":"2025-02-11T09:07:30.796+01:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -26,6 +26,9 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 - [[00 - PROJECTS/GFN/AP1/LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen\|LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen]] (In Progress) 
 - [[00 - PROJECTS/GFN/AP1/LF05 Software zur Verwaltung von Daten anpassen\|LF05 Software zur Verwaltung von Daten anpassen]] (In Progress) 
 - [[00 - PROJECTS/GFN/AP1/LF06 Serviceanfragen bearbeiten\|LF06 Serviceanfragen bearbeiten]] (In Progress)
+
+>[!info] Prüfungskatalog 2025 
+>Lautet den [[02 - RESOURCES/Notes/AP1 Prüfungskatalog 2025\|AP1 Prüfungskatalog 2025]]. Viele Themen wurde gestrichen. Bitte Überprüft es.
 
 >[!note] In der AP1-Prüfung kommen immer LF01 bis LF06 dran. LF07 bis LF09 sind nur ein "Nice-to-have".
 
