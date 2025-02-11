@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn//lf-09-netzwerke-und-dienste-bereitstellen/","tags":["GFN/LF09","netzwerk","finished"],"updated":"2024-11-13T16:22:48.882+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn//lf-09-netzwerke-und-dienste-bereitstellen/","tags":["GFN/LF09","netzwerk","finished"],"noteIcon":"","updated":"2024-11-13T16:22:48.000+01:00"}
 ---
 
 >Dieses Lernfeld ist eine Erweiterung von [[00 - PROJECTS/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]. 

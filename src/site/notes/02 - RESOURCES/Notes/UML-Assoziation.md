@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-assoziation/","tags":["UML/Klassendiagramm"],"updated":"2024-11-06T17:24:33.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-assoziation/","tags":["UML/Klassendiagramm"],"noteIcon":"","updated":"2024-11-06T17:24:33.847+01:00"}
 ---
 
 >Zwei Klassen werden mit eine Linie verbunden.
