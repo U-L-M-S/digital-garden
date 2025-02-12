@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/projektmanagement/","tags":["GFN/prüfungsrelevant/AP1","projektmanagement"],"noteIcon":"","updated":"2025-02-11T09:43:05.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/projektmanagement/","tags":["GFN/prüfungsrelevant/AP1","projektmanagement"],"updated":"2025-02-12T11:28:53.606+01:00"}
 ---
 
 >Es kommt aus Lateinisch und hat als Merkmale eine Aufgabe einmal zu machen (Ohne Wiederholung). 
@@ -24,4 +24,25 @@ Ein [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] kann aber in 2
 
 Jetzt, da du weißt, was ein [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] ist, solltest du den [[02 - RESOURCES/Notes/Deming Zyklus\|Deming Zyklus]] kennenlernen und natürlich wissen die 5 Gründe für eine Projektmanagement.
 
-[[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]]
+# Wofür ist [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] überhaupt nötig?
+
+1. Wachsende Komplexität
+- Mehr Vernetzung (Kunden, Lieferanten)
+- Komplexere technische Lösungen
+
+2. Dynamische Märkte
+- Internationale Konkurrenz
+- Kürzere Produktlebenszyklen
+- Rasche Entscheidungen
+
+3. Technische Entwicklung
+- Neue Informations- und Kommunikationswege
+
+4. Wertewandel
+- Dezentralisierung
+- Partizipation / Empowerment
+- Selbstverwirklichung
+
+5. Entwicklungen in der ökologischen Umwelt
+- Neue Gesetze und Regularien
+- Ökologische Probleme

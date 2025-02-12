@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sprint-review/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2024-11-22T10:56:01.982+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sprint-review/","tags":["projektmanagement/vorgehensmodell/agile"],"updated":"2024-11-22T10:56:01.000+01:00"}
 ---
 
 >Es ist ein regelmäßiges Treffen am Ende eines jeden Sprints im [[02 - RESOURCES/Notes/Scrum\|Scrum]]-[[02 - RESOURCES/Notes/Prozess\|Prozess]]. Ziel ist es, das Ergebnis des Sprints zu präsentieren und Feedback von den Stakeholdern (z. B. [[02 - RESOURCES/Notes/Product Owner\|Product Owner]], Kunden, Manager) zu erhalten. 
