@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1"],"updated":"2025-02-12T10:42:37.506+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-02-12T10:42:37.000+01:00"}
 ---
 
 >Das ist eine Zusammenfassung was in die AP1 2025 drankommen wird/kann.
