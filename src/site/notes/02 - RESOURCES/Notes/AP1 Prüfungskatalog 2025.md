@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1"],"updated":"2025-02-12T10:42:37.506+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1"],"updated":"2025-02-19T16:00:03.841+01:00"}
 ---
 
 >Das ist eine Zusammenfassung was in die AP1 2025 drankommen wird/kann.
@@ -26,7 +26,7 @@
 - [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[02 - RESOURCES/Notes/IPv6\|IPv6]]
 
 ## [[02 - RESOURCES/Notes/HDD\|HDD]] vs [[02 - RESOURCES/Notes/SSD\|SSD]]
-## Übertragungsraten, -zeiten und Datenmengen berechnen
+## [[02 - RESOURCES/Notes/Übertragungsraten\|Übertragungsraten]], [[Übertragungszeiten\|Übertragungszeiten]] und [[Datenmengen\|Datenmengen]] berechnen
 ## [[UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]]
 ## Fehler in Code finden und Schreibtischtest durchführen
 
