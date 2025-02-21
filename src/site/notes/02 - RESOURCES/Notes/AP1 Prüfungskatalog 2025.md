@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1"],"updated":"2025-02-19T16:00:03.841+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1"],"updated":"2025-02-21T16:23:10.370+01:00"}
 ---
 
 >Das ist eine Zusammenfassung was in die AP1 2025 drankommen wird/kann.
@@ -27,7 +27,7 @@
 
 ## [[02 - RESOURCES/Notes/HDD\|HDD]] vs [[02 - RESOURCES/Notes/SSD\|SSD]]
 ## [[02 - RESOURCES/Notes/Übertragungsraten\|Übertragungsraten]], [[Übertragungszeiten\|Übertragungszeiten]] und [[Datenmengen\|Datenmengen]] berechnen
-## [[UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]]
+## [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]]
 ## Fehler in Code finden und Schreibtischtest durchführen
 
 ## IT-Sicherheit
@@ -39,5 +39,3 @@
 ## Datenschutz
 - Betroffenenrechte nach DSGVO
 - Anonymisierung und Pseudonymisierung
-
-
