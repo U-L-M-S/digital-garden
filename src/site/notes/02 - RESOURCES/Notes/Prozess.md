@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/prozess/","tags":["projektmanagement","informatik"],"updated":"2024-11-22T10:58:38.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/prozess/","tags":["projektmanagement","informatik"],"noteIcon":"","updated":"2024-11-22T10:58:38.450+01:00"}
 ---
 
 >Eine **Aufgabe** ist in der Computerwelt eine einzelne, definierte Handlung oder Operation, die von einem Computer ausgeführt wird. Alle Aufgaben, die ein Computer durchführt, sind oft im Hintergrund verborgen und laufen automatisiert ab.
