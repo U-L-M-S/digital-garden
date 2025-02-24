@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/anonymisierung/","tags":["GFN/prüfungsrelevant/AP1"],"updated":"2025-02-24T14:06:12.810+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/anonymisierung/","tags":["GFN/prüfungsrelevant/AP1"],"updated":"2025-02-24T16:09:39.581+01:00"}
 ---
 
 >Die Daten werden so verändert, dass eine Identifikation der Person nicht mehr möglich ist, selbst nicht mit zusätzlichen Informationen.
@@ -7,3 +7,8 @@
 
 >[!note] 
 >Nicht mit der [[02 - RESOURCES/Notes/Pseudonymisierung\|Pseudonymisierung]] verwechseln.
+
+>[!example] 
+>Die Person <mark style="background: #FFB86CA6;">XXXX XXXXX</mark>, hat an den Tag <mark style="background: #FFB86CA6;">xx.xx.xxxx</mark>.
+>Gesehen wie das Auto geklaut wurde.
+

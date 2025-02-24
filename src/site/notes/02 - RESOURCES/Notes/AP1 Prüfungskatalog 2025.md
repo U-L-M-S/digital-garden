@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-02-21T16:23:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1"],"updated":"2025-02-24T16:04:42.058+01:00"}
 ---
 
 >Das ist eine Zusammenfassung was in die AP1 2025 drankommen wird/kann.
@@ -31,11 +31,12 @@
 ## Fehler in Code finden und Schreibtischtest durchführen
 
 ## IT-Sicherheit
-- Schutzziele ([[02 - RESOURCES/Notes/Vertraulichkeit\|Vertraulichkeit]], [[02 - RESOURCES/Notes/Verfügbarkeit\|Verfügbarkeit]], [[02 - RESOURCES/Notes/Integrität\|Integrität]])
+- [[02 - RESOURCES/Notes/Schutzziele\|Schutzziele]] ([[02 - RESOURCES/Notes/Vertraulichkeit\|Vertraulichkeit]], [[02 - RESOURCES/Notes/Verfügbarkeit\|Verfügbarkeit]], [[02 - RESOURCES/Notes/Integrität\|Integrität]])
 - Hashverfahren
 - Zweifaktorauthentifizierung (2FA)
 - Härtung von Betriebssystemen
 
 ## Datenschutz
-- Betroffenenrechte nach DSGVO
-- Anonymisierung und Pseudonymisierung
+([[02 - RESOURCES/Notes/DSGVO\|DSGVO]] und [[02 - RESOURCES/Notes/BDSG\|BDSG]])
+- Betroffenenrechte nach [[02 - RESOURCES/Notes/DSGVO\|DSGVO]]
+- [[02 - RESOURCES/Notes/Anonymisierung\|Anonymisierung]] und [[02 - RESOURCES/Notes/Pseudonymisierung\|Pseudonymisierung]]
