@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2024-10-06T19:53:41.826+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"updated":"2025-02-24T14:03:23.310+01:00"}
 ---
 
 >[!important] 
 >Diese Zusammenfassung ist noch nicht vollständig.
 >Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
-
 
 # I. Das [[02 - RESOURCES/Notes/Duale System\|Duale System]] vorstellen Präsentation
 >In Deutschland basiert die Berufsausbildung in eine [[02 - RESOURCES/Notes/Duale System\|Duale System]].
@@ -41,6 +40,11 @@ Du muss in der Lager sein zu unterscheiden: [[02 - RESOURCES/Notes/Firma\|Firma]
 [[02 - RESOURCES/Notes/OHG\|OHG]]
 ## [[02 - RESOURCES/Notes/Wirtschaftliche Verflechtung\|Wirtschaftliche Verflechtung]]
 
+
+
+___
+
+Was sind "[[02 - RESOURCES/Notes/Personenbezogene Daten\|Personenbezogene Daten]]" und wo steht das. Und: was ist der Unterschied zwischen "[[02 - RESOURCES/Notes/Pseudonymisierung\|Pseudonymisierung]]" und "[[02 - RESOURCES/Notes/Anonymisierung\|Anonymisierung]]"?
 
 >[!info] 
 >Diese Zusammenfassung basiert auf den Materialien von Herrn Thomas Hochgesang. 
