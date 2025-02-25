@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dsgvo/","tags":["GFN/prüfungsrelevant/AP1"],"updated":"2025-02-25T08:43:41.153+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dsgvo/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-02-25T09:05:21.722+01:00"}
 ---
 
 >Datenschutz-Grundverordnung.
@@ -13,8 +13,13 @@
 - Artikel 15 ([[02 - RESOURCES/Notes/Recht\|Recht]] auf Auskunft):
   Betroffene können erfragen, welche Daten über sie gespeichert sind und wie sie verarbeitet werden.
   
+{ #2a3455}
+
 - Artikel 16 ([[02 - RESOURCES/Notes/Recht\|Recht]] auf Berichtigung):
    Falsche oder unvollständige Daten können korrigiert oder vervollständigt werden.
    
+{ #1d1f30}
+
 - Artikel 17 ([[02 - RESOURCES/Notes/Recht\|Recht]] auf Löschung): 
   Betroffene können verlangen, dass ihre Daten gelöscht werden, wenn z. B. die Daten nicht mehr benötigt werden oder unrechtmäßig verarbeitet wurden.
+{ #ce7839}
