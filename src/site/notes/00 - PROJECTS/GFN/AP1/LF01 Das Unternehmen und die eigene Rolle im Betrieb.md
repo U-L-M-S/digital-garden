@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"updated":"2025-02-24T14:03:23.310+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"updated":"2025-02-25T09:16:14.198+01:00"}
 ---
 
 >[!important] 
@@ -43,11 +43,14 @@ Du muss in der Lager sein zu unterscheiden: [[02 - RESOURCES/Notes/Firma\|Firma]
 
 
 ___
+#GFN/prüfungsrelevant/AP1/vorbereitung 
 
-Was sind "[[02 - RESOURCES/Notes/Personenbezogene Daten\|Personenbezogene Daten]]" und wo steht das. Und: was ist der Unterschied zwischen "[[02 - RESOURCES/Notes/Pseudonymisierung\|Pseudonymisierung]]" und "[[02 - RESOURCES/Notes/Anonymisierung\|Anonymisierung]]"?
+[[02 - RESOURCES/Notes/Personenbezogene Daten\|Personenbezogene Daten]]
+[[02 - RESOURCES/Notes/Pseudonymisierung\|Pseudonymisierung]]
+[[02 - RESOURCES/Notes/Anonymisierung\|Anonymisierung]]
 
 >[!info] 
->Diese Zusammenfassung basiert auf den Materialien von Herrn Thomas Hochgesang. 
+>Diese Zusammenfassung basiert auf den Materialien von Herrn [Thomas Hochgesang](https://coreconnexion.de/2018/09/17/thomas-hochgesang/). 
 >Die Informationen und Konzepte wurden aus den von ihm bereitgestellten Lehrunterlagen und Vorlesungen entnommen.
 >Alle Bilder, die hier gepostet wurden, stammen aus dem Buch [Westermann](https://www.westermann.de/reihe/ITBERUF2020/IT-Berufe?a=1) oder aus den PDF-Präsentationen von Herrn Thomas Hochgesang.
 >Mein Ziel war es, die wesentlichen Punkte zusammenzufassen und die Kerninhalte verständlich darzustellen.
