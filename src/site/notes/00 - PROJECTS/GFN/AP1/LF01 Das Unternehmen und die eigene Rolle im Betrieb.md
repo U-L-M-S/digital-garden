@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"updated":"2025-02-25T09:16:14.198+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"updated":"2025-02-25T10:02:28.910+01:00"}
 ---
 
 >[!important] 
@@ -52,5 +52,5 @@ ___
 >[!info] 
 >Diese Zusammenfassung basiert auf den Materialien von Herrn [Thomas Hochgesang](https://coreconnexion.de/2018/09/17/thomas-hochgesang/). 
 >Die Informationen und Konzepte wurden aus den von ihm bereitgestellten Lehrunterlagen und Vorlesungen entnommen.
->Alle Bilder, die hier gepostet wurden, stammen aus dem Buch [Westermann](https://www.westermann.de/reihe/ITBERUF2020/IT-Berufe?a=1) oder aus den PDF-Präsentationen von Herrn Thomas Hochgesang.
+>Alle Bilder, die hier gepostet wurden, stammen aus dem Buch [Westermann](https://www.westermann.de/reihe/ITBERUF2020/IT-Berufe?a=1) oder aus den PDF-Präsentationen von Herrn [Thomas Hochgesang](https://coreconnexion.de/2018/09/17/thomas-hochgesang/). 
 >Mein Ziel war es, die wesentlichen Punkte zusammenzufassen und die Kerninhalte verständlich darzustellen.
