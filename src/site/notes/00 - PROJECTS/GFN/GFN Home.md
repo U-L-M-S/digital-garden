@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","updated":"2025-02-11T09:07:30.000+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-03-02T12:55:41.061+01:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -29,6 +29,8 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 
 >[!info] Prüfungskatalog 2025 
 >Lautet den [[02 - RESOURCES/Notes/AP1 Prüfungskatalog 2025\|AP1 Prüfungskatalog 2025]]. Viele Themen wurde gestrichen. Bitte Überprüft es.
+
+[[02 - RESOURCES/Notes/AP1 Vorbereitung\|AP1 Vorbereitung]]
 
 >[!note] In der AP1-Prüfung kommen immer LF01 bis LF06 dran. LF07 bis LF09 sind nur ein "Nice-to-have".
 
