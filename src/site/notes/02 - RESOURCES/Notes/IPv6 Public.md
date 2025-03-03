@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6-public/","tags":["netzwerk/ip/ipv6"],"updated":"2024-07-30T11:01:30.830+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6-public/","tags":["netzwerk/ip/ipv6"],"noteIcon":"","updated":"2024-07-30T11:01:30.000+02:00"}
 ---
 
 >Für die Kommunikation zwischen [[02 - RESOURCES/Notes/Router\|Router]] und [[02 - RESOURCES/Notes/Internet\|Internet]]. Beginnt mit **2000::/3**.

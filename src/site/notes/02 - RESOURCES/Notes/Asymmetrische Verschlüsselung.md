@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/asymmetrische-verschluesselung/","tags":["kryptografie","it-sicherheit"],"updated":"2024-11-02T17:34:08.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/asymmetrische-verschluesselung/","tags":["kryptografie","it-sicherheit"],"noteIcon":"","updated":"2024-11-02T17:34:08.082+01:00"}
 ---
 
 >Asymmetrische Verschlüsselung ist eine Methode der Kryptographie, bei der zwei verschiedene Schlüssel verwendet werden: ein **öffentlicher Schlüssel** (public key) und ein **privater Schlüssel** (private key).
