@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-vorbereitung/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-03T19:44:35.354+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-vorbereitung/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-05T11:07:30.031+01:00"}
 ---
 
 # [[02 - RESOURCES/Notes/Datenschutz\|Datenschutz]] 
@@ -11,6 +11,8 @@ Hier sollst du damit klar kommen über die ersten 4 ersten Kapiteln (oder die er
 
 
 ---
-# [[02 - RESOURCES/Notes/Software\|Software]]: [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]]
+# [[02 - RESOURCES/Notes/Software\|Software]]: 
+## [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]]
 > Was ist eine [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]] und seine Merkmalen. Was ist ein Objektdiagramm und wie unterscheidet dieser von einer [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]].
 
+## [[02 - RESOURCES/Notes/UML-Anwendungsfalldiagramm\|Use-Case-Diagramm]]
