@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-vorbereitung/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-05T11:07:30.031+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-vorbereitung/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-05T11:07:30.000+01:00"}
 ---
 
 # [[02 - RESOURCES/Notes/Datenschutz\|Datenschutz]] 
