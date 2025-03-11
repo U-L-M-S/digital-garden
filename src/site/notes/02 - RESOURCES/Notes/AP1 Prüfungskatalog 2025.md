@@ -1,16 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-11T13:48:54.675+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-11T13:54:38.657+01:00"}
 ---
 
 >Das ist eine Zusammenfassung was in die AP1 2025 drankommen wird/kann.
 >>Es wurdet erstellt durch [Broadcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap1-der-it-berufe-ab-2025-it-berufe-podcast-190/) und [[Prüfungskatalog.pdf]]
 
-# Neue Inhalte
->Laut diesen Angaben sind das die neuen Themen, die in der AP1-Prüfung vorkommen werden:
-
-
 ---
 ## 📌 Sichere Themen für die AP1-Prüfung
+>Laut diesen Angaben sind das die neuen Themen, die in der AP1-Prüfung vorkommen werden:
 
 ---
 
