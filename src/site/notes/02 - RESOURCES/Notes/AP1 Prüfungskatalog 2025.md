@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-11T13:54:38.657+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-11T14:03:20.416+01:00"}
 ---
 
 >Das ist eine Zusammenfassung was in die AP1 2025 drankommen wird/kann.
@@ -12,7 +12,7 @@
 ---
 
 
-## ✅ 1. [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]
+## ✅[[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]
 
 ### Projektmethoden und [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]]
 - [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]]
@@ -76,7 +76,7 @@
 
 - Arbeitsspeicher ([[02 - RESOURCES/Notes/RAM\|RAM]])
   - Arten: DRAM, SRAM, DDR
-  - Dual Channel ([[02 - RESOURCES/Notes/Funktion\|Funktion]], Vorteile)
+  - Dual Channel (Funktion, Vorteile)
 
 - Peripheriegeräte
   - Monitore (Technologien, Auflösungen)
