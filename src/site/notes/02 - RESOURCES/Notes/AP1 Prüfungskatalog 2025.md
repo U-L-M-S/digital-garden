@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-11T14:04:04.180+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-11T18:33:42.301+01:00"}
 ---
 
 >Das ist eine Zusammenfassung was in die AP1 2025 drankommen wird/kann.
@@ -11,15 +11,14 @@
 
 ---
 
-
-## ✅[[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]
+## ✅ [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]
 
 ### Projektmethoden und [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]]
 - [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]]
-  - Projektphasen: Analyse, Entwurf, Implementierung, Test, [[02 - RESOURCES/Notes/Betrieb\|Betrieb]]
+  - Projektphasen: Analyse, Entwurf, Implementierung, Test, Wartung
 - [[02 - RESOURCES/Notes/Scrum\|Scrum]]
   - Rollen: [[02 - RESOURCES/Notes/Product Owner\|Product Owner]], [[02 - RESOURCES/Notes/Scrum Master\|Scrum Master]], Entwicklerteam
-  - Ereignisse: [[02 - RESOURCES/Notes/Sprint Planning\|Sprint Planning]], [[02 - RESOURCES/Notes/Daily Scrum\|Daily Scrum]], [[02 - RESOURCES/Notes/Sprint\|Sprint]] Review, [[02 - RESOURCES/Notes/Sprint\|Sprint]] Retrospektive
+  - Ereignisse: [[02 - RESOURCES/Notes/Sprint Planning\|Sprint Planning]], [[02 - RESOURCES/Notes/Daily Scrum\|Daily Scrum]], [[02 - RESOURCES/Notes/Sprint Review\|Sprint Review]], [[02 - RESOURCES/Notes/Sprint Retrospective\|Sprint Retrospective]]
   - Artefakte: [[02 - RESOURCES/Notes/Product Backlog\|Product Backlog]], [[02 - RESOURCES/Notes/Sprint Backlog\|Sprint Backlog]], Increment
 
 - [[02 - RESOURCES/Notes/SMART-Regeln\|SMART-Regeln]]
@@ -50,7 +49,7 @@
 - Projektplanung und -visualisierung
   - [[02 - RESOURCES/Notes/Netzplan\|Netzplan]] (inkl. kritischer Pfad, Pufferzeiten)
   - [[02 - RESOURCES/Notes/Gantt-Diagramm\|Gantt-Diagramm]]
-  - Meilensteine
+  - [[02 - RESOURCES/Notes/Milestone\|Milestone]]
 
 ---
 
