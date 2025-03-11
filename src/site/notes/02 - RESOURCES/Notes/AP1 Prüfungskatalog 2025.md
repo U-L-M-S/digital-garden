@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-11T14:03:20.416+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-11T14:04:04.180+01:00"}
 ---
 
 >Das ist eine Zusammenfassung was in die AP1 2025 drankommen wird/kann.
@@ -98,7 +98,7 @@
   - Aufgaben einzelner Schichten (insbesondere Sicherungsschicht, Vermittlungsschicht)
 
 - [[02 - RESOURCES/Notes/IP\|IP]]-Adressierung
-  - [[02 - RESOURCES/Notes/IPv4\|IPv4]] (Aufb[[02 - RESOURCES/Notes/Subnetting\|au, Subnet]]ting)
+  - [[02 - RESOURCES/Notes/IPv4\|IPv4]] (Aufbau, [[02 - RESOURCES/Notes/Subnetting\|Subnetting]])
   - [[02 - RESOURCES/Notes/IPv6\|IPv6]] (Vorteile, Aufbau)
 
 - Netzwerkadministration
