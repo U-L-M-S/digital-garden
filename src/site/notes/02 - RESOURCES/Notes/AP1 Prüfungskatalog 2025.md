@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-12T09:57:39.351+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-12T13:58:35.000+01:00"}
 ---
 
 >Das ist eine Zusammenfassung was in die AP1 2025 drankommen wird/kann.
@@ -29,12 +29,13 @@
   - Realistisch
   - Terminiert
 
-- Machbarkeit und Wirtschaftlichkeit von Projekten beurteilen
-  - Technisch
-  - Wirtschaftlich
-  - Zeitlich
-  - Organisatorisch
-  - Rechtlich
+- [[02 - RESOURCES/Notes/Machbarkeit und Wirtschaftlichkeit von Projekten beurteilen\|Machbarkeit und Wirtschaftlichkeit von Projekten beurteilen]]
+	- Die 5 Kriterien um zu wissen ob ein Projekt machbar ist:
+	  - Technisch
+	  - Wirtschaftlich
+	  - Zeitlich
+	  - Organisatorisch
+	  - Rechtlich
 
 - [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] vs. [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]]
   - Inhalte und Unterschiede kennen
