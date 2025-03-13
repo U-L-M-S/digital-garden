@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-12T13:58:35.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-13T10:19:16.557+01:00"}
 ---
 
 >Das ist eine Zusammenfassung was in die AP1 2025 drankommen wird/kann.
@@ -52,6 +52,8 @@
   - [[02 - RESOURCES/Notes/Netzplan\|Netzplan]] (inkl. kritischer Pfad, Pufferzeiten)
   - [[02 - RESOURCES/Notes/Gantt-Diagramm\|Gantt-Diagramm]] (Vorteile und Nachteile)
   - [[02 - RESOURCES/Notes/Milestone\|Milestone]]
+
+- [[02 - RESOURCES/Notes/Phasen der Teambildung\|Phasen der Teambildung]]
 
 ---
 
