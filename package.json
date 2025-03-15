@@ -28,7 +28,7 @@
     "node-html-parser": "^6.1.4",
     "sass": "^1.49.9"
   },
-  "scripts": {
+"scripts": {
     "prebuild": "rimraf dist",
     "start": "npm-run-all get-theme watch:eleventy",
     "build": "npm-run-all get-theme build:*",
@@ -36,5 +36,5 @@
     "build:sass": "sass src/site/styles:dist/styles --style compressed",
     "get-theme": "node src/site/get-theme.js",
     "watch:eleventy": "cross-env ELEVENTY_ENV=dev eleventy --serve"
-    }
+  }
 }
