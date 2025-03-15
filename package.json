@@ -29,13 +29,13 @@
     "sass": "^1.49.9"
   },
   "scripts": {
+    "vercel-build": "rm -rf node_modules package-lock.json && npm install && npm run build",
     "prebuild": "rimraf dist",
     "start": "npm-run-all get-theme watch:eleventy",
     "build": "npm-run-all get-theme build:*",
     "build:eleventy": "cross-env ELEVENTY_ENV=prod NODE_OPTIONS=--max-old-space-size=4096 eleventy",
     "build:sass": "sass src/site/styles:dist/styles --style compressed",
     "get-theme": "node src/site/get-theme.js",
-    "watch:eleventy": "cross-env ELEVENTY_ENV=dev eleventy --serve",
-    "vercel-build": "rm -rf node_modules package-lock.json && npm install && npm run build"
+    "watch:eleventy": "cross-env ELEVENTY_ENV=dev eleventy --serve"
   }
 }
