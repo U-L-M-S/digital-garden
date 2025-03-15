@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-14T11:39:37.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-15T20:49:54.910+01:00"}
 ---
 
 >Das ist eine Zusammenfassung was in die AP1 2025 drankommen wird/kann.
@@ -10,236 +10,143 @@
 >Laut diesen Angaben sind das die neuen Themen, die in der AP1-Prüfung vorkommen werden:
 
 ---
+> Das ist eine Zusammenfassung, was in die AP1 2025 drankommen wird/kann.
+> 
+> > Sie wurde erstellt durch [Broadcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap1-der-it-berufe-ab-2025-it-berufe-podcast-190/) und [[Prüfungskatalog.pdf]]
+
+---
 
 ## ✅ [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]
 
-- [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]]
-  - Projektphasen: Analyse, Entwurf, Implementierung, Test, Wartung
-- [[02 - RESOURCES/Notes/Scrum\|Scrum]]
-  - Rollen: [[02 - RESOURCES/Notes/Product Owner\|Product Owner]], [[02 - RESOURCES/Notes/Scrum Master\|Scrum Master]], Entwicklerteam
-  - Ereignisse: [[02 - RESOURCES/Notes/Sprint Planning\|Sprint Planning]], [[02 - RESOURCES/Notes/Daily Scrum\|Daily Scrum]], [[02 - RESOURCES/Notes/Sprint Review\|Sprint Review]], [[02 - RESOURCES/Notes/Sprint Retrospective\|Sprint Retrospective]]
-  - Artefakte: [[02 - RESOURCES/Notes/Product Backlog\|Product Backlog]], [[02 - RESOURCES/Notes/Sprint Backlog\|Sprint Backlog]], Increment
-- [[02 - RESOURCES/Notes/Milestone\|Milestone]]
-	- Was das ist und wie funktioniert es.
-
-- [[02 - RESOURCES/Notes/SMART-Regeln\|SMART-Regeln]]
-  - Spezifisch
-  - Messbar
-  - Attraktiv
-  - Realistisch
-  - Terminiert
-
-- [[02 - RESOURCES/Notes/Machbarkeit und Wirtschaftlichkeit von Projekten beurteilen\|Machbarkeit und Wirtschaftlichkeit von Projekten beurteilen]]
-	- Die 5 Kriterien um zu wissen ob ein Projekt machbar ist:
-	  - Technisch
-	  - Wirtschaftlich
-	  - Zeitlich
-	  - Organisatorisch
-	  - Rechtlich
-
-- [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] vs. [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]]
-  - Inhalte und Unterschiede kennen
-  - Erstellung und Verwendung
-
-- Rollen im [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]
-  - [[02 - RESOURCES/Notes/Projektleiter\|Projektleiter]], Auftraggeber, Projektmitarbeiter
-
-- Ressourcenplanung
-  - wirtschaftliche Aspekte
-  - ökologische Aspekte
-
-- Projektplanung und -visualisierung
-  - [[02 - RESOURCES/Notes/Netzplan\|Netzplan]] (inkl. kritischer Pfad, Pufferzeiten)
-  - [[02 - RESOURCES/Notes/Gantt-Diagramm\|Gantt-Diagramm]] (Vorteile und Nachteile)
-  - [[02 - RESOURCES/Notes/Milestone\|Milestone]]
-
-- [[02 - RESOURCES/Notes/Phasen der Teambildung\|Phasen der Teambildung]]
-	- Forming
-	- Storming
-	- Norming
-	- Performing
-	- Adjouring
+- 📐 **Magisches Dreieck** _(Qualität, [[02 - RESOURCES/Notes/Kosten\|Kosten]], Zeit)_
+    - Zielkonflikte managen
+- 🎯 **SMART-Prinzip** _(Spezifisch, Messbar, Attraktiv, Realistisch, Terminiert)_
+    - klare Zielformulierung zur Überprüfbarkeit
+- 📋 **Projektphasen** _(Wasserfall & [[02 - RESOURCES/Notes/Scrum\|Scrum]])_
+    - Initiierung, Planung, Durchführung, Controlling, Abschluss
+- 📑 **[[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] vs. [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]]**
+    - Lastenheft = Kundenanforderungen (was?), Pflichtenheft = technische Umsetzung (wie?)
+- 👥 **Projektrollen & [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]]**
+    - Auftraggeber, Projektleiter, Projektteam, Stakeholder (Interessensgruppen)
+- 🗓 **Planungswerkzeuge**
+    - Netzplan (kritischer Pfad), Gantt-Diagramm, Kanban
 
 ---
 
-### 📈 Wirtschaftlichkeit und Angebotsvergleich
+## 💰 [[Wirtschaftlichkeit\|Wirtschaftlichkeit]]
 
-- Make-or-Buy-Entscheidung
-  - Kriterien ([[02 - RESOURCES/Notes/Kosten\|Kosten]], Qualität, Zeit, Ressourcen)
+- 🧮 **Kostenarten** _(Fixkosten, variable Kosten)_
+- 📈 **Kennzahlen** _(Umsatz, Gewinn, Deckungsbeitrag)_
+- ⚖️ **Rentabilität (ROI)**
+- 📍 **Break-Even-Point**
 
-- Angebotsvergleiche durchführen
-  - Nutzwertanalyse (qualitativ)
-  - Gesamtkostenvergleich (quantitativ)
-
-- Wirtschaftlichkeit beurteilen
-  - Investitionsrechnung (Betriebs- und Anschaffungskosten)
-
----
-
-### 🖥️ Hardware und Arbeitsplatzgestaltung
-
-- Festplatten ([[02 - RESOURCES/Notes/HDD\|HDD]] vs. [[02 - RESOURCES/Notes/SSD\|SSD]])
-  - Funktionsweise, Vorteile/Nachteile
-  - Formfaktoren (2,5", M.2, SATA, PCIe/NVMe)
-
-- Arbeitsspeicher ([[02 - RESOURCES/Notes/RAM\|RAM]])
-  - Arten: DRAM, SRAM, DDR
-  - Dual Channel (Funktion, Vorteile)
-
-- Peripheriegeräte
-  - Monitore (Technologien, Auflösungen)
-  - Drucker (Laser, Tintenstrahl)
-
-- Schnittstellen und Anschlüsse
-  - USB, HDMI, DisplayPort
-
-- Ergonomie am Arbeitsplatz
-  - Anforderungen nach Arbeitsstättenverordnung (Bildschirm, Sitzmöbel, Beleuchtung)
+|Kennzahl|Formel|
+|---|---|
+|Umsatz|Absatzmenge × Preis|
+|Gewinn|Umsatz – Kosten|
+|Deckungsbeitrag|Umsatz – variable Kosten|
+|ROI|(Gewinn / Investition) × 100 %|
+|Break-Even-Point|Fixkosten / (Preis – variable Kosten)|
 
 ---
 
-### 🌐 Netzwerke und Kommunikation
+## 🌐 [[Netzwerktechnik\|Netzwerktechnik]]
 
-- Schichtenmodelle
-  - [[02 - RESOURCES/Notes/ISO\|ISO]]/[[02 - RESOURCES/Notes/OSI-Modell\|OSI-Modell]] (7 Schichten)
-  - [[02 - RESOURCES/Notes/TCP\|TCP]]/[[02 - RESOURCES/Notes/IP\|IP]]-Modell (4 Schichten)
-  - Aufgaben einzelner Schichten (insbesondere Sicherungsschicht, Vermittlungsschicht)
-
-- [[02 - RESOURCES/Notes/IP\|IP]]-Adressierung
-  - [[02 - RESOURCES/Notes/IPv4\|IPv4]] (Aufbau, [[02 - RESOURCES/Notes/Subnetting\|Subnetting]])
-  - [[02 - RESOURCES/Notes/IPv6\|IPv6]] (Vorteile, Aufbau)
-
-- Netzwerkadministration
-  - [[02 - RESOURCES/Notes/DHCP\|DHCP]]: Ablauf DORA (Discover, Offer, Request, Acknowledge)
-  - [[02 - RESOURCES/Notes/DNS\|DNS]] (Einträge: A, AAAA, CNAME, MX)
-
-- Netzwerkkomponenten
-  - [[02 - RESOURCES/Notes/Switch\|Switch]], Hub, [[02 - RESOURCES/Notes/Router\|Router]], Access Point (Funktion und Unterschiede)
-
-- [[02 - RESOURCES/Notes/WLAN Standards\|WLAN-Standards]] und Sicherheit
-  - [[02 - RESOURCES/Notes/WPA2\|WPA2]], WPA3
-  - Sicherheitsaspekte ([[02 - RESOURCES/Notes/MAC Adresse\|MAC]]-Filter, SSID)
-
-- Ethernet-Standards und Verkabelung
-  - Twisted-Pair, [[02 - RESOURCES/Notes/Lichtleitkabel\|LWL]]
-  - Power over Ethernet ([[02 - RESOURCES/Notes/Power over Ethernet\|PoE]])
+- 📶 **ISO/OSI-Modell** _(7 Schichten)_
+    - Physical, Data Link, Network, Transport, Session, Presentation, Application
+- 🖥️ **Netzwerkkomponenten** _(Router, Switch, Access-Point)_
+- 🔗 **IP-Adressen** _(IPv4 vs. IPv6, Subnetting)_
+- 📦 **Netzwerkprotokolle** _(TCP vs. UDP, DHCP, DNS, HTTP/S)_
+- 🔌 **Topologien & Übertragungsmedien** _(Kupfer, Glasfaser, WLAN)_
 
 ---
 
-### 🛠️ Betriebssysteme und Virtualisierung
+## 💻 [[Softwareentwicklung\|Softwareentwicklung]]
 
-- Betriebssysteme allgemein
-  - Unterschiede Linux vs. Windows
-    - Vor- und Nachteile
-    - Dateisysteme (NTFS, ext4)
-    - Dateirechte (chmod, rwx-Prinzip)
-
-- Kommandozeilen-Befehle (Linux und Windows)
-  - Dateioperationen: `ls`, `chmod`, `mkdir`, `cp`
-  - Netzwerktools: `ipconfig`, `ping`, `traceroute`, `nslookup`
-
-- Virtualisierung
-  - Unterschied zwischen virtuellen Maschinen (VMs) und Containern ([[00 - PROJECTS/Docker\|Docker]])
-  - Vorteile der Virtualisierung (Skalierbarkeit, Flexibilität)
-
-- Cloud Computing
-  - [[02 - RESOURCES/Notes/SaaS\|SaaS]] (Software as a Service)
-  - [[02 - RESOURCES/Notes/IaaS\|IaaS]] (Infrastructure as a Service)
-  - [[02 - RESOURCES/Notes/PaaS\|PaaS]] (Platform as a Service)
+- 📄 **Grundlagen** _(Variablen, Datentypen, Schleifen, Bedingungen)_
+- 🧩 **Objektorientierung (OOP)** _(Klassen, Objekte, Methoden, Vererbung, Polymorphie)_
+- 🛠️ **Entwicklungswerkzeuge** _(IDE, Compiler, Interpreter, Debugger, Git)_
+- 🎨 **Software-Modellierung (UML)** _(Use-Case-, Klassen-, Aktivitätsdiagramm)_
 
 ---
 
-### 🔒 IT-Sicherheit und [[02 - RESOURCES/Notes/Datenschutz\|Datenschutz]]
+## 🛡️ [[IT-Sicherheit\|IT-Sicherheit]]
 
-- [[02 - RESOURCES/Notes/Schutzziele\|Schutzziele]] der IT-Sicherheit
-  - [[02 - RESOURCES/Notes/Vertraulichkeit\|Vertraulichkeit]]
-  - [[02 - RESOURCES/Notes/Integrität\|Integrität]]
-  - [[02 - RESOURCES/Notes/Verfügbarkeit\|Verfügbarkeit]]
-
-- Authentifizierungsverfahren
-  - Zweifaktorauthentifizierung (2FA)
-
-- [[02 - RESOURCES/Notes/Verschlüsselung\|Verschlüsselung]] und Hashverfahren
-  - [[02 - RESOURCES/Notes/Symmetrische Verschlüsselung\|Symmetrische Verschlüsselung]]
-  - [[02 - RESOURCES/Notes/Asymmetrische Verschlüsselung\|Asymmetrische Verschlüsselung]]
-  - Digitale Signaturen und Zertifikate
-  - Hashverfahren (Funktionsweise, Anwendungsgebiete)
-
-- Malware-Typen kennen
-  - Viren, Würmer, Trojaner, [[02 - RESOURCES/Notes/Phishing\|Phishing]], Ransomware
-
-- Sicherheitsmaßnahmen
-  - [[00 - PROJECTS/Firewall\|Firewall]]-Arten (Personal, Application [[00 - PROJECTS/Firewall\|Firewall]])
-  - Virenscanner
-  - Passwort-Policy und Passwortsicherheit
-  - Betriebssystem-Härtung (Schwachstellen schließen)
-
-- Backup-Verfahren
-  - Vollbackup
-  - inkrementelles Backup
-  - differenzielles Backup
-
-- [[02 - RESOURCES/Notes/Datenschutz\|Datenschutz]] ([[02 - RESOURCES/Notes/DSGVO\|DSGVO]] & [[02 - RESOURCES/Notes/BDSG\|BDSG]])
-  - Betroffenenrechte (Auskunft, Löschung, Berichtigung, Datenübertragung)
-  - [[02 - RESOURCES/Notes/Anonymisierung\|Anonymisierung]] und [[02 - RESOURCES/Notes/Pseudonymisierung\|Pseudonymisierung]] personenbezogener Daten
+- 🔑 **Schutzziele** _(Vertraulichkeit, Integrität, Verfügbarkeit, Authentizität)_
+- 🚨 **Bedrohungen** _(Malware, Phishing, Social Engineering)_
+- 🔒 **Schutzmaßnahmen** _(Firewall, Virenschutz, Updates, Backup)_
+- 🔑 **Zugangssicherheit** _(Zwei-Faktor-Authentifizierung, Passwort-Policy)_
+- 🔐 **Kryptographie** _(symmetrisch, asymmetrisch, Hashfunktionen)_
 
 ---
 
-### 📐 Softwareentwicklung und [[02 - RESOURCES/Notes/UML\|UML]]-Modellierung
+## 🤝 [[Kundenberatung/Präsentieren\|Kundenberatung/Präsentieren]]
 
-- Grundlagen der Programmierung
-  - Variablen, Datentypen, Kontrollstrukturen (Schleifen, Verzweigungen)
-  - Funktionen und Methoden
-
-- [[02 - RESOURCES/Notes/OOP\|Objektorientierte Programmierung]]
-  - Klassen und Objekte
-  - Sichtbarkeit (public/private)
-
-- Modellierung mit [[02 - RESOURCES/Notes/UML\|UML]]
-  - Klassendiagramm (Klassen, Attribute, Methoden, Beziehungen)
-  - Aktivitätsdiagramm (Abläufe und Entscheidungen darstellen)
-  - [[02 - RESOURCES/Notes/UML-Anwendungsfalldiagramm\|Use-Case-Diagramm]] (Anwendungsfälle und Akteure modellieren)
-
-- Umgang mit Quellcode
-  - Fehlererkennung und -behebung
-  - Durchführung von Schreibtischtests
-
-- Anforderungen unterscheiden
-  - funktionale Anforderungen
-  - nicht-funktionale Anforderungen
-
-- [[02 - RESOURCES/Notes/KI\|KI]]
+- 📖 **Bedarfsermittlung** _(aktive Fragetechniken, aktives Zuhören)_
+- 🎤 **Präsentationstechnik** _(zielgruppengerecht, strukturierte Agenda)_
+- 📚 **Einweisung/Schulung** _(Nutzertraining, Dokumentation)_
 
 ---
 
-### 🌍 Verträge, Kommunikation und [[02 - RESOURCES/Notes/Qualitätssicherung\|Qualitätssicherung]]
+## ⚖️ [[Angebotsvergleich\|Angebotsvergleich]]
 
-- Vertragsarten unterscheiden
-  - Kaufvertrag
-  - Leasingvertrag
-  - Werkvertrag
-  - Dienstvertrag
-
-- Kommunikationsmodelle
-  - Sender-Empfänger-Modell (Aufbau, mögliche Störungen)
-  - Vier-Ohren-Modell (Sachinhalt, Appell, Beziehung, Selbstoffenbarung)
-
-- [[02 - RESOURCES/Notes/Qualitätssicherung\|Qualitätssicherung]]
-  - Qualitätsmerkmale von [[02 - RESOURCES/Notes/Software\|Software]] (Black-Box-Test, White-Box-Test)
-  - Testarten (Unit-Test, Integrationstest, Systemtest)
-  - Schreibtischtest
+- 💵 **Preis- und Kostenvergleich** _(Anschaffungskosten, TCO)_
+- 📊 **Nutzwertanalyse** _(qualitative Kriterien gewichtet bewerten)_
+- 📌 **Make-or-Buy** _(intern vs. extern)_
 
 ---
 
-### 🚫 Themen, die nicht mehr erwartet werden:
+## 🗃️ [[Datenbanken\|Datenbanken]]
 
-*(Diese Themen kannst du in deiner Prüfungsvorbereitung reduzieren oder überspringen.)*
+- 🗂️ **Relationales Modell** _(Primär-, Fremdschlüssel)_
+- 🧾 **Normalisierung** _(1NF, 3NF)_
+- 💾 **SQL-Grundlagen** _(SELECT, JOIN, INSERT, UPDATE, DELETE)_
+- 🔄 **Transaktionen** _(ACID)_
 
-- [[02 - RESOURCES/Notes/RAID\|RAID]], [[02 - RESOURCES/Notes/SAN\|SAN]]-Technologien
-- [[02 - RESOURCES/Notes/UML-Vererbung\|Vererbung]] in objektorientierter Programmierung
-- [[02 - RESOURCES/Notes/SQL\|SQL]]-Abfragen (tiefgehend)
-- NoSQL-Datenbanken
-- LTE- und 5G-Technologien
-- Andere Vorgehensmodelle außer [[02 - RESOURCES/Notes/Scrum\|Scrum]] und [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]]
-- Struktogramme und Programmablaufpläne (PAP)
-- ISO 2700x Normen (detailliert)
+---
+
+## 🔒 [[02 - RESOURCES/Notes/Datenschutz\|Datenschutz]]
+
+- 📜 **DSGVO-Grundsätze** _(Zweckbindung, Datenminimierung, Transparenz)_
+- 📝 **Betroffenenrechte** _(Auskunft, Berichtigung, Löschung)_
+- 🔎 **Maßnahmen** _(Anonymisierung, Pseudonymisierung)_
+
+---
+
+## 🎥 [[Multimedia\|Multimedia]]
+
+- 🖼️ **Grafikformate** _(Rastergrafik vs. Vektorgrafik, JPEG, PNG, SVG)_
+- 🎧 **Audio/Video** _(Abtastrate, Kompression)_
+- 📦 **Dateigrößenberechnung** _(Breite × Höhe × Farbtiefe)_
+
+---
+
+## 📑 [[Verträge\|Verträge]]
+
+- 📌 **Dienstvertrag vs. Werkvertrag** _(Erfolg vs. Tätigkeit)_
+- 🛒 **Kauf, Miete, Leasing** _(Unterschiede & Vor-/Nachteile)_
+- 📃 **Software-Lizenzvertrag** _(EULA, Open Source vs. proprietär)_
+
+---
+
+## 🖥️ [[Betriebssysteme\|Betriebssysteme]]
+
+- 📂 **Dateisysteme** _(NTFS, FAT32, ext4)_
+- ⚙️ **Prozesse & Threads** _(Scheduling, Multitasking)_
+- 👤 **Benutzer- & Rechteverwaltung** _(Benutzer, Rechte, Gruppen)_
+
+---
+
+## ✅ [[Leistungserbringung\|Leistungserbringung]]
+
+- 📑 **Soll-Ist-Vergleich** _(Ergebnisse prüfen & dokumentieren)_
+- 📋 **Abnahmeprotokoll** _(Bestätigung erbrachter Leistung)_
+- 🚩 **Lessons Learned** _(Erfahrungen auswerten)_
+
+---
+
+## 🔄 [[Change Management\|Change Management]]
+
+- 📑 **Änderungsprozess** _(Change Requests, Folgenabschätzung)_
+- 🔄 **Versionsverwaltung** _(Git, Branches, Merge)_
+- 📚 **Konfigurationsmanagement** _(Systemzustände dokumentieren)_
