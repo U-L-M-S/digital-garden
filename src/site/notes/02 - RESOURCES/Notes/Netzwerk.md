@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk/","tags":["netzwerk"],"noteIcon":"","updated":"2024-10-20T21:10:27.327+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk/","tags":["netzwerk"],"noteIcon":"","updated":"2025-03-15T22:09:38.250+01:00"}
 ---
 
 >Es ist eine Gruppe von miteinander verbundenen Computern und anderen Geräten, die Daten und Ressourcen gemeinsam nutzen können. 
 >[[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]e ermöglichen den Austausch von Informationen und die Kommunikation zwischen den Geräten. 
 
 >Es gibt verschiedene Typen von Netzwerken, darunter lokale Netzwerke ([[02 - RESOURCES/Notes/LAN\|LAN]]s), die Geräte innerhalb eines begrenzten geografischen Bereichs verbinden, und Weitverkehrsnetze ([[02 - RESOURCES/Notes/WAN\|WAN]]s), die Geräte über größere Entfernungen hinweg verbinden.
->Netzwerke nutzen verschiedene Technologien und [[02 - RESOURCES/Notes/Protokoll\|Protokoll]]e, um sicherzustellen, dass Daten effizient und zuverlässig übertragen werden.
+>Netzwerke nutzen verschiedene Technologien und [[02 - RESOURCES/Notes/Netzwerkprotokolle\|Netzwerkprotokolle]]e, um sicherzustellen, dass Daten effizient und zuverlässig übertragen werden.
 
 [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] wird in die [[02 - RESOURCES/Notes/Netzwerkkarte\|Netzwerkkarte]] gefunden  und somit kann jeder Rechner/System, der eine [[02 - RESOURCES/Notes/Netzwerkkarte\|Netzwerkkarte]]  hat identifiziert werden. Da jeder [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] in eine [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] Einzigartig ist.
 

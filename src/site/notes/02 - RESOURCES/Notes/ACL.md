@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/acl/","tags":["netzwerk/firewall"],"noteIcon":"","updated":"2024-10-17T20:37:27.415+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/acl/","tags":["netzwerk/firewall"],"noteIcon":"","updated":"2025-03-15T22:09:34.201+01:00"}
 ---
 
 ![ACL-20240804000247511.png](/img/user/02%20-%20RESOURCES/Files/IMG/ACL-20240804000247511.png)
@@ -11,6 +11,6 @@
 >Diese sind die Begriffen, die verwendet wird für die Filterung:
 - Quelle- und Ziel-[[02 - RESOURCES/Notes/IP\|IP Adresse]]
 - [[02 - RESOURCES/Notes/TCP\|TCP]]- und [[02 - RESOURCES/Notes/UDP\|UDP]]-Ports
-- [[02 - RESOURCES/Notes/ICMP\|ICMP]] und andere [[02 - RESOURCES/Notes/Protokoll\|Protokoll]]en
+- [[02 - RESOURCES/Notes/ICMP\|ICMP]] und andere [[02 - RESOURCES/Notes/Netzwerkprotokolle\|Netzwerkprotokolle]]en
 
 >>Jeder [[02 - RESOURCES/Notes/Datenpakete\|Netzwerkpakete]] wird anhand von einer Regel-Liste (von oben nach unter), wenn eine Regel getroffen wird, wird diese getriggert und durchgeführt und der Vorgang beendet.

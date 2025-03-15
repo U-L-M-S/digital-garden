@@ -1,14 +1,13 @@
 ---
-tags:
-  - BWL
-dg-publish: true
-links: 
-path: Notes
-created: 2023-10-10 18:20
+{"dg-publish":true,"permalink":"/02-resources/notes/umsatz/","tags":["BWL/formel"],"noteIcon":"","updated":"2025-03-15T23:27:20.452+01:00"}
 ---
+
 ## Umsatz 
 > Geld was man hat, bei den Verkauf seinen Produkten.
 
 >[!important] 
 >Nicht verwechseln mit [[02 - RESOURCES/Notes/Gewinn\|Gewinn]].
 
+$$
+Umsatz=AnzahlProdukte*Preis
+$$

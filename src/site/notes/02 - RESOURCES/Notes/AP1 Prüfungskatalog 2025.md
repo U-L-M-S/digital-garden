@@ -1,15 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-15T20:49:54.910+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-15T23:37:44.218+01:00"}
 ---
 
->Das ist eine Zusammenfassung was in die AP1 2025 drankommen wird/kann.
->>Es wurdet erstellt durch [Broadcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap1-der-it-berufe-ab-2025-it-berufe-podcast-190/) und [[Prüfungskatalog.pdf]]
-
----
-## 📌 Sichere Themen für die AP1-Prüfung
->Laut diesen Angaben sind das die neuen Themen, die in der AP1-Prüfung vorkommen werden:
-
----
+# 📌 Sichere Themen für die AP1-Prüfung
 > Das ist eine Zusammenfassung, was in die AP1 2025 drankommen wird/kann.
 > 
 > > Sie wurde erstellt durch [Broadcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap1-der-it-berufe-ab-2025-it-berufe-podcast-190/) und [[Prüfungskatalog.pdf]]
@@ -18,69 +11,71 @@
 
 ## ✅ [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]
 
-- 📐 **Magisches Dreieck** _(Qualität, [[02 - RESOURCES/Notes/Kosten\|Kosten]], Zeit)_
+- 📐 **[[02 - RESOURCES/Notes/Magisches Dreieck\|Magisches Dreieck]]** _(Qualität, [[02 - RESOURCES/Notes/Kosten\|Kosten]], Zeit)_
     - Zielkonflikte managen
-- 🎯 **SMART-Prinzip** _(Spezifisch, Messbar, Attraktiv, Realistisch, Terminiert)_
+- 🎯 **[[02 - RESOURCES/Notes/SMART-Prinzip\|SMART-Prinzip]]** _(Spezifisch, Messbar, Attraktiv, Realistisch, Terminiert)_
     - klare Zielformulierung zur Überprüfbarkeit
-- 📋 **Projektphasen** _(Wasserfall & [[02 - RESOURCES/Notes/Scrum\|Scrum]])_
+- 📋 **Projektphasen** _([[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]] & [[02 - RESOURCES/Notes/Scrum\|Scrum]])_
     - Initiierung, Planung, Durchführung, Controlling, Abschluss
 - 📑 **[[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] vs. [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]]**
-    - Lastenheft = Kundenanforderungen (was?), Pflichtenheft = technische Umsetzung (wie?)
+    - [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] = Kundenanforderungen (was und warum), [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]] = technische Umsetzung (wie und womit)
 - 👥 **Projektrollen & [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]]**
-    - Auftraggeber, Projektleiter, Projektteam, Stakeholder (Interessensgruppen)
+    - Auftraggeber, [[02 - RESOURCES/Notes/Projektleiter\|Projektleiter]], Projektteam, [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]] (Interessensgruppen)
 - 🗓 **Planungswerkzeuge**
-    - Netzplan (kritischer Pfad), Gantt-Diagramm, Kanban
+    - [[02 - RESOURCES/Notes/Netzplan\|Netzplan]] ([[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]), [[02 - RESOURCES/Notes/Gantt-Diagramm\|Gantt-Diagramm]], [[02 - RESOURCES/Notes/Kanban\|Kanban]]
 
 ---
 
-## 💰 [[Wirtschaftlichkeit\|Wirtschaftlichkeit]]
+## 💰 Wirtschaftlichkeit
 
-- 🧮 **Kostenarten** _(Fixkosten, variable Kosten)_
-- 📈 **Kennzahlen** _(Umsatz, Gewinn, Deckungsbeitrag)_
+- 🧮 **Kostenarten** _([[02 - RESOURCES/Notes/Fixkosten\|Fixkosten]], [[02 - RESOURCES/Notes/Variable Kosten\|variable kosten]])_
+- 📈 **Kennzahlen** _([[02 - RESOURCES/Notes/Umsatz\|Umsatz]], [[02 - RESOURCES/Notes/Gewinn\|Gewinn]], [[02 - RESOURCES/Notes/Deckungsbeitrag\|Deckungsbeitrag]])_
 - ⚖️ **Rentabilität (ROI)**
+  - Wofür braucht man es und Formel
 - 📍 **Break-Even-Point**
 
 |Kennzahl|Formel|
 |---|---|
-|Umsatz|Absatzmenge × Preis|
-|Gewinn|Umsatz – Kosten|
-|Deckungsbeitrag|Umsatz – variable Kosten|
-|ROI|(Gewinn / Investition) × 100 %|
-|Break-Even-Point|Fixkosten / (Preis – variable Kosten)|
+|[[02 - RESOURCES/Notes/Umsatz\|Umsatz]]|Absatzmenge × Preis|
+|[[02 - RESOURCES/Notes/Gewinn\|Gewinn]]|[[02 - RESOURCES/Notes/Umsatz\|Umsatz]] – [[02 - RESOURCES/Notes/Kosten\|Kosten]]|
+|[[02 - RESOURCES/Notes/Deckungsbeitrag\|Deckungsbeitrag]]|[[02 - RESOURCES/Notes/Umsatz\|Umsatz]] – [[02 - RESOURCES/Notes/Variable Kosten\|variable Kosten]]|
+|ROI|([[02 - RESOURCES/Notes/Gewinn\|Gewinn]] / Investition) × 100 %|
+|Break-Even-Point|[[02 - RESOURCES/Notes/Fixkosten\|Fixkosten]] / (Preis – [[02 - RESOURCES/Notes/Variable Kosten\|variable Kosten]])|
 
 ---
 
-## 🌐 [[Netzwerktechnik\|Netzwerktechnik]]
+## 🌐 Netzwerktechnik
 
-- 📶 **ISO/OSI-Modell** _(7 Schichten)_
+- 📶 **[[02 - RESOURCES/Notes/ISO\|ISO]]/[[02 - RESOURCES/Notes/OSI-Modell\|OSI-Modell]]** _(7 Schichten)_
     - Physical, Data Link, Network, Transport, Session, Presentation, Application
-- 🖥️ **Netzwerkkomponenten** _(Router, Switch, Access-Point)_
-- 🔗 **IP-Adressen** _(IPv4 vs. IPv6, Subnetting)_
-- 📦 **Netzwerkprotokolle** _(TCP vs. UDP, DHCP, DNS, HTTP/S)_
-- 🔌 **Topologien & Übertragungsmedien** _(Kupfer, Glasfaser, WLAN)_
+- 🖥️ **Netzwerkkomponenten** _([[02 - RESOURCES/Notes/Router\|Router]], [[02 - RESOURCES/Notes/Switch\|Switch]], Access-Point)_
+- 🔗 **[[02 - RESOURCES/Notes/IP\|IP-Adresse]]** _([[02 - RESOURCES/Notes/IPv4\|IPv4]] vs. [[02 - RESOURCES/Notes/IPv6\|IPv6]], [[02 - RESOURCES/Notes/Subnetting\|Subnetting]])_
+- 📦 **[[02 - RESOURCES/Notes/Netzwerkprotokolle\|Netzwerkprotokolle]]** _([[02 - RESOURCES/Notes/TCP\|TCP]] [[02 - RESOURCES/Notes/UDP\|vs.]] [[02 - RESOURCES/Notes/UDP\|UDP]], [[02 - RESOURCES/Notes/DHCP\|DHCP]], [[02 - RESOURCES/Notes/DNS\|DNS]], [[02 - RESOURCES/Notes/HTTP\|HTTP]]/[[02 - RESOURCES/Notes/HTTPS\|HTTPS]])_
+- 🔌 **Topologien & Übertragungsmedien** _(Kupfer, Glasfaser, [[02 - RESOURCES/Notes/WLAN\|WLAN]])_
 
 ---
 
-## 💻 [[Softwareentwicklung\|Softwareentwicklung]]
+## 💻 Softwareentwicklung
 
 - 📄 **Grundlagen** _(Variablen, Datentypen, Schleifen, Bedingungen)_
-- 🧩 **Objektorientierung (OOP)** _(Klassen, Objekte, Methoden, Vererbung, Polymorphie)_
-- 🛠️ **Entwicklungswerkzeuge** _(IDE, Compiler, Interpreter, Debugger, Git)_
-- 🎨 **Software-Modellierung (UML)** _(Use-Case-, Klassen-, Aktivitätsdiagramm)_
+- 🧩 **Objektorientierung ([[02 - RESOURCES/Notes/OOP\|OOP]])** _([[02 - RESOURCES/Notes/Klasse\|Klasse]], Objekte, Methoden, Polymorphie)_
+- 🛠️ **Entwicklungswerkzeuge** _([[02 - RESOURCES/Notes/IDE\|IDE]], [[02 - RESOURCES/Notes/Compiler\|Compiler]], [[02 - RESOURCES/Notes/Interpreter\|Interpreter]], Debugger, [[02 - RESOURCES/Notes/Git\|Git]])_
+- 🧠 [[02 - RESOURCES/Notes/KI\|KI]] (Begriffen)
+- 🎨 **Software-Modellierung ([[02 - RESOURCES/Notes/UML\|UML]])** _([[02 - RESOURCES/Notes/UML-Anwendungsdiagramm\|UML-Anwendungsdiagramm]], [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]], [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]])_
 
 ---
 
-## 🛡️ [[IT-Sicherheit\|IT-Sicherheit]]
+## 🛡️ IT-Sicherheit
 
-- 🔑 **Schutzziele** _(Vertraulichkeit, Integrität, Verfügbarkeit, Authentizität)_
-- 🚨 **Bedrohungen** _(Malware, Phishing, Social Engineering)_
-- 🔒 **Schutzmaßnahmen** _(Firewall, Virenschutz, Updates, Backup)_
+- 🔑 **[[02 - RESOURCES/Notes/Schutzziele\|Schutzziele]]** _([[02 - RESOURCES/Notes/Vertraulichkeit\|Vertraulichkeit]], [[02 - RESOURCES/Notes/Integrität\|Integrität]], [[02 - RESOURCES/Notes/Verfügbarkeit\|Verfügbarkeit]], [[02 - RESOURCES/Notes/Authentizität\|Authentizität]])_
+- 🚨 **Bedrohungen** _(Malware, [[02 - RESOURCES/Notes/Phishing\|Phishing]], [[02 - RESOURCES/Notes/Social Engineering\|Social Engineering]])_
+- 🔒 **Schutzmaßnahmen** _([[00 - PROJECTS/Firewall\|Firewall]], Virenschutz, Updates, Backup)_
 - 🔑 **Zugangssicherheit** _(Zwei-Faktor-Authentifizierung, Passwort-Policy)_
-- 🔐 **Kryptographie** _(symmetrisch, asymmetrisch, Hashfunktionen)_
+- 🔐 **[[00 - PROJECTS/Kryptographie\|Kryptographie]]** _(symmetrisch, asymmetrisch, Hashfunktionen)_
 
 ---
 
-## 🤝 [[Kundenberatung/Präsentieren\|Kundenberatung/Präsentieren]]
+## 🤝 Kundenberatung/Präsentieren
 
 - 📖 **Bedarfsermittlung** _(aktive Fragetechniken, aktives Zuhören)_
 - 🎤 **Präsentationstechnik** _(zielgruppengerecht, strukturierte Agenda)_
@@ -88,7 +83,7 @@
 
 ---
 
-## ⚖️ [[Angebotsvergleich\|Angebotsvergleich]]
+## ⚖️ Angebotsvergleich
 
 - 💵 **Preis- und Kostenvergleich** _(Anschaffungskosten, TCO)_
 - 📊 **Nutzwertanalyse** _(qualitative Kriterien gewichtet bewerten)_
@@ -96,24 +91,25 @@
 
 ---
 
-## 🗃️ [[Datenbanken\|Datenbanken]]
+## 🗃️ Datenbanken
 
-- 🗂️ **Relationales Modell** _(Primär-, Fremdschlüssel)_
-- 🧾 **Normalisierung** _(1NF, 3NF)_
-- 💾 **SQL-Grundlagen** _(SELECT, JOIN, INSERT, UPDATE, DELETE)_
+- 🗂️ **Relationales Modell** _([[02 - RESOURCES/Notes/Primary Key\|Primary Key]], [[02 - RESOURCES/Notes/Foreign Key\|Foreign Key]])_
+- 🧾 **Normalisierung** _([[02 - RESOURCES/Notes/1. Normalform\|1NF]],[[02 - RESOURCES/Notes/2. Normalform\|2NF]] ,[[02 - RESOURCES/Notes/3. Normalform\|3NF]])_
+- 💾 **[[02 - RESOURCES/Notes/SQL\|SQL]]-Grundlagen** _([[02 - RESOURCES/Notes/Kardinalität\|Kardinalität]])_
 - 🔄 **Transaktionen** _(ACID)_
 
 ---
 
-## 🔒 [[02 - RESOURCES/Notes/Datenschutz\|Datenschutz]]
+## 🔒 [[02 - RESOURCES/Notes/Datenschutz\|Datenschutz]] / [[02 - RESOURCES/Notes/Datensicherheit\|Datensicherheit]]
 
-- 📜 **DSGVO-Grundsätze** _(Zweckbindung, Datenminimierung, Transparenz)_
+- 🔒 [[02 - RESOURCES/Notes/Datenschutz\|Datenschutz]] und [[02 - RESOURCES/Notes/Datensicherheit\|Datensicherheit]] unterschied und Merkmalen
+- 📜 **[[02 - RESOURCES/Notes/DSGVO\|DSGVO]]-Grundsätze** _(Zweckbindung, Datenminimierung, Transparenz)_
 - 📝 **Betroffenenrechte** _(Auskunft, Berichtigung, Löschung)_
-- 🔎 **Maßnahmen** _(Anonymisierung, Pseudonymisierung)_
+- 🔎 **Maßnahmen** _([[02 - RESOURCES/Notes/Anonymisierung\|Anonymisierung]], [[02 - RESOURCES/Notes/Pseudonymisierung\|Pseudonymisierung]])_
 
 ---
 
-## 🎥 [[Multimedia\|Multimedia]]
+## 🎥 Multimedia
 
 - 🖼️ **Grafikformate** _(Rastergrafik vs. Vektorgrafik, JPEG, PNG, SVG)_
 - 🎧 **Audio/Video** _(Abtastrate, Kompression)_
@@ -121,7 +117,7 @@
 
 ---
 
-## 📑 [[Verträge\|Verträge]]
+## 📑 Verträge
 
 - 📌 **Dienstvertrag vs. Werkvertrag** _(Erfolg vs. Tätigkeit)_
 - 🛒 **Kauf, Miete, Leasing** _(Unterschiede & Vor-/Nachteile)_
@@ -129,7 +125,7 @@
 
 ---
 
-## 🖥️ [[Betriebssysteme\|Betriebssysteme]]
+## 🖥️ Betriebssysteme
 
 - 📂 **Dateisysteme** _(NTFS, FAT32, ext4)_
 - ⚙️ **Prozesse & Threads** _(Scheduling, Multitasking)_
@@ -137,7 +133,7 @@
 
 ---
 
-## ✅ [[Leistungserbringung\|Leistungserbringung]]
+## ✅ Leistungserbringung
 
 - 📑 **Soll-Ist-Vergleich** _(Ergebnisse prüfen & dokumentieren)_
 - 📋 **Abnahmeprotokoll** _(Bestätigung erbrachter Leistung)_
@@ -145,8 +141,8 @@
 
 ---
 
-## 🔄 [[Change Management\|Change Management]]
+## 🔄 Change Management
 
 - 📑 **Änderungsprozess** _(Change Requests, Folgenabschätzung)_
-- 🔄 **Versionsverwaltung** _(Git, Branches, Merge)_
+- 🔄 **Versionsverwaltung** _([[02 - RESOURCES/Notes/Git\|Git]], Branches, Merge)_
 - 📚 **Konfigurationsmanagement** _(Systemzustände dokumentieren)_
