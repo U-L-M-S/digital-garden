@@ -35,6 +35,7 @@
     "build:eleventy": "cross-env ELEVENTY_ENV=prod NODE_OPTIONS=--max-old-space-size=4096 eleventy",
     "build:sass": "sass src/site/styles:dist/styles --style compressed",
     "get-theme": "node src/site/get-theme.js",
-    "watch:eleventy": "cross-env ELEVENTY_ENV=dev eleventy --serve"
+    "watch:eleventy": "cross-env ELEVENTY_ENV=dev eleventy --serve",
+    "vercel-build": "npm install && npm run build"
   }
 }
