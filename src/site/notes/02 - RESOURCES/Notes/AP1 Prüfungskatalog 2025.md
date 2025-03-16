@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-16T17:05:42.931+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-16T22:32:45.603+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -29,17 +29,17 @@
 
 - 🧮 **Kostenarten** _([[02 - RESOURCES/Notes/Fixkosten\|Fixkosten]], [[02 - RESOURCES/Notes/Variable Kosten\|variable kosten]])_ 👈
 - 📈 **Kennzahlen** _([[02 - RESOURCES/Notes/Umsatz\|Umsatz]], [[02 - RESOURCES/Notes/Gewinn\|Gewinn]], [[02 - RESOURCES/Notes/Deckungsbeitrag\|Deckungsbeitrag]])_
-- ⚖️ **Rentabilität (ROI)**
+- ⚖️ **[[02 - RESOURCES/Notes/Rentabilität\|Rentabilität]] (ROI)**
   - Wofür braucht man es und die Formel
 - 📍 **Break-Even-Point** 👈
 
-|Kennzahl|Formel|
-|---|---|
-|[[02 - RESOURCES/Notes/Umsatz\|Umsatz]]|Absatzmenge × Preis|
-|[[02 - RESOURCES/Notes/Gewinn\|Gewinn]]|[[02 - RESOURCES/Notes/Umsatz\|Umsatz]] – [[02 - RESOURCES/Notes/Kosten\|Kosten]]|
-|[[02 - RESOURCES/Notes/Deckungsbeitrag\|Deckungsbeitrag]]|[[02 - RESOURCES/Notes/Umsatz\|Umsatz]] – [[02 - RESOURCES/Notes/Variable Kosten\|variable Kosten]]|
-|ROI|([[02 - RESOURCES/Notes/Gewinn\|Gewinn]] / Investition) × 100 %|
-|Break-Even-Point|[[02 - RESOURCES/Notes/Fixkosten\|Fixkosten]] / (Preis – [[02 - RESOURCES/Notes/Variable Kosten\|variable Kosten]])|
+| Kennzahl              | Formel                                        |
+| --------------------- | --------------------------------------------- |
+| [[02 - RESOURCES/Notes/Umsatz\|Umsatz]]            | Absatzmenge × Preis                           |
+| [[02 - RESOURCES/Notes/Gewinn\|Gewinn]]            | [[02 - RESOURCES/Notes/Umsatz\|Umsatz]] – [[02 - RESOURCES/Notes/Kosten\|Kosten]]                       |
+| [[02 - RESOURCES/Notes/Deckungsbeitrag\|Deckungsbeitrag]]   | [[02 - RESOURCES/Notes/Umsatz\|Umsatz]] – [[02 - RESOURCES/Notes/Variable Kosten\|variable Kosten]]              |
+| [[02 - RESOURCES/Notes/Rentabilität\|ROI]] | ([[02 - RESOURCES/Notes/Gewinn\|Gewinn]] / Investition) × 100 %            |
+| [[02 - RESOURCES/Notes/Break-Even-Point\|Break-Even-Point]]  | [[02 - RESOURCES/Notes/Fixkosten\|Fixkosten]] / (Preis – [[02 - RESOURCES/Notes/Variable Kosten\|variable Kosten]]) |
 
 ---
 
@@ -47,17 +47,17 @@
 
 - 📶 **[[02 - RESOURCES/Notes/ISO\|ISO]]/[[02 - RESOURCES/Notes/OSI-Modell\|OSI-Modell]]** _(7 Schichten)_ 👈
     - Physical, Data Link, Network, Transport, Session, Presentation, Application
-- 🖥️ **Netzwerkkomponenten** _([[02 - RESOURCES/Notes/Router\|Router]], [[02 - RESOURCES/Notes/Switch\|Switch]], Access-Point)_
+- 🖥️ **Netzwerkkomponenten** _([[02 - RESOURCES/Notes/Router\|Router]], [[02 - RESOURCES/Notes/Switch\|Switch]], [[02 - RESOURCES/Notes/Hub\|Hub]]_)
 - 🔗 **[[02 - RESOURCES/Notes/IP\|IP-Adresse]]** _([[02 - RESOURCES/Notes/IPv4\|IPv4]] vs. [[02 - RESOURCES/Notes/IPv6\|IPv6]], [[02 - RESOURCES/Notes/Subnetting\|Subnetting]])_ 👈
 - 📦 **[[02 - RESOURCES/Notes/Netzwerkprotokolle\|Netzwerkprotokolle]]** _([[02 - RESOURCES/Notes/TCP\|TCP]] [[02 - RESOURCES/Notes/UDP\|vs.]] [[02 - RESOURCES/Notes/UDP\|UDP]], [[02 - RESOURCES/Notes/DHCP\|DHCP]], [[02 - RESOURCES/Notes/DNS\|DNS]], [[02 - RESOURCES/Notes/HTTP\|HTTP]]/[[02 - RESOURCES/Notes/HTTPS\|HTTPS]])_
-- 🔌 **Topologien & Übertragungsmedien** _(Kupfer, Glasfaser, [[02 - RESOURCES/Notes/WLAN\|WLAN]])_
+- 🔌 **Topologien & Übertragungsmedien** _([[02 - RESOURCES/Notes/Kupferkabel\|Kupferkabel]], [[02 - RESOURCES/Notes/Glasfaserkabel\|Glasfaserkabel]], [[02 - RESOURCES/Notes/WLAN\|WLAN]])_
 
 ---
 
 ## 💻 Softwareentwicklung
 
 - 📄 **Grundlagen** _(Variablen, Datentypen, Schleifen, Bedingungen)_
-- 🧩 **Objektorientierung ([[02 - RESOURCES/Notes/OOP\|OOP]])** _([[02 - RESOURCES/Notes/Klasse\|Klasse]], Objekte, Methoden, Polymorphie)_
+- 🧩 **Objektorientierung ([[02 - RESOURCES/Notes/OOP\|OOP]])** _([[02 - RESOURCES/Notes/Klasse\|Klasse]], Objekte, Methoden, [[02 - RESOURCES/Notes/Polymorphie\|Polymorphie]])_
 - 🛠️ **Entwicklungswerkzeuge** _([[02 - RESOURCES/Notes/IDE\|IDE]], [[02 - RESOURCES/Notes/Compiler\|Compiler]], [[02 - RESOURCES/Notes/Interpreter\|Interpreter]], Debugger, [[02 - RESOURCES/Notes/Git\|Git]])_
 - 🧠 [[02 - RESOURCES/Notes/KI\|KI]] (Begriffen)
 - 🎨 **Software-Modellierung ([[02 - RESOURCES/Notes/UML\|UML]])** _([[02 - RESOURCES/Notes/UML-Anwendungsdiagramm\|UML-Anwendungsdiagramm]], [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]], [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]])_
