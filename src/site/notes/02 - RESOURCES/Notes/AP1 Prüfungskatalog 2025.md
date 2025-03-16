@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-15T23:37:44.218+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-16T17:05:42.931+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
 > Das ist eine Zusammenfassung, was in die AP1 2025 drankommen wird/kann.
-> 
 > > Sie wurde erstellt durch [Broadcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap1-der-it-berufe-ab-2025-it-berufe-podcast-190/) und [[Prüfungskatalog.pdf]]
 
 ---
@@ -14,25 +13,25 @@
 - 📐 **[[02 - RESOURCES/Notes/Magisches Dreieck\|Magisches Dreieck]]** _(Qualität, [[02 - RESOURCES/Notes/Kosten\|Kosten]], Zeit)_
     - Zielkonflikte managen
 - 🎯 **[[02 - RESOURCES/Notes/SMART-Prinzip\|SMART-Prinzip]]** _(Spezifisch, Messbar, Attraktiv, Realistisch, Terminiert)_
-    - klare Zielformulierung zur Überprüfbarkeit
-- 📋 **Projektphasen** _([[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]] & [[02 - RESOURCES/Notes/Scrum\|Scrum]])_
-    - Initiierung, Planung, Durchführung, Controlling, Abschluss
-- 📑 **[[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] vs. [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]]**
-    - [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] = Kundenanforderungen (was und warum), [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]] = technische Umsetzung (wie und womit)
+    - klare Zielformulierung zur Überprüfbarkeit 
+- 📋 **Projektphasen** _([[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]] & [[02 - RESOURCES/Notes/Scrum\|Scrum]])_ 👈
+    - Initiierung, Planung, Durchführung, Controlling, Abschluss 
+- 📑 **[[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] vs. [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]]** 👈
+    - [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] = Kundenanforderungen (was und warum), [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]] = technische Umsetzung (wie und womit) 
 - 👥 **Projektrollen & [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]]**
     - Auftraggeber, [[02 - RESOURCES/Notes/Projektleiter\|Projektleiter]], Projektteam, [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]] (Interessensgruppen)
-- 🗓 **Planungswerkzeuge**
-    - [[02 - RESOURCES/Notes/Netzplan\|Netzplan]] ([[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]), [[02 - RESOURCES/Notes/Gantt-Diagramm\|Gantt-Diagramm]], [[02 - RESOURCES/Notes/Kanban\|Kanban]]
+- 🗓 **Planungswerkzeuge** 👈
+    - [[02 - RESOURCES/Notes/Netzplan\|Netzplan]], [[02 - RESOURCES/Notes/Gantt-Diagramm\|Gantt-Diagramm]] 
 
 ---
 
 ## 💰 Wirtschaftlichkeit
 
-- 🧮 **Kostenarten** _([[02 - RESOURCES/Notes/Fixkosten\|Fixkosten]], [[02 - RESOURCES/Notes/Variable Kosten\|variable kosten]])_
+- 🧮 **Kostenarten** _([[02 - RESOURCES/Notes/Fixkosten\|Fixkosten]], [[02 - RESOURCES/Notes/Variable Kosten\|variable kosten]])_ 👈
 - 📈 **Kennzahlen** _([[02 - RESOURCES/Notes/Umsatz\|Umsatz]], [[02 - RESOURCES/Notes/Gewinn\|Gewinn]], [[02 - RESOURCES/Notes/Deckungsbeitrag\|Deckungsbeitrag]])_
 - ⚖️ **Rentabilität (ROI)**
-  - Wofür braucht man es und Formel
-- 📍 **Break-Even-Point**
+  - Wofür braucht man es und die Formel
+- 📍 **Break-Even-Point** 👈
 
 |Kennzahl|Formel|
 |---|---|
@@ -46,10 +45,10 @@
 
 ## 🌐 Netzwerktechnik
 
-- 📶 **[[02 - RESOURCES/Notes/ISO\|ISO]]/[[02 - RESOURCES/Notes/OSI-Modell\|OSI-Modell]]** _(7 Schichten)_
+- 📶 **[[02 - RESOURCES/Notes/ISO\|ISO]]/[[02 - RESOURCES/Notes/OSI-Modell\|OSI-Modell]]** _(7 Schichten)_ 👈
     - Physical, Data Link, Network, Transport, Session, Presentation, Application
 - 🖥️ **Netzwerkkomponenten** _([[02 - RESOURCES/Notes/Router\|Router]], [[02 - RESOURCES/Notes/Switch\|Switch]], Access-Point)_
-- 🔗 **[[02 - RESOURCES/Notes/IP\|IP-Adresse]]** _([[02 - RESOURCES/Notes/IPv4\|IPv4]] vs. [[02 - RESOURCES/Notes/IPv6\|IPv6]], [[02 - RESOURCES/Notes/Subnetting\|Subnetting]])_
+- 🔗 **[[02 - RESOURCES/Notes/IP\|IP-Adresse]]** _([[02 - RESOURCES/Notes/IPv4\|IPv4]] vs. [[02 - RESOURCES/Notes/IPv6\|IPv6]], [[02 - RESOURCES/Notes/Subnetting\|Subnetting]])_ 👈
 - 📦 **[[02 - RESOURCES/Notes/Netzwerkprotokolle\|Netzwerkprotokolle]]** _([[02 - RESOURCES/Notes/TCP\|TCP]] [[02 - RESOURCES/Notes/UDP\|vs.]] [[02 - RESOURCES/Notes/UDP\|UDP]], [[02 - RESOURCES/Notes/DHCP\|DHCP]], [[02 - RESOURCES/Notes/DNS\|DNS]], [[02 - RESOURCES/Notes/HTTP\|HTTP]]/[[02 - RESOURCES/Notes/HTTPS\|HTTPS]])_
 - 🔌 **Topologien & Übertragungsmedien** _(Kupfer, Glasfaser, [[02 - RESOURCES/Notes/WLAN\|WLAN]])_
 
