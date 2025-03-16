@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-16T22:32:45.603+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-16T23:37:46.282+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -16,12 +16,18 @@
     - klare Zielformulierung zur Überprüfbarkeit 
 - 📋 **Projektphasen** _([[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]] & [[02 - RESOURCES/Notes/Scrum\|Scrum]])_ 👈
     - Initiierung, Planung, Durchführung, Controlling, Abschluss 
+- 📋 [[02 - RESOURCES/Notes/Projektrisiken\|Projektrisiken]]
+	- Was ist das und welche sind die Risiken
 - 📑 **[[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] vs. [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]]** 👈
     - [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] = Kundenanforderungen (was und warum), [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]] = technische Umsetzung (wie und womit) 
 - 👥 **Projektrollen & [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]]**
     - Auftraggeber, [[02 - RESOURCES/Notes/Projektleiter\|Projektleiter]], Projektteam, [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]] (Interessensgruppen)
 - 🗓 **Planungswerkzeuge** 👈
-    - [[02 - RESOURCES/Notes/Netzplan\|Netzplan]], [[02 - RESOURCES/Notes/Gantt-Diagramm\|Gantt-Diagramm]] 
+    - [[02 - RESOURCES/Notes/Netzplan\|Netzplan]], [[02 - RESOURCES/Notes/Gantt-Diagramm\|Gantt-Diagramm]]
+- 🧑‍🤝‍🧑 [[02 - RESOURCES/Notes/Phasen der Teambildung\|Phasen der Teambildung]]
+	- Phasen und Beschreibung
+- ⚡ [[02 - RESOURCES/Notes/Risikoanalyse\|Risikoanalyse]]
+	- Phasen + Bsp
 
 ---
 
@@ -31,7 +37,8 @@
 - 📈 **Kennzahlen** _([[02 - RESOURCES/Notes/Umsatz\|Umsatz]], [[02 - RESOURCES/Notes/Gewinn\|Gewinn]], [[02 - RESOURCES/Notes/Deckungsbeitrag\|Deckungsbeitrag]])_
 - ⚖️ **[[02 - RESOURCES/Notes/Rentabilität\|Rentabilität]] (ROI)**
   - Wofür braucht man es und die Formel
-- 📍 **Break-Even-Point** 👈
+- 📍 **[[02 - RESOURCES/Notes/Break-Even-Point\|Break-Even-Point]]** 👈
+	- Wofür braucht man es + Formel
 
 | Kennzahl              | Formel                                        |
 | --------------------- | --------------------------------------------- |
@@ -46,11 +53,20 @@
 ## 🌐 Netzwerktechnik
 
 - 📶 **[[02 - RESOURCES/Notes/ISO\|ISO]]/[[02 - RESOURCES/Notes/OSI-Modell\|OSI-Modell]]** _(7 Schichten)_ 👈
-    - Physical, Data Link, Network, Transport, Session, Presentation, Application
+    - Physical, Data Link, Network, Transport, Session, Presentation, Application + 2 Bsp für jeder Layer
 - 🖥️ **Netzwerkkomponenten** _([[02 - RESOURCES/Notes/Router\|Router]], [[02 - RESOURCES/Notes/Switch\|Switch]], [[02 - RESOURCES/Notes/Hub\|Hub]]_)
-- 🔗 **[[02 - RESOURCES/Notes/IP\|IP-Adresse]]** _([[02 - RESOURCES/Notes/IPv4\|IPv4]] vs. [[02 - RESOURCES/Notes/IPv6\|IPv6]], [[02 - RESOURCES/Notes/Subnetting\|Subnetting]])_ 👈
+- 🔗 **[[02 - RESOURCES/Notes/IP\|IP-Adresse]]** 👈
+	- [[02 - RESOURCES/Notes/IPv4\|IPv4]] VS [[02 - RESOURCES/Notes/IPv6\|IPv6]]
+		- Unterschiede und Vor-/Nachteile
+		- [[02 - RESOURCES/Notes/Subnetting\|Subnetting]], [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]], CIDR, Broadcast
+		- Öffentliche/private IP-Adressen
+		- APIPA, SAA (Stateless Address Autoconfiguration)
+		- Link-Local-Unicast, Unique Local Unicast, Multicast, Global Unicast
+		- A/B/C-Klassennetze (veraltet)
 - 📦 **[[02 - RESOURCES/Notes/Netzwerkprotokolle\|Netzwerkprotokolle]]** _([[02 - RESOURCES/Notes/TCP\|TCP]] [[02 - RESOURCES/Notes/UDP\|vs.]] [[02 - RESOURCES/Notes/UDP\|UDP]], [[02 - RESOURCES/Notes/DHCP\|DHCP]], [[02 - RESOURCES/Notes/DNS\|DNS]], [[02 - RESOURCES/Notes/HTTP\|HTTP]]/[[02 - RESOURCES/Notes/HTTPS\|HTTPS]])_
 - 🔌 **Topologien & Übertragungsmedien** _([[02 - RESOURCES/Notes/Kupferkabel\|Kupferkabel]], [[02 - RESOURCES/Notes/Glasfaserkabel\|Glasfaserkabel]], [[02 - RESOURCES/Notes/WLAN\|WLAN]])_
+- 👧 [[02 - RESOURCES/Notes/DHCP\|DHCP]]
+	- [[02 - RESOURCES/Notes/DORA-Prinzip\|DORA-Prinzip]]
 
 ---
 
