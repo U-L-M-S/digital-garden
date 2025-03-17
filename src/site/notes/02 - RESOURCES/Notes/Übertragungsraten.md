@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uebertragungsraten/","tags":["GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-02-19T16:13:46.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uebertragungsraten/","tags":["GFN/prüfungsrelevant/AP1"]}
 ---
 
 >Wie viele [[02 - RESOURCES/Notes/Bit\|Bit]]s pro Sekunden übertragen werden kann.

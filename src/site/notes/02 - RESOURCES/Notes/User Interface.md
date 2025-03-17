@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/user-interface/","tags":["GFN/LF10"],"noteIcon":"","updated":"2024-08-28T10:59:17.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/user-interface/","tags":["GFN/LF10"]}
 ---
 
 >Schnittstelle, über die Menschen mit Computern oder [[02 - RESOURCES/Notes/Software\|Software]] interagieren. Sie umfasst alle visuellen Elemente wie Schaltflächen, Menüs und Symbole, die zur Bedienung verwendet werden. 

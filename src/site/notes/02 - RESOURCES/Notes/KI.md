@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ki/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-13T16:11:46.837+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ki/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"]}
 ---
 
 >Künstliche Intelligenz umfasst alles, was Computer und Maschinen befähigt, menschenähnliche Intelligenzleistungen zu erbringen. 

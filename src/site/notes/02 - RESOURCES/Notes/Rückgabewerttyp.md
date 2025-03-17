@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rueckgabewerttyp/","tags":["code"],"noteIcon":"","updated":"2024-10-21T21:26:36.395+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/rueckgabewerttyp/","tags":["code"]}
 ---
 
 >Der **Rückgabewerttyp** einer [[02 - RESOURCES/Notes/Methode\|Methode]] oder [[02 - RESOURCES/Notes/Funktion\|Funktion]] in der Programmierung gibt an, **welchen [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]** die [[02 - RESOURCES/Notes/Methode\|Methode]] nach ihrer Ausführung zurückliefert. 
 >>Er definiert, was eine [[02 - RESOURCES/Notes/Methode\|Methode]] dem Aufrufer „zurückgibt“ (z.B. eine Zahl, ein Text, ein Objekt usw.).
 
 ### 1. **Grundlegendes zum Rückgabewerttyp**
-Jede [[02 - RESOURCES/Notes/Methode\|Methode]] in Sprachen wie [[03 - ARCHIVES/Abgeschlossen/Java\|Java]], C++, oder [[00 - PROJECTS/CSharp\|CSharp]] muss, wenn sie einen Wert zurückgeben soll, einen **Rückgabewerttyp** angeben. Der Rückgabewert ist das Ergebnis der [[02 - RESOURCES/Notes/Methode\|Methode]]. In einigen Fällen gibt eine [[02 - RESOURCES/Notes/Methode\|Methode]] nichts zurück, in solchen Fällen wird in vielen Sprachen `void` verwendet.
+Jede [[02 - RESOURCES/Notes/Methode\|Methode]] in Sprachen wie [[03 - ARCHIVES/Abgeschlossen/Java\|Java]], C++, oder [[00 - PROJECTS/C Sharp\|C Sharp]] muss, wenn sie einen Wert zurückgeben soll, einen **Rückgabewerttyp** angeben. Der Rückgabewert ist das Ergebnis der [[02 - RESOURCES/Notes/Methode\|Methode]]. In einigen Fällen gibt eine [[02 - RESOURCES/Notes/Methode\|Methode]] nichts zurück, in solchen Fällen wird in vielen Sprachen `void` verwendet.
 
 ### 2. **Varianten des Rückgabewerttyps**
 Je nach Programmiersprache und [[02 - RESOURCES/Notes/Methode\|Methode]] können unterschiedliche Typen zurückgegeben werden:

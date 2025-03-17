@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/konstruktor/","tags":["code"],"noteIcon":"","updated":"2024-09-25T15:30:07.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/konstruktor/","tags":["code"]}
 ---
 
 >Es ist eine spezielle [[02 - RESOURCES/Notes/Methode\|Methode]] in einer [[02 - RESOURCES/Notes/Klasse\|Klasse]], wo bestimmte Eigenschaften **immer** zugewiesen werden.

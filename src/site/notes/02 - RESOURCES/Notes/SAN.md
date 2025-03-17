@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/san/","tags":["GFN/prüfungsrelevant/AP1","netzwerk","speicher"],"noteIcon":"","updated":"2024-08-18T18:44:38.332+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/san/","tags":["GFN/prüfungsrelevant/AP1","netzwerk","speicher"]}
 ---
 
 > Storage Area Network 

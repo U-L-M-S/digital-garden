@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/do-while-loop/","tags":["code"],"noteIcon":"","updated":"2024-10-30T09:07:51.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/do-while-loop/","tags":["code"]}
 ---
 
 >Das gleiche wie bei [[02 - RESOURCES/Notes/While-Loop\|While-Loop]]. Es wird aber mindestens 1 mal wiederholt.
@@ -25,7 +25,7 @@ while True:
         break
 ```
 
-## [[00 - PROJECTS/CSharp\|CSharp]]
+## [[00 - PROJECTS/C Sharp\|C Sharp]]
 ```csharp
 int counter = 0;
 do

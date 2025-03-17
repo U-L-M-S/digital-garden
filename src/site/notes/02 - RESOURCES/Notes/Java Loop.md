@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-loop/","tags":["code/java"],"noteIcon":"","updated":"2025-03-12T19:02:43.408+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-loop/","tags":["code/java"]}
 ---
 
 >In [[03 - ARCHIVES/Abgeschlossen/Java\|Java]] gibt's hauptsächlich drei Loops.
