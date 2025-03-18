@@ -1,6 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/organigramm/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-17T16:28:10.229+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/organigramm/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-18T16:27:47.135+01:00"}
 ---
 
->Grafische Darstellung der Struktur eines [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]s.
->>
+>grafische Darstellung der **Aufbauorganisation** eines [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]. 
+>>Zeigt **hierarchische Strukturen**, Abteilungen und deren Beziehungen zueinander.
+
+
+> [!tip]  
+> Hilft dabei, Verantwortlichkeiten und Kommunikationswege im [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] schnell zu erkennen.
+
+**Beispiel:**
+
+- Geschäftsführung oben → darunter Abteilungen wie IT, Personal, Vertrieb.
+- IT-Abteilung unterteilt sich z.B. in Admins und Entwickler.
