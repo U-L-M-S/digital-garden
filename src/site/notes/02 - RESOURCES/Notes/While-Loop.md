@@ -6,7 +6,7 @@
 >Du nutzt ihn, wenn du nicht genau weißt, wie oft die Schleife laufen wird.
 
 # Bsp
-## [[03 - ARCHIVES/Abgeschlossen/Java\|Java]]
+## [[02 - RESOURCES/Notes/Java\|Java]]
 ```java
 int counter = 0;
 while (counter < 5) {

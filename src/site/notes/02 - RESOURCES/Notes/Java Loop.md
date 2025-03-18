@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-resources/notes/java-loop/","tags":["code/java"],"updated":"2025-03-12T19:02:43.000+01:00"}
 ---
 
->In [[03 - ARCHIVES/Abgeschlossen/Java\|Java]] gibt's hauptsächlich drei Loops.
+>In [[02 - RESOURCES/Notes/Java\|Java]] gibt's hauptsächlich drei Loops.
 >>Diese sind:
 
 # [[02 - RESOURCES/Notes/Java For-Loop\|Java For-Loop]]

@@ -39,7 +39,7 @@ ___
 
 
 
->In Grund genommen, hat [[03 - ARCHIVES/Abgeschlossen/Java\|Java]] keine [[02 - RESOURCES/Notes/Funktion\|Funktion]]en. Da alles in Java ein Objekt ist und **alles** innerhalb Klassen passieren.
+>In Grund genommen, hat [[02 - RESOURCES/Notes/Java\|Java]] keine [[02 - RESOURCES/Notes/Funktion\|Funktion]]en. Da alles in Java ein Objekt ist und **alles** innerhalb Klassen passieren.
 >>Syntax
 >>[[02 - RESOURCES/Notes/Zugriffsmodifikator\|access modifer]] returnDateType methodName (parameters) 
 

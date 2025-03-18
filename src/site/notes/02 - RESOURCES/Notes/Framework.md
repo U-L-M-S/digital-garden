@@ -48,7 +48,7 @@
         }
         ```
         
-		[[02 - RESOURCES/Notes/Spring\|Spring]] bietet ein Framework für [[03 - ARCHIVES/Abgeschlossen/Java\|Java]]-Anwendungen mit umfangreichen Funktionen für Webentwicklung und Backend-Systeme.
+		[[02 - RESOURCES/Notes/Spring\|Spring]] bietet ein Framework für [[02 - RESOURCES/Notes/Java\|Java]]-Anwendungen mit umfangreichen Funktionen für Webentwicklung und Backend-Systeme.
         
 
 # Fazit:

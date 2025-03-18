@@ -5,7 +5,7 @@
 >Das gleiche wie bei [[02 - RESOURCES/Notes/While-Loop\|While-Loop]]. Es wird aber mindestens 1 mal wiederholt.
 
 # Bsp
-## [[03 - ARCHIVES/Abgeschlossen/Java\|Java]]
+## [[02 - RESOURCES/Notes/Java\|Java]]
 ```java
 int counter = 0;
 do {

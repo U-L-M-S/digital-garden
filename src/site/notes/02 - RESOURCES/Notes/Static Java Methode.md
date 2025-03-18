@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-resources/notes/static-java-methode/","tags":["code/java","code/java","code/OOP"],"updated":"2024-10-25T11:27:18.266+02:00"}
 ---
 
->Wir haben gelernt; wir brauchen ein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] damit wir mit [[02 - RESOURCES/Notes/OOP\|OOP]] in [[03 - ARCHIVES/Abgeschlossen/Java\|Java]] arbeiten können.
+>Wir haben gelernt; wir brauchen ein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] damit wir mit [[02 - RESOURCES/Notes/OOP\|OOP]] in [[02 - RESOURCES/Notes/Java\|Java]] arbeiten können.
 >>Nun mit eine statische Methode ist es möglich eine [[02 - RESOURCES/Notes/Java Methode\|Java Methode]] zu benutzen ohne ein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] zu initialisieren.
 
 # Bsp

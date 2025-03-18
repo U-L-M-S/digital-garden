@@ -25,4 +25,4 @@
 ```
 
 >[!hint] 
->Das `.` hier entspricht das `+` bei [[02 - RESOURCES/Notes/Python\|Python]] und [[03 - ARCHIVES/Abgeschlossen/Java\|Java]],
+>Das `.` hier entspricht das `+` bei [[02 - RESOURCES/Notes/Python\|Python]] und [[02 - RESOURCES/Notes/Java\|Java]],

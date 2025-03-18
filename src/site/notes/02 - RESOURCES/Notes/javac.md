@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-resources/notes/javac/","tags":["code/java"],"updated":"2024-10-26T20:00:02.000+02:00"}
 ---
 
->[[03 - ARCHIVES/Abgeschlossen/Java\|Java]] [[02 - RESOURCES/Notes/Compiler\|Compiler]].
+>[[02 - RESOURCES/Notes/Java\|Java]] [[02 - RESOURCES/Notes/Compiler\|Compiler]].
 >>Es wird nicht so häufig verwendet (über den Terminal).
 >>Es wird häufiger alles automatisiert über den [[02 - RESOURCES/Notes/IDE\|IDE]].
 

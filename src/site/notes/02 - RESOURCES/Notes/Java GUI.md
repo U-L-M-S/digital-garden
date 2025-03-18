@@ -3,7 +3,7 @@
 ---
 
 
-So kannst du mit [[03 - ARCHIVES/Abgeschlossen/Java\|Java]] und [[02 - RESOURCES/Notes/GUI\|GUI]] am besten arbeiten.
+So kannst du mit [[02 - RESOURCES/Notes/Java\|Java]] und [[02 - RESOURCES/Notes/GUI\|GUI]] am besten arbeiten.
 Erstens installiert den [[02 - RESOURCES/Notes/Framework\|Framework]] [[02 - RESOURCES/Notes/WindowBuilder\|WindowBuilder]] in deiner [[02 - RESOURCES/Notes/Eclipse IDE\|Eclipse IDE]].
 > [!note] PATH
 > Help -> Eclipse Marketplace... -> nach "[[02 - RESOURCES/Notes/WindowBuilder\|WindowBuilder]]" nachsuchen und installieren

@@ -7,7 +7,7 @@
 
 # [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]
 
-So wie bereits gesagt: [[03 - ARCHIVES/Abgeschlossen/Java\|Java]] ist eine [[02 - RESOURCES/Notes/OOP\|Objektorientierte Programmierung]]. Das heißt, alles ist ein Objekt in [[03 - ARCHIVES/Abgeschlossen/Java\|Java]] und muss in einer [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] definiert werden.
+So wie bereits gesagt: [[02 - RESOURCES/Notes/Java\|Java]] ist eine [[02 - RESOURCES/Notes/OOP\|Objektorientierte Programmierung]]. Das heißt, alles ist ein Objekt in [[02 - RESOURCES/Notes/Java\|Java]] und muss in einer [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] definiert werden.
 ```java
 public MyClass{
 	public static void main(String[] args){

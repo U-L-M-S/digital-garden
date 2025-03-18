@@ -7,7 +7,7 @@
 >Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
 
 
->Dieses Lernfeld ist eine Erweiterung von [[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]], aber extrem auf [[02 - RESOURCES/Notes/OOP\|OOP]] mit [[03 - ARCHIVES/Abgeschlossen/Java\|Java]] fokussiert. 
+>Dieses Lernfeld ist eine Erweiterung von [[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]], aber extrem auf [[02 - RESOURCES/Notes/OOP\|OOP]] mit [[02 - RESOURCES/Notes/Java\|Java]] fokussiert. 
 >>Ich habe dieses Lernfeld in Wochen statt in Kapiteln aufgeteilt, wie ich es normalerweise mache.
 
 >[!note] 
@@ -16,7 +16,7 @@
 # 1. Woche
 ___
 >In unser erste Woche haben wir eine kleine Wiederholung über [[02 - RESOURCES/Notes/Java Array\|Java Array]], [[02 - RESOURCES/Notes/NULL\|NULL]] und [[02 - RESOURCES/Notes/Java Loop\|Java Loop]] gemacht. Danach ging es los mit folgende Themas:
->- [[03 - ARCHIVES/Abgeschlossen/Java\|Java]]-Bibliotheken kennenlernen und lernen, wie man sie versteht und effektiv nutzt
+>- [[02 - RESOURCES/Notes/Java\|Java]]-Bibliotheken kennenlernen und lernen, wie man sie versteht und effektiv nutzt
 >- [[02 - RESOURCES/Notes/Java Static\|Java Static]]
 >- [[02 - RESOURCES/Notes/Java final\|Java final]]
 >- [[02 - RESOURCES/Notes/Setter Methode\|Getter-Methode]]
