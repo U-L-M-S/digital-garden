@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lipsum/"}
+{"dg-publish":true,"permalink":"/02-resources/notes/lipsum/","updated":"2024-08-02T05:28:00.000+02:00"}
 ---
 
 > Random Text, oft in Latin für Platzhalter.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/static/","tags":["code"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/static/","tags":["code"],"updated":"2024-10-21T15:50:44.619+02:00"}
 ---
 
 >DE: Statische.

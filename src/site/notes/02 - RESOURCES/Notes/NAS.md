@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/nas/","tags":["netzwerk","speicher","GFN/prüfungsrelevant/AP1"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/nas/","tags":["netzwerk","speicher","GFN/prüfungsrelevant/AP1"],"updated":"2024-08-18T18:44:37.000+02:00"}
 ---
 
 > Network Attached Storage

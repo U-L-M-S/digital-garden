@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn//l-fvt4-datenbanken-und-sql/","tags":["GFN/LFvt4"]}
+{"dg-publish":true,"permalink":"/00-projects/gfn//l-fvt4-datenbanken-und-sql/","tags":["GFN/LFvt4"],"updated":"2024-10-20T19:39:25.000+02:00"}
 ---
 
 >[!important] 

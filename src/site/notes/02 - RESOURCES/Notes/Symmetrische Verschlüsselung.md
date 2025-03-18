@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/symmetrische-verschluesselung/","tags":["kryptografie","it-sicherheit"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/symmetrische-verschluesselung/","tags":["kryptografie","it-sicherheit","GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-18T12:37:14.382+01:00"}
 ---
 
->Symmetrische Verschlüsselung ist eine Methode der Kryptographie, bei der nur ein einziger Schlüssel verwendet wird: der **geheime Schlüssel**.
+>Symmetrische Verschlüsselung ist eine Methode der [[00 - PROJECTS/Kryptographie\|Kryptographie]], bei der nur ein einziger Schlüssel verwendet wird: der **geheime Schlüssel**.
 
 - Dieser Schlüssel wird verwendet, um Daten sowohl zu **verschlüsseln** als auch zu **entschlüsseln**.
 
-Da derselbe Schlüssel von beiden Kommunikationsparteien geteilt wird, ist das Verfahren schnell und effizient, aber der Schlüssel muss sicher zwischen den Parteien ausgetauscht werden. Ein bekanntes Beispiel ist **AES** (Advanced Encryption Standard). Symmetrische Verschlüsselung wird häufig für die **sichere Datenübertragung innerhalb von Netzwerken** eingesetzt.
+Da derselbe Schlüssel von beiden Kommunikationsparteien geteilt wird, ist das Verfahren schnell und effizient, aber der Schlüssel muss sicher zwischen den Parteien ausgetauscht werden. Ein bekanntes Beispiel sind **[[02 - RESOURCES/Notes/AES\|AES]]** und **[[02 - RESOURCES/Notes/ECC\|ECC]]** . Symmetrische Verschlüsselung wird häufig für die **sichere Datenübertragung innerhalb von Netzwerken** eingesetzt.
 
 ### Abgedeckte Bausteine der Sicherheit:
 
@@ -14,7 +14,7 @@ Da derselbe Schlüssel von beiden Kommunikationsparteien geteilt wird, ist das V
 
 2. **[[02 - RESOURCES/Notes/Integrität\|Integrität]]:** Durch den verschlüsselten Austausch wird die Manipulation der Daten erschwert, was die [[02 - RESOURCES/Notes/Integrität\|Integrität]] der Informationen sicherstellt.
 
-3. **Schnelligkeit**: Da nur ein Schlüssel verwendet wird und der Algorithmus recheneffizient ist, bietet die symmetrische Verschlüsselung eine schnelle Verschlüsselung und Entschlüsselung, die für große Datenmengen besonders nützlich ist.
+3. **Schnelligkeit**: Da nur ein Schlüssel verwendet wird und der [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] recheneffizient ist, bietet die [[02 - RESOURCES/Notes/Symmetrische Verschlüsselung\|Symmetrische Verschlüsselung]] eine schnelle [[02 - RESOURCES/Notes/Verschlüsselung\|Verschlüsselung]] und Entschlüsselung, die für große Datenmengen besonders nützlich ist.
 
 
 >[!note] [[02 - RESOURCES/Notes/Asymmetrische Verschlüsselung\|Asymetrische Verschlüsselung]] ist ein Good To Know ;D

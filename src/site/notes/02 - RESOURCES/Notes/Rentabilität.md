@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rentabilitaet/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/rentabilitaet/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-16T19:25:24.000+01:00"}
 ---
 
 >Es Misst, wie wirtschaftlich erfolgreich (profitabel) eine Investition ist.

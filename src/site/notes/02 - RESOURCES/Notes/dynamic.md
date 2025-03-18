@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dynamic/"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dynamic/","updated":"2024-08-25T23:02:44.000+02:00"}
 ---
 
 > Adjektiv für 

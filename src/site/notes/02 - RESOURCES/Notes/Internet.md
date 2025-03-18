@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/internet/","tags":["netzwerk"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/internet/","tags":["netzwerk"],"updated":"2024-07-22T20:55:57.000+02:00"}
 ---
 
 > **Inter**connected Networks.

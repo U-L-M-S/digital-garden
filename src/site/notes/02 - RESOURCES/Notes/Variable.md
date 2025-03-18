@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/variable/","tags":["code"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/variable/","tags":["code"],"updated":"2024-08-25T23:16:43.000+02:00"}
 ---
 
 >Es ist ein **Placeholder** für ein Wert.

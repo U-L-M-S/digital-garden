@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dns/","tags":["netzwerk/dns"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/dns/","tags":["netzwerk/dns"],"updated":"2024-10-17T20:37:28.000+02:00"}
 ---
 
 > [[02 - RESOURCES/Notes/Domain\|Domain]] Name System

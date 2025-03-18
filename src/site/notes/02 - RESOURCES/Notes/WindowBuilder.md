@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/window-builder/","tags":["code/java/tools","GUI"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/window-builder/","tags":["code/java/tools","GUI"],"updated":"2024-10-25T08:46:14.976+02:00"}
 ---
 
 Erstens, erstellt eine neues JFrame.

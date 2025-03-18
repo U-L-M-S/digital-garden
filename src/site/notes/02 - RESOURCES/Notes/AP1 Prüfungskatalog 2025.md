@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-18T11:31:22.087+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -88,7 +88,7 @@
 - 🚨 **Bedrohungen** _(Malware, [[02 - RESOURCES/Notes/Phishing\|Phishing]], [[02 - RESOURCES/Notes/Social Engineering\|Social Engineering]])_
 - 🔒 **Schutzmaßnahmen** _([[00 - PROJECTS/Firewall\|Firewall]], Virenschutz, Updates, Backup)_
 - 🔑 **Zugangssicherheit** _(Zwei-Faktor-Authentifizierung, Passwort-Policy)_
-- 🔐 **[[00 - PROJECTS/Kryptographie\|Kryptographie]]** _(symmetrisch, asymmetrisch, Hashfunktionen)_
+- 🔐 **[[00 - PROJECTS/Kryptographie\|Kryptographie]]** _([[02 - RESOURCES/Notes/Symmetrische Verschlüsselung\|Symmetrische Verschlüsselung]], [[02 - RESOURCES/Notes/Asymmetrische Verschlüsselung\|Asymmetrische Verschlüsselung]], Hashfunktionen)_
 
 ---
 

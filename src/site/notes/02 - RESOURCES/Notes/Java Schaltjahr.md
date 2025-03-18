@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-schaltjahr/","tags":["code/java","code/algorithmus"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-schaltjahr/","tags":["code/java","code/algorithmus"],"updated":"2024-10-26T21:45:23.000+02:00"}
 ---
 
 ```java

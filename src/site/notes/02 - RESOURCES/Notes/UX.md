@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ux/","tags":["GUI"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/ux/","tags":["GUI"],"updated":"2024-11-08T15:29:14.350+01:00"}
 ---
 
 > **U**ser **E**xperience.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetz-bestimmen/","tags":["netzwerk/subnetting","netzwerk/ip/ipv4"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetz-bestimmen/","tags":["netzwerk/subnetting","netzwerk/ip/ipv4"],"updated":"2024-10-17T20:37:40.000+02:00"}
 ---
 
 > Nehmen wir an, du hast eine [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] und [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] erhalten und musst nun das [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] in 12 gleich große [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e unterteilen. Gefragt sind die 7. [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]].  

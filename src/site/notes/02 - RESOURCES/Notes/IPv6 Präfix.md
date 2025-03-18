@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6-praefix/","tags":["netzwerk/ip/ipv6","netzwerk/subnetting"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6-praefix/","tags":["netzwerk/ip/ipv6","netzwerk/subnetting"],"updated":"2024-08-01T11:23:25.174+02:00"}
 ---
 
 >Wert, der eingesetzt wird am Ende [[02 - RESOURCES/Notes/IPv6\|IPv6]] um zu trennen das [[02 - RESOURCES/Notes/Netzwerkpräfix\|Netzwerkpräfix]] von [[02 - RESOURCES/Notes/Schnittstellenbezeichner\|Schnittstellenbezeichner]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-variable/","tags":["code/java"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-variable/","tags":["code/java"],"updated":"2024-10-22T15:36:58.735+02:00"}
 ---
 
 # Syntax

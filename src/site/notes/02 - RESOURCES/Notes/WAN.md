@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wan/","tags":["netzwerk"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/wan/","tags":["netzwerk"],"updated":"2024-08-02T16:07:57.000+02:00"}
 ---
 
 > Wide Area Network

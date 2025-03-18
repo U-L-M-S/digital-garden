@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/raid0/","tags":["speicher/raid/raid0"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/raid0/","tags":["speicher/raid/raid0"],"updated":"2024-08-16T18:32:42.000+02:00"}
 ---
 
 ## Raid0 

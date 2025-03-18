@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pseudonymisierung/","tags":["GFN/prüfungsrelevant/AP1"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/pseudonymisierung/","tags":["GFN/prüfungsrelevant/AP1"],"updated":"2025-02-24T16:09:17.747+01:00"}
 ---
 
 >[[02 - RESOURCES/Notes/Personenbezogene Daten\|personenbezogene Daten]] so verändert werden, dass sie nicht mehr direkt einer Person zugeordnet werden können – aber mit zusätzlichen Informationen könnte man die Person wieder identifizieren.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/vuca/","tags":["projektmanagement"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/vuca/","tags":["projektmanagement"],"updated":"2024-11-15T13:44:43.253+01:00"}
 ---
 
 >VUCA ist ein Akronym, das ursprünglich im militärischen Kontext entwickelt wurde, um die Herausforderungen und Bedingungen in einer unsicheren und [[02 - RESOURCES/Notes/dynamic\|dynamischen]] Welt zu beschreiben. 

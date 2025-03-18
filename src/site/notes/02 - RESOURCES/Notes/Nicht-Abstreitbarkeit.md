@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/nicht-abstreitbarkeit/","tags":["it-sicherheit"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/nicht-abstreitbarkeit/","tags":["it-sicherheit"],"updated":"2024-10-06T12:09:37.000+02:00"}
 ---
 
 >Es ist ein Sicherheitskonzept, das sicherstellt, dass eine Partei nicht abstreiten kann, eine bestimmte Handlung oder Transaktion durchgeführt zu haben.
