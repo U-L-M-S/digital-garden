@@ -16,7 +16,7 @@
     "filesToAdd": [
         "src/site/styles/custom-style.scss",
         ".env",
-        "src/site/favicon.svg",
+        "src/site/favicon.png",
         "src/site/img/default-note-icon.svg",
         "src/site/img/tree-1.svg",
         "src/site/img/tree-2.svg",
