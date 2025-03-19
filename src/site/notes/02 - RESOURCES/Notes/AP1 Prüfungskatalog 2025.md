@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-19T13:41:00.081+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-19T14:21:01.258+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -12,6 +12,9 @@
 
 ## ✅ [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]
 
+- ✅ [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]
+	- [[02 - RESOURCES/Notes/Projektmanagement#Kriterien / Merkmale\|Projektmanagement#Kriterien / Merkmale]] 👈
+	
 - 📐 **[[02 - RESOURCES/Notes/Magisches Dreieck\|Magisches Dreieck]]** _(Qualität, [[02 - RESOURCES/Notes/Kosten\|Kosten]], Zeit)_
     - Zielkonflikte managen
     
@@ -41,10 +44,11 @@
 		- Phasen + Bsp
 	- [[02 - RESOURCES/Notes/Projektrisiken\|Projektrisiken]]
 		- Was ist das und welche sind die Risiken
-- 🗞 Stakeholder-Analyse  
-  - Power-Interest-Matrix: Einordnung nach Einfluss und Interesse.  
-  - Kommunikationsplan: Wer benötigt welche Infos in welchem Format?
-- : Änderungsmanagement (Change Requests)  
+- 🗞 [[02 - RESOURCES/Notes/Stakeholder-Analyse\|Stakeholder-Analyse]]  
+  - [[02 - RESOURCES/Notes/Power-Interest-Matrix\|Power-Interest-Matrix]] 
+	  - Einordnung nach Einfluss und Interesse.  
+    
+- 🔄 [[02 - RESOURCES/Notes/Änderungsmanagement\|Änderungsmanagement]] (Change Requests)  
   - Formaler Prozess zur Bearbeitung von Änderungswünschen (Auswirkungsanalyse → Genehmigung → Umsetzung).  
 ---
 
@@ -53,13 +57,16 @@
 - 🧮 **Kostenarten** _([[02 - RESOURCES/Notes/Fixkosten\|Fixkosten]], [[02 - RESOURCES/Notes/Variable Kosten\|variable kosten]])_ 👈
 
 - 📈 **Kennzahlen** _([[02 - RESOURCES/Notes/Umsatz\|Umsatz]], [[02 - RESOURCES/Notes/Gewinn\|Gewinn]], [[02 - RESOURCES/Notes/Deckungsbeitrag\|Deckungsbeitrag]])_
+
 - ⚖️ **[[02 - RESOURCES/Notes/Rentabilität\|Rentabilität]] (ROI)**
   - Wofür braucht man es + Formel
   
 - 💸 [[02 - RESOURCES/Notes/Amortisation\|Amortisation]]srechnung 👈  
 	- Wofür man bracht es + Formel
+	  
 - 📍 **[[02 - RESOURCES/Notes/Break-Even-Point\|Break-Even-Point]]** 👈
 	- Wofür braucht man es + Formel
+	  
 - 🏗️ [[02 - RESOURCES/Notes/Make-or-Buy\|Make-or-Buy]]
 	- Vorteilen/Nachteile + Risiken
 	
