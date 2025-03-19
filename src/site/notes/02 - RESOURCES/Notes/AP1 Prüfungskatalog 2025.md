@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-19T21:33:35.994+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-19T22:20:09.691+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -14,31 +14,23 @@
 
 - ✅ [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]
 	- [[02 - RESOURCES/Notes/Projektmanagement#Kriterien / Merkmale\|Projektmanagement#Kriterien / Merkmale]] 👈
-	
 - 📐 **[[02 - RESOURCES/Notes/Magisches Dreieck\|Magisches Dreieck]]** _(Qualität, [[02 - RESOURCES/Notes/Kosten\|Kosten]], Zeit)_
     - Zielkonflikte managen
-    
 - 🎯 **[[02 - RESOURCES/Notes/SMART-Prinzip\|SMART-Prinzip]]** _(Spezifisch, Messbar, Attraktiv, Realistisch, Terminiert)_
     - klare Zielformulierung zur Überprüfbarkeit 
-    
 - 📋 **Projektphasen** _([[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]], [[02 - RESOURCES/Notes/Scrum\|Scrum]], [[02 - RESOURCES/Notes/Milestone\|Milestone]])_ 👈
     - Initiierung, Planung, Durchführung, Controlling, Abschluss
     - Projektcontrolling  
 		- Earned Value Analysis (EVA): Soll-Ist-Vergleich von Kosten, Terminen und Leistung.  
 		- Meilensteintrendanalyse: Visualisierung von Terminabweichungen.  
-
 - 📑 **[[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] vs. [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]]** 👈
     - [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] = Kundenanforderungen (was und warum), [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]] = technische Umsetzung (wie und womit) 
-    - 
 - 👥 **Projektrollen & [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]]**
     - Auftraggeber, [[02 - RESOURCES/Notes/Projektleiter\|Projektleiter]], Projektteam, [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]] (Interessensgruppen)
-    
 - 🗓 **Planungswerkzeuge** 👈
     - [[02 - RESOURCES/Notes/Netzplan\|Netzplan]], [[02 - RESOURCES/Notes/Gantt-Diagramm\|Gantt-Diagramm]]
-    
 - 🧑‍🤝‍🧑 [[02 - RESOURCES/Notes/Phasen der Teambildung\|Phasen der Teambildung]]
 	- Phasen und Beschreibung
-	
 - ⚡ Risikoanalyse & -management  
 	- [[02 - RESOURCES/Notes/Risikoanalyse\|Risikoanalyse]]
 		- Phasen + Bsp
@@ -47,7 +39,6 @@
 - 🗞 [[02 - RESOURCES/Notes/Stakeholder-Analyse\|Stakeholder-Analyse]]  
   - [[02 - RESOURCES/Notes/Power-Interest-Matrix\|Power-Interest-Matrix]] 
 	  - Einordnung nach Einfluss und Interesse.  
-    
 - 🔄 [[02 - RESOURCES/Notes/Änderungsmanagement\|Änderungsmanagement]] (Change Requests)  
   - Formaler Prozess zur Bearbeitung von Änderungswünschen (Auswirkungsanalyse → Genehmigung → Umsetzung).  
 ---
