@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/scrum-framework/","tags":["projektmanagement/vorgehensmodell/agile"],"updated":"2024-11-22T22:48:49.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/scrum-framework/","tags":["projektmanagement/vorgehensmodell/agile"],"updated":"2025-03-19T12:11:11.813+01:00"}
 ---
 
->Es ist ein agiles [[02 - RESOURCES/Notes/Framework\|Framework]], das eine strukturierte [[02 - RESOURCES/Notes/Methode\|Methode]] bietet, um komplexe Projekte in Teams schrittweise und iterativ umzusetzen. 
+>Es ist ein agiles [[02 - RESOURCES/Notes/Framework\|Framework]], das eine strukturierte [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] bietet, um komplexe Projekte in Teams schrittweise und iterativ umzusetzen. 
 >Es wird häufig in der Softwareentwicklung sowie in anderen Bereichen wie Produkt- und [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] eingesetzt.
 
 Das [[02 - RESOURCES/Notes/Framework\|Framework]] basiert auf klar definierten **Rollen**, **Artefakten** und **Ereignissen**:
@@ -45,7 +45,7 @@ Das **[[02 - RESOURCES/Notes/Scrum Framework\|Scrum Framework]]** sorgt für Fle
 
 # Unterschied zwischen [[02 - RESOURCES/Notes/Scrum\|Scrum]] und [[02 - RESOURCES/Notes/Scrum Framework\|Scrum Framework]]
 
-- **[[02 - RESOURCES/Notes/Scrum\|Scrum]]** ist das übergeordnete Konzept, eine **agile [[02 - RESOURCES/Notes/Methode\|Methode]]**, die Prinzipien und Werte für die Zusammenarbeit in Teams definiert. Es beschreibt, **warum** und **wie** agile Arbeitsweisen angewendet werden sollten, um Flexibilität, Transparenz und Anpassungsfähigkeit zu fördern.
+- **[[02 - RESOURCES/Notes/Scrum\|Scrum]]** ist das übergeordnete Konzept, eine **agile [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]]**, die Prinzipien und Werte für die Zusammenarbeit in Teams definiert. Es beschreibt, **warum** und **wie** agile Arbeitsweisen angewendet werden sollten, um Flexibilität, Transparenz und Anpassungsfähigkeit zu fördern.
 
 - Das **[[02 - RESOURCES/Notes/Scrum Framework\|Scrum Framework]]** ist die konkrete **Umsetzung von [[02 - RESOURCES/Notes/Scrum\|Scrum]]**. Es liefert die Struktur und definiert **Rollen**, **Artefakte** und **Ereignisse**, um die Werte und Prinzipien von [[02 - RESOURCES/Notes/Scrum\|Scrum]] in der Praxis anzuwenden.
 

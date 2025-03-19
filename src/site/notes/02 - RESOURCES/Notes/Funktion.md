@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/funktion/","tags":["code"],"updated":"2024-09-23T16:15:01.045+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/funktion/","tags":["code"],"updated":"2025-03-19T12:10:54.794+01:00"}
 ---
 
 >Es ist Block von wiederverwendbarem Code, der eine bestimmte Aufgabe ausführt.
@@ -14,5 +14,5 @@ print(sayHello("Nutzer"))
 ```
 
 >[!important] 
->Nicht mit [[02 - RESOURCES/Notes/Methode\|Methode]] verwechseln!!!
+>Nicht mit [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] verwechseln!!!
 

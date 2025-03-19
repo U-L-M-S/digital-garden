@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-setter-methode/","tags":["code/java","code/OOP"],"updated":"2024-10-28T11:07:50.524+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-setter-methode/","tags":["code/java","code/OOP"],"updated":"2025-03-19T12:11:01.777+01:00"}
 ---
 
->Eine [[02 - RESOURCES/Notes/Setter Methode\|Setter-Methode]] ist eine spezielle [[02 - RESOURCES/Notes/Methode\|Methode]] in der objektorientierten Programmierung ([[02 - RESOURCES/Notes/OOP\|OOP]]), die dazu dient, den Wert einer privaten [[02 - RESOURCES/Notes/Variable\|Variable]] in einer [[02 - RESOURCES/Notes/Klasse\|Klasse]] zu setzen.
+>Eine [[02 - RESOURCES/Notes/Setter Methode\|Setter-Methode]] ist eine spezielle [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] in der objektorientierten Programmierung ([[02 - RESOURCES/Notes/OOP\|OOP]]), die dazu dient, den Wert einer privaten [[02 - RESOURCES/Notes/Variable\|Variable]] in einer [[02 - RESOURCES/Notes/Klasse\|Klasse]] zu setzen.
 >> Sie ermöglicht den kontrollierten Zugriff auf die Attribute einer [[02 - RESOURCES/Notes/Klasse\|Klasse]], während die Kapselung gewahrt bleibt.
 
 ### Syntax

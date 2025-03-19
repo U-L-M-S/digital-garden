@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-getter-methode/","tags":["code/java","code/OOP"],"updated":"2024-10-28T11:05:45.620+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-getter-methode/","tags":["code/java","code/OOP"],"updated":"2025-03-19T12:10:58.197+01:00"}
 ---
 
->Eine [[02 - RESOURCES/Notes/Getter Methode\|Getter-Methode]] ist eine spezielle [[02 - RESOURCES/Notes/Methode\|Methode]] in der objektorientierten Programmierung ([[02 - RESOURCES/Notes/OOP\|OOP]]), die verwendet wird, um den Wert einer privaten [[02 - RESOURCES/Notes/Variable\|Variable]] in einer [[02 - RESOURCES/Notes/Klasse\|Klasse]] abzurufen. 
+>Eine [[02 - RESOURCES/Notes/Getter Methode\|Getter-Methode]] ist eine spezielle [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] in der objektorientierten Programmierung ([[02 - RESOURCES/Notes/OOP\|OOP]]), die verwendet wird, um den Wert einer privaten [[02 - RESOURCES/Notes/Variable\|Variable]] in einer [[02 - RESOURCES/Notes/Klasse\|Klasse]] abzurufen. 
 >>Sie ermöglicht den kontrollierten Zugriff auf die Attribute einer [[02 - RESOURCES/Notes/Klasse\|Klasse]], während die Kapselung gewahrt bleibt.
 
 ### Syntax

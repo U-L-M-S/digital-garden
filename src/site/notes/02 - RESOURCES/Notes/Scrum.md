@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/scrum/","tags":["GFN/LFzq3a","projektmanagement"],"updated":"2024-11-22T21:17:39.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/scrum/","tags":["GFN/LFzq3a","projektmanagement"],"updated":"2025-03-19T12:11:13.123+01:00"}
 ---
 
 >**Scrum** ist ein **agiles [[02 - RESOURCES/Notes/Framework\|Framework]]**, das hauptsächlich im Bereich der Softwareentwicklung, aber auch in anderen Bereichen, wie [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] oder Produktentwicklung, verwendet wird. 
->Es bietet eine strukturierte [[02 - RESOURCES/Notes/Methode\|Methode]] zur Zusammenarbeit in Teams, um komplexe Aufgaben schrittweise zu bewältigen und kontinuierlich Wert zu liefern.
+>Es bietet eine strukturierte [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] zur Zusammenarbeit in Teams, um komplexe Aufgaben schrittweise zu bewältigen und kontinuierlich Wert zu liefern.
 >>Scrum fördert Transparenz, Zusammenarbeit und Anpassungsfähigkeit, um schnell auf Veränderungen reagieren zu können.
 
 # Merkmale von Scrum
