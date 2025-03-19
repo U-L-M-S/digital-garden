@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/nutzwertanalyse/","tags":["BWL/formel"],"updated":"2025-03-19T12:52:01.041+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/nutzwertanalyse/","tags":["BWL/formel"],"updated":"2025-03-19T12:52:47.530+01:00"}
 ---
 
 >Es ist eine Methode zum **Vergleich von Alternativen**, wenn **qualitative und quantitative** Kriterien bewertet werden müssen.
@@ -48,7 +48,7 @@
 |  Support  |    10%     |     5     |          0.5           |     9     |          0.9           |     6     |          0.6           |
 |  Gesamt   |    100%    |    25     |          6.8           |    28     |          6.9           |    28     |           7            |
 
--> Lösung: Angebot C
+-> Lösung: Angebot C mit ein Bewerbung von 7
 
 >[!important] 
 ><mark style="background: #FFF3A3A6;">Artet auf die Bewertungsskala.</mark>

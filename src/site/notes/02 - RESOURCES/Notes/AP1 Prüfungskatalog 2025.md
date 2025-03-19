@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-19T10:01:51.258+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-19T13:41:00.081+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -7,6 +7,8 @@
 > > Sie wurde erstellt durch [Broadcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap1-der-it-berufe-ab-2025-it-berufe-podcast-190/) und [[Prüfungskatalog.pdf]]
 
 ---
+
+👈 <-- **Bauchgefühl, dass es in der Prüfung drankommt.**
 
 ## ✅ [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]
 
@@ -49,19 +51,28 @@
 ## 💰 Wirtschaftlichkeit
 
 - 🧮 **Kostenarten** _([[02 - RESOURCES/Notes/Fixkosten\|Fixkosten]], [[02 - RESOURCES/Notes/Variable Kosten\|variable kosten]])_ 👈
+
 - 📈 **Kennzahlen** _([[02 - RESOURCES/Notes/Umsatz\|Umsatz]], [[02 - RESOURCES/Notes/Gewinn\|Gewinn]], [[02 - RESOURCES/Notes/Deckungsbeitrag\|Deckungsbeitrag]])_
 - ⚖️ **[[02 - RESOURCES/Notes/Rentabilität\|Rentabilität]] (ROI)**
   - Wofür braucht man es + Formel
+  
 - 💸 [[02 - RESOURCES/Notes/Amortisation\|Amortisation]]srechnung 👈  
 	- Wofür man bracht es + Formel
 - 📍 **[[02 - RESOURCES/Notes/Break-Even-Point\|Break-Even-Point]]** 👈
 	- Wofür braucht man es + Formel
 - 🏗️ [[02 - RESOURCES/Notes/Make-or-Buy\|Make-or-Buy]]
 	- Vorteilen/Nachteile + Risiken
+	
 - 🪙 [[02 - RESOURCES/Notes/Total Cost of Ownership\|Total Cost of Ownership]] (TCO) 👈
-	- was das ist
+	- was das ist 
+	
 - 🧩 [[02 - RESOURCES/Notes/Nutzwertanalyse\|Nutzwertanalyse]]
 	- Tabell vervollständigen
+	
+- 🏪 [[02 - RESOURCES/Notes/Marktformen\|Marktformen]] 👈
+	- Formen([[02 - RESOURCES/Notes/Monopol\|Monopol]], [[02 - RESOURCES/Notes/Polypol\|Polypol]], [[02 - RESOURCES/Notes/Oligopol\|Oligopol]]) und BSP
+	
+- 🏛 [[02 - RESOURCES/Notes/Aufbauorganisation\|Aufbauorganisation]]
 
 | Kennzahl              | Formel                                        |
 | --------------------- | --------------------------------------------- |
@@ -70,9 +81,7 @@
 | [[02 - RESOURCES/Notes/Deckungsbeitrag\|Deckungsbeitrag]]   | [[02 - RESOURCES/Notes/Umsatz\|Umsatz]] – [[02 - RESOURCES/Notes/Variable Kosten\|variable Kosten]]              |
 | [[02 - RESOURCES/Notes/Rentabilität\|ROI]] | ([[02 - RESOURCES/Notes/Gewinn\|Gewinn]] / Investition) × 100 %            |
 | [[02 - RESOURCES/Notes/Break-Even-Point\|Break-Even-Point]]  | [[02 - RESOURCES/Notes/Fixkosten\|Fixkosten]] / (Preis – [[02 - RESOURCES/Notes/Variable Kosten\|variable Kosten]]) |
-- 🏪 [[02 - RESOURCES/Notes/Marktformen\|Marktformen]]
-	- Formen([[02 - RESOURCES/Notes/Monopol\|Monopol]], [[02 - RESOURCES/Notes/Polypol\|Polypol]], [[02 - RESOURCES/Notes/Oligopol\|Oligopol]]) und BSP
-- [[02 - RESOURCES/Notes/Aufbauorganisation\|Aufbauorganisation]]
+
 ---
 
 ## 🌐 Netzwerktechnik
