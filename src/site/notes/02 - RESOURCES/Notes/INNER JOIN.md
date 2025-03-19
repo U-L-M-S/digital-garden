@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/inner-join/","tags":["code/SQL","datenbank"],"updated":"2024-10-17T16:18:06.047+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/inner-join/","tags":["code/SQL","datenbank"],"noteIcon":"","updated":"2024-10-17T16:18:06.000+02:00"}
 ---
 
 >Es ist eine [[02 - RESOURCES/Notes/SQL\|SQL]]-Operation, die zwei Tabellen basierend auf einer gemeinsamen Spalte (in diesem Fall `customer_ID`) kombiniert und nur die [[02 - RESOURCES/Notes/Datensatz\|Datensätze]] zurückgibt, bei denen es eine Übereinstimmung in beiden Tabellen gibt. 
