@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-20T14:32:45.965+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-20T15:03:30.207+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -71,6 +71,7 @@
 | [[02 - RESOURCES/Notes/Rentabilität\|ROI]] | ([[02 - RESOURCES/Notes/Gewinn\|Gewinn]] / Investition) × 100 %            |
 | [[02 - RESOURCES/Notes/Break-Even-Point\|Break-Even-Point]]  | [[02 - RESOURCES/Notes/Fixkosten\|Fixkosten]] / (Preis – [[02 - RESOURCES/Notes/Variable Kosten\|variable Kosten]]) |
 | [[02 - RESOURCES/Notes/Amortisation\|Amortisation]]      | Investmentsummer/Jahresübersicht              |
+| [[02 - RESOURCES/Notes/Rentabilität\|Rentabilität]]      | ([[02 - RESOURCES/Notes/Gewinn\|Gewinn]]/Kapitaleinsatz)*100%              |
 
 ---
 
@@ -100,17 +101,27 @@
 - 🧩 **Objektorientierung ([[02 - RESOURCES/Notes/OOP\|OOP]])** _([[02 - RESOURCES/Notes/Klasse\|Klasse]], Objekte, Methoden, [[02 - RESOURCES/Notes/Polymorphie\|Polymorphie]])_
 - 🛠️ **Entwicklungswerkzeuge** _([[02 - RESOURCES/Notes/IDE\|IDE]], [[02 - RESOURCES/Notes/Compiler\|Compiler]], [[02 - RESOURCES/Notes/Interpreter\|Interpreter]], Debugger, [[02 - RESOURCES/Notes/Git\|Git]])_
 - 🧠 [[02 - RESOURCES/Notes/KI\|KI]] (Begriffen)
-- 🎨 **Software-Modellierung ([[02 - RESOURCES/Notes/UML\|UML]])** _([[02 - RESOURCES/Notes/UML-Anwendungsdiagramm\|UML-Anwendungsdiagramm]], [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]], [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]])_
+- 🎨 **Software-Modellierung ([[02 - RESOURCES/Notes/UML\|UML]])** 👈
+	-  [[02 - RESOURCES/Notes/UML-Anwendungsdiagramm\|UML-Anwendungsdiagramm]]
+	-  [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]]
+	-  [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]]
 
 ---
 
 ## 🛡️ IT-Sicherheit
 
-- 🔑 **[[02 - RESOURCES/Notes/Schutzziele\|Schutzziele]]** _([[02 - RESOURCES/Notes/Vertraulichkeit\|Vertraulichkeit]], [[02 - RESOURCES/Notes/Integrität\|Integrität]], [[02 - RESOURCES/Notes/Verfügbarkeit\|Verfügbarkeit]], [[02 - RESOURCES/Notes/Authentizität\|Authentizität]])_
+- 🔑 **[[02 - RESOURCES/Notes/Schutzziele\|Schutzziele]]** 
+	- [[02 - RESOURCES/Notes/Vertraulichkeit\|Vertraulichkeit]]
+	- [[02 - RESOURCES/Notes/Integrität\|Integrität]]
+	- [[02 - RESOURCES/Notes/Verfügbarkeit\|Verfügbarkeit]]
 - 🚨 **Bedrohungen** _(Malware, [[02 - RESOURCES/Notes/Phishing\|Phishing]], [[02 - RESOURCES/Notes/Social Engineering\|Social Engineering]])_
 - 🔒 **Schutzmaßnahmen** _([[00 - PROJECTS/Firewall\|Firewall]], Virenschutz, Updates, Backup)_
 - 🔑 **Zugangssicherheit** _(Zwei-Faktor-Authentifizierung, Passwort-Policy)_
 - 🔐 **[[00 - PROJECTS/Kryptographie\|Kryptographie]]** _([[02 - RESOURCES/Notes/Symmetrische Verschlüsselung\|Symmetrische Verschlüsselung]], [[02 - RESOURCES/Notes/Asymmetrische Verschlüsselung\|Asymmetrische Verschlüsselung]], Hashfunktionen)_
+- 🔒 [[02 - RESOURCES/Notes/Datenschutz\|Datenschutz]] und [[02 - RESOURCES/Notes/Datensicherheit\|Datensicherheit]] unterschied und Merkmalen
+- 📜 **[[02 - RESOURCES/Notes/DSGVO\|DSGVO]]-Grundsätze** _(Zweckbindung, Datenminimierung, Transparenz)_
+- 📝 **Betroffenenrechte** _(Auskunft, Berichtigung, Löschung)_
+- 🔎 **Maßnahmen** _([[02 - RESOURCES/Notes/Anonymisierung\|Anonymisierung]], [[02 - RESOURCES/Notes/Pseudonymisierung\|Pseudonymisierung]])_
 
 ---
 
@@ -137,22 +148,6 @@
 - 💾 **[[02 - RESOURCES/Notes/SQL\|SQL]]-Grundlagen** _([[02 - RESOURCES/Notes/Kardinalität\|Kardinalität]])_
 - 🔄 **Transaktionen** _(ACID)_
 
----
-
-## 🔒 [[02 - RESOURCES/Notes/Datenschutz\|Datenschutz]] / [[02 - RESOURCES/Notes/Datensicherheit\|Datensicherheit]]
-
-- 🔒 [[02 - RESOURCES/Notes/Datenschutz\|Datenschutz]] und [[02 - RESOURCES/Notes/Datensicherheit\|Datensicherheit]] unterschied und Merkmalen
-- 📜 **[[02 - RESOURCES/Notes/DSGVO\|DSGVO]]-Grundsätze** _(Zweckbindung, Datenminimierung, Transparenz)_
-- 📝 **Betroffenenrechte** _(Auskunft, Berichtigung, Löschung)_
-- 🔎 **Maßnahmen** _([[02 - RESOURCES/Notes/Anonymisierung\|Anonymisierung]], [[02 - RESOURCES/Notes/Pseudonymisierung\|Pseudonymisierung]])_
-
----
-
-## 🎥 Multimedia
-
-- 🖼️ **Grafikformate** _(Rastergrafik vs. Vektorgrafik, JPEG, PNG, SVG)_
-- 🎧 **Audio/Video** _(Abtastrate, Kompression)_
-- 📦 **Dateigrößenberechnung** _(Breite × Höhe × Farbtiefe)_
 
 ---
 
@@ -164,24 +159,8 @@
 
 ---
 
-## 🖥️ Betriebssysteme
-
-- 📂 **Dateisysteme** _(NTFS, FAT32, ext4)_
-- ⚙️ **Prozesse & Threads** _(Scheduling, Multitasking)_
-- 👤 **Benutzer- & Rechteverwaltung** _(Benutzer, Rechte, Gruppen)_
-
----
-
 ## ✅ Leistungserbringung
 
 - 📑 **Soll-Ist-Vergleich** _(Ergebnisse prüfen & dokumentieren)_
 - 📋 **Abnahmeprotokoll** _(Bestätigung erbrachter Leistung)_
 - 🚩 **Lessons Learned** _(Erfahrungen auswerten)_
-
----
-
-## 🔄 Change Management
-
-- 📑 **Änderungsprozess** _(Change Requests, Folgenabschätzung)_
-- 🔄 **Versionsverwaltung** _([[02 - RESOURCES/Notes/Git\|Git]], Branches, Merge)_
-- 📚 **Konfigurationsmanagement** _(Systemzustände dokumentieren)_
