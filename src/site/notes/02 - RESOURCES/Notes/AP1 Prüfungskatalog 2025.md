@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-19T22:20:09.691+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-20T09:34:50.215+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -46,30 +46,21 @@
 ## 💰 Wirtschaftlichkeit
 
 - 🧮 **Kostenarten** _([[02 - RESOURCES/Notes/Fixkosten\|Fixkosten]], [[02 - RESOURCES/Notes/Variable Kosten\|variable kosten]])_ 👈
-
 - 📈 **Kennzahlen** _([[02 - RESOURCES/Notes/Umsatz\|Umsatz]], [[02 - RESOURCES/Notes/Gewinn\|Gewinn]], [[02 - RESOURCES/Notes/Deckungsbeitrag\|Deckungsbeitrag]])_
-
 - ⚖️ **[[02 - RESOURCES/Notes/Rentabilität\|Rentabilität]] (ROI)**
   - Wofür braucht man es + Formel
-  
 - 💸 [[02 - RESOURCES/Notes/Amortisation\|Amortisation]]srechnung 👈  
 	- Wofür man bracht es + Formel
-	  
 - 📍 **[[02 - RESOURCES/Notes/Break-Even-Point\|Break-Even-Point]]** 👈
 	- Wofür braucht man es + Formel
-	  
 - 🏗️ [[02 - RESOURCES/Notes/Make-or-Buy\|Make-or-Buy]]
 	- Vorteilen/Nachteile + Risiken
-	
 - 🪙 [[02 - RESOURCES/Notes/Total Cost of Ownership\|Total Cost of Ownership]] (TCO) 👈
 	- was das ist 
-	
 - 🧩 [[02 - RESOURCES/Notes/Nutzwertanalyse\|Nutzwertanalyse]]
 	- Tabell vervollständigen
-	
 - 🏪 [[02 - RESOURCES/Notes/Marktformen\|Marktformen]] 👈
 	- Formen([[02 - RESOURCES/Notes/Monopol\|Monopol]], [[02 - RESOURCES/Notes/Polypol\|Polypol]], [[02 - RESOURCES/Notes/Oligopol\|Oligopol]]) und BSP
-	
 - 🏛 [[02 - RESOURCES/Notes/Aufbauorganisation\|Aufbauorganisation]]
 
 | Kennzahl              | Formel                                        |
