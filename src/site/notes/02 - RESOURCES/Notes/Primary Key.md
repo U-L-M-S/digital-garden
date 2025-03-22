@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/primary-key/","tags":["code/SQL"],"updated":"2024-10-15T09:21:48.059+02:00"}
+{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Primary Key/","tags":["code/SQL"],"noteIcon":"","updated":"2024-10-15T09:21:48.000+02:00"}
 ---
 
 >Selbe wie [[02 - RESOURCES/Notes/Schlüsselattribut\|Schlüsselattribut]] in die [[02 - RESOURCES/Notes/ERM\|ERM]]

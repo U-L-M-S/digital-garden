@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/oktett/","tags":["netzwerk/ip/ipv4"],"updated":"2024-07-25T11:49:08.397+02:00"}
+{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Oktett/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-07-25T11:49:08.000+02:00"}
 ---
 
 > Ein Gruppe von 8 Bits.

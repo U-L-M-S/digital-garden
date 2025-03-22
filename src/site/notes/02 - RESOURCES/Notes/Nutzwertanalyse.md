@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/nutzwertanalyse/","tags":["BWL/formel"],"updated":"2025-03-19T12:52:47.530+01:00"}
+{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Nutzwertanalyse/","tags":["BWL/formel"],"noteIcon":"","updated":"2025-03-19T12:52:47.000+01:00"}
 ---
 
 >Es ist eine Methode zum **Vergleich von Alternativen**, wenn **qualitative und quantitative** Kriterien bewertet werden müssen.
 > 
-> > Dient zur Unterstützung von **Entscheidungen**, z.B. bei [[02 - RESOURCES/Notes/Make-or-Buy\|Make-or-Buy]] oder [[02 - RESOURCES/Notes/Angebotsvergleich\|Angebotsvergleich]].
+> > Dient zur Unterstützung von **Entscheidungen**, z.B. bei [[02 - RESOURCES/Notes/Make-or-Buy\|Make-or-Buy]] oder [[Angebotsvergleich\|Angebotsvergleich]].
 
 > [!note] Schritte:
 > 

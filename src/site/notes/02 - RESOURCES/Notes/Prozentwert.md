@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/prozentwert/","tags":["mathe"],"updated":"2025-03-19T11:59:15.405+01:00"}
+{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Prozentwert/","tags":["mathe"],"noteIcon":"","updated":"2025-03-19T11:59:15.000+01:00"}
 ---
 
 >**(Pw)**

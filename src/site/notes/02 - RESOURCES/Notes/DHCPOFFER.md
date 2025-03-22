@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dhcpoffer/","tags":["netzwerk/protocol"],"updated":"2025-03-16T23:30:00.000+01:00"}
+{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/DHCPOFFER/","tags":["netzwerk/protocol"],"noteIcon":"","updated":"2025-03-16T23:30:00.530+01:00"}
 ---
 
 >Die Nachricht, die vom [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]] gesendet wird, um ein Angebot an den Client zu machen.

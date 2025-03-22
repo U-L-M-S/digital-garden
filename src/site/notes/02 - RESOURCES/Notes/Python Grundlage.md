@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/python-grundlage/","tags":["code/python"],"updated":"2024-11-02T22:47:08.000+01:00"}
+{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Python Grundlage/","tags":["code/python"],"noteIcon":"","updated":"2024-11-02T22:47:08.808+01:00"}
 ---
 
 > Hier lernst du die Syntax der wichtigsten Befehle, um mit der [[02 - RESOURCES/Notes/Python\|Python]]-Sprache umzugehen.

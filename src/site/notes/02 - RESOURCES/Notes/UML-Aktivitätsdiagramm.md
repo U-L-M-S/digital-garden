@@ -1,4 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-aktivitaetsdiagramm/","tags":["GFN/prüfungsrelevant/AP1"],"updated":"2025-02-21T16:24:10.594+01:00"}
+{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/UML-Aktivitätsdiagramm/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-22T00:29:30.900+01:00"}
 ---
 
+>Es stellt graphisch da die Ablauf von Aktivitäten in einem System.
+
+## Syntax
+### Start 

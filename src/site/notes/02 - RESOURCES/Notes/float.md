@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/float/","tags":["code","speicher"],"updated":"2024-08-25T22:53:45.000+02:00"}
+{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/float/","tags":["code","speicher"],"noteIcon":"","updated":"2024-08-25T22:53:45.817+02:00"}
 ---
 
 >32 [[02 - RESOURCES/Notes/Bit\|Bit]]s

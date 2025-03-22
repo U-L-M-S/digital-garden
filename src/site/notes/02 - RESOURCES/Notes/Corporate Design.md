@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/corporate-design/","tags":["GFN/LF08"],"updated":"2024-08-17T23:50:05.000+02:00"}
+{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Corporate Design/","tags":["GFN/LF08"],"noteIcon":"","updated":"2024-08-17T23:50:05.376+02:00"}
 ---
 
 > Teilbereich der [[02 - RESOURCES/Notes/Corporate Identity\|Corporate Identity]].

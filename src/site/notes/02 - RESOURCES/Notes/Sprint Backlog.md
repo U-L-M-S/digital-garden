@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sprint-backlog/","tags":["projektmanagement/vorgehensmodell/agile"],"updated":"2024-11-22T21:51:48.000+01:00"}
+{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Sprint Backlog/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2024-11-22T21:51:48.554+01:00"}
 ---
 
 >Es ist eine Liste aller Aufgaben, die das Entwicklungsteam während eines Sprints erledigen möchte.

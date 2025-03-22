@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/agile-organisation/","tags":["projektmanagement/vorgehensmodell/agile","BWL"],"updated":"2025-01-20T15:32:58.185+01:00"}
+{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/agile Organisation/","tags":["projektmanagement/vorgehensmodell/agile","BWL"],"noteIcon":"","updated":"2025-01-20T15:32:58.000+01:00"}
 ---
 
 >Eine Organisation oder ein [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]], das das [[02 - RESOURCES/Notes/Agilitätsprinzip\|Agilitätsprinzip]] verwendet, hat die Eigenschaft, moderne und flexible Kommunikationsstrukturen zu nutzen.  

@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/firewall/","tags":["netzwerk/firewall","hardware/information"],"updated":"2025-03-16T10:16:33.000+01:00"}
+{"dg-publish":true,"permalink":"/00 - PROJECTS/Firewall/","tags":["netzwerk/firewall","hardware/information","empty"],"noteIcon":"","updated":"2025-03-21T21:01:39.463+01:00"}
 ---
 

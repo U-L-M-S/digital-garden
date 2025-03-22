@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["GFN/LF08","code/java","inProgress"],"updated":"2024-10-06T19:54:37.000+02:00"}
+{"dg-publish":true,"permalink":"/00 - PROJECTS/GFN/AP1/LF08 Daten systemübergreifend bereitstellen/","tags":["GFN/LF08","code/java","inProgress"],"noteIcon":"","updated":"2025-03-21T23:26:08.143+01:00"}
 ---
 
 >[!important] 
@@ -9,8 +9,8 @@
 # I. Aufträge im Rahmen von Softwareprojekten bearbeiten
 ___
 
-# IV. [[02 - RESOURCES/Notes/Software-Ergonomie\|Software-Ergonomie]] von Benutzerschnittstellen
->In diesem Kapitel lernen wir den Begriff [[02 - RESOURCES/Notes/Software-Ergonomie\|Software-Ergonomie]] kennen.
+# IV. [[02 - RESOURCES/Notes/Softwareergonomie\|Softwareergonomie]] von Benutzerschnittstellen
+>In diesem Kapitel lernen wir den Begriff [[02 - RESOURCES/Notes/Softwareergonomie\|Softwareergonomie]] kennen.
 >>Wie der Name schon sagt, geht es darum, Software so einfach zu gestalten, dass der Nutzer sofort verstehen kann was er tun kann und was zu tun ist. 
 >>Natürlich spielt [[02 - RESOURCES/Notes/UX\|UX]] eine Rolle in dieser Thematik sowie andere Themen wie [[02 - RESOURCES/Notes/Corporate Design\|Corporate Design]].
 ___

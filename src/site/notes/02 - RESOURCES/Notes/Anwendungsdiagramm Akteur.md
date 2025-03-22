@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/anwendungsdiagramm-akteur/","tags":["UML/Anwendungsdiagramm"],"updated":"2025-03-21T14:00:58.756+01:00"}
+{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Anwendungsdiagramm Akteur/","title":"Anwendungsdiagramm Akteur","tags":["UML/Anwendungsdiagramm"],"noteIcon":"","updated":"2025-03-22T01:38:38.054+01:00"}
 ---
 
 >Es wird durch Strichmännchen oder Kisten symbolisiert.

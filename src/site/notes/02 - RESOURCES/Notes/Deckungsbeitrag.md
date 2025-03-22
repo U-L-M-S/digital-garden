@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/deckungsbeitrag/","tags":["BWL/formel"],"updated":"2025-03-15T23:30:19.000+01:00"}
+{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Deckungsbeitrag/","tags":["BWL/formel"],"noteIcon":"","updated":"2025-03-15T23:30:19.482+01:00"}
 ---
 
 > Betrag, der nach Abzug der **[[02 - RESOURCES/Notes/Variable Kosten\|Variable Kosten]]** vom Verkaufspreis übrig bleibt.

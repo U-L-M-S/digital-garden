@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-20T15:03:30.207+01:00"}
+{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/AP1 Prüfungskatalog 2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-21T18:38:41.526+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -83,11 +83,18 @@
 - 🔗 **[[02 - RESOURCES/Notes/IP\|IP-Adresse]]** 👈
 	- [[02 - RESOURCES/Notes/IPv4\|IPv4]] VS [[02 - RESOURCES/Notes/IPv6\|IPv6]]
 		- Unterschiede und Vor-/Nachteile
-		- [[02 - RESOURCES/Notes/Subnetting\|Subnetting]], [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]], CIDR, Broadcast
+	- **[[02 - RESOURCES/Notes/IPv4\|IPv4]]**
+		- [[02 - RESOURCES/Notes/Subnetting\|Subnetting]], [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]], [[02 - RESOURCES/Notes/CIDR\|CIDR]] , Broadcast
 		- Öffentliche/private IP-Adressen
-		- APIPA, SAA (Stateless Address Autoconfiguration)
-		- Link-Local-Unicast, Unique Local Unicast, Multicast, Global Unicast
 		- A/B/C-Klassennetze (veraltet)
+		- APIPA (Automatic Private IP Addressing)
+	- **[[02 - RESOURCES/Notes/IPv6\|IPv6]]**
+		- SAA (Stateless Address Autoconfiguration)
+		- Link-Local Unicast
+		- Unique Local Unicast
+		- Global Unicast
+		- Multicast
+
 - 📦 **[[02 - RESOURCES/Notes/Netzwerkprotokolle\|Netzwerkprotokolle]]** _([[02 - RESOURCES/Notes/TCP\|TCP]] [[02 - RESOURCES/Notes/UDP\|vs.]] [[02 - RESOURCES/Notes/UDP\|UDP]], [[02 - RESOURCES/Notes/DHCP\|DHCP]], [[02 - RESOURCES/Notes/DNS\|DNS]], [[02 - RESOURCES/Notes/HTTP\|HTTP]]/[[02 - RESOURCES/Notes/HTTPS\|HTTPS]])_
 - 🔌 **Topologien & Übertragungsmedien** _([[02 - RESOURCES/Notes/Kupferkabel\|Kupferkabel]], [[02 - RESOURCES/Notes/Glasfaserkabel\|Glasfaserkabel]], [[02 - RESOURCES/Notes/WLAN\|WLAN]])_
 - 👧 [[02 - RESOURCES/Notes/DHCP\|DHCP]]
@@ -135,8 +142,8 @@
 
 ## ⚖️ Angebotsvergleich
 
-- 💵 **Preis- und Kostenvergleich** _(Anschaffungskosten, TCO)_
-- 📊 **Nutzwertanalyse** _(qualitative Kriterien gewichtet bewerten)_
+- 💵 **Preis- und Kostenvergleich** _([[02 - RESOURCES/Notes/Anschaffungskosten\|Anschaffungskosten]], [[02 - RESOURCES/Notes/Total Cost of Ownership\|TCO]])_
+- 📊 **[[02 - RESOURCES/Notes/Nutzwertanalyse\|Nutzwertanalyse]]** _(qualitative Kriterien gewichtet bewerten)_
 - 📌 **Make-or-Buy** _(intern vs. extern)_
 
 ---

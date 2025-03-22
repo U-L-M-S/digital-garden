@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/magisches-dreieck/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-15T23:21:54.000+01:00"}
+{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Magisches Dreieck/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-15T23:21:54.655+01:00"}
 ---
 
 >Das **Magische Dreieck** beschreibt die **drei wichtigsten Zielgrößen** im [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]:

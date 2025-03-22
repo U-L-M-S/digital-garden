@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/smart-prinzip/","tags":["projektmanagement","BWL"],"updated":"2025-03-15T22:36:31.000+01:00"}
+{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/SMART-Prinzip/","tags":["projektmanagement","BWL"],"noteIcon":"","updated":"2025-03-15T22:36:31.584+01:00"}
 ---
 
 >Hilfsmittel zur Bestimmung von [[02 - RESOURCES/Notes/Unternehmensziele\|Unternehmensziele]]n.
