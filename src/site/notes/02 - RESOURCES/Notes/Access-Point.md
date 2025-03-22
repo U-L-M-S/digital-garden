@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Access-Point/","tags":["netzwerk"],"noteIcon":"","updated":"2025-03-18T16:25:14.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/access-point/","tags":["netzwerk"],"noteIcon":"","updated":"2025-03-18T16:25:14.000+01:00"}
 ---
 
 >**Access-Point (AP)** ist ein Gerät, das ein bestehendes kabelgebundenes [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] um ein **WLAN** erweitert. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Gantt-Diagramm/","tags":["projektmanagement","GFN/LFF4"],"noteIcon":"","updated":"2024-11-10T17:35:55.082+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/gantt-diagramm/","tags":["projektmanagement","GFN/LFF4"],"noteIcon":"","updated":"2024-11-10T17:35:55.082+01:00"}
 ---
 
 Hier ist eine Zusammenfassung für das **Gantt-Diagramm** in deinem Stil:

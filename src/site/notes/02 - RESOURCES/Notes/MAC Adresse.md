@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/MAC Adresse/","tags":["netzwerk"],"noteIcon":"","updated":"2024-08-07T13:47:47.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/mac-adresse/","tags":["netzwerk"],"noteIcon":"","updated":"2024-08-07T13:47:47.000+02:00"}
 ---
 
 >Media Access Control

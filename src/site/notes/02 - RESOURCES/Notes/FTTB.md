@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/FTTB/","tags":["hardware","netzwerk"],"noteIcon":"","updated":"2024-08-02T14:12:26.116+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/fttb/","tags":["hardware","netzwerk"],"noteIcon":"","updated":"2024-08-02T14:12:26.116+02:00"}
 ---
 
 ![FTTB-20240802141124876.png](/img/user/02%20-%20RESOURCES/Files/IMG/FTTB-20240802141124876.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Lean Thinking/","tags":["projektmanagement"],"noteIcon":"","updated":"2024-11-19T20:09:19.678+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/lean-thinking/","tags":["projektmanagement"],"noteIcon":"","updated":"2024-11-19T20:09:19.678+01:00"}
 ---
 
 >**Lean Thinking** ist eine Denkweise, die darauf abzielt, Prozesse zu optimieren, indem Verschwendung minimiert und der Fokus auf das Wesentliche gelegt wird. 

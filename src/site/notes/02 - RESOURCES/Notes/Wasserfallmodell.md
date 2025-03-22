@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Wasserfallmodell/","tags":["projektmanagement","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-11T18:23:51.834+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wasserfallmodell/","tags":["projektmanagement","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-11T18:23:51.834+01:00"}
 ---
 
 

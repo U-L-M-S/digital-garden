@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Scrum/","tags":["GFN/LFzq3a","projektmanagement"],"noteIcon":"","updated":"2025-03-19T12:11:13.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/scrum/","tags":["GFN/LFzq3a","projektmanagement"],"noteIcon":"","updated":"2025-03-19T12:11:13.000+01:00"}
 ---
 
 >**Scrum** ist ein **agiles [[02 - RESOURCES/Notes/Framework\|Framework]]**, das hauptsächlich im Bereich der Softwareentwicklung, aber auch in anderen Bereichen, wie [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] oder Produktentwicklung, verwendet wird. 

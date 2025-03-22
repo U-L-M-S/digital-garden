@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Teamleiter/","tags":["projektmanagement"],"noteIcon":"","updated":"2024-11-22T10:14:08.059+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/teamleiter/","tags":["projektmanagement"],"noteIcon":"","updated":"2024-11-22T10:14:08.059+01:00"}
 ---
 
 >Ein **Teamleiter** ist eine Person, die die Verantwortung für die Leitung und Organisation eines Teams übernimmt. 

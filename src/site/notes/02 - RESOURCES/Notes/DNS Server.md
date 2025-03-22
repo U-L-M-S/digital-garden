@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/DNS Server/","tags":["netzwerk"],"noteIcon":"","updated":"2024-10-30T22:17:32.565+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dns-server/","tags":["netzwerk"],"noteIcon":"","updated":"2024-10-30T22:17:32.565+01:00"}
 ---
 
 >Ein [[02 - RESOURCES/Notes/DNS\|DNS]]-Server ([[02 - RESOURCES/Notes/Domain\|Domain]] Name System) in einem [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] dient dazu, [[02 - RESOURCES/Notes/DNS\|DNS]] wie *example.com* in [[02 - RESOURCES/Notes/IP\|IP]]-Adressen umzuwandeln, die von Computern genutzt werden. So können Mitarbeiter auf interne und externe Ressourcen zugreifen, ohne sich [[02 - RESOURCES/Notes/IP\|IP]]-Adressen merken zu müssen.

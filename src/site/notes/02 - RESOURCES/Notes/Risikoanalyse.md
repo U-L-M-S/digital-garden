@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Risikoanalyse/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-16T23:11:10.403+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/risikoanalyse/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-16T23:11:10.403+01:00"}
 ---
 
 >Die Risikoanalyse beinhaltet 5 Phasen 

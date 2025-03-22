@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/UML/","tags":["GFN/prüfungsrelevant/AP2","UML"],"noteIcon":"","updated":"2024-11-09T21:44:12.539+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml/","tags":["GFN/prüfungsrelevant/AP2","UML"],"noteIcon":"","updated":"2024-11-09T21:44:12.539+01:00"}
 ---
 
 >**Unified Modeling Language (UML)**  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Anwendungsdiagramm extend/","tags":["UML/Anwendungsdiagramm"],"noteIcon":"","updated":"2025-03-21T14:45:24.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/anwendungsdiagramm-extend/","tags":["UML/Anwendungsdiagramm"],"noteIcon":"","updated":"2025-03-21T14:45:24.000+01:00"}
 ---
 
 >Es ist die optionale Erweiterung eines Anwendungsfalls.

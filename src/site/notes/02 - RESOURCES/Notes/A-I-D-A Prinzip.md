@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/A-I-D-A Prinzip/","tags":["GFN/prüfungsrelevant/AP1","GFN/LF07"],"noteIcon":"","updated":"2025-03-10T10:08:18.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/a-i-d-a-prinzip/","tags":["GFN/prüfungsrelevant/AP1","GFN/LF07"],"noteIcon":"","updated":"2025-03-10T10:08:18.000+01:00"}
 ---
 
 > Es ist ein Prinzip, die am meisten verwendet wird in eine Presentation.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/WPA2-Enterprise/","tags":["netzwerk/wifi","kryptografie/wifi"],"noteIcon":"","updated":"2024-08-04T23:20:49.376+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wpa-2-enterprise/","tags":["netzwerk/wifi","kryptografie/wifi"],"noteIcon":"","updated":"2024-08-04T23:20:49.376+02:00"}
 ---
 
 >Wi-Fi Protected Access 2 Enterprise

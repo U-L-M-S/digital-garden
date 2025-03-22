@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/git add/","tags":["git/add"],"noteIcon":"","updated":"2024-10-15T10:54:56.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/git-add/","tags":["git/add"],"noteIcon":"","updated":"2024-10-15T10:54:56.000+02:00"}
 ---
 
 >Mit diesem Befehl kannst du Ordner / Files auswählen, die danach in der Save Point gespeichert wird mit `commit`.

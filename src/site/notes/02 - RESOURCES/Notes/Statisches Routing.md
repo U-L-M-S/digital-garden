@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Statisches Routing/","tags":["netzwerk/paket"],"noteIcon":"","updated":"2024-11-22T21:31:03.351+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/statisches-routing/","tags":["netzwerk/paket"],"noteIcon":"","updated":"2024-11-22T21:31:03.351+01:00"}
 ---
 
 >Die Konfiguration von  die Routing-Tabellen werden manuell von einem Administrator konfiguriert.

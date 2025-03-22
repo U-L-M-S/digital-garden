@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - RESOURCES/Notes/Anwendungsdiagramm Beziehung/","tags":["UML/Anwendungsdiagramm"],"noteIcon":"","updated":"2025-03-21T14:36:39.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/anwendungsdiagramm-beziehung/","tags":["UML/Anwendungsdiagramm"],"noteIcon":"","updated":"2025-03-21T14:36:39.000+01:00"}
 ---
 
 >Die Verbindungmöglichkeiten in eine [[02 - RESOURCES/Notes/Anwendungsdiagramm Verbindung\|Anwendungsdiagramm Verbindung]].
