@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-23T22:12:52.254+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-23T22:21:21.528+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -10,7 +10,8 @@
 
 👈 <-- **Bauchgefühl, dass es in der Prüfung drankommt.**
 
-## ✅  [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]
+
+## ✅ Projektmanagement
 
 - ✅ [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]
 	- [[02 - RESOURCES/Notes/Projektmanagement#Kriterien / Merkmale\|Projektmanagement#Kriterien / Merkmale]] 👈
