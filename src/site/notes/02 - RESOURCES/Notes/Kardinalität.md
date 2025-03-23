@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kardinalitaet/","tags":["datenbank","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-03-21T21:00:30.291+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kardinalitaet/","tags":["datenbank","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-03-23T22:14:51.510+01:00"}
 ---
 
-> Es ist die Beziehung zwischen zwei Tabellen, oder genauer gesagt: wie viel Datensätze mit einer anderen Tabellen verknüpfen sein können.
+> Es ist die Beziehung zwischen zwei Tabellen, oder genauer gesagt: wie viel [[02 - RESOURCES/Notes/Datensatz\|Datensätze]] mit einer anderen Tabellen verknüpfen sein können.
 
 Es gibt genau 3 Möglichkeiten:
 [[02 - RESOURCES/Notes/1 zu 1\|1 zu 1]]

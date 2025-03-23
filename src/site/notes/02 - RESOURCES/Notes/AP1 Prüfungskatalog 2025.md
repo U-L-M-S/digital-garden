@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-23T21:50:31.462+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-23T22:12:52.254+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -19,7 +19,17 @@
 - 🎯 **[[02 - RESOURCES/Notes/SMART-Prinzip\|SMART-Prinzip]]** _(Spezifisch, Messbar, Attraktiv, Realistisch, Terminiert)_
     - klare Zielformulierung zur Überprüfbarkeit 
 - 📋 **Projektphasen** _([[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]], [[02 - RESOURCES/Notes/Scrum\|Scrum]], [[02 - RESOURCES/Notes/Milestone\|Milestone]])_ 👈
-    - Initiierung, Planung, Durchführung, Controlling, Abschluss
+	- Grobe Projektphasen
+		- Projektdefinition
+		- Projektplannung
+		- Projektrealisierung
+		- Proketabschluss
+	- [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]]
+		- Analyse
+		- Entwurf
+		- Implementierung
+		- Test
+		- Wartung
     - Projektcontrolling  
 		- Earned Value Analysis (EVA): Soll-Ist-Vergleich von Kosten, Terminen und Leistung.  
 		- Meilensteintrendanalyse: Visualisierung von Terminabweichungen.  
@@ -62,7 +72,6 @@
 - 🏪 [[02 - RESOURCES/Notes/Marktformen\|Marktformen]] 👈
 	- Formen([[02 - RESOURCES/Notes/Monopol\|Monopol]], [[02 - RESOURCES/Notes/Polypol\|Polypol]], [[02 - RESOURCES/Notes/Oligopol\|Oligopol]]) und BSP
 - 🏛 [[02 - RESOURCES/Notes/Aufbauorganisation\|Aufbauorganisation]]
-- [[BPMN 2.0\|BPMN 2.0]]
 
 | Kennzahl              | Formel                                        |
 | --------------------- | --------------------------------------------- |
@@ -88,7 +97,7 @@
 	- **[[02 - RESOURCES/Notes/IPv4\|IPv4]]**
 		- Vor-/Nachteile
 			- Vorteile
-				- Einfacher zu konfigurieren (bekanntes Protokoll)
+				- Einfacher zu konfigurieren (bekanntes [[02 - RESOURCES/Notes/Netzwerkprotokolle\|Protokoll]])
 				- Sehr gute Unterstützung in fast allen Systemen
 				- Leicht verständliche Schreibweise
 			- Nachteile
@@ -108,8 +117,8 @@
 		- Vor-/Nachteile
 			- Vorteile
 				- Viel mehr Adressen verfügbar
-				- Integrierte **Sicherheitsfunktionen** (z.B. IPsec)
-				- Kein NAT nötig
+				- Integrierte Sicherheitsfunktionen (z.B. IPsec)
+				- Kein [[02 - RESOURCES/Notes/NAT\|NAT]] nötig
 			- Nachteile
 				- Noch nicht überall im Einsatz
 				- Komplexere Schreibweise
