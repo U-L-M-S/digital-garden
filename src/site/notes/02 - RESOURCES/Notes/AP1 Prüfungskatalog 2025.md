@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-23T12:25:40.185+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-23T18:15:18.722+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -62,6 +62,7 @@
 - 🏪 [[02 - RESOURCES/Notes/Marktformen\|Marktformen]] 👈
 	- Formen([[02 - RESOURCES/Notes/Monopol\|Monopol]], [[02 - RESOURCES/Notes/Polypol\|Polypol]], [[02 - RESOURCES/Notes/Oligopol\|Oligopol]]) und BSP
 - 🏛 [[02 - RESOURCES/Notes/Aufbauorganisation\|Aufbauorganisation]]
+- [[BPMN 2.0\|BPMN 2.0]]
 
 | Kennzahl              | Formel                                        |
 | --------------------- | --------------------------------------------- |

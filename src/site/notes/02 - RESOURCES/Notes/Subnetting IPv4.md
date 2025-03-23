@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-10-17T20:37:36.692+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-03-23T20:36:30.941+01:00"}
 ---
 
 >Zuerst lass uns einen Blick auf das werfen, was wir über [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]n wissen. 
@@ -19,8 +19,8 @@ Eine 3. und wichtige Information ist die Anzahl der verfügbaren [[02 - RESOURCE
 >>Logisch gesehen, wenn  wir ein [[02 - RESOURCES/Notes/IPv4\|IPv4]] wie diese haben: **192.168.1.0/24** können wir einfach berechnen:
 >>$$2^{32-24}$$
 >>#### Achtung
->>Wir haben die gesamte Anzahl von [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]-Adressen, aber 2 [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]-Adressen können wir **nicht benutzen** ([[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]]). 
->>Daher, wenn gefragt ist wie viele [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]-Adressen wir in bestimmte [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] zu Verfügung haben, müssen wir.
+>>Wir haben die gesamte Anzahl von [[02 - RESOURCES/Notes/IPv4\|IPv4]]-Adressen, aber 2 [[02 - RESOURCES/Notes/IPv4\|IPv4]]-Adressen können wir **nicht benutzen** ([[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]]). 
+>>Daher, wenn gefragt ist wie viele [[02 - RESOURCES/Notes/IPv4\|IPv4]]-Adressen wir in bestimmte [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] zu Verfügung haben, müssen wir.
 >>$$2^{32-24}-2$$
 
 
@@ -31,4 +31,3 @@ Als nächsten Schritt beim [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] müss
 
 >[!hint] [[02 - RESOURCES/Notes/Subnetz bestimmen\|Subnetz bestimmen]]
 >Mit dieser Methode können wir [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] bestimmter  [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]en herausfinden, ohne die ganze Rechnerei und Tabelldarstellung.
-
