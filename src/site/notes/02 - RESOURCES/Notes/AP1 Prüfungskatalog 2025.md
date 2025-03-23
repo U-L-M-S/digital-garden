@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-21T18:38:41.526+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-23T01:40:44.037+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -129,6 +129,17 @@
 - 📜 **[[02 - RESOURCES/Notes/DSGVO\|DSGVO]]-Grundsätze** _(Zweckbindung, Datenminimierung, Transparenz)_
 - 📝 **Betroffenenrechte** _(Auskunft, Berichtigung, Löschung)_
 - 🔎 **Maßnahmen** _([[02 - RESOURCES/Notes/Anonymisierung\|Anonymisierung]], [[02 - RESOURCES/Notes/Pseudonymisierung\|Pseudonymisierung]])_
+
+---
+
+## 🔢 Zahlensystem
+
+- [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]
+	- [[02 - RESOURCES/Notes/Dezimal ↔ Binär\|Dezimal ↔ Binär]]
+- [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]]
+	- [[02 - RESOURCES/Notes/Hexadezimal  ↔ Binär\|Hexadezimal  ↔ Binär]]
+	- [[02 - RESOURCES/Notes/Hexadezimal ↔ Dezimal\|Hexadezimal ↔ Dezimal]]
+	
 
 ---
 
