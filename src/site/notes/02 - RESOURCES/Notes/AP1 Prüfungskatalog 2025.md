@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-23T01:40:44.037+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-23T11:27:44.230+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -136,6 +136,10 @@
 
 - [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]
 	- [[02 - RESOURCES/Notes/Dezimal ↔ Binär\|Dezimal ↔ Binär]]
+	- [[02 - RESOURCES/Notes/Hexadezimal  ↔ Binär\|Hexadezimal  ↔ Binär]]
+	- Einheitensystem und Umwandlung 
+		- [[02 - RESOURCES/Notes/Binärzahl#Internationales Einheitensystem (SI)\|Binärzahl#Internationales Einheitensystem (SI)]]
+		- [[02 - RESOURCES/Notes/Binärzahl#Internationale Elektrotechnische Kommission (IEC)\|Binärzahl#Internationale Elektrotechnische Kommission (IEC)]]
 - [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]]
 	- [[02 - RESOURCES/Notes/Hexadezimal  ↔ Binär\|Hexadezimal  ↔ Binär]]
 	- [[02 - RESOURCES/Notes/Hexadezimal ↔ Dezimal\|Hexadezimal ↔ Dezimal]]

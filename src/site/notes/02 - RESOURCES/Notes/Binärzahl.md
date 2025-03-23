@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/binaerzahl/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2025-03-23T01:59:20.738+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/binaerzahl/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2025-03-23T11:24:06.008+01:00"}
 ---
 
 >Es ist ein Zahlsystem, bei den man nur **Zwei** Zahlen benutzt (1 und 0). 
@@ -18,16 +18,93 @@ ___
 ## System zur Angabe von Speichergröße
 Wir wissen dass 8 [[02 - RESOURCES/Notes/Bit\|Bit]]s genau 1 [[02 - RESOURCES/Notes/Byte\|Byte]] entspricht.
 >Es gibt aber anderer Zahlenbereichen, dieser lassen sich in zwei Gruppen unterscheide
-### [[dezimale\|dezimale]]
-[[Kylobyte\|Kylobyte]]
-[[Megabyte\|Megabyte]]
-[[Gigabyte\|Gigabyte]]
-[[Terabyte\|Terabyte]]
+### Internationales Einheitensystem (SI)
+>Es verwendet Dezimalpräfixe basierend auf Vielfachen von 1.000
 
-[[Kibibyte\|Kibibyte]]
-[[Mebibyte\|Mebibyte]]
-[[Gibibyte\|Gibibyte]]
-[[Tebibyte\|Tebibyte]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/kylobyte/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+>1 [[02 - RESOURCES/Notes/Kylobyte\|Kylobyte]] ([[02 - RESOURCES/Notes/Kylobyte\|KB]]) = 1.000 [[02 - RESOURCES/Notes/Byte\|Byte]]
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/megabyte/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+>1 [[02 - RESOURCES/Notes/Megabyte\|Megabyte]] ([[02 - RESOURCES/Notes/Megabyte\|MB]]) = 1.000 [[02 - RESOURCES/Notes/Kylobyte\|Kylobyte]] = 1.000.000 [[02 - RESOURCES/Notes/Byte\|Byte]]
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/gigabyte/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+>1 [[02 - RESOURCES/Notes/Gigabyte\|Gigabyte]] ([[02 - RESOURCES/Notes/Gigabyte\|GB]]) = 1.000 [[02 - RESOURCES/Notes/Megabyte\|Megabyte]] = 1.000.000 [[02 - RESOURCES/Notes/Kylobyte\|Kylobyte]] = 1.000.000.000 [[02 - RESOURCES/Notes/Byte\|Byte]]
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/terabyte/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+1 [[02 - RESOURCES/Notes/Terabyte\|Terabyte]] ([[02 - RESOURCES/Notes/Terabyte\|TB]]) = 1.000 [[02 - RESOURCES/Notes/Gigabyte\|Gigabyte]] = 1.000.000 [[02 - RESOURCES/Notes/Megabyte\|Megabyte]] = 1.000.000.000 [[02 - RESOURCES/Notes/Kylobyte\|Kylobyte]] = 1.000.000.000.000 [[02 - RESOURCES/Notes/Byte\|Byte]]
+
+</div></div>
+
+
+### Internationale Elektrotechnische Kommission (IEC)
+>Es definiert binäre Präfixe, basierend auf Vielfachen von 1.024
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/kibibyte/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+>1 [[02 - RESOURCES/Notes/Kibibyte\|Kibibyte]] ([[02 - RESOURCES/Notes/Kibibyte\|KiB]]) = 1.024 [[02 - RESOURCES/Notes/Byte\|Byte]]
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/mebibyte/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+1 [[02 - RESOURCES/Notes/Megabyte\|Megabyte]] ([[02 - RESOURCES/Notes/Mebibyte\|MiB]]) = 1.024 [[02 - RESOURCES/Notes/Kibibyte\|Kibibyte]] = 1.048.576 [[02 - RESOURCES/Notes/Byte\|Byte]]
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/gibibyte/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+>1 [[02 - RESOURCES/Notes/Gibibyte\|Gibibyte]] ([[02 - RESOURCES/Notes/Gibibyte\|GiB]]) = 1.024 M[[02 - RESOURCES/Notes/Mebibyte\|ebibyte ]]= 1.048.576 [[02 - RESOURCES/Notes/Kibibyte\|Kibibyte]] = 1.073.741.824 [[02 - RESOURCES/Notes/Byte\|Byte]]
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/tebibyte/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+>1 [[02 - RESOURCES/Notes/Tebibyte\|Tebibyte]] ([[02 - RESOURCES/Notes/Tebibyte\|TiB]]) = 1.024 [[02 - RESOURCES/Notes/Gibibyte\|Gibibyte]] = 1.048.576 [[02 - RESOURCES/Notes/Mebibyte\|Mebibyte]] = 1.073.741.824 [[02 - RESOURCES/Notes/Kibibyte\|Kibibyte]] = 1.099.511.627.776 [[02 - RESOURCES/Notes/Byte\|Byte]]
+
+</div></div>
+
 
 ## 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/dezimal-binaer/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
