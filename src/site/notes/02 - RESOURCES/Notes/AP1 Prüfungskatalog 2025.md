@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-23T11:27:44.230+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-23T12:25:40.185+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -31,7 +31,7 @@
     - [[02 - RESOURCES/Notes/Netzplan\|Netzplan]], [[02 - RESOURCES/Notes/Gantt-Diagramm\|Gantt-Diagramm]]
 - 🧑‍🤝‍🧑 [[02 - RESOURCES/Notes/Phasen der Teambildung\|Phasen der Teambildung]]
 	- Phasen und Beschreibung
-- ⚡ Risikoanalyse & -management  
+- ⚡ [[02 - RESOURCES/Notes/Risikoanalyse\|Risikoanalyse]] & -management  
 	- [[02 - RESOURCES/Notes/Risikoanalyse\|Risikoanalyse]]
 		- Phasen + Bsp
 	- [[02 - RESOURCES/Notes/Projektrisiken\|Projektrisiken]]
@@ -84,11 +84,14 @@
 	- [[02 - RESOURCES/Notes/IPv4\|IPv4]] VS [[02 - RESOURCES/Notes/IPv6\|IPv6]]
 		- Unterschiede und Vor-/Nachteile
 	- **[[02 - RESOURCES/Notes/IPv4\|IPv4]]**
-		- [[02 - RESOURCES/Notes/Subnetting\|Subnetting]], [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]], [[02 - RESOURCES/Notes/CIDR\|CIDR]] , Broadcast
+		- [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]], 
+			- [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] und [[02 - RESOURCES/Notes/CIDR\|CIDR]] 
+		- [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]
 		- Öffentliche/private IP-Adressen
-		- A/B/C-Klassennetze (veraltet)
+		- [[02 - RESOURCES/Notes/IPv4-Klassennetze\|IPv4-Klassennetze]]
 		- APIPA (Automatic Private IP Addressing)
 	- **[[02 - RESOURCES/Notes/IPv6\|IPv6]]**
+		- [[02 - RESOURCES/Notes/Subnetting IPv6\|Subnetting IPv6]]
 		- SAA (Stateless Address Autoconfiguration)
 		- Link-Local Unicast
 		- Unique Local Unicast

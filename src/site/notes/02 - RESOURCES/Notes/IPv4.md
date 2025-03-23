@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-03-15T22:09:37.738+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-03-23T12:23:08.689+01:00"}
 ---
 
 > 32-[[02 - RESOURCES/Notes/Bit\|bit]]-Binärzahlen, die in [[02 - RESOURCES/Notes/Dezimal\|Dezimal]] dargestellt werden und mit "**.**"  in vier [[02 - RESOURCES/Notes/Oktett\|Oktett]]e getrennt sind.  
@@ -58,8 +58,8 @@ ipconfig
 
 Hier kannst du sehen, dass mein [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] ([[02 - RESOURCES/Notes/WLAN\|WLAN]]) `192.168.0.200` ist
 
->[!important] [[02 - RESOURCES/Notes/IPv4-Klassen\|IPv4-Klassen]]
+>[!important] [[02 - RESOURCES/Notes/IPv4-Klassennetze\|IPv4-Klassennetze]]
 >Es gibt 5 Arten von [[02 - RESOURCES/Notes/IPv4\|IPv4]] und diese wurde in Klassen unterteilen.
->Hier sind die [[02 - RESOURCES/Notes/IPv4-Klassen\|IPv4-Klassen]].
+>Hier sind die [[02 - RESOURCES/Notes/IPv4-Klassennetze\|IPv4-Klassennetze]].
 
 ## [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]
