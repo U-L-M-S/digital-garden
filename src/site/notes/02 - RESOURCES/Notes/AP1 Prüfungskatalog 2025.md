@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-23T18:15:18.722+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-23T21:48:35.462+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -83,26 +83,44 @@
 - 🖥️ **Netzwerkkomponenten** _([[02 - RESOURCES/Notes/Router\|Router]], [[02 - RESOURCES/Notes/Switch\|Switch]], [[02 - RESOURCES/Notes/Hub\|Hub]]_)
 - 🔗 **[[02 - RESOURCES/Notes/IP\|IP-Adresse]]** 👈
 	- [[02 - RESOURCES/Notes/IPv4\|IPv4]] VS [[02 - RESOURCES/Notes/IPv6\|IPv6]]
-		- Unterschiede und Vor-/Nachteile
+		- Unterschiede 
+			- Adresslänge(32 [[02 - RESOURCES/Notes/Bit\|Bit]]s, 128 [[02 - RESOURCES/Notes/Bit\|Bit]]s), Schreibweise([[02 - RESOURCES/Notes/Dezimal\|Dezimal]], [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]]), [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]([[02 - RESOURCES/Notes/Broadcast\|Broadcast]], [[02 - RESOURCES/Notes/Multicast\|Multicast]]) 
 	- **[[02 - RESOURCES/Notes/IPv4\|IPv4]]**
+		- Vor-/Nachteile
+			- Vorteile
+				- Einfacher zu konfigurieren (bekanntes Protokoll)
+				- Sehr gute Unterstützung in fast allen Systemen
+				- Leicht verständliche Schreibweise
+			- Nachteile
+				- Adressknappheit
+				- [[02 - RESOURCES/Notes/NAT\|NAT]] nötig
+				- Kein integrierter IPsec-Support
 		- [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]], 
-			- [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] und [[02 - RESOURCES/Notes/CIDR\|CIDR]] 
-		- [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]
-		- Öffentliche/private IP-Adressen
+				- [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] und [[02 - RESOURCES/Notes/CIDR\|CIDR]]
+				- [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]
 		- [[02 - RESOURCES/Notes/IPv4-Klassennetze\|IPv4-Klassennetze]]
-		- APIPA (Automatic Private IP Addressing)
+		- [[02 - RESOURCES/Notes/APIPA\|APIPA]]
+			- Was ist das und wann taucht es auf?
+		- 📦 **[[02 - RESOURCES/Notes/Netzwerkprotokolle\|Netzwerkprotokolle]]** _([[02 - RESOURCES/Notes/TCP\|TCP]] [[02 - RESOURCES/Notes/UDP\|vs.]] [[02 - RESOURCES/Notes/UDP\|UDP]], [[02 - RESOURCES/Notes/DHCP\|DHCP]], [[02 - RESOURCES/Notes/DNS\|DNS]], [[02 - RESOURCES/Notes/HTTP\|HTTP]]/[[02 - RESOURCES/Notes/HTTPS\|HTTPS]])_
+		- 👧 [[02 - RESOURCES/Notes/DHCP\|DHCP]]
+			- [[02 - RESOURCES/Notes/DORA-Prinzip\|DORA-Prinzip]]
 	- **[[02 - RESOURCES/Notes/IPv6\|IPv6]]**
-		- [[02 - RESOURCES/Notes/Subnetting IPv6\|Subnetting IPv6]]
-		- SAA (Stateless Address Autoconfiguration)
-		- Link-Local Unicast
-		- Unique Local Unicast
-		- Global Unicast
-		- Multicast
-
-- 📦 **[[02 - RESOURCES/Notes/Netzwerkprotokolle\|Netzwerkprotokolle]]** _([[02 - RESOURCES/Notes/TCP\|TCP]] [[02 - RESOURCES/Notes/UDP\|vs.]] [[02 - RESOURCES/Notes/UDP\|UDP]], [[02 - RESOURCES/Notes/DHCP\|DHCP]], [[02 - RESOURCES/Notes/DNS\|DNS]], [[02 - RESOURCES/Notes/HTTP\|HTTP]]/[[02 - RESOURCES/Notes/HTTPS\|HTTPS]])_
+		- Vor-/Nachteile
+			- Vorteile
+				- Viel mehr Adressen verfügbar
+				- Integrierte **Sicherheitsfunktionen** (z.B. IPsec)
+				- Kein NAT nötig
+			- Nachteile
+				- Noch nicht überall im Einsatz
+				- Komplexere Schreibweise
+				- Höherer Verwaltungsaufwand (z.B. Firewall-Regeln anpassen)
+		- [[02 - RESOURCES/Notes/IPv6-Verkürzung\|IPv6-Verkürzung]]
+		- [[02 - RESOURCES/Notes/SLAAC\|SLAAC]]
+		- [[02 - RESOURCES/Notes/IPv6 Link-Local Adresse\|IPv6 Link-Local Adresse]]
+		- [[02 - RESOURCES/Notes/IPv6 Unique-Local Adresse\|IPv6 Unique-Local Adresse]]
+		- [[02 - RESOURCES/Notes/IPv6 Public\|IPv6 Public]]
+		- [[02 - RESOURCES/Notes/IPv6 Multicast\|IPv6 Multicast]]
 - 🔌 **Topologien & Übertragungsmedien** _([[02 - RESOURCES/Notes/Kupferkabel\|Kupferkabel]], [[02 - RESOURCES/Notes/Glasfaserkabel\|Glasfaserkabel]], [[02 - RESOURCES/Notes/WLAN\|WLAN]])_
-- 👧 [[02 - RESOURCES/Notes/DHCP\|DHCP]]
-	- [[02 - RESOURCES/Notes/DORA-Prinzip\|DORA-Prinzip]]
 
 ---
 
@@ -147,7 +165,6 @@
 - [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]]
 	- [[02 - RESOURCES/Notes/Hexadezimal  ↔ Binär\|Hexadezimal  ↔ Binär]]
 	- [[02 - RESOURCES/Notes/Hexadezimal ↔ Dezimal\|Hexadezimal ↔ Dezimal]]
-	
 
 ---
 
