@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pseudonymisierung/","tags":["GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-02-24T16:09:17.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pseudonymisierung/","tags":["GFN/prüfungsrelevant/AP1"],"updated":"2025-03-24T09:01:05.203+01:00"}
 ---
 
 >[[02 - RESOURCES/Notes/Personenbezogene Daten\|personenbezogene Daten]] so verändert werden, dass sie nicht mehr direkt einer Person zugeordnet werden können – aber mit zusätzlichen Informationen könnte man die Person wieder identifizieren.
@@ -9,6 +9,6 @@
 >Nicht mit der [[02 - RESOURCES/Notes/Anonymisierung\|Anonymisierung]] verwechseln.
 
 >[!example] 
->Die Person <mark style="background: #FFB86CA6;">hpph aksjdhg</mark>, hat an den Tag <mark style="background: #FFB86CA6;">65.43.6993</mark>.
+>Die Person <mark style="background: #FFB86CA6;">mit den Steuer-ID</mark>, hat an den Tag.
 >Gesehen wie das Auto geklaut wurde.
 
