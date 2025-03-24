@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hexadezimal-dezimal/","tags":["mathe/hexadezimal"],"updated":"2025-03-23T12:33:12.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hexadezimal-dezimal/","tags":["mathe/hexadezimal"],"noteIcon":"","updated":"2025-03-23T12:33:12.512+01:00"}
 ---
 
 ## 

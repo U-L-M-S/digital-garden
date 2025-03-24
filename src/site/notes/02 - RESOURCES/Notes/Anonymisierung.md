@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/anonymisierung/","tags":["GFN/prüfungsrelevant/AP1"],"updated":"2025-02-24T16:09:39.581+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/anonymisierung/","tags":["GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-02-24T16:09:39.000+01:00"}
 ---
 
 >Die Daten werden so verändert, dass eine Identifikation der Person nicht mehr möglich ist, selbst nicht mit zusätzlichen Informationen.

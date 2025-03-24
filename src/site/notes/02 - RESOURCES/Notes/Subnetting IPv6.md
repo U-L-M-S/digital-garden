@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv6/","tags":["netzwerk/subnetting","netzwerk/ip/ipv6"],"updated":"2024-10-17T20:37:38.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv6/","tags":["netzwerk/subnetting","netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-03-24T18:43:32.245+01:00"}
 ---
 
 >[[02 - RESOURCES/Notes/Subnetting IPv6\|Subnetting IPv6]]  funktioniert genaue wie bei [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]. Es hat aber ein paar Merkmalen was wir besonders achten müssen.
@@ -17,7 +17,7 @@
 >FD00::/50 in 4 Subnetze  
 >Lass uns erstmal prüfen mit welchen [[02 - RESOURCES/Notes/Bit\|Bit]]s wir arbeiten müssen.
 >Jeder Block entspricht 16 [[02 - RESOURCES/Notes/Bit\|Bit]]s.
->$$50-16-16-16=2$$
+>$$50-48(\text{3 Blöcke})=2$$
 >3 Blöcke + 2 [[02 - RESOURCES/Notes/Bit\|Bit]]s. Das heißt:
 >
 >
@@ -91,7 +91,7 @@
 >[!example] Beispiel 2
 >FE80:0:3a:: /56 in 8 [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e
 >Gleiche Schema wie vorher, lass uns  nachschauen mit welche [[02 - RESOURCES/Notes/Bit\|Bit]]/Block wir zutun haben.
->$$56-16-16-16=8$$
+>$$56-48(\text{3 Blöcke})=8$$
 >3 Blocks und 8 Bits
 >
 >|  <mark style="background: #BBFABBA6;">FD00</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003a</mark> | <mark style="background: #BBFABBA6;">00</mark>00 |
