@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-23T22:21:21.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-24T16:25:57.292+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -149,14 +149,15 @@
 
 ## 🛡️ IT-Sicherheit
 
+- [[02 - RESOURCES/Notes/BSI\|BSI]]
 - 🔑 **[[02 - RESOURCES/Notes/Schutzziele\|Schutzziele]]** 
 	- [[02 - RESOURCES/Notes/Vertraulichkeit\|Vertraulichkeit]]
 	- [[02 - RESOURCES/Notes/Integrität\|Integrität]]
 	- [[02 - RESOURCES/Notes/Verfügbarkeit\|Verfügbarkeit]]
-- 🚨 **Bedrohungen** _(Malware, [[02 - RESOURCES/Notes/Phishing\|Phishing]], [[02 - RESOURCES/Notes/Social Engineering\|Social Engineering]])_
-- 🔒 **Schutzmaßnahmen** _([[00 - PROJECTS/Firewall\|Firewall]], Virenschutz, Updates, Backup)_
+- 🚨 **Bedrohungen** _(Malware, [[02 - RESOURCES/Notes/Wurm\|Wurm]], [[02 - RESOURCES/Notes/Phishing\|Phishing]], [[02 - RESOURCES/Notes/Social Engineering\|Social Engineering]], [[02 - RESOURCES/Notes/Trojaner\|Trojaner]])_
+- 🔒 **Schutzmaßnahmen** _([[00 - PROJECTS/Firewall\|Firewall]], Virenschutz, Updates, [[02 - RESOURCES/Notes/Backup\|Backup]])_
 - 🔑 **Zugangssicherheit** _(Zwei-Faktor-Authentifizierung, Passwort-Policy)_
-- 🔐 **[[00 - PROJECTS/Kryptographie\|Kryptographie]]** _([[02 - RESOURCES/Notes/Symmetrische Verschlüsselung\|Symmetrische Verschlüsselung]], [[02 - RESOURCES/Notes/Asymmetrische Verschlüsselung\|Asymmetrische Verschlüsselung]], Hashfunktionen)_
+- 🔐 **[[00 - PROJECTS/Kryptographie\|Kryptographie]]** _([[02 - RESOURCES/Notes/Symmetrische Verschlüsselung\|Symmetrische Verschlüsselung]], [[02 - RESOURCES/Notes/Asymmetrische Verschlüsselung\|Asymmetrische Verschlüsselung]], [[02 - RESOURCES/Notes/Hybride Verschlüsselung\|Hybride Verschlüsselung]])_
 - 🔒 [[02 - RESOURCES/Notes/Datenschutz\|Datenschutz]] und [[02 - RESOURCES/Notes/Datensicherheit\|Datensicherheit]] unterschied und Merkmalen
 - 📜 **[[02 - RESOURCES/Notes/DSGVO\|DSGVO]]-Grundsätze** _(Zweckbindung, Datenminimierung, Transparenz)_
 - 📝 **Betroffenenrechte** _(Auskunft, Berichtigung, Löschung)_
