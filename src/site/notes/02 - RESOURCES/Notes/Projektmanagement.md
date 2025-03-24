@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/projektmanagement/","tags":["GFN/prüfungsrelevant/AP1","projektmanagement"],"noteIcon":"","updated":"2025-03-12T13:45:08.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/projektmanagement/","tags":["GFN/prüfungsrelevant/AP1","projektmanagement"],"noteIcon":"","updated":"2025-03-24T21:30:15.477+01:00"}
 ---
 
 >Es kommt aus Lateinisch und hat als Merkmale eine Aufgabe einmal zu machen (Ohne Wiederholung). 
@@ -8,7 +8,23 @@
 Ein [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] kann aber in 2 Arten getrennt werden.
 - [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassische Vorgehensmodelle]]
 - [[02 - RESOURCES/Notes/Agile Vorgehensmodelle\|Agile Vorgehensmodelle]]
-# Kriterien / Merkmale
+
+## Merkmalen
+1. **Einmaligkeit**: Ein Projekt ist ein einzigartiges Vorhaben mit klar definierten Zielen.
+    
+2. **Zeitliche Begrenzung**: Projekte haben festgelegte Anfangs- und Endtermine.
+    
+3. **Zielorientierung**: Projekte verfolgen konkrete Ziele, die vorab definiert werden.
+    
+4. **Begrenzte Ressourcen**: Projekte haben definierte personelle, finanzielle und materielle Ressourcen.
+    
+5. **Komplexität**: Projekte beinhalten oft komplexe Abläufe, die besondere Planung erfordern.
+    
+6. **Risiko**: Projekte beinhalten Unsicherheiten und Risiken, die gemanagt werden müssen.
+    
+7. **Projektspezifische Organisation**: Projekte haben meistens eine spezifische Organisationsform (z. B. Projektteam, Projektleiter).
+
+## Kriterien VS Merkmale
 
 > Projekte und Routinen werden immer wieder vermischt, daher habe ich eine Tabelle erstellt, um sie zu unterscheiden.
 >> Um das besser zu unterscheiden, solltest du dir einfach merken, dass Routinen die wiederholte Durchführung einer Aufgabe sind, während ein Projekt die einmalige Erledigung einer Aufgabe ist.

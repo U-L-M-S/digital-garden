@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-24T21:05:53.646+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-24T21:30:38.181+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -14,7 +14,7 @@
 ## ✅ Projektmanagement
 
 - ✅ [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]
-	- [[02 - RESOURCES/Notes/Projektmanagement#Kriterien / Merkmale\|Projektmanagement#Kriterien / Merkmale]] 👈
+	- [[02 - RESOURCES/Notes/Projektmanagement#Merkmalen\|Projektmanagement#Merkmalen]] 👈
 - 📐 **[[02 - RESOURCES/Notes/Magisches Dreieck\|Magisches Dreieck]]** _(Qualität, [[02 - RESOURCES/Notes/Kosten\|Kosten]], Zeit)_
     - Zielkonflikte managen
 - 🎯 **[[02 - RESOURCES/Notes/SMART-Prinzip\|SMART-Prinzip]]** _(Spezifisch, Messbar, Attraktiv, Realistisch, Terminiert)_
