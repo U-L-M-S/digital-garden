@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/power-over-ethernet/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung","netzwerk"],"noteIcon":"","updated":"2025-03-18T16:24:11.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/power-over-ethernet/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung","netzwerk"],"updated":"2025-03-18T16:24:11.980+01:00"}
 ---
 
 >**Power over Ethernet (PoE)** ist eine Technik, die Geräte über ein einziges Ethernet-Kabel gleichzeitig mit **Daten** und **Strom** versorgt.

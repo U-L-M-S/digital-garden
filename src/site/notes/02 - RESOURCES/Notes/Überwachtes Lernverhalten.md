@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ueberwachtes-lernverhalten/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-13T14:23:57.295+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ueberwachtes-lernverhalten/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-13T14:23:57.000+01:00"}
 ---
 
 >Die Trainingsdaten werden NICHT klassifiziert vor dem

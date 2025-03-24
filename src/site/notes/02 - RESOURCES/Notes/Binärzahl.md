@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/binaerzahl/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2025-03-23T11:24:06.008+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/binaerzahl/","tags":["mathe/binärzahlen"],"updated":"2025-03-24T10:18:20.925+01:00"}
 ---
 
 >Es ist ein Zahlsystem, bei den man nur **Zwei** Zahlen benutzt (1 und 0). 
@@ -17,7 +17,7 @@ ___
 
 ## System zur Angabe von Speichergröße
 Wir wissen dass 8 [[02 - RESOURCES/Notes/Bit\|Bit]]s genau 1 [[02 - RESOURCES/Notes/Byte\|Byte]] entspricht.
->Es gibt aber anderer Zahlenbereichen, dieser lassen sich in zwei Gruppen unterscheide
+>Es gibt aber andere Zahlenbereiche, diese lassen sich in zwei Gruppen unterscheiden:
 ### Internationales Einheitensystem (SI)
 >Es verwendet Dezimalpräfixe basierend auf Vielfachen von 1.000
 
@@ -81,7 +81,7 @@ Wir wissen dass 8 [[02 - RESOURCES/Notes/Bit\|Bit]]s genau 1 [[02 - RESOURCES/No
 
 
 
-1 [[02 - RESOURCES/Notes/Megabyte\|Megabyte]] ([[02 - RESOURCES/Notes/Mebibyte\|MiB]]) = 1.024 [[02 - RESOURCES/Notes/Kibibyte\|Kibibyte]] = 1.048.576 [[02 - RESOURCES/Notes/Byte\|Byte]]
+1 [[02 - RESOURCES/Notes/Mebibyte\|Mebibyte]] ([[02 - RESOURCES/Notes/Mebibyte\|MiB]]) = 1.024 [[02 - RESOURCES/Notes/Kibibyte\|Kibibyte]] = 1.048.576 [[02 - RESOURCES/Notes/Byte\|Byte]]
 
 </div></div>
 
@@ -91,7 +91,7 @@ Wir wissen dass 8 [[02 - RESOURCES/Notes/Bit\|Bit]]s genau 1 [[02 - RESOURCES/No
 
 
 
->1 [[02 - RESOURCES/Notes/Gibibyte\|Gibibyte]] ([[02 - RESOURCES/Notes/Gibibyte\|GiB]]) = 1.024 M[[02 - RESOURCES/Notes/Mebibyte\|ebibyte ]]= 1.048.576 [[02 - RESOURCES/Notes/Kibibyte\|Kibibyte]] = 1.073.741.824 [[02 - RESOURCES/Notes/Byte\|Byte]]
+>1 [[02 - RESOURCES/Notes/Gibibyte\|Gibibyte]] ([[02 - RESOURCES/Notes/Gibibyte\|GiB]]) = 1.024 [[02 - RESOURCES/Notes/Mebibyte\|Mebibyte]]= 1.048.576 [[02 - RESOURCES/Notes/Kibibyte\|Kibibyte]] = 1.073.741.824 [[02 - RESOURCES/Notes/Byte\|Byte]]
 
 </div></div>
 
