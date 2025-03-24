@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-24T21:49:33.719+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-24T21:50:09.545+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -34,7 +34,8 @@
 - [[02 - RESOURCES/Notes/Meilensteintrendanalyse\|Meilensteintrendanalyse]] 
 	- Visualisierung von Terminabweichungen.  
 - 📑 **[[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] vs. [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]]** 👈
-    - [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] = Kundenanforderungen (was und warum), [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]] = technische Umsetzung (wie und womit) 
+    - [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] = Kundenanforderungen (was und warum)
+    - [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]] = technische Umsetzung (wie und womit) 
 - 👥 **Projektrollen & [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]]**
     - Auftraggeber, [[02 - RESOURCES/Notes/Projektleiter\|Projektleiter]], Projektteam, [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]] (Interessensgruppen)
 - 🗓 **Planungswerkzeuge** 👈
