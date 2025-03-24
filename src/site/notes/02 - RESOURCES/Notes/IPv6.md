@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["netzwerk/ip/ipv6","GFN/prüfungsrelevant/AP1"],"updated":"2025-03-23T21:32:24.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["netzwerk/ip/ipv6","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-03-23T21:32:24.162+01:00"}
 ---
 
 >128-[[02 - RESOURCES/Notes/Bit\|bit]]-[[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en, die in [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt werden und 
@@ -126,7 +126,7 @@ indem man die ersten Bits der Adresse betrachtet.
 >FD00::/50 in 4 Subnetze  
 >Lass uns erstmal prüfen mit welchen [[02 - RESOURCES/Notes/Bit\|Bit]]s wir arbeiten müssen.
 >Jeder Block entspricht 16 [[02 - RESOURCES/Notes/Bit\|Bit]]s.
->$50-16-16-16=2$
+>$50-48(\text{3 Blöcke})=2$
 >3 Blöcke + 2 [[02 - RESOURCES/Notes/Bit\|Bit]]s. Das heißt:
 >
 >
@@ -200,7 +200,7 @@ indem man die ersten Bits der Adresse betrachtet.
 >[!example] Beispiel 2
 >FE80:0:3a:: /56 in 8 [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e
 >Gleiche Schema wie vorher, lass uns  nachschauen mit welche [[02 - RESOURCES/Notes/Bit\|Bit]]/Block wir zutun haben.
->$56-16-16-16=8$
+>$56-48(\text{3 Blöcke})=8$
 >3 Blocks und 8 Bits
 >
 >|  <mark style="background: #BBFABBA6;">FD00</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003a</mark> | <mark style="background: #BBFABBA6;">00</mark>00 |

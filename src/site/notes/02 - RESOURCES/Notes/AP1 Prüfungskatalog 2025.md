@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-24T16:25:57.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-24T21:05:53.646+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -106,8 +106,8 @@
 				- [[02 - RESOURCES/Notes/NAT\|NAT]] nötig
 				- Kein integrierter IPsec-Support
 		- [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]], 
-				- [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] und [[02 - RESOURCES/Notes/CIDR\|CIDR]]
-				- [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]
+		- [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] und [[02 - RESOURCES/Notes/CIDR\|CIDR]]
+		- [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]
 		- [[02 - RESOURCES/Notes/IPv4-Klassennetze\|IPv4-Klassennetze]]
 		- [[02 - RESOURCES/Notes/APIPA\|APIPA]]
 			- Was ist das und wann taucht es auf?
@@ -130,8 +130,36 @@
 		- [[02 - RESOURCES/Notes/IPv6 Unique-Local Adresse\|IPv6 Unique-Local Adresse]]
 		- [[02 - RESOURCES/Notes/IPv6 Public\|IPv6 Public]]
 		- [[02 - RESOURCES/Notes/IPv6 Multicast\|IPv6 Multicast]]
+	- [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]]
+		- Wie Groß?
+		- Wofür?
+		- Wie vergeben?
+		- Wo finden?
 - 🔌 **Topologien & Übertragungsmedien** _([[02 - RESOURCES/Notes/Kupferkabel\|Kupferkabel]], [[02 - RESOURCES/Notes/Glasfaserkabel\|Glasfaserkabel]], [[02 - RESOURCES/Notes/WLAN\|WLAN]])_
-
+	- :LiCable: Verkablung
+		- [[02 - RESOURCES/Notes/Primärverkabelung\|Primärverkabelung]]
+		- [[02 - RESOURCES/Notes/Sekundärverkabelung\|Sekundärverkabelung]]
+		- [[02 - RESOURCES/Notes/Tertiärverkabelung\|Tertiärverkabelung]]
+	- :LiCable: Kabel: 
+		- [[02 - RESOURCES/Notes/SFTP\|SFTP]]
+		- [[02 - RESOURCES/Notes/Glasfaserkabel\|Glasfaserkabel]]
+	- [[02 - RESOURCES/Notes/VLAN\|VLAN]]
+		- Was ist das?
+		- [[02 - RESOURCES/Notes/Trunking und Tagging\|Trunking und Tagging]]
+			- Wie viele?
+			- Warum?
+- :IbConnectivity: [[02 - RESOURCES/Notes/VPN\|VPN]]
+	- Was? 
+	- Warum?
+	- End to End
+- :LiBrickWall: [[00 - PROJECTS/Firewall\|Firewall]]
+	- Arten 
+- :OcCommandPalette16: 
+	- [[02 - RESOURCES/Notes/ping\|ping]]
+	- [[02 - RESOURCES/Notes/traceroute\|traceroute]]
+	- [[02 - RESOURCES/Notes/ipconfig\|ipconfig]]
+	- [[02 - RESOURCES/Notes/netstat\|netstat]]
+	- [[02 - RESOURCES/Notes/nslookup\|nslookup]]
 ---
 
 ## 💻 Softwareentwicklung
@@ -144,7 +172,10 @@
 	-  [[02 - RESOURCES/Notes/UML-Anwendungsdiagramm\|UML-Anwendungsdiagramm]]
 	-  [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]]
 	-  [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]]
-
+- ☁️ [[02 - RESOURCES/Notes/Cloud Computing\|Cloud Computing]]
+- 🖥️ [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]]
+- ⚡ [[02 - RESOURCES/Notes/Power over Ethernet\|Power over Ethernet]]
+- 🔋[[02 - RESOURCES/Notes/USV\|USV]]
 ---
 
 ## 🛡️ IT-Sicherheit
