@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mac-adresse/","tags":["netzwerk"],"noteIcon":"","updated":"2025-03-24T20:19:28.991+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/mac-adresse/","tags":["netzwerk"],"noteIcon":"","updated":"2025-03-24T22:41:19.882+01:00"}
 ---
 
 > **MAC (Media Access Control)**
@@ -22,4 +22,4 @@
 > 
 > - Windows: `ipconfig /all`
 > - Linux: `ip a`
-> - Meist auch als Aufkleber auf der Netzwerkkarte oder dem [[02 - RESOURCES/Notes/Router\|Router]].
+> - Meist auch als Aufkleber auf der [[02 - RESOURCES/Notes/Netzwerkkarte\|Netzwerkkarte]] oder dem [[02 - RESOURCES/Notes/Router\|Router]].

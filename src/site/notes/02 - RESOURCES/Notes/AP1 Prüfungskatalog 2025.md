@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-24T21:50:09.545+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-24T22:34:33.168+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -72,7 +72,8 @@
 	- Tabell vervollständigen
 - 🏪 [[02 - RESOURCES/Notes/Marktformen\|Marktformen]] 👈
 	- Formen([[02 - RESOURCES/Notes/Monopol\|Monopol]], [[02 - RESOURCES/Notes/Polypol\|Polypol]], [[02 - RESOURCES/Notes/Oligopol\|Oligopol]]) und BSP
-- 🏛 [[02 - RESOURCES/Notes/Aufbauorganisation\|Aufbauorganisation]]
+- [[02 - RESOURCES/Notes/A-I-D-A Prinzip\|A-I-D-A Prinzip]]
+	- Was ist das + die Phasen
 
 | Kennzahl              | Formel                                        |
 | --------------------- | --------------------------------------------- |
@@ -136,11 +137,11 @@
 		- Wie vergeben?
 		- Wo finden?
 - 🔌 **Topologien & Übertragungsmedien** _([[02 - RESOURCES/Notes/Kupferkabel\|Kupferkabel]], [[02 - RESOURCES/Notes/Glasfaserkabel\|Glasfaserkabel]], [[02 - RESOURCES/Notes/WLAN\|WLAN]])_
-	- :LiCable: Verkablung
+	- Verkablung
 		- [[02 - RESOURCES/Notes/Primärverkabelung\|Primärverkabelung]]
 		- [[02 - RESOURCES/Notes/Sekundärverkabelung\|Sekundärverkabelung]]
 		- [[02 - RESOURCES/Notes/Tertiärverkabelung\|Tertiärverkabelung]]
-	- :LiCable: Kabel: 
+	-  Kabel: 
 		- [[02 - RESOURCES/Notes/SFTP\|SFTP]]
 		- [[02 - RESOURCES/Notes/Glasfaserkabel\|Glasfaserkabel]]
 	- [[02 - RESOURCES/Notes/VLAN\|VLAN]]
@@ -148,13 +149,13 @@
 		- [[02 - RESOURCES/Notes/Trunking und Tagging\|Trunking und Tagging]]
 			- Wie viele?
 			- Warum?
-- :IbConnectivity: [[02 - RESOURCES/Notes/VPN\|VPN]]
+-  [[02 - RESOURCES/Notes/VPN\|VPN]]
 	- Was? 
 	- Warum?
 	- End to End
-- :LiBrickWall: [[00 - PROJECTS/Firewall\|Firewall]]
+-  [[00 - PROJECTS/Firewall\|Firewall]]
 	- Arten 
-- :OcCommandPalette16: 
+- Befehlen 
 	- [[02 - RESOURCES/Notes/ping\|ping]]
 	- [[02 - RESOURCES/Notes/traceroute\|traceroute]]
 	- [[02 - RESOURCES/Notes/ipconfig\|ipconfig]]
@@ -221,7 +222,6 @@
 ## ⚖️ Angebotsvergleich
 
 - 💵 **Preis- und Kostenvergleich** _([[02 - RESOURCES/Notes/Anschaffungskosten\|Anschaffungskosten]], [[02 - RESOURCES/Notes/Total Cost of Ownership\|TCO]])_
-- 📊 **[[02 - RESOURCES/Notes/Nutzwertanalyse\|Nutzwertanalyse]]** _(qualitative Kriterien gewichtet bewerten)_
 - 📌 **Make-or-Buy** _(intern vs. extern)_
 
 ---
