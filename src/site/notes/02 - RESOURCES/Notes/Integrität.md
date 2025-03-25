@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/integritaet/","tags":["it-sicherheit"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/integritaet/","tags":["it-sicherheit"],"noteIcon":"","updated":"2025-02-11T16:05:03.000+01:00"}
 ---
 
 > Informationen sind verlässlich und können nicht manipuliert werden.
