@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/symmetrische-verschluesselung/","tags":["kryptografie","it-sicherheit","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-18T12:37:14.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/symmetrische-verschluesselung/","tags":["kryptografie","it-sicherheit","GFN/prüfungsrelevant/AP1/vorbereitung"]}
 ---
 
 >Symmetrische Verschlüsselung ist eine Methode der [[00 - PROJECTS/Kryptographie\|Kryptographie]], bei der nur ein einziger Schlüssel verwendet wird: der **geheime Schlüssel**.

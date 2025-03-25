@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/virtualisierung/","noteIcon":"","updated":"2025-03-24T19:09:22.141+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/virtualisierung/"}
 ---
 
 > Erstellen einer **virtuellen Umgebung** (z.B. virtuelle Maschinen) auf echter Hardware. Mehrere virtuelle Systeme können parallel auf einem physischen Rechner laufen.

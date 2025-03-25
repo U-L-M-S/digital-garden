@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/meilensteintrendanalyse/","tags":["projektmanagement"],"noteIcon":"","updated":"2025-03-24T21:49:23.351+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/meilensteintrendanalyse/","tags":["projektmanagement"]}
 ---
 
 >Diagramm zur **Visualisierung von Terminabweichungen** über die Projektlaufzeit.  

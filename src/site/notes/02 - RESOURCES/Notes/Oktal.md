@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/oktal/","tags":["mathe","informatik"],"noteIcon":"","updated":"2024-09-17T13:31:43.349+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/oktal/","tags":["mathe","informatik"]}
 ---
 
 > Zahlsystem, das nur Ziffern nutzt.  

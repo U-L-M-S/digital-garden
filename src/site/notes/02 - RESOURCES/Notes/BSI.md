@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bsi/","tags":["it-sicherheit","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-24T14:08:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bsi/","tags":["it-sicherheit","GFN/prüfungsrelevant/AP1/vorbereitung"]}
 ---
 
 >Bundesamt für Sicherheit in der Informationstechnik 

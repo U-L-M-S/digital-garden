@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/port/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-11-01T00:08:19.377+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/port/","tags":["netzwerk/ip/ipv4"]}
 ---
 
 >Ports im [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] sind virtuelle Schnittstellen, die es ermöglichen, verschiedene Arten von Datenverkehr über ein Netzwerkprotokoll, wie [[02 - RESOURCES/Notes/TCP\|TCP]] oder [[02 - RESOURCES/Notes/UDP\|UDP]], zu unterscheiden. 
