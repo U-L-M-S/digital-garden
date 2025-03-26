@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6-adressen/","tags":["netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-03-23T12:23:49.283+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6-adressen/","tags":["netzwerk/ip/ipv6"],"updated":"2025-03-23T12:23:49.000+01:00"}
 ---
 
 > [[02 - RESOURCES/Notes/IPv6\|IPv6]] verwendet keine Klassen wie bei [[02 - RESOURCES/Notes/IPv4\|IPv4]] ([[02 - RESOURCES/Notes/IPv4-Klassennetze\|IPv4-Klassennetze]]).
