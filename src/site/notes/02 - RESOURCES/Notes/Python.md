@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/python/","tags":["inProgress","code/python","GFN/LF08"],"updated":"2024-12-01T22:28:03.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/python/","tags":["inProgress","code/python","GFN/LF08"],"updated":"2025-03-27T14:48:02.456+01:00"}
 ---
 
 >Python ist eine vielseitige, hochgradig lesbare Programmiersprache, die sowohl für Einsteiger als auch für erfahrene Entwickler geeignet ist.
->>Es wird oft bei Datenanalyse, Künstliche Intelligenz, Scripting und IT-Sicherheit verwendet.
+>>Es wird oft bei Datenanalyse, [[02 - RESOURCES/Notes/KI\|Künstliche Intelligenz]], Scripting und IT-Sicherheit verwendet.
 
 >[!tip] 
->Damit du den Code ausführen kannst, kannst du entweder eine Python-IDE auf deinem eigenen Rechner verwenden, Obsidian mit dem Plugin "[Execute Code](https://github.com/twibiral/obsidian-execute-code)" nutzen oder eine [Online-IDE](https://www.online-python.com/) verwenden.
+>Damit du den Code ausführen kannst, kannst du entweder eine Python-[[02 - RESOURCES/Notes/IDE\|IDE]] auf deinem eigenen Rechner verwenden, Obsidian mit dem Plugin "[Execute Code](https://github.com/twibiral/obsidian-execute-code)" nutzen oder eine [Online-IDE](https://www.online-python.com/) verwenden.
 
 
 ```python
