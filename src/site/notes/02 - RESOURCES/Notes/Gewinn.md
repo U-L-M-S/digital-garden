@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/gewinn/","tags":["BWL/formel"],"noteIcon":"","updated":"2025-03-15T23:27:07.497+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/gewinn/","tags":["BWL/formel"],"updated":"2025-03-15T23:27:07.000+01:00"}
 ---
 
 ## Gewinn 
