@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-array/","tags":["code/java"],"updated":"2024-10-26T22:30:10.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-array/","tags":["code/java"],"noteIcon":"","updated":"2024-10-26T22:30:10.270+02:00"}
 ---
 
 >[!summary] Regeln
