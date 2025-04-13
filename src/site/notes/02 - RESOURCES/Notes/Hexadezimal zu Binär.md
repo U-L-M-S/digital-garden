@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hexadezimal-zu-binaer/","tags":["mathe/binärzahlen","mathe/hexadezimal"],"updated":"2025-03-23T01:17:17.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hexadezimal-zu-binaer/","tags":["mathe/binärzahlen","mathe/hexadezimal"],"noteIcon":"","updated":"2025-03-23T01:17:17.438+01:00"}
 ---
 
 >Hex-Zahl: **2F**

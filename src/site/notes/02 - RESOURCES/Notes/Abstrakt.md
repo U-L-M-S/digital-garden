@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/abstrakt/","updated":"2025-03-19T12:10:53.016+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/abstrakt/","noteIcon":"","updated":"2025-03-19T12:10:53.000+01:00"}
 ---
 
 >_Abstrakt_ bedeutet, dass etwas **nicht greifbar** oder **konkret** ist. 
