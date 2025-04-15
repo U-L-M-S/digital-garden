@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/git-hub-fake-push-time/","tags":["git/commit"],"updated":"2024-12-01T22:43:43.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/git-hub-fake-push-time/","tags":["git/commit"],"noteIcon":"","updated":"2024-12-01T22:43:43.815+01:00"}
 ---
 
 >Bei [GitHub](https://github.com/U-L-M-S) kann man das Datum und die Uhrzeit eines [[02 - RESOURCES/Notes/git commit\|git commit]] "faken".
