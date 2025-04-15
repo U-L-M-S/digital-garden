@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/milestone/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-12T10:53:45.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/milestone/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"updated":"2025-03-12T10:53:45.979+01:00"}
 ---
 
 >Ein **Milestone (Meilenstein)** ist ein Ereignis oder Zwischenziel innerhalb eines Projekts, das einen wichtigen Fortschritt markiert. 
