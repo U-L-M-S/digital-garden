@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/personenbezogene-daten/","tags":["GFN/prüfungsrelevant/AP1"],"updated":"2025-02-24T13:56:02.214+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/personenbezogene-daten/","tags":["GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-02-24T13:56:02.000+01:00"}
 ---
 
 >Alle Informationen, die verwendet werden, um eine [[02 - RESOURCES/Notes/natürliche Person\|natürliche Person]] zu identifizieren:  
