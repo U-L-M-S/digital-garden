@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/grundwert/","tags":["mathe"],"noteIcon":"","updated":"2025-03-19T12:00:49.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/grundwert/","tags":["mathe"],"updated":"2025-03-19T12:00:49.215+01:00"}
 ---
 
 >(**G**)
