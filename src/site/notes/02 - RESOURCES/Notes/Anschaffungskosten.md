@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/anschaffungskosten/","tags":["BWL"],"noteIcon":"","updated":"2025-03-19T09:46:50.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/anschaffungskosten/","tags":["BWL"],"updated":"2025-03-19T09:46:50.876+01:00"}
 ---
 
 > **Anschaffungskosten** sind alle **einmaligen Kosten**, die bei der **Beschaffung** von Anlagen, Maschinen oder Produkten entstehen.
