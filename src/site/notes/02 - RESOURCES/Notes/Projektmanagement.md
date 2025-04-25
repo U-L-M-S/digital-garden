@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/projektmanagement/","tags":["GFN/prüfungsrelevant/AP1","projektmanagement"],"updated":"2025-03-24T21:31:32.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/projektmanagement/","tags":["GFN/prüfungsrelevant/AP1","projektmanagement"],"noteIcon":"","updated":"2025-03-24T21:31:32.349+01:00"}
 ---
 
 >Es kommt aus Lateinisch und hat als Merkmale eine Aufgabe einmal zu machen (Ohne Wiederholung). 
