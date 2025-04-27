@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/scrum-framework/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2025-03-19T12:11:11.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/scrum-framework/","tags":["projektmanagement/vorgehensmodell/agile"],"updated":"2025-03-19T12:11:11.813+01:00"}
 ---
 
 >Es ist ein agiles [[02 - RESOURCES/Notes/Framework\|Framework]], das eine strukturierte [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] bietet, um komplexe Projekte in Teams schrittweise und iterativ umzusetzen. 
