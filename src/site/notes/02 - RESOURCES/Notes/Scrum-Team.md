@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/scrum-team/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2024-11-24T19:32:08.519+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/scrum-team/","tags":["projektmanagement/vorgehensmodell/agile"]}
 ---
 
 >Ein Team, der aus 3 Teilen bestehen und verantwortlich sind für Herstellung, Versorgung eines Projekts.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/agile-vorgehensmodelle/","tags":["projektmanagement/vorgehensmodell/agile","GFN/LF04"],"noteIcon":"","updated":"2024-11-10T16:46:35.568+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/agile-vorgehensmodelle/","tags":["projektmanagement/vorgehensmodell/agile","GFN/LF04"]}
 ---
 
 >**Agile Vorgehensmodelle** sind eine Herangehensweise, um das [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] flexibler und effizienter zu gestalten, indem sie auf kontinuierliche Anpassung und Zusammenarbeit setzen.  

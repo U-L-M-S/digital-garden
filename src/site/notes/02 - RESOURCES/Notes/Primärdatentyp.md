@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/primaerdatentyp/","tags":["code"],"updated":"2024-10-22T10:29:30.673+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/primaerdatentyp/","tags":["code"]}
 ---
 
 >Diese sind die Datentypen, die standardmäßig in den meisten Programmiersprachen verwendet werden.

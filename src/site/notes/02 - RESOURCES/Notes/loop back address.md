@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/loop-back-address/","tags":["netzwerk/loopback"],"updated":"2024-07-23T12:20:19.841+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/loop-back-address/","tags":["netzwerk/loopback"]}
 ---
 
 ## loop back address 

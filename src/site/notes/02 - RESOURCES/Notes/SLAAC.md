@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/slaac/","tags":["netzwerk/protocol","netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-03-23T22:25:09.214+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/slaac/","tags":["netzwerk/protocol","netzwerk/ip/ipv6"]}
 ---
 
 > **SLAAC** = **Stateless Address Autoconfiguration**

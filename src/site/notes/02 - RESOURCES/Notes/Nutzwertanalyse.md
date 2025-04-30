@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/nutzwertanalyse/","tags":["BWL/formel"],"updated":"2025-03-19T12:52:47.530+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/nutzwertanalyse/","tags":["BWL/formel"]}
 ---
 
 >Es ist eine Methode zum **Vergleich von Alternativen**, wenn **qualitative und quantitative** Kriterien bewertet werden müssen.

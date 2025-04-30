@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/verfuegbarkeit/","tags":["it-sicherheit"],"updated":"2025-03-22T18:53:40.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/verfuegbarkeit/","tags":["it-sicherheit"]}
 ---
 
 > Informationen soll verfügbar sein, wenn sie gebraucht wird.

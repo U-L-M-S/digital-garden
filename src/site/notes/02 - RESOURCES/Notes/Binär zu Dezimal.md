@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/binaer-zu-dezimal/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-23T01:02:39.028+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/binaer-zu-dezimal/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"]}
 ---
 
 **11001101**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/getter-methode/","tags":["code/OOP","code/java"],"updated":"2024-11-07T14:46:20.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/getter-methode/","tags":["code/OOP","code/java"]}
 ---
 
 >Getter Methode ist eine speziell Methode, die in jeder Programmiert Sprache mit [[02 - RESOURCES/Notes/OOP\|OOP]] existiert.

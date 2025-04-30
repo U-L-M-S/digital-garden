@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pflichtenheft/","tags":["GFN/prüfungsrelevant/AP1","projektmanagement"],"updated":"2024-08-18T18:44:38.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pflichtenheft/","tags":["GFN/prüfungsrelevant/AP1","projektmanagement"]}
 ---
 
 >Notwendig Dokument für die Entstehung eines Projekts.

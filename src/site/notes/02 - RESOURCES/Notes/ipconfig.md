@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ipconfig/","tags":["windows/command"],"updated":"2025-03-24T21:04:29.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ipconfig/","tags":["windows/command"]}
 ---
 
 >Zeigt die aktuelle **[[02 - RESOURCES/Notes/IP\|IP]]-Konfiguration** deines Rechners (Windows).  
