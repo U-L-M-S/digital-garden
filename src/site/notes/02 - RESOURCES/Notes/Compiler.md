@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/compiler/","tags":["code"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/compiler/","tags":["code"],"noteIcon":"","updated":"2024-10-22T13:40:11.000+02:00"}
 ---
 
 >Es übersetzt den gesamten Quellcode in einer Programmiersprache in Maschinencode (z. B. eine .exe-Datei), bevor das Programm ausgeführt wird. 

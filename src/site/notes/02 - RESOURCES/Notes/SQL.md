@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL","GFN/prüfungsrelevant/AP2","datenbank"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["code/SQL","GFN/prüfungsrelevant/AP2","datenbank"],"noteIcon":"","updated":"2025-04-30T11:28:38.000+02:00"}
 ---
 
 >SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.
@@ -233,4 +233,22 @@ WHERE Patient.patient_ID = Weight.patient_ID;
 >Wir haben gelernt, dass man mit [[02 - RESOURCES/Notes/SQL FROM\|SQL FROM]] und [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]] eine Verbindung zwischen [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] herstellen kann, indem man die [[02 - RESOURCES/Notes/Primary Key\|Primärschlüssel]] verwendet, um nur die relevanten [[02 - RESOURCES/Notes/Datensatz\|Datensätze]] zu filtern. 
 >>Im Vergleich dazu ermöglicht ein **[[02 - RESOURCES/Notes/INNER JOIN\|INNER JOIN]]** eine klarere und effizientere Methode zur Verknüpfung von Tabellen, indem die Beziehung zwischen ihnen explizit definiert wird, wodurch die Abfrage lesbarer und die Verarbeitungsgeschwindigkeit optimiert wird.
 
-[[02 - RESOURCES/Notes/SQL JOIN\|SQL JOIN]]s
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/sql-join/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+>JOINs in [[02 - RESOURCES/Notes/SQL\|SQL]] sind nur da, um [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] zu verbinden. 
+>Es gibt natürlicherweise andere Wege, um das zu machen, man verwendet aber `JOIN`, um die Übersichtlichkeit nicht zu verlieren. 
+>>Mit JOINs kann man spezifische Verknüpfungen zwischen Tabellen herstellen, wie [[02 - RESOURCES/Notes/INNER JOIN\|INNER JOIN]], [[02 - RESOURCES/Notes/LEFT JOIN\|LEFT JOIN]] und [[02 - RESOURCES/Notes/RIGHT JOIN\|RIGHT JOIN]], die es ermöglichen, Daten gezielt auszuwählen und nur die relevanten Zeilen anzuzeigen. 
+>><mark style="background: #FFF3A3A6;">Dies verbessert nicht nur die Lesbarkeit der Abfragen, sondern auch die Effizienz, da nur die notwendigen Daten verarbeitet werden. </mark>
+>>Durch die Verwendung von JOINs wird die Datenbankabfrage klar strukturiert, was die Wartung und das Verständnis der Abfragen erleichtert.
+
+[[02 - RESOURCES/Notes/INNER JOIN\|INNER JOIN]]
+
+[[02 - RESOURCES/Notes/LEFT JOIN\|LEFT JOIN]]
+
+[[02 - RESOURCES/Notes/RIGHT JOIN\|RIGHT JOIN]]
+
+</div></div>

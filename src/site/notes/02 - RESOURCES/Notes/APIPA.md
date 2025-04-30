@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/apipa/","tags":["netzwerk/ip/ipv4"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/apipa/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-03-23T21:20:44.574+01:00"}
 ---
 
 >Es ist eine automatische Notfall-Adressvergabe im [[02 - RESOURCES/Notes/IPv4\|IPv4]]-Netzwerk.

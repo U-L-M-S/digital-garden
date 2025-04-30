@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kosten/","tags":[null]}
+{"dg-publish":true,"permalink":"/02-resources/notes/kosten/","tags":[null],"noteIcon":"","updated":"2025-03-15T23:12:59.152+01:00"}
 ---
 
 > Alles was eine [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] benötigt um ein Produkt zu erstellen.

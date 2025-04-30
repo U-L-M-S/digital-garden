@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datensicherheit/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/datensicherheit/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-10T21:59:50.665+01:00"}
 ---
 
 >Es konzentriert sich darauf, Daten vor Verlust, Manipulation oder unerlaubtem Zugriff zu schützen, zum Beispiel durch sichere Passwörter oder Verschlüsselung.

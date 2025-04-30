@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-06-serviceanfragen-bearbeiten/","tags":["GFN/LF06","inProgress"]}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-06-serviceanfragen-bearbeiten/","tags":["GFN/LF06","inProgress"],"noteIcon":"","updated":"2024-10-06T19:54:16.336+02:00"}
 ---
 
 >[!important] 

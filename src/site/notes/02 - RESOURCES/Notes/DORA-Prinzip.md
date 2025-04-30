@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dora-prinzip/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung","netzwerk"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/dora-prinzip/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung","netzwerk"],"noteIcon":"","updated":"2025-03-16T23:37:03.098+01:00"}
 ---
 
 >[[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]], der passiert zwischen den Client und den [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]] um ein [[02 - RESOURCES/Notes/IP\|IP]] zu bekommen.
