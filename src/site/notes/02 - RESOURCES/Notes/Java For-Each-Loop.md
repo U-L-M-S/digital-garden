@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-for-each-loop/","tags":["code/java"]}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-for-each-loop/","tags":["code/java"],"noteIcon":"","updated":"2024-10-26T22:02:03.492+02:00"}
 ---
 
 >Bei der [[02 - RESOURCES/Notes/Java For-Each-Loop\|Java For-Each-Loop]] werden alle Elemente einer Sammlung nacheinander durchlaufen.
