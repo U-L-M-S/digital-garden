@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rueckgabewerttyp/","tags":["code"],"noteIcon":"","updated":"2025-03-19T12:11:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/rueckgabewerttyp/","tags":["code"],"noteIcon":"","updated":"2025-05-02T09:25:27.686+02:00"}
 ---
 
 >Der **Rückgabewerttyp** einer [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] oder [[02 - RESOURCES/Notes/Funktion\|Funktion]] in der Programmierung gibt an, **welchen [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]** die [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] nach ihrer Ausführung zurückliefert. 
 >>Er definiert, was eine [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] dem Aufrufer „zurückgibt“ (z.B. eine Zahl, ein Text, ein Objekt usw.).
 
 ### 1. **Grundlegendes zum Rückgabewerttyp**
-Jede [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] in Sprachen wie [[02 - RESOURCES/Notes/Java\|Java]], C++, oder [[00 - PROJECTS/C Sharp\|C Sharp]] muss, wenn sie einen Wert zurückgeben soll, einen **Rückgabewerttyp** angeben. Der Rückgabewert ist das Ergebnis der [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]]. In einigen Fällen gibt eine [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] nichts zurück, in solchen Fällen wird in vielen Sprachen `void` verwendet.
+Jede [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] in Sprachen wie [[02 - RESOURCES/Notes/Java\|Java]], C++, oder [[00 - PROJECTS/CSharp\|CSharp]] muss, wenn sie einen Wert zurückgeben soll, einen **Rückgabewerttyp** angeben. Der Rückgabewert ist das Ergebnis der [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]]. In einigen Fällen gibt eine [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] nichts zurück, in solchen Fällen wird in vielen Sprachen `void` verwendet.
 
 ### 2. **Varianten des Rückgabewerttyps**
 Je nach Programmiersprache und [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] können unterschiedliche Typen zurückgegeben werden:

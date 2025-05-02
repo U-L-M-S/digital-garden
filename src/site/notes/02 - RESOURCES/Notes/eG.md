@@ -1,11 +1,7 @@
 ---
-tags:
-  - BWL
-dg-publish: true
-links: 
-path: Notes
-created: 2023-10-10 18:43
+{"dg-publish":true,"permalink":"/02-resources/notes/e-g/","tags":["BWL"],"noteIcon":"","updated":"2024-08-19T09:35:40.000+02:00"}
 ---
+
 ## eG 
 > eingetragene Genossenschaft
 

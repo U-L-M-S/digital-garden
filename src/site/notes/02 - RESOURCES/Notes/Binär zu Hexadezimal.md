@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/binaer-zu-hexadezimal/","tags":["mathe/hexadezimal","mathe/binärzahlen"],"noteIcon":"","updated":"2025-03-23T01:16:41.418+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/binaer-zu-hexadezimal/","tags":["mathe/hexadezimal","mathe/binärzahlen"],"noteIcon":"","updated":"2025-03-23T01:16:41.000+01:00"}
 ---
 
 >Binärzahl: **1101|0110**

@@ -1,12 +1,7 @@
 ---
-tags:
-  - GFN/prüfungsrelevant/AP1
-  - GFN/LF01
-dg-publish: true
-links: 
-path: Notes
-created: 2023-10-20 17:34
+{"dg-publish":true,"permalink":"/02-resources/notes/auszubildender-pflichten/","tags":["GFN/prüfungsrelevant/AP1","GFN/LF01"],"noteIcon":"","updated":"2024-08-18T18:44:37.000+02:00"}
 ---
+
 ## Auszubildender Pflichten 
 > Das sind die Pflichten einer [[02 - RESOURCES/Notes/Auszubildender\|Auszubildender]].
 

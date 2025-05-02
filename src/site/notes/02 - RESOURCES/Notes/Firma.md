@@ -1,11 +1,6 @@
 ---
-tags:
-  - GFN/LF01
-  - "#GFN/prüfungsrelevant/AP1"
-dg-publish: true
-links: 
-path: Notes
-created: 2023-10-14 12:38
+{"dg-publish":true,"permalink":"/02-resources/notes/firma/","tags":["GFN/LF01","#GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2024-08-18T18:44:37.000+02:00"}
 ---
+
 ## Firma 
 > Der begriff wird verwendet um zu beschreiben das [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]nsname.

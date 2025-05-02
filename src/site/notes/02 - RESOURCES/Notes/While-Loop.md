@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/while-loop/","tags":["code"],"noteIcon":"","updated":"2025-03-17T16:19:23.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/while-loop/","tags":["code"],"noteIcon":"","updated":"2025-05-02T09:25:27.730+02:00"}
 ---
 
 >Es wiederholt den Code so lange, wie eine Bedingung `True` ist. 
@@ -23,7 +23,7 @@ while counter < 5:
     counter += 1
 ```
 
-## [[00 - PROJECTS/C Sharp\|C Sharp]]
+## [[00 - PROJECTS/CSharp\|CSharp]]
 ```csharp
 int counter = 0;
 while (counter < 5) {
