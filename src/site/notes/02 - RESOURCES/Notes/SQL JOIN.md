@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-join/","tags":["code/SQL","datenbank"],"noteIcon":"","updated":"2024-10-17T16:22:39.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-join/","tags":["code/SQL","datenbank"],"noteIcon":"","updated":"2024-10-17T16:22:39.002+02:00"}
 ---
 
 >JOINs in [[02 - RESOURCES/Notes/SQL\|SQL]] sind nur da, um [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] zu verbinden. 

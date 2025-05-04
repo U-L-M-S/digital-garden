@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/konsortium/","tags":[null],"noteIcon":"","updated":"2024-07-04T11:38:16.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/konsortium/","tags":[null],"noteIcon":"","updated":"2024-07-04T11:38:16.777+02:00"}
 ---
 
 >Sowie [[02 - RESOURCES/Notes/ARGE\|ARGE]], aber Zeitfenster ist kurzer und der Projekt is größer.
