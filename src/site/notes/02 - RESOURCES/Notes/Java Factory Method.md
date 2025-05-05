@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-factory-method/","tags":["code/java","code/OOP"],"noteIcon":"","updated":"2025-03-19T12:10:56.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-factory-method/","tags":["code/java","code/OOP"],"noteIcon":"","updated":"2025-05-05T15:24:16.737+02:00"}
 ---
 
->Es ist eine [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]], die Objekte einer [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] erstellt und zurückgibt, ohne den [[02 - RESOURCES/Notes/Konstruktor\|Konstruktor]] direkt aufzurufen. 
+>Es ist eine [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]], die Objekte einer [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] erstellt und zurückgibt, ohne den [[02 - RESOURCES/Notes/Konstruktor\|Konstruktor]] direkt aufzurufen. 
 >>Sie ermöglicht es, die [[02 - RESOURCES/Notes/OOP\|OOP]] zu kontrollieren, z. B. durch Wiederverwendung einer bestehenden Instanz (wie im Singleton-Muster) oder das Zurückgeben verschiedener Unterklassen. 
 >>Die [[02 - RESOURCES/Notes/Java Methode\|Java Methode]] wird häufig statt `new` verwendet, um eine klarere, flexiblere [[02 - RESOURCES/Notes/API\|API]] zu schaffen.
 

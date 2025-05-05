@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/big-o/","tags":["code/algorithmus","finished"],"noteIcon":"","updated":"2024-11-02T13:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/big-o/","tags":["code/algorithmus","finished"],"noteIcon":"","updated":"2025-05-05T15:23:06.904+02:00"}
 ---
 
 >Notation in der Informatik, die verwendet wird, um die Effizienz von Algorithmen zu beschreiben, insbesondere in Bezug auf ihre Laufzeit oder ihren Speicherbedarf, wenn die Größe der Eingabe wächst. 
@@ -19,7 +19,7 @@ Es gibt insgesamt 9 Möglichkeiten. Diese sind:
 - [[02 - RESOURCES/Notes/9. Big O(n!)\|9. Big O(n!)]]
 
 >[!example] Bsp 
->Mit diesem Code kannst du herausfinden, um welche Zeitkomplexität es sich handelt. In der `example_function` solltest du die [[02 - RESOURCES/Notes/Funktion\|Funktion]] einsetzen, deren [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] du ermitteln möchtest.
+>Mit diesem Code kannst du herausfinden, um welche Zeitkomplexität es sich handelt. In der `example_function` solltest du die [[02 - RESOURCES/Notes/Funktion Programmierung\|Funktion Programmierung]] einsetzen, deren [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] du ermitteln möchtest.
 >```python
 >import time
 >import matplotlib.pyplot as plt

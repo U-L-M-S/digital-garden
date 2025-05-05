@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/polymorphie/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung","code/java"],"noteIcon":"","updated":"2025-03-19T12:11:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/polymorphie/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung","code/java"],"noteIcon":"","updated":"2025-05-05T15:24:17.033+02:00"}
 ---
 
 > **[[02 - RESOURCES/Notes/Polymorphie\|Polymorphie]]** _(„Vielgestaltigkeit“)_  
-> In der [[02 - RESOURCES/Notes/OOP\|OOP]] bedeutet Polymorphie, dass eine [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] oder ein Objekt **in verschiedenen Formen** genutzt werden kann, obwohl der gleiche Name verwendet wird.
+> In der [[02 - RESOURCES/Notes/OOP\|OOP]] bedeutet Polymorphie, dass eine [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] oder ein Objekt **in verschiedenen Formen** genutzt werden kann, obwohl der gleiche Name verwendet wird.
 
 ## 📌 Arten:
 
@@ -34,7 +34,7 @@
     
 2. **Methodenüberschreibung (runtime)**
     
-    - Eine **Unterklasse** überschreibt eine [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] der **Oberklasse**.
+    - Eine **Unterklasse** überschreibt eine [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] der **Oberklasse**.
     - Beispiel:
         
         ```java

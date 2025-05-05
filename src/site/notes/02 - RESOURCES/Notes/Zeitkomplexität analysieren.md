@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/zeitkomplexitaet-analysieren/","tags":["code/python","code/algorithmus"],"noteIcon":"","updated":"2024-11-04T08:49:49.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/zeitkomplexitaet-analysieren/","tags":["code/python","code/algorithmus"],"noteIcon":"","updated":"2025-05-05T15:23:07.424+02:00"}
 ---
 
 >Die [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] eines Codes gibt an, wie die Laufzeit des [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] mit der Größe der Eingabedaten wächst. Um die [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] zu bestimmen, betrachten wir die Anzahl der Operationen, die der [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] in Abhängigkeit von der Größe der Eingabe ausführt.
@@ -13,7 +13,7 @@
    - Analysiere, wie viele grundlegende Operationen in Abhängigkeit von der Eingabegröße \( n \) ausgeführt werden.
 
 3. **Bestimme die Dominante**:
-   - Finde die am schnellsten wachsende [[02 - RESOURCES/Notes/Funktion\|Funktion]] (dominant) in deiner Zählung. Diese wird die [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] bestimmen.
+   - Finde die am schnellsten wachsende [[02 - RESOURCES/Notes/Funktion Programmierung\|Funktion Programmierung]] (dominant) in deiner Zählung. Diese wird die [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] bestimmen.
 
 4. **Verwende die [[02 - RESOURCES/Notes/Big O\|Big O]]-Notation**:
    - Schreibe die [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] in der [[02 - RESOURCES/Notes/Big O\|Big O]]-Notation, um die obere Schranke der Laufzeit auszudrücken.

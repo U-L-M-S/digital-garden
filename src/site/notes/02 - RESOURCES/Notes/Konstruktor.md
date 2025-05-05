@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/konstruktor/","tags":["code"],"noteIcon":"","updated":"2025-03-19T12:11:05.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/konstruktor/","tags":["code"],"noteIcon":"","updated":"2025-05-05T15:24:16.960+02:00"}
 ---
 
->Es ist eine spezielle [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] in einer [[02 - RESOURCES/Notes/Klasse\|Klasse]], wo bestimmte Eigenschaften **immer** zugewiesen werden.
+>Es ist eine spezielle [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] in einer [[02 - RESOURCES/Notes/Klasse\|Klasse]], wo bestimmte Eigenschaften **immer** zugewiesen werden.
 >>Ein Konstruktor hat die Eigenschaft, denselben Namen wie die [[02 - RESOURCES/Notes/Klasse\|Klasse]] zu haben. 
 >>([[02 - RESOURCES/Notes/Python\|Python]] ist eine Ausnahme.)
 

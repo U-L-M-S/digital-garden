@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-oop/","tags":["code/java","code/OOP","inProgress"],"noteIcon":"","updated":"2025-03-19T12:10:59.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-oop/","tags":["code/java","code/OOP","inProgress"],"noteIcon":"","updated":"2025-05-05T15:24:16.821+02:00"}
 ---
 
 > Da du jetzt die [[02 - RESOURCES/Notes/Java Grundlage\|Java Grundlage]]n kennst, tauchen wir tiefer in die objektorientierte Programmierung ([[02 - RESOURCES/Notes/OOP\|OOP]]) von [[02 - RESOURCES/Notes/Java\|Java]] ein.
@@ -16,7 +16,7 @@ public class HelloWorld {
 
 In den [[02 - RESOURCES/Notes/Java Grundlage\|Java Grundlage]]n haben wir gelernt, dass `main` eine spezielle [[02 - RESOURCES/Notes/Java Methode\|Java Methode]] ist – sie ist der Code-STARTER. Egal wie groß das Programm ist, der [[02 - RESOURCES/Notes/Compiler\|Compiler]] sucht immer zuerst nach `main`. Dir ist bereits bekannt, dass Code in einer [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] abläuft, in diesem Fall `HelloWorld`.
 
-Aber was passiert, wenn wir eine [[02 - RESOURCES/Notes/Klasse\|Klasse]] ohne `main`-[[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] erstellen?
+Aber was passiert, wenn wir eine [[02 - RESOURCES/Notes/Klasse\|Klasse]] ohne `main`-[[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] erstellen?
 
 ```java
 public class SayHelloWorld {
@@ -26,7 +26,7 @@ public class SayHelloWorld {
 }
 ```
 
-Diese [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] lässt sich nicht direkt ausführen, da sie keine `main`-Methode hat. ABER wir können `SayHelloWorld` in `HelloWorld` importieren, dort als [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] instanziieren und in der `main`-[[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] verwenden:
+Diese [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] lässt sich nicht direkt ausführen, da sie keine `main`-Methode hat. ABER wir können `SayHelloWorld` in `HelloWorld` importieren, dort als [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] instanziieren und in der `main`-[[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] verwenden:
 
 ```java
 public class HelloWorld {
@@ -61,7 +61,7 @@ Jetzt erhalten wir dieselbe Ausgabe, ohne ein [[02 - RESOURCES/Notes/Java Objekt
 
 # [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] oder [[02 - RESOURCES/Notes/Java Static\|Java Static]]?
 
->Ob du in [[02 - RESOURCES/Notes/Java\|Java]] eine Instanz eines Objekts oder eine `static`-[[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] verwenden solltest, hängt davon ab, wie die Methode auf Daten zugreift und wie flexibel der Code sein muss. Schauen wir uns an, wann was zu bevorzugen ist:
+>Ob du in [[02 - RESOURCES/Notes/Java\|Java]] eine Instanz eines Objekts oder eine `static`-[[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] verwenden solltest, hängt davon ab, wie die Methode auf Daten zugreift und wie flexibel der Code sein muss. Schauen wir uns an, wann was zu bevorzugen ist:
 
 ## Wann verwende ich ein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]]?
 
@@ -103,7 +103,7 @@ public class MathHelper {
 
 ## Entscheidungshilfe
 1. **Objektmethode (Instanzmethode)**: Verwende sie, wenn auf Daten oder Methoden einer spezifischen Instanz zugegriffen wird oder diese benötigt werden.
-2. **Static Methode**: Verwende sie, wenn keine Instanzdaten erforderlich sind und die [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] universell einsetzbar ist.
+2. **Static Methode**: Verwende sie, wenn keine Instanzdaten erforderlich sind und die [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] universell einsetzbar ist.
 
 >[!note] 
 >Einfach gesagt: Wenn der Code sich auf ein spezifisches **Objekt** bezieht, nutze ein **[[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]]**. Wenn der Code für alle **Objekte** gleich ist, verwende **[[02 - RESOURCES/Notes/Java Static\|Java Static]]**.
