@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-02-25T10:02:28.910+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-02-25T10:02:28.000+01:00"}
 ---
 
 >[!important] 

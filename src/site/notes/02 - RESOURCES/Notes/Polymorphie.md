@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/polymorphie/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung","code/java"],"noteIcon":"","updated":"2025-03-19T12:11:09.208+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/polymorphie/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung","code/java"],"noteIcon":"","updated":"2025-03-19T12:11:09.000+01:00"}
 ---
 
 > **[[02 - RESOURCES/Notes/Polymorphie\|Polymorphie]]** _(„Vielgestaltigkeit“)_  

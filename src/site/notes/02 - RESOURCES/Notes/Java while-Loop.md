@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-while-loop/","tags":["code/java"],"noteIcon":"","updated":"2024-10-24T11:25:03.891+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-while-loop/","tags":["code/java"],"noteIcon":"","updated":"2024-10-24T11:25:03.000+02:00"}
 ---
 
 >Bei [[02 - RESOURCES/Notes/While-Loop\|While-Loop]] wird einen bestimmten Teil von den Code wiederholt bis die Anweisung `True` ist.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pep-8/","tags":["code/python"],"noteIcon":"","updated":"2025-01-20T10:06:24.138+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pep-8/","tags":["code/python"],"noteIcon":"","updated":"2025-01-20T10:06:24.000+01:00"}
 ---
 
 >**Python Enhancement Proposal 8**

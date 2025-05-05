@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kg/","tags":["BWL"],"noteIcon":"","updated":"2024-08-19T09:35:35.786+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kg/","tags":["BWL"],"noteIcon":"","updated":"2024-08-19T09:35:35.000+02:00"}
 ---
 
 ## KG 
