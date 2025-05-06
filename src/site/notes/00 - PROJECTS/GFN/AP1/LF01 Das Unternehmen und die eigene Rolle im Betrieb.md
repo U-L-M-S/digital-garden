@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-02-25T10:02:28.000+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-05-06T14:23:39.709+02:00"}
 ---
 
 >[!important] 
@@ -31,13 +31,6 @@ Bevor die Ausbildung beginnt ist es wichtig, dass der [[02 - RESOURCES/Notes/Aus
 
 ### Begriffen
 Du muss in der Lager sein zu unterscheiden: [[02 - RESOURCES/Notes/Firma\|Firma]],  [[02 - RESOURCES/Notes/Betrieb\|Betrieb]] und [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]. 
-### Good to know:
-[[02 - RESOURCES/Notes/GmbH\|GmbH]]   
-[[02 - RESOURCES/Notes/eG\|eG]] 
-[[02 - RESOURCES/Notes/aG\|aG]]  
-[[02 - RESOURCES/Notes/KG\|KG]]  
-[[02 - RESOURCES/Notes/UG\|UG]]  
-[[02 - RESOURCES/Notes/OHG\|OHG]]
 ## [[02 - RESOURCES/Notes/Wirtschaftliche Verflechtung\|Wirtschaftliche Verflechtung]]
 
 
