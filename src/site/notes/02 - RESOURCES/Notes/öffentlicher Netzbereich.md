@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/oeffentlicher-netzbereich/","tags":["netzwerk"],"noteIcon":"","updated":"2024-07-04T11:38:16.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/oeffentlicher-netzbereich/","tags":["netzwerk"],"noteIcon":"","updated":"2024-07-04T11:38:16.867+02:00"}
 ---
 
 > Technologien, die verwendet werden für die Datenaustauschen in offene [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]en.

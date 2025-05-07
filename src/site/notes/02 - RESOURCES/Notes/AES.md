@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/aes/","tags":["kryptografie"],"noteIcon":"","updated":"2025-03-18T13:40:36.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/aes/","tags":["kryptografie"],"noteIcon":"","updated":"2025-03-18T13:40:36.236+01:00"}
 ---
 
 >Es ist ein [[02 - RESOURCES/Notes/Symmetrische Verschlüsselung\|Symmetrische Verschlüsselung]]salgorithmus, der Daten in Blöcken verschlüsselt und dabei den gleichen Schlüssel für [[02 - RESOURCES/Notes/Verschlüsselung\|Verschlüsselung]] und Entschlüsselung verwendet.
