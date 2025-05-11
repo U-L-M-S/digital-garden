@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datenverarbeitung/","tags":["GFN/LF02"],"noteIcon":"","updated":"2024-10-06T13:56:52.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/datenverarbeitung/","tags":["GFN/LF02"],"noteIcon":"","updated":"2024-10-06T13:56:52.129+02:00"}
 ---
 
 > Es bezeichnet den organisierten Umgang mit Datenmengen mit dem Ziel. Informationen zu gewinnen oder die Datenmenge zu verändern.
@@ -9,7 +9,13 @@
 
 
 
-
+---
+tags: 
+- 
+links: 
+path: Notes
+created: 2024-03-11 09:50
+---
 > Die sind die Ziele in eine Organisation für die [[02 - RESOURCES/Notes/Datenverarbeitung\|Datenverarbeitung]].
 
 1. Schnelle Verarbeitung großer Datenmenge.
