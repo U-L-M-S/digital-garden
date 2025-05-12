@@ -1,11 +1,7 @@
 ---
-tags:
-  - datenbank/kardinatität
-dg-publish: true
-links: 
-path: Notes
-created: 2024-05-14 11:43
+{"dg-publish":true,"permalink":"/02-resources/notes/n-zu-m/","tags":["datenbank/kardinatität"],"noteIcon":"","updated":"2024-08-16T18:26:52.000+02:00"}
 ---
+
 > n zu m | n:m ODER m zu n | m:n 
 > Beiden Seiten besitzen mehrere Sachen.
 

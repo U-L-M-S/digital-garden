@@ -1,11 +1,7 @@
 ---
-tags:
-  - BWL
-dg-publish: true
-links: 
-path: Notes
-created: 2023-10-12 18:46
+{"dg-publish":true,"permalink":"/02-resources/notes/erzielen-eines-hoehen-gewinns/","tags":["BWL"],"noteIcon":"","updated":"2024-08-19T09:35:35.000+02:00"}
 ---
+
 ### Erzielen eines Höhen Gewinns 
 
 > Privatwirtschaft -> Unternehme hat nur als Ziel Geld zu haben und nicht anders. 

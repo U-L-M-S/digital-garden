@@ -1,12 +1,7 @@
 ---
-tags:
-  - BWL
-  - "#GFN/LF01"
-dg-publish: true
-links: 
-path: Notes
-created: 2023-10-14 12:26
+{"dg-publish":true,"permalink":"/02-resources/notes/betrieb/","tags":["BWL","#GFN/LF01"],"noteIcon":"","updated":"2024-08-19T09:35:34.000+02:00"}
 ---
+
 ## Betrieb 
 > Es bezieht sich meistens auf einen Teil eines [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]], kann aber eine spezifische Einheit sein.
 
