@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bildungseinrichtung/","tags":["BWL"],"noteIcon":"","updated":"2024-08-19T09:35:35.000+02:00"}
+tags:
+  - BWL
+dg-publish: true
+links: 
+path: Notes
+created: 2023-10-14 18:32
 ---
-
 ## Bildungseinrichtung 
 > Bildungseinrichtungen können Akademiker einstellen, akademische Programme anbieten und Verwaltungsfunktionen ausüben.
 

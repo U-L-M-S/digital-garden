@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/anycast/","tags":["netzwerk"],"noteIcon":"","updated":"2024-07-04T11:38:16.000+02:00"}
+tags:
+  - netzwerk
+dg-publish: true
+links: 
+path: Notes
+created: 2024-07-02 11:39
 ---
-
 > Ein Sender adressiert einen unbestimmten Empfänger einer bestimmte Empfänger einer bestimmten Gruppe.
 ```mermaid
 graph LR

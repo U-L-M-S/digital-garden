@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/privater-netzbereich/","tags":["#netzwerk","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2024-08-18T18:44:38.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/privater-netzbereich/","tags":["#netzwerk","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2024-08-18T18:44:38.715+02:00"}
 ---
 
 > Unternehmensweites [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] (Privat). Wird verwendet um Daten in eines [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] zu verwalten/bearbeiten/teilen.
@@ -245,7 +245,15 @@ Verbindungsnetzwerk für Massenspeicher
 
 
 
-
+---
+tags:
+  - netzwerk/wireless
+  - netzwerk
+dg-publish: true
+links: 
+path: Notes
+created: 2024-05-06 16:29
+---
 > Personal Area Network.
 
 [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] mit geringe Reichweite.

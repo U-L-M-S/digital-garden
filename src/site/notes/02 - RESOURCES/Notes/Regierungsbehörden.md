@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/regierungsbehoerden/","tags":["BWL"],"noteIcon":"","updated":"2024-08-19T09:35:37.000+02:00"}
+tags:
+  - BWL
+dg-publish: true
+links: 
+path: Notes
+created: 2023-10-14 18:29
 ---
-
 ## Regierungsbehörden 
 
 

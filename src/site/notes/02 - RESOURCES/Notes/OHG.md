@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ohg/","tags":["BWL"],"noteIcon":"","updated":"2024-08-19T09:35:36.000+02:00"}
+tags:
+  - BWL
+dg-publish: true
+links: 
+path: Notes
+created: 2023-10-10 19:05
 ---
-
 ## OHG 
 > Offene Handelsgesellschaft
 

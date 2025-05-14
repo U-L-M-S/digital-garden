@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/scrum-master/","tags":["projektmanagement/vorgehensmodell/agile","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-11T18:29:50.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/scrum-master/","tags":["projektmanagement/vorgehensmodell/agile","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-11T18:29:50.950+01:00"}
 ---
 
 >Es ist eine unterstützende Rolle im [[02 - RESOURCES/Notes/Scrum-Team\|Scrum-Team]] und fungiert als **Facilitator** (Moderator) und **Coach**. Die Hauptaufgabe des [[02 - RESOURCES/Notes/Scrum Master\|Scrum Master]]s ist es, sicherzustellen, dass das Scrum-Framework korrekt angewendet wird und das Team die Scrum-Praktiken effektiv nutzt.
