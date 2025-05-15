@@ -1,10 +1,5 @@
 ---
-tags:
-  - tools
-  - GFN/LF08
-dg-publish: true
-links: https://www.eclipse.org/downloads/
-path: Notes
-created: 2024-06-21 13:45
+{"dg-publish":true,"permalink":"/02-resources/notes/eclipse-ide/","tags":["tools","GFN/LF08"],"noteIcon":"","updated":"2024-08-16T18:34:20.000+02:00"}
 ---
+
 > Ein Standard [[02 - RESOURCES/Notes/IDE\|IDE]] der gemacht wurde für [[02 - RESOURCES/Notes/Java\|Java]].

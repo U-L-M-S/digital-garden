@@ -1,11 +1,7 @@
 ---
-tags:
-  - netzwerk
-dg-publish: true
-links: 
-path: Notes
-created: 2024-07-02 11:35
+{"dg-publish":true,"permalink":"/02-resources/notes/broadcast/","tags":["netzwerk"],"noteIcon":"","updated":"2024-07-04T11:38:16.717+02:00"}
 ---
+
 > Ein Sender adressiert alle Empfänger in die Netzwerk.
 ```mermaid
 graph LR

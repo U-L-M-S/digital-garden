@@ -1,11 +1,7 @@
 ---
-tags:
-  - netzwerk
-dg-publish: true
-links: 
-path: Notes
-created: 2024-07-02 11:25
+{"dg-publish":true,"permalink":"/02-resources/notes/multicast/","tags":["netzwerk"],"noteIcon":"","updated":"2024-07-04T11:38:16.789+02:00"}
 ---
+
 > Ein Sender adressiert eine Menge (Gruppe)
 > an Empfänger.
 

@@ -1,12 +1,7 @@
 ---
-tags:
-  - datenbank
-  - psychologie
-dg-publish: true
-links: 
-path: Notes
-created: 2024-05-15 15:44
+{"dg-publish":true,"permalink":"/02-resources/notes/entitaet/","tags":["datenbank","psychologie"],"noteIcon":"","updated":"2024-07-04T11:38:16.732+02:00"}
 ---
+
 > Es ist nicht anders als ein **Ding** oder **Objekt**.
 > Hauptsache alles was man ein Attribut geben kann.
 
