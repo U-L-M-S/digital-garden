@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/foreign-key/","tags":["code/SQL"],"noteIcon":"","updated":"2024-10-10T13:50:54.186+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/foreign-key/","tags":["code/SQL"],"noteIcon":"","updated":"2024-10-10T13:50:54.000+02:00"}
 ---
 
 >In einer [[02 - RESOURCES/Notes/SQL\|SQL]]-Tabelle ist eine Spalte, die verwendet wird, um eine Verknüpfung mit einer anderen [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]]  herzustellen, indem er auf den [[02 - RESOURCES/Notes/Primary Key\|Primary Key]] dieser [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] verweist.

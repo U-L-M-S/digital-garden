@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/a-g/","tags":["BWL"],"noteIcon":"","updated":"2024-08-19T09:35:40.462+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/a-g/","tags":["BWL"],"noteIcon":"","updated":"2024-08-19T09:35:40.000+02:00"}
 ---
 
 ## aG 
