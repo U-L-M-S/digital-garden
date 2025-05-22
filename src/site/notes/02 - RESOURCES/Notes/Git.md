@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/git/","tags":["git","finished"],"noteIcon":"","updated":"2025-05-21T09:20:20.603+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/git/","tags":["git","finished"],"noteIcon":"","updated":"2024-10-29T08:46:42.318+01:00"}
 ---
 
 >Versionskontrollsystem.  
@@ -19,8 +19,6 @@ Du kannst mit Git auf zwei Arten arbeiten: Offline(Local) oder Online(GitHub).
 [[02 - RESOURCES/Notes/git branch\|git branch]]
 
 [[02 - RESOURCES/Notes/git checkout\|git checkout]]
-
-[[02 - RESOURCES/Notes/git apply\|git apply]]
 
 # Info Befehlen
 [[02 - RESOURCES/Notes/git status\|git status]]
