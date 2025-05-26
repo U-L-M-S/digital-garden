@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-where/","tags":["code/SQL"],"noteIcon":"","updated":"2024-10-11T15:16:05.356+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-where/","tags":["code/SQL"],"noteIcon":"","updated":"2024-10-11T15:16:05.000+02:00"}
 ---
 
 >Es ist das **IF**-Anweisung bei [[02 - RESOURCES/Notes/SQL\|SQL]].

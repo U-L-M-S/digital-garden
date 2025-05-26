@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bdsg/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-02-25T09:05:35.090+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bdsg/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-02-25T09:05:35.000+01:00"}
 ---
 
 >Bundesdatenschutzgesetz
