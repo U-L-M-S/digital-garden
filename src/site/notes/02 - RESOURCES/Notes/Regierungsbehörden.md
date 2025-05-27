@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/regierungsbehoerden/","tags":["BWL"],"noteIcon":"","updated":"2024-08-19T09:35:37.928+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/regierungsbehoerden/","tags":["BWL"],"noteIcon":"","updated":"2024-08-19T09:35:37.000+02:00"}
 ---
 
 ## Regierungsbehörden 

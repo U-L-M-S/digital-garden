@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6-private/","tags":["netzwerk/ip/ipv6"],"noteIcon":"","updated":"2024-07-30T11:06:19.197+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6-private/","tags":["netzwerk/ip/ipv6"],"noteIcon":"","updated":"2024-07-30T11:06:19.000+02:00"}
 ---
 
 
