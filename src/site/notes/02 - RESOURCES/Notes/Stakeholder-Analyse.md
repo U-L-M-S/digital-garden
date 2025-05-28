@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/stakeholder-analyse/","tags":["projektmanagement","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-19T14:15:46.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/stakeholder-analyse/","tags":["projektmanagement","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-03-19T14:15:46.005+01:00"}
 ---
 
 >**Stakeholder-Analyse** ist die systematische Ermittlung von **Personen oder Gruppen**, die ein Interesse oder **Einfluss** auf ein Projekt haben.

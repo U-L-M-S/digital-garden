@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-final/","tags":["code/java"],"noteIcon":"","updated":"2025-05-05T15:24:16.898+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-final/","tags":["code/java"],"noteIcon":"","updated":"2025-05-05T15:24:16.000+02:00"}
 ---
 
 >In [[02 - RESOURCES/Notes/Java\|Java]] wird `final` verwendet, wenn man [[02 - RESOURCES/Notes/Variable\|Variable]]n, [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]]n oder [[02 - RESOURCES/Notes/Klasse\|Klasse]]n **konstant** machen möchte.
