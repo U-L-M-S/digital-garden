@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/prozentsatz/","tags":["mathe"],"noteIcon":"","updated":"2025-03-19T11:58:05.646+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/prozentsatz/","tags":["mathe"],"noteIcon":"","updated":"2025-03-19T11:58:05.000+01:00"}
 ---
 
 >**(Ps)**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mvc/","noteIcon":"","updated":"2025-05-06T14:40:42.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/mvc/","noteIcon":"","updated":"2025-05-06T14:40:42.107+02:00"}
 ---
 
 >Es ist ein Architekturdesign, das häufig in der Softwareentwicklung verwendet wird, insbesondere in Webanwendungen wie [[02 - RESOURCES/Notes/ASP.NET Core Web App (Razor Pages)\|ASP.NET Core Web App (Razor Pages)]].

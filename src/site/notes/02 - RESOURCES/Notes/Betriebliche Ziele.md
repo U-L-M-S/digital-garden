@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/betriebliche-ziele/","tags":["BWL"],"noteIcon":"","updated":"2024-08-19T09:35:34.836+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/betriebliche-ziele/","tags":["BWL"],"noteIcon":"","updated":"2024-08-19T09:35:34.000+02:00"}
 ---
 
 ## Betriebliche Ziele 

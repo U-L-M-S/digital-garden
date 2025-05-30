@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/main-methode/","tags":["code"],"noteIcon":"","updated":"2025-05-05T15:24:17.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/main-methode/","tags":["code"],"noteIcon":"","updated":"2025-05-05T15:24:17.002+02:00"}
 ---
 
 >Es ist eine standard [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] bei die meisten Computer Sprachen.
