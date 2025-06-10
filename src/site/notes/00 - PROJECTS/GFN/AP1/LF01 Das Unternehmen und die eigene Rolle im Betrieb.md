@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-05-06T14:23:39.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-06-10T23:10:40.630+02:00"}
 ---
 
 >[!important] 
@@ -9,8 +9,6 @@
 # I. Das [[02 - RESOURCES/Notes/Duale System\|Duale System]] vorstellen Präsentation
 >In Deutschland basiert die Berufsausbildung in eine [[02 - RESOURCES/Notes/Duale System\|Duale System]].
 ___
-
-
 
 
 Der [[02 - RESOURCES/Notes/Auszubildender\|Auszubildender]] wird während sein Zeit in [[02 - RESOURCES/Notes/Betrieb\|Betrieb]] von einer [[02 - RESOURCES/Notes/Ausbilder\|Ausbilder]] verantwortlich sein, beiden haben ihre Pflichten.
