@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["GFN/LF02","inProgress","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-05-09T16:38:50.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["GFN/LF02","inProgress","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-06-11T22:55:47.933+02:00"}
 ---
 
 >[!important] 
@@ -14,8 +14,6 @@ ___
 # I. Grundfunktionen des Computer
 ___
 >In dieses Kapitel beginnt mit den Begriff [[02 - RESOURCES/Notes/EVA-Prinzip\|EVA-Prinzip]], es ist Hauptsächlich den Grundprinzip für [[02 - RESOURCES/Notes/Datenverarbeitung\|Datenverarbeitung]] 
-
-
 
 >[!info] 
 >Diese Zusammenfassung basiert auf den Materialien von Herrn Thomas Hochgesang. 
