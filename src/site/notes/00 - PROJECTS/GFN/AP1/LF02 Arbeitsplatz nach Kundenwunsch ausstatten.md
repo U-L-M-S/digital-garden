@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["GFN/LF02","inProgress","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-06-11T22:55:47.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["GFN/LF02","inProgress","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-06-11T22:55:47.933+02:00"}
 ---
 
 >[!important] 
