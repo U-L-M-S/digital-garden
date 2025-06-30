@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kleinprojekt/","noteIcon":"","updated":"2024-11-10T14:52:48.535+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kleinprojekt/","noteIcon":"","updated":"2024-11-10T14:52:48.000+01:00"}
 ---
 
 > Es ist ein Unterbegriff von [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]. Die Kriterien sind, aber minimalistischer als Möglich.
