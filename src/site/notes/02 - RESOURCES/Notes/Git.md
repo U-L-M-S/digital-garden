@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/git/","tags":["git","finished"],"noteIcon":"","updated":"2025-05-26T10:10:44.210+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/git/","tags":["git","finished"],"noteIcon":"","updated":"2025-05-26T10:10:44.000+02:00"}
 ---
 
 >Versionskontrollsystem.  

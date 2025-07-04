@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/usv/","tags":["elektrotechnik"],"noteIcon":"","updated":"2025-03-24T19:24:21.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/usv/","tags":["elektrotechnik"],"noteIcon":"","updated":"2025-03-24T19:24:21.360+01:00"}
 ---
 
 > Schützt IT-Systeme vor **Stromausfällen** und anderen **Stromproblemen**.  
