@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-methode/","tags":["code/java"],"noteIcon":"","updated":"2025-05-05T15:23:07.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-methode/","tags":["code/java"],"noteIcon":"","updated":"2025-05-05T15:23:07.045+02:00"}
 ---
 
 >In Grund genommen, hat [[02 - RESOURCES/Notes/Java\|Java]] keine [[02 - RESOURCES/Notes/Funktion Programmierung\|Funktion Programmierung]]en. Da alles in Java ein Objekt ist und **alles** innerhalb Klassen passieren.
