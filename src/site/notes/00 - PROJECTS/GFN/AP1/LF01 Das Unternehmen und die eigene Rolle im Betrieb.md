@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-06-10T23:10:40.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-07-12T13:31:41.094+02:00"}
 ---
 
 >[!important] 
@@ -9,6 +9,8 @@
 # I. Das [[02 - RESOURCES/Notes/Duale System\|Duale System]] vorstellen Präsentation
 >In Deutschland basiert die Berufsausbildung in eine [[02 - RESOURCES/Notes/Duale System\|Duale System]].
 ___
+
+
 
 
 Der [[02 - RESOURCES/Notes/Auszubildender\|Auszubildender]] wird während sein Zeit in [[02 - RESOURCES/Notes/Betrieb\|Betrieb]] von einer [[02 - RESOURCES/Notes/Ausbilder\|Ausbilder]] verantwortlich sein, beiden haben ihre Pflichten.
@@ -29,6 +31,13 @@ Bevor die Ausbildung beginnt ist es wichtig, dass der [[02 - RESOURCES/Notes/Aus
 
 ### Begriffen
 Du muss in der Lager sein zu unterscheiden: [[02 - RESOURCES/Notes/Firma\|Firma]],  [[02 - RESOURCES/Notes/Betrieb\|Betrieb]] und [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]. 
+### Good to know:
+[[02 - RESOURCES/Notes/GmbH\|GmbH]]   
+[[02 - RESOURCES/Notes/eG\|eG]] 
+[[02 - RESOURCES/Notes/aG\|aG]]  
+[[02 - RESOURCES/Notes/KG\|KG]]  
+[[02 - RESOURCES/Notes/UG\|UG]]  
+[[02 - RESOURCES/Notes/OHG\|OHG]]
 ## [[02 - RESOURCES/Notes/Wirtschaftliche Verflechtung\|Wirtschaftliche Verflechtung]]
 
 

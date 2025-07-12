@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/authentizitaet/","tags":["it-sicherheit"],"noteIcon":"","updated":"2024-11-04T08:49:49.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/authentizitaet/","tags":["it-sicherheit"],"noteIcon":"","updated":"2025-07-12T13:31:41.287+02:00"}
 ---
 
 >**Authentizität** ist ein Sicherheitsprinzip, das sicherstellt, dass die Identität des Kommunikationspartners verifiziert ist, um Vertrauen in die Herkunft der Daten zu schaffen. 

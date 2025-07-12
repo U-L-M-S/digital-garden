@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/auszubildender/","tags":[null],"noteIcon":"","updated":"2024-08-02T15:51:14.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/auszubildender/","tags":[null],"noteIcon":"","updated":"2025-07-12T13:31:41.287+02:00"}
 ---
 
 ## Auszubildender 

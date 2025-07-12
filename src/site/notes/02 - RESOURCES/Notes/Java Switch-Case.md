@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-switch-case/","tags":["code/java"],"noteIcon":"","updated":"2024-10-26T19:48:38.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-switch-case/","tags":["code/java"],"noteIcon":"","updated":"2025-07-12T13:31:41.301+02:00"}
 ---
 
 >Es ist eine Alternative zu vielen `if-else`-Statements und macht den Code lesbarer, wenn viele Bedingungen abgefragt werden.

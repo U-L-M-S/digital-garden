@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-create/","tags":["code/SQL"],"noteIcon":"","updated":"2025-04-30T13:06:19.610+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-create/","tags":["code/SQL"],"noteIcon":"","updated":"2025-07-12T13:31:41.314+02:00"}
 ---
 
 >Befehl kann verwendet werden um [[02 - RESOURCES/Notes/SQL Datenbank\|SQL Datenbank]]en **oder** [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]]n zu erstellen.

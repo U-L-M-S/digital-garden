@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sync/","tags":["code/java","code/python","code/CSharp"],"noteIcon":"","updated":"2025-06-14T10:30:01.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sync/","tags":["code/java","code/python","code/CSharp"],"noteIcon":"","updated":"2025-07-12T13:31:41.327+02:00"}
 ---
 
 >Schritte laufen nacheinander (nicht gleichzeitig)

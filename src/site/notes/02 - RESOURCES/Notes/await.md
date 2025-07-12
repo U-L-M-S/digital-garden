@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/await/","tags":["code/python","code/CSharp","code/java"],"noteIcon":"","updated":"2025-06-14T10:29:56.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/await/","tags":["code/python","code/CSharp","code/java"],"noteIcon":"","updated":"2025-07-12T13:31:41.327+02:00"}
 ---
 
 >Warten auf ein Ergebnis von einer async-Funktion

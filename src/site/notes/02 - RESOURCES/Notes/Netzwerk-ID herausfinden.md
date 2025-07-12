@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2024-10-17T20:37:31.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-id-herausfinden/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-07-12T13:31:41.307+02:00"}
 ---
 
 >[!example] Beispiel

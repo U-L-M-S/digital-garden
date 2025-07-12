@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/backup/","noteIcon":"","updated":"2025-03-24T16:31:59.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/backup/","noteIcon":"","updated":"2025-07-12T13:31:41.287+02:00"}
 ---
 
 >Sicherung von Daten auf externen Medien oder Speichern, um sie im Notfall wiederherstellen zu können.  

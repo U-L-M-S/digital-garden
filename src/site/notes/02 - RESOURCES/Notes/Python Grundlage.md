@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/python-grundlage/","tags":["code/python"],"noteIcon":"","updated":"2025-05-05T15:23:07.274+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/python-grundlage/","tags":["code/python"],"noteIcon":"","updated":"2025-07-12T13:31:41.311+02:00"}
 ---
 
 > Hier lernst du die Syntax der wichtigsten Befehle, um mit der [[02 - RESOURCES/Notes/Python\|Python]]-Sprache umzugehen.
@@ -75,7 +75,7 @@ while j < 5:
 > Schleifen sind nützlich, um repetitive Aufgaben effizient auszuführen.
 
 # [[Python Function\|Python Function]]
-Eine [[02 - RESOURCES/Notes/Funktion Programmierung\|Funktion Programmierung]] ist ein Block von Code, der eine bestimmte Aufgabe erfüllt. Funktionen erleichtern die Strukturierung und Wiederverwendbarkeit des Codes.
+Eine [[02 - RESOURCES/Notes/Funktion\|Funktion]] ist ein Block von Code, der eine bestimmte Aufgabe erfüllt. Funktionen erleichtern die Strukturierung und Wiederverwendbarkeit des Codes.
 ```python
 def addiere(a, b):
     return a + b

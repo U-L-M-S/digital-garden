@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/git-log/","tags":["git/log"],"noteIcon":"","updated":"2024-10-15T11:16:23.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/git-log/","tags":["git/log"],"noteIcon":"","updated":"2025-07-12T13:31:41.324+02:00"}
 ---
 
 >Diesem Befehl wird verwendet, um **alle** Save Points (commits) anzuzeigen.

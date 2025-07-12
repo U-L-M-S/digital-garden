@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wpa-2/","tags":["netzwerk/wifi","kryptografie/wifi"],"noteIcon":"","updated":"2024-08-04T23:19:13.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wpa-2/","tags":["netzwerk/wifi","kryptografie/wifi"],"noteIcon":"","updated":"2025-07-12T13:31:41.321+02:00"}
 ---
 
 >[[02 - RESOURCES/Notes/Wi-Fi\|Wi-Fi]] Protected Access 2

@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rueckgabewerttyp/","tags":["code"],"noteIcon":"","updated":"2025-05-05T15:24:17.097+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/rueckgabewerttyp/","tags":["code"],"noteIcon":"","updated":"2025-07-12T13:31:41.314+02:00"}
 ---
 
->Der **Rückgabewerttyp** einer [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] oder [[02 - RESOURCES/Notes/Funktion Programmierung\|Funktion Programmierung]] in der Programmierung gibt an, **welchen [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]** die [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] nach ihrer Ausführung zurückliefert. 
->>Er definiert, was eine [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] dem Aufrufer „zurückgibt“ (z.B. eine Zahl, ein Text, ein Objekt usw.).
+>Der **Rückgabewerttyp** einer [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] oder [[02 - RESOURCES/Notes/Funktion\|Funktion]] in der Programmierung gibt an, **welchen [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]** die [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] nach ihrer Ausführung zurückliefert. 
+>>Er definiert, was eine [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] dem Aufrufer „zurückgibt“ (z.B. eine Zahl, ein Text, ein Objekt usw.).
 
 ### 1. **Grundlegendes zum Rückgabewerttyp**
-Jede [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] in Sprachen wie [[02 - RESOURCES/Notes/Java\|Java]], C++, oder [[00 - PROJECTS/CSharp\|CSharp]] muss, wenn sie einen Wert zurückgeben soll, einen **Rückgabewerttyp** angeben. Der Rückgabewert ist das Ergebnis der [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]]. In einigen Fällen gibt eine [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] nichts zurück, in solchen Fällen wird in vielen Sprachen `void` verwendet.
+Jede [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] in Sprachen wie [[02 - RESOURCES/Notes/Java\|Java]], C++, oder [[00 - PROJECTS/C Sharp\|C Sharp]] muss, wenn sie einen Wert zurückgeben soll, einen **Rückgabewerttyp** angeben. Der Rückgabewert ist das Ergebnis der [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]]. In einigen Fällen gibt eine [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] nichts zurück, in solchen Fällen wird in vielen Sprachen `void` verwendet.
 
 ### 2. **Varianten des Rückgabewerttyps**
-Je nach Programmiersprache und [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] können unterschiedliche Typen zurückgegeben werden:
+Je nach Programmiersprache und [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] können unterschiedliche Typen zurückgegeben werden:
 
 - **Primitive Datentypen**: Einfache Datentypen wie [[02 - RESOURCES/Notes/int\|int]], [[02 - RESOURCES/Notes/double\|double]], boolean, [[02 - RESOURCES/Notes/char\|char]], etc.
   - **Beispiel ([[02 - RESOURCES/Notes/Java\|Java]])**:
@@ -87,7 +87,7 @@ public void drucken() {
     System.out.println("Hallo Welt");  // Gibt nichts zurück
 }
 ```
-- Diese [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] gibt nichts zurück, sondern führt nur eine Aktion aus.
+- Diese [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] gibt nichts zurück, sondern führt nur eine Aktion aus.
 
 #### Beispiel 4: Rückgabe eines Arrays ([[02 - RESOURCES/Notes/Java\|Java]])
 ```java
@@ -104,6 +104,6 @@ public Optional<String> getName() {
 ```
 
 ### 5. **Zusammenfassung**
-- Der **Rückgabewerttyp** gibt an, welchen [[02 - RESOURCES/Notes/Datentyp\|Datentyp]] eine [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] zurückgibt.
+- Der **Rückgabewerttyp** gibt an, welchen [[02 - RESOURCES/Notes/Datentyp\|Datentyp]] eine [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] zurückgibt.
 - Es gibt verschiedene Rückgabewerttypen: primitive Typen, Objekte, Arrays, Sammlungen, `void`, und optional/nullable Typen.
-- Der Rückgabewert einer [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] wird mit dem Schlüsselwort `return` zurückgegeben und kann vom Aufrufer der [[02 - RESOURCES/Notes/Methode Programmierung\|Methode Programmierung]] genutzt werden.
+- Der Rückgabewert einer [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] wird mit dem Schlüsselwort `return` zurückgegeben und kann vom Aufrufer der [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] genutzt werden.

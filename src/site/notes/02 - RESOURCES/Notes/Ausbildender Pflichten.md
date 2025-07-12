@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ausbildender-pflichten/","tags":["GFN/prüfungsrelevant/AP1","GFN/LF01"],"noteIcon":"","updated":"2024-08-18T18:44:37.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ausbildender-pflichten/","tags":["GFN/prüfungsrelevant/AP1","GFN/LF01"],"noteIcon":"","updated":"2025-07-12T13:31:41.287+02:00"}
 ---
 
 ## Ausbildender Pflichten 

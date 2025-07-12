@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ssh/","tags":["linux/command","windows/command","netzwerk/protocol"],"noteIcon":"","updated":"2024-10-21T16:34:09.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ssh/","tags":["linux/command","windows/command","netzwerk/protocol"],"noteIcon":"","updated":"2025-07-12T13:31:41.327+02:00"}
 ---
 
 >Secure Shell

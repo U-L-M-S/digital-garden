@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-05-software-zur-verwaltung-von-daten-anpassen/","tags":["inProgress","datenbank","code/SQL","code/python","GFN/LF05"],"noteIcon":"","updated":"2024-10-06T19:54:03.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-05-software-zur-verwaltung-von-daten-anpassen/","tags":["inProgress","datenbank","code/SQL","code/python","GFN/LF05"],"noteIcon":"","updated":"2025-07-12T13:31:41.094+02:00"}
 ---
 
 >[!important] 

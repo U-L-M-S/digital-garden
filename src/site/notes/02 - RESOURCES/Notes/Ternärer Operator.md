@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ternaerer-operator/","tags":["code"],"noteIcon":"","updated":"2024-10-26T21:27:44.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ternaerer-operator/","tags":["code"],"noteIcon":"","updated":"2025-07-12T13:31:41.317+02:00"}
 ---
 
 >[[02 - RESOURCES/Notes/IF-Bedingung\|IF-Bedingung]] in Programierung, aber in eine Zeile verkürzt.
