@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/schutzziele/","tags":["it-sicherheit"],"noteIcon":"","updated":"2024-11-04T08:49:49.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/schutzziele/","tags":["it-sicherheit"],"noteIcon":"","updated":"2025-07-12T13:31:41.314+02:00"}
 ---
 
 >Schutzziele sind zentrale Prinzipien der IT-Sicherheit, die sicherstellen, dass Daten und Systeme vor unbefugtem Zugriff, Manipulation und Verlust geschützt werden.

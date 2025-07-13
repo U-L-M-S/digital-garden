@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dezimal-zu-hexadezimal/","tags":["mathe/hexadezimal"],"noteIcon":"","updated":"2025-03-23T01:37:23.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dezimal-zu-hexadezimal/","tags":["mathe/hexadezimal"],"noteIcon":"","updated":"2025-07-12T13:31:41.294+02:00"}
 ---
 
 >Dezimalzahl durch 16 teilen, Reste notieren, rückwärts schreiben:

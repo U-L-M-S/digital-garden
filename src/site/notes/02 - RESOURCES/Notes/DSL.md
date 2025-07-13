@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dsl/","tags":["hardware","netzwerk"],"noteIcon":"","updated":"2024-08-02T14:06:41.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dsl/","tags":["hardware","netzwerk"],"noteIcon":"","updated":"2025-07-12T13:31:41.294+02:00"}
 ---
 
 ![DSL-20240802054244931.png](/img/user/02%20-%20RESOURCES/Files/IMG/DSL-20240802054244931.png)

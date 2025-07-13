@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mvc/","noteIcon":"","updated":"2025-05-06T14:40:42.107+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/mvc/","noteIcon":"","updated":"2025-07-12T13:31:41.304+02:00"}
 ---
 
->Es ist ein Architekturdesign, das häufig in der Softwareentwicklung verwendet wird, insbesondere in Webanwendungen wie [[02 - RESOURCES/Notes/ASP.NET Core Web App (Razor Pages)\|ASP.NET Core Web App (Razor Pages)]].
+>Es ist ein Architekturdesign, das häufig in der Softwareentwicklung verwendet wird, insbesondere in Webanwendungen wie [[02 - RESOURCES/Notes/ASP.NET\|ASP.NET]].
 >>Es teilt eine Anwendung in drei Hauptkomponenten, um die Entwicklung und Wartung zu erleichtern:
 
 1. **Model**:
@@ -27,6 +27,6 @@
 - **Flexibilität**: Ermöglicht unabhängige Entwicklung und Testung der einzelnen Teile.
 - **Wiederverwendbarkeit**: Views und Models können leicht wiederverwendet werden.
 
-### Beispiel in [[02 - RESOURCES/Notes/ASP.NET Core Web App (Razor Pages)\|ASP.NET Core Web App (Razor Pages)]]:
+### Beispiel in [[02 - RESOURCES/Notes/ASP.NET\|ASP.NET]]:
 
 - Ein **Controller** empfängt eine Anfrage (z. B. `/Products/Details/1`), ruft das entsprechende **Model** auf, um Produktdetails zu laden, und gibt diese an eine **View** weiter, um die Daten anzuzeigen.

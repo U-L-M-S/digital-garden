@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bubblesort/","tags":["code/C","code/java","code/python","code/time-complexity","code/algorithmus"],"noteIcon":"","updated":"2024-11-02T12:10:45.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bubblesort/","tags":["code/C","code/java","code/python","code/time-complexity","code/algorithmus"],"noteIcon":"","updated":"2025-07-12T13:31:41.291+02:00"}
 ---
 
 >**Bubblesort** ist ein einfacher, iterativer Sortieralgorithmus, der durch wiederholtes Vergleichen benachbarter Elemente funktioniert. 

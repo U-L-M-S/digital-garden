@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2-fisi/lf-10-servicedienste-bereitstellen-und-administration/","noteIcon":"","updated":"2025-07-12T14:26:20.968+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2-fisi/lf-10-servicedienste-bereitstellen-und-administration/","noteIcon":"","updated":"2025-07-13T11:50:27.781+02:00"}
 ---
 
 # [[02 - RESOURCES/Notes/Server\|Server]] Grundlagen – Aufbau und Architektur
@@ -13,9 +13,8 @@ Einfach gesagt: Ein [[02 - RESOURCES/Notes/Server\|Server]] ist auch ein Compute
 Der Unterschied: Ein [[02 - RESOURCES/Notes/Server\|Server]] arbeitet 24/7. Er ist dafür da, anderen Computern oder Geräten etwas zu geben oder zu helfen.
 
 ## CPU
-
-Weil ein [[02 - RESOURCES/Notes/Server\|Server]] oft vielen Nutzern gleichzeitig helfen muss, braucht er stärkere Hardware als ein normaler Computer.  
-Vor allem die CPU ist wichtig. [[02 - RESOURCES/Notes/Server\|Server]] haben oft 2 oder mehr CPUs.
+>Weil ein [[02 - RESOURCES/Notes/Server\|Server]] oft vielen Nutzern gleichzeitig helfen muss, braucht er stärkere Hardware als ein normaler Computer.  
+>>Vor allem die CPU ist wichtig. [[02 - RESOURCES/Notes/Server\|Server]] haben oft 2 oder mehr CPUs.
 
 Die CPU ist das „Gehirn“ vom Computer. Je mehr CPUs (oder Kerne), desto mehr Dinge kann er gleichzeitig machen.
 
@@ -34,6 +33,55 @@ Wenn wir über „gleichzeitig“ sprechen, meinen wir:
 
 > [!note]  
 > So wie im echten Leben ist Multi Processing oft **schneller** als Parallel Processing.
+
+
+## [[02 - RESOURCES/Notes/RAM\|RAM]]
+>"Ein [[02 - RESOURCES/Notes/Server\|Server]] ist auch ein Computer, wie der, den du gerade benutzt." Behalt das in den Hinterkopf.
+
+Bevor wir weitermachen liest bitte dieses echtes Geschichte, die passiert ist.
+
+>[!cite] Belgien Wahl Bit-Flip
+>2003 gab es in Belgien (Schaerbeek) einen Fall, bei dem eine Kandidatin plötzlich 4.096 Stimmen zu viel bekam. Ursache war ein sogenannter Bit-Flip: Ein kosmisches Teilchen traf die Speicherzelle des Wahlcomputers und kippte ein Bit von 0 auf 1. Dadurch wurde die Stimmenzahl falsch gezählt.
+>Der Fehler wurde entdeckt, weil die Gesamtzahl der Stimmen größer war als die Anzahl der Wähler.
+
+Wie in deine Rechner/Handy besitzt [[02 - RESOURCES/Notes/Server\|Server]]s auch ein [[02 - RESOURCES/Notes/RAM\|RAM]].
+Wie du in die spannende Geschichte gelesen hast darf [[02 - RESOURCES/Notes/Server\|Server]]s einfach keine Fehler machen. Daher existiert eine bestimmte [[02 - RESOURCES/Notes/RAM\|RAM]] für [[02 - RESOURCES/Notes/Server\|Server]]s: [[02 - RESOURCES/Notes/ECC RAM\|ECC RAM]].
+
+Kurz gesagt: Das Ding existiert um solche Fälle zu vermeiden.
+[[02 - RESOURCES/Notes/ECC RAM\|ECC RAM]] hat die Eigenschaft die [[02 - RESOURCES/Notes/Hamming Code(7,4)\|Hamming Code(7,4)]] Algorithmus zu benutzen um Bit Flips (0 -> 1 ODER 1->0) zu erkennen und reparieren.
+[[02 - RESOURCES/Notes/ECC RAM\|ECC RAM]] hat eine extra Speicherchip **NUR** um das zu machen (IMMER Ungerade Speicherchipsanzahl/Module bei [[02 - RESOURCES/Notes/ECC RAM\|ECC RAM]]) 
+
+>[!note] 
+>Du muss [[02 - RESOURCES/Notes/Hamming Code(7,4)\|Hamming Code(7,4)]] nicht verstehen (wie es funktioniert).
+>Du muss aber wissen dass es existiert und dass bei [[02 - RESOURCES/Notes/ECC RAM\|ECC RAM]] verwendet wird 😊.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -70,3 +118,4 @@ Diese Extras sind zum Beispiel:
   
 - **registrierter (gepufferter) RAM**
     - Server benutzen oft sogenannten **Registered RAM**. Damit kann die CPU einfacher mit großem Speicher arbeiten, weil ein Extra-Chip (Register) die Arbeit koordiniert.
+	

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-07-cyber-physische-systeme-ergaenzen/","tags":["GFN/LF07","inProgress"],"noteIcon":"","updated":"2024-10-06T19:54:23.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-07-cyber-physische-systeme-ergaenzen/","tags":["GFN/LF07","inProgress"],"noteIcon":"","updated":"2025-07-12T13:31:41.094+02:00"}
 ---
 
 >[!important] 

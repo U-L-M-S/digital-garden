@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["code/java","code/OOP"],"noteIcon":"","updated":"2025-05-05T15:23:07.098+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["code/java","code/OOP"],"noteIcon":"","updated":"2025-07-12T13:31:41.304+02:00"}
 ---
 
->In [[02 - RESOURCES/Notes/Java\|Java]] gibt's keine echten [[02 - RESOURCES/Notes/Funktion Programmierung\|Funktion Programmierung]]en. Da alles in [[02 - RESOURCES/Notes/Java klasse\|Java klasse]] gemacht werden.
+>In [[02 - RESOURCES/Notes/Java\|Java]] gibt's keine echten [[02 - RESOURCES/Notes/Funktion\|Funktion]]en. Da alles in [[02 - RESOURCES/Notes/Java klasse\|Java klasse]] gemacht werden.
 >> Achte bitte darauf, dass der `ClassName` groß geschrieben ist.
 # Syntax
 ```java
