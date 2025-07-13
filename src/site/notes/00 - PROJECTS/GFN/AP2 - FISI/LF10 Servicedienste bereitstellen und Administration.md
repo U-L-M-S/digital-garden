@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2-fisi/lf-10-servicedienste-bereitstellen-und-administration/","noteIcon":"","updated":"2025-07-13T11:50:27.781+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2-fisi/lf-10-servicedienste-bereitstellen-und-administration/","noteIcon":"","updated":"2025-07-13T22:06:59.455+02:00"}
 ---
 
 # [[02 - RESOURCES/Notes/Server\|Server]] Grundlagen – Aufbau und Architektur
@@ -13,6 +13,7 @@ Einfach gesagt: Ein [[02 - RESOURCES/Notes/Server\|Server]] ist auch ein Compute
 Der Unterschied: Ein [[02 - RESOURCES/Notes/Server\|Server]] arbeitet 24/7. Er ist dafür da, anderen Computern oder Geräten etwas zu geben oder zu helfen.
 
 ## CPU
+![image-86.png](/img/user/02%20-%20RESOURCES/Files/image-86.png)
 >Weil ein [[02 - RESOURCES/Notes/Server\|Server]] oft vielen Nutzern gleichzeitig helfen muss, braucht er stärkere Hardware als ein normaler Computer.  
 >>Vor allem die CPU ist wichtig. [[02 - RESOURCES/Notes/Server\|Server]] haben oft 2 oder mehr CPUs.
 
@@ -36,6 +37,7 @@ Wenn wir über „gleichzeitig“ sprechen, meinen wir:
 
 
 ## [[02 - RESOURCES/Notes/RAM\|RAM]]
+![image-85.png](/img/user/02%20-%20RESOURCES/Files/image-85.png)
 >"Ein [[02 - RESOURCES/Notes/Server\|Server]] ist auch ein Computer, wie der, den du gerade benutzt." Behalt das in den Hinterkopf.
 
 Bevor wir weitermachen liest bitte dieses echtes Geschichte, die passiert ist.
@@ -54,6 +56,45 @@ Kurz gesagt: Das Ding existiert um solche Fälle zu vermeiden.
 >[!note] 
 >Du muss [[02 - RESOURCES/Notes/Hamming Code(7,4)\|Hamming Code(7,4)]] nicht verstehen (wie es funktioniert).
 >Du muss aber wissen dass es existiert und dass bei [[02 - RESOURCES/Notes/ECC RAM\|ECC RAM]] verwendet wird 😊.
+
+
+## HDDs: SAS
+![image-88.png](/img/user/02%20-%20RESOURCES/Files/image-88.png)
+> Ein [[02 - RESOURCES/Notes/Server\|Server]] muss oft viele Daten schnell lesen und speichern.
+> Dafür nutzt man oft spezielle Festplatten: SAS-HDDs.
+
+SAS bedeutet **Serial Attached SCSI**.  
+Früher war SCSI eine parallele Verbindung. Heute ist SAS **seriell** und hat Punkt-zu-Punkt-Verbindungen.
+
+**Warum SAS?**
+
+- **Leitungsbündelung**:  
+   Zwei Ports können gleichzeitig Daten übertragen → schneller. 
+- **Dual-Porting**:  
+    Zwei Systeme können gleichzeitig auf dieselbe HDD zugreifen.
+    > Beispiel: Zwei Köche können gleichzeitig auf denselben Topf zugreifen, ohne sich zu stören.
+ 
+
+**Kompatibilität**
+
+- SAS-HDDs brauchen zwingend einen SAS-Anschluss.
+- SATA-HDDs funktionieren auch an einem SAS-Anschluss.
+
+Außerdem kann man bis zu 4 SAS-HDDs an einen SAS-Controller anschließen.
+
+
+
+> [!note] HDD vs SSD
+> "SSD ist aber schneller und besser. 
+> Warum werden sie nicht in Server verwenden?"🤓 
+> 
+> Du hast voll recht. [[02 - RESOURCES/Notes/SSD\|SSD]] ist standardig besser als [[02 - RESOURCES/Notes/HDD\|HDD]].
+> Nun sind [[02 - RESOURCES/Notes/HDD\|HDD]]s stabiler, günstiger, geringer chance um Datenverlusten.
+> Daher wurde die SAS in die [[02 - RESOURCES/Notes/HDD\|HDD]]s eingesetzt als 'Booster'.
+
+
+
+
 
 
 
