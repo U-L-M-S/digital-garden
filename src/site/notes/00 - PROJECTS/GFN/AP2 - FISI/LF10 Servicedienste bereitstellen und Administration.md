@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2-fisi/lf-10-servicedienste-bereitstellen-und-administration/","noteIcon":"","updated":"2025-07-17T21:10:37.197+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2-fisi/lf-10-servicedienste-bereitstellen-und-administration/","noteIcon":"","updated":"2025-07-17T22:40:14.445+02:00"}
 ---
 
 ![[Server Services and Data Management - podcast.wav]]
@@ -87,12 +87,13 @@ Früher war SCSI eine parallele Verbindung. Heute ist SAS **seriell** und hat Pu
 Außerdem kann man bis zu 4 SAS-HDDs an einen SAS-Controller anschließen.
 
 > [!note] [[02 - RESOURCES/Notes/HDD\|HDD]] vs [[02 - RESOURCES/Notes/SSD\|SSD]]  
-> SSD ist aber schneller und besser.  
-> Warum werden sie nicht in Servern verwendet? 🤓  
+> "SSD ist aber schneller und besser.  
+> Warum werden sie nicht in Servern verwendet?" 🤓  
 >
-> Du hast voll recht. [SSD](https://gfn.uinclis.de/02-resources/notes/ssd/) ist standardmäßig besser als [HDD](https://gfn.uinclis.de/02-resources/notes/hdd/).  
-> Aber [HDD](https://gfn.uinclis.de/02-resources/notes/hdd/)s sind stabiler, günstiger, und haben eine geringere Wahrscheinlichkeit für Datenverlust.  
-> Deshalb wurde SAS in [HDD](https://gfn.uinclis.de/02-resources/notes/hdd/)s als 'Booster' eingesetzt.
+> Du hast voll recht! 
+> [[02 - RESOURCES/Notes/HDD\|HDD]] ist standardmäßig besser als [[02 - RESOURCES/Notes/SSD\|SSD]].  
+> Aber [[02 - RESOURCES/Notes/HDD\|HDD]]s sind stabiler, günstiger, und haben eine geringere Wahrscheinlichkeit für Datenverlust.  
+> Deshalb wurde SAS in [[02 - RESOURCES/Notes/HDD\|HDD]]s als 'Booster' eingesetzt.
 
 ## Riser Cards
 ![image-91.png](/img/user/02%20-%20RESOURCES/Files/image-91.png)
@@ -115,7 +116,7 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 > Sehr ähnlich zu einem normalen **Desktop-PC**, wie man ihn zu Hause hat.  
 > Hat aber mehr Möglichkeiten zur Erweiterung, z. B. mit [[Riser Cards\|Riser Cards]].
 
-- Beliebt bei kleinen Unternehmen
+- Beliebt bei kleinen [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]
 - **Kompakt**, **günstig** und **einfach erweiterbar**
 - Gutes **Preis-Leistungs-Verhältnis**
 
@@ -157,7 +158,7 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 > Blade-Server bestehen aus einem Gehäuse, in das mehrere sogenannte **Server-Blades** gesteckt werden.  
 > Diese Bauform spart Platz und ist besonders modular.
 
-- Jedes **Blade** ist eine **einzelne Platine** mit CPU, RAM, Netzwerk usw.
+- Jedes **Blade** ist eine **einzelne Platine** mit CPU, [[02 - RESOURCES/Notes/RAM\|RAM]], [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] usw.
 - Mehrere Blades werden **nebeneinander oder untereinander** ins Gehäuse eingesetzt
 - Die Verbindung läuft über die **Rückseite** → dort sitzen alle nötigen Anschlüsse
 - Das Gehäuse stellt **Strom** und **Kühlung** für alle Blades bereit
@@ -166,4 +167,137 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 
 >[!note] 
 >Ja. Blade ist nicht nur Cooler. Es ist einfach die Beste von alle 3 😍.
+>Aber extrem TEUER!
 
+
+# Server-Stromversorgung
+>Ja. wie zu erwartet benötige diese Riesige Machinen Strom und zwar VIELE Strom. Daher verbrauchen sie deutig mehr Strom als ein standard PC von 5 Watts ([[02 - RESOURCES/Notes/elektrische Leistung\|elektrische Leistung]]) bis 150 Watts, je nach den Hardware Teil.
+
+| Komponent          | Typischer Stromverbrauch                 |
+| ------------------ | ---------------------------------------- |
+| Motherboard        | ~30 W (Ohne RAM und CPU)                 |
+| Speicher           | ~30 W pro 2 GB                           |
+| CPU                | ~45 W - 150 W, je nach CPU               |
+| HDD                | ~5 W - 15 W                              |
+| Optische Laufwerk  | ~5 - 20 W                                |
+| Erweiterungskarten | ~5 - 30 W, GPUs verbraucht deutlich mehr |
+
+## Redundante Stromversorgung
+
+> [!important]  
+> "Ein [[02 - RESOURCES/Notes/Server\|Server]] arbeitet 24/7 – das ist sein Job."  
+> Damit er das kann, muss die **Stromversorgung im Server selbst zuverlässig** sein.  
+> Aber was passiert, wenn **ein Netzteil kaputt geht** oder **ausgesteckt wird**?  
+> → Genau dafür gibt es **Redundante Stromversorgung** – **nicht** für Stromausfälle im Gebäude!
+
+- [[02 - RESOURCES/Notes/Server\|Server]] haben oft **zwei Netzteile**
+- Wenn eins ausfällt, übernimmt das andere **nahtlos**
+- Ziel: **Keine Unterbrechung**, kein Neustart
+
+> [!tip]  
+> Gegen Stromausfälle im ganzen Haus hilft nur eine **USV** (unterbrechungsfreie Stromversorgung).
+
+---
+
+### Modi der Redundanz
+![image-97.png](/img/user/02%20-%20RESOURCES/Files/image-97.png)
+
+> Unterschiedliche Arten, wie die Netzteile zusammenarbeiten:
+
+- **Lastverteilung (aktiv/aktiv)**  
+  → Beide Netzteile arbeiten gleichzeitig und teilen sich die Last
+- **Active-Passive (aktiv/passiv)**  
+  → Nur eins ist aktiv, das zweite springt **erst bei Ausfall** ein
+
+#### ✅ Vorteile:
+
+- Schutz vor **defektem Netzteil**
+- Kein manueller Eingriff nötig
+- **Wartung ohne Shutdown** möglich
+
+---
+
+### Hotswap
+![image-98.png](/img/user/02%20-%20RESOURCES/Files/image-98.png)
+
+> [[02 - RESOURCES/Notes/Server\|Server]] laufen oft **tagelang oder wochenlang** ohne Pause.  
+> Trotzdem kann Hardware kaputt gehen.  
+> → Mit **Hotswap** kann man sie **im laufenden Betrieb austauschen.**
+
+- Bedeutet: Du tauschst defekte Hardware **ohne Herunterfahren**
+- Beispiele: **Festplatten**, **Netzteile**, **Netzwerkkarten (NICs)**
+- Häufig in Kombination mit **Redundanz**, z. B. 2 Netzteile → eins bleibt aktiv
+
+#### ✅ Vorteile:
+
+- **Keine Downtime**
+- **Schneller Austausch**
+- Nützlich bei Wartung oder Notfällen
+
+
+
+### 🔍 Vergleich: Redundanz vs. Hotswap
+
+| Merkmal                   | Redundante Stromversorgung             | Hotswap                                      |
+| ------------------------- | -------------------------------------- | -------------------------------------------- |
+| **Ziel**                  | Ausfall **verhindern**                 | Austausch **im Betrieb** ermöglichen         |
+| **Betrifft**              | Vor allem **Netzteile**                | Verschiedene Hardware: HDDs, Netzteile, NICs |
+| **Funktionsweise**        | Zwei Netzteile, einer aktiv/alle aktiv | Hardware wird live gezogen/ersetzt           |
+| **Voraussetzung für ...** | Kann **Hotswap ermöglichen**           | **Benötigt oft Redundanz**                   |
+| **Vorteil**               | Kein Stromausfall                      | Kein Neustart nötig                          |
+| **Einsatzgebiet**         | Rechenzentren, produktive Server       | Rechenzentren, Hochverfügbarkeit             |
+
+> Du kannst sagen: **Redundanz schützt** – **Hotswap repariert im Betrieb**
+
+
+## USV – Schutz vor Stromausfall
+![image-99.png](/img/user/02%20-%20RESOURCES/Files/image-99.png)
+
+> Eine **USV (Unterbrechungsfreie Stromversorgung)** schützt den [[Serverraum\|Serverraum]] bei Stromproblemen.  
+> Sie springt ein, wenn der **externe Strom wegfällt** – für ein paar Minuten bis zur sicheren Abschaltung oder Umschaltung auf Notstrom.
+
+- Überwacht die **Stromversorgung rund um die Uhr**
+- Schützt vor **Spannungsspitzen**, **Kurzunterbrechungen** oder **kompletten Stromausfällen**
+- Viele Systeme führen automatisch einen **sicheren Shutdown** aus, wenn die USV anspringt
+- USVs können Berichte generieren und über eine **Konsole überwacht** werden
+
+#### ✅ Vorteile:
+
+- Verhindert **Datenverlust** bei plötzlichem Stromausfall
+- Gibt Zeit für automatische oder manuelle Reaktion
+- Ideal in Kombination mit Redundante Stromversorgung und Hotswap
+
+
+
+## Server-Kühlung
+![image-100.png](/img/user/02%20-%20RESOURCES/Files/image-100.png)
+
+> Du weißt bestimmt, dass Maschinen mit der Zeit heiß werden –  
+> vor allem durch Strom und die aktiven Hardwarekomponenten.  
+> Jetzt stell dir mal eine **Super-Maschine** vor, die **24/7** läuft und extrem viel Strom verbraucht.  
+> Yeah... **this shit gets hot** 😉.
+
+Um **Defekte** und **Probleme** zu vermeiden, muss der Serverraum **ständig gekühlt** werden –  
+selbst im Sommer 😆.
+
+Die Kühlung erfolgt meistens über **Klimaanlagen**, aber es gibt bestimmte Maßnahmen, die zusätzlich beachtet werden müssen:
+
+---
+
+### Shrouds
+> Das sind Luftkanäle im Gehäuse, durch die die Luft **gezielt** gelenkt wird.  
+> Sie bestehen meist aus Kunststoff und sorgen dafür, dass **die gesamte Hardware** gekühlt wird.  
+> Besonders wichtig gegen sogenannte **Dead Spots** – das sind Stellen im Gehäuse, wo **keine Luft** hinkommt.
+
+---
+
+### Raumkühlung – Regeln
+> Auch der Raum selbst muss richtig organisiert sein – sonst bringt die beste Klimaanlage nichts.
+
+- [[02 - RESOURCES/Notes/Server\|Server]] sollten **alle in die gleiche Richtung** stehen  
+  → So behindern sie sich **nicht gegenseitig** beim Luftstrom
+- **Kalte Luft sinkt**, **warme Luft steigt**  
+  → Klimaanlage bzw. Kaltluftzufuhr gehört **nach oben**
+- Warmluft sollte **nach oben abziehen** können, z. B. durch Abluftkanäle
+
+> Ohne richtige Kühlung = 🔥💻 = 💀
