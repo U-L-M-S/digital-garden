@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ssd/","tags":["speicher","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-07-13T21:52:36.387+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ssd/","tags":["speicher","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-07-13T21:52:36.000+02:00"}
 ---
 
 

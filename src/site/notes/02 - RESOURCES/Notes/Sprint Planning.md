@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sprint-planning/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2025-07-12T13:31:41.317+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sprint-planning/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
 ---
 
 >Es ist das Treffen zu Beginn eines Sprints, bei dem das Team festlegt, welche Aufgaben aus dem **[[02 - RESOURCES/Notes/Product Backlog\|Product Backlog]]** im kommenden [[02 - RESOURCES/Notes/Sprint\|Sprint]] bearbeitet werden sollen.

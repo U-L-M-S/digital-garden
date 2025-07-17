@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-abstrakte-klasse/","tags":["code/java","code/OOP/vererbung"],"noteIcon":"","updated":"2025-07-12T13:31:41.301+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-abstrakte-klasse/","tags":["code/java","code/OOP/vererbung"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
 ---
 
 >Es ist eine [[02 - RESOURCES/Notes/Java klasse\|Java klasse]], die nicht initialisiert werden kann.

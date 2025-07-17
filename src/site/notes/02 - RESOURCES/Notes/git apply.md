@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/git-apply/","tags":["git"],"noteIcon":"","updated":"2025-07-12T13:31:41.327+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/git-apply/","tags":["git"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
 ---
 
 >git apply` ist ein Git-Befehl, um Änderungen aus einer `.diff`- oder `.patch`-Datei in das Arbeitsverzeichnis einzufügen – **ohne einen Commit zu erzeugen**.

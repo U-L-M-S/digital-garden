@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/egp/","tags":["netzwerk"],"noteIcon":"","updated":"2025-07-12T13:31:41.294+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/egp/","tags":["netzwerk"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
 ---
 
 > Exterior [[02 - RESOURCES/Notes/Gateway\|Gateway]] Protocol

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-04-schutzbedarfsanalyse-im-eigenen-arbeitsbereich-durchfuehren/","tags":["inProgress","GFN/LF04"],"noteIcon":"","updated":"2025-07-12T13:31:41.094+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-04-schutzbedarfsanalyse-im-eigenen-arbeitsbereich-durchfuehren/","tags":["inProgress","GFN/LF04"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
 ---
 
 >[!important] 

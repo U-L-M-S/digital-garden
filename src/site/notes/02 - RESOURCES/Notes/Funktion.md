@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/funktion/","tags":["code"],"noteIcon":"","updated":"2025-07-12T13:31:41.297+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/funktion/","tags":["code"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
 ---
 
 >Es ist Block von wiederverwendbarem Code, der eine bestimmte Aufgabe ausführt.

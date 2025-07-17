@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ecc-ram/","tags":["hardware","speicher"],"noteIcon":"","updated":"2025-07-12T13:31:41.294+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ecc-ram/","tags":["hardware","speicher"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
 ---
 
 ![ECC RAM-20240617161443701.png](/img/user/02%20-%20RESOURCES/Files/IMG/ECC%20RAM-20240617161443701.png)

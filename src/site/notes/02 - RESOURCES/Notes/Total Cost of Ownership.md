@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/total-cost-of-ownership/","tags":["BWL","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-07-12T13:31:41.317+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/total-cost-of-ownership/","tags":["BWL","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
 ---
 
 >Es beschreibt die **Gesamtkosten** eines Produkts über dessen gesamte Nutzungsdauer.
