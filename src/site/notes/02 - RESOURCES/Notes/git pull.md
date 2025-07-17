@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/git-pull/","tags":["git/pull"],"noteIcon":"","updated":"2025-07-12T13:31:41.324+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/git-pull/","tags":["git/pull"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
 ---
 
 >Es funktioniert fast wie [[02 - RESOURCES/Notes/git clone\|git clone]]. Wird aber oft verwendet wenn du in Team arbeitest und das neueste Version von dein Code (das was in GitHub ist) willst.

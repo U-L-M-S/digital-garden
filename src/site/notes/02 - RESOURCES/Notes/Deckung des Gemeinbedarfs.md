@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/deckung-des-gemeinbedarfs/","tags":["BWL"],"noteIcon":"","updated":"2025-07-12T13:31:41.294+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/deckung-des-gemeinbedarfs/","tags":["BWL"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
 ---
 
 ### Deckung des Gemeinbedarfs 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datensatz/","tags":["code/SQL","datenbank"],"noteIcon":"","updated":"2025-07-12T13:31:41.294+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/datensatz/","tags":["code/SQL","datenbank"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
 ---
 
 >Es ist eine Gruppe von Daten, die zusammengehören und in einer strukturierten Form gespeichert werden. 

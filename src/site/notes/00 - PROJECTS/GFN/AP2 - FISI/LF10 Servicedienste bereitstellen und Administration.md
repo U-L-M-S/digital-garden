@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2-fisi/lf-10-servicedienste-bereitstellen-und-administration/","noteIcon":"","updated":"2025-07-17T20:47:00.532+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2-fisi/lf-10-servicedienste-bereitstellen-und-administration/","noteIcon":"","updated":"2025-07-17T21:10:37.197+02:00"}
 ---
 
 ![[Server Services and Data Management - podcast.wav]]
@@ -103,6 +103,67 @@ Außerdem kann man bis zu 4 SAS-HDDs an einen SAS-Controller anschließen.
 
 Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 
-
 # Server-Formfaktoren
->Wir haben bereits gelernt dass Server
+
+> Wir haben bereits gelernt, wie ein Server **innen** aussehen kann.  
+> Aber nicht alle Server sehen **von außen** gleich aus.  
+> Es gibt **drei Standard-Gehäuseformen** für Server.
+
+## Tower
+![image-92.png](/img/user/02%20-%20RESOURCES/Files/image-92.png)
+
+> Sehr ähnlich zu einem normalen **Desktop-PC**, wie man ihn zu Hause hat.  
+> Hat aber mehr Möglichkeiten zur Erweiterung, z. B. mit [[Riser Cards\|Riser Cards]].
+
+- Beliebt bei kleinen Unternehmen
+- **Kompakt**, **günstig** und **einfach erweiterbar**
+- Gutes **Preis-Leistungs-Verhältnis**
+
+## Rackmount
+![image-93.png](/img/user/02%20-%20RESOURCES/Files/image-93.png)
+
+> Speziell für Rechenzentren gemacht.  
+> Wird in ein standardisiertes **Rack** eingebaut und hat viele praktische Features:
+
+- Hat **Gleitschienen** und ein **aufklappbares Gehäuse** → einfacher Zugriff auf die Hardware
+- Viele Teile sind **hot-swappable** → z. B. Festplatten oder Netzteile lassen sich **im Betrieb tauschen**
+- **Mehr Platz** für Komponenten als beim Tower
+- **Bessere Organisation** → ideal für viele Server nebeneinander
+- **Teurer** als Tower, aber **platzsparender** und **effizienter**
+
+### 19" Server Rack
+![image-94.png](/img/user/02%20-%20RESOURCES/Files/image-94.png)
+
+> Ein Rack ist ein standardisiertes Gehäuse, um mehrere Server ordentlich unterzubringen.  
+> Besonders nützlich im Rechenzentrum oder Serverraum.
+
+- **19 Zoll** = Breite der **Frontblende** (entspricht **48,26 cm**) → passt in jedes standardisierte Rack
+- Die **Höhe** wird in **HE (Höheneinheiten)** gemessen  
+  → 1HE = **1,75 Zoll** = **44,45 mm**  
+  → Englisch: **U**
+- Die meisten Server brauchen **1–2 HE**
+
+> Beispiel: Ein Server mit 2HE ist **88,90 mm hoch**
+
+### Aufbau (siehe Bild)
+
+- Racks haben Löcher mit **15,88 mm Abstand** (5/8")  
+- **3 Löcher = 1 HE**
+- Befestigung mit **Schrauben** und **Käfigmuttern**
+
+## Blade 
+![image-95.png](/img/user/02%20-%20RESOURCES/Files/image-95.png)
+
+> Blade-Server bestehen aus einem Gehäuse, in das mehrere sogenannte **Server-Blades** gesteckt werden.  
+> Diese Bauform spart Platz und ist besonders modular.
+
+- Jedes **Blade** ist eine **einzelne Platine** mit CPU, RAM, Netzwerk usw.
+- Mehrere Blades werden **nebeneinander oder untereinander** ins Gehäuse eingesetzt
+- Die Verbindung läuft über die **Rückseite** → dort sitzen alle nötigen Anschlüsse
+- Das Gehäuse stellt **Strom** und **Kühlung** für alle Blades bereit
+
+> Ideal für große Rechenzentren mit vielen Servern auf engem Raum
+
+>[!note] 
+>Ja. Blade ist nicht nur Cooler. Es ist einfach die Beste von alle 3 😍.
+
