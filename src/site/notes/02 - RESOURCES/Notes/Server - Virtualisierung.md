@@ -1,27 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/server-virtualisierung/","tags":["informatik/virtualisierung"],"noteIcon":"","updated":"2025-07-18T15:58:26.195+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/server-virtualisierung/","tags":["informatik/virtualisierung"],"noteIcon":"","updated":"2025-07-18T17:09:49.119+02:00"}
 ---
 
 >Jetzt dass du [[02 - RESOURCES/Notes/Server - Grundlagen\|Server - Grundlagen]] gelernt hast. lass uns auf [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]] fokusieren.
 
 # Was ist [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]] ?
 
->>Virtualisierung: <mark style="background: #BBFABBA6;">Nachbildung eines Hardware- oder Softwareobjekts durch ein ähnliches Objekt vom selben Typ.</mark>
+> > **Virtualisierung:** <mark style="background: #BBFABBA6;">Nachbildung eines Hardware- oder Softwareobjekts durch ein ähnliches Objekt vom selben Typ.</mark>
 
-Stell dir mal vor: Du hast eine kleine [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] und und hast nur eine kleine [[02 - RESOURCES/Notes/Tower - Server\|Tower - Server]].
-Nun brauchst du jetzt 3 Servers: 1 mal für den Datenbank, 1 mal für eine Kundendiensten und 1 mal für den Devs-Tests. Was machst du ? kaufst du dir 2 anderen [[02 - RESOURCES/Notes/Tower - Server\|Tower - Server]] ? Es kostet natürlich Geld und du hast nicht viel zu verfügen. 
+Stell dir mal vor: Du hast ein kleines [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] und nur einen einzigen [[02 - RESOURCES/Notes/Tower-Server\|Tower-Server]].  
+Jetzt brauchst du aber drei [[02 - RESOURCES/Notes/Server\|Server]]: einen für die Datenbank, einen für den Kundendienst und einen für die Tests der Devs.  
+Was machst du? Kaufst du dir zwei weitere [[02 - RESOURCES/Notes/Tower-Server\|Tower-Server]]? Das kostet natürlich Geld – und davon hast du nicht viel zur Verfügung.
 
-	Du kannst einfach den Tower was du bereits hast in 3 Servers teilen und alles virtualisieren. 😊
-
+💡 Du kannst einfach den Server, den du bereits hast, in drei virtuelle [[02 - RESOURCES/Notes/Server\|Server]] aufteilen – und alles virtualisieren. 😊
 
 ## [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]] / [[02 - RESOURCES/Notes/Emulation\|Emulation]] / [[02 - RESOURCES/Notes/Simulation\|Simulation]]
 
 > 🔄 **Unterschied zu [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]] ,  [[02 - RESOURCES/Notes/Emulation\|Emulation]] und [[02 - RESOURCES/Notes/Simulation\|Simulation]]**
-> 
-> > Simulation stellt **Verhalten** nach – keine echte Ausführung oder Hardware-Umgebung.
 
 | [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]]             | [[02 - RESOURCES/Notes/Emulation\|Emulation]]                | [[02 - RESOURCES/Notes/Simulation\|Simulation]]                      |
 | ------------------------------- | ---------------------------- | ----------------------------------- |
 | Echte Ausführung auf echter CPU | Nachbildung fremder Hardware | Nachbildung des **Verhaltens**      |
 | Sehr schnell (nativ)            | Langsam (wegen Übersetzung)  | Geschwindigkeit variabel            |
 | Beispiel: VMware, KVM           | Beispiel: QEMU, Yuzu         | Beispiel: GNS3, Flugsimulator, NS-3 |
+
+# Gründe für [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]]

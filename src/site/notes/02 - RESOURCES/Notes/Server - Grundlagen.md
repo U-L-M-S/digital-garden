@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/server-grundlagen/","noteIcon":"","updated":"2025-07-18T15:23:03.475+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/server-grundlagen/","noteIcon":"","updated":"2025-07-18T17:09:49.089+02:00"}
 ---
 
 > Bevor wir in das Thema gehen, frage ich dich: Was ist ein [[02 - RESOURCES/Notes/Server\|Server]]? Was macht er?
