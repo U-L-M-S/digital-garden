@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/virtualisierung/","tags":["informatik/virtualisierung"],"noteIcon":"","updated":"2025-07-18T15:12:25.038+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/virtualisierung/","tags":["informatik/virtualisierung"],"noteIcon":"","updated":"2025-07-18T15:57:42.010+02:00"}
 ---
 
 > Erstellen einer **virtuellen Umgebung** (z.B. virtuelle Maschinen) auf echter Hardware. Mehrere virtuelle Systeme können parallel auf einem physischen Rechner laufen.
@@ -7,7 +7,7 @@
 > [!note] Was kann virtualisiert werden?
 > 
 > - **Server** (z.B. Webserver, Datenbankserver)
-> - **Netzwerke** (z.B. VLAN, virtuelle Switches)
+> - **Netzwerke** (z.B. [[02 - RESOURCES/Notes/VLAN\|VLAN]], virtuelle Switches)
 > - **Speicher** (z.B. virtueller Speicher, Storage-Pools)
 > - **Desktops** (z.B. Remote-Desktop, VDI)
 
@@ -19,16 +19,16 @@
 > - **Snapshots & Backups** einfacher möglich
 
 ---
-
-> 🔄 **Unterschied Virtualisierung vs. Emulation**
+> 🔄 **Unterschied zu [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]] und [[02 - RESOURCES/Notes/Emulation\|Emulation]]**
 > 
-> > Beide erzeugen eine virtuelle Umgebung, aber:
+> > Simulation stellt **Verhalten** nach – keine echte Ausführung oder Hardware-Umgebung.
 
-|Virtualisierung|Emulation|
-|---|---|
-|Virtuelle Systeme nutzen die echte CPU|CPU und Hardware werden **nachgebildet**|
-|Läuft fast wie ein echtes System (nativ)|Deutlich langsamer, da „alles simuliert“ wird|
-|Beispiel: VMware, Hyper-V, KVM|Beispiel: QEMU, Retro-Game-Emulatoren|
+| [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]]             | [[02 - RESOURCES/Notes/Emulation\|Emulation]]                | [[02 - RESOURCES/Notes/Simulation\|Simulation]]                      |
+| ------------------------------- | ---------------------------- | ----------------------------------- |
+| Echte Ausführung auf echter CPU | Nachbildung fremder Hardware | Nachbildung des **Verhaltens**      |
+| Sehr schnell (nativ)            | Langsam (wegen Übersetzung)  | Geschwindigkeit variabel            |
+| Beispiel: VMware, KVM           | Beispiel: QEMU, Yuzu         | Beispiel: GNS3, Flugsimulator, NS-3 |
+
 
 ---
 
