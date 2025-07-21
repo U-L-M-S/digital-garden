@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/server-grundlagen/","noteIcon":"","updated":"2025-07-18T17:09:49.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/server-grundlagen/","noteIcon":"","updated":"2025-07-21T11:09:37.287+02:00"}
 ---
 
 > Bevor wir in das Thema gehen, frage ich dich: Was ist ein [[02 - RESOURCES/Notes/Server\|Server]]? Was macht er?
@@ -105,7 +105,7 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 > Aber nicht alle Server sehen **von außen** gleich aus.  
 > Es gibt **drei Standard-Gehäuseformen** für Server.
 
-## 
+## Tower 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/tower-server/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -124,7 +124,7 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 </div></div>
 
 
-## 
+## Rackmount 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/rackmount-server/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -142,12 +142,46 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 - **Teurer** als Tower, aber **platzsparender** und **effizienter**
 
 
- ![[19" Server Rack\|19" Server Rack]]
+## 19" Server Rack 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/19-22-server-rack/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# 19" Server Rack
+
+</div>
+
+
+
+
+![image-94.png](/img/user/02%20-%20RESOURCES/Files/image-94.png)
+
+> Ein Rack ist ein standardisiertes Gehäuse, um mehrere Server ordentlich unterzubringen.  
+> Besonders nützlich im Rechenzentrum oder Serverraum.
+
+- **19 Zoll** = Breite der **Frontblende** (entspricht **48,26 cm**) → passt in jedes standardisierte Rack
+- Die **Höhe** wird in **HE (Höheneinheiten)** gemessen  
+  → 1HE = **1,75 Zoll** = **44,45 mm**  
+  → Englisch: **U**
+- Die meisten Server brauchen **1–2 HE**
+
+> Beispiel: Ein Server mit 2HE ist **88,90 mm hoch**
+
+### Aufbau (siehe Bild)
+
+- Racks haben Löcher mit **15,88 mm Abstand** (5/8")  
+- **3 Löcher = 1 HE**
+- Befestigung mit **Schrauben** und **Käfigmuttern**
+
+
+</div></div>
+
+ 
 
 </div></div>
 
 
-## 
+## Blade 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/blade/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
