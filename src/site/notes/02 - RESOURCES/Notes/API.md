@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/api/","tags":["tools","code"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/api/","tags":["tools","code"],"noteIcon":"","updated":"2025-07-21T10:00:24.661+02:00"}
 ---
 
 >Application Programming Interfaces
@@ -27,3 +27,12 @@ if response.status_code == 200:
 else:
     print("Error fetching the weather data.")
 ```
+
+## Protokollen
+>Es kann variieren, aber oft werden [[02 - RESOURCES/Notes/HTTP\|HTTP]], [[02 - RESOURCES/Notes/FTP\|FTP]] und SOAP verwendet.
+
+## Datenformat
+>Unterschiedlich aber meinst in XML und CSV
+
+## Struktur
+> Es hat keine Struktur wie bei [[02 - RESOURCES/Notes/REST API#Struktur\|REST API#Struktur]].
