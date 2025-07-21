@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/server-grundlagen/","noteIcon":"","updated":"2025-07-21T11:12:39.137+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/server-grundlagen/","noteIcon":"","updated":"2025-07-21T11:17:51.391+02:00"}
 ---
 
 > Bevor wir in das Thema gehen, frage ich dich: Was ist ein [[02 - RESOURCES/Notes/Server\|Server]]? Was macht er?
@@ -292,7 +292,7 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 ## [[02 - RESOURCES/Notes/USV\|USV]] – Schutz vor Stromausfall
 ![image-99.png](/img/user/02%20-%20RESOURCES/Files/image-99.png)
 
-> Eine **[[02 - RESOURCES/Notes/USV\|USV]] (Unterbrechungsfreie Stromversorgung)** schützt den [[Serverraum\|Serverraum]] bei Stromproblemen.  
+> Eine **[[02 - RESOURCES/Notes/USV\|USV]] (Unterbrechungsfreie Stromversorgung)** schützt den Serverraum bei Stromproblemen.  
 > Sie springt ein, wenn der **externe Strom wegfällt** – für ein paar Minuten bis zur sicheren Abschaltung oder Umschaltung auf Notstrom.
 
 - Überwacht die **Stromversorgung rund um die Uhr**
