@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/server-grundlagen/","noteIcon":"","updated":"2025-07-21T11:09:37.287+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/server-grundlagen/","noteIcon":"","updated":"2025-07-21T11:12:39.137+02:00"}
 ---
 
 > Bevor wir in das Thema gehen, frage ich dich: Was ist ein [[02 - RESOURCES/Notes/Server\|Server]]? Was macht er?
@@ -229,7 +229,7 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 > Aber was passiert, wenn **ein Netzteil kaputt geht** oder **ausgesteckt wird**?  
 > → Genau dafür gibt es **Redundante Stromversorgung** – **nicht** für Stromausfälle im Gebäude!
 
-- [[02 - RESOURCES/Notes/Server\|Server]] haben oft **zwei Netzteile**
+- [[02 - RESOURCES/Notes/Server\|Server]] haben oft **zwei Netzteile** oder besser gesagt: zwei [[02 - RESOURCES/Notes/Stromkreis\|Stromkreis]]en
 - Wenn eins ausfällt, übernimmt das andere **nahtlos**
 - Ziel: **Keine Unterbrechung**, kein Neustart
 
