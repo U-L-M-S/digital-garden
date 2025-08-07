@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ausbildung-kuendigung/","tags":["GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ausbildung-kuendigung/","tags":["GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-08-07T11:07:39.151+02:00"}
 ---
 
 ## Kündigung 
 > Es gibt 2 Kündigungsmöglichkeiten. 
-> - Kündigung während die [[02 - RESOURCES/Notes/Probezeit\|Probezeit]] 
-> - Kündigung nach den [[02 - RESOURCES/Notes/Probezeit\|Probezeit]] 
+> - Kündigung während der [[02 - RESOURCES/Notes/Probezeit\|Probezeit]] 
+> - Kündigung nach der [[02 - RESOURCES/Notes/Probezeit\|Probezeit]] 
 
 > [!important] 
 > Du muss  nur verstehen, dass sobald man während die [[02 - RESOURCES/Notes/Probezeit\|Probezeit]] nicht gekündigt wird, wird man nicht so einfach rausgeschmissen und egal was passiert, passiert diese immer in eine schriftlich Form. 

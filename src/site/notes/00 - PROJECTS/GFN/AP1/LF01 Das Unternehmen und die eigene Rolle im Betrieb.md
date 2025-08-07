@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-08-07T11:22:44.877+02:00"}
 ---
 
 >[!important] 
@@ -30,7 +30,7 @@ Bevor die Ausbildung beginnt ist es wichtig, dass der [[02 - RESOURCES/Notes/Aus
 ## [[02 - RESOURCES/Notes/Betriebsrat\|Betriebsrat]]
 
 ### Begriffen
-Du muss in der Lager sein zu unterscheiden: [[02 - RESOURCES/Notes/Firma\|Firma]],  [[02 - RESOURCES/Notes/Betrieb\|Betrieb]] und [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]. 
+Du muss in der Lage sein zu unterscheiden: [[02 - RESOURCES/Notes/Firma\|Firma]],  [[02 - RESOURCES/Notes/Betrieb\|Betrieb]] und [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]. 
 ### Good to know:
 [[02 - RESOURCES/Notes/GmbH\|GmbH]]   
 [[02 - RESOURCES/Notes/eG\|eG]] 
