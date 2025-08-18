@@ -36,7 +36,7 @@ def start():
 
 
 
-### [[00 - PROJECTS/CSharp\|CSharp]]
+### [[CSharp\|CSharp]]
 
 ```csharp
 void Start() {
