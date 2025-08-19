@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-08-19T19:43:27.116+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -12,6 +12,10 @@
 ![[22.01.2024_PRV_ Freiburg_FIAE_Stand 06.02.2025.pdf]]
 
 Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-L-M-S/digital-garden) pushen.
+
+
+[[02 - RESOURCES/Notes/Katila\|Katila]]
+
 
 >[!important] 
 >Dokumente wie PDF, World usw (Textdokumente) 
