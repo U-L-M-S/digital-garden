@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ausbildung-kuendigung/","tags":["GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-08-07T11:07:39.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ausbildung-kuendigung/","tags":["GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-08-07T11:07:39.151+02:00"}
 ---
 
 ## Kündigung 

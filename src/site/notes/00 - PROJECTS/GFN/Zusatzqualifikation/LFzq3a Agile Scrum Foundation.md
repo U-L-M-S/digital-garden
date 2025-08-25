@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2025-08-18T23:21:33.599+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Scrum\|Scrum]].
@@ -88,6 +88,7 @@ Diese drei sind die wichtigen Elemente für das Endprodukt und übernehmen daher
 ### [[02 - RESOURCES/Notes/Scrum Master\|Scrum Master]]
 > [[02 - RESOURCES/Notes/Scrum Master\|Scrum Master]] hat nicht die Aufgabe die Entwickler als auch die Organisation  zu unterstützen um den Produkt zu beenden. 
 > Seine Aufgabe ist nur den Team das Scrum einzuführen damit die Frameworks richtig eingesetzt werden.
+
 
 
 
