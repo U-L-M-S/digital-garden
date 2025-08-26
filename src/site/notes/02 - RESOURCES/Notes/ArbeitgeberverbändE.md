@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/02-resources/notes/arbeitgeberverbaend-e/","tags":["arbeitsrecht/organisation","tarifverhandlung"],"noteIcon":"","updated":"2025-08-26T16:35:24.785+02:00"}
+---
+
+>Zusammenschluss von Unternehmen zur gemeinsamen Interessenvertretung, besonders bei Tarifverhandlungen.
+>>Gegenstück zu [[02 - RESOURCES/Notes/Gewerkschaften\|Gewerkschaften]] - verhandeln auf Augenhöhe über Arbeitsbedingungen.

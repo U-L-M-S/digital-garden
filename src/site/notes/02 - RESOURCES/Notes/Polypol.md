@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/polypol/","tags":["BWL"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/polypol/","tags":["markt/struktur"],"noteIcon":"","updated":"2025-08-26T16:28:52.286+02:00"}
 ---
 
->Viele Anbieter und viele Nachfrager
+>Markt mit vielen Anbietern und vielen Nachfragern.
+>>Ideale Wettbewerbssituation - Gegensatz zu [[02 - RESOURCES/Notes/Monopol\|Monopol]] und [[02 - RESOURCES/Notes/Oligopol\|Oligopol]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk/","tags":["netzwerk"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk/","tags":["netzwerk"],"noteIcon":"","updated":"2025-08-26T16:35:06.229+02:00"}
 ---
 
 >Es ist eine Gruppe von miteinander verbundenen Computern und anderen Geräten, die Daten und Ressourcen gemeinsam nutzen können. 

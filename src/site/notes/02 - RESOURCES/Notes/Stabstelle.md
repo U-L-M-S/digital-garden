@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/02-resources/notes/stabstelle/","tags":["organisation/beratung"],"noteIcon":"","updated":"2025-08-26T16:35:24.626+02:00"}
+---
+
+>Beratende Position ohne Weisungsbefugnis, unterstützt [[02 - RESOURCES/Notes/Instanz\|Instanz]]en.
+>>Fachliche Unterstützung - hat Einfluss aber keine formale Macht wie [[02 - RESOURCES/Notes/Instanz\|Instanz]]en.
