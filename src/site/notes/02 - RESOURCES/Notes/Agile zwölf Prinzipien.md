@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/agile-zwoelf-prinzipien/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/agile-zwoelf-prinzipien/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2025-08-26T16:35:01.627+02:00"}
 ---
 
 Das sind die Hauptprinzipien, die das [[02 - RESOURCES/Notes/Agilitätsprinzip\|Agilitätsprinzip]] ausmachen.

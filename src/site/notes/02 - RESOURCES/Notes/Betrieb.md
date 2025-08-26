@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/betrieb/","tags":["BWL","#GFN/LF01"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/betrieb/","tags":["BWL","#GFN/LF01"],"noteIcon":"","updated":"2025-08-26T16:35:02.444+02:00"}
 ---
 
 ## Betrieb 

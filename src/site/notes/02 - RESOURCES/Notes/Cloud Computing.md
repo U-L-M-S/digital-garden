@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/cloud-computing/","noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/cloud-computing/","noteIcon":"","updated":"2025-08-26T16:35:02.877+02:00"}
 ---
 
 > Bereitstellung von IT-Ressourcen über das [[02 - RESOURCES/Notes/Internet\|Internet]] ([[02 - RESOURCES/Notes/Server\|Server]], Speicher, [[02 - RESOURCES/Notes/Software\|Software]]). Nutzer zahlen nur, was sie verbrauchen.

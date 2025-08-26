@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/19-22-server-rack/","tags":["hardware/server"],"noteIcon":"","updated":"2025-07-18T15:22:39.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/19-22-server-rack/","tags":["hardware/server"],"noteIcon":"","updated":"2025-08-26T16:35:01.048+02:00"}
 ---
 
 

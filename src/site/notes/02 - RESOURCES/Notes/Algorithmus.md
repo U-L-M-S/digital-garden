@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/algorithmus/","tags":["algorithmus","code/algorithmus"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/algorithmus/","tags":["algorithmus","code/algorithmus"],"noteIcon":"","updated":"2025-08-26T16:35:01.647+02:00"}
 ---
 
 >Ein **Algorithmus** ist eine<mark style="background: #FFF3A3A6;"> endliche, klare und präzise Folge</mark> von Anweisungen oder Schritten, die ausgeführt werden, um ein bestimmtes Problem zu lösen oder eine Aufgabe zu erfüllen. 

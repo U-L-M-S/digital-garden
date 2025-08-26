@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sync/","tags":["code/java","code/python","code/CSharp"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sync/","tags":["code/java","code/python","code/CSharp"],"noteIcon":"","updated":"2025-08-26T16:35:08.002+02:00"}
 ---
 
 >Schritte laufen nacheinander (nicht gleichzeitig)
@@ -36,7 +36,7 @@ def start():
 
 
 
-### [[00 - PROJECTS/CSharp\|CSharp]]
+### [[CSharp\|CSharp]]
 
 ```csharp
 void Start() {

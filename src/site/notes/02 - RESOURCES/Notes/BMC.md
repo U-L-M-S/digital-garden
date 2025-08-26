@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bmc/","tags":["hardware/server"],"noteIcon":"","updated":"2025-08-25T09:44:14.732+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bmc/","tags":["hardware/server"],"noteIcon":"","updated":"2025-08-26T16:35:02.685+02:00"}
 ---
 
 ## BMC

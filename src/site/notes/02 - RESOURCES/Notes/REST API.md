@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rest-api/","tags":["code","tools"],"noteIcon":"","updated":"2025-07-21T10:15:23.508+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/rest-api/","tags":["code","tools"],"noteIcon":"","updated":"2025-08-26T16:35:07.224+02:00"}
 ---
 
 Representational State Transfer – [[02 - RESOURCES/Notes/API\|API]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wlan/","tags":["netzwerk/wifi","GFN/LF09"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wlan/","tags":["netzwerk/wifi","GFN/LF09"],"noteIcon":"","updated":"2025-08-26T16:35:09.182+02:00"}
 ---
 
 >Wireless [[02 - RESOURCES/Notes/LAN\|LAN]]
