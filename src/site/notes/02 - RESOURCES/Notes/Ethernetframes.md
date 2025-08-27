@@ -4,4 +4,4 @@
 
 
 **Ethernetframes** - Datenrahmen des [[02 - RESOURCES/Notes/Ethernet\|Ethernet]]-Protokolls.
-Enthalten [[02 - RESOURCES/Notes/MAC-Adresse\|MAC-Adresse]]n, [[02 - RESOURCES/Notes/EtherType\|EtherType]] und Nutzdaten - Grundeinheit der [[02 - RESOURCES/Notes/LAN\|LAN]]-Kommunikation.
+Enthalten [[MAC-Adresse\|MAC-Adresse]]n, [[02 - RESOURCES/Notes/EtherType\|EtherType]] und Nutzdaten - Grundeinheit der [[02 - RESOURCES/Notes/LAN\|LAN]]-Kommunikation.

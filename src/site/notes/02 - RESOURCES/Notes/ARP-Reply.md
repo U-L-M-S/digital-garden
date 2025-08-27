@@ -3,5 +3,5 @@
 ---
 
 
-**ARP-Reply** - [[02 - RESOURCES/Notes/Unicast\|Unicast]]-Antwort mit der gesuchten [[02 - RESOURCES/Notes/MAC-Adresse\|MAC-Adresse]].
+**ARP-Reply** - [[02 - RESOURCES/Notes/Unicast\|Unicast]]-Antwort mit der gesuchten [[MAC-Adresse\|MAC-Adresse]].
 Zweite Phase des [[02 - RESOURCES/Notes/arp\|ARP]] - direkte Antwort "Ich habe diese IP, meine MAC ist X".

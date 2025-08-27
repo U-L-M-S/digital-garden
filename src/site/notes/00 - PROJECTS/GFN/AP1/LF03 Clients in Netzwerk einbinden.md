@@ -131,7 +131,7 @@ Stell dir vor, du schickst einen Brief ins Ausland. Verschiedene Personen/System
 
 Das ist das "Grundgesetz" für [[02 - RESOURCES/Notes/LAN\|LAN]]-Kommunikation. Daten werden in [[02 - RESOURCES/Notes/Ethernetframes\|Ethernetframes]] verpackt mit:
 
-- [[02 - RESOURCES/Notes/MAC-Adresse\|MAC-Adresse]] (Absender/Empfänger)
+- [[MAC-Adresse\|MAC-Adresse]] (Absender/Empfänger)
 - [[02 - RESOURCES/Notes/EtherType\|EtherType]] (Welches Protokoll?)
 - Nutzdaten
 - [[02 - RESOURCES/Notes/Prüfsumme\|Prüfsumme]]
@@ -160,16 +160,16 @@ Wie Hausnummern für Programme:
 
 Ein [[02 - RESOURCES/Notes/Switch\|Switch]] ist wie ein intelligenter Postbote, der sich merkt, wer wo wohnt:
 
-### [[02 - RESOURCES/Notes/MAC-Adresse\|MAC-Adresse]]n lernen
+### [[MAC-Adresse\|MAC-Adresse]]n lernen
 
-1. **Lernen**: [[02 - RESOURCES/Notes/Switch\|Switch]] merkt sich, über welchen Port welche [[02 - RESOURCES/Notes/MAC-Adresse\|MAC-Adresse]] erreichbar ist
+1. **Lernen**: [[02 - RESOURCES/Notes/Switch\|Switch]] merkt sich, über welchen Port welche [[MAC-Adresse\|MAC-Adresse]] erreichbar ist
 2. **Weiterleiten**: Bekannte Adressen werden direkt weitergeleitet
 3. **Fluten**: Unbekannte Adressen werden an alle Ports gesendet ([[02 - RESOURCES/Notes/Broadcast\|Broadcast]])
 4. **Altern**: Alte Einträge werden gelöscht
 
 ### [[02 - RESOURCES/Notes/arp\|ARP]] (Address Resolution Protocol)
 
-Wie findet man die [[02 - RESOURCES/Notes/MAC-Adresse\|MAC-Adresse]] zu einer [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]]?
+Wie findet man die [[MAC-Adresse\|MAC-Adresse]] zu einer [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]]?
 
 - [[02 - RESOURCES/Notes/ARP-Request\|ARP-Request]]: "Wer hat IP 192.168.1.10?" ([[02 - RESOURCES/Notes/Broadcast\|Broadcast]])
 - [[02 - RESOURCES/Notes/ARP-Reply\|ARP-Reply]]: "Ich! Meine MAC ist XX:XX:XX:XX:XX:XX" ([[02 - RESOURCES/Notes/Unicast\|Unicast]])

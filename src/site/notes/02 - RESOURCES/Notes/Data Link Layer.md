@@ -4,4 +4,4 @@
 
 
 **Data Link Layer (Schicht 2)** - Rahmenbildung und lokale Adressierung im [[02 - RESOURCES/Notes/OSI-Schichtenmodell\|OSI-Schichtenmodell]].
-[[02 - RESOURCES/Notes/Switch\|Switch]]es und [[02 - RESOURCES/Notes/MAC-Adresse\|MAC-Adresse]]n arbeiten hier - sorgt für fehlerfreie Übertragung im [[02 - RESOURCES/Notes/LAN\|LAN]].
+[[02 - RESOURCES/Notes/Switch\|Switch]]es und [[MAC-Adresse\|MAC-Adresse]]n arbeiten hier - sorgt für fehlerfreie Übertragung im [[02 - RESOURCES/Notes/LAN\|LAN]].
