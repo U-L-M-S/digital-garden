@@ -1,29 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/firewall/","tags":["netzwerk/firewall","hardware/information"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/firewall/","tags":["netzwerk/firewall","hardware/information"],"noteIcon":"","updated":"2025-08-27T16:48:12.665+02:00"}
 ---
 
 > Eine Firewall schützt ein [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] oder System, indem sie **Datenpakete** filtert und nur bestimmte Verbindungen zulässt oder blockiert.
 
 ---
 
-> [!note] **Arten von Firewalls**
+# Arten von Firewalls
 
-### **Packet Filter Firewall**
+## **Packet Filter Firewall**
 
 > Filtert nach **Quell-/Ziel-IP**, **Port** und **Protokoll**.  
 > Arbeitet auf **OSI-Schicht 3 (Netzwerk)** und **4 (Transport)**.
 
-### **Stateful Inspection Firewall**
+## **Stateful Inspection Firewall**
 
 > Erkennt den **Zustand von Verbindungen** (z.B. ob die Verbindung „erlaubt“ ist oder nicht).  
 > Mehr Sicherheit als Packet Filter, da Verbindungsstatus geprüft wird.
 
-### **Application Firewall (Layer 7)**
+## **Application Firewall (Layer 7)**
 
 > Prüft auch den **Anwendungsdatenverkehr** (z.B. HTTP, FTP) und blockiert verdächtige Inhalte.  
 > Arbeitet auf **OSI-Schicht 7 (Anwendungsschicht)**.
 
-### **WAF (Web Application Firewall)**
+## **WAF (Web Application Firewall)**
 
 > Spezielle Firewall für **Webanwendungen** (z.B. Schutz vor [[SQL-Injection\|SQL-Injection]], [[XSS\|XSS]]).  
 > Wird oft vor Webservern eingesetzt.
@@ -35,7 +35,6 @@
 > - **WAF = Spezialfall für Web-Apps**
 
 ---
-Hier kommt die Vergleichstabelle für dich im Markdown-Stil:
 
 | Art                          | OSI-Schicht   | Was prüft sie?                        | Besonderheit                       |
 | ---------------------------- | ------------- | ------------------------------------- | ---------------------------------- |

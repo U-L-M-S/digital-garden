@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["GFN/LF02","inProgress","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-08-27T15:22:40.711+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["GFN/LF02","inProgress","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-08-27T16:40:47.662+02:00"}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
@@ -937,10 +937,10 @@ HKS = (Handlungskosten × 100) / [[Wareneinsatz\|Wareneinsatz]]
 
 > Ein [[Vertrag\|Vertrag]] ist eine Abmachung zwischen mindestens zwei Parteien, die ihre Pflichten regelt.
 
-### [[Formvorschrift\|Formvorschrift]]:
+### Formvorschrift:
 
 - Verträge müssen in vorgeschriebener Form geschlossen werden
-- Andernfalls sind sie [[nichtig\|nichtig]]
+- Andernfalls sind sie nichtig
 
 ### [[Nichtige Verträge\|Nichtige Verträge]]:
 
@@ -959,7 +959,7 @@ Können angefochten werden und werden rückwirkend unwirksam bei:
 - [[Falsche Übermittlung\|Falsche Übermittlung]] (§ 120 BGB)
 - [[Arglistige Täuschung\|Arglistige Täuschung]] oder [[Drohung\|Drohung]] (§ 123 BGB)
 
-## Wichtige [[Vertragsarten\|Vertragsarten]]:
+## Wichtige Vertragsarten:
 
 - **[[Kaufvertrag\|Kaufvertrag]]** (§ 433 BGB) - Verkäufer übergibt Sache, Käufer zahlt
 - **[[Verbrauchsgüterkauf\|Verbrauchsgüterkauf]]** (§ 13 BGB) - Käufer ist Verbraucher, Schutzvorschriften
