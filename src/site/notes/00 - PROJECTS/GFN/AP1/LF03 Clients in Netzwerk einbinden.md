@@ -1,12 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-03-clients-in-netzwerk-einbinden/","tags":["inProgress","netzwerk","GFN/LF03"],"noteIcon":"","updated":"2025-08-26T21:44:16.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-03-clients-in-netzwerk-einbinden/","tags":["inProgress","netzwerk","GFN/LF03"],"noteIcon":"","updated":"2025-08-27T15:22:56.548+02:00"}
 ---
 
-> Dieses Lernfeld ist eine Erweiterung von [[00 - PROJECTS/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]].
-> 
-> > Hier werden wir das Thema [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] nun etwas tiefer behandeln.
-
-> [!important] Diese Zusammenfassung ist noch nicht vollständig. Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen. Das ist eine Zusammenfassung bei den, du lernen wirst die Grundlage von [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] so wie die Grundlage von [[02 - RESOURCES/Notes/elektrische Strom\|elektrische Strom]] und [[02 - RESOURCES/Notes/elektrische Spannung\|elektrische Spannung]].
+> Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
 
 # I. Einführung in das Netzwerk
 
