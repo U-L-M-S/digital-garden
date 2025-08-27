@@ -561,7 +561,7 @@ Das [[02 - RESOURCES/Notes/EVA-Prinzip\|EVA-Prinzip]] besteht aus drei grundlege
 - [[Kostenersparnis\|Kostenersparnis]]
 - [[Skalierbarkeit\|Skalierbarkeit]]
 - Einfache [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]]
-- Unterstützung von [[BYOD\|BYOD]]
+- Unterstützung von [[02 - RESOURCES/Notes/BYOD\|BYOD]]
 - [[Remote-Arbeit\|Remote-Arbeit]] möglich
 
 **Nachteile:**

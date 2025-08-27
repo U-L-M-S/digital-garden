@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["GFN/LF08","code/java","inProgress"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["GFN/LF08","code/java","inProgress"],"noteIcon":"","updated":"2025-08-27T15:07:16.014+02:00"}
 ---
 
 >[!important] 
@@ -33,7 +33,6 @@ Als nächste soll man verstehen was den Begriff [[02 - RESOURCES/Notes/GUI\|GUI]
 # V. Anwendungen in Java implementieren
 In diesem Kapitel geht es nur um [[02 - RESOURCES/Notes/Java\|Java]].
 ___
-
 
 # VI. Anwendungen in Python implementieren
 In diesem Kapitel geht es nur um [[02 - RESOURCES/Notes/Python\|Python]].

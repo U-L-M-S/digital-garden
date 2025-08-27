@@ -153,7 +153,7 @@
 	- Was? 
 	- Warum?
 	- End to End
--  [[00 - PROJECTS/Firewall\|Firewall]]
+-  [[02 - RESOURCES/Notes/Firewall\|Firewall]]
 	- Arten 
 - Befehlen 
 	- [[02 - RESOURCES/Notes/ping\|ping]]
@@ -187,7 +187,7 @@
 	- [[02 - RESOURCES/Notes/Integrität\|Integrität]]
 	- [[02 - RESOURCES/Notes/Verfügbarkeit\|Verfügbarkeit]]
 - 🚨 **Bedrohungen** _(Malware, [[02 - RESOURCES/Notes/Wurm\|Wurm]], [[02 - RESOURCES/Notes/Phishing\|Phishing]], [[02 - RESOURCES/Notes/Social Engineering\|Social Engineering]], [[02 - RESOURCES/Notes/Trojaner\|Trojaner]])_
-- 🔒 **Schutzmaßnahmen** _([[00 - PROJECTS/Firewall\|Firewall]], Virenschutz, Updates, [[02 - RESOURCES/Notes/Backup\|Backup]])_
+- 🔒 **Schutzmaßnahmen** _([[02 - RESOURCES/Notes/Firewall\|Firewall]], Virenschutz, Updates, [[02 - RESOURCES/Notes/Backup\|Backup]])_
 - 🔑 **Zugangssicherheit** _(Zwei-Faktor-Authentifizierung, Passwort-Policy)_
 - 🔐 **[[00 - PROJECTS/Kryptographie\|Kryptographie]]** _([[02 - RESOURCES/Notes/Symmetrische Verschlüsselung\|Symmetrische Verschlüsselung]], [[02 - RESOURCES/Notes/Asymmetrische Verschlüsselung\|Asymmetrische Verschlüsselung]], [[02 - RESOURCES/Notes/Hybride Verschlüsselung\|Hybride Verschlüsselung]])_
 - 🔒 [[02 - RESOURCES/Notes/Datenschutz\|Datenschutz]] und [[02 - RESOURCES/Notes/Datensicherheit\|Datensicherheit]] unterschied und Merkmalen

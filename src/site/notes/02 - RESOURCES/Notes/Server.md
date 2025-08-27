@@ -56,7 +56,7 @@
 
 - Fehlerbehandlung: Logs lesen, Server-Status prüfen.
 
-- Sicherheit: Updates, [[00 - PROJECTS/Firewall\|Firewall]], Zugriffskontrollen.
+- Sicherheit: Updates, [[02 - RESOURCES/Notes/Firewall\|Firewall]], Zugriffskontrollen.
 
 
 # Wichtige Begriffe

@@ -6,5 +6,5 @@
 
 [[02 - RESOURCES/Notes/WAN\|WAN]]
 [[02 - RESOURCES/Notes/LPWAN\|LPWAN]]
-[[MAN\|MAN]]
+[[02 - RESOURCES/Notes/MAN\|MAN]]
 [[02 - RESOURCES/Notes/GAN\|GAN]]

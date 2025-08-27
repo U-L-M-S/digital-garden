@@ -13,7 +13,7 @@
 | :------: | :------: | :------: | :------: |
 | 11000000 | 10101000 | 00101010 | 01100010 |
 
-mit andere Wörtern wir können 2³²(4,3 Milliarden) [[IP-Adresse\|IP-Adresse]]en haben, da  es von 0.0.0.0 bis 255.255.255.255 sein kann.
+mit andere Wörtern wir können 2³²(4,3 Milliarden) [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]]en haben, da  es von 0.0.0.0 bis 255.255.255.255 sein kann.
 Obwohl man eine [[02 - RESOURCES/Notes/static\|static]] [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]  haben kann, die meisten von denen werden durch den  [[02 - RESOURCES/Notes/DHCP\|DHCP]] [[02 - RESOURCES/Notes/Netzwerkprotokolle\|Netzwerkprotokolle]] in der [[02 - RESOURCES/Notes/Router\|Router]] vergeben (automatisch).
 
 >[!important] 
