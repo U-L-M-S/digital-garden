@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-08-27T15:53:53.591+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-08-27T15:59:58.890+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -32,10 +32,8 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 - 🟢 [[00 - PROJECTS/GFN/AP1/LF09 Netzwerke und Dienste bereitstellen\|LF09 Netzwerke und Dienste bereitstellen]] (Fertig)
 
 >[!info] Prüfungskatalog 2025 
->Lautet den [[02 - RESOURCES/Notes/AP1 Prüfungskatalog 2025\|AP1 Prüfungskatalog 2025]]. Viele Themen wurde gestrichen. Bitte Überprüft es.
-
-
->[!note] In der AP1-Prüfung kommen immer LF01 bis LF06 dran. LF07 bis LF09 sind nur ein "Nice-to-have".
+> Lautet den [[02 - RESOURCES/Notes/AP1 Prüfungskatalog 2025\|AP1 Prüfungskatalog 2025]]. Viele Themen wurde gestrichen. Bitte Überprüft es.
+> In der AP1-Prüfung kommen immer LF01 bis LF06 dran. LF07 bis LF09 sind nur ein "Nice-to-have".
 
 # AP2-relevant
 - 🔴 [[00 - PROJECTS/GFN/AP2/LF10 Benutzerschnittstellen gestalten und entwickeln\|LF10 Benutzerschnittstellen gestalten und entwickeln]] (In Progress)
