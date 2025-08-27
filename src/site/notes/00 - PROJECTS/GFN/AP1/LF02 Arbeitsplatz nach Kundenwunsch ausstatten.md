@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["GFN/LF02","inProgress","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-08-26T17:17:08.393+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["GFN/LF02","inProgress","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-08-27T15:17:34.110+02:00"}
 ---
 
 > [!important] 
@@ -38,13 +38,13 @@ Das [[02 - RESOURCES/Notes/EVA-Prinzip\|EVA-Prinzip]] besteht aus drei grundlege
 - Bessere [[Kommunikation\|Kommunikation]] durch Integration und Vernetzung
 - Höhere [[Wirtschaftlichkeit\|Wirtschaftlichkeit]] durch geringere Personal- und Sachkosten
 
-## [[Konfiguration\|Konfiguration]]
+## Konfiguration
 
-> Die [[Konfiguration\|Konfiguration]] umfasst die Gerätzusammenstellung - die Auswahl und Kombination von [[Hardwarekomponenten\|Hardwarekomponenten]] zusammen mit [[Betriebssystem\|Betriebssystem]] und [[Anwendungssoftware\|Anwendungssoftware]] für ein spezifisches [[Anwendungsgebiet\|Anwendungsgebiet]].
+> Die Konfiguration umfasst die Gerätzusammenstellung - die Auswahl und Kombination von [[Hardwarekomponenten\|Hardwarekomponenten]] zusammen mit [[Betriebssystem\|Betriebssystem]] und [[Anwendungssoftware\|Anwendungssoftware]] für ein spezifisches [[Anwendungsgebiet\|Anwendungsgebiet]].
 
-## [[Kompatibilität\|Kompatibilität]]
+## Kompatibilität
 
-> [[Kompatibilität\|Kompatibilität]] bezeichnet die Verträglichkeit von Komponenten bezüglich [[Schnittstellen\|Schnittstellen]], Funktionen und Fehlerfreiheit.
+> Kompatibilität bezeichnet die Verträglichkeit von Komponenten bezüglich [[Schnittstellen\|Schnittstellen]], Funktionen und Fehlerfreiheit.
 
 - **[[Aufwärtskompatibilität\|Aufwärtskompatibilität]]** - Vorgängerversionen funktionieren mit Nachfolgeversionen
 - **[[Abwärtskompatibilität\|Abwärtskompatibilität]]** - Neuere Komponenten funktionieren mit Vorgängerversionen
