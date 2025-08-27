@@ -31,7 +31,7 @@ Stell dir vor, in einer WG teilt jeder seine Sachen mit anderen - jeder ist glei
 
 ### [[02 - RESOURCES/Notes/Client-Server-Netzwerk\|Client-Server-Netzwerk]]
 
-In größeren Organisationen braucht man Ordnung. Hier gibt es [[02 - RESOURCES/Notes/dedizierte Server\|dedizierte Server]], die wie ein Hausmeister für bestimmte Aufgaben zuständig sind - [[02 - RESOURCES/Notes/File-Server\|File-Server]], [[02 - RESOURCES/Notes/Print-Server\|Print-Server]], [[02 - RESOURCES/Notes/Mail-Server\|Mail-Server]], [[02 - RESOURCES/Notes/DNS-Server\|DNS-Server]], usw.
+In größeren Organisationen braucht man Ordnung. Hier gibt es [[02 - RESOURCES/Notes/dedizierte Server\|dedizierte Server]], die wie ein Hausmeister für bestimmte Aufgaben zuständig sind - [[02 - RESOURCES/Notes/File-Server\|File-Server]], [[02 - RESOURCES/Notes/Print-Server\|Print-Server]], [[02 - RESOURCES/Notes/Mail-Server\|Mail-Server]], [[DNS-Server\|DNS-Server]], usw.
 
 ## Netzwerktypen nach Reichweite
 
@@ -277,7 +277,7 @@ Funktioniert ähnlich wie [[02 - RESOURCES/Notes/IPv4\|IPv4]], aber:
 
 ---
 
-> Stell dir vor, du müsstest jedem neuen Gerät im Netzwerk manuell eine [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]], [[02 - RESOURCES/Notes/Gateway\|Gateway]] und [[02 - RESOURCES/Notes/DNS-Server\|DNS-Server]] zuweisen. Bei 100 Geräten wärst du Wochen beschäftigt!
+> Stell dir vor, du müsstest jedem neuen Gerät im Netzwerk manuell eine [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]], [[02 - RESOURCES/Notes/Gateway\|Gateway]] und [[DNS-Server\|DNS-Server]] zuweisen. Bei 100 Geräten wärst du Wochen beschäftigt!
 
 ## [[02 - RESOURCES/Notes/DHCP\|DHCP]] (Dynamic Host Configuration Protocol)
 

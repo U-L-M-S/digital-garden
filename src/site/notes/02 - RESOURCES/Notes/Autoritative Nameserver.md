@@ -3,5 +3,5 @@
 ---
 
 
-**Autoritative Nameserver** - Offizielle [[02 - RESOURCES/Notes/DNS-Server\|DNS-Server]] einer bestimmten Domain.
+**Autoritative Nameserver** - Offizielle [[DNS-Server\|DNS-Server]] einer bestimmten Domain.
 Kennen die endgültige [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]] - letzte Instanz in der [[02 - RESOURCES/Notes/DNS\|DNS]]-Auflösungskette.

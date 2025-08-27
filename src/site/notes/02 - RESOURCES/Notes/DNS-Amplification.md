@@ -3,5 +3,5 @@
 ---
 
 
-**DNS-Amplification** - Missbrauch von [[02 - RESOURCES/Notes/DNS-Server\|DNS-Server]]n für verstärkte DDoS-Angriffe.
+**DNS-Amplification** - Missbrauch von [[DNS-Server\|DNS-Server]]n für verstärkte DDoS-Angriffe.
 Kleine Anfrage erzeugt große Antwort - Rate Limiting und sichere Konfiguration helfen.
