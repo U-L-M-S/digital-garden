@@ -4,4 +4,4 @@
 
 
 **PoE (Power over Ethernet)** - Stromversorgung über das LAN-Kabel.
-Ein Kabel für Daten und Energie - praktisch für [[02 - RESOURCES/Notes/Access Point\|Access Point]]s, IP-Telefone, Kameras.
+Ein Kabel für Daten und Energie - praktisch für [[Access Point\|Access Point]]s, IP-Telefone, Kameras.

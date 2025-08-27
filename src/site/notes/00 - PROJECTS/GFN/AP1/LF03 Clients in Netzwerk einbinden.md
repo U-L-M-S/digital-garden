@@ -445,7 +445,7 @@ Ein spezielles Netzwerksegment für Server, die sowohl vom [[02 - RESOURCES/Note
 
 ### Modi
 
-- [[02 - RESOURCES/Notes/Infrastrukturmodus\|Infrastrukturmodus]]: Mit [[02 - RESOURCES/Notes/Access Point\|Access Point]]
+- [[02 - RESOURCES/Notes/Infrastrukturmodus\|Infrastrukturmodus]]: Mit [[Access Point\|Access Point]]
 - [[02 - RESOURCES/Notes/Ad-Hoc-Modus\|Ad-Hoc-Modus]]: Direkte Geräteverbindung
 
 ### Sicherheit
