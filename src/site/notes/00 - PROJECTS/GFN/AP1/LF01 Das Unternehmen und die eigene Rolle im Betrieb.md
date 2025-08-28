@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-08-26T16:11:42.250+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["inProgress","GFN/LF01","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-08-28T10:42:04.188+02:00"}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
@@ -254,9 +254,9 @@ Du muss in der Lage sein zu unterscheiden: [[02 - RESOURCES/Notes/Firma\|Firma]]
 - [[02 - RESOURCES/Notes/Sozial\|Sozial]] - Mitarbeiterzufriedenheit, Arbeitsbedingungen
 - [[02 - RESOURCES/Notes/Ökologisch\|Ökologisch]] - Nachhaltigkeit, Umweltschutz
 
-## [[SMART-Regel\|SMART-Regel]]
+## [[02 - RESOURCES/Notes/SMART-Prinzip\|SMART-Prinzip]]
 
-> Die [[SMART-Regel\|SMART-Regel]] hilft bei der Formulierung erreichbarer und messbarer Ziele.
+> Die [[02 - RESOURCES/Notes/SMART-Prinzip\|SMART-Prinzip]] hilft bei der Formulierung erreichbarer und messbarer Ziele.
 
 Ziele sollen sein:
 
