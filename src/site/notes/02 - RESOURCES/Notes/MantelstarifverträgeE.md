@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mantelstarifvertraege-e/","tags":["arbeitsrecht/tarifwesen"],"noteIcon":"","updated":"2025-08-26T16:35:24.420+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/mantelstarifvertraege-e/","tags":["arbeitsrecht/tarifwesen"],"noteIcon":"","updated":"2025-08-28T17:45:59.000+02:00"}
 ---
 
 >Regeln allgemeine Arbeitsbedingungen wie Arbeitszeit, Urlaub, Kündigungsfristen.

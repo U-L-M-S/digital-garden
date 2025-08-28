@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ad-hoc-modus/","tags":["wlan/modus","direkt/verbindung"],"noteIcon":"","updated":"2025-08-27T15:03:19.689+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ad-hoc-modus/","tags":["wlan/modus","direkt/verbindung"],"noteIcon":"","updated":"2025-08-28T20:50:25.000+02:00"}
 ---
 
 

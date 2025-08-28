@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/presentation-layer/","tags":["osi/layer6","daten/formatierung"],"noteIcon":"","updated":"2025-08-27T15:03:22.686+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/presentation-layer/","tags":["osi/layer6","daten/formatierung"],"noteIcon":"","updated":"2025-08-28T20:50:30.000+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/einlinienorganisation/","tags":["organisation/leitungssystem"],"noteIcon":"","updated":"2025-08-26T16:35:24.204+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/einlinienorganisation/","tags":["organisation/leitungssystem"],"noteIcon":"","updated":"2025-08-28T17:45:54.000+02:00"}
 ---
 
 >Jeder Mitarbeiter hat genau einen direkten Vorgesetzten.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/handelsregister/","tags":["recht/register"],"noteIcon":"","updated":"2025-08-26T16:35:24.336+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/handelsregister/","tags":["recht/register"],"noteIcon":"","updated":"2025-08-28T17:45:54.000+02:00"}
 ---
 
 >Öffentliches Verzeichnis für Kaufleute und Handelsgesellschaften.

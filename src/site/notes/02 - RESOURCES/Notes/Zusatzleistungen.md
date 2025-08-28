@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/zusatzleistungen/","tags":["arbeitsrecht/entgelt"],"noteIcon":"","updated":"2025-08-26T16:35:24.736+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/zusatzleistungen/","tags":["arbeitsrecht/entgelt"],"noteIcon":"","updated":"2025-08-28T17:46:01.000+02:00"}
 ---
 
 >Geldwerte Vorteile wie Dienstwagen, Essensgutscheine, Gesundheitsvorsorge.

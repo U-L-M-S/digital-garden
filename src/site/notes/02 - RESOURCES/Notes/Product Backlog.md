@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/product-backlog/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2025-08-26T16:35:06.781+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/product-backlog/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2025-08-26T16:35:06.000+02:00"}
 ---
 
 >Es ist eine geordnete Liste aller Anforderungen, Funktionen und Aufgaben, die für ein Projekt oder Produkt nötig sind.

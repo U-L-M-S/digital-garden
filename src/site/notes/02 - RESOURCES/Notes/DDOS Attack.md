@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ddos-attack/","tags":["it-sicherheit"],"noteIcon":"","updated":"2025-08-26T16:35:03.121+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ddos-attack/","tags":["it-sicherheit"],"noteIcon":"","updated":"2025-08-26T16:35:03.000+02:00"}
 ---
 
 >Distributed Denial of Service

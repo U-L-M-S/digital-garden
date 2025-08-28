@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/jvm/","tags":["code/java"],"noteIcon":"","updated":"2025-08-26T16:35:05.249+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/jvm/","tags":["code/java"],"noteIcon":"","updated":"2025-08-26T16:35:05.000+02:00"}
 ---
 
 >Die **Java Virtual Machine (JVM)** ist eine Laufzeitumgebung, die [[02 - RESOURCES/Notes/Java\|Java]]-Programme ausführt, indem sie den [[02 - RESOURCES/Notes/Java\|Java]]-Bytecode in maschinenspezifischen Code übersetzt. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ieee-802-1x/","tags":["wlan/sicherheit","authentifizierung/enterprise"],"noteIcon":"","updated":"2025-08-27T15:03:20.161+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ieee-802-1x/","tags":["wlan/sicherheit","authentifizierung/enterprise"],"noteIcon":"","updated":"2025-08-28T20:50:30.000+02:00"}
 ---
 
 

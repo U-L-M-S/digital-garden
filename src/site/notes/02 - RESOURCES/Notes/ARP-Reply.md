@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/arp-reply/","tags":["arp/antwort","unicast/antwort"],"noteIcon":"","updated":"2025-08-27T15:03:19.739+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/arp-reply/","tags":["arp/antwort","unicast/antwort"],"noteIcon":"","updated":"2025-08-28T20:50:24.000+02:00"}
 ---
 
 

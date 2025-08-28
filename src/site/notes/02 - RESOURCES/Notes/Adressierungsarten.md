@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/adressierungsarten/","tags":["netzwerk/kommunikation","übertragung/ziel"],"noteIcon":"","updated":"2025-08-27T14:17:51.895+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/adressierungsarten/","tags":["netzwerk/kommunikation","übertragung/ziel"],"noteIcon":"","updated":"2025-08-28T20:50:25.000+02:00"}
 ---
 
 **Adressierungsarten** - Verschiedene Wege Nachrichten im [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] zu versenden.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hardware-raid/","tags":["raid/implementation","controller/hardware"],"noteIcon":"","updated":"2025-08-27T15:03:20.128+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hardware-raid/","tags":["raid/implementation","controller/hardware"],"noteIcon":"","updated":"2025-08-28T20:50:30.000+02:00"}
 ---
 
 
