@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pflichtenheft/","tags":["GFN/prüfungsrelevant/AP1","projektmanagement"],"noteIcon":"","updated":"2025-08-26T16:35:06.568+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pflichtenheft/","tags":["GFN/prüfungsrelevant/AP1","projektmanagement"],"noteIcon":"","updated":"2025-08-29T10:35:02.212+02:00"}
 ---
 
 >Notwendig Dokument für die Entstehung eines Projekts.
@@ -13,5 +13,4 @@
 
 
 # [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]] Bsp
-Vorlage
 ![[lexoffice-Vorlage-Pflichtenheft.pdf]]
