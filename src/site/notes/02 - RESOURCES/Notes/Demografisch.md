@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/demografisch/","tags":["marketing/segmentierung"],"noteIcon":"","updated":"2025-08-26T16:35:24.179+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/demografisch/","tags":["marketing/segmentierung"],"noteIcon":"","updated":"2025-08-28T17:45:54.000+02:00"}
 ---
 
 >Einteilung nach persönlichen Merkmalen wie Alter, Geschlecht, Familienstand.

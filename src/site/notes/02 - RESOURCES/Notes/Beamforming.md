@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/beamforming/","tags":["wlan/technik","signal/fokussierung"],"noteIcon":"","updated":"2025-08-27T15:03:19.788+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/beamforming/","tags":["wlan/technik","signal/fokussierung"],"noteIcon":"","updated":"2025-08-28T20:50:26.000+02:00"}
 ---
 
 

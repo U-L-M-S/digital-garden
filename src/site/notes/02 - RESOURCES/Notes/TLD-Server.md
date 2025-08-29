@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/tld-server/","tags":["dns/toplevel","domain/endung"],"noteIcon":"","updated":"2025-08-27T15:03:22.981+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/tld-server/","tags":["dns/toplevel","domain/endung"],"noteIcon":"","updated":"2025-08-28T20:50:30.000+02:00"}
 ---
 
 

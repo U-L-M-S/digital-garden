@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dynamically-allocated-ports/","tags":["ports/dynamisch","dienste/temporär"],"noteIcon":"","updated":"2025-08-27T15:03:19.998+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dynamically-allocated-ports/","tags":["ports/dynamisch","dienste/temporär"],"noteIcon":"","updated":"2025-08-28T20:50:29.000+02:00"}
 ---
 
 

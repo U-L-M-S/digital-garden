@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/eqr/","tags":["bildung/europa"],"noteIcon":"","updated":"2025-08-26T16:35:24.219+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/eqr/","tags":["bildung/europa"],"noteIcon":"","updated":"2025-08-28T17:45:54.000+02:00"}
 ---
 
 >**Europäischer Qualifikationsrahmen** - macht Bildungsabschlüsse europaweit vergleichbar.

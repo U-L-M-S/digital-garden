@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/software-raid/","tags":["raid/implementation","betriebssystem/software"],"noteIcon":"","updated":"2025-08-27T15:03:22.946+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/software-raid/","tags":["raid/implementation","betriebssystem/software"],"noteIcon":"","updated":"2025-08-28T20:50:30.000+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dnssec/","tags":["dns/sicherheit","signierung/authentizität"],"noteIcon":"","updated":"2025-08-27T15:03:19.978+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dnssec/","tags":["dns/sicherheit","signierung/authentizität"],"noteIcon":"","updated":"2025-08-28T20:50:28.000+02:00"}
 ---
 
 

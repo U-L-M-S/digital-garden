@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ausbilder/","noteIcon":"","updated":"2025-08-26T16:35:02.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ausbilder/","noteIcon":"","updated":"2025-08-26T16:35:02.233+02:00"}
 ---
 
 > Person in die [[02 - RESOURCES/Notes/Ausbildender\|Ausbildender]]s [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]], der einen oder mehrere [Auszubildende](Auszubildender) lehrt.
