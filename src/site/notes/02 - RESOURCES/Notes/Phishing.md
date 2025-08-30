@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/phishing/","tags":["malware/phishing"],"noteIcon":"","updated":"2025-08-26T16:35:06.591+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/phishing/","tags":["malware/phishing"],"noteIcon":"","updated":"2025-08-26T16:35:06.000+02:00"}
 ---
 
 >Eine Methode, bei der **gefälschte E-Mails oder Webseiten** genutzt werden, um an vertrauliche Daten wie Passwörter oder Bankdaten zu gelangen.  

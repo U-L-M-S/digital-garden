@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/5-programmierungregeln/","tags":["code","code/algorithmus"],"noteIcon":"","updated":"2025-08-26T16:35:01.297+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/5-programmierungregeln/","tags":["code","code/algorithmus"],"noteIcon":"","updated":"2025-08-26T16:35:01.000+02:00"}
 ---
 
 >Das sind die fünf Standard-Programmierungsregeln, die von Rob Pike erstellt wurden, und ich werde ihnen ab jetzt schrittweise folgen.  

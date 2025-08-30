@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/service-betrieb/","tags":["GFN/LF06"],"noteIcon":"","updated":"2025-08-26T16:35:07.470+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/service-betrieb/","tags":["GFN/LF06"],"noteIcon":"","updated":"2025-08-26T16:35:07.000+02:00"}
 ---
 
 >Dies ist die Phase, in der die Services aktiv genutzt werden. Es werden Prozesse zur Überwachung, Wartung und Unterstützung der Services eingerichtet.

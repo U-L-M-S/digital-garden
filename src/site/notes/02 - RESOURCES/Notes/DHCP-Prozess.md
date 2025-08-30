@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dhcp-prozess/","tags":["algorithmus","netzwerk"],"noteIcon":"","updated":"2025-08-26T16:35:03.263+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dhcp-prozess/","tags":["algorithmus","netzwerk"],"noteIcon":"","updated":"2025-08-26T16:35:03.000+02:00"}
 ---
 
 >Algorithmus von [[02 - RESOURCES/Notes/DHCP\|DHCP]] zwischen [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]] und jedem Rechner, der neu in das [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] kommt.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/klasse/","tags":["code"],"noteIcon":"","updated":"2025-08-26T16:35:05.335+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/klasse/","tags":["code"],"noteIcon":"","updated":"2025-08-26T16:35:05.000+02:00"}
 ---
 
 >In der Programmierung ist eine Klasse eine Vorlage oder ein Bauplan für Objekte. 

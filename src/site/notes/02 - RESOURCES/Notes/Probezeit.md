@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/probezeit/","tags":["wk/berufsausbildungsvertrag"],"noteIcon":"","updated":"2025-08-26T16:37:59.439+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/probezeit/","tags":["wk/berufsausbildungsvertrag"],"noteIcon":"","updated":"2025-08-26T16:37:59.000+02:00"}
 ---
 
 ## Probezeit 

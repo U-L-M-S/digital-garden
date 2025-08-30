@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wep/","tags":["kryptografie/wifi","netzwerk/wifi"],"noteIcon":"","updated":"2025-08-26T16:35:09.034+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wep/","tags":["kryptografie/wifi","netzwerk/wifi"],"noteIcon":"","updated":"2025-08-26T16:35:09.000+02:00"}
 ---
 
 >Wired Equivalent Privacy
