@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/power-interest-matrix/","tags":["projektmanagement"],"noteIcon":"","updated":"2025-08-26T16:35:06.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/power-interest-matrix/","tags":["projektmanagement"],"noteIcon":"","updated":"2025-08-26T16:35:06.717+02:00"}
 ---
 
 >Ein Werkzeug der [[02 - RESOURCES/Notes/Stakeholder-Analyse\|Stakeholder-Analyse]], um [[02 - RESOURCES/Notes/Stakeholder\|Stakeholder]] nach **Macht (Power)** und **Interesse** am Projekt zu sortieren.

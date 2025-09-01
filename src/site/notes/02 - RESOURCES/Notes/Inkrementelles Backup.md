@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/inkrementelles-backup/","noteIcon":"","updated":"2025-08-26T16:35:04.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/inkrementelles-backup/","noteIcon":"","updated":"2025-08-26T16:35:04.631+02:00"}
 ---
 
 >Sichert nur **Änderungen seit der letzten Sicherung** (egal ob Voll oder Inkrement).

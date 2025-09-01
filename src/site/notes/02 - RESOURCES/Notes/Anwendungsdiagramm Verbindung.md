@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/anwendungsdiagramm-verbindung/","tags":["UML/Anwendungsdiagramm"],"noteIcon":"","updated":"2025-08-26T16:35:01.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/anwendungsdiagramm-verbindung/","tags":["UML/Anwendungsdiagramm"],"noteIcon":"","updated":"2025-08-26T16:35:01.799+02:00"}
 ---
 
 >Es zeigt, welche [[02 - RESOURCES/Notes/Anwendungsdiagramm Akteur\|Anwendungsdiagramm Akteur]] mit welchen [[02 - RESOURCES/Notes/Anwendungsdiagramm Anwendungsfall\|Anwendungsdiagramm Anwendungsfall]] interagieren.

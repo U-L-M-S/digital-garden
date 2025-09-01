@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ip/","tags":["netzwerk/ip","netzwerk/gateway","netzwerk/subnet-mask","linux"],"noteIcon":"","updated":"2025-08-26T16:35:04.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ip/","tags":["netzwerk/ip","netzwerk/gateway","netzwerk/subnet-mask","linux"],"noteIcon":"","updated":"2025-08-26T16:35:04.681+02:00"}
 ---
 
 >Internet Protocol

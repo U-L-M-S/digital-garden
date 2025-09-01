@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dezimal-binaer/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2025-08-28T11:19:05.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dezimal-binaer/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2025-08-28T11:19:05.622+02:00"}
 ---
 
 # 
