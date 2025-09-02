@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/oop/","tags":["code"],"noteIcon":"","updated":"2025-08-26T16:35:06.383+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/oop/","tags":["code"],"noteIcon":"","updated":"2025-08-26T16:35:06.000+02:00"}
 ---
 
 > **O**bject **O**riented **P**rogramming (OOP) ist ein Programmierparadigma, das die Organisation von Code in Objekten fördert, die sowohl Daten als auch Methoden zur Manipulation dieser Daten kapseln. 

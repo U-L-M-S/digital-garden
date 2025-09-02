@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/byte/","tags":["speicher","code","netzwerk","informatik"],"noteIcon":"","updated":"2025-08-26T16:35:02.788+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/byte/","tags":["speicher","code","netzwerk","informatik"],"noteIcon":"","updated":"2025-08-26T16:35:02.000+02:00"}
 ---
 
 > 1 Byte entspricht 8 [[02 - RESOURCES/Notes/Bit\|Bit]]s.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lpwan/","tags":["#netzwerk"],"noteIcon":"","updated":"2025-08-26T16:35:05.658+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/lpwan/","tags":["#netzwerk"],"noteIcon":"","updated":"2025-08-26T16:35:05.000+02:00"}
 ---
 
 > Low Power [[02 - RESOURCES/Notes/WAN\|WAN]]

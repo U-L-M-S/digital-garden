@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ip-header/","tags":["netzwerk/ip"],"noteIcon":"","updated":"2025-08-26T16:35:04.692+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ip-header/","tags":["netzwerk/ip"],"noteIcon":"","updated":"2025-08-26T16:35:04.000+02:00"}
 ---
 
 >Dieser Teil enthält nötige Informationen über das Paket. Der Header ist notwendig, damit das Paket korrekt durch das [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] geleitet werden kann.

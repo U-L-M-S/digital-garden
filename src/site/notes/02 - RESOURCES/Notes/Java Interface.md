@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-interface/","tags":["code/java","code/OOP/vererbung"],"noteIcon":"","updated":"2025-08-26T16:35:05.042+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-interface/","tags":["code/java","code/OOP/vererbung"],"noteIcon":"","updated":"2025-08-26T16:35:05.000+02:00"}
 ---
 
 >Du hast mit Sicherheit bereits gelernt wie [[02 - RESOURCES/Notes/Java Vererbung\|Java Vererbung]] funktioniert und wie man dieser verwendet.

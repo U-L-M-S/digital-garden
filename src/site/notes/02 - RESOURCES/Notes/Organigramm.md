@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/organigramm/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-08-26T16:35:06.398+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/organigramm/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-08-26T16:35:06.000+02:00"}
 ---
 
 >grafische Darstellung der **Aufbauorganisation** eines [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]. 

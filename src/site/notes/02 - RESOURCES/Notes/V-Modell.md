@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/v-modell/","tags":["GFN/LF04","projektmanagement/vorgehensmodell/klassisch"],"noteIcon":"","updated":"2025-08-26T16:35:08.714+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/v-modell/","tags":["GFN/LF04","projektmanagement/vorgehensmodell/klassisch"],"noteIcon":"","updated":"2025-08-26T16:35:08.000+02:00"}
 ---
 
 >Es ist ein [[02 - RESOURCES/Notes/Agile Vorgehensmodelle\|Agiles Vorgehensmodelle]].
