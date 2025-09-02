@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-select/","tags":["code/SQL"],"noteIcon":"","updated":"2025-08-26T16:35:07.734+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-select/","tags":["code/SQL"],"noteIcon":"","updated":"2025-08-26T16:35:07.000+02:00"}
 ---
 
 >Befehl, der verwendet wird, um die [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]] herauszusuchen.

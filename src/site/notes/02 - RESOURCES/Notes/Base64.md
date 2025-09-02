@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/base64/","tags":["it-sicherheit","code"],"noteIcon":"","updated":"2025-08-26T16:35:02.343+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/base64/","tags":["it-sicherheit","code"],"noteIcon":"","updated":"2025-08-26T16:35:02.000+02:00"}
 ---
 
 >Es ist ein Kodierungsverfahren, das binäre Daten (wie z.B. Bilder oder Dateien) in eine Zeichenkette aus [[02 - RESOURCES/Notes/ASCII\|ASCII]]-Zeichen umwandelt. 

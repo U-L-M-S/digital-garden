@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/cloud-computing-modell/","tags":["informatik/virtualisierung","tools"],"noteIcon":"","updated":"2025-08-26T16:35:02.901+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/cloud-computing-modell/","tags":["informatik/virtualisierung","tools"],"noteIcon":"","updated":"2025-08-26T16:35:02.000+02:00"}
 ---
 
 >Ein **Cloud-Computing-Modell** ist eine Art der Bereitstellung von IT-Ressourcen und -Diensten über das Internet, bei der Rechenleistung, Speicherplatz und Anwendungen auf Abruf und nach Bedarf bereitgestellt werden.

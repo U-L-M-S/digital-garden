@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/berufsausbildungsvertrag/","tags":["GFN/prüfungsrelevant/AP1","GFN/LF01"],"noteIcon":"","updated":"2025-08-26T16:35:02.418+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/berufsausbildungsvertrag/","tags":["GFN/prüfungsrelevant/AP1","GFN/LF01"],"noteIcon":"","updated":"2025-08-26T16:35:02.000+02:00"}
 ---
 
 > [!important] 

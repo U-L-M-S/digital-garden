@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/service-transition/","tags":["GFN/LF06"],"noteIcon":"","updated":"2025-08-26T16:35:07.485+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/service-transition/","tags":["GFN/LF06"],"noteIcon":"","updated":"2025-08-26T16:35:07.000+02:00"}
 ---
 
 >In dieser Phase erfolgt die Implementierung der Services. Das bedeutet, dass die Services entwickelt, getestet und in die Produktionsumgebung überführt werden.
