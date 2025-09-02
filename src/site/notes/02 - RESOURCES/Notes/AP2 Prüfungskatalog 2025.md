@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-09-02T15:45:21.073+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-09-02T15:52:07.486+02:00"}
 ---
 
 # 📌 Sichere Themen für die AP2-Prüfung 2025
@@ -39,17 +39,17 @@
 - 🧠 **Algorithmus Entwicklung**
     - ❌ ~~Struktogramm, PAP~~
     - ✅ [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]], [[Pseudocode\|Pseudocode]] 👈
-    - [[02 - RESOURCES/Notes/UML\|UML]] (Use Case, Klassendiagramm, Aktivitätsdiagramm)
+    - [[02 - RESOURCES/Notes/UML\|UML]] ([[02 - RESOURCES/Notes/UML-Anwendungsfalldiagramm\|UML-Anwendungsfalldiagramm]], [[02 - RESOURCES/Notes/UML-Klassendiagramm\|Klassendiagramme]], [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]])
 - 🗃️ **Datenbankmodellierung** 👈
     - Relationale/[[NoSQL\|NoSQL]] Datenbanken
     - 🆕 [[Anomalien\|Anomalien]]/[[Redundanzen\|Redundanzen]] erkennen (verstärkt!)
-    - [[Normalisierung\|Normalisierung]] (1. bis 3. NF)
-    - [[ER-Modell\|ER-Modell]], Kardinalitäten
+    - Normalisierung ([[02 - RESOURCES/Notes/1. Normalform\|1. Normalform]], [[02 - RESOURCES/Notes/2. Normalform\|2. Normalform]], [[02 - RESOURCES/Notes/3. Normalform\|3. Normalform]])
+    - [[ER-Modell\|ER-Modell]], [[02 - RESOURCES/Notes/Kardinalität\|Kardinalität]]
     - 🆕 **SQL-Detailblatt** (2-seitig im Katalog!) 👈
 
 ---
 
-## ✅ Qualitätssicherung
+## ✅ [[02 - RESOURCES/Notes/Qualitätssicherung\|Qualitätssicherung]]
 
 - 🧪 **Testverfahren** 👈
     - Statische/dynamische Tests
@@ -181,7 +181,7 @@
     - Prototypen (Mockups)
 - 🧮 **Objektorientierte Programmierung**
     - 🆕 [[Kapselung\|Kapselung]] (explizit betont!)
-    - Vererbung, Polymorphie, Interfaces
+    - [[02 - RESOURCES/Notes/UML-Vererbung\|UML-Vererbung]], [[02 - RESOURCES/Notes/Polymorphie\|Polymorphie]], [[02 - RESOURCES/Notes/Java Interface\|Java Interface]]
 - 🔍 **Algorithmen** 👈
     - Lineare Suche, Binäre Suche
     - 🆕 [[Selection Sort\|Selection Sort]], [[Insertion Sort\|Insertion Sort]] (detailliert!)
@@ -200,9 +200,9 @@
 ## ✅ Software-Qualitätssicherung
 
 - 🔒 **Datenschutz & Datensicherheit** 👈
-    - Integrität, Authentizität, digitale Signatur
-    - Verschlüsselung, Archivierung
-    - Authentifizierung, Autorisierung
+    - [[02 - RESOURCES/Notes/Integrität\|Integrität]], [[02 - RESOURCES/Notes/Authentizität\|Authentizität]], digitale Signatur
+    - [[02 - RESOURCES/Notes/Verschlüsselung\|Verschlüsselung]], Archivierung
+    - [[02 - RESOURCES/Notes/Authentifizierung\|Authentifizierung]], Autorisierung
 - 🛡️ **Datenintegrität**
     - Constraints, Validierung
     - Transaktionssicherheit

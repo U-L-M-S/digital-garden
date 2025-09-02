@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-08-27T16:34:29.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-09-02T15:53:24.927+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -41,6 +41,9 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 > In der AP1-Prüfung kommen immer LF01 bis LF06 dran. LF07 bis LF09 sind nur ein "Nice-to-have".
 
 # AP2-relevant
+
+[[02 - RESOURCES/Notes/AP2 Prüfungskatalog 2025\|AP2 Prüfungskatalog 2025]]
+
 - 🔴 [[00 - PROJECTS/GFN/AP2/LF10 Benutzerschnittstellen gestalten und entwickeln\|LF10 Benutzerschnittstellen gestalten und entwickeln]]
 - 🔴 [[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]]
 - 🔴 [[00 - PROJECTS/GFN/AP2/LF12 Kundenspezifische Anwendungsentwicklung durchführen\|LF12 Kundenspezifische Anwendungsentwicklung durchführen]]
