@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kartel/","tags":[null],"noteIcon":"","updated":"2025-08-26T16:35:05.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kartel/","tags":[null],"noteIcon":"","updated":"2025-08-26T16:35:05.283+02:00"}
 ---
 
 >Absprache zwischen [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] (Preis, Absatzmarkt).

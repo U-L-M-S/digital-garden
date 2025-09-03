@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/juristische-person/","tags":["BWL"],"noteIcon":"","updated":"2025-08-26T16:35:05.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/juristische-person/","tags":["BWL"],"noteIcon":"","updated":"2025-08-26T16:35:05.232+02:00"}
 ---
 
 ## juristische Person 

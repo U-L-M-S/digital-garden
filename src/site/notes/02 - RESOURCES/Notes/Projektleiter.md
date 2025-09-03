@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/projektleiter/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-08-26T16:35:06.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/projektleiter/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-08-26T16:35:06.864+02:00"}
 ---
 
 >Person, die koordiniert, plant und überwacht ein Projekt.

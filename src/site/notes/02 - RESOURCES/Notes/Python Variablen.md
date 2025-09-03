@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/python-variablen/","tags":["code/python"],"noteIcon":"","updated":"2025-08-26T16:35:06.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/python-variablen/","tags":["code/python"],"noteIcon":"","updated":"2025-08-26T16:35:06.982+02:00"}
 ---
 
 >In viele Computersprachen müssen die Variablen mit den [[02 - RESOURCES/Notes/Datentyp\|Datentyp]] definiert werden.

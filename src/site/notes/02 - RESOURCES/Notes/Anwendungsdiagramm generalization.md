@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/anwendungsdiagramm-generalization/","tags":["UML/Anwendungsdiagramm"],"noteIcon":"","updated":"2025-08-26T16:35:01.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/anwendungsdiagramm-generalization/","tags":["UML/Anwendungsdiagramm"],"noteIcon":"","updated":"2025-08-26T16:35:01.778+02:00"}
 ---
 
 >Die [[02 - RESOURCES/Notes/Java Vererbung\|Java Vererbung]] zwischen Akteuren oder Anwendungsfällen.
