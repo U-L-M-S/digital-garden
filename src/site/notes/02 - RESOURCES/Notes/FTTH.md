@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ftth/","noteIcon":"","updated":"2025-08-26T16:35:04.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ftth/","noteIcon":"","updated":"2025-08-26T16:35:04.011+02:00"}
 ---
 
 ![FTTH-20240802141349311.png](/img/user/02%20-%20RESOURCES/Files/IMG/FTTH-20240802141349311.png)

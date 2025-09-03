@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/methode-programmierung/","tags":["code/OOP","projektmanagement"],"noteIcon":"","updated":"2025-08-26T16:35:05.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/methode-programmierung/","tags":["code/OOP","projektmanagement"],"noteIcon":"","updated":"2025-08-26T16:35:05.908+02:00"}
 ---
 
 > In der Programmierung ist eine **Methode** eine [[02 - RESOURCES/Notes/Funktion Programmierung\|Funktion Programmierung]], die **innerhalb einer [[02 - RESOURCES/Notes/Klasse\|Klasse]] definiert** ist und auf **Instanzen dieser Klasse** angewendet wird.

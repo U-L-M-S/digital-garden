@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/nfc/","tags":["netzwerk/wireless","netzwerk"],"noteIcon":"","updated":"2025-08-26T16:35:06.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/nfc/","tags":["netzwerk/wireless","netzwerk"],"noteIcon":"","updated":"2025-08-26T16:35:06.281+02:00"}
 ---
 
 > Near Field Communication

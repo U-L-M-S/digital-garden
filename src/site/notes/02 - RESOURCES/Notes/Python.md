@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/python/","tags":["inProgress","code/python","GFN/LF08"],"noteIcon":"","updated":"2025-08-26T16:35:07.002+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/python/","tags":["inProgress","code/python","GFN/LF08"],"noteIcon":"","updated":"2025-09-03T15:05:16.333+02:00"}
 ---
 
 >Python ist eine vielseitige, hochgradig lesbare Programmiersprache, die sowohl für Einsteiger als auch für erfahrene Entwickler geeignet ist.
@@ -21,7 +21,7 @@ ___
 
 ___
 
-# [[02 - RESOURCES/Notes/Python server\|Python server]]
+# [[02 - RESOURCES/Notes/HTTP File Server\|HTTP File Server]]
 
 ___
 [[02 - RESOURCES/Notes/Python Virtual Environment\|Python Virtual Environment]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-09-02T15:53:24.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-09-03T12:53:49.242+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -7,7 +7,8 @@
 >Das ist meine Zusammenfassung für die IHK-Prüfung als Fachinformatik für Anwendungsentwickler.
 >Ich hoffe es gefällt euch!
 
->>PS: Alle Zusammenfassungen wurde von mir erstellt (Jemand der deutsch nicht als Muttersprachen hat). Mit andere Wörter: erwartet nicht von mir ein **super**-hochdeutsch (Das heißt meine Satzbildung so einfach sein wird, dass sogar Ausländer die verstehen können).
+>>PS: Alle Zusammenfassungen wurde von mir erstellt (Jemand der deutsch nicht als Muttersprachen hat). 
+>>Mit andere Wörter: erwartet nicht von mir ein **super**-hochdeutsch (Das heißt meine Satzbildung so einfach sein wird, dass sogar Ausländer die verstehen können).
 
 ![[22.01.2024_PRV_ Freiburg_FIAE_Stand 06.02.2025.pdf]]
 
@@ -25,6 +26,7 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 | 🔴  | In Progress |
 
 # AP1-relevant:
+___
 - 🟢 [[00 - PROJECTS/GFN/+/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]]
 - 🟢 [[00 - PROJECTS/GFN/AP1/LF01 Das Unternehmen und die eigene Rolle im Betrieb\|LF01 Das Unternehmen und die eigene Rolle im Betrieb]] 
 - 🔴 [[00 - PROJECTS/GFN/AP1/LF02 Arbeitsplatz nach Kundenwunsch ausstatten\|LF02 Arbeitsplatz nach Kundenwunsch ausstatten]]
@@ -36,21 +38,22 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 - 🔴 [[00 - PROJECTS/GFN/AP1/LF08 Daten systemübergreifend bereitstellen\|LF08 Daten systemübergreifend bereitstellen]]
 - 🟢 [[00 - PROJECTS/GFN/AP1/LF09 Netzwerke und Dienste bereitstellen\|LF09 Netzwerke und Dienste bereitstellen]]
 
->[!info] Prüfungskatalog 2025 
+>[!info] Prüfungskatalog 2025 AP1
 > Lautet den [[02 - RESOURCES/Notes/AP1 Prüfungskatalog 2025\|AP1 Prüfungskatalog 2025]]. Viele Themen wurde gestrichen. Bitte Überprüft es.
 > In der AP1-Prüfung kommen immer LF01 bis LF06 dran. LF07 bis LF09 sind nur ein "Nice-to-have".
 
-# AP2-relevant
-
-[[02 - RESOURCES/Notes/AP2 Prüfungskatalog 2025\|AP2 Prüfungskatalog 2025]]
-
+# AP2-relevant:
+___
 - 🔴 [[00 - PROJECTS/GFN/AP2/LF10 Benutzerschnittstellen gestalten und entwickeln\|LF10 Benutzerschnittstellen gestalten und entwickeln]]
 - 🔴 [[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]]
 - 🔴 [[00 - PROJECTS/GFN/AP2/LF12 Kundenspezifische Anwendungsentwicklung durchführen\|LF12 Kundenspezifische Anwendungsentwicklung durchführen]]
+
+> [!note] Prüfungskatalog 2025 AP2  
+> Laut [IT-Berufe-Podcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap2-als-fachinformatiker-anwendungsentwicklung-ab-2025-it-berufe-podcast-191/) enthält der Prüfungskatalog die Themen, die in der AP2 vorkommen können: [[02 - RESOURCES/Notes/AP2 Prüfungskatalog 2025\|AP2 Prüfungskatalog 2025]]
+
 # +
 - 🔴 [[00 - PROJECTS/GFN/+/LFvt4 Datenbanken und SQL\|LFvt4 Datenbanken und SQL]]
 - 🔴 [[00 - PROJECTS/GFN/+/LFzq17a Objektorientierte Programmierung\|LFzq17a Objektorientierte Programmierung]]
-
 # Zusatzqualifikation
 - 🔴 [[00 - PROJECTS/GFN/Zusatzqualifikation/LFzq3a Agile Scrum Foundation\|LFzq3a Agile Scrum Foundation]]
 
