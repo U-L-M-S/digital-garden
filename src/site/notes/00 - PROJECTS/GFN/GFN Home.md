@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-09-04T08:55:37.566+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-09-04T08:55:55.312+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -15,7 +15,7 @@
 Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-L-M-S/digital-garden) pushen.
 
 
->[!important] 
+>[!note] 
 >Dokumente wie PDF, World usw (Textdokumente) 
 >werden hier nicht unterstützt und somit werden sie nicht angezeigt.
 
