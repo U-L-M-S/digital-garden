@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-09-03T12:53:49.242+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-09-04T08:20:18.276+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -38,7 +38,7 @@ ___
 - 🔴 [[00 - PROJECTS/GFN/AP1/LF08 Daten systemübergreifend bereitstellen\|LF08 Daten systemübergreifend bereitstellen]]
 - 🟢 [[00 - PROJECTS/GFN/AP1/LF09 Netzwerke und Dienste bereitstellen\|LF09 Netzwerke und Dienste bereitstellen]]
 
->[!info] Prüfungskatalog 2025 AP1
+>[!important] Prüfungskatalog 2025 AP1
 > Lautet den [[02 - RESOURCES/Notes/AP1 Prüfungskatalog 2025\|AP1 Prüfungskatalog 2025]]. Viele Themen wurde gestrichen. Bitte Überprüft es.
 > In der AP1-Prüfung kommen immer LF01 bis LF06 dran. LF07 bis LF09 sind nur ein "Nice-to-have".
 
