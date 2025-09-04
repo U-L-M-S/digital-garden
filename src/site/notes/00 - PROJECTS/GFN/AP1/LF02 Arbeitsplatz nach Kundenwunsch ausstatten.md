@@ -32,7 +32,7 @@
 
 - [[Steuerwerk\|Steuerwerk]] - der Chef, sagt was gemacht wird
 - [[Rechenwerk\|Rechenwerk]] - macht die Mathematik
-- [[Cache\|Cache]] - Notizzettel für oft gebrauchte Sachen
+- [[02 - RESOURCES/Notes/Cache\|Cache]] - Notizzettel für oft gebrauchte Sachen
 
 ## [[Arbeitsspeicher\|Arbeitsspeicher]] (RAM)
 > Wie dein Schreibtisch - je größer, desto mehr Programme kannst du gleichzeitig nutzen.

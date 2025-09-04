@@ -50,7 +50,7 @@
 
 - [[02 - RESOURCES/Notes/PORT\|Ports]] kennen (z. B. [[02 - RESOURCES/Notes/HTTP\|HTTP]] → 80, [[02 - RESOURCES/Notes/HTTPS\|HTTPS]] → 443).
 
-- Deployment-Przesse: CI/CD, [[00 - PROJECTS/Docker\|Docker]], manuelles Hochladen.
+- Deployment-Przesse: CI/CD, [[02 - RESOURCES/Notes/Docker\|Docker]], manuelles Hochladen.
 
 - Logging und Monitoring einrichten.
 
@@ -69,4 +69,4 @@
 
 - [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]]: mehrere Server auf einem physischen System.
 
-- Containerisierung: z. B. [[00 - PROJECTS/Docker\|Docker]], um Apps isoliert zu betreiben.
+- Containerisierung: z. B. [[02 - RESOURCES/Notes/Docker\|Docker]], um Apps isoliert zu betreiben.
