@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/tls/","tags":["sicherheit/verschluesselung","netzwerk/protokoll","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:12:32.287+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/tls/","tags":["sicherheit/verschluesselung","netzwerk/protokoll","it-sicherheit","docker/networking"],"noteIcon":"","updated":"2025-09-05T14:10:29.523+02:00"}
 ---
-
 
 >[[02 - RESOURCES/Notes/TLS\|TLS]] verschlüsselt die Kommunikation zwischen Client und [[02 - RESOURCES/Notes/Server\|Server]] über das Internet.
 >>Verhindert dass Daten im [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] mitgelesen oder manipuliert werden können.
