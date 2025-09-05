@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/layers/","tags":["docker/images","docker/storage"],"noteIcon":"","updated":"2025-09-04T16:11:18.631+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/layers/","tags":["docker/images","docker/storage"],"noteIcon":"","updated":"2025-09-05T10:12:30.464+02:00"}
 ---
 
 

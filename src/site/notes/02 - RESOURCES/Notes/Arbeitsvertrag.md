@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/arbeitsvertrag/","tags":["arbeitsrecht/grundlagen"],"noteIcon":"","updated":"2025-08-28T17:45:54.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/arbeitsvertrag/","tags":["arbeitsrecht/grundlagen"],"noteIcon":"","updated":"2025-09-05T10:12:28.190+02:00"}
 ---
 
 >Grundlage des Arbeitsverhältnisses zwischen [[Arbeitgeber\|Arbeitgeber]] und [[Arbeitnehmer\|Arbeitnehmer]].

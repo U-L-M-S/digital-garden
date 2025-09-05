@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ftp/","tags":["netzwerk/protocol"],"noteIcon":"","updated":"2025-08-26T16:35:03.978+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ftp/","tags":["netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-05T10:12:29.506+02:00"}
 ---
 
 > File Transfer Protocol.

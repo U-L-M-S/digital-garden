@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/erzielen-eines-angemessenen-gewinns/","tags":["BWL"],"noteIcon":"","updated":"2025-08-26T16:35:03.776+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/erzielen-eines-angemessenen-gewinns/","tags":["BWL"],"noteIcon":"","updated":"2025-09-05T10:12:29.331+02:00"}
 ---
 
 ### Erzielen eines Angemessenen Gewinns

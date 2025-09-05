@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/php-in-windows-installieren/","tags":["code/PHP"],"noteIcon":"","updated":"2025-08-26T16:35:06.609+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/php-in-windows-installieren/","tags":["code/php"],"noteIcon":"","updated":"2025-09-05T10:12:31.186+02:00"}
 ---
 
 > Um [[02 - RESOURCES/Notes/PHP\|PHP]] zu installieren und zu konfigurieren, schau dir bitte [dieses Video](https://www.youtube.com/watch?v=Mip_RuSEoso) an und installiere danach [XAMPP](https://www.youtube.com/watch?v=G2VEf-8nepc&t=235s).

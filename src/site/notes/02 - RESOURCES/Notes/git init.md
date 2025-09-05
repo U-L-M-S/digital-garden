@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/git-init/","tags":["git/init"],"noteIcon":"","updated":"2025-08-26T16:35:04.181+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/git-init/","tags":["git/init"],"noteIcon":"","updated":"2025-09-05T10:12:29.630+02:00"}
 ---
 
 >Mit diesem Befehl startest du Git in deinem aktuellen Verzeichnis.
@@ -8,6 +8,7 @@
 ```bash
 git init
 ```
-{ #998967}
+{ #998967}
+
 
 

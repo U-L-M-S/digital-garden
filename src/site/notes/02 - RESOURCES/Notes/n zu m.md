@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/n-zu-m/","tags":["datenbank/kardinatität"],"noteIcon":"","updated":"2025-08-26T16:35:06.092+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/n-zu-m/","tags":["datenbank/kardinalität"],"noteIcon":"","updated":"2025-09-05T10:12:30.826+02:00"}
 ---
 
 > n zu m | n:m ODER m zu n | m:n 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/multicast/","tags":["netzwerk"],"noteIcon":"","updated":"2025-08-26T16:35:06.029+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/multicast/","tags":["netzwerk"],"noteIcon":"","updated":"2025-09-05T10:12:30.819+02:00"}
 ---
 
 > Ein Sender adressiert eine Menge (Gruppe)

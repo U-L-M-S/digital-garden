@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/product-owner/","tags":["projektmanagement/vorgehensmodell","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-08-26T16:35:06.825+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/product-owner/","tags":["projektmanagement/vorgehensmodell","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-09-05T10:12:31.337+02:00"}
 ---
 
 >Ein **Product Owner** oder Produktinhaber ist eine zentrale Rolle im [[02 - RESOURCES/Notes/Scrum\|Scrum]]-[[02 - RESOURCES/Notes/Framework\|Framework]]. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/produktion/","tags":["BWL"],"noteIcon":"","updated":"2025-08-26T16:35:06.816+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/produktion/","tags":["BWL"],"noteIcon":"","updated":"2025-09-05T10:12:31.347+02:00"}
 ---
 
 ## Produktion 

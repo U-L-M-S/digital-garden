@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/oligopol/","tags":["markt/struktur"],"noteIcon":"","updated":"2025-08-26T16:28:52.287+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/oligopol/","tags":["markt/struktur","BWL"],"noteIcon":"","updated":"2025-09-05T10:12:31.019+02:00"}
 ---
 
 >Markt mit wenigen Anbietern für viele Nachfrager.

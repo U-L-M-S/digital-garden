@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/named-volumes/","tags":["docker/storage","docker/volumes"],"noteIcon":"","updated":"2025-09-04T16:13:29.989+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/named-volumes/","tags":["docker/storage","docker/volumes"],"noteIcon":"","updated":"2025-09-05T10:12:30.836+02:00"}
 ---
 
 

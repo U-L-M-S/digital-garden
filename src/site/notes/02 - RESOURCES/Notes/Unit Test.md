@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/unit-test/","tags":["code"],"noteIcon":"","updated":"2025-08-26T16:35:08.520+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/unit-test/","tags":["code"],"noteIcon":"","updated":"2025-09-05T10:12:32.466+02:00"}
 ---
 
 >Auch als **Unittests** bekannt, sind es Code-Tests, die geschrieben werden, um die Funktionen einzelner Teile eines Programms zu testen und sicherzustellen, dass das Hauptprogramm fehlerfrei funktioniert.

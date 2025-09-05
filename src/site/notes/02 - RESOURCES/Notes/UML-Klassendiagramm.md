@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-klassendiagramm/","tags":["UML/Klassendiagramm","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-08-26T16:35:08.337+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-klassendiagramm/","tags":["uml/klassendiagramm","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-09-05T10:12:32.397+02:00"}
 ---
 
 >Ein **Klassendiagramm** ist ein [[02 - RESOURCES/Notes/UML\|UML]]-Diagramm, das die Struktur eines Systems durch Klassen, ihre Eigenschaften, Methoden und Beziehungen zueinander darstellt. 

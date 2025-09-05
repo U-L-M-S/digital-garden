@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/aenderungsmanagement/","tags":["projektmanagement","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-08-26T16:35:09.315+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/aenderungsmanagement/","tags":["projektmanagement","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-09-05T10:14:59.251+02:00"}
 ---
 
 

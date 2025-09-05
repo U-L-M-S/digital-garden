@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/gewerkschaften/","tags":["arbeitsrecht/organisation","arbeitnehmerrechte"],"noteIcon":"","updated":"2025-08-28T17:45:54.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/gewerkschaften/","tags":["arbeitsrecht/organisation","arbeitnehmerrechte"],"noteIcon":"","updated":"2025-09-05T10:12:29.589+02:00"}
 ---
 
 >Organisationen zur Vertretung der [[Arbeitnehmer\|Arbeitnehmer]]interessen, führen Tarifverhandlungen.

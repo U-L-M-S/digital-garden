@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/po-e/","tags":["ethernet/stromversorgung","kabel/energie+daten"],"noteIcon":"","updated":"2025-08-28T20:50:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/po-e/","tags":["ethernet/stromversorgung","kabel/energie+daten","netzwerk"],"noteIcon":"","updated":"2025-09-05T10:12:31.233+02:00"}
 ---
 
 

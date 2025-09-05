@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ausbildender/","tags":["BWL"],"noteIcon":"","updated":"2025-08-26T16:35:02.195+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ausbildender/","tags":["BWL"],"noteIcon":"","updated":"2025-09-05T10:12:28.277+02:00"}
 ---
 
 ## Ausbildender 

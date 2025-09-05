@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-aggregation/","tags":["UML/Klassendiagramm"],"noteIcon":"","updated":"2025-08-26T16:35:08.268+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-aggregation/","tags":["uml/klassendiagramm"],"noteIcon":"","updated":"2025-09-05T10:12:32.375+02:00"}
 ---
 
 >In [[02 - RESOURCES/Notes/UML\|UML]] wird Aggregation durch eine Linie mit einer hohlen Raute dargestellt.

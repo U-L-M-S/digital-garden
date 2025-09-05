@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/service-design/","tags":["GFN/LF06"],"noteIcon":"","updated":"2025-08-26T16:35:07.464+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/service-design/","tags":["GFN/LF06"],"noteIcon":"","updated":"2025-09-05T10:12:31.795+02:00"}
 ---
 
 >Hier werden die Anforderungen an die Services festgelegt und die Architektur sowie die notwendigen Prozesse, Technologien und Ressourcen entworfen.

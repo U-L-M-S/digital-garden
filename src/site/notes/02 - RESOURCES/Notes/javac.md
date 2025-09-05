@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/javac/","tags":["code/java"],"noteIcon":"","updated":"2025-08-26T16:35:05.221+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/javac/","tags":["code/java"],"noteIcon":"","updated":"2025-09-05T10:12:30.274+02:00"}
 ---
 
 >[[02 - RESOURCES/Notes/Java\|Java]] [[02 - RESOURCES/Notes/Compiler\|Compiler]].

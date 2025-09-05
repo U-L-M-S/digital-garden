@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/web-smart-switch/","tags":["switch/typ","netzwerk/mittel"],"noteIcon":"","updated":"2025-08-28T20:50:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/web-smart-switch/","tags":["switch/typ","netzwerk/mittel","hardware"],"noteIcon":"","updated":"2025-09-05T10:27:48.437+02:00"}
 ---
 
 

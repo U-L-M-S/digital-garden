@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/autoritative-nameserver/","tags":["dns/endgültig","domain/verantwortlich"],"noteIcon":"","updated":"2025-08-28T20:50:25.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/autoritative-nameserver/","tags":["netzwerk/dns/endgültig","domain/verantwortlich","netzwerk/dns"],"noteIcon":"","updated":"2025-09-05T10:14:23.461+02:00"}
 ---
 
 

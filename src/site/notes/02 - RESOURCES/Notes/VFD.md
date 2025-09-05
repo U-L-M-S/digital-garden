@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/vfd/","tags":["usv/offline","strom/notfall"],"noteIcon":"","updated":"2025-08-28T20:50:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/vfd/","tags":["usv/offline","elektrotechnik/strom/notfall"],"noteIcon":"","updated":"2025-09-05T10:27:24.077+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ttl/","tags":["netzwerk/paket"],"noteIcon":"","updated":"2025-08-26T16:35:08.185+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ttl/","tags":["netzwerk/paket"],"noteIcon":"","updated":"2025-09-05T10:12:32.348+02:00"}
 ---
 
 > Time To Live

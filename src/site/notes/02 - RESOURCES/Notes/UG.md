@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ug/","tags":["BWL"],"noteIcon":"","updated":"2025-08-26T16:35:08.259+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ug/","tags":["BWL"],"noteIcon":"","updated":"2025-09-05T10:12:32.366+02:00"}
 ---
 
 ## UG 

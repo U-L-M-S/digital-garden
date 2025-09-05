@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mo-s-co-w/","tags":["projektmanagement"],"noteIcon":"","updated":"2025-08-26T16:35:05.981+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/mo-s-co-w/","tags":["projektmanagement"],"noteIcon":"","updated":"2025-09-05T10:12:30.810+02:00"}
 ---
 
 >Die **MoSCoW-Methode** ist eine Technik zur Priorisierung von Anforderungen, häufig genutzt in Projekten und Softwareentwicklung. 

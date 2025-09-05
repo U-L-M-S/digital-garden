@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/anwendungsdiagramm-include/","tags":["UML/Anwendungsdiagramm"],"noteIcon":"","updated":"2025-08-26T16:35:01.785+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/anwendungsdiagramm-include/","tags":["uml/anwendungsdiagramm"],"noteIcon":"","updated":"2025-09-05T10:12:28.127+02:00"}
 ---
 
 > Wenn ein Anwendungsfall ausgeführt wird, **muss** ein anderer mitausgeführt werden.

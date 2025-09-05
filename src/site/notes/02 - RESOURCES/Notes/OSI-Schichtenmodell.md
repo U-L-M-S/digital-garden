@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/osi-schichtenmodell/","tags":["netzwerk/standard","protokoll/schichten"],"noteIcon":"","updated":"2025-08-28T20:50:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/osi-schichtenmodell/","tags":["netzwerk/standard","protokoll/schichten","netzwerk/osi"],"noteIcon":"","updated":"2025-09-05T10:12:31.049+02:00"}
 ---
 
 

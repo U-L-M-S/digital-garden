@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/and-operator/","tags":["informatik","mathe"],"noteIcon":"","updated":"2025-08-26T16:35:01.677+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/and-operator/","tags":["mathe","informatik/logik"],"noteIcon":"","updated":"2025-09-05T10:12:28.073+02:00"}
 ---
 
 

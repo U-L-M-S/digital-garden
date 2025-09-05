@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/yaml/","tags":["konfiguration/format","docker/compose"],"noteIcon":"","updated":"2025-09-04T16:11:18.681+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/yaml/","tags":["konfiguration/format","docker/compose"],"noteIcon":"","updated":"2025-09-05T10:12:32.826+02:00"}
 ---
 
 

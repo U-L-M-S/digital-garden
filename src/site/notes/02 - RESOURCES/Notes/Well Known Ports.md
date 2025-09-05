@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/well-known-ports/","tags":["ports/standard","dienste/fest"],"noteIcon":"","updated":"2025-08-28T20:50:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/well-known-ports/","tags":["ports/standard","dienste/fest","netzwerk"],"noteIcon":"","updated":"2025-09-05T10:12:32.684+02:00"}
 ---
 
 

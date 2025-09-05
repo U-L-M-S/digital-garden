@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/physical-layer/","tags":["osi/layer1","hardware/übertragung"],"noteIcon":"","updated":"2025-08-28T20:50:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/physical-layer/","tags":["netzwerk/osi/layer1","hardware/übertragung","netzwerk/osi"],"noteIcon":"","updated":"2025-09-05T10:21:17.898+02:00"}
 ---
 
 

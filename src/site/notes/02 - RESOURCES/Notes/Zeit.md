@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/zeit/","tags":["netzwerk/messung","übertragung/dauer"],"noteIcon":"","updated":"2025-08-28T20:50:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/zeit/","tags":["netzwerk/messung","übertragung/dauer"],"noteIcon":"","updated":"2025-09-05T10:12:32.838+02:00"}
 ---
 
 

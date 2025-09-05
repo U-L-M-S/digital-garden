@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/leistungsentgelt/","tags":["arbeitsrecht/entgelt"],"noteIcon":"","updated":"2025-08-28T17:45:57.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/leistungsentgelt/","tags":["arbeitsrecht/entgelt"],"noteIcon":"","updated":"2025-09-05T10:12:30.481+02:00"}
 ---
 
 >Bezahlung nach erbrachter Leistung (Akkord, Provision, Stückzahl).

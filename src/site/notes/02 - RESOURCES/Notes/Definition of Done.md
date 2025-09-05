@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/definition-of-done/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2025-08-26T16:35:03.160+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/definition-of-done/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2025-09-05T10:12:28.821+02:00"}
 ---
 
 >Die Definition of Done (DoD) ist ein zentraler Qualitätsstandard im [[02 - RESOURCES/Notes/Scrum Framework\|Scrum Framework]]. 
