@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/nutzerrollen/","tags":["it-sicherheit/berechtigung"],"noteIcon":"","updated":"2025-08-28T17:46:01.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/nutzerrollen/","tags":["it-sicherheit/berechtigung"],"noteIcon":"","updated":"2025-09-05T10:12:30.976+02:00"}
 ---
 
 >Gruppierung von Benutzern mit ähnlichen [[02 - RESOURCES/Notes/Zugriffsrechte\|Zugriffsrechte]]n.

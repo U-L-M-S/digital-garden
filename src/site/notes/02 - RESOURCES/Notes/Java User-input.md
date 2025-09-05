@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-user-input/","tags":["code/java"],"noteIcon":"","updated":"2025-08-26T16:35:05.154+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-user-input/","tags":["code/java"],"noteIcon":"","updated":"2025-09-05T10:12:30.246+02:00"}
 ---
 
 

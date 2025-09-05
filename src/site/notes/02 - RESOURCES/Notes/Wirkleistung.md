@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wirkleistung/","tags":["elektrik/nutzleistung","usv/real"],"noteIcon":"","updated":"2025-08-28T20:50:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wirkleistung/","tags":["elektrotechnik/nutzleistung","usv/real"],"noteIcon":"","updated":"2025-09-05T10:25:40.551+02:00"}
 ---
 
 

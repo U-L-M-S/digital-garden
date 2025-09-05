@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bind-mounts/","tags":["docker/storage","docker/development"],"noteIcon":"","updated":"2025-09-04T16:13:29.509+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bind-mounts/","tags":["docker/storage","docker/development"],"noteIcon":"","updated":"2025-09-05T10:12:28.440+02:00"}
 ---
 
 

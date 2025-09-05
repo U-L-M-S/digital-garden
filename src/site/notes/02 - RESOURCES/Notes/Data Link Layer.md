@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/data-link-layer/","tags":["osi/layer2","rahmen/fehlerkontrolle"],"noteIcon":"","updated":"2025-08-28T20:50:28.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/data-link-layer/","tags":["netzwerk/osi/layer2","rahmen/fehlerkontrolle","netzwerk/osi"],"noteIcon":"","updated":"2025-09-05T10:21:17.699+02:00"}
 ---
 
 

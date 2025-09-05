@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ecc/","tags":["kryptografie","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-08-26T16:35:03.585+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ecc/","tags":["kryptografie","GFN/prüfungsrelevant/AP1/vorbereitung","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:12:29.149+02:00"}
 ---
 
 >Es ist ein Asymmetrische Verschlüsselungsverfahren, das auf der [[02 - RESOURCES/Notes/Mathe\|Mathematik]] elliptischer Kurven basiert.

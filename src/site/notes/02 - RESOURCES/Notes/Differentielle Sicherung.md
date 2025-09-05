@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/differentielle-sicherung/","tags":["backup/typ","änderungen/vollsicherung"],"noteIcon":"","updated":"2025-08-28T20:50:29.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/differentielle-sicherung/","tags":["backup/typ","änderungen/vollsicherung","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:17:12.535+02:00"}
 ---
 
 

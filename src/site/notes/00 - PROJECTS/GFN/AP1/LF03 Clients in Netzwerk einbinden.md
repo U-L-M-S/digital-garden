@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-03-clients-in-netzwerk-einbinden/","tags":["inProgress","netzwerk","GFN/LF03"],"noteIcon":"","updated":"2025-08-27T17:31:44.676+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-03-clients-in-netzwerk-einbinden/","tags":["netzwerk","GFN/LF03","finished"],"noteIcon":"","updated":"2025-09-05T10:38:03.772+02:00"}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.

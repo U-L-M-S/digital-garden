@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/continual-service-improvement/","tags":["GFN/LF06"],"noteIcon":"","updated":"2025-08-26T16:35:02.943+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/continual-service-improvement/","tags":["GFN/LF06"],"noteIcon":"","updated":"2025-09-05T10:12:28.672+02:00"}
 ---
 
 >In dieser Phase wird kontinuierlich an der Verbesserung der Services gearbeitet. Feedback wird gesammelt, um die Qualität und Effizienz zu steigern.

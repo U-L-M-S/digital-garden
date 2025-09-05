@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/domain-name-system/","tags":["protokoll/namensauflösung","internet/verzeichnis"],"noteIcon":"","updated":"2025-08-28T20:50:29.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/domain-name-system/","tags":["protokoll/namensauflösung","netzwerk/internet/verzeichnis","netzwerk/dns"],"noteIcon":"","updated":"2025-09-05T10:16:24.261+02:00"}
 ---
 
 

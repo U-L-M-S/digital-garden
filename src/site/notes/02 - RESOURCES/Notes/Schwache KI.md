@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/schwache-ki/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-08-26T16:35:07.362+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/schwache-ki/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung","AI"],"noteIcon":"","updated":"2025-09-05T10:12:31.734+02:00"}
 ---
 
 >Schwacher [[02 - RESOURCES/Notes/KI\|KI]], die nicht selbständig handeln kann und Eingabe eines Menschen braucht.

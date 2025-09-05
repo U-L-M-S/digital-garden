@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/aktive-transponder/","tags":["rfid/typ","energie/batterie"],"noteIcon":"","updated":"2025-08-28T20:50:25.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/aktive-transponder/","tags":["rfid/typ","energie/batterie"],"noteIcon":"","updated":"2025-09-05T10:12:28.061+02:00"}
 ---
 
 

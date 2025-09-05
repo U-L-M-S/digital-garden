@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datenbank/","tags":["datenbank/grundlagen","docker/services"],"noteIcon":"","updated":"2025-09-04T16:13:29.709+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/datenbank/","tags":["datenbank/grundlagen","docker/services"],"noteIcon":"","updated":"2025-09-05T10:12:28.744+02:00"}
 ---
 
 

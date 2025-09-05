@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/vlan/","tags":["netzwerk"],"noteIcon":"","updated":"2025-08-26T16:35:08.903+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/vlan/","tags":["netzwerk"],"noteIcon":"","updated":"2025-09-05T10:12:32.636+02:00"}
 ---
 
 > Virtuelles [[02 - RESOURCES/Notes/LAN\|LAN]].

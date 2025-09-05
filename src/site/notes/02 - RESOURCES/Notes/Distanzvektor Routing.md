@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/distanzvektor-routing/","tags":["netzwerk/protocol"],"noteIcon":"","updated":"2025-08-26T16:35:03.381+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/distanzvektor-routing/","tags":["netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-05T10:12:28.951+02:00"}
 ---
 
 >Das Protokoll verwendet [[02 - RESOURCES/Notes/Hop\|Hop]]s, um den schnellsten Weg zu finden. 

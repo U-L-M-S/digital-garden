@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/failover/","tags":["ausfallschutz/umschaltung","automatisch/ersatzsystem"],"noteIcon":"","updated":"2025-08-28T20:50:29.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/failover/","tags":["ausfallschutz/umschaltung","automatisch/ersatzsystem","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:12:29.404+02:00"}
 ---
 
 

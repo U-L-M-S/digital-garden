@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/byod/","tags":["policy/eigene-geräte","mobile/integration"],"noteIcon":"","updated":"2025-08-28T20:50:26.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/byod/","tags":["policy/eigene-geräte","mobile/integration","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:12:28.566+02:00"}
 ---
 
 

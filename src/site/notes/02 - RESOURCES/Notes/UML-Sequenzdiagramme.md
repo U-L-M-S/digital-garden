@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-sequenzdiagramme/","tags":["UML/Sequenzdiagramme","empty"],"noteIcon":"","updated":"2025-08-26T16:35:08.370+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-sequenzdiagramme/","tags":["uml/sequenzdiagramme","empty"],"noteIcon":"","updated":"2025-09-05T10:12:32.413+02:00"}
 ---
 

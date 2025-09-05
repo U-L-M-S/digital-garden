@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetzmaske/","tags":["adressierung/trennung","netzwerk/aufteilung"],"noteIcon":"","updated":"2025-08-28T20:50:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetzmaske/","tags":["netzwerk/adressierung/trennung","netzwerk/aufteilung"],"noteIcon":"","updated":"2025-09-05T10:16:55.571+02:00"}
 ---
 
 

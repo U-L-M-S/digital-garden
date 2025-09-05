@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/eva-prinzip/","tags":["GFN/LF02","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-08-26T16:35:03.809+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/eva-prinzip/","tags":["GFN/LF02","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-09-05T10:12:29.372+02:00"}
 ---
 
 > <mark style="background: #FFF3A3A6;">E</mark>ingabe <mark style="background: #FFF3A3A6;">V</mark>erarbeitung <mark style="background: #FFF3A3A6;">A</mark>usgabe.

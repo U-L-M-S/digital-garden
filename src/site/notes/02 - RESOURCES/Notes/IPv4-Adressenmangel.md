@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4-adressenmangel/","tags":["ipv4/problem","adressierung/knappheit"],"noteIcon":"","updated":"2025-08-28T20:50:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4-adressenmangel/","tags":["netzwerk/ipv4/problem","netzwerk/adressierung/knappheit","netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-09-05T10:16:55.439+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker-container/","tags":["docker/grundlagen","virtualisierung/container"],"noteIcon":"","updated":"2025-09-04T16:13:31.747+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker-container/","tags":["docker/grundlagen","virtualisierung/container"],"noteIcon":"","updated":"2025-09-05T10:12:29.039+02:00"}
 ---
 
 

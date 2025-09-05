@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dns/","tags":["netzwerk/dns"],"noteIcon":"","updated":"2025-08-26T16:35:03.443+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dns/","tags":["netzwerk/dns"],"noteIcon":"","updated":"2025-09-05T10:12:29.022+02:00"}
 ---
 
 > [[02 - RESOURCES/Notes/Domain\|Domain]] Name System
@@ -37,7 +37,8 @@ graph LR
     boxC --> |10\nreponse index.html| boxA
     
 ```
-{ #1245f6}
+{ #1245f6}
+
 
 
 Wie du es sehen kannst macht der Recursive Resolver die ganze Arbeit. Um das alles schneller zu machen wurde das [[02 - RESOURCES/Notes/TTL Cache\|TTL Cache]] zwischen die  Root Servers und den Recursive Resolver eingefügt.

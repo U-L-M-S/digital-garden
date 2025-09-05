@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker-swarm/","tags":["docker/orchestration","docker/cluster"],"noteIcon":"","updated":"2025-09-04T16:13:29.915+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker-swarm/","tags":["docker/orchestration","docker/cluster"],"noteIcon":"","updated":"2025-09-05T10:12:29.061+02:00"}
 ---
 
 

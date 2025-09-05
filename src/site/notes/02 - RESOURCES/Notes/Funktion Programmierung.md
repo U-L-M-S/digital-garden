@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/funktion-programmierung/","tags":["code"],"noteIcon":"","updated":"2025-08-26T16:35:04.021+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/funktion-programmierung/","tags":["code"],"noteIcon":"","updated":"2025-09-05T10:12:29.524+02:00"}
 ---
 
 > Eine Funktion ist ein Block von wiederverwendbarem Code, der eine bestimmte Aufgabe ausführt.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/eigrp-i-pv6/","tags":["netzwerk/protocol"],"noteIcon":"","updated":"2025-08-26T16:35:03.630+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/eigrp-i-pv6/","tags":["netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-05T10:12:29.168+02:00"}
 ---
 
 >Enhanced Interior Gateway Routing Protocol [[02 - RESOURCES/Notes/IPv6\|IPv6]]

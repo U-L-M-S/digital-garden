@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-enum/","tags":["code/java"],"noteIcon":"","updated":"2025-08-26T16:35:04.936+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-enum/","tags":["code/java"],"noteIcon":"","updated":"2025-09-05T10:12:30.158+02:00"}
 ---
 
 >Ein `enum` in [[02 - RESOURCES/Notes/Java\|Java]] ist ein spezieller [[02 - RESOURCES/Notes/Datentyp\|Datentyp]], der eine Sammlung von Konstanten definiert. 

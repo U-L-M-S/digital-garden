@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker-hub/","tags":["docker/registry","docker/public"],"noteIcon":"","updated":"2025-09-04T16:13:29.795+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker-hub/","tags":["docker/registry","docker/public"],"noteIcon":"","updated":"2025-09-05T10:12:29.043+02:00"}
 ---
 
 

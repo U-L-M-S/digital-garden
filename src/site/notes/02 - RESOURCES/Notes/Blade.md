@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/blade/","tags":["hardware/server"],"noteIcon":"","updated":"2025-08-26T16:35:02.665+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/blade/","tags":["hardware/server"],"noteIcon":"","updated":"2025-09-05T10:12:28.484+02:00"}
 ---
 
  

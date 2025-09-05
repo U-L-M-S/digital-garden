@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docsis/","tags":["netzwerk","hardware"],"noteIcon":"","updated":"2025-08-26T16:35:03.460+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/docsis/","tags":["netzwerk","hardware"],"noteIcon":"","updated":"2025-09-05T10:12:29.079+02:00"}
 ---
 
 ![DOCSIS-20240802053337672.png|200](/img/user/02%20-%20RESOURCES/Files/IMG/DOCSIS-20240802053337672.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/tls/","tags":["sicherheit/verschluesselung","netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-04T16:13:30.015+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/tls/","tags":["sicherheit/verschluesselung","netzwerk/protokoll","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:12:32.287+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dns-over-https/","tags":["dns/verschlüsselung","sicherheit/privatsphäre"],"noteIcon":"","updated":"2025-08-28T20:50:28.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dns-over-https/","tags":["netzwerk/dns/verschlüsselung","sicherheit/privatsphäre","netzwerk/dns","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:14:23.850+02:00"}
 ---
 
 

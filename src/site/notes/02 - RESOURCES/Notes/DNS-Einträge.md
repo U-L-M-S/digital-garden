@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dns-eintraege/","tags":["dns/records","domain/konfiguration"],"noteIcon":"","updated":"2025-08-28T20:50:27.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dns-eintraege/","tags":["netzwerk/dns/records","domain/konfiguration","netzwerk/dns"],"noteIcon":"","updated":"2025-09-05T10:14:23.640+02:00"}
 ---
 
 

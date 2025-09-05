@@ -19,69 +19,9 @@
 
 Es gibt hauptsächlich 3 Frequenzbereiche für . Diese sind:
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/2-4-g-hz-frequenzbereich/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
->[!multi-column]
-> 
->>[!check] Vorteile
->>- Gebührenfreie
->>- Große Verbreitung
->>- Wenig Datenverlust durch Wände 
-> 
->>[!fail] Nachteile
->>- Mögliche Kanälestörung durch andere [[02 - RESOURCES/Notes/WLAN\|WLAN]]s.
->>- Begrenzte Kanäle (1-13)
->>- Nicht so schnell wie [[02 - RESOURCES/Notes/5 GHz Frequenzbereich\|5 GHz Frequenzbereich]].
-
-
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/5-g-hz-frequenzbereich/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
->[!multi-column]
-> 
->>[!check] Vorteile
->>- Schneller als [[02 - RESOURCES/Notes/2.4 GHz Frequenzbereich\|2.4 GHz Frequenzbereich]] (höhere Übertragungsrate).
->>- Niedrige Störungsrate
-> 
->>[!fail] Nachteile
->>- [[02 - RESOURCES/Notes/Ad-hoc Mode\|Ad-hoc Mode]] wird von den meisten Geräten nicht unterstützt.
->>- Riesig Datenverlust durch Wände. 
-
-
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/6-g-hz-frequenzbereich/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
->[!multi-column]
-> 
->>[!check] Vorteile
->> - Schneller als [[02 - RESOURCES/Notes/5 GHz Frequenzbereich\|5 GHz Frequenzbereich]] (höhere Übertragungsrate).
->> - Geringere Interferenz zu vergleich von [[02 - RESOURCES/Notes/2.4 GHz Frequenzbereich\|2.4 GHz Frequenzbereich]] und [[02 - RESOURCES/Notes/5 GHz Frequenzbereich\|5 GHz Frequenzbereich]]. 
-> 
->>[!fail] Nachteile
->>- Riesig Datenverlust durch Wände.
->>- Kompatibilität (Ältere Geräte unterstützen es nicht).
->>- [[02 - RESOURCES/Notes/Kosten\|Kosten]] (Geräte, die das unterstützt sind meistens teurer als normal).  
->>- Einschränkungen (In bestimmten Regionen es ist nicht erlaubt).
-
-
-</div></div>
-
+[[02 - RESOURCES/Notes/2.4 GHz Frequenzbereich\|2.4 GHz Frequenzbereich]]
+[[02 - RESOURCES/Notes/5 GHz Frequenzbereich\|5 GHz Frequenzbereich]]
+[[02 - RESOURCES/Notes/6 GHz Frequenzbereich\|6 GHz Frequenzbereich]]
 
 # 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/wlan-standards/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
