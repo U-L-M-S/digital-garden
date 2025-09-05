@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/server-virtualisierung/","tags":["informatik/virtualisierung"],"noteIcon":"","updated":"2025-09-05T10:40:41.110+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/server-virtualisierung/","tags":["informatik/virtualisierung"],"noteIcon":"","updated":"2025-09-05T11:04:30.547+02:00"}
 ---
 
 >Jetzt dass du [[02 - RESOURCES/Notes/Server - Grundlagen\|Server - Grundlagen]] gelernt hast. lass uns auf [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]] fokusieren.
@@ -25,3 +25,83 @@ Was machst du? Kaufst du dir zwei weitere [[02 - RESOURCES/Notes/Tower-Server\|T
 | Beispiel: VMware, KVM           | Beispiel: QEMU, Yuzu         | Beispiel: GNS3, Flugsimulator, NS-3 |
 
 # Gründe für [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]]
+
+## ✅ Vorteile:
+
+- **💰 Kosten und Energieeinsparung:** Hardware wird besser ausgenutzt
+- **📈 Einfache Skalierung:** Ressourcen lassen sich je nach Anforderung verteilen
+- **📸 Snapshots:** VMs können eingefroren werden → Änderungen einfach rückgängig machen
+- **🔄 Einfaches Klonen:** Neue VMs sehr schnell bereitstellen
+- **🔒 Isolierung:** Programme stören sich nicht gegenseitig
+
+## ❌ Nachteile:
+
+- **⚠️ Single Point of Failure:** Fällt Host-System aus → alle VMs betroffen
+- **🔄 Ressourcen teilen:** Verbraucht eine VM viel → beeinflusst andere VMs
+
+# Arten der [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]]
+
+## [[Hardware-Virtualisierung\|Hardware-Virtualisierung]]
+
+> **[[Hypervisor\|Hypervisor]]:** Software, die virtuelle Maschinen verwaltet
+
+### [[Hypervisor\|Hypervisor]] Type 1: Bare Metal
+
+- Läuft direkt auf Hardware
+- **Beispiel:** VMware ESXi, Microsoft Hyper-V
+
+### [[Hypervisor\|Hypervisor]] Type 2: Hosted
+
+- Läuft auf einem Betriebssystem
+- **Beispiel:** VMware Workstation, VirtualBox
+
+### Voll-[[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]]
+
+- Komplette Hardware wird vorgetäuscht
+- Gast-OS weiß nichts von [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]]
+- ✅ Jedes OS kann virtualisiert werden
+- ❌ Hoher Ressourcenverbrauch
+
+### Para-[[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]]
+
+- Gast-OS kommuniziert direkt mit [[Hypervisor\|Hypervisor]] über API
+- ✅ Bessere Performance
+- ❌ Nur modifizierte Gastsysteme möglich
+
+## [[Software-Virtualisierung\|Software-Virtualisierung]]
+
+> **Application [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]]:** Apps laufen isoliert ohne Installation
+
+- ✅ Zentrale Bereitstellung und Verwaltung
+- ✅ Schutz vor Schadcode
+- ✅ Keine Rückstände auf System
+- ❌ Nicht alle Apps virtualisierbar
+- **Beispiel:** [[02 - RESOURCES/Notes/JVM\|JVM]], .NET Framework
+
+## [[Desktop-Virtualisierung\|Desktop-Virtualisierung]] (VDI)
+
+> **Virtual Desktop Infrastructure:** Arbeitsplätze in virtueller Umgebung
+
+- Zugriff von überall im Netzwerk
+- Nur Thin-/Zero-Clients nötig
+- ✅ Zentrale Administration
+- ✅ Günstige Endgeräte
+- ❌ Konstante Netzwerkverbindung erforderlich
+- **Anbieter:** Microsoft, VMware, Citrix
+
+## [[Container-Virtualisierung\|Container-Virtualisierung]]
+
+> **[[Container\|Container]]:** Teilen sich OS-Kernel, isolierte Laufzeitumgebungen
+
+- Virtualisierung auf OS-Ebene
+- ✅ Minimaler Leistungsverlust
+- ✅ Sehr portabel (nur Host-OS benötigt)
+- ✅ Geringer Installationsaufwand (100 MB möglich)
+- **Beispiel:** [[02 - RESOURCES/Notes/Docker\|Docker]], Kubernetes
+
+|Art|Isolation|Performance|Beispiel|
+|---|---|---|---|
+|[[Hardware-Virtualisierung\|Hardware-Virtualisierung]]|Komplett|Mittel|VMware|
+|[[Container-Virtualisierung\|Container-Virtualisierung]]|Prozess|Hoch|[[02 - RESOURCES/Notes/Docker\|Docker]]|
+|[[Software-Virtualisierung\|Software-Virtualisierung]]|App|Hoch|[[02 - RESOURCES/Notes/JVM\|JVM]]|
+|[[Desktop-Virtualisierung\|Desktop-Virtualisierung]]|Desktop|Mittel|VDI|
