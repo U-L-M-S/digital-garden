@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2-fisi/lf-12-kundenspezifische-systemintegration-durchfuehren/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2025-09-05T15:21:10.534+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2-fisi/lf-12-kundenspezifische-systemintegration-durchfuehren/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2025-09-05T15:24:30.770+02:00"}
 ---
-
-# LF12b - Kundenspezifische Systemintegration durchführen
 
 ## Überblick
 
@@ -24,7 +22,7 @@ Als IT-ler machst du nicht nur "irgendwas mit Computern". Du löst echte Geschä
 **Echte Beispiele aus dem Job:**
 
 - Server-Migration in Arztpraxis
-- ERP-System Einführung in kleinem Betrieb
+- ERP-System Einführung in kleinem [[02 - RESOURCES/Notes/Betrieb\|Betrieb]]
 - Netzwerk-Sicherheit für Kanzlei
 - Cloud-Migration für Handwerksbetrieb
 

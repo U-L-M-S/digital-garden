@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-09-04T08:55:55.312+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-09-05T15:24:11.972+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -51,6 +51,12 @@ ___
 > [!important] Prüfungskatalog 2025 AP2  
 > Laut [IT-Berufe-Podcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap2-als-fachinformatiker-anwendungsentwicklung-ab-2025-it-berufe-podcast-191/) enthält der Prüfungskatalog die Themen, die in der AP2 vorkommen können: [[02 - RESOURCES/Notes/AP2 Prüfungskatalog 2025\|AP2 Prüfungskatalog 2025]]
 
+
+# AP2-relevant FISI:
+___
+- 🟢 [[00 - PROJECTS/GFN/AP2 - FISI/LF10 Servicedienste bereitstellen und Administration\|LF10 Servicedienste bereitstellen und Administration]]
+- 🟢 [[00 - PROJECTS/GFN/AP2 - FISI/LF11 Betrieb und Sicherheit vernetzter Systeme gewährleisten\|LF11 Betrieb und Sicherheit vernetzter Systeme gewährleisten]]
+- 🟢 [[00 - PROJECTS/GFN/AP2 - FISI/LF12 Kundenspezifische Systemintegration durchführen\|LF12 Kundenspezifische Systemintegration durchführen]]
 # +
 - 🔴 [[00 - PROJECTS/GFN/+/LFvt4 Datenbanken und SQL\|LFvt4 Datenbanken und SQL]]
 - 🔴 [[00 - PROJECTS/GFN/+/LFzq17a Objektorientierte Programmierung\|LFzq17a Objektorientierte Programmierung]]
