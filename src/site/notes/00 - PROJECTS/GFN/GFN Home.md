@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-09-05T15:24:11.972+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-09-05T15:25:51.654+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -57,11 +57,7 @@ ___
 - 🟢 [[00 - PROJECTS/GFN/AP2 - FISI/LF10 Servicedienste bereitstellen und Administration\|LF10 Servicedienste bereitstellen und Administration]]
 - 🟢 [[00 - PROJECTS/GFN/AP2 - FISI/LF11 Betrieb und Sicherheit vernetzter Systeme gewährleisten\|LF11 Betrieb und Sicherheit vernetzter Systeme gewährleisten]]
 - 🟢 [[00 - PROJECTS/GFN/AP2 - FISI/LF12 Kundenspezifische Systemintegration durchführen\|LF12 Kundenspezifische Systemintegration durchführen]]
-# +
-- 🔴 [[00 - PROJECTS/GFN/+/LFvt4 Datenbanken und SQL\|LFvt4 Datenbanken und SQL]]
-- 🔴 [[00 - PROJECTS/GFN/+/LFzq17a Objektorientierte Programmierung\|LFzq17a Objektorientierte Programmierung]]
-# Zusatzqualifikation
-- 🔴 [[00 - PROJECTS/GFN/Zusatzqualifikation/LFzq3a Agile Scrum Foundation\|LFzq3a Agile Scrum Foundation]]
+
 
 ___
 ___
