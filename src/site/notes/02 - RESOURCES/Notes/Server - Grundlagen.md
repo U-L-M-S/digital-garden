@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/server-grundlagen/","noteIcon":"","updated":"2025-08-26T16:35:07.441+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/server-grundlagen/","tags":["GFN/LF10/FISI"],"noteIcon":"","updated":"2025-09-05T11:57:16.251+02:00"}
 ---
 
 > Bevor wir in das Thema gehen, frage ich dich: Was ist ein [[02 - RESOURCES/Notes/Server\|Server]]? Was macht er?
