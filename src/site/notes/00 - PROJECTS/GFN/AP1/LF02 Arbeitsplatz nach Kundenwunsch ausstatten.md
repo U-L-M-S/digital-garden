@@ -221,5 +221,6 @@ Nicht nur Preis wichtig:
 4. **[[Erden\|Erden]]** - sicher machen
 5. **[[Abdecken\|Abdecken]]** - gefährliche Teile verstecken
 
+---
 
 > [!info] Diese Zusammenfassung basiert auf den Materialien von Herrn Thomas Hochgesang. Die Informationen und Konzepte wurden aus den von ihm bereitgestellten Lehrunterlagen und Vorlesungen entnommen. Alle Bilder, die hier gepostet wurden, stammen aus dem Buch [Westermann](https://www.westermann.de/reihe/ITBERUF2020/IT-Berufe?a=1) oder aus den PDF-Präsentationen von Herrn Thomas Hochgesang. Mein Ziel war es, die wesentlichen Punkte zusammenzufassen und die Kerninhalte verständlich darzustellen.
