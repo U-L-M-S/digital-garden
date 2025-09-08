@@ -32,7 +32,7 @@
 ## 💻 Entwickeln von IT-Lösungen
 
 - 🐛 **Fehleranalyse & Debugging** 👈
-    - [[Debugging\|Debugging]], [[Breakpoint\|Breakpoint]]
+    - [[02 - RESOURCES/Notes/Debugging\|Debugging]], [[Breakpoint\|Breakpoint]]
     - [[Black Box Test\|Black Box Test]], [[White Box Test\|White Box Test]]
     - 🆕 [[Last- und Performancetest\|Last- und Performancetest]]
     - 🆕 [[Test Driven Development\|Test Driven Development]] (TDD)

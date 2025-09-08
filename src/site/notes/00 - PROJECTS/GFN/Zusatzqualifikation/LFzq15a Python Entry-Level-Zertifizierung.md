@@ -4,6 +4,8 @@
 
 >Dieser Zusammenfassung ist eine Vorbereitung auf die PCEP - Certificated Entry-Level Python Programmer.
 
+
+
 >[!info] 
 >Diese Zusammenfassung basiert auf den Materialien von Herr Kay Schmied.  
 >Die Informationen und Konzepte wurden aus den von ihm bereitgestellten Lehrunterlagen und Vorlesungen entnommen. 

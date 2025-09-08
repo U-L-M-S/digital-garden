@@ -284,7 +284,7 @@ Die **Kommandozeile** - nur Text, keine Bilder:
 - Wie Rechtschreibprüfung für Code
 - Findet typische Fehler und Probleme
 
-### [[Debugging\|Debugging]]
+### [[02 - RESOURCES/Notes/Debugging\|Debugging]]
 
 **Fehlersuche im Code**
 
