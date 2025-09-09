@@ -3,5 +3,5 @@
 ---
 
 >Bundesdatenschutzgesetz
->>Es ergänzt die [[02 - RESOURCES/Notes/DSGVO\|DSGVO]] und gilt in [[02 - RESOURCES/Notes/Deutschland\|Deutschland]]. 
+>>Es ergänzt die [[02 - RESOURCES/Notes/DSGVO\|DSGVO]] und gilt in [[Deutschland\|Deutschland]]. 
 >>Es regelt unter anderem den Datenschutz im [[02 - RESOURCES/Notes/Arbeitsrecht\|Arbeitsrecht]], in der Strafverfolgung, bei Behörden und in weiteren Bereichen.
