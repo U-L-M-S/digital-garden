@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/piconet/","tags":["netzwerk/bluetooth/netzwerk","geräte/gruppe","netzwerk/wireless"],"noteIcon":"","updated":"2025-09-05T10:18:22.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/piconet/","tags":["informatik/netzwerk/bluetooth/netzwerk","geräte/gruppe","informatik/netzwerk/wireless"],"noteIcon":"","updated":"2025-09-10T16:35:32.356+02:00"}
 ---
 
 

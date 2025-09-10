@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv4/","tags":["netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-09-05T10:12:32.171+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv4/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-09-10T16:35:37.203+02:00"}
 ---
 
 >Zuerst lass uns einen Blick auf das werfen, was wir über [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]n wissen. 

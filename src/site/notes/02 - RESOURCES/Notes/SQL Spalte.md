@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-spalte/","tags":["datenbank"],"noteIcon":"","updated":"2025-09-05T10:12:32.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-spalte/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2025-09-10T16:38:19.001+02:00"}
 ---
 
 >Es ist die "[[02 - RESOURCES/Notes/Variable\|Variable]]n" in die [[02 - RESOURCES/Notes/SQL\|SQL]] Sprache.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnet-mask/","tags":["netzwerk/subnet-mask"],"noteIcon":"","updated":"2025-09-05T10:12:32.169+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnet-mask/","tags":["informatik/netzwerk/subnet-mask"],"noteIcon":"","updated":"2025-09-10T16:35:36.954+02:00"}
 ---
 
 ## Subnet Mask 

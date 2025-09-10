@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/break-even-point/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung","BWL"],"noteIcon":"","updated":"2025-09-05T10:12:28.504+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/break-even-point/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung","BWL"],"noteIcon":"","updated":"2025-09-05T10:12:28.000+02:00"}
 ---
 
 >Die Menge, bei der deine Erlöse (Umsätze) genau deine Gesamtkosten ([[02 - RESOURCES/Notes/Fixkosten\|Fixkosten]] + [[02 - RESOURCES/Notes/Variable Kosten\|Variable Kosten]]) decken.

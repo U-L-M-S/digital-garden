@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/cut-through/","tags":["switch/verfahren","weiterleitung/schnell","netzwerk/hardware"],"noteIcon":"","updated":"2025-09-05T10:27:30.107+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/cut-through/","tags":["informatik/netzwerk/switch/verfahren","weiterleitung/schnell","informatik/netzwerk/hardware"],"noteIcon":"","updated":"2025-09-10T17:04:18.268+02:00"}
 ---
 
 

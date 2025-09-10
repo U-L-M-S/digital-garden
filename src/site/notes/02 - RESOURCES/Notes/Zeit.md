@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/zeit/","tags":["netzwerk/messung","übertragung/dauer"],"noteIcon":"","updated":"2025-09-05T15:14:22.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/zeit/","tags":["informatik/netzwerk/messung","übertragung/dauer"],"noteIcon":"","updated":"2025-09-10T16:35:42.247+02:00"}
 ---
 
 **Zeit (t)** - Dauer einer [[02 - RESOURCES/Notes/Datenübertragung\|Datenübertragung]] in Sekunden.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/private-ip-adressen/","tags":["netzwerk/adressierung/lokal","lan/intern","netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-09-05T10:16:54.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/private-ip-adressen/","tags":["informatik/netzwerk/adressierung/lokal","lan/intern","informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-09-10T16:35:33.273+02:00"}
 ---
 
 

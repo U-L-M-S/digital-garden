@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4-adressen/","tags":["netzwerk/adressierung/internet","protokoll/version4","netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-09-05T10:16:54.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4-adressen/","tags":["informatik/netzwerk/adressierung/internet","protokoll/version4","informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-09-10T16:35:21.380+02:00"}
 ---
 
 

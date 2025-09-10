@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/colocation/","tags":["infrastruktur/miete","server/untergebracht","hardware"],"noteIcon":"","updated":"2025-09-05T10:12:28.656+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/colocation/","tags":["infrastruktur/miete","informatik/server/untergebracht","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:01:52.333+02:00"}
 ---
 
 

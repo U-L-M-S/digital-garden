@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/http-file-server/","tags":["code/python","software/server","netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-05T10:12:29.809+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/http-file-server/","tags":["informatik/code/python","software/server","informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-10T16:35:18.893+02:00"}
 ---
 
 >Ein [[02 - RESOURCES/Notes/HTTP\|HTTP]]-Server starten.

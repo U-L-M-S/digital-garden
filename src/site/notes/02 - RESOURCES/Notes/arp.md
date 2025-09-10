@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/arp/","tags":["netzwerk/protokoll","betriebssystem/linux/command","windows/command"],"noteIcon":"","updated":"2025-09-05T11:35:10.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/arp/","tags":["informatik/netzwerk/protokoll","informatik/betriebssystem/linux/command","informatik/betriebssystem/windows/command"],"noteIcon":"","updated":"2025-09-10T16:55:34.898+02:00"}
 ---
 
 > Address Resolution Protocol

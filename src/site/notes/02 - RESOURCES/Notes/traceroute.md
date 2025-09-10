@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/traceroute/","tags":["windows/command","netzwerk"],"noteIcon":"","updated":"2025-09-05T10:12:32.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/traceroute/","tags":["informatik/betriebssystem/windows/command","informatik/netzwerk"],"noteIcon":"","updated":"2025-09-10T16:55:35.556+02:00"}
 ---
 
 > Zeigt den **Weg der [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]]** von deinem Rechner bis zum Zielserver ([[02 - RESOURCES/Notes/Hop\|Hop]] für [[02 - RESOURCES/Notes/Hop\|Hop]]).  

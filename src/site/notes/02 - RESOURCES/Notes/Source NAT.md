@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/source-nat/","tags":["nat/typ","übersetzung/quelle","netzwerk"],"noteIcon":"","updated":"2025-09-05T10:21:51.451+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/source-nat/","tags":["nat/typ","übersetzung/quelle","informatik/netzwerk"],"noteIcon":"","updated":"2025-09-10T16:35:36.356+02:00"}
 ---
 
 

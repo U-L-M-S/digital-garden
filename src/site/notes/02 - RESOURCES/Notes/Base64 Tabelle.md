@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/base64-tabelle/","tags":["code","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:12:28.338+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/base64-tabelle/","tags":["informatik/code","it-sicherheit"],"noteIcon":"","updated":"2025-09-10T16:32:57.579+02:00"}
 ---
 
 

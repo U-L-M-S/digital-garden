@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mail-server/","tags":["netzwerk/server","kommunikation/email","hardware"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/mail-server/","tags":["informatik/netzwerk/server","kommunikation/email","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:11.121+02:00"}
 ---
 
 

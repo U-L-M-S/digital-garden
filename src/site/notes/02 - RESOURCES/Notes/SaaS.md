@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/saa-s/","tags":["netzwerk"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/saa-s/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2025-09-10T16:35:35.169+02:00"}
 ---
 
 > Software as a Service

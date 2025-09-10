@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/gan/","tags":["netzwerk"],"noteIcon":"","updated":"2025-09-05T10:12:29.535+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/gan/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2025-09-10T16:35:17.949+02:00"}
 ---
 
 > Global Area Network

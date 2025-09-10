@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/adsl/","tags":["hardware","netzwerk"],"noteIcon":"","updated":"2025-09-05T10:12:28.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/adsl/","tags":["informatik/hardware","informatik/netzwerk"],"noteIcon":"","updated":"2025-09-10T17:00:08.608+02:00"}
 ---
 
 >Asymmetric [[02 - RESOURCES/Notes/DSL\|DSL]]

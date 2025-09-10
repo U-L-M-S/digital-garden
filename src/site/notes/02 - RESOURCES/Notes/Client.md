@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/client/","tags":["netzwerk/rolle","computer/typ"],"noteIcon":"","updated":"2025-09-05T10:12:28.642+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/client/","tags":["informatik/netzwerk/rolle","computer/typ"],"noteIcon":"","updated":"2025-09-10T16:35:10.129+02:00"}
 ---
 
 

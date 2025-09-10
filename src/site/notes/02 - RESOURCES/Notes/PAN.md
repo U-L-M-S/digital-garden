@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pan/","tags":["netzwerk/wireless"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pan/","tags":["informatik/netzwerk/wireless"],"noteIcon":"","updated":"2025-09-10T16:35:31.268+02:00"}
 ---
 
 > Personal Area Network.

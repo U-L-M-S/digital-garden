@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dhcp/","tags":["netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-05T10:12:28.889+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dhcp/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-10T16:35:11.377+02:00"}
 ---
 
 >Dynamic Host Configuration Protocol

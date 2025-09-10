@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/session-layer/","tags":["netzwerk/osi/layer5","verbindung/verwaltung","netzwerk/osi"],"noteIcon":"","updated":"2025-09-05T10:21:18.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/session-layer/","tags":["informatik/netzwerk/osi/layer5","verbindung/verwaltung","informatik/netzwerk/osi"],"noteIcon":"","updated":"2025-09-10T16:35:35.900+02:00"}
 ---
 
 

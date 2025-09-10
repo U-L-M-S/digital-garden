@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/source-address-table/","tags":["switch/tabelle","mac/lernen","netzwerk/hardware"],"noteIcon":"","updated":"2025-09-05T10:23:28.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/source-address-table/","tags":["informatik/netzwerk/switch/tabelle","informatik/netzwerk/hardware","lernen"],"noteIcon":"","updated":"2025-09-10T17:04:18.637+02:00"}
 ---
 
 

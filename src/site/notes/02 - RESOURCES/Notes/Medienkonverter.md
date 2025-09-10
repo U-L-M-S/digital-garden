@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/medienkonverter/","tags":["netzwerk/wandler","medium/übergang","hardware"],"noteIcon":"","updated":"2025-09-05T10:12:30.704+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/medienkonverter/","tags":["informatik/netzwerk/wandler","medium/übergang","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:11.307+02:00"}
 ---
 
 

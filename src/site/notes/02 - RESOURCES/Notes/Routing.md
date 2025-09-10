@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/routing/","tags":["netzwerk/gateway","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/routing/","tags":["informatik/netzwerk/gateway","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-09-10T16:35:34.336+02:00"}
 ---
 
 >Methode zu [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] der Weiterleitung von [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]]n.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/entitaet/","tags":["datenbank","psychologie"],"noteIcon":"","updated":"2025-09-05T10:12:29.291+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/entitaet/","tags":["informatik/datenbank","psychologie"],"noteIcon":"","updated":"2025-09-10T16:38:17.462+02:00"}
 ---
 
 > Es ist nicht anders als ein **Ding** oder **Objekt**.
