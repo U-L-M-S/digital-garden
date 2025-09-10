@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dns-amplification/","tags":["sicherheit/ddos","netzwerk/dns/missbrauch","netzwerk/dns","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:14:23.484+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dns-amplification/","tags":["sicherheit/ddos","informatik/netzwerk/dns/missbrauch","informatik/netzwerk/dns","it-sicherheit"],"noteIcon":"","updated":"2025-09-10T16:35:12.248+02:00"}
 ---
 
 

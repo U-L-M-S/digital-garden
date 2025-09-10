@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-getter-methode/","tags":["code/java","code/oop"],"noteIcon":"","updated":"2025-09-05T10:12:30.178+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-getter-methode/","tags":["informatik/code/java","informatik/code/OOP"],"noteIcon":"","updated":"2025-09-10T16:33:03.792+02:00"}
 ---
 
 >Eine [[02 - RESOURCES/Notes/Getter Methode\|Getter-Methode]] ist eine spezielle [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] in der objektorientierten Programmierung ([[02 - RESOURCES/Notes/OOP\|OOP]]), die verwendet wird, um den Wert einer privaten [[02 - RESOURCES/Notes/Variable\|Variable]] in einer [[02 - RESOURCES/Notes/Klasse\|Klasse]] abzurufen. 

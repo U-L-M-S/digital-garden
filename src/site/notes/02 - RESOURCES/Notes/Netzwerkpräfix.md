@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerkpraefix/","tags":["netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-09-05T10:12:30.934+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerkpraefix/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-09-10T16:35:30.062+02:00"}
 ---
 
 >Die ersten 64 [[02 - RESOURCES/Notes/Bit\|Bit]]s der [[02 - RESOURCES/Notes/IPv6\|IPv6]].

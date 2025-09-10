@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/osi-schichtenmodell/","tags":["netzwerk/standard","protokoll/schichten","netzwerk/osi"],"noteIcon":"","updated":"2025-09-05T10:38:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/osi-schichtenmodell/","tags":["informatik/netzwerk/standard","protokoll/schichten","informatik/netzwerk/osi"],"noteIcon":"","updated":"2025-09-10T16:35:30.612+02:00"}
 ---
 
 >**OSI-Schichtenmodell** - Detailliertes [[02 - RESOURCES/Notes/OSI-Modell\|OSI-Modell]] mit 7 Layern.

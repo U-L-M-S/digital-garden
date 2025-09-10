@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/https/","tags":["netzwerk","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:12:29.823+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/https/","tags":["informatik/netzwerk","it-sicherheit"],"noteIcon":"","updated":"2025-09-10T16:35:19.160+02:00"}
 ---
 
 > Hyper Text Transfer Protocol Secure.

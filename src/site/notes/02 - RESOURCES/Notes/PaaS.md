@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/paa-s/","tags":["GFN/LF03","GFN/LF09","netzwerk"],"noteIcon":"","updated":"2025-09-05T10:12:31.080+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/paa-s/","tags":["GFN/LF03","GFN/LF09","informatik/netzwerk"],"noteIcon":"","updated":"2025-09-10T16:35:31.812+02:00"}
 ---
 
 > Platform as a Service
