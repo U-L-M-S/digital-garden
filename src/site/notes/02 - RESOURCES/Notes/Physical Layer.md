@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/physical-layer/","tags":["netzwerk/osi/layer1","hardware/übertragung","netzwerk/osi"],"noteIcon":"","updated":"2025-09-05T10:38:52.747+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/physical-layer/","tags":["netzwerk/osi/layer1","hardware/übertragung","netzwerk/osi"],"noteIcon":"","updated":"2025-09-05T10:38:52.000+02:00"}
 ---
 
 >**Physical Layer (Schicht 1)** - Physische Übertragung im [[02 - RESOURCES/Notes/OSI-Schichtenmodell\|OSI-Schichtenmodell]].

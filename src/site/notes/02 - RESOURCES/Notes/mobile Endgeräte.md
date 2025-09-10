@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mobile-endgeraete/","tags":["hardware/mobil","netzwerk/client"],"noteIcon":"","updated":"2025-09-05T10:12:30.787+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/mobile-endgeraete/","tags":["hardware/mobil","netzwerk/client"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
 ---
 
 

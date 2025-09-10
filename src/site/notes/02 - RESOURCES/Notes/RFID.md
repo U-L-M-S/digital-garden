@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rfid/","tags":["funktechnik/identifikation","automatisierung/funk"],"noteIcon":"","updated":"2025-09-05T10:12:31.639+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/rfid/","tags":["funktechnik/identifikation","automatisierung/funk"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
 ---
 
 

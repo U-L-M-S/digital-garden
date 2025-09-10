@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lastenheft/","tags":["projektmanagement","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-09-05T10:12:30.425+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/lastenheft/","tags":["projektmanagement","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
 ---
 
 >Notwendige Dokument für die Definition und Beschreibung der Kundenanforderungen und Erwartungen an ein Projekt. Ein [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] legt fest, was der Kunde will und braucht, und bildet die Grundlage für das [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]].

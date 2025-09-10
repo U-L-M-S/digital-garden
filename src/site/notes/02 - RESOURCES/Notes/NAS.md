@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/nas/","tags":["netzwerk","speicher","GFN/prüfungsrelevant/AP1","hardware"],"noteIcon":"","updated":"2025-09-05T10:12:30.841+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/nas/","tags":["netzwerk","speicher","GFN/prüfungsrelevant/AP1","hardware"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
 ---
 
 > Network Attached Storage

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/root-server/","tags":["netzwerk/dns/hierarchie","netzwerk/internet/wurzel","netzwerk/dns"],"noteIcon":"","updated":"2025-09-05T10:16:28.146+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/root-server/","tags":["netzwerk/dns/hierarchie","netzwerk/internet/wurzel","netzwerk/dns"],"noteIcon":"","updated":"2025-09-05T10:16:28.000+02:00"}
 ---
 
 

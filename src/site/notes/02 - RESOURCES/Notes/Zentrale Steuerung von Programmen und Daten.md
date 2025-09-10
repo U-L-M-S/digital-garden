@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/zentrale-steuerung-von-programmen-und-daten/","tags":["netzwerk/verwaltung","administration"],"noteIcon":"","updated":"2025-09-05T10:12:32.848+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/zentrale-steuerung-von-programmen-und-daten/","tags":["netzwerk/verwaltung","administration"],"noteIcon":"","updated":"2025-09-05T10:12:32.000+02:00"}
 ---
 
 

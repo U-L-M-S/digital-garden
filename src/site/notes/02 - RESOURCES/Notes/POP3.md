@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pop-3/","tags":["protokoll/email","download/local","netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-05T10:12:31.250+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pop-3/","tags":["protokoll/email","download/local","netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
 ---
 
 

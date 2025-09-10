@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bit/","tags":["informatik","netzwerk","mathe/binärzahlen"],"noteIcon":"","updated":"2025-09-05T10:12:28.465+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bit/","tags":["informatik","netzwerk","mathe/binärzahlen"],"noteIcon":"","updated":"2025-09-05T10:12:28.000+02:00"}
 ---
 
 > Ein Bit ist die kleinste Informationseinheit in der Informatik. 

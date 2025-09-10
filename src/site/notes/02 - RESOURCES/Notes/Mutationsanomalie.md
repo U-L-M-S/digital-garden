@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mutationsanomalie/","tags":["datenbank"],"noteIcon":"","updated":"2025-09-05T10:12:30.822+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/mutationsanomalie/","tags":["datenbank"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
 ---
 
 > Diese Art von [[02 - RESOURCES/Notes/Anomalie\|Anomalie]] trifft auf wenn [[02 - RESOURCES/Notes/Redundanz\|Redundanz]]daten erscheinen.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/make-or-buy/","tags":["BWL"],"noteIcon":"","updated":"2025-09-05T10:12:30.579+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/make-or-buy/","tags":["BWL"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
 ---
 
 > Entscheidung, ob ein [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] ein Produkt/Service **selbst produziert (Make)** oder von externen Anbietern **einkauft (Buy)**.

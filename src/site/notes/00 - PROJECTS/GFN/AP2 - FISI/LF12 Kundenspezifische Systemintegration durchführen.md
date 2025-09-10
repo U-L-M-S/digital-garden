@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2-fisi/lf-12-kundenspezifische-systemintegration-durchfuehren/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2025-09-05T15:24:30.770+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2-fisi/lf-12-kundenspezifische-systemintegration-durchfuehren/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2025-09-05T15:24:30.000+02:00"}
 ---
 
 ## Überblick

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-insert/","tags":["code/sql","datenbank"],"noteIcon":"","updated":"2025-09-05T10:12:32.025+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-insert/","tags":["code/sql","datenbank"],"noteIcon":"","updated":"2025-09-05T10:12:32.000+02:00"}
 ---
 
 >Befehl wir verwendet um [[02 - RESOURCES/Notes/SQL Zeile\|SQL Zeile]] (Werten) in die [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n ([[02 - RESOURCES/Notes/Variable\|Variable]]) einsetzen.

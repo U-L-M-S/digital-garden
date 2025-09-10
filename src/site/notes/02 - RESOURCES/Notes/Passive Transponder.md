@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/passive-transponder/","tags":["rfid/typ","energie/extern"],"noteIcon":"","updated":"2025-09-05T10:12:31.109+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/passive-transponder/","tags":["rfid/typ","energie/extern"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/raid0/","tags":["speicher/raid/raid0","hardware"],"noteIcon":"","updated":"2025-09-05T10:12:31.523+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/raid0/","tags":["speicher/raid/raid0","hardware"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
 ---
 
 ## Raid0 

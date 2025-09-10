@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ieee-802-1x/","tags":["elektrotechnik/wlan/sicherheit","authentifizierung/enterprise","netzwerk/wifi","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:26:41.362+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ieee-802-1x/","tags":["elektrotechnik/wlan/sicherheit","authentifizierung/enterprise","netzwerk/wifi","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:26:40.000+02:00"}
 ---
 
 

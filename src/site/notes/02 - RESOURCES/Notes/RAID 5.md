@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/raid-5/","tags":["raid/parität","kompromiss/sicherheit-performance","hardware"],"noteIcon":"","updated":"2025-09-05T10:12:31.506+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/raid-5/","tags":["raid/parität","kompromiss/sicherheit-performance","hardware"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
 ---
 
 

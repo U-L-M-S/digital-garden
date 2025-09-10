@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/akkulaufzeit/","tags":["batterie/dauer","usv/versorgungszeit","hardware"],"noteIcon":"","updated":"2025-09-05T10:12:28.057+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/akkulaufzeit/","tags":["batterie/dauer","usv/versorgungszeit","hardware"],"noteIcon":"","updated":"2025-09-05T10:12:28.000+02:00"}
 ---
 
 

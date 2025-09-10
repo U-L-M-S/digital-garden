@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/server/","tags":["hardware/server","AI-generated"],"noteIcon":"","updated":"2025-09-05T10:12:31.785+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/server/","tags":["hardware/server","AI-generated"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
 ---
 
 ![image-79.png](/img/user/02%20-%20RESOURCES/Files/image-79.png)

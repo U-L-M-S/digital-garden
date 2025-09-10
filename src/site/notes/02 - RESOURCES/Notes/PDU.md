@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pdu/","tags":["netzwerk/protokoll","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-09-05T10:12:31.123+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pdu/","tags":["netzwerk/protokoll","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
 ---
 
 > Protocol Data Unit

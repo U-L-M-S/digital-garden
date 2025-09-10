@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lf-11b-netzwerk-grundlagen/","tags":["netzwerk/ipv4","netzwerk/ports","netzwerk/osi","netzwerk/subnetting","GFN/LF11/FISI"],"noteIcon":"","updated":"2025-09-05T14:30:20.783+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/lf-11b-netzwerk-grundlagen/","tags":["netzwerk/ipv4","netzwerk/ports","netzwerk/osi","netzwerk/subnetting","GFN/LF11/FISI"],"noteIcon":"","updated":"2025-09-05T14:30:20.000+02:00"}
 ---
 
 # LF11b Tag 1 - [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] Grundlagen Zusammenfassung

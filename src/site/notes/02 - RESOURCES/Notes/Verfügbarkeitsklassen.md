@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/verfuegbarkeitsklassen/","tags":["verfügbarkeit/kategorien","sla/standards","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:28:20.307+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/verfuegbarkeitsklassen/","tags":["verfügbarkeit/kategorien","sla/standards","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:28:20.000+02:00"}
 ---
 
 

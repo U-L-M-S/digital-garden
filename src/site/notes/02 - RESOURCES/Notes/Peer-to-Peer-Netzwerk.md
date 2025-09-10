@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/peer-to-peer-netzwerk/","tags":["netzwerk/topologie","netzwerk/organisation"],"noteIcon":"","updated":"2025-09-05T10:12:31.128+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/peer-to-peer-netzwerk/","tags":["netzwerk/topologie","netzwerk/organisation"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
 ---
 
 

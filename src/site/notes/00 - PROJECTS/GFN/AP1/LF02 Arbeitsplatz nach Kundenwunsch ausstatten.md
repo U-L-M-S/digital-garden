@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["GFN/LF02","GFN/prüfungsrelevant/AP1","inProgress"],"noteIcon":"","updated":"2025-09-05T10:37:29.387+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["GFN/LF02","GFN/prüfungsrelevant/AP1","inProgress"],"noteIcon":"","updated":"2025-09-05T10:37:28.000+02:00"}
 ---
 
 > Das sind die IT-Grundlagen für Fachinformatiker - alles was du für die Prüfung und den Job brauchst.

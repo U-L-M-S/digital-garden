@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lf-12-projektmanagement/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2025-09-05T14:35:22.665+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/lf-12-projektmanagement/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2025-09-05T14:35:22.000+02:00"}
 ---
 
 # LF12b Tag 1 - [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] Wiederholung

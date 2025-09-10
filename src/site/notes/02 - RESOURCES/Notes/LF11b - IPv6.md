@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lf-11b-i-pv6/","tags":["netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-09-05T14:29:55.780+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/lf-11b-i-pv6/","tags":["netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-09-05T14:29:54.000+02:00"}
 ---
 
 # LF11b - [[02 - RESOURCES/Notes/IPv6\|IPv6]]  
