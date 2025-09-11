@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/linux-grundlage/","tags":["GFN/LF10/FISI","betriebssystem/linux/command"],"noteIcon":"","updated":"2025-09-05T11:58:12.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/linux-grundlage/","tags":["GFN/LF10/FISI","informatik/betriebssystem/linux/command"],"noteIcon":"","updated":"2025-09-10T16:37:55.793+02:00"}
 ---
 
 # Linux Grundlagen

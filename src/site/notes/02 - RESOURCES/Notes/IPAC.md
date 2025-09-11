@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ipac/","tags":["konfiguration/automatisch","windows/fallback"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ipac/","tags":["konfiguration/automatisch","informatik/betriebssystem/windows/fallback"],"noteIcon":"","updated":"2025-09-10T16:55:34.796+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dhcp-nachricht/","tags":["netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-05T10:12:28.876+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dhcp-nachricht/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-10T16:35:11.050+02:00"}
 ---
 
 > Nachricht, die während des DHCP-Algorithmus mitgeschickt wird.

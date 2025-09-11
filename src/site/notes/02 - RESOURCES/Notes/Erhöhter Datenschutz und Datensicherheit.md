@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/erhoehter-datenschutz-und-datensicherheit/","tags":["netzwerk/sicherheit","datenschutz","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:12:29.308+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/erhoehter-datenschutz-und-datensicherheit/","tags":["informatik/netzwerk/sicherheit","datenschutz","it-sicherheit"],"noteIcon":"","updated":"2025-09-10T16:35:16.043+02:00"}
 ---
 
 

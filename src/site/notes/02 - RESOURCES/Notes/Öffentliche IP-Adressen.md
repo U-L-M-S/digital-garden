@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/oeffentliche-ip-adressen/","tags":["netzwerk/adressierung/global","netzwerk/internet/eindeutig","netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-09-05T10:16:54.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/oeffentliche-ip-adressen/","tags":["informatik/netzwerk/adressierung/global","informatik/netzwerk/internet/eindeutig","informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-09-10T16:35:45.117+02:00"}
 ---
 
 

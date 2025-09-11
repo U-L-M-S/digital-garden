@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ip-konflikte/","tags":["netzwerk/fehler","netzwerk/adressierung/doppelt"],"noteIcon":"","updated":"2025-09-05T10:16:54.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ip-konflikte/","tags":["informatik/netzwerk/fehler","informatik/netzwerk/adressierung/doppelt"],"noteIcon":"","updated":"2025-09-10T16:35:20.966+02:00"}
 ---
 
 

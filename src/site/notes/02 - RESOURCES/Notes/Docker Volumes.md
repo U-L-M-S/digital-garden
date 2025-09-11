@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker-volumes/","tags":["docker/storage","docker/persistence"],"noteIcon":"","updated":"2025-09-05T10:12:29.066+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker-volumes/","tags":["informatik/virtualisierung/docker/storage","informatik/virtualisierung/docker/persistence"],"noteIcon":"","updated":"2025-09-10T16:40:27.452+02:00"}
 ---
 
 

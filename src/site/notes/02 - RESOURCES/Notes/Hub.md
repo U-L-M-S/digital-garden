@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hub/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung","netzwerk","hardware"],"noteIcon":"","updated":"2025-09-05T10:12:28.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hub/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung","informatik/netzwerk","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:10.627+02:00"}
 ---
 
 >Ein **Hub** ist ein einfaches [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]gerät, das alle empfangenen [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]] **an alle Ports gleichzeitig** weiterleitet, unabhängig davon, wer der Empfänger ist.

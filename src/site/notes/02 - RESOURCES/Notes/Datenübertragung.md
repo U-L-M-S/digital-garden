@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datenuebertragung/","tags":["netzwerk/übertragung","kommunikation/daten"],"noteIcon":"","updated":"2025-09-05T10:12:28.782+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/datenuebertragung/","tags":["informatik/netzwerk/übertragung","kommunikation/daten"],"noteIcon":"","updated":"2025-09-10T16:35:13.978+02:00"}
 ---
 
 

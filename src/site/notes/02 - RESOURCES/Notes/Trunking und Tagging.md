@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/trunking-und-tagging/","tags":["netzwerk","hardware"],"noteIcon":"","updated":"2025-09-05T10:12:32.335+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/trunking-und-tagging/","tags":["informatik/netzwerk","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:14.226+02:00"}
 ---
 
 >Es wird oft in [[02 - RESOURCES/Notes/VLAN\|VLAN]]s über mehrere [[02 - RESOURCES/Notes/Switch\|Switch]]es eingesetzt, um die Anzahl der Anschlüsse bei den [[02 - RESOURCES/Notes/Switch\|Switch]]es zu erweitern.
