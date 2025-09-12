@@ -22,7 +22,7 @@
 - ⚖️ **Rechtliche Regelungen**
     - [[BGB\|BGB]]/[[HGB\|HGB]] 👈
     - Gesetz gegen unlauteren Wettbewerb
-    - [[AGB\|AGB]] Gesetz, [[Compliance\|Compliance]]
+    - [[AGB\|AGB]] Gesetz, [[02 - RESOURCES/Notes/Compliance\|Compliance]]
 - 🎨 **Präsentation & Visualisierung**
     - Multimediale Aufbereitung, [[02 - RESOURCES/Notes/Corporate Identity\|Corporate Identity]]
     - Tabellenkalkulation, Präsentationsprogramme
