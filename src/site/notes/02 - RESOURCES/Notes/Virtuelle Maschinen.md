@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/virtuelle-maschinen/","tags":["informatik/virtualisierung/vm","infrastruktur/grundlagen"],"noteIcon":"","updated":"2025-09-10T16:53:35.622+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/virtuelle-maschinen/","tags":["informatik/virtualisierung/vm","infrastruktur/grundlagen"],"noteIcon":"","updated":"2025-09-10T16:53:35.000+02:00"}
 ---
 
 >[[02 - RESOURCES/Notes/Virtuelle Maschinen\|Virtuelle Maschinen]] simulieren komplette Computer mit eigenem [[Betriebssystem\|Betriebssystem]] auf physischer Hardware.

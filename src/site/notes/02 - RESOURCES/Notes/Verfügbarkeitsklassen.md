@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/verfuegbarkeitsklassen/","tags":["verfügbarkeit/kategorien","it-sicherheit"],"noteIcon":"","updated":"2025-09-10T17:03:04.797+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/verfuegbarkeitsklassen/","tags":["verfügbarkeit/kategorien","it-sicherheit"],"noteIcon":"","updated":"2025-09-10T17:03:04.000+02:00"}
 ---
 
 >**Verfügbarkeitsklassen (VK)** - Kategorisierung der System-[[02 - RESOURCES/Notes/Verfügbarkeit\|Verfügbarkeit]] nach Ausfallzeiten.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/raid-10/","tags":["raid/hybrid","stripe-mirror-kombination","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:12.126+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/raid-10/","tags":["raid/hybrid","stripe-mirror-kombination","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:12.000+02:00"}
 ---
 
 

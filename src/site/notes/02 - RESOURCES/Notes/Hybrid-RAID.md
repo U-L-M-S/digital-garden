@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hybrid-raid/","tags":["raid/implementation","mischung/hw-sw","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:10.649+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hybrid-raid/","tags":["raid/implementation","mischung/hw-sw","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:10.000+02:00"}
 ---
 
 

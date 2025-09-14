@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/store-and-forward/","tags":["informatik/netzwerk/switch/verfahren","weiterleitung/sicher","informatik/netzwerk/hardware"],"noteIcon":"","updated":"2025-09-10T17:04:18.819+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/store-and-forward/","tags":["informatik/netzwerk/switch/verfahren","weiterleitung/sicher","informatik/netzwerk/hardware"],"noteIcon":"","updated":"2025-09-10T17:04:18.000+02:00"}
 ---
 
 

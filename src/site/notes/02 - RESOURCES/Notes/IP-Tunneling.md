@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ip-tunneling/","tags":["informatik/netzwerk/protokoll","informatik/netzwerk/kapselung"],"noteIcon":"","updated":"2025-09-10T16:35:21.082+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ip-tunneling/","tags":["informatik/netzwerk/protokoll","informatik/netzwerk/kapselung"],"noteIcon":"","updated":"2025-09-10T16:35:21.000+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/iso/","tags":["BWL","informatik/netzwerk/ISO"],"noteIcon":"","updated":"2025-09-10T16:35:23.314+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/iso/","tags":["BWL","informatik/netzwerk/ISO"],"noteIcon":"","updated":"2025-09-10T16:35:23.000+02:00"}
 ---
 
 >Internationale Organisation für Normung.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/scatternet/","tags":["informatik/netzwerk/bluetooth/vernetzung","piconet/verbindung","informatik/netzwerk/wireless"],"noteIcon":"","updated":"2025-09-10T16:35:35.456+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/scatternet/","tags":["informatik/netzwerk/bluetooth/vernetzung","piconet/verbindung","informatik/netzwerk/wireless"],"noteIcon":"","updated":"2025-09-10T16:35:35.000+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/file-server/","tags":["informatik/netzwerk/server","dateien/verwaltung","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:10.085+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/file-server/","tags":["informatik/netzwerk/server","dateien/verwaltung","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:10.000+02:00"}
 ---
 
 
