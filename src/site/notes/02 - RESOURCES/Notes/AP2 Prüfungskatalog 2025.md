@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-09-15T14:23:58.934+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-09-15T14:41:41.048+02:00"}
 ---
 
 # 📌 Sichere Themen für die AP2-Prüfung 2025
@@ -38,7 +38,7 @@
     - 🆕 [[Test Driven Development\|Test Driven Development]] (TDD)
 - 🧠 **Algorithmus Entwicklung**
     - ❌ ~~Struktogramm, PAP~~
-    - ✅ [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]], [[Pseudocode\|Pseudocode]] 👈
+    - ✅ [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]], [[02 - RESOURCES/Notes/Pseudocode\|Pseudocode]] 👈
     - [[02 - RESOURCES/Notes/UML\|UML]] ([[02 - RESOURCES/Notes/UML-Anwendungsfalldiagramm\|UML-Anwendungsfalldiagramm]], [[02 - RESOURCES/Notes/UML-Klassendiagramm\|Klassendiagramme]], [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]])
 - 🗃️ **Datenbankmodellierung** 👈
     - Relationale/[[NoSQL\|NoSQL]] Datenbanken
@@ -191,8 +191,8 @@
     - [[REST\|REST]], [[SOAP\|SOAP]]
 - 🗃️ **[[02 - RESOURCES/Notes/SQL\|SQL]]-Operationen** 👈
     - Tabellenstruktur ([[02 - RESOURCES/Notes/SQL CREATE\|SQL CREATE]], [[02 - RESOURCES/Notes/SQL ALTER\|SQL ALTER]])
-    - Manipulation ([[02 - RESOURCES/Notes/SQL INSERT\|SQL INSERT]], [[, DELETE)
-    - Abfragen (SELECT, WHERE, Joins)
+    - Manipulation ([[02 - RESOURCES/Notes/SQL INSERT\|SQL INSERT]], [[02 - RESOURCES/Notes/SQL UPDATE\|SQL UPDATE]], [[02 - RESOURCES/Notes/SQL DELETE\|SQL DELETE]])
+    - Abfragen ([[02 - RESOURCES/Notes/SQL SELECT\|SQL SELECT]], [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]], [[02 - RESOURCES/Notes/SQL JOIN\|SQL JOIN]]s)
     - Gruppierung (GROUP BY, HAVING)
 
 ---
@@ -223,8 +223,7 @@
 
 ## ✅ Neu/verstärkte Themen 👈
 
-- [[Anomalien\|Anomalien]]/[[Redundanzen\|Redundanzen]] in Datenbanken
-- **SQL-Detailblatt** (2 Seiten im Katalog!)
+- [[Anomalien\|Anomalien]]/[[02 - RESOURCES/Notes/Redundanz\|Redundanz]]en in Datenbanken
 - [[Last- und Performancetest\|Last- und Performancetest]]
 - [[Man-in-the-Middle Attack\|Man-in-the-Middle Attack]], [[SQL Injection\|SQL Injection]], [[02 - RESOURCES/Notes/DDOS Attack\|DDoS Attack]]
 - [[Kerberos\|Kerberos]], [[ODBC\|ODBC]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["informatik/code/SQL","GFN/prüfungsrelevant/AP2","informatik/datenbank"],"noteIcon":"","updated":"2025-09-15T14:33:14.552+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["informatik/code/SQL","GFN/prüfungsrelevant/AP2","informatik/datenbank"],"noteIcon":"","updated":"2025-09-15T14:36:37.523+02:00"}
 ---
 
 >SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.
@@ -214,6 +214,50 @@ SET lehrer_name = 'Neu';
 > [!important] Ohne [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]] wird **ALLES** geändert! Immer WHERE verwenden, außer du willst wirklich alle [[02 - RESOURCES/Notes/SQL Zeile\|SQL Zeile]]n ändern.
 
 > [!note] [[02 - RESOURCES/Notes/SQL UPDATE\|SQL UPDATE]] ändert nur existierende Daten. Für neue Daten nutze [[02 - RESOURCES/Notes/SQL INSERT\|SQL INSERT]].
+
+
+# Werten löschen / entfernen
+
+> [!info] Mit [[02 - RESOURCES/Notes/SQL DELETE\|SQL DELETE]] kannst du komplette [[02 - RESOURCES/Notes/SQL Zeile\|SQL Zeile]]n aus einer [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] entfernen.
+> 
+> > Du löschst ganze Datensätze, nicht nur einzelne [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n.
+
+```sql
+DELETE FROM Schueler 
+WHERE schueler_id = 1;
+```
+
+> [!example] Vorher:
+
+|schueler_id|vorname|nachname|geburtsdatum|
+|:-:|:-:|:-:|:-:|
+|1|Max|Muster|2005-04-15|
+|2|Anna|Beispiel|2006-05-20|
+|3|Tom|Schneider|2004-08-12|
+
+> [!example] Nachher:
+
+|schueler_id|vorname|nachname|geburtsdatum|
+|:-:|:-:|:-:|:-:|
+|2|Anna|Beispiel|2006-05-20|
+|3|Tom|Schneider|2004-08-12|
+
+## Mehrere Zeilen löschen
+
+```sql
+DELETE FROM Schueler 
+WHERE YEAR(geburtsdatum) < 2005;
+```
+
+## Alle Zeilen löschen
+
+```sql
+DELETE FROM Kurse;
+```
+
+> [!important] Ohne [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]] wird **ALLES** gelöscht! Die [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] bleibt bestehen, aber komplett leer.
+
+> [!note] [[02 - RESOURCES/Notes/SQL DELETE\|SQL DELETE]] löscht komplette Datensätze. Für einzelne [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n nutze [[02 - RESOURCES/Notes/SQL UPDATE\|SQL UPDATE]] mit NULL.
 
 # Werte aus den Tabellen extrahieren
 >Bevor wir anfangen, ist es wichtig zu verstehen, wie [[02 - RESOURCES/Notes/SQL\|SQL]] unter der Haube funktioniert.
