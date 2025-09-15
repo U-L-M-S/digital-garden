@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/tower-server/","tags":["informatik/hardware/server"],"noteIcon":"","updated":"2025-09-10T17:00:14.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/tower-server/","tags":["informatik/hardware/server"],"noteIcon":"","updated":"2025-09-10T17:00:14.069+02:00"}
 ---
 
 

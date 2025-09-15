@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/transport-layer/","tags":["informatik/netzwerk/osi/layer4","übertragung/zuverlässig","informatik/netzwerk/osi"],"noteIcon":"","updated":"2025-09-10T16:35:39.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/transport-layer/","tags":["informatik/netzwerk/osi/layer4","übertragung/zuverlässig","informatik/netzwerk/osi"],"noteIcon":"","updated":"2025-09-10T16:35:39.253+02:00"}
 ---
 
 

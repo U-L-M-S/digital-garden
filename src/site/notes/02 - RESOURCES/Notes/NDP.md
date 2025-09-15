@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ndp/","tags":["informatik/netzwerk/protokoll","informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-09-10T16:35:27.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ndp/","tags":["informatik/netzwerk/protokoll","informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-09-10T16:35:27.896+02:00"}
 ---
 
 >Neighbor Discovery Protocol

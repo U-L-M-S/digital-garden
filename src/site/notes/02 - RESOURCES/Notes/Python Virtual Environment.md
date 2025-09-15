@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/python-virtual-environment/","tags":["informatik/code/python"],"noteIcon":"","updated":"2025-09-10T16:33:10.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/python-virtual-environment/","tags":["informatik/code/python"],"noteIcon":"","updated":"2025-09-10T16:33:10.606+02:00"}
 ---
 
 >Manche [[02 - RESOURCES/Notes/Python\|Python]]-Scripts müssen in einer Virtual Environment laufen, um Paketkonflikte zu vermeiden, das System-Python zu schützen und eine saubere Entwicklungsumgebung zu gewährleisten. 

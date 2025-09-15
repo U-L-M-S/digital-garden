@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lichtwellenleitern/","tags":["informatik/netzwerk/kabel","übertragung/optisch"],"noteIcon":"","updated":"2025-09-10T16:35:26.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/lichtwellenleitern/","tags":["informatik/netzwerk/kabel","übertragung/optisch"],"noteIcon":"","updated":"2025-09-10T16:35:26.274+02:00"}
 ---
 
 

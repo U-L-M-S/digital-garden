@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/signalgeschwindigkeit/","tags":["informatik/netzwerk/physik","übertragung/geschwindigkeit"],"noteIcon":"","updated":"2025-09-10T16:35:36.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/signalgeschwindigkeit/","tags":["informatik/netzwerk/physik","übertragung/geschwindigkeit"],"noteIcon":"","updated":"2025-09-10T16:35:36.076+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerkmaske/","tags":["informatik/netzwerk/subnet-mask"],"noteIcon":"","updated":"2025-09-10T16:35:29.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerkmaske/","tags":["informatik/netzwerk/subnet-mask"],"noteIcon":"","updated":"2025-09-10T16:35:29.679+02:00"}
 ---
 
 >Eine Netzwerkmaske/Subnetzmaske ist eine numerische Konfiguration, die verwendet wird, um ein Netzwerk in kleinere Subnetze zu unterteilen. 

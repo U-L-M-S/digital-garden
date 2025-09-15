@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ether-type/","tags":["ethernet/protokoll","rahmen/identifikation","informatik/netzwerk"],"noteIcon":"","updated":"2025-09-10T16:35:16.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ether-type/","tags":["ethernet/protokoll","rahmen/identifikation","informatik/netzwerk"],"noteIcon":"","updated":"2025-09-10T16:35:16.297+02:00"}
 ---
 
 

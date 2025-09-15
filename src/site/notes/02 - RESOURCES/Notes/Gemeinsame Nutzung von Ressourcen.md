@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/gemeinsame-nutzung-von-ressourcen/","tags":["informatik/netzwerk/vorteile","organisation/effizienz"],"noteIcon":"","updated":"2025-09-10T16:35:18.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/gemeinsame-nutzung-von-ressourcen/","tags":["informatik/netzwerk/vorteile","organisation/effizienz"],"noteIcon":"","updated":"2025-09-10T16:35:18.382+02:00"}
 ---
 
 

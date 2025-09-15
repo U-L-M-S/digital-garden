@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-grundlage/","tags":["informatik/code/java"],"noteIcon":"","updated":"2025-09-10T16:33:03.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-grundlage/","tags":["informatik/code/java"],"noteIcon":"","updated":"2025-09-10T16:33:03.954+02:00"}
 ---
 
 

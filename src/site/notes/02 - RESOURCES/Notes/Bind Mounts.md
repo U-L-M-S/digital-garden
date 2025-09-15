@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bind-mounts/","tags":["informatik/virtualisierung/docker/storage","informatik/virtualisierung/docker/development"],"noteIcon":"","updated":"2025-09-10T16:40:26.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bind-mounts/","tags":["informatik/virtualisierung/docker/storage","informatik/virtualisierung/docker/development"],"noteIcon":"","updated":"2025-09-10T16:40:26.713+02:00"}
 ---
 
 

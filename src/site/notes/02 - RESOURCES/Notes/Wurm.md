@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wurm/","tags":["it-sicherheit","informatik/malware/worm"],"noteIcon":"","updated":"2025-09-10T16:34:00.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wurm/","tags":["it-sicherheit","informatik/malware/worm"],"noteIcon":"","updated":"2025-09-10T16:34:00.196+02:00"}
 ---
 
 >Wurm 

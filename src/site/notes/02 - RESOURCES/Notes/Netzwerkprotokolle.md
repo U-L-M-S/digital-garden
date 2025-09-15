@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerkprotokolle/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-10T16:35:29.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerkprotokolle/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-10T16:35:29.992+02:00"}
 ---
 
 >Ein [[02 - RESOURCES/Notes/Netzwerkprotokolle\|Netzwerkprotokolle]] ist eine Sammlung von Regeln und Vereinbarungen, die festlegen, wie Daten zwischen Computern oder Geräten ausgetauscht werden.

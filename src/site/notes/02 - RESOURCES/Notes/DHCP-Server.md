@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dhcp-server/","tags":["informatik/netzwerk","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:09.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dhcp-server/","tags":["informatik/netzwerk","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:09.258+02:00"}
 ---
 
 >Gerät, der in [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] um neue Geräte in [[02 - RESOURCES/Notes/Netzwerk\|Netz]] zu konfigurieren.

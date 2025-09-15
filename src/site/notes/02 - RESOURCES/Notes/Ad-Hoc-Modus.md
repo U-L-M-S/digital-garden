@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ad-hoc-modus/","tags":["elektrotechnik/wlan/modus","direkt/verbindung","informatik/netzwerk/wifi"],"noteIcon":"","updated":"2025-09-10T16:35:07.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ad-hoc-modus/","tags":["elektrotechnik/wlan/modus","direkt/verbindung","informatik/netzwerk/wifi"],"noteIcon":"","updated":"2025-09-10T16:35:07.845+02:00"}
 ---
 
 

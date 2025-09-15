@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-datenbank/","tags":["informatik/code/SQL","informatik/datenbank"],"noteIcon":"","updated":"2025-09-10T16:38:18.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-datenbank/","tags":["informatik/code/SQL","informatik/datenbank"],"noteIcon":"","updated":"2025-09-10T16:38:18.492+02:00"}
 ---
 
 ```sql

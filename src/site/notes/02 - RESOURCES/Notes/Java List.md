@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-list/","tags":["informatik/code/java"],"noteIcon":"","updated":"2025-09-10T16:33:04.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-list/","tags":["informatik/code/java"],"noteIcon":"","updated":"2025-09-10T16:33:04.208+02:00"}
 ---
 
 >[!summary] Regeln

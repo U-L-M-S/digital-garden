@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/compliance/","tags":["AI-generated"],"noteIcon":"","updated":"2025-09-12T09:34:39.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/compliance/","tags":["AI-generated"],"noteIcon":"","updated":"2025-09-12T09:34:39.231+02:00"}
 ---
 
 

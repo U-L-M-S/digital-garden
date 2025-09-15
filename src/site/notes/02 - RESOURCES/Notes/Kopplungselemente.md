@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kopplungselemente/","tags":["informatik/netzwerk/hardware","informatik/netzwerk/verbindung"],"noteIcon":"","updated":"2025-09-10T16:35:24.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kopplungselemente/","tags":["informatik/netzwerk/hardware","informatik/netzwerk/verbindung"],"noteIcon":"","updated":"2025-09-10T16:35:24.245+02:00"}
 ---
 
 

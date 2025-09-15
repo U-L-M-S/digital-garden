@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/firewall/","tags":["informatik/netzwerk/firewall","informatik/hardware/information"],"noteIcon":"","updated":"2025-09-10T17:00:08.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/firewall/","tags":["informatik/netzwerk/firewall","informatik/hardware/information"],"noteIcon":"","updated":"2025-09-10T17:00:08.445+02:00"}
 ---
 
 > Eine Firewall schützt ein [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] oder System, indem sie **Datenpakete** filtert und nur bestimmte Verbindungen zulässt oder blockiert.

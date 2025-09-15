@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/physische-la-ns/","tags":["informatik/netzwerk/hardware","informatik/netzwerk/real"],"noteIcon":"","updated":"2025-09-10T16:35:44.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/physische-la-ns/","tags":["informatik/netzwerk/hardware","informatik/netzwerk/real"],"noteIcon":"","updated":"2025-09-10T16:35:44.237+02:00"}
 ---
 
 

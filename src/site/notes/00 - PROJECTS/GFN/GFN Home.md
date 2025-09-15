@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-09-12T11:25:20.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-09-15T11:54:25.934+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -15,7 +15,7 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 
 
 >[!note] 
->Dokumente wie PDF, World usw (Textdokumente) 
+>Dokumente wie PDF, World, usw (Textdokumente) 
 >werden hier nicht unterstützt und somit werden sie nicht angezeigt.
 
 ---

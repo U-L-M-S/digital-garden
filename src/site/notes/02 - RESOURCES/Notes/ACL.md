@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/acl/","tags":["informatik/netzwerk/firewall","it-sicherheit"],"noteIcon":"","updated":"2025-09-10T16:35:07.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/acl/","tags":["informatik/netzwerk/firewall","it-sicherheit"],"noteIcon":"","updated":"2025-09-10T16:35:07.020+02:00"}
 ---
 
 ![ACL-20240804000247511.png](/img/user/02%20-%20RESOURCES/Files/IMG/ACL-20240804000247511.png)

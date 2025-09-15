@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ip-adresse/","tags":["informatik/netzwerk/adressierung","informatik/netzwerk/internet/identifikation"],"noteIcon":"","updated":"2025-09-10T16:35:20.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ip-adresse/","tags":["informatik/netzwerk/adressierung","informatik/netzwerk/internet/identifikation"],"noteIcon":"","updated":"2025-09-10T16:35:20.769+02:00"}
 ---
 
 **IP-Adresse** - Eindeutige numerische Adresse für Geräte im [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]].

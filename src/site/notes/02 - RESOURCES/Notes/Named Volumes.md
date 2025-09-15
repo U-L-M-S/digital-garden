@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/named-volumes/","tags":["informatik/virtualisierung/docker/storage","informatik/virtualisierung/docker/volumes"],"noteIcon":"","updated":"2025-09-10T16:40:27.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/named-volumes/","tags":["informatik/virtualisierung/docker/storage","informatik/virtualisierung/docker/volumes"],"noteIcon":"","updated":"2025-09-10T16:40:27.891+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/off-premise/","tags":["infrastruktur/extern","informatik/server/ausgelagert"],"noteIcon":"","updated":"2025-09-10T17:01:52.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/off-premise/","tags":["infrastruktur/extern","informatik/server/ausgelagert"],"noteIcon":"","updated":"2025-09-10T17:01:52.560+02:00"}
 ---
 
 

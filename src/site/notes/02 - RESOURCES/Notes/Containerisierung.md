@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/containerisierung/","tags":["informatik/virtualisierung/docker/container","informatik/virtualisierung/docker/konzept"],"noteIcon":"","updated":"2025-09-10T16:50:46.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/containerisierung/","tags":["informatik/virtualisierung/docker/container","informatik/virtualisierung/docker/konzept"],"noteIcon":"","updated":"2025-09-10T16:50:46.525+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datenuebertragungsrate/","tags":["informatik/netzwerk/geschwindigkeit","übertragung/rate"],"noteIcon":"","updated":"2025-09-10T16:35:14.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/datenuebertragungsrate/","tags":["informatik/netzwerk/geschwindigkeit","übertragung/rate"],"noteIcon":"","updated":"2025-09-10T16:35:14.116+02:00"}
 ---
 
 

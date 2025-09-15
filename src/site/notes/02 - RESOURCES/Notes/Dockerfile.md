@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dockerfile/","tags":["informatik/virtualisierung/docker/build","informatik/virtualisierung/docker/images"],"noteIcon":"","updated":"2025-09-10T16:40:27.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dockerfile/","tags":["informatik/virtualisierung/docker/build","informatik/virtualisierung/docker/images"],"noteIcon":"","updated":"2025-09-10T16:40:27.700+02:00"}
 ---
 
 
