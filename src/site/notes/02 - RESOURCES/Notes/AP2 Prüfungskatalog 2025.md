@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-09-05T10:12:28.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-09-15T14:23:58.934+02:00"}
 ---
 
 # 📌 Sichere Themen für die AP2-Prüfung 2025
@@ -31,7 +31,7 @@
 
 ## 💻 Entwickeln von IT-Lösungen
 
-- 🐛 **Fehleranalyse & Debugging** 👈
+- 🐛 **Fehleranalyse & [[02 - RESOURCES/Notes/Debugging\|Debugging]]** 👈
     - [[02 - RESOURCES/Notes/Debugging\|Debugging]], [[Breakpoint\|Breakpoint]]
     - [[Black Box Test\|Black Box Test]], [[White Box Test\|White Box Test]]
     - 🆕 [[Last- und Performancetest\|Last- und Performancetest]]
@@ -52,7 +52,7 @@
 ## ✅ [[02 - RESOURCES/Notes/Qualitätssicherung\|Qualitätssicherung]]
 
 - 🧪 **Testverfahren** 👈
-    - Statische/dynamische Tests
+    - [[02 - RESOURCES/Notes/static\|Statische]]/[[02 - RESOURCES/Notes/dynamic\|dynamische]] Tests
     - 🆕 Print-Debugging, Unit-Test, E2E-Test
     - Komponententest, Integrationstest, Systemtest
 - 📊 **Qualitätsmessung**
@@ -62,7 +62,7 @@
 
 ---
 
-## 🛡️ IT-Sicherheit & Datenschutz
+## 🛡️ IT-Sicherheit & [[02 - RESOURCES/Notes/Datenschutz\|Datenschutz]]
 
 - 💥 **Schadenspotenziale**
     - Imageschaden, Wirtschaftlicher Schaden, Datenverlust 👈
@@ -75,7 +75,7 @@
     - [[Penetration Test\|Penetration Test]], Schwachstellenanalyse
     - Technisch-organisatorische Maßnahmen ([[TOM\|TOM]]) 👈
 - 🎯 **Kundenberatung Sicherheit**
-    - Private Haushalte, Unternehmen, öffentliche Hand
+    - Private Haushalte, [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]], öffentliche Hand
     - [[Security by Design\|Security by Design]]
 
 ---
@@ -101,7 +101,7 @@
     - [[02 - RESOURCES/Notes/VPN\|VPN]]-Modelle, [[Tunneling\|Tunneling]], [[IPSec\|IPSec]]
 - 🛠️ **Netzwerkdienste**
     - [[02 - RESOURCES/Notes/DNS\|DNS]], [[02 - RESOURCES/Notes/DHCP\|DHCP]], [[Proxy\|Proxy]] 👈
-- 📊 **Monitoring & Verfügbarkeit** 👈
+- 📊 **[[02 - RESOURCES/Notes/Monitoring\|Monitoring]] & [[02 - RESOURCES/Notes/Verfügbarkeit\|Verfügbarkeit]]** 👈
     - 🆕 Festlegung Monitoringdaten (verstärkt!)
     - [[02 - RESOURCES/Notes/SNMP\|SNMP]], S.M.A.R.T., Systemlastanalyse
     - 🆕 Schwellwerte festlegen (verstärkt!)
@@ -144,7 +144,7 @@
     - Mock-Ups
 - 🔌 **Schnittstellen**
     - [[XML\|XML]], [[JSON\|JSON]], [[02 - RESOURCES/Notes/SQL\|SQL]]
-    - [[02 - RESOURCES/Notes/API\|API]] (z.B. [[REST\|REST]])
+    - [[02 - RESOURCES/Notes/API\|API]] (z.B. [[02 - RESOURCES/Notes/REST API\|REST API]])
 - 🎯 **Programmiersprachen-Auswahl**
     - Performance, Speicherverbrauch, Portabilität 👈
     - Framework/Bibliotheken, [[02 - RESOURCES/Notes/IDE\|IDE]]
@@ -154,7 +154,7 @@
     - 🆕 Abfragerhythmus planen
 - 📜 **Skript-Automatisierung**
     - [[PowerShell\|PowerShell]], [[Bash\|Bash]], [[02 - RESOURCES/Notes/Python\|Python]]
-- 🧪 **Qualitätssicherung**
+- 🧪 **[[02 - RESOURCES/Notes/Qualitätssicherung\|Qualitätssicherung]]**
     - [[Black Box Test\|Black Box Test]]/[[White Box Test\|White Box Test]]
     - Print-Debugging, Unit-Test, E2E-Test
 
@@ -176,10 +176,10 @@
 - 🎨 **Design Patterns** 👈
     - 🆕 [[Architektur-Pattern\|Architektur-Pattern]] (neu hinzugefügt!)
     - Observer, Singleton, Factory, [[02 - RESOURCES/Notes/MVC\|MVC]]
-- 👤 **UI/UX-Design**
-    - Usability, User Experience
+- 👤 **[[02 - RESOURCES/Notes/UI\|UI]]/[[02 - RESOURCES/Notes/UX\|UX]]-Design**
+    - Usability, [[02 - RESOURCES/Notes/UX\|User Experience]]
     - Prototypen (Mockups)
-- 🧮 **Objektorientierte Programmierung**
+- 🧮 **[[02 - RESOURCES/Notes/OOP\|OOP]]**
     - 🆕 [[Kapselung\|Kapselung]] (explizit betont!)
     - [[02 - RESOURCES/Notes/UML-Vererbung\|UML-Vererbung]], [[02 - RESOURCES/Notes/Polymorphie\|Polymorphie]], [[02 - RESOURCES/Notes/Java Interface\|Java Interface]]
 - 🔍 **Algorithmen** 👈
@@ -189,9 +189,9 @@
 - 💾 **Datenaustausch**
     - [[CSV\|CSV]], [[XML\|XML]], [[JSON\|JSON]]
     - [[REST\|REST]], [[SOAP\|SOAP]]
-- 🗃️ **SQL-Operationen** 👈
-    - Tabellenstruktur (CREATE, ALTER)
-    - Manipulation (INSERT, UPDATE, DELETE)
+- 🗃️ **[[02 - RESOURCES/Notes/SQL\|SQL]]-Operationen** 👈
+    - Tabellenstruktur ([[02 - RESOURCES/Notes/SQL CREATE\|SQL CREATE]], [[02 - RESOURCES/Notes/SQL ALTER\|SQL ALTER]])
+    - Manipulation ([[02 - RESOURCES/Notes/SQL INSERT\|SQL INSERT]], [[, DELETE)
     - Abfragen (SELECT, WHERE, Joins)
     - Gruppierung (GROUP BY, HAVING)
 
@@ -213,9 +213,9 @@
 - 📊 **Testprozess**
     - Testverfahren auswählen
     - Testdaten generieren, Testprotokoll
-- 🔄 **Versionsverwaltung** 👈
-    - Branches, Pull, Push, Merge
-    - **Kann praktische Prüfung sein!**
+- 🔄 **Versionsverwaltung** ([[02 - RESOURCES/Notes/Git\|Git]]) 👈
+    - [[02 - RESOURCES/Notes/git branch\|git branch]]es, [[02 - RESOURCES/Notes/git pull\|git pull]], [[02 - RESOURCES/Notes/git push\|git push]], [[02 - RESOURCES/Notes/git merge\|git merge]]
+
 
 ---
 

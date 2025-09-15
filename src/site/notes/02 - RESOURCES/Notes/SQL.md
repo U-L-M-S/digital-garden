@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["informatik/code/SQL","GFN/prüfungsrelevant/AP2","informatik/datenbank"],"noteIcon":"","updated":"2025-09-10T16:38:19.412+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["informatik/code/SQL","GFN/prüfungsrelevant/AP2","informatik/datenbank"],"noteIcon":"","updated":"2025-09-15T14:33:14.552+02:00"}
 ---
 
 >SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.
@@ -113,18 +113,117 @@ Einschreibung:
 >[!note] 
 >Jetzt wissen wir wie man ein Datenbank erstellt und wie man Tabellen erstellt.
 >Nun.... Wie lesen kriegen wir die Werten ?
->>Das lernen wir als nächstes
+>>Das lernen wir gleich 😊
 
+
+
+# Tabellen bearbeiten - ALTER
+
+>[!info] 
+>Mit [[02 - RESOURCES/Notes/SQL ALTER\|SQL ALTER]] kannst du die Struktur einer bereits existierenden [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] ändern.
+>>Du kannst [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n hinzufügen, entfernen, umbenennen oder deren Datentyp ändern.
+
+## Spalte hinzufügen
+```sql
+ALTER TABLE Schueler 
+ADD email VARCHAR(100);
+````
+
+> [!example] Unsere Schueler-Tabelle bekommt jetzt eine neue Spalte "email":
+
+|schueler_id|vorname|nachname|geburtsdatum|email|
+|:-:|:-:|:-:|:-:|:-:|
+|1|Max|Muster|2005-04-15|NULL|
+|2|Anna|Beispiel|2006-05-20|NULL|
+|3|Tom|Schneider|2004-08-12|NULL|
+|4|Lisa|Müller|2005-11-01|NULL|
+
+## Spalte entfernen
+
+```sql
+ALTER TABLE Schueler 
+DROP COLUMN email;
+```
+
+## Spalte umbenennen
+
+```sql
+ALTER TABLE Schueler 
+RENAME COLUMN vorname TO first_name;
+```
+
+## Datentyp ändern
+
+```sql
+ALTER TABLE Schueler 
+MODIFY nachname VARCHAR(75);
+```
+
+> [!important] Bei [[02 - RESOURCES/Notes/SQL ALTER\|SQL ALTER]] solltest du vorsichtig sein! Änderungen an der Tabellenstruktur können Daten verloren gehen lassen. Mache immer ein Backup bevor du ALTER verwendest.
+
+> [!note] [[02 - RESOURCES/Notes/SQL ALTER\|SQL ALTER]] ist besonders nützlich wenn deine [[02 - RESOURCES/Notes/SQL Datenbank\|SQL Datenbank]] bereits produktiv läuft und du nachträglich Änderungen brauchst.
+
+```
+
+Diese Ergänzung fügt sich nahtlos in deine bestehende SQL-Notiz ein und folgt deinem Stil mit praktischen Beispielen und der gleichen Formatierung.
+```
+
+
+# Werten anpassen / updaten
+
+> [!info] Mit [[02 - RESOURCES/Notes/SQL UPDATE\|SQL UPDATE]] kannst du bereits existierende Daten in einer [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] ändern.
+> 
+> > Du bearbeitest die Werte in den [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n, ohne neue [[02 - RESOURCES/Notes/SQL Zeile\|SQL Zeile]]n hinzuzufügen.
+
+```sql
+UPDATE Schueler 
+SET vorname = 'Maximilian' 
+WHERE schueler_id = 1;
+```
+
+> [!example] Vorher:
+
+|schueler_id|vorname|nachname|geburtsdatum|
+|:-:|:-:|:-:|:-:|
+|1|Max|Muster|2005-04-15|
+|2|Anna|Beispiel|2006-05-20|
+
+> [!example] Nachher:
+
+|schueler_id|vorname|nachname|geburtsdatum|
+|:-:|:-:|:-:|:-:|
+|1|Maximilian|Muster|2005-04-15|
+|2|Anna|Beispiel|2006-05-20|
+
+## Mehrere Spalten gleichzeitig ändern
+
+```sql
+UPDATE Schueler 
+SET vorname = 'Maximilian', 
+    nachname = 'Mustermann' 
+WHERE schueler_id = 1;
+```
+
+## Alle Zeilen ändern
+
+```sql
+UPDATE Kurse 
+SET lehrer_name = 'Neu';
+```
+
+> [!important] Ohne [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]] wird **ALLES** geändert! Immer WHERE verwenden, außer du willst wirklich alle [[02 - RESOURCES/Notes/SQL Zeile\|SQL Zeile]]n ändern.
+
+> [!note] [[02 - RESOURCES/Notes/SQL UPDATE\|SQL UPDATE]] ändert nur existierende Daten. Für neue Daten nutze [[02 - RESOURCES/Notes/SQL INSERT\|SQL INSERT]].
 
 # Werte aus den Tabellen extrahieren
 >Bevor wir anfangen, ist es wichtig zu verstehen, wie [[02 - RESOURCES/Notes/SQL\|SQL]] unter der Haube funktioniert.
 >>Es ist dir wahrscheinlich aufgefallen, dass [[02 - RESOURCES/Notes/SQL\|SQL]] mit [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]]n arbeitet.  
 >>Jede [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] hat ihre eigenen [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n ([[02 - RESOURCES/Notes/Variable\|Variable]]n) und kann mit [[02 - RESOURCES/Notes/SQL SELECT\|SQL SELECT]] und [[02 - RESOURCES/Notes/SQL FROM\|SQL FROM]] abgefragt werden.
->
->```sql
->SELECT *
->FROM Tabellename;
->```
+
+```sql
+SELECT *
+FROM Tabellename;
+```
 
 
 In unser Bsp wurde etwas so aussehen:
