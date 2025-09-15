@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["GFN/LF01","GFN/prüfungsrelevant/AP1","finished"],"noteIcon":"","updated":"2025-09-12T09:44:53.299+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["GFN/LF01","GFN/prüfungsrelevant/AP1","finished"],"noteIcon":"","updated":"2025-09-15T12:16:10.455+02:00"}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
@@ -48,7 +48,7 @@ Der [[02 - RESOURCES/Notes/Auszubildender\|Auszubildender]] wird während sein Z
 - [[02 - RESOURCES/Notes/Urlaubsanspruch\|Urlaubsanspruch]]
 - [[02 - RESOURCES/Notes/Kündigungsbedingungen\|Kündigungsbedingungen]]
 
-### [[02 - RESOURCES/Notes/Probezeit\|Probezeit]]
+### [[02 - RESOURCES/Notes/Ausbildungsprobezeit\|Ausbildungsprobezeit]]
 
 - Mindestens 1 Monat, maximal 4 Monate
 - Kündigung jederzeit ohne Angabe von Gründen möglich
@@ -59,7 +59,7 @@ Der [[02 - RESOURCES/Notes/Auszubildender\|Auszubildender]] wird während sein Z
 
 ### Ordentliche Kündigung:
 
-- Nach [[02 - RESOURCES/Notes/Probezeit\|Probezeit]] nur mit Kündigungsgrund
+- Nach [[02 - RESOURCES/Notes/Ausbildungsprobezeit\|Ausbildungsprobezeit]] nur mit Kündigungsgrund
 - Kündigungsfrist: 4 Wochen
 - Bei Berufswechsel oder Aufgabe der Berufsausbildung
 
