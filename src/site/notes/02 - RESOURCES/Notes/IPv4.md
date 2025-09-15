@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-09-10T16:35:21.847+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-09-15T15:52:56.145+02:00"}
 ---
 
 > 32-[[02 - RESOURCES/Notes/Bit\|bit]]-Binärzahlen, die in [[02 - RESOURCES/Notes/Dezimal\|Dezimal]] dargestellt werden und mit "**.**"  in vier [[02 - RESOURCES/Notes/Oktett\|Oktett]]e getrennt sind.  
@@ -14,7 +14,7 @@
 | 11000000 | 10101000 | 00101010 | 01100010 |
 
 mit andere Wörtern wir können 2³²(4,3 Milliarden) [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]]en haben, da  es von 0.0.0.0 bis 255.255.255.255 sein kann.
-Obwohl man eine [[02 - RESOURCES/Notes/static\|static]] [[02 - RESOURCES/Notes/IPv4\|IPv4]]  haben kann, die meisten von denen werden durch den  [[02 - RESOURCES/Notes/DHCP\|DHCP]] [[02 - RESOURCES/Notes/Netzwerkprotokolle\|Netzwerkprotokolle]] in der [[02 - RESOURCES/Notes/Router\|Router]] vergeben (automatisch).
+Obwohl man eine [[02 - RESOURCES/Notes/static\|static]] [[02 - RESOURCES/Notes/IPv4\|IPv4]]  haben kann, die meisten von denen werden durch den  [[02 - RESOURCES/Notes/DHCPv4\|DHCPv4]] [[02 - RESOURCES/Notes/Netzwerkprotokolle\|Netzwerkprotokolle]] in der [[02 - RESOURCES/Notes/Router\|Router]] vergeben (automatisch).
 
 >[!important] 
 >Bei **ALLEN** [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] müssen **IMMER** zwei [[02 - RESOURCES/Notes/IPv4\|IPv4]] reserviert werden.

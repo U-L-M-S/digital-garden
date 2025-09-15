@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["GFN/LF02","GFN/prüfungsrelevant/AP1","inProgress"],"noteIcon":"","updated":"2025-09-05T10:37:28.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["GFN/LF02","GFN/prüfungsrelevant/AP1","inProgress"],"noteIcon":"","updated":"2025-09-15T15:52:55.006+02:00"}
 ---
 
 > Das sind die IT-Grundlagen für Fachinformatiker - alles was du für die Prüfung und den Job brauchst.
@@ -80,7 +80,7 @@ $$2^{\text{Hostbits}} - 2 = \text{nutzbare Adressen}$$
 
 Beispiel /24: $2^8 - 2 = 254$ Computer möglich
 
-## [[02 - RESOURCES/Notes/DHCP\|DHCP]]
+## [[02 - RESOURCES/Notes/DHCPv4\|DHCPv4]]
 > Automatische [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]]n-Vergabe - wie Nummern ziehen im Amt.
 
 [[02 - RESOURCES/Notes/DHCP-Prozess\|DHCP-Prozess]]:

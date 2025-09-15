@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-03-clients-in-netzwerk-einbinden/","tags":["informatik/netzwerk","GFN/LF03","finished"],"noteIcon":"","updated":"2025-09-10T16:35:06.229+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-03-clients-in-netzwerk-einbinden/","tags":["informatik/netzwerk","GFN/LF03","finished"],"noteIcon":"","updated":"2025-09-15T15:52:55.313+02:00"}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
@@ -279,9 +279,9 @@ Funktioniert ähnlich wie [[02 - RESOURCES/Notes/IPv4\|IPv4]], aber:
 
 > Stell dir vor, du müsstest jedem neuen Gerät im Netzwerk manuell eine [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]], [[02 - RESOURCES/Notes/Gateway\|Gateway]] und [[DNS-Server\|DNS-Server]] zuweisen. Bei 100 Geräten wärst du Wochen beschäftigt!
 
-## [[02 - RESOURCES/Notes/DHCP\|DHCP]] (Dynamic Host Configuration Protocol)
+## [[02 - RESOURCES/Notes/DHCPv4\|DHCPv4]] (Dynamic Host Configuration Protocol)
 
-[[02 - RESOURCES/Notes/DHCP\|DHCP]] ist wie ein automatischer Rezeptionist, der jedem neuen Gast ein Zimmer mit allem Nötigen zuweist.
+[[02 - RESOURCES/Notes/DHCPv4\|DHCPv4]] ist wie ein automatischer Rezeptionist, der jedem neuen Gast ein Zimmer mit allem Nötigen zuweist.
 
 ### Der [[02 - RESOURCES/Notes/DHCP-Prozess\|DHCP-Prozess]] (DORA-Prinzip)
 
@@ -290,7 +290,7 @@ Funktioniert ähnlich wie [[02 - RESOURCES/Notes/IPv4\|IPv4]], aber:
 3. **Request**: Client sagt "Ja, die nehme ich!"
 4. **ACK**: Server bestätigt "Alles klar, gehört dir!"
 
-### Probleme ohne [[02 - RESOURCES/Notes/DHCP\|DHCP]]
+### Probleme ohne [[02 - RESOURCES/Notes/DHCPv4\|DHCPv4]]
 
 - [[02 - RESOURCES/Notes/Manuelle Konfiguration\|Manuelle Konfiguration]]: Zeitaufwendig und fehleranfällig
 - [[02 - RESOURCES/Notes/IP-Konflikte\|IP-Konflikte]]: Zwei Geräte mit gleicher Adresse

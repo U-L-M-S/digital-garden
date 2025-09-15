@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/osi-modell/","tags":["informatik/netzwerk/osi"],"noteIcon":"","updated":"2025-09-10T16:35:30.446+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/osi-modell/","tags":["informatik/netzwerk/osi"],"noteIcon":"","updated":"2025-09-15T15:52:56.220+02:00"}
 ---
 
 >Man kann die Layers  einfach merken mit den Satz:
@@ -19,7 +19,7 @@
 
 | **Schicht(en)**             | **Beschreibung**                                    | **Beispiele für Protokolle / Technologien**           |
 | --------------------------- | --------------------------------------------------- | ----------------------------------------------------- |
-| **7-5 (Application Layer)** | Alles, was der Nutzer sieht und nutzt (Anwendungen) | [[02 - RESOURCES/Notes/HTTP\|HTTP]], [[02 - RESOURCES/Notes/HTTPS\|HTTPS]], [[02 - RESOURCES/Notes/FTP\|FTP]], [[02 - RESOURCES/Notes/SMTP\|SMTP]], POP3, IMAP, [[02 - RESOURCES/Notes/DNS\|DNS]], [[02 - RESOURCES/Notes/DHCP\|DHCP]]         |
+| **7-5 (Application Layer)** | Alles, was der Nutzer sieht und nutzt (Anwendungen) | [[02 - RESOURCES/Notes/HTTP\|HTTP]], [[02 - RESOURCES/Notes/HTTPS\|HTTPS]], [[02 - RESOURCES/Notes/FTP\|FTP]], [[02 - RESOURCES/Notes/SMTP\|SMTP]], POP3, IMAP, [[02 - RESOURCES/Notes/DNS\|DNS]], [[02 - RESOURCES/Notes/DHCPv4\|DHCPv4]]         |
 | **4 (Transport Layer)**     | End-to-End-Verbindung & Datenübertragung            | [[02 - RESOURCES/Notes/TCP\|TCP]], [[02 - RESOURCES/Notes/UDP\|UDP]]                                              |
 | **3 (Network Layer)**       | [[02 - RESOURCES/Notes/Routing\|Routing]] und logische Adressierung                   | [[02 - RESOURCES/Notes/IPv4\|IPv4]], [[02 - RESOURCES/Notes/IPv6\|IPv6]], [[02 - RESOURCES/Notes/ICMP\|ICMP]]                                      |
 | **2 (Data Link Layer)**     | Physische Adressierung ([[02 - RESOURCES/Notes/MAC Adresse\|MAC]]) & Fehlererkennung      | [[02 - RESOURCES/Notes/Ethernet\|Ethernet]], WLAN (802.11), PPP, [[02 - RESOURCES/Notes/arp\|ARP]]                     |

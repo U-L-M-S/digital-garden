@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-09-15T14:41:41.048+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-09-15T15:52:55.771+02:00"}
 ---
 
 # 📌 Sichere Themen für die AP2-Prüfung 2025
@@ -83,11 +83,11 @@
 ## 🌐 IT-Systeme betreiben
 
 - 📡 **Netzwerkgrundlagen** 👈
-    - [[02 - RESOURCES/Notes/OSI-Modell\|OSI-Modell]], [[TCP/IP\|TCP/IP]]
+    - [[02 - RESOURCES/Notes/OSI-Modell\|OSI-Modell]], [[02 - RESOURCES/Notes/TCP\|TCP]]
     - [[02 - RESOURCES/Notes/IPv4\|IPv4]]/[[02 - RESOURCES/Notes/IPv6\|IPv6]], [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]]
     - [[02 - RESOURCES/Notes/Routing\|Routing]], [[02 - RESOURCES/Notes/Switch\|Switching]], [[02 - RESOURCES/Notes/arp\|ARP]]
 - 🔧 **Netzwerkkomponenten**
-    - [[02 - RESOURCES/Notes/Switch\|Switch]], [[Bridge\|Bridge]], [[02 - RESOURCES/Notes/Router\|Router]], [[02 - RESOURCES/Notes/Firewall\|Firewall]]
+    - [[02 - RESOURCES/Notes/Switch\|Switch]], [[02 - RESOURCES/Notes/Bridge\|Bridge]], [[02 - RESOURCES/Notes/Router\|Router]], [[02 - RESOURCES/Notes/Firewall\|Firewall]]
     - 🆕 [[Kerberos\|Kerberos]] (Zugriffskontrolle)
 - 🌍 **Netzwerkarten**
     - [[02 - RESOURCES/Notes/LAN\|LAN]]/[[02 - RESOURCES/Notes/WAN\|WAN]]/[[02 - RESOURCES/Notes/MAN\|MAN]]/[[02 - RESOURCES/Notes/GAN\|GAN]]
@@ -100,7 +100,7 @@
     - [[02 - RESOURCES/Notes/TCP\|TCP]]/[[02 - RESOURCES/Notes/UDP\|UDP]], [[02 - RESOURCES/Notes/HTTP\|HTTP]]/[[02 - RESOURCES/Notes/HTTPS\|HTTPS]]
     - [[02 - RESOURCES/Notes/VPN\|VPN]]-Modelle, [[Tunneling\|Tunneling]], [[IPSec\|IPSec]]
 - 🛠️ **Netzwerkdienste**
-    - [[02 - RESOURCES/Notes/DNS\|DNS]], [[02 - RESOURCES/Notes/DHCP\|DHCP]], [[Proxy\|Proxy]] 👈
+    - [[02 - RESOURCES/Notes/DNS\|DNS]], [[02 - RESOURCES/Notes/DHCPv4\|DHCPv4]], [[Proxy\|Proxy]] 👈
 - 📊 **[[02 - RESOURCES/Notes/Monitoring\|Monitoring]] & [[02 - RESOURCES/Notes/Verfügbarkeit\|Verfügbarkeit]]** 👈
     - 🆕 Festlegung Monitoringdaten (verstärkt!)
     - [[02 - RESOURCES/Notes/SNMP\|SNMP]], S.M.A.R.T., Systemlastanalyse
@@ -193,7 +193,7 @@
     - Tabellenstruktur ([[02 - RESOURCES/Notes/SQL CREATE\|SQL CREATE]], [[02 - RESOURCES/Notes/SQL ALTER\|SQL ALTER]])
     - Manipulation ([[02 - RESOURCES/Notes/SQL INSERT\|SQL INSERT]], [[02 - RESOURCES/Notes/SQL UPDATE\|SQL UPDATE]], [[02 - RESOURCES/Notes/SQL DELETE\|SQL DELETE]])
     - Abfragen ([[02 - RESOURCES/Notes/SQL SELECT\|SQL SELECT]], [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]], [[02 - RESOURCES/Notes/SQL JOIN\|SQL JOIN]]s)
-    - Gruppierung (GROUP BY, HAVING)
+    - Gruppierung ([[02 - RESOURCES/Notes/SQL GROUP BY\|SQL GROUP BY]], [[02 - RESOURCES/Notes/SQL HAVING\|SQL HAVING]])
 
 ---
 

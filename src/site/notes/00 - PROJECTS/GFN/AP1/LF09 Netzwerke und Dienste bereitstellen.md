@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["GFN/LF09","informatik/netzwerk","finished"],"noteIcon":"","updated":"2025-09-10T16:35:06.255+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["GFN/LF09","informatik/netzwerk","finished"],"noteIcon":"","updated":"2025-09-15T15:52:55.470+02:00"}
 ---
 
 >Dieses Lernfeld ist eine Erweiterung von [[00 - PROJECTS/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]. 
@@ -54,9 +54,9 @@ In diese Bereich geht es hauptsächlich um [[02 - RESOURCES/Notes/Subnetting\|Su
 	- [[02 - RESOURCES/Notes/Subnetting IPv6\|Subnetting IPv6]]
 	- [[02 - RESOURCES/Notes/IPv6-Verkürzung\|iPv6 Verkürzung]]
 
-# VI. [[02 - RESOURCES/Notes/DHCP\|DHCP]] und [[02 - RESOURCES/Notes/DNS\|DNS]]
+# VI. [[02 - RESOURCES/Notes/DHCPv4\|DHCPv4]] und [[02 - RESOURCES/Notes/DNS\|DNS]]
 ___
-[[02 - RESOURCES/Notes/DHCP\|DHCP]], [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]] und [[02 - RESOURCES/Notes/DNS\|DNS]] sollen nach diesem Kapitel keine Fremdwörter mehr für dich sein. Es ist relativ klein, aber wichtig.
+[[02 - RESOURCES/Notes/DHCPv4\|DHCPv4]], [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]] und [[02 - RESOURCES/Notes/DNS\|DNS]] sollen nach diesem Kapitel keine Fremdwörter mehr für dich sein. Es ist relativ klein, aber wichtig.
 >Du musst unbedingt wissen, wie der [[02 - RESOURCES/Notes/DHCP-Prozess\|DHCP-Prozess]] funktioniert und was [[02 - RESOURCES/Notes/DNS\|DNS]] ist und was es macht.
 
 # VII. [[02 - RESOURCES/Notes/WAN\|WAN]]

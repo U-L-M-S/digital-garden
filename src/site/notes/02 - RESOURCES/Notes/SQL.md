@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["informatik/code/SQL","GFN/prüfungsrelevant/AP2","informatik/datenbank"],"noteIcon":"","updated":"2025-09-15T14:36:37.523+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["informatik/code/SQL","GFN/prüfungsrelevant/AP2","informatik/datenbank"],"noteIcon":"","updated":"2025-09-15T15:16:51.994+02:00"}
 ---
 
 >SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.
@@ -393,5 +393,80 @@ WHERE Patient.patient_ID = Weight.patient_ID;
 [[02 - RESOURCES/Notes/LEFT JOIN\|LEFT JOIN]]
 
 [[02 - RESOURCES/Notes/RIGHT JOIN\|RIGHT JOIN]]
+
+</div></div>
+
+
+## GROUP BY
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/sql-group-by/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+> Befehl wird verwendet um [[02 - RESOURCES/Notes/SQL Zeile\|SQL Zeile]]n zu gruppieren die gleiche Werte in bestimmten [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n haben. Oft mit Aggregatfunktionen wie COUNT, SUM, AVG verwendet.
+
+```sql
+-- Grundlegende Gruppierung
+SELECT Spalte_Name, COUNT(*)
+FROM Tabell_Name
+GROUP BY Spalte_Name;
+```
+
+```sql
+-- Mit mehreren Spalten
+SELECT Spalte1, Spalte2, COUNT(*)
+FROM Tabell_Name
+GROUP BY Spalte1, Spalte2;
+```
+
+```sql
+-- Mit Aggregatfunktionen
+SELECT lehrer_name, COUNT(*) as anzahl_kurse
+FROM Kurse
+GROUP BY lehrer_name;
+```
+
+> [!note] GROUP BY fasst gleiche Werte zusammen und zählt/berechnet sie.
+
+
+</div></div>
+
+
+## Having
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/sql-having/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+> Befehl wird verwendet um Bedingungen auf gruppierte Daten anzuwenden. Funktioniert wie [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]], aber für [[02 - RESOURCES/Notes/SQL GROUP BY\|SQL GROUP BY]] Ergebnisse.
+
+```sql
+-- Grundlegende HAVING Bedingung
+SELECT Spalte_Name, COUNT(*)
+FROM Tabell_Name
+GROUP BY Spalte_Name
+HAVING COUNT(*) > 1;
+```
+
+```sql
+-- Mit verschiedenen Aggregatfunktionen
+SELECT lehrer_name, COUNT(*) as anzahl
+FROM Kurse
+GROUP BY lehrer_name
+HAVING COUNT(*) >= 2;
+```
+
+```sql
+-- Kombiniert mit WHERE
+SELECT spalte, AVG(wert)
+FROM tabelle
+WHERE bedingung = 'wert'
+GROUP BY spalte
+HAVING AVG(wert) > 50;
+```
+
+> [!note] WHERE filtert vor GROUP BY, HAVING filtert nach GROUP BY.
 
 </div></div>
