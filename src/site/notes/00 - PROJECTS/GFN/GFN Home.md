@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-09-16T11:18:03.102+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-09-16T15:00:09.226+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -43,9 +43,9 @@ ___
 
 # AP2-relevant:
 ___
-- 🔴 [[00 - PROJECTS/GFN/AP2/LF10 Benutzerschnittstellen gestalten und entwickeln\|LF10 Benutzerschnittstellen gestalten und entwickeln]]
-- 🔴 [[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]]
-- 🔴 [[00 - PROJECTS/GFN/AP2/LF12 Kundenspezifische Anwendungsentwicklung durchführen\|LF12 Kundenspezifische Anwendungsentwicklung durchführen]]
+- 🟢 [[00 - PROJECTS/GFN/AP2/LF10 Benutzerschnittstellen gestalten und entwickeln\|LF10 Benutzerschnittstellen gestalten und entwickeln]]
+- 🟢 [[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]]
+- 🟢 [[00 - PROJECTS/GFN/AP2/LF12 Kundenspezifische Anwendungsentwicklung durchführen\|LF12 Kundenspezifische Anwendungsentwicklung durchführen]]
 
 > [!important] Prüfungskatalog 2025 AP2  
 > Laut [IT-Berufe-Podcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap2-als-fachinformatiker-anwendungsentwicklung-ab-2025-it-berufe-podcast-191/) enthält der Prüfungskatalog die Themen, die in der AP2 vorkommen können: [[02 - RESOURCES/Notes/AP2 Prüfungskatalog 2025\|AP2 Prüfungskatalog 2025]]
