@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-09-15T15:52:55.771+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-09-16T15:04:37.790+02:00"}
 ---
 
 # 📌 Sichere Themen für die AP2-Prüfung 2025
@@ -18,7 +18,7 @@
 
 - 🗣️ **Kundenkommunikation** _(nicht schriftlich geprüft)_
     - Aktives Zuhören, Telefonkonferenzen, Chat, virtuelle Meetings
-    - Verkaufsgespräche (Anfrage, Angebot, Auftrag)
+    - Verkaufsgespräche (Anfrage, [[02 - RESOURCES/Notes/Angebot\|Angebot]], Auftrag)
 - ⚖️ **Rechtliche Regelungen**
     - [[BGB\|BGB]]/[[HGB\|HGB]] 👈
     - Gesetz gegen unlauteren Wettbewerb
@@ -36,7 +36,7 @@
     - [[Black Box Test\|Black Box Test]], [[White Box Test\|White Box Test]]
     - 🆕 [[Last- und Performancetest\|Last- und Performancetest]]
     - 🆕 [[Test Driven Development\|Test Driven Development]] (TDD)
-- 🧠 **Algorithmus Entwicklung**
+- 🧠 **[[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] Entwicklung**
     - ❌ ~~Struktogramm, PAP~~
     - ✅ [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]], [[02 - RESOURCES/Notes/Pseudocode\|Pseudocode]] 👈
     - [[02 - RESOURCES/Notes/UML\|UML]] ([[02 - RESOURCES/Notes/UML-Anwendungsfalldiagramm\|UML-Anwendungsfalldiagramm]], [[02 - RESOURCES/Notes/UML-Klassendiagramm\|Klassendiagramme]], [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]])
@@ -156,7 +156,7 @@
     - [[PowerShell\|PowerShell]], [[Bash\|Bash]], [[02 - RESOURCES/Notes/Python\|Python]]
 - 🧪 **[[02 - RESOURCES/Notes/Qualitätssicherung\|Qualitätssicherung]]**
     - [[Black Box Test\|Black Box Test]]/[[White Box Test\|White Box Test]]
-    - Print-Debugging, Unit-Test, E2E-Test
+    - Print-[[02 - RESOURCES/Notes/Debugging\|Debugging]], Unit-Test, E2E-Test
 
 ---
 
@@ -199,7 +199,7 @@
 
 ## ✅ Software-Qualitätssicherung
 
-- 🔒 **Datenschutz & Datensicherheit** 👈
+- 🔒 **[[02 - RESOURCES/Notes/Datenschutz\|Datenschutz]] & [[02 - RESOURCES/Notes/Datensicherheit\|Datensicherheit]]** 👈
     - [[02 - RESOURCES/Notes/Integrität\|Integrität]], [[02 - RESOURCES/Notes/Authentizität\|Authentizität]], digitale Signatur
     - [[02 - RESOURCES/Notes/Verschlüsselung\|Verschlüsselung]], Archivierung
     - [[02 - RESOURCES/Notes/Authentifizierung\|Authentifizierung]], Autorisierung
