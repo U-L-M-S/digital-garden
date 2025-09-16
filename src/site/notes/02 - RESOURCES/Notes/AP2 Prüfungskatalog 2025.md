@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-09-16T15:04:37.790+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-09-16T15:13:50.825+02:00"}
 ---
 
 # 📌 Sichere Themen für die AP2-Prüfung 2025
 
 > Das ist eine Zusammenfassung für AP2 Fachinformatiker Anwendungsentwicklung 2025.
-> 
-> > Erstellt durch [IT-Berufe-Podcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap2-als-fachinformatiker-anwendungsentwicklung-ab-2025-it-berufe-podcast-191/) und offiziellen Prüfungskatalog 2025
+>> Erstellt durch [IT-Berufe-Podcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap2-als-fachinformatiker-anwendungsentwicklung-ab-2025-it-berufe-podcast-191/) und offiziellen Prüfungskatalog 2025
 
 ---
 
@@ -20,9 +19,9 @@
     - Aktives Zuhören, Telefonkonferenzen, Chat, virtuelle Meetings
     - Verkaufsgespräche (Anfrage, [[02 - RESOURCES/Notes/Angebot\|Angebot]], Auftrag)
 - ⚖️ **Rechtliche Regelungen**
-    - [[BGB\|BGB]]/[[HGB\|HGB]] 👈
+    - [[02 - RESOURCES/Notes/BGB\|BGB]]/[[02 - RESOURCES/Notes/HGB\|HGB]] 👈
     - Gesetz gegen unlauteren Wettbewerb
-    - [[AGB\|AGB]] Gesetz, [[02 - RESOURCES/Notes/Compliance\|Compliance]]
+    - [[02 - RESOURCES/Notes/AGB\|AGB]] Gesetz, [[02 - RESOURCES/Notes/Compliance\|Compliance]]
 - 🎨 **Präsentation & Visualisierung**
     - Multimediale Aufbereitung, [[02 - RESOURCES/Notes/Corporate Identity\|Corporate Identity]]
     - Tabellenkalkulation, Präsentationsprogramme
@@ -32,19 +31,19 @@
 ## 💻 Entwickeln von IT-Lösungen
 
 - 🐛 **Fehleranalyse & [[02 - RESOURCES/Notes/Debugging\|Debugging]]** 👈
-    - [[02 - RESOURCES/Notes/Debugging\|Debugging]], [[Breakpoint\|Breakpoint]]
-    - [[Black Box Test\|Black Box Test]], [[White Box Test\|White Box Test]]
-    - 🆕 [[Last- und Performancetest\|Last- und Performancetest]]
-    - 🆕 [[Test Driven Development\|Test Driven Development]] (TDD)
+    - [[02 - RESOURCES/Notes/Debugging\|Debugging]], [[02 - RESOURCES/Notes/Breakpoint\|Breakpoint]]
+    - [[02 - RESOURCES/Notes/Black Box Test\|Black Box Test]], [[02 - RESOURCES/Notes/White Box Test\|White Box Test]]
+    - 🆕 [[02 - RESOURCES/Notes/Last- und Performancetest\|Last- und Performancetest]]
+    - 🆕 [[02 - RESOURCES/Notes/Test Driven Development\|Test Driven Development]] (TDD)
 - 🧠 **[[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] Entwicklung**
     - ❌ ~~Struktogramm, PAP~~
     - ✅ [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]], [[02 - RESOURCES/Notes/Pseudocode\|Pseudocode]] 👈
     - [[02 - RESOURCES/Notes/UML\|UML]] ([[02 - RESOURCES/Notes/UML-Anwendungsfalldiagramm\|UML-Anwendungsfalldiagramm]], [[02 - RESOURCES/Notes/UML-Klassendiagramm\|Klassendiagramme]], [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]])
 - 🗃️ **Datenbankmodellierung** 👈
-    - Relationale/[[NoSQL\|NoSQL]] Datenbanken
-    - 🆕 [[Anomalien\|Anomalien]]/[[Redundanzen\|Redundanzen]] erkennen (verstärkt!)
+    - Relationale/[[02 - RESOURCES/Notes/NoSQL\|NoSQL]] Datenbanken
+    - 🆕 [[02 - RESOURCES/Notes/Anomalien\|Anomalien]]/[[02 - RESOURCES/Notes/Redundanzen\|Redundanzen]] erkennen (verstärkt!)
     - Normalisierung ([[02 - RESOURCES/Notes/1. Normalform\|1. Normalform]], [[02 - RESOURCES/Notes/2. Normalform\|2. Normalform]], [[02 - RESOURCES/Notes/3. Normalform\|3. Normalform]])
-    - [[ER-Modell\|ER-Modell]], [[02 - RESOURCES/Notes/Kardinalität\|Kardinalität]]
+    - [[02 - RESOURCES/Notes/ER-Modell\|ER-Modell]], [[02 - RESOURCES/Notes/Kardinalität\|Kardinalität]]
     - 🆕 **SQL-Detailblatt** (2-seitig im Katalog!) 👈
 
 ---
@@ -56,7 +55,7 @@
     - 🆕 Print-Debugging, Unit-Test, E2E-Test
     - Komponententest, Integrationstest, Systemtest
 - 📊 **Qualitätsmessung**
-    - [[PDCA Zyklus\|PDCA Zyklus]], [[KVP\|KVP]], Kennzahlen 👈
+    - [[02 - RESOURCES/Notes/PDCA Zyklus\|PDCA Zyklus]], [[02 - RESOURCES/Notes/KVP\|KVP]], Kennzahlen 👈
     - Soll-Ist-Vergleich, Testprotokolle
     - Abnahmeprotokolle
 
@@ -67,16 +66,16 @@
 - 💥 **Schadenspotenziale**
     - Imageschaden, Wirtschaftlicher Schaden, Datenverlust 👈
 - 🚨 **Bedrohungsszenarien** 👈
-    - 🆕 [[Man-in-the-Middle Attack\|Man-in-the-Middle Attack]]
-    - 🆕 [[SQL Injection\|SQL Injection]]
+    - 🆕 [[02 - RESOURCES/Notes/Man-in-the-Middle Attack\|Man-in-the-Middle Attack]]
+    - 🆕 [[02 - RESOURCES/Notes/SQL Injection\|SQL Injection]]
     - 🆕 [[02 - RESOURCES/Notes/DDOS Attack\|DDoS Attack]]
-    - Datendiebstahl, [[Ransomware\|Ransomware]], [[02 - RESOURCES/Notes/Phishing\|Phishing]]
+    - Datendiebstahl, [[02 - RESOURCES/Notes/Ransomware\|Ransomware]], [[02 - RESOURCES/Notes/Phishing\|Phishing]]
 - 🔒 **Sicherheitsmaßnahmen**
     - [[Penetration Test\|Penetration Test]], Schwachstellenanalyse
-    - Technisch-organisatorische Maßnahmen ([[TOM\|TOM]]) 👈
+    - Technisch-organisatorische Maßnahmen ([[02 - RESOURCES/Notes/TOM\|TOM]]) 👈
 - 🎯 **Kundenberatung Sicherheit**
     - Private Haushalte, [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]], öffentliche Hand
-    - [[Security by Design\|Security by Design]]
+    - [[02 - RESOURCES/Notes/Security by Design\|Security by Design]]
 
 ---
 
@@ -88,28 +87,28 @@
     - [[02 - RESOURCES/Notes/Routing\|Routing]], [[02 - RESOURCES/Notes/Switch\|Switching]], [[02 - RESOURCES/Notes/arp\|ARP]]
 - 🔧 **Netzwerkkomponenten**
     - [[02 - RESOURCES/Notes/Switch\|Switch]], [[02 - RESOURCES/Notes/Bridge\|Bridge]], [[02 - RESOURCES/Notes/Router\|Router]], [[02 - RESOURCES/Notes/Firewall\|Firewall]]
-    - 🆕 [[Kerberos\|Kerberos]] (Zugriffskontrolle)
+    - 🆕 [[02 - RESOURCES/Notes/Kerberos\|Kerberos]] (Zugriffskontrolle)
 - 🌍 **Netzwerkarten**
     - [[02 - RESOURCES/Notes/LAN\|LAN]]/[[02 - RESOURCES/Notes/WAN\|WAN]]/[[02 - RESOURCES/Notes/MAN\|MAN]]/[[02 - RESOURCES/Notes/GAN\|GAN]]
     - [[02 - RESOURCES/Notes/VLAN\|VLAN]], [[02 - RESOURCES/Notes/VPN\|VPN]], strukturierte Verkabelung
     - [[02 - RESOURCES/Notes/PAN\|PAN]]/[[02 - RESOURCES/Notes/WLAN\|WLAN]]/Mesh, [[02 - RESOURCES/Notes/Bluetooth\|Bluetooth]]
 - 🤝 **Client-Server vs. Peer-to-Peer**
     - Dateifreigabe (SMB/CIFS)
-    - 🆕 Datenabruf ([[ODBC\|ODBC]])
+    - 🆕 Datenabruf ([[02 - RESOURCES/Notes/ODBC\|ODBC]])
 - 📡 **Protokolle**
     - [[02 - RESOURCES/Notes/TCP\|TCP]]/[[02 - RESOURCES/Notes/UDP\|UDP]], [[02 - RESOURCES/Notes/HTTP\|HTTP]]/[[02 - RESOURCES/Notes/HTTPS\|HTTPS]]
-    - [[02 - RESOURCES/Notes/VPN\|VPN]]-Modelle, [[Tunneling\|Tunneling]], [[IPSec\|IPSec]]
+    - [[02 - RESOURCES/Notes/VPN\|VPN]]-Modelle, [[02 - RESOURCES/Notes/Tunneling\|Tunneling]], [[02 - RESOURCES/Notes/IPSec\|IPSec]]
 - 🛠️ **Netzwerkdienste**
-    - [[02 - RESOURCES/Notes/DNS\|DNS]], [[02 - RESOURCES/Notes/DHCPv4\|DHCPv4]], [[Proxy\|Proxy]] 👈
+    - [[02 - RESOURCES/Notes/DNS\|DNS]], [[02 - RESOURCES/Notes/DHCPv4\|DHCPv4]], [[02 - RESOURCES/Notes/Proxy\|Proxy]] 👈
 - 📊 **[[02 - RESOURCES/Notes/Monitoring\|Monitoring]] & [[02 - RESOURCES/Notes/Verfügbarkeit\|Verfügbarkeit]]** 👈
     - 🆕 Festlegung Monitoringdaten (verstärkt!)
     - [[02 - RESOURCES/Notes/SNMP\|SNMP]], S.M.A.R.T., Systemlastanalyse
     - 🆕 Schwellwerte festlegen (verstärkt!)
     - ❌ ~~Load Balancing~~
 - 🎫 **Incident Management**
-    - [[SOP\|SOP]], [[SLA\|SLA]], Ticketsystem, Eskalationsstufen
+    - [[02 - RESOURCES/Notes/SOP\|SOP]], [[02 - RESOURCES/Notes/SLA\|SLA]], Ticketsystem, Eskalationsstufen
 - 📝 **Dokumentation**
-    - 🆕 [[Programm- und Konfigurationsdokumentation\|Programm- und Konfigurationsdokumentation]] (neu hinzugefügt!) 👈
+    - 🆕 [[02 - RESOURCES/Notes/Programm- und Konfigurationsdokumentation\|Programm- und Konfigurationsdokumentation]] (neu hinzugefügt!) 👈
     - Checklisten
 
 ---
@@ -119,15 +118,15 @@
 - 🔐 **Absicherung**
     - Berechtigungskonzepte (Zugang, Zutritt, Zugriff) 👈
     - Physische Sicherheit (Serverraum, Elementarrisiken)
-    - Software-Sicherheit ([[BitLocker\|BitLocker]], Port Security)
+    - Software-Sicherheit ([[02 - RESOURCES/Notes/BitLocker\|BitLocker]], Port Security)
 - ☁️ **Service-Modelle**
-    - On-Premises vs. [[Cloud\|Cloud]] 👈
+    - On-Premises vs. [[02 - RESOURCES/Notes/Cloud\|Cloud]] 👈
     - [[02 - RESOURCES/Notes/SaaS\|SaaS]], [[02 - RESOURCES/Notes/IaaS\|IaaS]], [[02 - RESOURCES/Notes/PaaS\|PaaS]]
 - 🔗 **Storage-Netzwerke**
     - 🆕 [[02 - RESOURCES/Notes/NAS\|NAS]], [[02 - RESOURCES/Notes/SAN\|SAN]] (explizit neu!)
-    - [[iSCSI\|iSCSI]], [[NFS\|NFS]], Fibre Channel
+    - [[02 - RESOURCES/Notes/iSCSI\|iSCSI]], [[02 - RESOURCES/Notes/NFS\|NFS]], Fibre Channel
 - 📊 **Datenintegration**
-    - [[XML\|XML]], [[JSON\|JSON]], [[CSV\|CSV]]
+    - [[02 - RESOURCES/Notes/XML\|XML]], [[02 - RESOURCES/Notes/JSON\|JSON]], [[02 - RESOURCES/Notes/CSV\|CSV]]
     - ❌ ~~Data Warehouse~~
 
 ---
@@ -135,27 +134,27 @@
 ## 🚀 Software-Programmierung
 
 - 📋 **Anforderungserfassung** 👈
-    - 🆕 [[Softwarequalitätsmerkmale\|Softwarequalitätsmerkmale]] (ISO 25010)
+    - 🆕 [[02 - RESOURCES/Notes/Softwarequalitätsmerkmale\|Softwarequalitätsmerkmale]] (ISO 25010)
     - Änderbarkeit/Erweiterbarkeit, Benutzbarkeit
     - 🆕 Wartbarkeit (explizit hinzugefügt)
 - 📐 **Planungsmodelle**
-    - [[ER-Modell\|ER-Modell]], Relationales Datenbankmodell
+    - [[02 - RESOURCES/Notes/ER-Modell\|ER-Modell]], Relationales Datenbankmodell
     - [[02 - RESOURCES/Notes/UML\|UML]]-Diagramme (Klassen-, Aktivitäts-, Anwendungsfall-)
     - Mock-Ups
 - 🔌 **Schnittstellen**
-    - [[XML\|XML]], [[JSON\|JSON]], [[02 - RESOURCES/Notes/SQL\|SQL]]
+    - [[02 - RESOURCES/Notes/XML\|XML]], [[02 - RESOURCES/Notes/JSON\|JSON]], [[02 - RESOURCES/Notes/SQL\|SQL]]
     - [[02 - RESOURCES/Notes/API\|API]] (z.B. [[02 - RESOURCES/Notes/REST API\|REST API]])
 - 🎯 **Programmiersprachen-Auswahl**
     - Performance, Speicherverbrauch, Portabilität 👈
     - Framework/Bibliotheken, [[02 - RESOURCES/Notes/IDE\|IDE]]
 - 🤖 **Cyber-physische Systeme** 👈
-    - 🆕 [[CPS\|CPS]]-Software (neu für FIAE!)
-    - 🆕 Auswahl [[Sensoren\|Sensoren]]/[[Aktoren\|Aktoren]]
+    - 🆕 [[02 - RESOURCES/Notes/CPS\|CPS]]-Software (neu für FIAE!)
+    - 🆕 Auswahl [[02 - RESOURCES/Notes/Sensoren\|Sensoren]]/[[02 - RESOURCES/Notes/Aktoren\|Aktoren]]
     - 🆕 Abfragerhythmus planen
 - 📜 **Skript-Automatisierung**
-    - [[PowerShell\|PowerShell]], [[Bash\|Bash]], [[02 - RESOURCES/Notes/Python\|Python]]
+    - [[02 - RESOURCES/Notes/PowerShell\|PowerShell]], [[02 - RESOURCES/Notes/Bash\|Bash]], [[02 - RESOURCES/Notes/Python\|Python]]
 - 🧪 **[[02 - RESOURCES/Notes/Qualitätssicherung\|Qualitätssicherung]]**
-    - [[Black Box Test\|Black Box Test]]/[[White Box Test\|White Box Test]]
+    - [[02 - RESOURCES/Notes/Black Box Test\|Black Box Test]]/[[02 - RESOURCES/Notes/White Box Test\|White Box Test]]
     - Print-[[02 - RESOURCES/Notes/Debugging\|Debugging]], Unit-Test, E2E-Test
 
 ---
@@ -172,23 +171,23 @@
     - Objektorientierte Verfahren
 - 🛠️ **Entwicklungswerkzeuge**
     - [[02 - RESOURCES/Notes/IDE\|IDE]], [[02 - RESOURCES/Notes/Compiler\|Compiler]], [[02 - RESOURCES/Notes/Interpreter\|Interpreter]]
-    - [[Debugger\|Debugger]], [[Versionsverwaltung\|Versionsverwaltung]] 👈
+    - [[02 - RESOURCES/Notes/Debugger\|Debugger]], [[02 - RESOURCES/Notes/Versionsverwaltung\|Versionsverwaltung]] 👈
 - 🎨 **Design Patterns** 👈
-    - 🆕 [[Architektur-Pattern\|Architektur-Pattern]] (neu hinzugefügt!)
+    - 🆕 [[02 - RESOURCES/Notes/Architektur-Pattern\|Architektur-Pattern]] (neu hinzugefügt!)
     - Observer, Singleton, Factory, [[02 - RESOURCES/Notes/MVC\|MVC]]
 - 👤 **[[02 - RESOURCES/Notes/UI\|UI]]/[[02 - RESOURCES/Notes/UX\|UX]]-Design**
     - Usability, [[02 - RESOURCES/Notes/UX\|User Experience]]
     - Prototypen (Mockups)
 - 🧮 **[[02 - RESOURCES/Notes/OOP\|OOP]]**
-    - 🆕 [[Kapselung\|Kapselung]] (explizit betont!)
+    - 🆕 [[02 - RESOURCES/Notes/Kapselung\|Kapselung]] (explizit betont!)
     - [[02 - RESOURCES/Notes/UML-Vererbung\|UML-Vererbung]], [[02 - RESOURCES/Notes/Polymorphie\|Polymorphie]], [[02 - RESOURCES/Notes/Java Interface\|Java Interface]]
 - 🔍 **Algorithmen** 👈
     - Lineare Suche, Binäre Suche
-    - 🆕 [[Selection Sort\|Selection Sort]], [[Insertion Sort\|Insertion Sort]] (detailliert!)
-    - [[Bubble Sort\|Bubble Sort]]
+    - 🆕 [[02 - RESOURCES/Notes/Selection Sort\|Selection Sort]], [[02 - RESOURCES/Notes/Insertion Sort\|Insertion Sort]] (detailliert!)
+    - [[02 - RESOURCES/Notes/Bubble Sort\|Bubble Sort]]
 - 💾 **Datenaustausch**
-    - [[CSV\|CSV]], [[XML\|XML]], [[JSON\|JSON]]
-    - [[REST\|REST]], [[SOAP\|SOAP]]
+    - [[02 - RESOURCES/Notes/CSV\|CSV]], [[02 - RESOURCES/Notes/XML\|XML]], [[02 - RESOURCES/Notes/JSON\|JSON]]
+    - [[REST\|REST]], [[02 - RESOURCES/Notes/SOAP\|SOAP]]
 - 🗃️ **[[02 - RESOURCES/Notes/SQL\|SQL]]-Operationen** 👈
     - Tabellenstruktur ([[02 - RESOURCES/Notes/SQL CREATE\|SQL CREATE]], [[02 - RESOURCES/Notes/SQL ALTER\|SQL ALTER]])
     - Manipulation ([[02 - RESOURCES/Notes/SQL INSERT\|SQL INSERT]], [[02 - RESOURCES/Notes/SQL UPDATE\|SQL UPDATE]], [[02 - RESOURCES/Notes/SQL DELETE\|SQL DELETE]])
@@ -223,17 +222,17 @@
 
 ## ✅ Neu/verstärkte Themen 👈
 
-- [[Anomalien\|Anomalien]]/[[02 - RESOURCES/Notes/Redundanz\|Redundanz]]en in Datenbanken
-- [[Last- und Performancetest\|Last- und Performancetest]]
-- [[Man-in-the-Middle Attack\|Man-in-the-Middle Attack]], [[SQL Injection\|SQL Injection]], [[02 - RESOURCES/Notes/DDOS Attack\|DDoS Attack]]
-- [[Kerberos\|Kerberos]], [[ODBC\|ODBC]]
-- Monitoring-Details, [[Programm- und Konfigurationsdokumentation\|Programm- und Konfigurationsdokumentation]]
+- [[02 - RESOURCES/Notes/Anomalien\|Anomalien]]/[[02 - RESOURCES/Notes/Redundanz\|Redundanz]]en in Datenbanken
+- [[02 - RESOURCES/Notes/Last- und Performancetest\|Last- und Performancetest]]
+- [[02 - RESOURCES/Notes/Man-in-the-Middle Attack\|Man-in-the-Middle Attack]], [[02 - RESOURCES/Notes/SQL Injection\|SQL Injection]], [[02 - RESOURCES/Notes/DDOS Attack\|DDoS Attack]]
+- [[02 - RESOURCES/Notes/Kerberos\|Kerberos]], [[02 - RESOURCES/Notes/ODBC\|ODBC]]
+- Monitoring-Details, [[02 - RESOURCES/Notes/Programm- und Konfigurationsdokumentation\|Programm- und Konfigurationsdokumentation]]
 - [[02 - RESOURCES/Notes/NAS\|NAS]], [[02 - RESOURCES/Notes/SAN\|SAN]]
 - [[Cyber-physische Systeme\|Cyber-physische Systeme]]
-- [[Test Driven Development\|Test Driven Development]] (TDD)
+- [[02 - RESOURCES/Notes/Test Driven Development\|Test Driven Development]] (TDD)
 - [[02 - RESOURCES/Notes/Scrum\|Scrum]] (vorher nicht explizit!)
-- [[Architektur-Pattern\|Architektur-Pattern]], [[Kapselung\|Kapselung]]
-- [[Selection Sort\|Selection Sort]], [[Insertion Sort\|Insertion Sort]]
+- [[02 - RESOURCES/Notes/Architektur-Pattern\|Architektur-Pattern]], [[02 - RESOURCES/Notes/Kapselung\|Kapselung]]
+- [[02 - RESOURCES/Notes/Selection Sort\|Selection Sort]], [[02 - RESOURCES/Notes/Insertion Sort\|Insertion Sort]]
 
 ## ❌ Gestrichene Themen
 
@@ -245,4 +244,4 @@
 ---
 
 > [!info] Quellen **AP2-Update:** 
-> Neuer Prüfungskatalog ab 2025 für [[Fachinformatiker\|Fachinformatiker]] [[Anwendungsentwicklung\|Anwendungsentwicklung]] **Quelle:** [IT-Berufe-Podcast #191](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap2-als-fachinformatiker-anwendungsentwicklung-ab-2025-it-berufe-podcast-191/)
+> Neuer Prüfungskatalog ab 2025 für [[02 - RESOURCES/Notes/Fachinformatiker\|Fachinformatiker]] [[02 - RESOURCES/Notes/Anwendungsentwicklung\|Anwendungsentwicklung]] **Quelle:** [IT-Berufe-Podcast #191](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap2-als-fachinformatiker-anwendungsentwicklung-ab-2025-it-berufe-podcast-191/)

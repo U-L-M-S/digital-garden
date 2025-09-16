@@ -10,7 +10,7 @@
 - [[02 - RESOURCES/Notes/Asymmetrische Verschlüsselung\|Asymmetrische Verschlüsselung]]
 - [[02 - RESOURCES/Notes/ssh\|SSH]] (Secure Shell)
 - [[02 - RESOURCES/Notes/TLS\|TLS]] (Transport Layer Security)
-- [[IPsec\|IPsec]] (Internet Protocol Security)
+- [[02 - RESOURCES/Notes/IPSec\|IPsec]] (Internet Protocol Security)
 
 ## [[02 - RESOURCES/Notes/Verschlüsselung\|Verschlüsselung]] Grundlagen
 

@@ -76,7 +76,7 @@
 
 > Das Design: Wie sollen die Services genau aussehen?
 
-- **[[Service-Level Management\|Service-Level Management]]** - [[SLA\|SLA]]s definieren
+- **[[Service-Level Management\|Service-Level Management]]** - [[02 - RESOURCES/Notes/SLA\|SLA]]s definieren
 - **[[Capacity Management\|Capacity Management]]** - Genug Power für alle
 - **[[Availability Management\|Availability Management]]** - System läuft wenn gebraucht
 
@@ -238,7 +238,7 @@
 ### Synchron vs. Asynchron
 
 - **Synchron** - Gleichzeitig (Telefon, [[Live-Chat\|Live-Chat]])
-- **Asynchron** - Zeitversetzt (E-Mail, [[Ticketsystem\|Ticketsystem]])
+- **Asynchron** - Zeitversetzt (E-Mail, [[02 - RESOURCES/Notes/Ticketsystem\|Ticketsystem]])
 
 ### Deeskalation
 
@@ -285,9 +285,9 @@
 
 ## Service-Verträge
 
-### [[SLA\|SLA]] (Service Level Agreement)
+### [[02 - RESOURCES/Notes/SLA\|SLA]] (Service Level Agreement)
 
-> Ein [[SLA\|SLA]] ist ein Vertrag der sagt: "So gut sind wir, und wenn nicht, gibt's Geld zurück."
+> Ein [[02 - RESOURCES/Notes/SLA\|SLA]] ist ein Vertrag der sagt: "So gut sind wir, und wenn nicht, gibt's Geld zurück."
 
 **Typische Inhalte:**
 
