@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2-fisi/lf-11-betrieb-und-sicherheit-vernetzter-systeme-gewaehrleisten/","tags":["GFN/LF11/FISI"],"noteIcon":"","updated":"2025-09-05T14:17:30.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2-fisi/lf-11-betrieb-und-sicherheit-vernetzter-systeme-gewaehrleisten/","tags":["GFN/LF11/FISI"],"noteIcon":"","updated":"2025-09-16T12:27:36.213+02:00"}
 ---
+
+> Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
 
 # LF11b - [[02 - RESOURCES/Notes/Betrieb\|Betrieb]] und Sicherheit vernetzter Systeme
 
