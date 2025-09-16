@@ -7,5 +7,5 @@
 >>Teilt sich den [[OS\|OS]] Kernel aber isoliert Prozesse, Dateisystem und [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]].
 
 >[!example] Vergleich
->- [[02 - RESOURCES/Notes/Virtuelle Maschinen\|Virtuelle Maschinen]]: Eigenes [[Betriebssystem\|Betriebssystem]] pro VM
+>- [[02 - RESOURCES/Notes/Virtuelle Maschinen\|Virtuelle Maschinen]]: Eigenes [[02 - RESOURCES/Notes/Betriebssystem\|Betriebssystem]] pro VM
 >- [[02 - RESOURCES/Notes/Docker Container\|Docker Container]]: Gemeinsamer Kernel, isolierte Userspace

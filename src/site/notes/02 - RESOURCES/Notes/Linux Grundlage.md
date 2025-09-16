@@ -4,7 +4,7 @@
 
 # Linux Grundlagen
 
-> Linux ist ein freies, mehrbenutzerfähiges [[Betriebssystem\|Betriebssystem]], das auf [[Unix\|Unix]] basiert und unter der [[GNU GPL\|GNU GPL]] steht.
+> Linux ist ein freies, mehrbenutzerfähiges [[02 - RESOURCES/Notes/Betriebssystem\|Betriebssystem]], das auf [[Unix\|Unix]] basiert und unter der [[GNU GPL\|GNU GPL]] steht.
 
 > > **Warum Linux lernen?** Weil es auf den meisten [[02 - RESOURCES/Notes/Server\|Server]]n läuft und du als IT-ler früher oder später damit konfrontiert wirst. Plus: Es ist kostenlos! 😉
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-09-15T11:54:25.934+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-09-16T11:18:03.102+02:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -28,7 +28,7 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 ___
 - 🟢 [[00 - PROJECTS/GFN/+/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]]
 - 🟢 [[00 - PROJECTS/GFN/AP1/LF01 Das Unternehmen und die eigene Rolle im Betrieb\|LF01 Das Unternehmen und die eigene Rolle im Betrieb]] 
-- 🔴 [[00 - PROJECTS/GFN/AP1/LF02 Arbeitsplatz nach Kundenwunsch ausstatten\|LF02 Arbeitsplatz nach Kundenwunsch ausstatten]]
+- 🟢 [[00 - PROJECTS/GFN/AP1/LF02 Arbeitsplatz nach Kundenwunsch ausstatten\|LF02 Arbeitsplatz nach Kundenwunsch ausstatten]]
 - 🟢 [[00 - PROJECTS/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]
 - 🔴 [[00 - PROJECTS/GFN/AP1/LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen\|LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen]] 
 - 🔴 [[00 - PROJECTS/GFN/AP1/LF05 Software zur Verwaltung von Daten anpassen\|LF05 Software zur Verwaltung von Daten anpassen]]
