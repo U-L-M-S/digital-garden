@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/zentrale-steuerung-von-programmen-und-daten/","tags":["informatik/netzwerk/verwaltung"],"noteIcon":"","updated":"2025-09-11T10:43:22.233+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/zentrale-steuerung-von-programmen-und-daten/","tags":["informatik/netzwerk/verwaltung"],"noteIcon":"","updated":"2025-09-11T10:43:22.000+02:00"}
 ---
 
 >Software-Updates und Daten werden zentral verwaltet.

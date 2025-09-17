@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/client-server-netzwerk/","tags":["informatik/netzwerk/topologie","informatik/netzwerk/organisation"],"noteIcon":"","updated":"2025-09-10T16:35:10.076+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/client-server-netzwerk/","tags":["informatik/netzwerk/topologie","informatik/netzwerk/organisation"],"noteIcon":"","updated":"2025-09-10T16:35:10.000+02:00"}
 ---
 
 

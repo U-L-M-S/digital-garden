@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/on-premise/","tags":["infrastruktur/lokal","informatik/server/eigen"],"noteIcon":"","updated":"2025-09-10T17:01:52.633+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/on-premise/","tags":["infrastruktur/lokal","informatik/server/eigen"],"noteIcon":"","updated":"2025-09-10T17:01:52.000+02:00"}
 ---
 
 

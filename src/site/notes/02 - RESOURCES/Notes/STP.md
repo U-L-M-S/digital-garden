@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/stp/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-10T16:35:35.009+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/stp/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-10T16:35:35.000+02:00"}
 ---
 
 >Spanning Tree Protocol

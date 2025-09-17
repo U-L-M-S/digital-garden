@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dateiverwaltung/","tags":["software/betriebssystem","informatik/dateisystem"],"noteIcon":"","updated":"2025-09-16T10:51:03.047+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dateiverwaltung/","tags":["software/betriebssystem","informatik/dateisystem"],"noteIcon":"","updated":"2025-09-16T23:41:26.740+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/black-box-test/","tags":["qualitaetssicherung/testing","testing/verfahren"],"noteIcon":"","updated":"2025-09-16T16:45:37.312+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/black-box-test/","tags":["qualitaetssicherung/testing","testing/verfahren"],"noteIcon":"","updated":"2025-09-16T23:41:26.716+02:00"}
 ---
 
 

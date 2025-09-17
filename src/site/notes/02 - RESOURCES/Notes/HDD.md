@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hdd/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung","speicher","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:10.320+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hdd/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung","speicher","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:10.000+02:00"}
 ---
 
 > Speichermedium, das Daten **magnetisch** auf rotierende Scheiben speichert. Gehört zu den **magnetischen Speichern** und hat bewegliche Teile (Motor + Lesekopf).

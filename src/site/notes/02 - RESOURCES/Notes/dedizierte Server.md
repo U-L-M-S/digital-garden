@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dedizierte-server/","tags":["informatik/netzwerk/server","computer/spezialisierung","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:14.537+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dedizierte-server/","tags":["informatik/netzwerk/server","computer/spezialisierung","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:14.000+02:00"}
 ---
 
 

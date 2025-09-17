@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dynamically-allocated-ports/","tags":["informatik/netzwerk/ports/dynamisch","dienste/temporär","informatik/netzwerk"],"noteIcon":"","updated":"2025-09-10T16:35:15.111+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dynamically-allocated-ports/","tags":["informatik/netzwerk/ports/dynamisch","dienste/temporär","informatik/netzwerk"],"noteIcon":"","updated":"2025-09-10T16:35:15.000+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hgb/","tags":["rechtliches/handelsrecht","business/unternehmen"],"noteIcon":"","updated":"2025-09-16T16:45:37.472+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hgb/","tags":["rechtliches/handelsrecht","business/unternehmen"],"noteIcon":"","updated":"2025-09-16T23:41:26.755+02:00"}
 ---
 
 

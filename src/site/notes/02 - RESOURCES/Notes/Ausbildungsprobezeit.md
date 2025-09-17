@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ausbildungsprobezeit/","tags":["arbeitsrecht/kündigung"],"noteIcon":"","updated":"2025-09-15T13:04:41.419+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ausbildungsprobezeit/","tags":["arbeitsrecht/kündigung"],"noteIcon":"","updated":"2025-09-16T23:41:26.702+02:00"}
 ---
 
 > Es dauert zwischen zwischen 1 bis 4 Monaten.

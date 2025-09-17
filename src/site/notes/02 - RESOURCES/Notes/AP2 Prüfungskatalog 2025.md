@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-09-16T15:13:50.825+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-09-16T23:57:17.018+02:00"}
 ---
 
 # 📌 Sichere Themen für die AP2-Prüfung 2025
@@ -52,8 +52,8 @@
 
 - 🧪 **Testverfahren** 👈
     - [[02 - RESOURCES/Notes/static\|Statische]]/[[02 - RESOURCES/Notes/dynamic\|dynamische]] Tests
-    - 🆕 Print-Debugging, Unit-Test, E2E-Test
-    - Komponententest, Integrationstest, Systemtest
+    - 🆕 [[02 - RESOURCES/Notes/Print-Debugging\|Print-Debugging]], Unit-Test, [[02 - RESOURCES/Notes/E2E-Test\|E2E-Test]]
+    - [[02 - RESOURCES/Notes/Komponententest\|Komponententest]], [[02 - RESOURCES/Notes/Integrationstest\|Integrationstest]], [[02 - RESOURCES/Notes/Systemtest\|Systemtest]]
 - 📊 **Qualitätsmessung**
     - [[02 - RESOURCES/Notes/PDCA Zyklus\|PDCA Zyklus]], [[02 - RESOURCES/Notes/KVP\|KVP]], Kennzahlen 👈
     - Soll-Ist-Vergleich, Testprotokolle
@@ -106,21 +106,21 @@
     - 🆕 Schwellwerte festlegen (verstärkt!)
     - ❌ ~~Load Balancing~~
 - 🎫 **Incident Management**
-    - [[02 - RESOURCES/Notes/SOP\|SOP]], [[02 - RESOURCES/Notes/SLA\|SLA]], Ticketsystem, Eskalationsstufen
+    - [[02 - RESOURCES/Notes/SOP\|SOP]], [[02 - RESOURCES/Notes/SLA\|SLA]], [[02 - RESOURCES/Notes/Ticketsystem\|Ticketsystem]], [[02 - RESOURCES/Notes/Eskalation\|Eskalationsstufen]]
 - 📝 **Dokumentation**
     - 🆕 [[02 - RESOURCES/Notes/Programm- und Konfigurationsdokumentation\|Programm- und Konfigurationsdokumentation]] (neu hinzugefügt!) 👈
-    - Checklisten
+    - [[02 - RESOURCES/Notes/Checklisten\|Checklisten]]
 
 ---
 
 ## 💾 Speicherlösungen
 
 - 🔐 **Absicherung**
-    - Berechtigungskonzepte (Zugang, Zutritt, Zugriff) 👈
+    - [[02 - RESOURCES/Notes/Berechtigungskonzepte\|Berechtigungskonzepte]] (Zugang, Zutritt, Zugriff) 👈
     - Physische Sicherheit (Serverraum, Elementarrisiken)
-    - Software-Sicherheit ([[02 - RESOURCES/Notes/BitLocker\|BitLocker]], Port Security)
+    - Software-Sicherheit ([[02 - RESOURCES/Notes/BitLocker\|BitLocker]], [[02 - RESOURCES/Notes/Port Security\|Port Security]])
 - ☁️ **Service-Modelle**
-    - On-Premises vs. [[02 - RESOURCES/Notes/Cloud\|Cloud]] 👈
+    - [[02 - RESOURCES/Notes/On-Premises\|On-Premises]] vs. [[02 - RESOURCES/Notes/Cloud\|Cloud]] 👈
     - [[02 - RESOURCES/Notes/SaaS\|SaaS]], [[02 - RESOURCES/Notes/IaaS\|IaaS]], [[02 - RESOURCES/Notes/PaaS\|PaaS]]
 - 🔗 **Storage-Netzwerke**
     - 🆕 [[02 - RESOURCES/Notes/NAS\|NAS]], [[02 - RESOURCES/Notes/SAN\|SAN]] (explizit neu!)
@@ -135,8 +135,8 @@
 
 - 📋 **Anforderungserfassung** 👈
     - 🆕 [[02 - RESOURCES/Notes/Softwarequalitätsmerkmale\|Softwarequalitätsmerkmale]] (ISO 25010)
-    - Änderbarkeit/Erweiterbarkeit, Benutzbarkeit
-    - 🆕 Wartbarkeit (explizit hinzugefügt)
+    - [[02 - RESOURCES/Notes/Änderbarkeit\|Änderbarkeit]]/[[02 - RESOURCES/Notes/Erweiterbarkeit\|Erweiterbarkeit]], [[02 - RESOURCES/Notes/Usability\|Benutzbarkeit]]
+    - 🆕 [[02 - RESOURCES/Notes/Wartbarkeit\|Wartbarkeit]] (explizit hinzugefügt)
 - 📐 **Planungsmodelle**
     - [[02 - RESOURCES/Notes/ER-Modell\|ER-Modell]], Relationales Datenbankmodell
     - [[02 - RESOURCES/Notes/UML\|UML]]-Diagramme (Klassen-, Aktivitäts-, Anwendungsfall-)
@@ -146,7 +146,7 @@
     - [[02 - RESOURCES/Notes/API\|API]] (z.B. [[02 - RESOURCES/Notes/REST API\|REST API]])
 - 🎯 **Programmiersprachen-Auswahl**
     - Performance, Speicherverbrauch, Portabilität 👈
-    - Framework/Bibliotheken, [[02 - RESOURCES/Notes/IDE\|IDE]]
+    - [[02 - RESOURCES/Notes/Framework\|Framework]]/Bibliotheken, [[02 - RESOURCES/Notes/IDE\|IDE]]
 - 🤖 **Cyber-physische Systeme** 👈
     - 🆕 [[02 - RESOURCES/Notes/CPS\|CPS]]-Software (neu für FIAE!)
     - 🆕 Auswahl [[02 - RESOURCES/Notes/Sensoren\|Sensoren]]/[[02 - RESOURCES/Notes/Aktoren\|Aktoren]]
@@ -155,7 +155,7 @@
     - [[02 - RESOURCES/Notes/PowerShell\|PowerShell]], [[02 - RESOURCES/Notes/Bash\|Bash]], [[02 - RESOURCES/Notes/Python\|Python]]
 - 🧪 **[[02 - RESOURCES/Notes/Qualitätssicherung\|Qualitätssicherung]]**
     - [[02 - RESOURCES/Notes/Black Box Test\|Black Box Test]]/[[02 - RESOURCES/Notes/White Box Test\|White Box Test]]
-    - Print-[[02 - RESOURCES/Notes/Debugging\|Debugging]], Unit-Test, E2E-Test
+    - Print-[[02 - RESOURCES/Notes/Debugging\|Debugging]], Unit-Test, [[02 - RESOURCES/Notes/E2E-Test\|E2E-Test]]
 
 ---
 
@@ -172,12 +172,12 @@
 - 🛠️ **Entwicklungswerkzeuge**
     - [[02 - RESOURCES/Notes/IDE\|IDE]], [[02 - RESOURCES/Notes/Compiler\|Compiler]], [[02 - RESOURCES/Notes/Interpreter\|Interpreter]]
     - [[02 - RESOURCES/Notes/Debugger\|Debugger]], [[02 - RESOURCES/Notes/Versionsverwaltung\|Versionsverwaltung]] 👈
-- 🎨 **Design Patterns** 👈
+- 🎨 **[[02 - RESOURCES/Notes/Design Patterns\|Design Patterns]]** 👈
     - 🆕 [[02 - RESOURCES/Notes/Architektur-Pattern\|Architektur-Pattern]] (neu hinzugefügt!)
-    - Observer, Singleton, Factory, [[02 - RESOURCES/Notes/MVC\|MVC]]
+    - [[02 - RESOURCES/Notes/Observer\|Observer]], [[02 - RESOURCES/Notes/Singleton\|Singleton]], [[02 - RESOURCES/Notes/Factory\|Factory]], [[02 - RESOURCES/Notes/MVC\|MVC]]
 - 👤 **[[02 - RESOURCES/Notes/UI\|UI]]/[[02 - RESOURCES/Notes/UX\|UX]]-Design**
-    - Usability, [[02 - RESOURCES/Notes/UX\|User Experience]]
-    - Prototypen (Mockups)
+    - [[02 - RESOURCES/Notes/Usability\|Usability]], [[02 - RESOURCES/Notes/UX\|User Experience]]
+    - Prototypen ([[02 - RESOURCES/Notes/Mockup\|Mockups]])
 - 🧮 **[[02 - RESOURCES/Notes/OOP\|OOP]]**
     - 🆕 [[02 - RESOURCES/Notes/Kapselung\|Kapselung]] (explizit betont!)
     - [[02 - RESOURCES/Notes/UML-Vererbung\|UML-Vererbung]], [[02 - RESOURCES/Notes/Polymorphie\|Polymorphie]], [[02 - RESOURCES/Notes/Java Interface\|Java Interface]]
@@ -201,13 +201,13 @@
 - 🔒 **[[02 - RESOURCES/Notes/Datenschutz\|Datenschutz]] & [[02 - RESOURCES/Notes/Datensicherheit\|Datensicherheit]]** 👈
     - [[02 - RESOURCES/Notes/Integrität\|Integrität]], [[02 - RESOURCES/Notes/Authentizität\|Authentizität]], digitale Signatur
     - [[02 - RESOURCES/Notes/Verschlüsselung\|Verschlüsselung]], Archivierung
-    - [[02 - RESOURCES/Notes/Authentifizierung\|Authentifizierung]], Autorisierung
+    - [[02 - RESOURCES/Notes/Authentifizierung\|Authentifizierung]], [[02 - RESOURCES/Notes/Autorisierung\|Autorisierung]]
 - 🛡️ **Datenintegrität**
     - Constraints, Validierung
     - Transaktionssicherheit
 - 🧪 **Softwaretests** 👈
     - Statische/dynamische Testverfahren
-    - Schreibtischtest, Modultest, E2E-Tests
+    - Schreibtischtest, [[02 - RESOURCES/Notes/Komponententest\|Modultest]], E2E-Tests
     - Belastungstest
 - 📊 **Testprozess**
     - Testverfahren auswählen
@@ -236,7 +236,7 @@
 
 ## ❌ Gestrichene Themen
 
-- **Trend-Themen:** Smart Grid, IoT, Industrie 4.0, KI, Blockchain, Big Data
+- **Trend-Themen:** Smart Grid, IoT, Industrie 4.0, [[02 - RESOURCES/Notes/KI\|KI]], Blockchain, Big Data
 - **Modellierung:** Struktogramm, PAP
 - **Infrastruktur:** Load Balancing, Data Warehouse
 - **Programmierung:** Programmierparadigmen

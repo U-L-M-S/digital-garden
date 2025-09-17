@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/berechtigungskonzepte/","tags":["sicherheit/zugriff","access-management/kontrolle"],"noteIcon":"","updated":"2025-09-16T16:45:37.290+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/berechtigungskonzepte/","tags":["sicherheit/zugriff","access-management/kontrolle"],"noteIcon":"","updated":"2025-09-16T23:41:26.710+02:00"}
 ---
 
 

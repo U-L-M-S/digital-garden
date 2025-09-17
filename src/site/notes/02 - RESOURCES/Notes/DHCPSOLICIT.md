@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dhcpsolicit/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-09-15T16:29:26.998+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dhcpsolicit/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-09-16T23:41:26.737+02:00"}
 ---
 
 >Die erste Nachricht im [[02 - RESOURCES/Notes/DHCPv6\|DHCPv6]]-Prozess - Client sucht nach verfügbaren [[02 - RESOURCES/Notes/DHCPv6\|DHCPv6]]-Servern.

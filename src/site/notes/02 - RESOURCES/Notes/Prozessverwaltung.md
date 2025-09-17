@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/prozessverwaltung/","tags":["software/betriebssystem","informatik/prozesse"],"noteIcon":"","updated":"2025-09-16T10:51:03.117+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/prozessverwaltung/","tags":["software/betriebssystem","informatik/prozesse"],"noteIcon":"","updated":"2025-09-16T23:41:26.821+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["GFN/LF02","GFN/prüfungsrelevant/AP1","finished"],"noteIcon":"","updated":"2025-09-16T11:29:12.199+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["GFN/LF02","GFN/prüfungsrelevant/AP1","finished"],"noteIcon":"","updated":"2025-09-16T11:29:12.000+02:00"}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.

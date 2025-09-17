@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wartbarkeit/","tags":["qualitaet/maintainability","softwareentwicklung/langzeit","AP2025/hinzugefuegt"],"noteIcon":"","updated":"2025-09-16T16:45:03.524+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wartbarkeit/","tags":["qualitaet/maintainability","softwareentwicklung/langzeit","AP2025/hinzugefuegt"],"noteIcon":"","updated":"2025-09-16T23:41:26.894+02:00"}
 ---
 
 

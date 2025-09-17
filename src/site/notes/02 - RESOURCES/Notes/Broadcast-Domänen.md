@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/broadcast-domaenen/","tags":["informatik/netzwerk/segment","broadcast/begrenzung"],"noteIcon":"","updated":"2025-09-10T16:35:09.286+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/broadcast-domaenen/","tags":["informatik/netzwerk/segment","broadcast/begrenzung"],"noteIcon":"","updated":"2025-09-10T16:35:09.000+02:00"}
 ---
 
 

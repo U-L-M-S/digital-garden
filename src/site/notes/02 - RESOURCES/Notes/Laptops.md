@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/laptops/","tags":["informatik/hardware/mobil","computer/typ"],"noteIcon":"","updated":"2025-09-10T17:00:11.083+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/laptops/","tags":["informatik/hardware/mobil","computer/typ"],"noteIcon":"","updated":"2025-09-10T17:00:11.000+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dhcprequest/","tags":["informatik/netzwerk/ip/ipv4","informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-09-15T16:40:26.714+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dhcprequest/","tags":["informatik/netzwerk/ip/ipv4","informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-09-15T16:40:26.000+02:00"}
 ---
 
 >Die Nachricht, die vom Client gesendet wird, um das Angebot eines [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]]s anzunehmen und die gewünschten Konfigurationsparameter zu bestätigen.

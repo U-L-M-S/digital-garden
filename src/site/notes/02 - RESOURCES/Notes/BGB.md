@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bgb/","tags":["rechtliches/grundlagen","compliance/gesetze"],"noteIcon":"","updated":"2025-09-16T16:45:37.297+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bgb/","tags":["rechtliches/grundlagen","compliance/gesetze"],"noteIcon":"","updated":"2025-09-16T23:41:26.705+02:00"}
 ---
 
 

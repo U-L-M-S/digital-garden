@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uefi/","tags":["hardware/firmware","software/system"],"noteIcon":"","updated":"2025-09-16T10:51:03.172+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uefi/","tags":["hardware/firmware","software/system"],"noteIcon":"","updated":"2025-09-16T23:41:26.888+02:00"}
 ---
 
 

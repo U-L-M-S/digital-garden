@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kvp/","tags":["qualitaetsmanagement/kontinuierlich","prozessverbesserung/methoden"],"noteIcon":"","updated":"2025-09-16T16:45:37.872+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kvp/","tags":["qualitaetsmanagement/kontinuierlich","prozessverbesserung/methoden"],"noteIcon":"","updated":"2025-09-16T23:41:26.770+02:00"}
 ---
 
 

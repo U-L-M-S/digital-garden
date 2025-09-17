@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sla/","tags":["service-management/vereinbarungen","qualitaetsmanagement/standards"],"noteIcon":"","updated":"2025-09-16T16:45:03.339+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sla/","tags":["service-management/vereinbarungen","qualitaetsmanagement/standards"],"noteIcon":"","updated":"2025-09-16T23:41:26.842+02:00"}
 ---
 
 

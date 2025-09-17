@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/api/","tags":["tools","informatik/code"],"noteIcon":"","updated":"2025-09-16T10:37:46.751+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/api/","tags":["tools","informatik/code"],"noteIcon":"","updated":"2025-09-16T10:37:46.000+02:00"}
 ---
 
 >Application Programming Interfaces

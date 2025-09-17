@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker-networking/","tags":["informatik/virtualisierung/docker/networking","informatik/netzwerk/virtuell"],"noteIcon":"","updated":"2025-09-10T16:40:27.193+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker-networking/","tags":["informatik/virtualisierung/docker/networking","informatik/netzwerk/virtuell"],"noteIcon":"","updated":"2025-09-10T16:40:27.000+02:00"}
 ---
 
 

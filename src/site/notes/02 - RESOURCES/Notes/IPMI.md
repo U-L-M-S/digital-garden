@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ipmi/","tags":["informatik/hardware/server"],"noteIcon":"","updated":"2025-09-10T17:00:10.822+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ipmi/","tags":["informatik/hardware/server"],"noteIcon":"","updated":"2025-09-10T17:00:10.000+02:00"}
 ---
 
 ## IPMI 

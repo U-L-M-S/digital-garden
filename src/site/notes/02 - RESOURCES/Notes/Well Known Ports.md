@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/well-known-ports/","tags":["informatik/netzwerk/ports/standard","dienste/fest","informatik/netzwerk"],"noteIcon":"","updated":"2025-09-10T16:35:41.219+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/well-known-ports/","tags":["informatik/netzwerk/ports/standard","dienste/fest","informatik/netzwerk"],"noteIcon":"","updated":"2025-09-10T16:35:41.000+02:00"}
 ---
 
 
