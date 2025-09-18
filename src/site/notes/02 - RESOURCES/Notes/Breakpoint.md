@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/breakpoint/","tags":["programmierung/debugging","entwicklung/tools"],"noteIcon":"","updated":"2025-09-16T23:41:26.718+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/breakpoint/","tags":["programmierung/debugging","entwicklung/tools"],"noteIcon":"","updated":"2025-09-18T08:17:52.571+02:00"}
 ---
 
-
 >Ein [[02 - RESOURCES/Notes/Breakpoint\|Breakpoint]] ist eine markierte Stelle im Code, an der die Programmausführung angehalten wird.
-
 >>Breakpoints ermöglichen die Inspektion von Variablenwerten und Programmzustand zur Laufzeit.
+![image-108.png](/img/user/02%20-%20RESOURCES/Files/image-108.png)
 
 >[!important] 
 >**Breakpoint-Arten:**

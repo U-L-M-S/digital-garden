@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/else-bedingung/","tags":["informatik/code"],"noteIcon":"","updated":"2025-09-10T16:33:00.545+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/else-bedingung/","tags":["informatik/code"],"noteIcon":"","updated":"2025-09-10T16:33:00.000+02:00"}
 ---
 
 >Eine [[else\|else]]-Bedingung wird verwendet, um einen **Codeblock** auszuführen, wenn die vorhergehende `if`-Bedingung **falsch** ist. 

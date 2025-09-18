@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/source-address-table/","tags":["informatik/netzwerk/switch/tabelle","informatik/netzwerk/hardware","lernen"],"noteIcon":"","updated":"2025-09-10T17:04:18.637+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/source-address-table/","tags":["informatik/netzwerk/switch/tabelle","informatik/netzwerk/hardware","lernen"],"noteIcon":"","updated":"2025-09-10T17:04:18.000+02:00"}
 ---
 
 

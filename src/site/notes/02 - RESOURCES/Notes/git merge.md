@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/git-merge/","tags":["git/merge"],"noteIcon":"","updated":"2025-09-15T13:58:58.946+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/git-merge/","tags":["git/merge"],"noteIcon":"","updated":"2025-09-16T23:41:26.000+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rackmount-server/","tags":["informatik/hardware/server"],"noteIcon":"","updated":"2025-09-10T17:00:12.596+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/rackmount-server/","tags":["informatik/hardware/server"],"noteIcon":"","updated":"2025-09-10T17:00:12.000+02:00"}
 ---
 
 ![image-93.png](/img/user/02%20-%20RESOURCES/Files/image-93.png)

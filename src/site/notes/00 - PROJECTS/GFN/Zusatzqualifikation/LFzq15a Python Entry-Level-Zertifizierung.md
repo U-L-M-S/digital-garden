@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq15a-python-entry-level-zertifizierung/","tags":["informatik/code/python"],"noteIcon":"","updated":"2025-09-10T16:32:54.992+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq15a-python-entry-level-zertifizierung/","tags":["informatik/code/python"],"noteIcon":"","updated":"2025-09-10T16:32:54.000+02:00"}
 ---
 
 >Dieser Zusammenfassung ist eine Vorbereitung auf die PCEP - Certificated Entry-Level Python Programmer.

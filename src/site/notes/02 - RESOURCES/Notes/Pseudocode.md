@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pseudocode/","tags":["informatik/code","AI-generated"],"noteIcon":"","updated":"2025-09-16T23:41:26.826+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pseudocode/","tags":["informatik/code","AI-generated"],"noteIcon":"","updated":"2025-09-18T08:18:26.466+02:00"}
 ---
 
 > [[02 - RESOURCES/Notes/Pseudocode\|Pseudocode]] ist wie ein Rezept zum Kochen - du schreibst die Schritte auf, bevor du wirklich kochst. Es ist eine Zwischenstufe zwischen deiner Idee und dem echten [[Code\|Code]].
@@ -75,14 +75,14 @@ END FUNCTION
 
 ## Struktur-Wörter
 
-|Wort|Bedeutung|Beispiel|
-|---|---|---|
-|SET|[[02 - RESOURCES/Notes/Variable\|Variable]] zuweisen|SET x = 5|
-|IF/THEN/ELSE|[[02 - RESOURCES/Notes/Bedingung\|Bedingung]] prüfen|IF x > 0 THEN...|
-|FOR/WHILE|[[Schleife\|Schleife]] starten|FOR i = 1 TO 10|
-|PRINT|Ausgabe|PRINT "Hallo"|
-|INPUT|Eingabe|INPUT name|
-|RETURN|Wert zurückgeben|RETURN ergebnis|
+| Wort         | Bedeutung             | Beispiel         |
+| ------------ | --------------------- | ---------------- |
+| SET          | [[02 - RESOURCES/Notes/Variable\|Variable]] zuweisen | SET x = 5        |
+| IF/THEN/ELSE | [[02 - RESOURCES/Notes/Bedingung\|Bedingung]] prüfen  | IF x > 0 THEN... |
+| FOR/WHILE    | Schleife starten      | FOR i = 1 TO 10  |
+| PRINT        | Ausgabe               | PRINT "Hallo"    |
+| INPUT        | Eingabe               | INPUT name       |
+| RETURN       | Wert zurückgeben      | RETURN ergebnis  |
 
 ## Einrückungen verwenden
 
