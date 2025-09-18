@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/white-box-test/","tags":["qualitaetssicherung/testing","testing/verfahren"],"noteIcon":"","updated":"2025-09-16T23:41:26.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/white-box-test/","tags":["qualitaetssicherung/testing","testing/verfahren"],"noteIcon":"","updated":"2025-09-18T12:26:23.442+02:00"}
 ---
 
 
