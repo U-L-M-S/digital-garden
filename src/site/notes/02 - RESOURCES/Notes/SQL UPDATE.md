@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-update/","tags":["informatik/code/SQL","informatik/datenbank"],"noteIcon":"","updated":"2025-09-16T23:41:26.855+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-update/","tags":["informatik/code/SQL","informatik/datenbank"],"noteIcon":"","updated":"2025-09-16T23:41:26.000+02:00"}
 ---
 
 > Befehl wird verwendet um die Struktur einer bereits existierenden [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] zu ändern. Du kannst [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n hinzufügen, entfernen oder bearbeiten.
