@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pdca-zyklus/","tags":["qualitaetsmanagement/methoden","projektmanagement/verbesserung"],"noteIcon":"","updated":"2025-09-16T23:41:26.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pdca-zyklus/","tags":["qualitaetsmanagement/methoden","projektmanagement/verbesserung"],"noteIcon":"","updated":"2025-09-16T23:41:26.790+02:00"}
 ---
 
 
