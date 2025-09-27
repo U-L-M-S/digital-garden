@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/delimiter/","tags":["informatik/code"],"noteIcon":"","updated":"2025-09-10T16:32:59.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/delimiter/","tags":["#informatik/code"],"noteIcon":"","updated":"2025-09-10T16:32:59.000+02:00"}
 ---
 
 > Englischer Begriff für "**Trenner**".

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hexadezimal-zu-dezimal/","tags":["mathe/hexadezimal"],"noteIcon":"","updated":"2025-09-05T10:12:28.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hexadezimal-zu-dezimal/","tags":["#mathe/hexadezimal"],"noteIcon":"","updated":"2025-09-05T10:12:28.000+02:00"}
 ---
 
 >[[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]]-Zahl multiplizieren mit 16er-Potenzen, beginnend von rechts (16⁰):

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lf-12b-praesentation-und-fachgespraech/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2025-09-05T15:14:42.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/lf-12b-praesentation-und-fachgespraech/","tags":["#GFN/LF12/FISI"],"noteIcon":"","updated":"2025-09-05T15:14:42.000+02:00"}
 ---
 
 # LF12b - Präsentation und Fachgespräch

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/monopol/","tags":["markt/struktur","BWL"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/monopol/","tags":["markt/struktur","wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:43.550+02:00"}
 ---
 
 >Markt mit nur einem Anbieter für viele Nachfrager.

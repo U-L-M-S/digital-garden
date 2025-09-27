@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dmz/","tags":["informatik/netzwerk/firewall","it-sicherheit"],"noteIcon":"","updated":"2025-09-10T16:35:11.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dmz/","tags":["informatik/netzwerk/firewall","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-09-27T01:32:43.597+02:00"}
 ---
 
 ![DMZ-20240804000213781.png](/img/user/02%20-%20RESOURCES/Files/IMG/DMZ-20240804000213781.png)

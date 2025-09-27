@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/daily-scrum/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2025-09-05T10:12:28.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/daily-scrum/","tags":["#projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2025-09-05T10:12:28.000+02:00"}
 ---
 
 >Das **[[02 - RESOURCES/Notes/Daily Scrum\|Daily Scrum]]** ist ein kurzes tägliches Treffen (max. 15 Minuten), bei dem das Team den aktuellen Fortschritt bespricht.

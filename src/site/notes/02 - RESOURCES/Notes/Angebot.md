@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/angebot/","tags":["markt/mechanismus","BWL"],"noteIcon":"","updated":"2025-09-16T15:25:26.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/angebot/","tags":["markt/mechanismus","wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:43.739+02:00"}
 ---
 
 >Menge an Gütern und Dienstleistungen, die Verkäufer zu verschiedenen Preisen anbieten.

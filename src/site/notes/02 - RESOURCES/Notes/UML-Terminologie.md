@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-terminologie/","tags":["uml/klassendiagramm"],"noteIcon":"","updated":"2025-09-05T10:12:32.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-terminologie/","tags":["#uml/klassendiagramm"],"noteIcon":"","updated":"2025-09-05T10:12:32.000+02:00"}
 ---
 
 >[[02 - RESOURCES/Notes/UML-Terminologie\|UML-Terminologie]]n bei [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]] sind die Linien, die Klassen verbinden.

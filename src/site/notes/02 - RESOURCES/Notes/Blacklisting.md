@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/blacklisting/","tags":["sicherheit/strategie","filter/verbieten","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:12:28.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/blacklisting/","tags":["filter/verbieten","sicherheit/it-sicherheit","sicherheit/strategie"],"noteIcon":"","updated":"2025-09-27T01:32:43.502+02:00"}
 ---
 
 

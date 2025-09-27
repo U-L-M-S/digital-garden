@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/klassische-vorgehensmodelle/","tags":["projektmanagement/vorgehensmodell/klassisch","GFN/LF04"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/klassische-vorgehensmodelle/","tags":["#projektmanagement/vorgehensmodell/klassisch","#GFN/LF04"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
 ---
 
 >**Klassische Vorgehensmodelle** sind traditionellere Ansätze im [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]], die einen strukturierten und planvollen Verlauf des Projekts betonen. Sie folgen einem festen, sequentiellen Ablauf, bei dem jede Phase abgeschlossen sein muss, bevor die nächste begonnen wird.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/a-i-d-a-prinzip/","tags":["GFN/prüfungsrelevant/AP1","GFN/LF07","marketing"],"noteIcon":"","updated":"2025-09-05T10:12:26.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/a-i-d-a-prinzip/","tags":["GFN/LF07","ausbildung/gfn/ap1","wirtschaft/marketing"],"noteIcon":"","updated":"2025-09-27T01:32:43.836+02:00"}
 ---
 
 > Es ist ein Prinzip, das oft in **Präsentationen** und **Marketing** verwendet wird.

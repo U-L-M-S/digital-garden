@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-user-input/","tags":["informatik/code/java"],"noteIcon":"","updated":"2025-09-10T16:33:05.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-user-input/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-09-27T01:32:43.503+02:00"}
 ---
 
 

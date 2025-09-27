@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/cpu/","tags":["hardware/cpu","informatik/architektur","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-09-16T23:41:26.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/cpu/","tags":["ausbildung/gfn/ap1/vorbereitung","hardware/cpu","informatik/architektur"],"noteIcon":"","updated":"2025-09-27T01:32:44.574+02:00"}
 ---
 
 

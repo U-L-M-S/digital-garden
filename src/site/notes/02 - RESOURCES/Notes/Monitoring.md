@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/monitoring/","tags":["überwachung/systeme","früherkennung/probleme","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:20:40.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/monitoring/","tags":["früherkennung/probleme","sicherheit/it-sicherheit","überwachung/systeme"],"noteIcon":"","updated":"2025-09-27T01:32:43.687+02:00"}
 ---
 
 

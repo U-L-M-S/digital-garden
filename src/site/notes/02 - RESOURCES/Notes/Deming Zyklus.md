@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/deming-zyklus/","tags":["projektmanagement","GFN/prüfungsrelevant/AP1"],"noteIcon":"","updated":"2025-09-05T10:12:28.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/deming-zyklus/","tags":["ausbildung/gfn/ap1","projektmanagement"],"noteIcon":"","updated":"2025-09-27T01:32:43.994+02:00"}
 ---
 
 >Auch als Plan-Do-Check-Act-Zyklus bekannt, ist er ein Modell, das entwickelt wurde, um Prozesse kontinuierlich zu verbessern und Projekte besser zu strukturieren.

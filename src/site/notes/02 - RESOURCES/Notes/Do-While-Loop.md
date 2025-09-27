@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/do-while-loop/","tags":["informatik/code"],"noteIcon":"","updated":"2025-09-10T16:33:00.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/do-while-loop/","tags":["#informatik/code"],"noteIcon":"","updated":"2025-09-10T16:33:00.000+02:00"}
 ---
 
 >Das gleiche wie bei [[02 - RESOURCES/Notes/While-Loop\|While-Loop]]. Es wird aber mindestens 1 mal wiederholt.

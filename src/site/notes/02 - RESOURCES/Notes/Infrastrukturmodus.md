@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/infrastrukturmodus/","tags":["elektrotechnik/wlan/modus","informatik/netzwerk/wifi"],"noteIcon":"","updated":"2025-09-10T16:41:09.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/infrastrukturmodus/","tags":["#elektrotechnik/wlan/modus","#informatik/netzwerk/wifi"],"noteIcon":"","updated":"2025-09-10T16:41:09.000+02:00"}
 ---
 
 >**Infrastrukturmodus** - [[02 - RESOURCES/Notes/WLAN\|WLAN]]-Betrieb mit zentralem [[02 - RESOURCES/Notes/Access-Point\|Access-Point]].

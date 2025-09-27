@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/starke-ki/","tags":["informatik/AI","GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-09-10T16:27:55.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/starke-ki/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/AI"],"noteIcon":"","updated":"2025-09-27T01:32:44.075+02:00"}
 ---
 
 >Selbst handelnde [[02 - RESOURCES/Notes/KI\|KI]], die nicht auf

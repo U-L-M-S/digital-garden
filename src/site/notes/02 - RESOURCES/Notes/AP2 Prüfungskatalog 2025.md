@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-09-16T23:57:17.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-09-27T01:32:45.098+02:00"}
 ---
 
 # 📌 Sichere Themen für die AP2-Prüfung 2025

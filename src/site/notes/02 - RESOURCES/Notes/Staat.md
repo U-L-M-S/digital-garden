@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/staat/","tags":["stakeholder/regulierung","BWL"],"noteIcon":"","updated":"2025-09-05T10:12:32.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/staat/","tags":["stakeholder/regulierung","wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:44.613+02:00"}
 ---
 
 >Hoheitliche Gewalt, erwartet Steuereinnahmen und Gesetzesbefolgung.

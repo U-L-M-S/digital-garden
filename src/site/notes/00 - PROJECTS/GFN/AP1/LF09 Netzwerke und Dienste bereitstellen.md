@@ -46,7 +46,7 @@ ___
 In diese Bereich geht es hauptsächlich um [[02 - RESOURCES/Notes/Subnetting\|Subnetting]]. Hier wird deine Kenntnissen in [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[02 - RESOURCES/Notes/IPv6\|IPv6]] vertiefen.
 - [[02 - RESOURCES/Notes/IPv4\|IPv4]]
 	- [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]
-		- [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]
+		- [[Netzwerkmaske\|Netzwerkmaske]]
 			- [[02 - RESOURCES/Notes/CIDR\|CIDR]]
 			- [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]]
 			- [[02 - RESOURCES/Notes/Netzanteil\|Netzanteil]]

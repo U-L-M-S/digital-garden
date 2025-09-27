@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/application-firewall/","tags":["firewall/typ","filter/anwendung","informatik/netzwerk/firewall","it-sicherheit"],"noteIcon":"","updated":"2025-09-10T16:35:08.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/application-firewall/","tags":["filter/anwendung","firewall/typ","informatik/netzwerk/firewall","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-09-27T01:32:44.011+02:00"}
 ---
 
 

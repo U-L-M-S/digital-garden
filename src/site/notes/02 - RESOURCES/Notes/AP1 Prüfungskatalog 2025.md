@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["GFN/prüfungsrelevant/AP1/vorbereitung"],"noteIcon":"","updated":"2025-09-15T15:52:55.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-09-27T01:32:43.843+02:00"}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -107,7 +107,7 @@
 				- [[02 - RESOURCES/Notes/NAT\|NAT]] nötig
 				- Kein integrierter IPsec-Support
 		- [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]], 
-		- [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] und [[02 - RESOURCES/Notes/CIDR\|CIDR]]
+		- [[Netzwerkmaske\|Netzwerkmaske]] und [[02 - RESOURCES/Notes/CIDR\|CIDR]]
 		- [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]
 		- [[02 - RESOURCES/Notes/IPv4-Klassennetze\|IPv4-Klassennetze]]
 		- [[02 - RESOURCES/Notes/APIPA\|APIPA]]

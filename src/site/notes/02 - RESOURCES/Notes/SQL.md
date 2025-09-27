@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["informatik/code/SQL","GFN/prüfungsrelevant/AP2","informatik/datenbank"],"noteIcon":"","updated":"2025-09-15T15:16:51.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["ausbildung/gfn/ap2","informatik/code/SQL","informatik/datenbank"],"noteIcon":"","updated":"2025-09-27T01:32:44.025+02:00"}
 ---
 
 >SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.

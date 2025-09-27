@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netstat/","tags":["informatik/betriebssystem/windows/command"],"noteIcon":"","updated":"2025-09-10T16:55:35.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/netstat/","tags":["#informatik/betriebssystem/windows/command"],"noteIcon":"","updated":"2025-09-10T16:55:35.000+02:00"}
 ---
 
 >Zeigt aktive **Netzwerkverbindungen** und offene **Ports** deines Systems. 

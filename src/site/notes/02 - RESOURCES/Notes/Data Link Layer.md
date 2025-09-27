@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/data-link-layer/","tags":["informatik/netzwerk/osi/layer2","rahmen/fehlerkontrolle","informatik/netzwerk/osi"],"noteIcon":"","updated":"2025-09-10T16:35:13.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/data-link-layer/","tags":["#informatik/netzwerk/osi/layer2","#rahmen/fehlerkontrolle","#informatik/netzwerk/osi"],"noteIcon":"","updated":"2025-09-10T16:35:13.000+02:00"}
 ---
 
 

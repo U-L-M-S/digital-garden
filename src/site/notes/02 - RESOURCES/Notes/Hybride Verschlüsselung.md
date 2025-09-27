@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hybride-verschluesselung/","tags":["kryptografie","it-sicherheit"],"noteIcon":"","updated":"2025-09-05T10:12:28.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hybride-verschluesselung/","tags":["sicherheit/it-sicherheit","sicherheit/kryptografie"],"noteIcon":"","updated":"2025-09-27T01:32:44.629+02:00"}
 ---
 
 > Kombiniert **asymmetrische** und **symmetrische** Verschlüsselung, um die Vorteile beider zu nutzen.
