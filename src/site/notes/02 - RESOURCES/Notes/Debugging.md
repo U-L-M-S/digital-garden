@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/debugging/","tags":["#informatik/code"],"noteIcon":"","updated":"2025-09-18T08:13:01.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/debugging/","tags":["informatik/code"],"noteIcon":"","updated":"2025-09-18T08:13:01.605+02:00"}
 ---
 
 >**Prozess des Findens und Behebens von Fehlern** (Bugs) in Code.

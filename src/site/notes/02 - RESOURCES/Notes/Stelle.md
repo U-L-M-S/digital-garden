@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/stelle/","tags":["organisation/aufbau","wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:44.169+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/stelle/","tags":["organisation/aufbau","wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:44.000+02:00"}
 ---
 
 >Kleinste Organisationseinheit mit klar definierten Aufgaben.

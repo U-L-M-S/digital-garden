@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/print-server/","tags":["#informatik/netzwerk/server","#drucker/verwaltung","#informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:11.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/print-server/","tags":["informatik/netzwerk/server","drucker/verwaltung","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:11.000+02:00"}
 ---
 
 

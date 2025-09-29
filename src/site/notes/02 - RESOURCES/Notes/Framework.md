@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/framework/","tags":["informatik/code/java/","informatik/code/python"],"noteIcon":"","updated":"2025-09-26T10:29:58.093+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/framework/","tags":["informatik/code/java/","informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2025-09-27T01:32:43.000+02:00"}
 ---
 
 >Es ist ein **Gerüst**, das in verschiedenen Bereichen (z. B. Softwareentwicklung, [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]) verwendet wird, um Prozesse oder Aufgaben zu erleichtern und zu strukturieren.

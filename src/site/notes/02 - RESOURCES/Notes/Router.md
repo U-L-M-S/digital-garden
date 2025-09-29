@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/router/","tags":["#informatik/hardware","#informatik/netzwerk/gateway"],"noteIcon":"","updated":"2025-09-15T15:22:22.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/router/","tags":["informatik/hardware","informatik/netzwerk/gateway"],"noteIcon":"","updated":"2025-09-15T15:22:22.000+02:00"}
 ---
 
 >Hardware, der verwendet wird um [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]en miteinander  zu verbinden.

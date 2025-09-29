@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/web-smart-switch/","tags":["#informatik/netzwerk/switch/typ","#informatik/netzwerk/mittel","#informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:04:19.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/web-smart-switch/","tags":["informatik/netzwerk/switch/typ","informatik/netzwerk/mittel","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:04:19.000+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/verhalten/","tags":["#marketing/analyse"],"noteIcon":"","updated":"2025-09-05T10:12:32.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/verhalten/","tags":["marketing/analyse"],"noteIcon":"","updated":"2025-09-05T10:12:32.000+02:00"}
 ---
 
 >Beobachtung des tatsächlichen Kauf- und Nutzungsverhaltens.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-resources/notes/subnetz-bestimmen/","tags":["informatik/netzwerk/subnetting","informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-09-10T16:35:37.000+02:00"}
 ---
 
-> Nehmen wir an, du hast eine [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] erhalten und musst nun das [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] in 12 gleich große [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e unterteilen. Gefragt sind die 7. [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]].  
+> Nehmen wir an, du hast eine [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[Netzwerkmaske\|Netzwerkmaske]] erhalten und musst nun das [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] in 12 gleich große [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e unterteilen. Gefragt sind die 7. [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]].  
 > Natürlich kannst du eine Tabelle erstellen und alle Werte bis zur 7. [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] eintragen.
 
 > [!example]  Beispiel 1 - Einfach
@@ -53,16 +53,16 @@
 >>Dafür gibt es einen Algorithmus.
 >>Es sieht so aus:
 >
->Lass uns das [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]  in Binär umwandeln und $2^{\text{nötigeBits}}$ erweitern:
+>Lass uns das [[Netzwerkmaske\|Netzwerkmaske]]  in Binär umwandeln und $2^{\text{nötigeBits}}$ erweitern:
 >255.0.0.0 > 11111111.00000000.00000000.00000000
 >>$$2^{9}=512$$
->[[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] 9 [[02 - RESOURCES/Notes/Bit\|Bit]]s erweitern.
+>[[Netzwerkmaske\|Netzwerkmaske]] 9 [[02 - RESOURCES/Notes/Bit\|Bit]]s erweitern.
 >11111111.00000000.00000000.00000000 > 11111111.11111111.10000000.00000000
 >
 >Jetzt müssen wir die gewünschte [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] in Binär umstellen.
 >>158 > 10011110
 >
->und diese in die  [[02 - RESOURCES/Notes/IPv4\|IPv4]] ( als Binär) einsetzen,  wo die erweiterte<mark style="background: #FFF3A3A6;"> [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] </mark>relevant ist (von hinten nach vorne).
+>und diese in die  [[02 - RESOURCES/Notes/IPv4\|IPv4]] ( als Binär) einsetzen,  wo die erweiterte<mark style="background: #FFF3A3A6;"> [[Netzwerkmaske\|Netzwerkmaske]] </mark>relevant ist (von hinten nach vorne).
 >>14.0.0.0 > 00001110.00000000.00000000.00000000
 >
 >
@@ -82,7 +82,7 @@
 >Und schon können wir erkennen, dass 14.79.0.0 die [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] ist.
 >Um die Broadcast-Adresse zu ermitteln, müssen wir alle Nullen durch Einsen ersetzen.
 >>#### Achtung
->> <mark style="background: #FFF3A3A6;">[[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]]</mark> bitte nicht vergessen!!
+>> <mark style="background: #FFF3A3A6;">[[Netzwerkmaske\|Netzwerkmaske]]</mark> bitte nicht vergessen!!
 >
 ><mark style="background: #FFF3A3A6;">00001110.01001111.0</mark>1111111.11111111
 >14.79.127.255

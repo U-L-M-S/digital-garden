@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/gb-r/","tags":["rechtsformen/personengesellschaft","BWL"],"noteIcon":"","updated":"2025-09-05T10:12:28.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/gb-r/","tags":["rechtsformen/personengesellschaft","wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:45.000+02:00"}
 ---
 
 >**Gesellschaft bürgerlichen Rechts** - Einfachste Form der Personengesellschaft.

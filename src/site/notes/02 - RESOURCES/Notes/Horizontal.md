@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/horizontal/","tags":["wirtschaft/kooperation","BWL"],"noteIcon":"","updated":"2025-09-05T10:12:28.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/horizontal/","tags":["wirtschaft/bwl","wirtschaft/kooperation"],"noteIcon":"","updated":"2025-09-27T01:32:45.000+02:00"}
 ---
 
 >Zusammenarbeit zwischen Unternehmen auf derselben Wirtschaftsstufe.

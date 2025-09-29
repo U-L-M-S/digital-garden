@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/whitelisting/","tags":["filter/erlauben","sicherheit/it-sicherheit","sicherheit/strategie"],"noteIcon":"","updated":"2025-09-27T01:32:44.640+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/whitelisting/","tags":["filter/erlauben","sicherheit/it-sicherheit","sicherheit/strategie"],"noteIcon":"","updated":"2025-09-27T01:32:44.000+02:00"}
 ---
 
 

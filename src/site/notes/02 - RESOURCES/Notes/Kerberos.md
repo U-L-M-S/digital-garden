@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kerberos/","tags":["sicherheit/authentifizierung","netzwerk/protokolle","AP2025/neu"],"noteIcon":"","updated":"2025-09-16T23:41:26.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kerberos/","tags":["AP2025/neu","netzwerk/protokolle","sicherheit/authentifizierung"],"noteIcon":"","updated":"2025-09-27T01:32:45.000+02:00"}
 ---
 
 
