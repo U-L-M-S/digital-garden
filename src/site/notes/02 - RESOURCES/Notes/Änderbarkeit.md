@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/aenderbarkeit/","tags":["qualitaet/flexibilitaet","softwareentwicklung/evolution"],"noteIcon":"","updated":"2025-09-16T23:41:26.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/aenderbarkeit/","tags":["qualitaet/flexibilitaet","softwareentwicklung/evolution"],"noteIcon":"","updated":"2025-09-16T23:41:26.921+02:00"}
 ---
 
 

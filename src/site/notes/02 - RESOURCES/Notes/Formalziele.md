@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/formalziele/","tags":["unternehmensziele/arten","BWL"],"noteIcon":"","updated":"2025-09-05T10:12:28.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/formalziele/","tags":["unternehmensziele/arten","wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:43.957+02:00"}
 ---
 
 >Allgemeine Erfolgsziele wie Gewinn, Umsatz oder Rentabilität.

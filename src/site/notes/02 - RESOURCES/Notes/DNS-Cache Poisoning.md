@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dns-cache-poisoning/","tags":["informatik/netzwerk/dns","informatik/netzwerk/dns/vergiftung","sicherheit/angriff","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-09-27T01:32:44.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dns-cache-poisoning/","tags":["informatik/netzwerk/dns","informatik/netzwerk/dns/vergiftung","sicherheit/angriff","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-09-27T01:32:44.156+02:00"}
 ---
 
 

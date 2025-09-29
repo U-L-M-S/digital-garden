@@ -10,6 +10,6 @@
 
 [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] wird in die [[02 - RESOURCES/Notes/Netzwerkkarte\|Netzwerkkarte]] gefunden  und somit kann jeder Rechner/System, der eine [[02 - RESOURCES/Notes/Netzwerkkarte\|Netzwerkkarte]]  hat identifiziert werden. Da jeder [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] in eine [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] Einzigartig ist.
 
-Es ist sehr wichtig zu wissen, dass [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] /[[02 - RESOURCES/Notes/Netzwerkmaske\|Subnetzmaske]] eine riesige Rolle spielt. Dadurch können wir die [[02 - RESOURCES/Notes/Netzanteil und Hostanteil\|Netzanteil und Hostanteil]] herauslesen und noch viel mehr machen.
+Es ist sehr wichtig zu wissen, dass [[Netzwerkmaske\|Netzwerkmaske]] /[[Netzwerkmaske\|Subnetzmaske]] eine riesige Rolle spielt. Dadurch können wir die [[02 - RESOURCES/Notes/Netzanteil und Hostanteil\|Netzanteil und Hostanteil]] herauslesen und noch viel mehr machen.
 
 So eben das [[02 - RESOURCES/Notes/Gateway\|Gateway]] ist eine notwendig Begriff.

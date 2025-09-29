@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/fachinformatiker/","tags":["#beruf/it-ausbildung","#qualifikation/anerkannt"],"noteIcon":"","updated":"2025-09-16T23:41:26.752+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/fachinformatiker/","tags":["beruf/it-ausbildung","qualifikation/anerkannt"],"noteIcon":"","updated":"2025-09-16T23:41:26.752+02:00"}
 ---
 
 

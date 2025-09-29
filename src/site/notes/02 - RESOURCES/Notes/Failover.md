@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/failover/","tags":["it-sicherheit"],"noteIcon":"","updated":"2025-09-10T16:42:42.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/failover/","tags":["sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-09-27T01:32:44.505+02:00"}
 ---
 
 >**Failover** - Automatische Umschaltung auf Ersatzsystem bei Ausfall.

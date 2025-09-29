@@ -1,14 +1,33 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/setter-methode/","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-09-27T01:32:43.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/setter-methode/","tags":["#informatik/code/OOP","#informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-09-27T02:18:14.620+02:00"}
 ---
 
-> Setter-Methode ist eine spezielle Methode, die in jeder Programmiersprache mit [[02 - RESOURCES/Notes/OOP\|OOP]] existiert.  
->> Sie dient dazu, den Wert einer privaten [[02 - RESOURCES/Notes/Variable\|Variable]] in einer [[02 - RESOURCES/Notes/Klasse\|Klasse]] zu setzen.  
->> Sie wird oft verwendet, um den Wert anzupassen, nachdem man ein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] bereits mit einem Wert erstellt hat.
 
+>Setter-Methode ist eine spezielle [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] in der objektorientierten Programmierung ([[02 - RESOURCES/Notes/OOP\|OOP]]), die dazu dient, den Wert einer privaten [[02 - RESOURCES/Notes/Variable\|Variable]] zu setzen.
+
+>>Sie ermöglicht den kontrollierten Zugriff auf die Attribute einer [[02 - RESOURCES/Notes/Klasse\|Klasse]], während die [[02 - RESOURCES/Notes/Kapselung\|Kapselung]] gewahrt bleibt. Setter-Methoden werden oft verwendet, um Werte anzupassen, nachdem ein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]] bereits erstellt wurde.
+
+>[!important] Zweck
+>Setter-Methoden sind essentiell für:
+>- **Kontrollierte Wertzuweisung**: Validierung vor Setzen des Wertes
+>- **Kapselung**: Private Attribute bleiben geschützt
+>- **Datenintegrität**: Sicherstellung korrekter Objektzustände
+>- **Flexibilität**: Werte können nach Objekterstellung geändert werden
+
+## Syntax
+
+### [[02 - RESOURCES/Notes/Java\|Java]]
+```java
+public void setVariableName(Typ variableName) {
+    this.variableName = variableName;
+}
+```
+
+## Beispiele
+
+### Einfaches Beispiel - Auto
 ```java
 class Auto {
-    // Private Variable
     private String marke;
 
     // Konstruktor
@@ -18,83 +37,94 @@ class Auto {
 
     // Setter Methode
     public void setMarke(String marke) {
-        this.marke = marke;  // Der Wert der privaten Variable 'marke' wird durch die Methode gesetzt
+        this.marke = marke;
     }
 
     // Getter Methode
     public String getMarke() {
-        return marke;  // Gibt den Wert der privaten Variable 'marke' zurück
+        return marke;
     }
 }
 
 public class Main {
     public static void main(String[] args) {
-        // Erstelle ein neues Auto-Objekt mit der Marke "BMW"
         Auto meinAuto = new Auto("BMW");
+        System.out.println("Vorher: " + meinAuto.getMarke()); // BMW
 
-        // Ausgabe vor dem Setzen des neuen Wertes
-        System.out.println("Vorher: " + meinAuto.getMarke());  // Gibt "BMW" aus
-
-        // Benutze die Setter-Methode, um die Marke des Autos zu ändern
         meinAuto.setMarke("Audi");
-
-        // Ausgabe nach dem Setzen des neuen Wertes
-        System.out.println("Nachher: " + meinAuto.getMarke());  // Gibt "Audi" aus
+        System.out.println("Nachher: " + meinAuto.getMarke()); // Audi
     }
 }
 ```
-# Syntax
-```java
-public void setVariableName(String variableName){
-	this.variableName = variableName;
-}
-```
 
-# Bsp
+### Beispiel mit Validierung - Person
 ```java
 public class Person {
-    // Private Attribute
     private String name;
     private int age;
 
-    // Getter für den Namen
-    public String getName() {
-        return name;
-    }
-
-    // Setter für den Namen
+    // Setter mit einfacher Zuweisung
     public void setName(String name) {
         this.name = name;
     }
 
-    // Getter für das Alter
-    public int getAge() {
-        return age;
-    }
-
-    // Setter für das Alter mit Validierung
+    // Setter mit Validierung
     public void setAge(int age) {
-        if (age >= 0) {
+        if (age >= 0 && age <= 150) {
             this.age = age;
         } else {
-            System.out.println("Das Alter kann nicht negativ sein.");
+            System.out.println("Ungültiges Alter: " + age);
         }
     }
-}
 
-// Verwendung der Person-Klasse
-public class Main {
-    public static void main(String[] args) {
-        Person person = new Person();
-        person.setName("Levi");
-        person.setAge(25);
-        
-        System.out.println("Name: " + person.getName());
-        System.out.println("Alter: " + person.getAge());
-    }
+    // Getter
+    public String getName() { return name; }
+    public int getAge() { return age; }
 }
 ```
 
+### Erweiteres Beispiel - Fahrzeug
+```java
+public class Fahrzeug {
+    private String marke;
+    private int baujahr;
 
->[!note] 
->Es wird oft mit [[02 - RESOURCES/Notes/Getter Methode\|Getter Methode]] verwendet.
+    // Setter mit komplexer Validierung
+    public void setMarke(String marke) {
+        if (marke != null && !marke.trim().isEmpty()) {
+            this.marke = marke.trim();
+        } else {
+            throw new IllegalArgumentException("Marke darf nicht leer sein");
+        }
+    }
+
+    public void setBaujahr(int baujahr) {
+        if (baujahr > 1885 && baujahr <= java.time.Year.now().getValue()) {
+            this.baujahr = baujahr;
+        } else {
+            throw new IllegalArgumentException("Ungültiges Baujahr: " + baujahr);
+        }
+    }
+
+    // Getter
+    public String getMarke() { return marke; }
+    public int getBaujahr() { return baujahr; }
+}
+```
+
+>[!tip] Best Practices
+>- **Naming Convention**: `set` + Attributname (großgeschrieben)
+>- **Validierung**: Eingabewerte vor Zuweisung prüfen
+>- **Null-Safety**: Null-Werte abfangen wenn nötig
+>- **Exception Handling**: Bei ungültigen Werten Exceptions werfen
+>- **Immutability**: Für unveränderliche Objekte keine Setter bereitstellen
+
+>[!warning] Validierung
+>Setter-Methoden sollten immer Eingabewerte validieren:
+>- Null-Checks für Referenztypen
+>- Bereichsprüfungen für numerische Werte
+>- Format-Validierung für Strings
+>- Geschäftslogik-Regeln enforcing
+
+>[!note] Zusammenhang
+>Setter-Methoden werden fast immer zusammen mit [[02 - RESOURCES/Notes/Getter Methode\|Getter Methode]]n verwendet, um vollständige Kontrolle über Objektattribute zu gewährleisten.

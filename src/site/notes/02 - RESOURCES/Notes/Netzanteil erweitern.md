@@ -15,7 +15,7 @@
 >**2** [[02 - RESOURCES/Notes/Bit\|Bit]]s von den [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]].
 >$$24+2=26$$
 >
->Jetzt sieht die [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] folgendes aus: 192.168.0.0/27
+>Jetzt sieht die [[Netzwerkmaske\|Netzwerkmaske]] folgendes aus: 192.168.0.0/27
 
 Tabellarisch sieht es so aus:
 
@@ -34,7 +34,7 @@ Im Fall von Zahlen, die kein [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von
 >**3** [[02 - RESOURCES/Notes/Bit\|Bit]]s von den [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]].
 >$$24+3=27$$
 >
->Jetzt sieht die [[02 - RESOURCES/Notes/Netzwerkmaske\|Netzwerkmaske]] folgt aus: 192.168.0.0/27
+>Jetzt sieht die [[Netzwerkmaske\|Netzwerkmaske]] folgt aus: 192.168.0.0/27
 
 
 Tabellarisch sieht es so aus:
