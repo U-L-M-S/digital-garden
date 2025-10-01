@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bios/","tags":["ausbildung/gfn/ap1/vorbereitung","hardware/firmware","software/system"],"noteIcon":"","updated":"2025-09-27T01:32:43.827+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bios/","tags":["ausbildung/gfn/ap1/vorbereitung","hardware/firmware","software/system"],"noteIcon":"","updated":"2025-09-27T01:32:43.000+02:00"}
 ---
 
 
