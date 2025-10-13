@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/oekologisch/","tags":["unternehmensziele/kategorien","wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:43.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/oekologisch/","tags":["unternehmensziele/kategorien","wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:43.598+02:00"}
 ---
 
 >Umweltbezogene Ziele wie Nachhaltigkeit und Ressourcenschonung.

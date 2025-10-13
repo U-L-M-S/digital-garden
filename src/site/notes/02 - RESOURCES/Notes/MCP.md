@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mcp/","tags":["informatik/AI"],"noteIcon":"","updated":"2025-10-06T15:32:01.146+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/mcp/","tags":["informatik/AI"],"noteIcon":"","updated":"2025-10-06T15:32:01.000+02:00"}
 ---
 
 > [[02 - RESOURCES/Notes/MCP\|MCP]] (Model Context Protocol) ist das "[[02 - RESOURCES/Notes/API\|API]]" für [[LLM\|LLM]]s - ein standardisiertes Protokoll für die Kommunikation zwischen [[LLM\|LLM]]s und externen Tools/Datenquellen.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bgb/","tags":["rechtliches/grundlagen","compliance/gesetze"],"noteIcon":"","updated":"2025-09-18T08:25:41.438+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bgb/","tags":["rechtliches/grundlagen","compliance/gesetze"],"noteIcon":"","updated":"2025-09-18T08:25:41.000+02:00"}
 ---
 
 >Das BGB (Bürgerliches Gesetzbuch) regelt die Rechtsbeziehungen zwischen [[02 - RESOURCES/Notes/Privatpersonen\|Privatpersonen]] in [[02 - RESOURCES/Notes/Deutschland\|Deutschland]].

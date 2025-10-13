@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bsi/","tags":["ausbildung/gfn/ap1/vorbereitung","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-09-27T01:32:44.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bsi/","tags":["ausbildung/gfn/ap1/vorbereitung","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-09-27T01:32:44.606+02:00"}
 ---
 
 >Bundesamt für Sicherheit in der Informationstechnik 

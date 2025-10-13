@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-schaltjahr/","tags":["informatik/code/algorithmus","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-09-27T01:32:44.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-schaltjahr/","tags":["informatik/code/algorithmus","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-09-27T01:32:44.794+02:00"}
 ---
 
 ```java

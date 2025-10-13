@@ -1,18 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/getter-methode/","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-09-27T01:32:43.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/getter-methode/","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-09-27T02:17:33.138+02:00"}
 ---
 
->Getter Methode ist eine speziell Methode, die in jeder Programmiert Sprache mit [[02 - RESOURCES/Notes/OOP\|OOP]] existiert.
->>Es ist nur da um den Wert von eine <mark style="background: #BBFABBA6;">Private [[02 - RESOURCES/Notes/Variable\|Variable]]</mark> zu holen in eine [[02 - RESOURCES/Notes/Klasse\|Klasse]].
 
-# Syntax
+>Getter-Methode ist eine spezielle [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] in der objektorientierten Programmierung ([[02 - RESOURCES/Notes/OOP\|OOP]]), die verwendet wird, um den Wert einer privaten [[02 - RESOURCES/Notes/Variable\|Variable]] abzurufen.
+
+>>Sie ermöglicht den kontrollierten Zugriff auf die Attribute einer [[02 - RESOURCES/Notes/Klasse\|Klasse]], während die [[02 - RESOURCES/Notes/Kapselung\|Kapselung]] gewahrt bleibt. Getter-Methoden existieren in jeder Programmiersprache mit [[02 - RESOURCES/Notes/OOP\|OOP]].
+
+>[!important] Zweck
+>Getter-Methoden sind essentiell für:
+>- **Kapselung**: Private Attribute bleiben geschützt
+>- **Kontrollierter Zugriff**: Nur lesender Zugriff auf Attribute
+>- **Datenvalidierung**: Möglichkeit zur Formatierung vor Rückgabe
+>- **Interface-Konsistenz**: Einheitliche Zugriffsmuster
+
+## Syntax
+
+### [[02 - RESOURCES/Notes/Java\|Java]]
 ```java
-public getVariableName(){
-	return variableName;
+public Typ getVariableName() {
+    return this.variableName;
 }
 ```
 
-# Bsp
+## Beispiele
+
+### Einfaches Beispiel - Person
 ```java
 public class Person {
     // Private Attribute
@@ -24,14 +37,14 @@ public class Person {
         return name;
     }
 
-    // Setter für den Namen
-    public void setName(String name) {
-        this.name = name;
-    }
-
     // Getter für das Alter
     public int getAge() {
         return age;
+    }
+
+    // Setter für den Namen
+    public void setName(String name) {
+        this.name = name;
     }
 
     // Setter für das Alter mit Validierung
@@ -43,19 +56,39 @@ public class Person {
         }
     }
 }
+```
 
-// Verwendung der Person-Klasse
-public class Main {
-    public static void main(String[] args) {
-        Person person = new Person();
-        person.setName("Levi");
-        person.setAge(25);
-        
-        System.out.println("Name: " + person.getName());
-        System.out.println("Alter: " + person.getAge());
+### Erweiteres Beispiel - Buch
+```java
+public class Buch {
+    private String titel;
+    private String autor;
+
+    // Getter mit Formatierung
+    public String getTitel() {
+        return titel != null ? titel : "Unbekannt";
+    }
+
+    public String getAutor() {
+        return autor != null ? autor : "Unbekannt";
+    }
+
+    // Setter
+    public void setTitel(String titel) {
+        this.titel = titel;
+    }
+
+    public void setAutor(String autor) {
+        this.autor = autor;
     }
 }
 ```
 
->[!note] 
->Es wird oft mit [[02 - RESOURCES/Notes/Setter Methode\|Setter Methode]] verwendet.
+>[!tip] Best Practices
+>- **Naming Convention**: `get` + Attributname (großgeschrieben)
+>- **Return Type**: Gleicher Typ wie das private Attribut
+>- **Null-Safety**: Prüfung auf null-Werte wenn nötig
+>- **Immutability**: Bei komplexen Objekten Kopien zurückgeben
+
+>[!note] Zusammenhang
+>Getter-Methoden werden fast immer zusammen mit [[02 - RESOURCES/Notes/Setter Methode\|Setter Methode]]n verwendet, um vollständige Kontrolle über Objektattribute zu gewährleisten.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["GFN/LFzq17a","ausbildung/gfn/ap2","finished","informatik/programmierung/sprachen/java","uml"],"noteIcon":"","updated":"2025-09-27T01:32:44.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java/","tags":["GFN/LFzq17a","ausbildung/gfn/ap2","finished","informatik/programmierung/sprachen/java","uml"],"noteIcon":"","updated":"2025-09-27T01:32:44.405+02:00"}
 ---
 
 > Computersprache, die [[02 - RESOURCES/Notes/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.
