@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/setter-methode/","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-09-27T02:18:14.620+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/setter-methode/","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-09-27T02:18:14.000+02:00"}
 ---
 
 

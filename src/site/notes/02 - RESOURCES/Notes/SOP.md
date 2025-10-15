@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sop/","tags":["prozesse/standardisierung","qualitaetsmanagement/verfahren"],"noteIcon":"","updated":"2025-09-16T23:41:26.845+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sop/","tags":["prozesse/standardisierung","qualitaetsmanagement/verfahren"],"noteIcon":"","updated":"2025-09-16T23:41:26.000+02:00"}
 ---
 
 

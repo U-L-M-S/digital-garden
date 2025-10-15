@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/erm-diagramm/","tags":["ausbildung/gfn/ap2","informatik/datenbank"],"noteIcon":"","updated":"2025-09-27T01:32:43.703+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/erm-diagramm/","tags":["ausbildung/gfn/ap2","informatik/datenbank"],"noteIcon":"","updated":"2025-09-27T01:32:43.000+02:00"}
 ---
 
 > Entity Relationship Diagramm.

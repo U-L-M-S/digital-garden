@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/design-patterns/","tags":["softwareentwicklung/patterns","oop/best-practices"],"noteIcon":"","updated":"2025-09-16T23:41:26.741+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/design-patterns/","tags":["softwareentwicklung/patterns","oop/best-practices"],"noteIcon":"","updated":"2025-09-16T23:41:26.000+02:00"}
 ---
 
 

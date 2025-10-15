@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pci-slots/","tags":["hardware/mainboard","hardware/erweiterung"],"noteIcon":"","updated":"2025-09-16T23:41:26.788+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pci-slots/","tags":["hardware/mainboard","hardware/erweiterung"],"noteIcon":"","updated":"2025-09-16T23:41:26.000+02:00"}
 ---
 
 

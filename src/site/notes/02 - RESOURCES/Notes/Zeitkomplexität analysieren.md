@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/zeitkomplexitaet-analysieren/","tags":["informatik/code/algorithmus","informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2025-09-27T01:32:44.984+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/zeitkomplexitaet-analysieren/","tags":["informatik/code/algorithmus","informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2025-09-27T01:32:44.000+02:00"}
 ---
 
 >Die [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] eines Codes gibt an, wie die Laufzeit des [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] mit der Größe der Eingabedaten wächst. Um die [[02 - RESOURCES/Notes/Big O\|Zeitkomplexität]] zu bestimmen, betrachten wir die Anzahl der Operationen, die der [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] in Abhängigkeit von der Größe der Eingabe ausführt.

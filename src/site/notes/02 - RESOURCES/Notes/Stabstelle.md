@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/stabstelle/","tags":["organisation/beratung","wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:43.588+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/stabstelle/","tags":["organisation/beratung","wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:43.000+02:00"}
 ---
 
 >Beratende Position ohne Weisungsbefugnis, unterstützt [[02 - RESOURCES/Notes/Instanz\|Instanz]]en.

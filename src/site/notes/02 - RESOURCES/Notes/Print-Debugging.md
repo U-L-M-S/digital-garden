@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/print-debugging/","tags":["debugging/einfach","entwicklung/troubleshooting","AP2025/neu"],"noteIcon":"","updated":"2025-09-16T23:41:26.799+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/print-debugging/","tags":["debugging/einfach","entwicklung/troubleshooting","AP2025/neu"],"noteIcon":"","updated":"2025-09-16T23:41:26.000+02:00"}
 ---
 
 
