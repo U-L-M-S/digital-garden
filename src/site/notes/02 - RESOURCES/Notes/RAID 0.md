@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/raid-0/","tags":["raid/striping","performance/keine-redundanz","informatik/hardware"],"noteIcon":"","updated":"2025-09-27T02:12:19.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/raid-0/","tags":["raid/striping","performance/keine-redundanz","informatik/hardware"],"noteIcon":"","updated":"2025-09-27T02:12:19.260+02:00"}
 ---
 
 

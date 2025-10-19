@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/architektur-pattern/","tags":["softwarearchitektur/patterns","AP2025/neu"],"noteIcon":"","updated":"2025-09-16T23:41:26.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/architektur-pattern/","tags":["softwarearchitektur/patterns","AP2025/neu"],"noteIcon":"","updated":"2025-09-16T23:41:26.700+02:00"}
 ---
 
 

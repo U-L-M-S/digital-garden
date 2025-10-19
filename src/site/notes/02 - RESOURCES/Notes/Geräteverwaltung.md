@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/geraeteverwaltung/","tags":["software/betriebssystem","hardware/treiber"],"noteIcon":"","updated":"2025-09-16T23:41:26.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/geraeteverwaltung/","tags":["software/betriebssystem","hardware/treiber"],"noteIcon":"","updated":"2025-09-16T23:41:26.753+02:00"}
 ---
 
 

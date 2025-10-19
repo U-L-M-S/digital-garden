@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/getter-methode/","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-09-27T02:17:33.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/getter-methode/","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-09-27T02:17:33.138+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kapselung/","tags":["oop/prinzipien","programmierung/konzepte","AP2025/betont"],"noteIcon":"","updated":"2025-09-16T23:41:26.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kapselung/","tags":["oop/prinzipien","programmierung/konzepte","AP2025/betont"],"noteIcon":"","updated":"2025-09-16T23:41:26.771+02:00"}
 ---
 
 

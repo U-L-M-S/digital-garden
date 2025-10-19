@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/inkrementelle-sicherung/","tags":["informatik/backup/typ","sicherheit/it-sicherheit","änderungen/letztes-backup"],"noteIcon":"","updated":"2025-09-27T02:14:44.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/inkrementelle-sicherung/","tags":["informatik/backup/typ","sicherheit/it-sicherheit","änderungen/letztes-backup"],"noteIcon":"","updated":"2025-09-27T02:14:44.826+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/vollsicherung/","tags":["informatik/backup/typ","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-09-27T02:14:13.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/vollsicherung/","tags":["informatik/backup/typ","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-09-27T02:14:13.479+02:00"}
 ---
 
 
