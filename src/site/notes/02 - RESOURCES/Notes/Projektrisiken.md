@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/projektrisiken/","tags":["ausbildung/gfn/ap1/vorbereitung","projektmanagement"],"noteIcon":"","updated":"2025-09-27T01:32:43.537+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/projektrisiken/","tags":["ausbildung/gfn/ap1/vorbereitung","projektmanagement"],"noteIcon":"","updated":"2025-09-27T01:32:43.000+02:00"}
 ---
 
 >Alle potenziellen Ereignisse oder Umstände, die den Verlauf oder Erfolg eines Projekts beeinflussen können.  

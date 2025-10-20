@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/unternehmen/","tags":["GFN/LF01","ausbildung/gfn/ap1","wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:43.961+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/unternehmen/","tags":["GFN/LF01","ausbildung/gfn/ap1","wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:43.000+02:00"}
 ---
 
 ## Unternehmen

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/man-in-the-middle-attack/","tags":["sicherheit/angriffe","netzwerk/bedrohungen","AP2025/neu"],"noteIcon":"","updated":"2025-09-16T23:41:26.777+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/man-in-the-middle-attack/","tags":["sicherheit/angriffe","netzwerk/bedrohungen","AP2025/neu"],"noteIcon":"","updated":"2025-09-16T23:41:26.000+02:00"}
 ---
 
 

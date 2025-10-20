@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wpa-3-und-wpa-3-enterprise/","tags":["informatik/netzwerk/wifi","kryptografie/wifi","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-09-27T01:32:44.898+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wpa-3-und-wpa-3-enterprise/","tags":["informatik/netzwerk/wifi","kryptografie/wifi","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-09-27T01:32:44.000+02:00"}
 ---
 
 > [[02 - RESOURCES/Notes/Wi-Fi\|Wi-Fi]] Protected Access 3 Verwendet [[02 - RESOURCES/Notes/SAE\|SAE]] für bessere Sicherheit.

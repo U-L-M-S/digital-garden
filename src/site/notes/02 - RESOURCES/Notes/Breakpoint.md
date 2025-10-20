@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/breakpoint/","tags":["programmierung/debugging","entwicklung/tools"],"noteIcon":"","updated":"2025-09-18T08:17:52.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/breakpoint/","tags":["programmierung/debugging","entwicklung/tools"],"noteIcon":"","updated":"2025-09-18T08:17:52.571+02:00"}
 ---
 
 >Ein [[02 - RESOURCES/Notes/Breakpoint\|Breakpoint]] ist eine markierte Stelle im Code, an der die Programmausführung angehalten wird.

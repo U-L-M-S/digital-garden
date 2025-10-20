@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mcp-obsidian-befehle-leitfaden/","tags":["obsidian/mcp","claude/commands","api/integration"],"noteIcon":"","updated":"2025-09-27T01:10:10.173+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/mcp-obsidian-befehle-leitfaden/","tags":["obsidian/mcp","claude/commands","api/integration"],"noteIcon":"","updated":"2025-09-27T01:10:10.000+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dns-over-tls/","tags":["informatik/netzwerk/dns","informatik/netzwerk/dns/verschlüsselung","sicherheit/it-sicherheit","sicherheit/transport"],"noteIcon":"","updated":"2025-09-27T01:32:44.646+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dns-over-tls/","tags":["informatik/netzwerk/dns","informatik/netzwerk/dns/verschlüsselung","sicherheit/it-sicherheit","sicherheit/transport"],"noteIcon":"","updated":"2025-09-27T01:32:44.000+02:00"}
 ---
 
 
