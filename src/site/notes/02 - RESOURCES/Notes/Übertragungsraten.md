@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uebertragungsraten/","tags":["ausbildung/gfn/ap1","informatik/netzwerk"],"noteIcon":"","updated":"2025-09-27T01:32:44.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uebertragungsraten/","tags":["ausbildung/gfn/ap1","informatik/netzwerk"],"noteIcon":"","updated":"2025-09-27T01:32:44.707+02:00"}
 ---
 
 >Wie viele [[02 - RESOURCES/Notes/Bit\|Bit]]s pro Sekunden übertragen werden kann.

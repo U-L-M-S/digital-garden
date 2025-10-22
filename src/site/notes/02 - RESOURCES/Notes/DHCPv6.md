@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dhc-pv6/","tags":["informatik/netzwerk/ip/ipv6/protokoll"],"noteIcon":"","updated":"2025-09-16T23:41:26.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dhc-pv6/","tags":["informatik/netzwerk/ip/ipv6/protokoll"],"noteIcon":"","updated":"2025-09-16T23:41:26.738+02:00"}
 ---
 
 > Dynamic Host Configuration Protocol ist die neue Version von [[02 - RESOURCES/Notes/DHCPv4\|DHCPv4]] für [[02 - RESOURCES/Notes/IPv6\|IPv6]]-[[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]e. Wie ein Upgrade vom alten zum neuen System.

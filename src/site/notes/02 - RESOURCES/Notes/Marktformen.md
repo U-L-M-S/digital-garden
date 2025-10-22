@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/marktformen/","tags":["wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:44.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/marktformen/","tags":["wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:44.491+02:00"}
 ---
 
 >Es gibt 3 Marktformen und diese sind in 2 Arten aufgeteilt (Anbieter/Nachfrager).

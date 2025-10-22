@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-delete/","tags":["informatik/code/SQL"],"noteIcon":"","updated":"2025-09-16T23:41:26.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-delete/","tags":["informatik/code/SQL"],"noteIcon":"","updated":"2025-09-16T23:41:26.850+02:00"}
 ---
 
 > Befehl wird verwendet um bereits existierende [[02 - RESOURCES/Notes/SQL Zeile\|SQL Zeile]]n aus einer [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] zu löschen. Du entfernst komplette Datensätze.
