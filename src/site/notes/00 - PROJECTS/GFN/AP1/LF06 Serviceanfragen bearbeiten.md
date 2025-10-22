@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-06-serviceanfragen-bearbeiten/","tags":["GFN/LF06","inProgress"],"noteIcon":"","updated":"2025-09-16T11:38:53.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-06-serviceanfragen-bearbeiten/","tags":["GFN/LF06","inProgress"],"noteIcon":"","updated":"2025-10-22T21:44:46.870+02:00"}
 ---
 
 ![[IT-Berufe_Lernfelder_6-9_Westermann.pdf]]
@@ -223,6 +223,8 @@
 > > Besonders bei Serviceanfragen musst du mit frustrierten Menschen umgehen können.
 
 ---
+
+
 
 ## [[RACI-Matrix\|RACI-Matrix]]
 
