@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-06-serviceanfragen-bearbeiten/","tags":["GFN/LF06","inProgress"],"noteIcon":"","updated":"2025-10-22T21:44:46.870+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-06-serviceanfragen-bearbeiten/","tags":["GFN/LF06","inProgress"],"noteIcon":"","updated":"2025-10-22T21:44:46.000+02:00"}
 ---
 
 ![[IT-Berufe_Lernfelder_6-9_Westermann.pdf]]
@@ -19,41 +19,41 @@
 
 ## Service-Arten nach Zweck
 
-### [[Run-the-Business-Leistungen\|Run-the-Business-Leistungen]]
+### [[02 - RESOURCES/Notes/Run-the-Business-Leistungen\|Run-the-Business-Leistungen]]
 
 > Das ist wie der Hausmeister - sorgt dafür, dass alles läuft wie gewohnt.
 
-- **[[Rechenzentrumsbetrieb\|Rechenzentrumsbetrieb]]** - [[02 - RESOURCES/Notes/Server\|Server]] und [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] am Leben halten
-- **[[Outsourcing\|Outsourcing]]** - Jemand anderes macht deine IT-Arbeit
+- **[[02 - RESOURCES/Notes/Rechenzentrumsbetrieb\|Rechenzentrumsbetrieb]]** - [[02 - RESOURCES/Notes/Server\|Server]] und [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] am Leben halten
+- **[[02 - RESOURCES/Notes/Outsourcing\|Outsourcing]]** - Jemand anderes macht deine IT-Arbeit
 
-### [[Change-the-Business-Leistungen\|Change-the-Business-Leistungen]]
+### [[02 - RESOURCES/Notes/Change-the-Business-Leistungen\|Change-the-Business-Leistungen]]
 
 > Das ist wie der Architekt - baut was Neues und macht dich besser.
 
-- **[[IT-Beratung\|IT-Beratung]]** - Experten sagen dir, wie du besser wirst
+- **[[02 - RESOURCES/Notes/IT-Beratung\|IT-Beratung]]** - Experten sagen dir, wie du besser wirst
 - **Software-Entwicklung** - Programmiert neue Tools nur für dich
 
 ## Service-Kanäle
 
 |Kanal|Was passiert|Beispiel|
 |---|---|---|
-|**[[Helpdesk\|Helpdesk]]**|Telefon oder Online-Support|"Mein Drucker geht nicht"|
-|**[[Live-Chat\|Live-Chat]]**|Direkt mit Mensch sprechen|WhatsApp für IT-Probleme|
-|**[[Chat-Bot\|Chat-Bot]]**|Computer antwortet automatisch|"Passwort vergessen? Klick hier"|
+|**[[02 - RESOURCES/Notes/Helpdesk\|Helpdesk]]**|Telefon oder Online-Support|"Mein Drucker geht nicht"|
+|**[[02 - RESOURCES/Notes/Live-Chat\|Live-Chat]]**|Direkt mit Mensch sprechen|WhatsApp für IT-Probleme|
+|**[[02 - RESOURCES/Notes/Chat-Bot\|Chat-Bot]]**|Computer antwortet automatisch|"Passwort vergessen? Klick hier"|
 
 # II. IT-Service-Management mit ITIL
 
-> [[ITSM\|ITSM]] ist wie ein Kochbuch für IT-Services. [[ITIL\|ITIL]] ist das bekannteste Kochbuch davon.
+> [[02 - RESOURCES/Notes/ITSM\|ITSM]] ist wie ein Kochbuch für IT-Services. [[02 - RESOURCES/Notes/ITIL\|ITIL]] ist das bekannteste Kochbuch davon.
 > 
-> > [[ITIL 4\|ITIL 4]] ist die neueste Version und fokussiert sich auf Wertschöpfung statt nur Prozesse.
+> > [[02 - RESOURCES/Notes/ITIL 4\|ITIL 4]] ist die neueste Version und fokussiert sich auf Wertschöpfung statt nur Prozesse.
 
 ---
 
-## [[Service Value System\|Service Value System]]
+## [[02 - RESOURCES/Notes/Service Value System\|Service Value System]]
 
-> Das [[Service Value System\|Service Value System]] ist wie eine Fabrik - rein kommt ein Problem, raus kommt eine Lösung die dem Kunden hilft.
+> Das [[02 - RESOURCES/Notes/Service Value System\|Service Value System]] ist wie eine Fabrik - rein kommt ein Problem, raus kommt eine Lösung die dem Kunden hilft.
 
-### [[ITIL 4\|ITIL 4]] Leitprinzipien:
+### [[02 - RESOURCES/Notes/ITIL 4\|ITIL 4]] Leitprinzipien:
 
 - **Fokus auf Wertschöpfung** - Bringt es dem Kunden was?
 - **Dort anfangen wo du bist** - Was funktioniert schon?
@@ -65,36 +65,36 @@
 
 ## ITSM-Bereiche
 
-### [[Service Strategy\|Service Strategy]]
+### [[02 - RESOURCES/Notes/Service Strategy\|Service Strategy]]
 
 > Der Plan: Was für Services willst du anbieten?
 
-- Moderne Methoden wie [[Lean\|Lean]], [[Agile\|Agile]], [[DevOps\|DevOps]]
-- [[Business-Relationship-Management\|Business-Relationship-Management]] - Gute Beziehung zu Kunden
+- Moderne Methoden wie [[02 - RESOURCES/Notes/Lean\|Lean]], [[02 - RESOURCES/Notes/Agile\|Agile]], [[02 - RESOURCES/Notes/DevOps\|DevOps]]
+- [[02 - RESOURCES/Notes/Business-Relationship-Management\|Business-Relationship-Management]] - Gute Beziehung zu Kunden
 
-### [[Service Design\|Service Design]]
+### [[02 - RESOURCES/Notes/Service Design\|Service Design]]
 
 > Das Design: Wie sollen die Services genau aussehen?
 
-- **[[Service-Level Management\|Service-Level Management]]** - [[02 - RESOURCES/Notes/SLA\|SLA]]s definieren
-- **[[Capacity Management\|Capacity Management]]** - Genug Power für alle
-- **[[Availability Management\|Availability Management]]** - System läuft wenn gebraucht
+- **[[02 - RESOURCES/Notes/Service-Level Management\|Service-Level Management]]** - [[02 - RESOURCES/Notes/SLA\|SLA]]s definieren
+- **[[02 - RESOURCES/Notes/Capacity Management\|Capacity Management]]** - Genug Power für alle
+- **[[02 - RESOURCES/Notes/Availability Management\|Availability Management]]** - System läuft wenn gebraucht
 
-### [[Service Transition\|Service Transition]]
+### [[02 - RESOURCES/Notes/Service Transition\|Service Transition]]
 
 > Der Umzug: Neue Services in den Live-Betrieb bringen.
 
-- **[[Release Management\|Release Management]]** - Software-Updates kontrollieren
-- **[[Configuration Management\|Configuration Management]]** - Was gehört zu was? ([[CMDB\|CMDB]])
-- **[[Change Management\|Change Management]]** - Änderungen über [[RFC\|RFC]]s steuern
+- **[[02 - RESOURCES/Notes/Release Management\|Release Management]]** - Software-Updates kontrollieren
+- **[[02 - RESOURCES/Notes/Configuration Management\|Configuration Management]]** - Was gehört zu was? ([[02 - RESOURCES/Notes/CMDB\|CMDB]])
+- **[[02 - RESOURCES/Notes/Change Management\|Change Management]]** - Änderungen über [[02 - RESOURCES/Notes/RFC\|RFC]]s steuern
 
-### [[Service Operation\|Service Operation]]
+### [[02 - RESOURCES/Notes/Service Operation\|Service Operation]]
 
 > Der Alltag: Services am Laufen halten.
 
-- **[[Incident Management\|Incident Management]]** - Schnell Probleme lösen
-- **[[Problem Management\|Problem Management]]** - Warum ist das passiert?
-- **[[Infrastructure Monitoring\|Infrastructure Monitoring]]** - Computer überwachen Computer
+- **[[02 - RESOURCES/Notes/Incident Management\|Incident Management]]** - Schnell Probleme lösen
+- **[[02 - RESOURCES/Notes/Problem Management\|Problem Management]]** - Warum ist das passiert?
+- **[[02 - RESOURCES/Notes/Infrastructure Monitoring\|Infrastructure Monitoring]]** - Computer überwachen Computer
 
 # III. Supportmanagement in der Praxis
 
@@ -106,7 +106,7 @@
 
 ## Support-Level
 
-### [[First-Level-Support\|First-Level-Support]]
+### [[02 - RESOURCES/Notes/First-Level-Support\|First-Level-Support]]
 
 > Die Rezeption - erste Anlaufstelle für alles.
 
@@ -114,15 +114,15 @@
 - **"Passwort zurücksetzen"**, **"Drucker ist aus"**
 - Leitet komplexere Sachen weiter
 
-### [[Second-Level-Support\|Second-Level-Support]]
+### [[02 - RESOURCES/Notes/Second-Level-Support\|Second-Level-Support]]
 
 > Die Spezialisten - können auch schwierige Sachen.
 
 - **Fachexperten** für verschiedene Bereiche
 - Lösen **komplexere technische Probleme**
-- Schulen den [[First-Level-Support\|First-Level-Support]]
+- Schulen den [[02 - RESOURCES/Notes/First-Level-Support\|First-Level-Support]]
 
-### [[Third-Level-Support\|Third-Level-Support]]
+### [[02 - RESOURCES/Notes/Third-Level-Support\|Third-Level-Support]]
 
 > Die Profis vom Hersteller - wenn gar nichts mehr geht.
 
@@ -170,8 +170,8 @@
 
 > In welche Schublade gehört das Problem?
 
-- **Hardware-Problem** - [[02 - RESOURCES/Notes/Server\|Server]], [[Drucker\|Drucker]], [[PC\|PC]]
-- **Software-Problem** - [[Anwendung\|Anwendung]], [[02 - RESOURCES/Notes/Betriebssystem\|Betriebssystem]]
+- **Hardware-Problem** - [[02 - RESOURCES/Notes/Server\|Server]], [[02 - RESOURCES/Notes/Drucker\|Drucker]], [[02 - RESOURCES/Notes/PC\|PC]]
+- **Software-Problem** - [[02 - RESOURCES/Notes/Anwendung\|Anwendung]], [[02 - RESOURCES/Notes/Betriebssystem\|Betriebssystem]]
 - **[[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]-Problem** - [[02 - RESOURCES/Notes/Router\|Router]], [[02 - RESOURCES/Notes/Switch\|Switch]], Internet
 
 ### 2. Klassifizierung
@@ -206,7 +206,7 @@
 4. Warum war Batterie leer? - Wartung vergessen
 5. Warum Wartung vergessen? - Kein Wartungsplan
 
-### [[DMAIC-Zyklus\|DMAIC-Zyklus]]
+### [[02 - RESOURCES/Notes/DMAIC-Zyklus\|DMAIC-Zyklus]]
 
 > Systematische Problemlösung in 5 Schritten.
 
@@ -226,9 +226,9 @@
 
 
 
-## [[RACI-Matrix\|RACI-Matrix]]
+## [[02 - RESOURCES/Notes/RACI-Matrix\|RACI-Matrix]]
 
-> Wer macht was? Die [[RACI-Matrix\|RACI-Matrix]] sagt es dir.
+> Wer macht was? Die [[02 - RESOURCES/Notes/RACI-Matrix\|RACI-Matrix]] sagt es dir.
 
 - **R - Responsible** - Macht die Arbeit
 - **A - Accountable** - Ist verantwortlich wenn's schief geht
@@ -239,7 +239,7 @@
 
 ### Synchron vs. Asynchron
 
-- **Synchron** - Gleichzeitig (Telefon, [[Live-Chat\|Live-Chat]])
+- **Synchron** - Gleichzeitig (Telefon, [[02 - RESOURCES/Notes/Live-Chat\|Live-Chat]])
 - **Asynchron** - Zeitversetzt (E-Mail, [[02 - RESOURCES/Notes/Ticketsystem\|Ticketsystem]])
 
 ### Deeskalation
@@ -251,7 +251,7 @@
 > - **Ruhe bewahren** - Nicht persönlich nehmen
 > - **Lösungsorientiert** - Was können wir tun?
 
-## [[Eisenhower-Prinzip\|Eisenhower-Prinzip]]
+## [[02 - RESOURCES/Notes/Eisenhower-Prinzip\|Eisenhower-Prinzip]]
 
 > Wie entscheidest du was zuerst gemacht wird?
 
@@ -262,17 +262,17 @@
 
 # VI. Praktische Tools und Techniken
 
-> Hier kommen die konkreten Werkzeuge die du täglich brauchst - von [[PXE-Boot\|PXE-Boot]] für Installationen bis zu rechtlichen Grundlagen.
+> Hier kommen die konkreten Werkzeuge die du täglich brauchst - von [[02 - RESOURCES/Notes/PXE-Boot\|PXE-Boot]] für Installationen bis zu rechtlichen Grundlagen.
 
 ---
 
-## [[PXE-Boot\|PXE-Boot]]
+## [[02 - RESOURCES/Notes/PXE-Boot\|PXE-Boot]]
 
-> [[PXE\|PXE]] ist wie ein Fernseher - du schaltest den Computer an und er holt sich sein [[02 - RESOURCES/Notes/Betriebssystem\|Betriebssystem]] aus dem [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]].
+> [[02 - RESOURCES/Notes/PXE\|PXE]] ist wie ein Fernseher - du schaltest den Computer an und er holt sich sein [[02 - RESOURCES/Notes/Betriebssystem\|Betriebssystem]] aus dem [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]].
 
 ### Anwendung:
 
-- **Mass-Deployment** - 100 [[PC\|PC]]s gleichzeitig installieren
+- **Mass-Deployment** - 100 [[02 - RESOURCES/Notes/PC\|PC]]s gleichzeitig installieren
 - **Hardware-Diagnose** - Testen ohne Festplatte
 - **Live-Systeme** - Computer ohne eigenes [[02 - RESOURCES/Notes/Betriebssystem\|OS]] starten
 
@@ -280,10 +280,10 @@
 
 1. Computer startet und sucht [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]]
 2. [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]] gibt [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]] und Boot-Info
-3. [[TFTP-Server\|TFTP-Server]] schickt Boot-Image
+3. [[02 - RESOURCES/Notes/TFTP-Server\|TFTP-Server]] schickt Boot-Image
 4. Computer startet das Image
 
-> [!warning] Sicherheit beachten [[PXE\|PXE]] ist unverschlüsselt - nur in sicheren Netzwerken nutzen!
+> [!warning] Sicherheit beachten [[02 - RESOURCES/Notes/PXE\|PXE]] ist unverschlüsselt - nur in sicheren Netzwerken nutzen!
 
 ## Service-Verträge
 
@@ -297,10 +297,10 @@
 - **Reaktionszeiten** - Innerhalb 4 Stunden Antwort
 - **Support-Zeiten** - Mo-Fr 8-18 Uhr
 
-### [[OLA\|OLA]] vs. [[UC\|UC]]
+### [[02 - RESOURCES/Notes/OLA\|OLA]] vs. [[02 - RESOURCES/Notes/UC\|UC]]
 
-- **[[OLA\|OLA]]** - Vereinbarung zwischen IT-Abteilungen
-- **[[UC\|UC]]** - Vertrag mit externen Dienstleistern
+- **[[02 - RESOURCES/Notes/OLA\|OLA]]** - Vereinbarung zwischen IT-Abteilungen
+- **[[02 - RESOURCES/Notes/UC\|UC]]** - Vertrag mit externen Dienstleistern
 
 ## Rechtliche Grundlagen
 
@@ -315,7 +315,7 @@
 ### Softwarelizenzen
 
 - **Netzwerklizenzen** - Gleichzeitige Nutzer begrenzt
-- **Rechnergebunden** - An bestimmten [[PC\|PC]] gebunden
+- **Rechnergebunden** - An bestimmten [[02 - RESOURCES/Notes/PC\|PC]] gebunden
 - **Benutzergebunden** - An Person gebunden
 
 > [!tip] Praxistipp Immer dokumentieren welche Lizenzen wo installiert sind - sonst gibt's teure Überraschungen!
