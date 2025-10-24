@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/service-design/","tags":["informatik/management","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:53:59.692+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/service-design/","tags":["informatik/management","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T13:24:23.349+02:00"}
 ---
 
 

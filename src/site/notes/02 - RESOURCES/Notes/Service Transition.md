@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/service-transition/","tags":["informatik/management","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:55:29.133+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/service-transition/","tags":["informatik/management","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T13:24:25.841+02:00"}
 ---
 
 
