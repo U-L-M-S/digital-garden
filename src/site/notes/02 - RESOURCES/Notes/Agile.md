@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/agile/","tags":["informatik/methodik","projektmanagement","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:52:39.724+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/agile/","tags":["informatik/methodik","projektmanagement","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:52:39.000+02:00"}
 ---
 
 

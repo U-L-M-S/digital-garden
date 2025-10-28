@@ -3,4 +3,4 @@
 ---
 
 > Alle möglichen Ziffern die in einem Zahlsystem verwendet werden 
-> können um numerische [[Daten\|Daten]] darzustellen.
+> können um numerische [[02 - RESOURCES/Notes/Daten\|Daten]] darzustellen.

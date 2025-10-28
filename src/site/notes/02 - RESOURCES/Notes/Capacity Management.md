@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/capacity-management/","tags":["informatik/management","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:54:03.137+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/capacity-management/","tags":["informatik/management","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:54:03.000+02:00"}
 ---
 
 

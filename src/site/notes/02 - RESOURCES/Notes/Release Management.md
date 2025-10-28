@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/release-management/","tags":["informatik/management","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:55:30.734+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/release-management/","tags":["informatik/management","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:55:30.000+02:00"}
 ---
 
 

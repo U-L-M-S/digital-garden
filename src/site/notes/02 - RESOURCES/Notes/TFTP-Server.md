@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/tftp-server/","tags":["informatik/netzwerk","informatik/server","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T13:04:09.616+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/tftp-server/","tags":["informatik/netzwerk","informatik/server","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T13:04:08.000+02:00"}
 ---
 
 

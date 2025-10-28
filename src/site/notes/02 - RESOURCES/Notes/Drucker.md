@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/drucker/","tags":["informatik/hardware","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:59:10.815+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/drucker/","tags":["informatik/hardware","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:59:10.000+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/infrastructure-monitoring/","tags":["informatik/monitoring","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:59:04.845+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/infrastructure-monitoring/","tags":["informatik/monitoring","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:59:04.000+02:00"}
 ---
 
 

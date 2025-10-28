@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/incident-management/","tags":["informatik/management","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:57:13.972+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/incident-management/","tags":["informatik/management","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:57:13.000+02:00"}
 ---
 
 

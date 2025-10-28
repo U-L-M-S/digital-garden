@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/run-the-business-leistungen/","tags":["informatik/service","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:49:59.309+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/run-the-business-leistungen/","tags":["informatik/service","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:49:59.000+02:00"}
 ---
 
 

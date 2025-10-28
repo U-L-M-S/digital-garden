@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/chat-bot/","tags":["informatik/ki","informatik/support","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:51:04.746+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/chat-bot/","tags":["informatik/ki","informatik/support","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:51:04.000+02:00"}
 ---
 
 

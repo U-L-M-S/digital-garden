@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uc/","tags":["informatik/management","wirtschaft/vertrag","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T13:04:15.165+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uc/","tags":["informatik/management","wirtschaft/vertrag","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T13:04:15.000+02:00"}
 ---
 
 

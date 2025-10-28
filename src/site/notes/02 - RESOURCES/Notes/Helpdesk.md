@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/helpdesk/","tags":["informatik/support","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:51:02.661+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/helpdesk/","tags":["informatik/support","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:51:02.000+02:00"}
 ---
 
 

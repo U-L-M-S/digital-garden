@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/raci-matrix/","tags":["projektmanagement/methodik","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T13:01:51.540+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/raci-matrix/","tags":["projektmanagement/methodik","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T13:01:51.000+02:00"}
 ---
 
 

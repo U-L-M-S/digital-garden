@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pc/","tags":["informatik/hardware","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T13:01:46.930+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pc/","tags":["informatik/hardware","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T13:01:46.000+02:00"}
 ---
 
 

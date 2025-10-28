@@ -1,10 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-04-schutzbedarfsanalyse-im-eigenen-arbeitsbereich-durchfuehren/","tags":["inProgress","GFN/LF04"],"noteIcon":"","updated":"2025-10-28T15:51:43.173+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-04-schutzbedarfsanalyse-im-eigenen-arbeitsbereich-durchfuehren/","tags":["GFN/LF04","finished"],"noteIcon":"","updated":"2025-10-28T16:07:03.000+01:00"}
 ---
 
 >[!important] 
 >Diese Zusammenfassung ist noch nicht vollständig.
 >Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
+
+[[LF04V2_Tag_5_Beschäftigungsmöglichkeiten Zertifizierungen_Präsentation 1.pdf]]
+[[15_LF04V2_Tag_5_Urheberrecht Copyright Markenrecht und Lizenzen_Präsentation_neu 1.pdf]]
+[[14_LF04V2_Tag_5_Überblick Hacking und Hackingprozess_Präsentation_neu 1.pdf]]
+[[13_LF04V2_Tag_4_Schutzbedarfsanalyse_Präsentation_neu 1.pdf]]
+[[12_LF04V2_Tag_3_TOM_Präsentation_neu 1.pdf]]
+[[11_LF04V2_Tag_3_Social Engineering_Präsentation_neu 1.pdf]]
+[[10_LF04V2_Tag_3_Malware_Präsentation_neu 1.pdf]]
+[[09_LF04V2_Tag_2_Verschlüsselung + Kennwort + Hash Co_Präsentation_neu 1.pdf]]
+[[08_LF04V2_Tag_2_Kryptographie + Verschlüsselungsziele Beispiele_Präsentation_neu 1.pdf]]
+[[07_LF04V2_Tag_2_Elementare Gefährdungen und Risiko_Präsentation_neu 1.pdf]]
+[[06_LF04V2_Tag_1_IT Grundschutz und Ziele_Präsentation_neu 1.pdf]]
+[[05_LF04V2_Tag_1_Gesetze Aufsichtsbehörden_Präsentation_neu 1.pdf]]
+[[03_LF04V2_Tag_1_Informationsquellen_Präsentation_neu 1.pdf]]
+[[02_LF04V2_Tag_1_IT-Sicherheit_Präsentation_neu 1.pdf]]
+[[01_LF04V2_Tag_1_Kursüberblick_Präsentation_neu 1.pdf]]
 
 
 >Dieses Lernfeld führt dich in die Grundlagen der [[02 - RESOURCES/Notes/Cybersecurity\|Cybersecurity]] im Betrieb ein.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/anwendung/","tags":["informatik/software","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T13:01:48.279+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/anwendung/","tags":["informatik/software","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T13:01:48.000+02:00"}
 ---
 
 

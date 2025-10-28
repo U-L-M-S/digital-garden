@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ola/","tags":["informatik/management","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T13:04:11.935+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ola/","tags":["informatik/management","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T13:04:11.000+02:00"}
 ---
 
 

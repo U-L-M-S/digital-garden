@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/it-beratung/","tags":["informatik/service","wirtschaft/beratung","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:50:03.392+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/it-beratung/","tags":["informatik/service","wirtschaft/beratung","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:50:03.000+02:00"}
 ---
 
 

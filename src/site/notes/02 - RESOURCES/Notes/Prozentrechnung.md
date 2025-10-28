@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/prozentrechnung/","tags":["ausbildung/gfn/ap1/vorbereitung","mathe"],"noteIcon":"","updated":"2025-09-27T01:32:43.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/prozentrechnung/","tags":["ausbildung/gfn/ap1/vorbereitung","mathe"],"noteIcon":"","updated":"2025-09-27T01:32:43.732+02:00"}
 ---
 
 >Es ist eine Methode, um Anteile von einem [[02 - RESOURCES/Notes/Grundwert\|Grundwert]] als **Hundertstel** darzustellen.

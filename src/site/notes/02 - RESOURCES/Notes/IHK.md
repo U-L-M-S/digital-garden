@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ihk/","tags":["wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:44.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ihk/","tags":["wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:44.877+02:00"}
 ---
 
 > Industrie- und Handelskammer

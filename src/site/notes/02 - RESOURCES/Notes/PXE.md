@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pxe/","tags":["informatik/netzwerk","informatik/deployment","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T13:04:08.503+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pxe/","tags":["informatik/netzwerk","informatik/deployment","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T13:04:08.000+02:00"}
 ---
 
 

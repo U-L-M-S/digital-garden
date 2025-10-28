@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/itil-4/","tags":["informatik/management","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:52:33.593+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/itil-4/","tags":["informatik/management","GFN/LF06"],"noteIcon":"","updated":"2025-10-24T12:52:33.000+02:00"}
 ---
 
 
