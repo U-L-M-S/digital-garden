@@ -1,9 +1,111 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-04-schutzbedarfsanalyse-im-eigenen-arbeitsbereich-durchfuehren/","tags":["inProgress","GFN/LF04"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-04-schutzbedarfsanalyse-im-eigenen-arbeitsbereich-durchfuehren/","tags":["inProgress","GFN/LF04"],"noteIcon":"","updated":"2025-10-28T15:51:43.173+01:00"}
 ---
 
 >[!important] 
 >Diese Zusammenfassung ist noch nicht vollständig.
 >Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
 
+
+>Dieses Lernfeld führt dich in die Grundlagen der [[02 - RESOURCES/Notes/Cybersecurity\|Cybersecurity]] im Betrieb ein.
+>>Du bewertest, wie wichtig Informationen und Systeme sind, welche Risiken bestehen und welche Maßnahmen sinnvoll sind, um sie zu schützen.
+
+# I. Ziel der [[Schutzbedarfsanalyse\|Schutzbedarfsanalyse]]
+>Du ordnest Werte (Daten, Prozesse, Systeme) nach ihrem Schutzbedarf ein, damit du passende Sicherheitsmaßnahmen auswählst.
+>>Ergebnis: „normal“, „hoch“ oder „sehr hoch“ je Schutzziel der [[02 - RESOURCES/Notes/CIA-Triade\|CIA-Triade]].
+___
+
+## Vorgehen (einfach erklärt)
+- Werte erfassen: Welche Daten/Prozesse/Systeme sind wichtig?
+- Schäden denken: Was passiert bei Verlust von [[02 - RESOURCES/Notes/Vertraulichkeit\|Vertraulichkeit]], [[02 - RESOURCES/Notes/Integrität\|Integrität]], [[02 - RESOURCES/Notes/Verfügbarkeit\|Verfügbarkeit]]?
+- Einstufen: normal/hoch/sehr hoch je Schutzziel festlegen.
+- Maßnahmen ableiten: passende [[02 - RESOURCES/Notes/TOM\|TOM]]s auswählen und dokumentieren.
+
+### Beispiel-Denkmuster
+| Wert | Vertraulichkeit | Integrität | Verfügbarkeit |
+|------|------------------|-----------|---------------|
+| Kundendaten | hoch | hoch | normal |
+| Produktionssystem | normal | hoch | sehr hoch |
+
+# II. Rahmen: [[BSI IT-Grundschutz\|BSI IT-Grundschutz]]
+>Praktischer Leitfaden aus Bausteinen, Gefährdungen und Maßnahmen.
+>>Hilft dir, Standard-Sicherheitsniveau strukturiert einzuführen und nachzuweisen.
+___
+
+## Bausteine (vereinfacht)
+- Organisation: Rollen, Policies, Schulungen
+- Infrastruktur: Gebäude, Rechenraum, Energie, Klima
+- IT-Systeme/Netze: Server, [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]], Endgeräte
+- Anwendungen/Daten: Backup, Berechtigungen, Updates
+
+# III. Begriffe: Gefährdung, Schwachstelle, Risiko
+>Drei Bausteine, die zusammen das Risiko erklären.
+>>Faustformel: Risiko = Eintrittswahrscheinlichkeit × Schadensausmaß.
+___
+
+## Denken in Risiken
+- Gefährdung: etwas, das schaden kann (z. B. [[02 - RESOURCES/Notes/Malware\|Malware]], Feuer, Fehlbedienung)
+- Schwachstelle: Lücke, die die Gefährdung nutzbar macht (z. B. fehlendes Patch)
+- Risiko: Kombination aus beidem bezogen auf einen konkreten Wert
+
+>[!tip]
+>Erst verstehen, was wirklich wehtut (Schadenswirkung), dann Maßnahmen wählen.
+
+# IV. [[00 - PROJECTS/Kryptographie\|Kryptographie]]-Ziele und Basics
+>Warum verschlüsseln? Um Schutzziele umzusetzen:
+>>Vertraulichkeit, Integrität, Authentizität/Verbindlichkeit.
+___
+
+## Bausteine
+- [[02 - RESOURCES/Notes/Verschlüsselung\|Verschlüsselung]]: symmetrisch (schnell), asymmetrisch (Schlüsselpaare)
+- Hash: Fingerabdruck für Integrität (z. B. SHA‑256)
+- Digitale Signatur: beweist Echtheit und Unverändertheit
+- Praxis: [[02 - RESOURCES/Notes/TLS\|TLS]], [[02 - RESOURCES/Notes/VPN\|VPN]], Passwort-Hashing (mit Salt/Iteration), [[MFA\|MFA]]
+
+# V. [[02 - RESOURCES/Notes/Malware\|Malware]] und [[02 - RESOURCES/Notes/Social Engineering\|Social Engineering]]
+>Zwei häufigste Ursachen für Sicherheitsvorfälle.
+>>Technik hilft – aber Verhalten der Menschen ist genauso wichtig.
+___
+
+## Kurzüberblick
+- Malware: Virus, Wurm, Trojaner, [[02 - RESOURCES/Notes/Ransomware\|Ransomware]] – Schutz: Patchen, AV, Least Privilege, Backup
+- Social Engineering: [[02 - RESOURCES/Notes/Phishing\|Phishing]], Spear‑Phishing, Pretexting – Schutz: Sensibilisierung, MFA, Prozesse
+
+# VI. [[02 - RESOURCES/Notes/TOM\|TOM]]: Technische und organisatorische Maßnahmen
+>Maßnahmen, die du aus Schutzbedarf und Risiko ableitest.
+>>Immer verhältnismäßig: so viel wie nötig, so wenig wie möglich.
+___
+
+## Technisch (Auswahl)
+- [[00 - PROJECTS/Firewall\|Firewall]], IDS/IPS, Netzwerk‑Segmentierung
+- Patch‑/Vulnerability‑Management, sichere Konfiguration
+- [[02 - RESOURCES/Notes/Backup\|Backup]]/Restore‑Tests, Logging/Monitoring
+
+## Organisatorisch (Auswahl)
+- Richtlinien, Rollen/Berechtigungen, Vier‑Augen‑Prinzip
+- Schulungen, Notfallmanagement, Lieferantenmanagement
+- Dokumentation der Schutzbedarfe und Entscheidungen
+
+# VII. Rechtlicher Rahmen (kurz)
+>Wichtige Orientierung für Umgang mit Daten und Pflichten.
+>>Details stehen in eigenen Notizen; hier nur Einordnung.
+___
+
+- [[02 - RESOURCES/Notes/DSGVO\|DSGVO]]: Regeln für [[02 - RESOURCES/Notes/Personenbezogene Daten\|Personenbezogene Daten]] (Rechte, Pflichten, Nachweise)
+- [[02 - RESOURCES/Notes/BDSG\|BDSG]]: nationale Ergänzung in [[02 - RESOURCES/Notes/Deutschland\|Deutschland]]
+- Urheber‑/Markenrecht: Nutzung von Werken/Software klären
+
+>[!important]
+>Datenschutz ≠ Datensicherheit: Datenschutz schützt Personen, Datensicherheit schützt Werte. Beide greifen zusammen.
+
+# VIII. Ergebnis nutzen und leben
+>Schutzbedarf ist keine Schublade, sondern Arbeitsgrundlage.
+>>Regelmäßig prüfen, wenn sich Werte, Bedrohungen oder Umgebung ändern.
+___
+
+### Mini‑Checkliste für den Alltag
+- Habe ich den Wert und sein Schutzziel verstanden?
+- Welche Top‑3‑Gefährdungen sind realistisch?
+- Welche 2–3 [[02 - RESOURCES/Notes/TOM\|TOM]]s mindern Risiko am meisten?
+- Ist das dokumentiert, getestet und kommuniziert?
 
