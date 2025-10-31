@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/schreibtischtest/","tags":["testing/statisch","qualitaetssicherung/manual"],"noteIcon":"","updated":"2025-09-16T23:41:26.857+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/schreibtischtest/","tags":["testing/statisch","qualitaetssicherung/manual"],"noteIcon":"","updated":"2025-10-29T12:59:09.980+01:00"}
 ---
 
 

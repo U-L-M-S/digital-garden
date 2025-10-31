@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bit-locker/","tags":["sicherheit/verschluesselung","windows/tools"],"noteIcon":"","updated":"2025-09-16T23:41:26.713+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bit-locker/","tags":["sicherheit/verschluesselung","windows/tools"],"noteIcon":"","updated":"2025-10-29T12:59:04.059+01:00"}
 ---
 
 

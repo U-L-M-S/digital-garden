@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/softwarequalitaetsmerkmale/","tags":["qualitaet/iso-standards","AP2025/neu"],"noteIcon":"","updated":"2025-09-16T23:41:26.865+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/softwarequalitaetsmerkmale/","tags":["qualitaet/iso-standards","AP2025/neu"],"noteIcon":"","updated":"2025-10-29T12:59:10.316+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ports/","tags":["informatik/netzwerk/adressierung","transport/endpoint"],"noteIcon":"","updated":"2025-09-10T16:35:32.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ports/","tags":["informatik/netzwerk/adressierung","transport/endpoint"],"noteIcon":"","updated":"2025-10-29T12:59:09.237+01:00"}
 ---
 
 

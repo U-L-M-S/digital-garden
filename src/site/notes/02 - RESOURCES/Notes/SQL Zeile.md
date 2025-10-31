@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-zeile/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2025-09-10T16:38:19.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-zeile/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2025-10-29T12:59:10.519+01:00"}
 ---
 
 >Das sind die Werten, was man in die [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]] einfügt.

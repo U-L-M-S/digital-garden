@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/else-if-bedingung/","tags":["informatik/code"],"noteIcon":"","updated":"2025-09-10T16:33:00.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/else-if-bedingung/","tags":["informatik/code"],"noteIcon":"","updated":"2025-10-29T12:59:05.811+01:00"}
 ---
 
 >Eine `else if`-Bedingung prüft eine zusätzliche Bedingung, falls die vorherige [[02 - RESOURCES/Notes/IF-Bedingung\|if-Bedingung]] **falsch** war. 

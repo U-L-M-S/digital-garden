@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/vfi/","tags":["usv/online","elektrotechnik/strom/dauerbetrieb"],"noteIcon":"","updated":"2025-09-05T10:27:24.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/vfi/","tags":["usv/online","elektrotechnik/strom/dauerbetrieb"],"noteIcon":"","updated":"2025-10-29T12:59:11.163+01:00"}
 ---
 
 

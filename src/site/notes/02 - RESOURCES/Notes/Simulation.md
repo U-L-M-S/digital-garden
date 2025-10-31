@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/simulation/","tags":["informatik/virtualisierung"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/simulation/","tags":["informatik/virtualisierung"],"noteIcon":"","updated":"2025-10-29T12:59:10.246+01:00"}
 ---
 
 > **Simulation** ist das **Nachstellen von realen Prozessen oder Systemen**, um deren Verhalten unter bestimmten Bedingungen zu analysieren – ohne sie physisch auszuführen.

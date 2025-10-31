@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/oekonomisch/","tags":["unternehmensziele/kategorien","wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:44.849+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/oekonomisch/","tags":["unternehmensziele/kategorien","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:08.836+01:00"}
 ---
 
 >Wirtschaftliche Ziele wie Gewinnmaximierung und Marktanteil.

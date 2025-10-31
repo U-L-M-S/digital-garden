@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-komposition/","tags":["uml/klassendiagramm"],"noteIcon":"","updated":"2025-09-05T10:12:32.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-komposition/","tags":["uml/klassendiagramm"],"noteIcon":"","updated":"2025-10-29T12:59:10.949+01:00"}
 ---
 
 >In [[02 - RESOURCES/Notes/UML\|UML]] wird Komposition durch eine Linie mit einer ausgefüllten Raute dargestellt. 

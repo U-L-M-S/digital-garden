@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/imap/","tags":["protokoll/email","synchronisation/server","informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-10T16:35:20.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/imap/","tags":["protokoll/email","synchronisation/server","informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-10-29T12:59:06.672+01:00"}
 ---
 
 

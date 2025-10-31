@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/programm-und-konfigurationsdokumentation/","tags":["dokumentation/software","AP2025/neu"],"noteIcon":"","updated":"2025-09-16T23:41:26.801+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/programm-und-konfigurationsdokumentation/","tags":["dokumentation/software","AP2025/neu"],"noteIcon":"","updated":"2025-10-29T12:59:09.422+01:00"}
 ---
 
 

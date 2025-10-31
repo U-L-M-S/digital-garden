@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker-hub/","tags":["informatik/virtualisierung/docker/registry","informatik/virtualisierung/docker/public"],"noteIcon":"","updated":"2025-09-10T16:40:27.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker-hub/","tags":["informatik/virtualisierung/docker/registry","informatik/virtualisierung/docker/public"],"noteIcon":"","updated":"2025-10-29T12:59:05.386+01:00"}
 ---
 
 

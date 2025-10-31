@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/betriebssystem/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/betriebssystem","software/system"],"noteIcon":"","updated":"2025-09-27T01:32:44.684+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/betriebssystem/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/betriebssystem","software/system"],"noteIcon":"","updated":"2025-10-29T12:59:03.721+01:00"}
 ---
 
 

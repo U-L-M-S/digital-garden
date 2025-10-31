@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-04-schutzbedarfsanalyse-im-eigenen-arbeitsbereich-durchfuehren/","tags":["GFN/LF04","finished"],"noteIcon":"","updated":"2025-10-28T16:07:03.000+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-04-schutzbedarfsanalyse-im-eigenen-arbeitsbereich-durchfuehren/","tags":["GFN/LF04","finished"],"noteIcon":"","updated":"2025-10-29T09:18:43.417+01:00"}
 ---
 
->[!important] 
->Diese Zusammenfassung ist noch nicht vollständig.
->Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
+> Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
 
 [[LF04V2_Tag_5_Beschäftigungsmöglichkeiten Zertifizierungen_Präsentation 1.pdf]]
 [[15_LF04V2_Tag_5_Urheberrecht Copyright Markenrecht und Lizenzen_Präsentation_neu 1.pdf]]

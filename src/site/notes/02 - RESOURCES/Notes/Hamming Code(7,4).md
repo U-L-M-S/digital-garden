@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hamming-code-7-4/","tags":["algorithmus","informatik/netzwerk","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:00:10.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hamming-code-7-4/","tags":["algorithmus","informatik/netzwerk","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:06.459+01:00"}
 ---
 
 >Hamming-Code oder besser gesagt (7,4)-Hamming-Code ist ein Code bei den Daten (Nachricht) gesendet wird + eine Prüfsumme. 

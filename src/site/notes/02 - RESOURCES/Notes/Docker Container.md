@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker-container/","tags":["informatik/virtualisierung/docker/grundlagen","informatik/virtualisierung/docker/container"],"noteIcon":"","updated":"2025-09-10T16:50:46.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker-container/","tags":["informatik/virtualisierung/docker/grundlagen","informatik/virtualisierung/docker/container"],"noteIcon":"","updated":"2025-10-29T12:59:05.380+01:00"}
 ---
 
 

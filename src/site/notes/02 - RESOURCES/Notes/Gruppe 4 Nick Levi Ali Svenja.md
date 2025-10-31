@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/gruppe-4-nick-levi-ali-svenja/","noteIcon":"","updated":"2025-08-26T16:35:04.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/gruppe-4-nick-levi-ali-svenja/","noteIcon":"","updated":"2025-10-29T12:59:06.428+01:00"}
 ---
 
 | **Story**                                                                                                                                                    | "Als Administrator möchte ich Benutzerkonten verwalten können, damit ich sicherstellen kann, dass nur berechtigte Nutzer Zugang zu bestimmten Bereichen der Webseite haben."   |

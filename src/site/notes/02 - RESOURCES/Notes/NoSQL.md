@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/no-sql/","tags":["datenbank/arten","big-data/speicherung"],"noteIcon":"","updated":"2025-09-16T23:41:26.783+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/no-sql/","tags":["datenbank/arten","big-data/speicherung"],"noteIcon":"","updated":"2025-10-29T12:59:08.727+01:00"}
 ---
 
 

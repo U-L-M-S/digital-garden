@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bash/","tags":["informatik/code/bash"],"noteIcon":"","updated":"2025-09-19T13:16:05.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bash/","tags":["informatik/code/bash"],"noteIcon":"","updated":"2025-10-29T12:59:03.258+01:00"}
 ---
 
 

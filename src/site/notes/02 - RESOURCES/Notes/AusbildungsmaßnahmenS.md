@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ausbildungsmassnahmen-s/","tags":["ausbildung/maßnahmen"],"noteIcon":"","updated":"2025-08-28T17:45:54.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ausbildungsmassnahmen-s/","tags":["ausbildung/maßnahmen"],"noteIcon":"","updated":"2025-10-29T12:59:02.898+01:00"}
 ---
 
 >Schulungen, Kurse oder Seminare außerhalb des [[02 - RESOURCES/Notes/Betrieb\|Betrieb]]s, die zur Ausbildung gehören.

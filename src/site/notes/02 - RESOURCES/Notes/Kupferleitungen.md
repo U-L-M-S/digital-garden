@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kupferleitungen/","tags":["informatik/netzwerk/kabel","übertragung/elektrisch"],"noteIcon":"","updated":"2025-09-10T16:35:24.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kupferleitungen/","tags":["informatik/netzwerk/kabel","übertragung/elektrisch"],"noteIcon":"","updated":"2025-10-29T12:59:07.600+01:00"}
 ---
 
 

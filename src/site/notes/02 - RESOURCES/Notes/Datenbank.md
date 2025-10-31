@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datenbank/","tags":["informatik/datenbank/grundlagen","informatik/virtualisierung/docker/services"],"noteIcon":"","updated":"2025-09-10T16:40:26.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/datenbank/","tags":["informatik/datenbank/grundlagen","informatik/virtualisierung/docker/services"],"noteIcon":"","updated":"2025-10-29T12:59:04.757+01:00"}
 ---
 
 

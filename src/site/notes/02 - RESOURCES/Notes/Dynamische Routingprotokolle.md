@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dynamische-routingprotokolle/","tags":["ausbildung/gfn/ap1","informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-27T01:32:45.053+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dynamische-routingprotokolle/","tags":["ausbildung/gfn/ap1","informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-10-29T12:59:05.634+01:00"}
 ---
 
 >Protokollen verantwortlich für die automatische Erkennung von den beste Weg bei [[02 - RESOURCES/Notes/Dynamisches Routing\|Dynamisches Routing]].

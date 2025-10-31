@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker-swarm/","tags":["informatik/virtualisierung/docker/orchestration","informatik/virtualisierung/docker/cluster"],"noteIcon":"","updated":"2025-09-18T10:23:13.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker-swarm/","tags":["informatik/virtualisierung/docker/orchestration","informatik/virtualisierung/docker/cluster"],"noteIcon":"","updated":"2025-10-29T12:59:05.421+01:00"}
 ---
 
 

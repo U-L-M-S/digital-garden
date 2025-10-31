@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/thin-client/","tags":["client/minimal","informatik/server/abhängig","informatik/netzwerk"],"noteIcon":"","updated":"2025-09-10T17:01:52.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/thin-client/","tags":["client/minimal","informatik/server/abhängig","informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:10.797+01:00"}
 ---
 
 

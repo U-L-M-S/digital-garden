@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/json/","tags":["datenformat/leichtgewicht","web/apis"],"noteIcon":"","updated":"2025-09-16T23:41:26.770+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/json/","tags":["datenformat/leichtgewicht","web/apis"],"noteIcon":"","updated":"2025-10-29T12:59:07.305+01:00"}
 ---
 
 

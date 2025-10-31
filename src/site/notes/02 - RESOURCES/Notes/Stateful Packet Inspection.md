@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/stateful-packet-inspection/","tags":["filter/verbindung","firewall/typ","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-09-27T01:32:44.996+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/stateful-packet-inspection/","tags":["filter/verbindung","firewall/typ","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:10.570+01:00"}
 ---
 
 

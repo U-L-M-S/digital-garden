@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kollision/","tags":["informatik/netzwerk/konflikt","übertragung/gleichzeitig"],"noteIcon":"","updated":"2025-09-10T16:35:24.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kollision/","tags":["informatik/netzwerk/konflikt","übertragung/gleichzeitig"],"noteIcon":"","updated":"2025-10-29T12:59:07.471+01:00"}
 ---
 
 

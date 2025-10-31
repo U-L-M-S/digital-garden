@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mainboard/","tags":["ausbildung/gfn/ap1/vorbereitung","hardware/mainboard","informatik/architektur"],"noteIcon":"","updated":"2025-09-27T01:32:44.229+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/mainboard/","tags":["ausbildung/gfn/ap1/vorbereitung","hardware/mainboard","informatik/architektur"],"noteIcon":"","updated":"2025-10-29T12:59:07.976+01:00"}
 ---
 
 

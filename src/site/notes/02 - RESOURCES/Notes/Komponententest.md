@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/komponententest/","tags":["testing/unit","qualitaetssicherung/modul"],"noteIcon":"","updated":"2025-09-16T23:41:26.774+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/komponententest/","tags":["testing/unit","qualitaetssicherung/modul"],"noteIcon":"","updated":"2025-10-29T12:59:07.504+01:00"}
 ---
 
 

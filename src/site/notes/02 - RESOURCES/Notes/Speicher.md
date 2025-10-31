@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/speicher/","tags":["ausbildung/gfn/ap1/vorbereitung","hardware/speicher","informatik/architektur"],"noteIcon":"","updated":"2025-09-27T01:32:44.817+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/speicher/","tags":["ausbildung/gfn/ap1/vorbereitung","hardware/speicher","informatik/architektur"],"noteIcon":"","updated":"2025-10-29T12:59:10.377+01:00"}
 ---
 
 

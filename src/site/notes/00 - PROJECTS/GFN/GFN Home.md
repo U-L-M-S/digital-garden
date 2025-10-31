@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-10-06T15:30:31.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2025-10-31T10:38:11.005+01:00"}
 ---
 
 # Hallo zusammen 😄 
@@ -27,11 +27,12 @@ Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-
 # AP1-relevant:
 ___
 - 🟢 [[00 - PROJECTS/GFN/+/LFF4 Grundlagen Projektmanagement\|LFF4 Grundlagen Projektmanagement]]
+
 - 🟢 [[00 - PROJECTS/GFN/AP1/LF01 Das Unternehmen und die eigene Rolle im Betrieb\|LF01 Das Unternehmen und die eigene Rolle im Betrieb]] 
 - 🟢 [[00 - PROJECTS/GFN/AP1/LF02 Arbeitsplatz nach Kundenwunsch ausstatten\|LF02 Arbeitsplatz nach Kundenwunsch ausstatten]]
 - 🟢 [[00 - PROJECTS/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]
-- 🔴 [[00 - PROJECTS/GFN/AP1/LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen\|LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen]] 
-- 🔴 [[00 - PROJECTS/GFN/AP1/LF05 Software zur Verwaltung von Daten anpassen\|LF05 Software zur Verwaltung von Daten anpassen]]
+- 🟢 [[00 - PROJECTS/GFN/AP1/LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen\|LF04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen]] 
+- 🟢 [[00 - PROJECTS/GFN/AP1/LF05 Software zur Verwaltung von Daten anpassen\|LF05 Software zur Verwaltung von Daten anpassen]]
 - 🔴 [[00 - PROJECTS/GFN/AP1/LF06 Serviceanfragen bearbeiten\|LF06 Serviceanfragen bearbeiten]]
 - 🔴 [[00 - PROJECTS/GFN/AP1/LF07 Cyber-physische Systeme ergänzen\|LF07 Cyber-physische Systeme ergänzen]]
 - 🔴 [[00 - PROJECTS/GFN/AP1/LF08 Daten systemübergreifend bereitstellen\|LF08 Daten systemübergreifend bereitstellen]]
@@ -46,6 +47,8 @@ ___
 - 🟢 [[00 - PROJECTS/GFN/AP2/LF10 Benutzerschnittstellen gestalten und entwickeln\|LF10 Benutzerschnittstellen gestalten und entwickeln]]
 - 🟢 [[00 - PROJECTS/GFN/AP2/LF11 Funktionalität in Anwendungen realisieren\|LF11 Funktionalität in Anwendungen realisieren]]
 - 🟢 [[00 - PROJECTS/GFN/AP2/LF12 Kundenspezifische Anwendungsentwicklung durchführen\|LF12 Kundenspezifische Anwendungsentwicklung durchführen]]
+
+[[02 - RESOURCES/Notes/AP2 Vorbereitung\|AP2 Vorbereitung]]
 
 > [!important] Prüfungskatalog 2025 AP2  
 > Laut [IT-Berufe-Podcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap2-als-fachinformatiker-anwendungsentwicklung-ab-2025-it-berufe-podcast-191/) enthält der Prüfungskatalog die Themen, die in der AP2 vorkommen können: [[02 - RESOURCES/Notes/AP2 Prüfungskatalog 2025\|AP2 Prüfungskatalog 2025]]

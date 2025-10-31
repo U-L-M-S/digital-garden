@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/redundanzen/","tags":["datenbank/design","qualitaetssicherung/daten","AP2025/verstaerkt"],"noteIcon":"","updated":"2025-09-16T23:41:26.840+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/redundanzen/","tags":["datenbank/design","qualitaetssicherung/daten","AP2025/verstaerkt"],"noteIcon":"","updated":"2025-10-29T12:59:09.766+01:00"}
 ---
 
 

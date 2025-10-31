@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ticketsystem/","tags":["service-management/tools","incident-management/tracking"],"noteIcon":"","updated":"2025-09-16T23:41:26.885+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ticketsystem/","tags":["service-management/tools","incident-management/tracking"],"noteIcon":"","updated":"2025-10-29T12:59:10.809+01:00"}
 ---
 
 

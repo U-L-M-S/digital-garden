@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/short/","tags":["speicher","informatik/code"],"noteIcon":"","updated":"2025-09-10T16:33:17.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/short/","tags":["speicher","informatik/code"],"noteIcon":"","updated":"2025-10-29T12:59:10.132+01:00"}
 ---
 
 >16 [[02 - RESOURCES/Notes/Bit\|Bit]]s

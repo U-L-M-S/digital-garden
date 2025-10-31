@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/broadcast/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2025-09-10T16:35:09.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/broadcast/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:04.194+01:00"}
 ---
 
 > Ein Sender adressiert alle Empfänger in die Netzwerk.

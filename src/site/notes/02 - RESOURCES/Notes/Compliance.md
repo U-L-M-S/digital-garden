@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/compliance/","tags":["AI-generated"],"noteIcon":"","updated":"2025-09-15T14:02:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/compliance/","tags":["AI-generated"],"noteIcon":"","updated":"2025-10-29T12:59:04.585+01:00"}
 ---
 
 >Compliance bezeichnet die Einhaltung gesetzlicher Vorschriften, Unternehmensrichtlinien und regulatorischer Anforderungen zur Sicherstellung rechtskonformer Geschäftspraktiken.
