@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/python-installieren/","tags":["informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2025-09-27T01:32:44.950+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/python-installieren/","tags":["informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2025-10-29T12:59:09.554+01:00"}
 ---
 
 >Es kann überall verwendet werden.

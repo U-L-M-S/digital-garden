@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ransomware/","tags":["sicherheit/malware","bedrohungen/verschluesselung"],"noteIcon":"","updated":"2025-09-16T23:41:26.838+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ransomware/","tags":["sicherheit/malware","bedrohungen/verschluesselung"],"noteIcon":"","updated":"2025-10-29T12:59:09.696+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/matrixorganisation/","tags":["organisation/leitungssystem","wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:43.575+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/matrixorganisation/","tags":["organisation/leitungssystem","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:08.128+01:00"}
 ---
 
 >Überlagerung von funktionaler und projektbezogener Führung.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dsgvo/","tags":["ausbildung/gfn/ap1/vorbereitung","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-09-27T01:32:44.766+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dsgvo/","tags":["ausbildung/gfn/ap1/vorbereitung","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:05.555+01:00"}
 ---
 
 >Datenschutz-Grundverordnung.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/e-g/","tags":["wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:43.546+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/e-g/","tags":["wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:05.711+01:00"}
 ---
 
 ## eG 

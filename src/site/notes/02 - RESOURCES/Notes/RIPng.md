@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ri-png/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-09-10T16:35:33.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ri-png/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-10-29T12:59:09.830+01:00"}
 ---
 
 > Routing Information Protocol next generation

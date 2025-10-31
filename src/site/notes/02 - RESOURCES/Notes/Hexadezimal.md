@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hexadezimal/","tags":["informatik","informatik/netzwerk","mathe/hexadezimal"],"noteIcon":"","updated":"2025-09-10T16:35:19.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hexadezimal/","tags":["informatik","informatik/netzwerk","mathe/hexadezimal"],"noteIcon":"","updated":"2025-10-29T12:59:06.505+01:00"}
 ---
 
 > Zahlsystem, das Zahlen und Buchstaben nutzt.

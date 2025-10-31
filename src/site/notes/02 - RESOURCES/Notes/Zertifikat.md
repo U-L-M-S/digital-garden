@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/zertifikat/","tags":["sicherheit/pki","verschluesselung/vertrauen"],"noteIcon":"","updated":"2025-09-16T23:41:26.907+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/zertifikat/","tags":["sicherheit/pki","verschluesselung/vertrauen"],"noteIcon":"","updated":"2025-10-29T12:59:11.866+01:00"}
 ---
 
 

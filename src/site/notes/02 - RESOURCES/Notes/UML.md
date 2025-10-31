@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml/","tags":["ausbildung/gfn/ap2","uml"],"noteIcon":"","updated":"2025-09-27T01:32:43.811+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml/","tags":["ausbildung/gfn/ap2","uml"],"noteIcon":"","updated":"2025-10-29T12:59:10.921+01:00"}
 ---
 
 >**Unified Modeling Language (UML)**  

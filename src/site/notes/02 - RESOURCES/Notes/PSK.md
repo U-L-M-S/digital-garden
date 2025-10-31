@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/psk/","tags":["elektrotechnik/wlan/sicherheit","informatik/netzwerk/wifi","schlüssel/vorab","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-09-27T01:32:43.478+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/psk/","tags":["elektrotechnik/wlan/sicherheit","informatik/netzwerk/wifi","schlüssel/vorab","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:09.531+01:00"}
 ---
 
 

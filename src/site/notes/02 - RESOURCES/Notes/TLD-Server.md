@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/tld-server/","tags":["informatik/netzwerk/dns/toplevel","domain/endung","informatik/netzwerk/dns"],"noteIcon":"","updated":"2025-09-10T16:35:38.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/tld-server/","tags":["informatik/netzwerk/dns/toplevel","domain/endung","informatik/netzwerk/dns"],"noteIcon":"","updated":"2025-10-29T12:59:10.825+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/b-url-g/","tags":["arbeitsrecht/urlaub"],"noteIcon":"","updated":"2025-09-05T10:12:28.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/b-url-g/","tags":["arbeitsrecht/urlaub"],"noteIcon":"","updated":"2025-10-29T12:59:04.284+01:00"}
 ---
 
 >**Bundesurlaubsgesetz** - Regelt Mindestanspruch auf bezahlten Erholungsurlaub.

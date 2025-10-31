@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/konzern/","tags":[null],"noteIcon":"","updated":"2025-08-26T16:42:22.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/konzern/","tags":[null],"noteIcon":"","updated":"2025-10-29T12:59:07.530+01:00"}
 ---
 
 >Zusammenschluss rechtlich selbständiger Firmen.

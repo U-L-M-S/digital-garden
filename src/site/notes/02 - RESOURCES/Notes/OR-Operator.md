@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/or-operator/","tags":["mathe","informatik/logik"],"noteIcon":"","updated":"2025-09-05T10:12:30.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/or-operator/","tags":["mathe","informatik/logik"],"noteIcon":"","updated":"2025-10-29T12:59:08.894+01:00"}
 ---
 
 >Es ist nur TRUE wenn mindestens einer der Inputs TRUE ist.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/integrationstest/","tags":["testing/integration","qualitaetssicherung/schnittstellen"],"noteIcon":"","updated":"2025-09-16T23:41:26.768+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/integrationstest/","tags":["testing/integration","qualitaetssicherung/schnittstellen"],"noteIcon":"","updated":"2025-10-29T12:59:06.823+01:00"}
 ---
 
 

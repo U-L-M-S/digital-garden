@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/frequency-hopping/","tags":["informatik/netzwerk/wifi"],"noteIcon":"","updated":"2025-09-10T16:35:17.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/frequency-hopping/","tags":["informatik/netzwerk/wifi"],"noteIcon":"","updated":"2025-10-29T12:59:06.142+01:00"}
 ---
 
 

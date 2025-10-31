@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-assoziation/","tags":["uml/klassendiagramm"],"noteIcon":"","updated":"2025-09-05T10:12:32.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-assoziation/","tags":["uml/klassendiagramm"],"noteIcon":"","updated":"2025-10-29T12:59:10.941+01:00"}
 ---
 
 >Zwei Klassen werden mit einer Linie verbunden, was eine Beziehung zwischen ihnen darstellt. 

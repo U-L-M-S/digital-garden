@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rechenzentren/","tags":["infrastruktur/zentral","informatik/server/standort","informatik/hardware"],"noteIcon":"","updated":"2025-09-10T17:01:52.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/rechenzentren/","tags":["infrastruktur/zentral","informatik/server/standort","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:09.744+01:00"}
 ---
 
 

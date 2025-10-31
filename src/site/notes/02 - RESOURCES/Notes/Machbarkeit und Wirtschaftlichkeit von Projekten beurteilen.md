@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/machbarkeit-und-wirtschaftlichkeit-von-projekten-beurteilen/","tags":["ausbildung/gfn/ap1/vorbereitung","projektmanagement"],"noteIcon":"","updated":"2025-09-27T01:32:44.166+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/machbarkeit-und-wirtschaftlichkeit-von-projekten-beurteilen/","tags":["ausbildung/gfn/ap1/vorbereitung","projektmanagement"],"noteIcon":"","updated":"2025-10-29T12:59:07.938+01:00"}
 ---
 
 ## ✅ 1. **Technische Machbarkeit**

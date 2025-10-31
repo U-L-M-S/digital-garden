@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/vertikal/","tags":["wirtschaft/bwl","wirtschaft/kooperation"],"noteIcon":"","updated":"2025-09-27T01:32:43.645+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/vertikal/","tags":["wirtschaft/bwl","wirtschaft/kooperation"],"noteIcon":"","updated":"2025-10-29T12:59:11.141+01:00"}
 ---
 
 >Zusammenarbeit zwischen aufeinanderfolgenden Produktions- oder Handelsstufen.

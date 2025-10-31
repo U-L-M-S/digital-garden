@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rfid/","noteIcon":"","updated":"2025-09-10T16:28:55.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/rfid/","noteIcon":"","updated":"2025-10-29T12:59:09.822+01:00"}
 ---
 
 

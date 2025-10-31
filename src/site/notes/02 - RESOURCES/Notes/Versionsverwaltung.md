@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/versionsverwaltung/","tags":["softwareentwicklung/verwaltung","projektmanagement/code"],"noteIcon":"","updated":"2025-09-16T23:41:26.893+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/versionsverwaltung/","tags":["softwareentwicklung/verwaltung","projektmanagement/code"],"noteIcon":"","updated":"2025-10-29T12:59:11.137+01:00"}
 ---
 
 

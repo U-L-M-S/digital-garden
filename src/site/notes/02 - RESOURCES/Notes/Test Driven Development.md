@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/test-driven-development/","tags":["programmierung/methoden","qualitaetssicherung/agile","AP2025/neu"],"noteIcon":"","updated":"2025-09-16T23:41:26.884+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/test-driven-development/","tags":["programmierung/methoden","qualitaetssicherung/agile","AP2025/neu"],"noteIcon":"","updated":"2025-10-29T12:59:10.792+01:00"}
 ---
 
 

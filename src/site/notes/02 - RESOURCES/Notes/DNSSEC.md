@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dnssec/","tags":["informatik/netzwerk/dns","informatik/netzwerk/dns/sicherheit","sicherheit/it-sicherheit","signierung/authentizität"],"noteIcon":"","updated":"2025-09-27T01:32:44.388+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dnssec/","tags":["informatik/netzwerk/dns","informatik/netzwerk/dns/sicherheit","sicherheit/it-sicherheit","signierung/authentizität"],"noteIcon":"","updated":"2025-10-29T12:59:05.362+01:00"}
 ---
 
 
