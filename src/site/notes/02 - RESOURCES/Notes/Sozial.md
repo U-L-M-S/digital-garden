@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sozial/","tags":["unternehmensziele/kategorien","wirtschaft/bwl"],"noteIcon":"","updated":"2025-09-27T01:32:44.090+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sozial/","tags":["unternehmensziele/kategorien","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:10.347+01:00"}
 ---
 
 >Mitarbeiterorientierte Ziele wie Arbeitsplatzsicherheit und Zufriedenheit.
