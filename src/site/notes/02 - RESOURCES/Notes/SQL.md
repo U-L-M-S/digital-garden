@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["ausbildung/gfn/ap2","informatik/code/SQL","informatik/datenbank"],"noteIcon":"","updated":"2025-10-29T12:59:10.526+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["ausbildung/gfn/ap2","informatik/code/SQL","informatik/datenbank"],"noteIcon":"","updated":"2025-11-04T15:56:03.796+01:00"}
 ---
 
 >SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.
@@ -183,17 +183,17 @@ WHERE schueler_id = 1;
 
 > [!example] Vorher:
 
-|schueler_id|vorname|nachname|geburtsdatum|
-|:-:|:-:|:-:|:-:|
-|1|Max|Muster|2005-04-15|
-|2|Anna|Beispiel|2006-05-20|
+| schueler_id | vorname | nachname | geburtsdatum |
+| :---------: | :-----: | :------: | :----------: |
+|      1      |   Max   |  Muster  |  2005-04-15  |
+|      2      |  Anna   | Beispiel |  2006-05-20  |
 
 > [!example] Nachher:
 
-|schueler_id|vorname|nachname|geburtsdatum|
-|:-:|:-:|:-:|:-:|
-|1|Maximilian|Muster|2005-04-15|
-|2|Anna|Beispiel|2006-05-20|
+| schueler_id |  vorname   | nachname | geburtsdatum |
+| :---------: | :--------: | :------: | :----------: |
+|      1      | Maximilian |  Muster  |  2005-04-15  |
+|      2      |    Anna    | Beispiel |  2006-05-20  |
 
 ## Mehrere Spalten gleichzeitig ändern
 
@@ -229,18 +229,18 @@ WHERE schueler_id = 1;
 
 > [!example] Vorher:
 
-|schueler_id|vorname|nachname|geburtsdatum|
-|:-:|:-:|:-:|:-:|
-|1|Max|Muster|2005-04-15|
-|2|Anna|Beispiel|2006-05-20|
-|3|Tom|Schneider|2004-08-12|
+| schueler_id | vorname | nachname  | geburtsdatum |
+| :---------: | :-----: | :-------: | :----------: |
+|      1      |   Max   |  Muster   |  2005-04-15  |
+|      2      |  Anna   | Beispiel  |  2006-05-20  |
+|      3      |   Tom   | Schneider |  2004-08-12  |
 
 > [!example] Nachher:
 
-|schueler_id|vorname|nachname|geburtsdatum|
-|:-:|:-:|:-:|:-:|
-|2|Anna|Beispiel|2006-05-20|
-|3|Tom|Schneider|2004-08-12|
+| schueler_id | vorname | nachname  | geburtsdatum |
+| :---------: | :-----: | :-------: | :----------: |
+|      2      |  Anna   | Beispiel  |  2006-05-20  |
+|      3      |   Tom   | Schneider |  2004-08-12  |
 
 ## Mehrere Zeilen löschen
 
