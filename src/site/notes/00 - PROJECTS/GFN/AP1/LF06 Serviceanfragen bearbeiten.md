@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-06-serviceanfragen-bearbeiten/","tags":["GFN/LF06","inProgress"],"noteIcon":"","updated":"2025-10-22T21:44:46.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-06-serviceanfragen-bearbeiten/","tags":["GFN/LF06","inProgress"],"noteIcon":"","updated":"2025-11-05T14:52:53.047+01:00"}
 ---
 
 ![[IT-Berufe_Lernfelder_6-9_Westermann.pdf]]
@@ -49,7 +49,7 @@
 
 ---
 
-## [[Service Value System\|Service Value System]]
+## Service Value System
 
 > Das [[Service Value System\|Service Value System]] ist wie eine Fabrik - rein kommt ein Problem, raus kommt eine Lösung die dem Kunden hilft.
 
@@ -65,7 +65,7 @@
 
 ## ITSM-Bereiche
 
-### [[Service Strategy\|Service Strategy]]
+### [[02 - RESOURCES/Notes/Service Strategy\|Service Strategy]]
 
 > Der Plan: Was für Services willst du anbieten?
 
@@ -84,7 +84,7 @@
 
 > Der Umzug: Neue Services in den Live-Betrieb bringen.
 
-- **[[Release Management\|Release Management]]** - Software-Updates kontrollieren
+- **Release Management** - Software-Updates kontrollieren
 - **[[Configuration Management\|Configuration Management]]** - Was gehört zu was? ([[CMDB\|CMDB]])
 - **[[Change Management\|Change Management]]** - Änderungen über [[RFC\|RFC]]s steuern
 
@@ -255,7 +255,7 @@
 
 > Wie entscheidest du was zuerst gemacht wird?
 
-||Wichtig|Nicht wichtig|
+|Wichtig|Nicht wichtig|
 |---|---|---|
 |**Dringend**|Sofort machen|Delegieren|
 |**Nicht dringend**|Terminieren|Ignorieren|

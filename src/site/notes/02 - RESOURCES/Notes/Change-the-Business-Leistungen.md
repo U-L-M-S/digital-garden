@@ -304,7 +304,7 @@ ROI = (Gewinn - Investition) / Investition × 100%
 
 >[!info] [[ITIL\|ITIL]] und CTB
 >[[02 - RESOURCES/Notes/Change-the-Business-Leistungen\|Change-the-Business-Leistungen]] umfassen hauptsächlich:
->- [[Service Strategy\|Service Strategy]] (Was wollen wir erreichen?)
+>- [[02 - RESOURCES/Notes/Service Strategy\|Service Strategy]] (Was wollen wir erreichen?)
 >- [[Service Design\|Service Design]] (Wie designen wir es?)
 >- [[Service Transition\|Service Transition]] (Wie führen wir es ein?)
 >- [[Change Management\|Change Management]] (Änderungen kontrollieren)
@@ -351,7 +351,7 @@ ROI = (Gewinn - Investition) / Investition × 100%
 ## Verwandte Konzepte
 
 - [[02 - RESOURCES/Notes/Run-the-Business-Leistungen\|Run-the-Business-Leistungen]] - Gegenstück für Betrieb
-- [[Service Strategy\|Service Strategy]] - [[ITIL\|ITIL]]-Prozess für CTB
+- [[02 - RESOURCES/Notes/Service Strategy\|Service Strategy]] - [[ITIL\|ITIL]]-Prozess für CTB
 - [[Service Design\|Service Design]] - Design neuer Services
 - [[Service Transition\|Service Transition]] - Einführung neuer Services
 - [[Change Management\|Change Management]] - Änderungen steuern
