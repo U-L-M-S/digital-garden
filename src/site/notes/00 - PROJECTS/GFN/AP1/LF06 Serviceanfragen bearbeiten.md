@@ -19,14 +19,14 @@
 
 ## Service-Arten nach Zweck
 
-### [[Run-the-Business-Leistungen\|Run-the-Business-Leistungen]]
+### [[02 - RESOURCES/Notes/Run-the-Business-Leistungen\|Run-the-Business-Leistungen]]
 
 > Das ist wie der Hausmeister - sorgt dafür, dass alles läuft wie gewohnt.
 
 - **[[Rechenzentrumsbetrieb\|Rechenzentrumsbetrieb]]** - [[02 - RESOURCES/Notes/Server\|Server]] und [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] am Leben halten
 - **[[Outsourcing\|Outsourcing]]** - Jemand anderes macht deine IT-Arbeit
 
-### [[Change-the-Business-Leistungen\|Change-the-Business-Leistungen]]
+### [[02 - RESOURCES/Notes/Change-the-Business-Leistungen\|Change-the-Business-Leistungen]]
 
 > Das ist wie der Architekt - baut was Neues und macht dich besser.
 
@@ -37,7 +37,7 @@
 
 |Kanal|Was passiert|Beispiel|
 |---|---|---|
-|**[[Helpdesk\|Helpdesk]]**|Telefon oder Online-Support|"Mein Drucker geht nicht"|
+|**[[02 - RESOURCES/Notes/Helpdesk\|Helpdesk]]**|Telefon oder Online-Support|"Mein Drucker geht nicht"|
 |**[[Live-Chat\|Live-Chat]]**|Direkt mit Mensch sprechen|WhatsApp für IT-Probleme|
 |**[[Chat-Bot\|Chat-Bot]]**|Computer antwortet automatisch|"Passwort vergessen? Klick hier"|
 
@@ -92,8 +92,8 @@
 
 > Der Alltag: Services am Laufen halten.
 
-- **[[Incident Management\|Incident Management]]** - Schnell Probleme lösen
-- **[[Problem Management\|Problem Management]]** - Warum ist das passiert?
+- **[[02 - RESOURCES/Notes/Incident Management\|Incident Management]]** - Schnell Probleme lösen
+- **[[02 - RESOURCES/Notes/Problem Management\|Problem Management]]** - Warum ist das passiert?
 - **[[Infrastructure Monitoring\|Infrastructure Monitoring]]** - Computer überwachen Computer
 
 # III. Supportmanagement in der Praxis
@@ -106,7 +106,7 @@
 
 ## Support-Level
 
-### [[First-Level-Support\|First-Level-Support]]
+### [[02 - RESOURCES/Notes/First-Level-Support\|First-Level-Support]]
 
 > Die Rezeption - erste Anlaufstelle für alles.
 
@@ -114,15 +114,15 @@
 - **"Passwort zurücksetzen"**, **"Drucker ist aus"**
 - Leitet komplexere Sachen weiter
 
-### [[Second-Level-Support\|Second-Level-Support]]
+### [[02 - RESOURCES/Notes/Second-Level-Support\|Second-Level-Support]]
 
 > Die Spezialisten - können auch schwierige Sachen.
 
 - **Fachexperten** für verschiedene Bereiche
 - Lösen **komplexere technische Probleme**
-- Schulen den [[First-Level-Support\|First-Level-Support]]
+- Schulen den [[02 - RESOURCES/Notes/First-Level-Support\|First-Level-Support]]
 
-### [[Third-Level-Support\|Third-Level-Support]]
+### [[02 - RESOURCES/Notes/Third-Level-Support\|Third-Level-Support]]
 
 > Die Profis vom Hersteller - wenn gar nichts mehr geht.
 
@@ -226,9 +226,9 @@
 
 
 
-## [[RACI-Matrix\|RACI-Matrix]]
+## [[02 - RESOURCES/Notes/RACI-Matrix\|RACI-Matrix]]
 
-> Wer macht was? Die [[RACI-Matrix\|RACI-Matrix]] sagt es dir.
+> Wer macht was? Die [[02 - RESOURCES/Notes/RACI-Matrix\|RACI-Matrix]] sagt es dir.
 
 - **R - Responsible** - Macht die Arbeit
 - **A - Accountable** - Ist verantwortlich wenn's schief geht
@@ -251,7 +251,7 @@
 > - **Ruhe bewahren** - Nicht persönlich nehmen
 > - **Lösungsorientiert** - Was können wir tun?
 
-## [[Eisenhower-Prinzip\|Eisenhower-Prinzip]]
+## [[02 - RESOURCES/Notes/Eisenhower-Prinzip\|Eisenhower-Prinzip]]
 
 > Wie entscheidest du was zuerst gemacht wird?
 
@@ -262,11 +262,11 @@
 
 # VI. Praktische Tools und Techniken
 
-> Hier kommen die konkreten Werkzeuge die du täglich brauchst - von [[PXE-Boot\|PXE-Boot]] für Installationen bis zu rechtlichen Grundlagen.
+> Hier kommen die konkreten Werkzeuge die du täglich brauchst - von [[02 - RESOURCES/Notes/PXE-Boot\|PXE-Boot]] für Installationen bis zu rechtlichen Grundlagen.
 
 ---
 
-## [[PXE-Boot\|PXE-Boot]]
+## [[02 - RESOURCES/Notes/PXE-Boot\|PXE-Boot]]
 
 > [[PXE\|PXE]] ist wie ein Fernseher - du schaltest den Computer an und er holt sich sein [[02 - RESOURCES/Notes/Betriebssystem\|Betriebssystem]] aus dem [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]].
 
@@ -297,9 +297,9 @@
 - **Reaktionszeiten** - Innerhalb 4 Stunden Antwort
 - **Support-Zeiten** - Mo-Fr 8-18 Uhr
 
-### [[OLA\|OLA]] vs. [[UC\|UC]]
+### [[02 - RESOURCES/Notes/OLA\|OLA]] vs. [[UC\|UC]]
 
-- **[[OLA\|OLA]]** - Vereinbarung zwischen IT-Abteilungen
+- **[[02 - RESOURCES/Notes/OLA\|OLA]]** - Vereinbarung zwischen IT-Abteilungen
 - **[[UC\|UC]]** - Vertrag mit externen Dienstleistern
 
 ## Rechtliche Grundlagen
