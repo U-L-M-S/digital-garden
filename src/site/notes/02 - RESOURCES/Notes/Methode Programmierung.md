@@ -69,7 +69,7 @@ meinAuto.hupe();
 
 
 
-### 🔣 [[00 - PROJECTS/C++\|C++]] Beispiel
+### 🔣 [[02 - RESOURCES/Notes/C++\|C++]] Beispiel
 
 ```cpp
 #include <iostream>

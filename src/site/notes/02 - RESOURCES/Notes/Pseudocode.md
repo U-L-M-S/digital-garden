@@ -10,7 +10,7 @@ ___
 - **Planung**: Durchdenke deinen [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] bevor du Code
 - **Kommunikation**: Zeige anderen deine Idee ohne Syntax-Probleme
 - **[[02 - RESOURCES/Notes/Debugging\|Debugging]]**: Finde Logikfehler früher
-- **Sprachunabhängig**: Funktioniert für [[02 - RESOURCES/Notes/Java\|Java]], [[02 - RESOURCES/Notes/Python\|Python]], [[00 - PROJECTS/C++\|C++]] etc.
+- **Sprachunabhängig**: Funktioniert für [[02 - RESOURCES/Notes/Java\|Java]], [[02 - RESOURCES/Notes/Python\|Python]], [[02 - RESOURCES/Notes/C++\|C++]] etc.
 
 # I. Grundelemente von [[02 - RESOURCES/Notes/Pseudocode\|Pseudocode]]
 
