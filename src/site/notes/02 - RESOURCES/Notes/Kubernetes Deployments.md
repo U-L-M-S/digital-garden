@@ -853,5 +853,5 @@ metadata:
 - [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]] - Hauptnotiz
 - [[02 - RESOURCES/Notes/Kubernetes Pods\|Kubernetes Pods]] - Von Deployments verwaltet
 - [[02 - RESOURCES/Notes/Kubernetes Services\|Kubernetes Services]] - Pods exponieren
-- [[Kubernetes StatefulSets\|Kubernetes StatefulSets]] - Für Stateful Apps
-- [[Kubernetes DaemonSets\|Kubernetes DaemonSets]] - Ein Pod pro Node
+- [[02 - RESOURCES/Notes/Kubernetes StatefulSets\|Kubernetes StatefulSets]] - Für Stateful Apps
+- [[02 - RESOURCES/Notes/Kubernetes DaemonSets\|Kubernetes DaemonSets]] - Ein Pod pro Node

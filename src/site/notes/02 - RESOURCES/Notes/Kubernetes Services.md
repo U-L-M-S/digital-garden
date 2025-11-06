@@ -477,7 +477,7 @@ nslookup headless-service
 ```
 
 **Use Cases:**
-- [[Kubernetes StatefulSets\|StatefulSets]] (individuelle Pod-Adressierung)
+- [[02 - RESOURCES/Notes/Kubernetes StatefulSets\|StatefulSets]] (individuelle Pod-Adressierung)
 - Clustered Datenbanken (Cassandra, Elasticsearch)
 - Custom Load Balancing
 

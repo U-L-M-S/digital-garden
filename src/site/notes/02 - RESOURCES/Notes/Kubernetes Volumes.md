@@ -622,6 +622,6 @@ kubectl get pvc
 
 - [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]] - Hauptnotiz
 - [[02 - RESOURCES/Notes/Kubernetes Pods\|Kubernetes Pods]] - Verwenden Volumes
-- [[Kubernetes StatefulSets\|Kubernetes StatefulSets]] - Persistent Storage
+- [[02 - RESOURCES/Notes/Kubernetes StatefulSets\|Kubernetes StatefulSets]] - Persistent Storage
 - [[02 - RESOURCES/Notes/Kubernetes ConfigMaps\|Kubernetes ConfigMaps]] - Als Volume
 - [[02 - RESOURCES/Notes/Kubernetes Secrets\|Kubernetes Secrets]] - Als Volume
