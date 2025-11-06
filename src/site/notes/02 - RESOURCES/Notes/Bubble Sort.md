@@ -56,7 +56,7 @@ def bubblesort(arr):
     return arr
 ```
 
-### [[00 - PROJECTS/C Sprache\|C Sprache]]
+### [[02 - RESOURCES/Notes/C Sprache\|C Sprache]]
 ```c
 #include <stdio.h>
 

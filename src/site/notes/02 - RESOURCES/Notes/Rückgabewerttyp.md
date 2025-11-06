@@ -6,7 +6,7 @@
 >>Er definiert, was eine [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] dem Aufrufer „zurückgibt“ (z.B. eine Zahl, ein Text, ein Objekt usw.).
 
 ### 1. **Grundlegendes zum Rückgabewerttyp**
-Jede [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] in Sprachen wie [[02 - RESOURCES/Notes/Java\|Java]], C++, oder [[00 - PROJECTS/C Sharp\|C Sharp]] muss, wenn sie einen Wert zurückgeben soll, einen **Rückgabewerttyp** angeben. Der Rückgabewert ist das Ergebnis der [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]]. In einigen Fällen gibt eine [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] nichts zurück, in solchen Fällen wird in vielen Sprachen `void` verwendet.
+Jede [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] in Sprachen wie [[02 - RESOURCES/Notes/Java\|Java]], C++, oder [[02 - RESOURCES/Notes/C Sharp\|C Sharp]] muss, wenn sie einen Wert zurückgeben soll, einen **Rückgabewerttyp** angeben. Der Rückgabewert ist das Ergebnis der [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]]. In einigen Fällen gibt eine [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] nichts zurück, in solchen Fällen wird in vielen Sprachen `void` verwendet.
 
 ### 2. **Varianten des Rückgabewerttyps**
 Je nach Programmiersprache und [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] können unterschiedliche Typen zurückgegeben werden:

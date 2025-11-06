@@ -21,7 +21,7 @@ public MyClass{
 
 # [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]
 
-Wie in jede Computersprache enthält [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n und ihre Syntax is ganz ähnlich wie bei [[00 - PROJECTS/C Sprache\|C Sprache]].
+Wie in jede Computersprache enthält [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n und ihre Syntax is ganz ähnlich wie bei [[02 - RESOURCES/Notes/C Sprache\|C Sprache]].
 Also man muss auf die [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]en aufpassen wenn man [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n initialisiert oder deklariert.
 
 ```java

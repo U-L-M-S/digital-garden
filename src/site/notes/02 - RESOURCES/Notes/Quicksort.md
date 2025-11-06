@@ -63,7 +63,7 @@ public class Quicksort {
 }
 ```
 
-## [[00 - PROJECTS/C Sprache\|C Sprache]]
+## [[02 - RESOURCES/Notes/C Sprache\|C Sprache]]
 ```C
 #include <stdio.h>
 

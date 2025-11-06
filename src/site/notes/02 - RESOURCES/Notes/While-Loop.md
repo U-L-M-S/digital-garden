@@ -23,7 +23,7 @@ while counter < 5:
     counter += 1
 ```
 
-## [[00 - PROJECTS/C Sharp\|C Sharp]]
+## [[02 - RESOURCES/Notes/C Sharp\|C Sharp]]
 ```csharp
 int counter = 0;
 while (counter < 5) {
@@ -32,7 +32,7 @@ while (counter < 5) {
 }
 ```
 
-## [[00 - PROJECTS/C Sprache\|C Sprache]]
+## [[02 - RESOURCES/Notes/C Sprache\|C Sprache]]
 ```c
 #include <stdio.h>
 
