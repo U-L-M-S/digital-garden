@@ -3128,15 +3128,596 @@ docker volume prune
 
 
 
+>**Docker Networking** erstellt virtuelle Netzwerke damit [[02 - RESOURCES/Notes/Docker Container\|Docker Container]] miteinander kommunizieren können.
+>>Jeder Container bekommt eigene IP-Adresse in seinem Netzwerk - wie ein virtuelles LAN.
 
->[[02 - RESOURCES/Notes/Docker Networking\|Docker Networking]] erstellt virtuelle [[Netzwerke\|Netzwerke]] damit [[02 - RESOURCES/Notes/Docker Container\|Docker Container]] miteinander kommunizieren können.
->>Jeder [[02 - RESOURCES/Notes/Docker Container\|Docker Container]] bekommt eigene [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]] in seinem [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] - wie ein virtuelles LAN.
+---
 
->[!info] Netzwerk Modi
->- **Bridge** - Standard, [[02 - RESOURCES/Notes/Docker Container\|Docker Container]] auf gleicher Maschine
->- **Host** - Nutzt Host [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] direkt
->- **None** - Kein [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]], komplette Isolation
->- **Overlay** - Multi-Host für [[02 - RESOURCES/Notes/Docker Swarm\|Docker Swarm]]
+# Visualisierung: Docker Netzwerk-Typen
+
+```
+DOCKER NETWORK MODES:
+┌─────────────────────────────────────────────────────────┐
+│                    HOST SYSTEM                           │
+│                                                          │
+│  ┌──────────────────────────────────────────────────┐  │
+│  │  BRIDGE NETWORK (Standard)                       │  │
+│  │  ┌──────────┐  ┌──────────┐  ┌──────────┐       │  │
+│  │  │Container │  │Container │  │Container │       │  │
+│  │  │ 172.17.0.2  │ 172.17.0.3  │ 172.17.0.4       │  │
+│  │  └─────┬────┘  └─────┬────┘  └─────┬────┘       │  │
+│  │        └──────────────┴──────────────┘           │  │
+│  │              docker0 Bridge                      │  │
+│  └──────────────────────┬───────────────────────────┘  │
+│                         │                              │
+│  ┌──────────────────────┴───────────────────────────┐  │
+│  │  HOST NETWORK (kein Namespace)                   │  │
+│  │  Container nutzt direkt Host-IP                  │  │
+│  └──────────────────────────────────────────────────┘  │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+# Netzwerk-Modi
+
+## Bridge (Standard)
+
+>Container auf gleicher Maschine kommunizieren
+
+```bash
+# Bridge ist Default
+docker run -d --name web1 nginx
+docker run -d --name web2 nginx
+
+# Beide im gleichen bridge-Netzwerk
+# Können aber NICHT per Namen kommunizieren (nur IP)
+```
+
+## Host
+
+>Container nutzt Host-Netzwerk direkt
+
+```bash
+# Direkt auf Host-Netzwerk
+docker run -d --network host nginx
+
+# Kein Port-Mapping nötig!
+# localhost:80 ist direkt erreichbar
+# ⚠️ Port-Konflikte möglich
+```
+
+## None
+
+>Kein Netzwerk - komplett isoliert
+
+```bash
+# Kein Netzwerk
+docker run -d --network none alpine
+
+# Gut für Security oder Offline-Container
+```
+
+## Overlay
+
+>Multi-Host Networking für [[02 - RESOURCES/Notes/Docker Swarm\|Docker Swarm]]
+
+```bash
+# Für Swarm-Cluster
+docker network create --driver overlay myoverlay
+
+# Container auf verschiedenen Hosts können kommunizieren
+```
+
+---
+
+# Custom Bridge Networks
+
+## Warum Custom Network?
+
+```
+DEFAULT BRIDGE:                 CUSTOM BRIDGE:
+Container können nur            Container können per
+per IP kommunizieren            NAMEN kommunizieren! ✅
+
+┌──────────┐                    ┌──────────┐
+│ web      │                    │ web      │
+│ 172.17.0.2│──┐              │  │          │──┐
+└──────────┘  │                └──────────┘  │
+              │                              │
+┌──────────┐  │                ┌──────────┐  │
+│ db       │  │                │ db       │  │
+│ 172.17.0.3│◄─┘              │          │◄─┘
+└──────────┘                    └──────────┘
+Verbindung:                     Verbindung:
+172.17.0.3:5432 ❌             db:5432 ✅
+```
+
+## Custom Network erstellen
+
+```bash
+# Bridge Netzwerk erstellen
+docker network create mynetwork
+
+# Mit spezifischen Einstellungen
+docker network create \
+  --driver bridge \
+  --subnet 172.20.0.0/16 \
+  --gateway 172.20.0.1 \
+  mynetwork
+
+# Container im Netzwerk starten
+docker run -d \
+  --name web \
+  --network mynetwork \
+  nginx
+
+docker run -d \
+  --name db \
+  --network mynetwork \
+  postgres
+
+# Im web-Container kann jetzt:
+# curl http://db:5432  ← Per Name! ✅
+```
+
+---
+
+# Network Management
+
+## Netzwerke anzeigen
+
+```bash
+# Alle Netzwerke
+docker network ls
+
+# Output:
+# NETWORK ID     NAME       DRIVER    SCOPE
+# abc123...      bridge     bridge    local
+# def456...      host       host      local
+# ghi789...      none       null      local
+# jkl012...      mynetwork  bridge    local
+
+# Netzwerk Details
+docker network inspect mynetwork
+# Zeigt: Connected Container, Subnet, Gateway, IP-Adressen
+```
+
+## Container zu Netzwerk hinzufügen
+
+```bash
+# Laufenden Container zu Netzwerk hinzufügen
+docker network connect mynetwork web
+
+# Container kann jetzt in BEIDEN Netzwerken sein!
+
+# Von Netzwerk trennen
+docker network disconnect mynetwork web
+```
+
+## Netzwerk löschen
+
+```bash
+# Netzwerk löschen (keine Container verbunden)
+docker network rm mynetwork
+
+# Unbenutzte Netzwerke aufräumen
+docker network prune
+```
+
+---
+
+# Port-Mapping
+
+## Basics
+
+```bash
+# Port weiterleiten (Host:Container)
+docker run -d -p 8080:80 nginx
+# localhost:8080 → Container Port 80
+
+# Mehrere Ports
+docker run -d \
+  -p 8080:80 \
+  -p 8443:443 \
+  nginx
+
+# Nur auf localhost binden
+docker run -d -p 127.0.0.1:8080:80 nginx
+
+# Alle Ports automatisch
+docker run -d -P nginx
+# Docker wählt zufällige Host-Ports
+```
+
+## Port-Ranges
+
+```bash
+# Port-Range
+docker run -d -p 8080-8090:8080-8090 myapp
+
+# UDP Ports
+docker run -d -p 5000:5000/udp myapp
+
+# TCP und UDP
+docker run -d \
+  -p 5000:5000/tcp \
+  -p 5000:5000/udp \
+  myapp
+```
+
+## Ports finden
+
+```bash
+# Welche Ports sind gemappt?
+docker port container-name
+
+# Output:
+# 80/tcp -> 0.0.0.0:8080
+# 443/tcp -> 0.0.0.0:8443
+```
+
+---
+
+# Container-Kommunikation
+
+## Per Namen (Custom Network)
+
+```bash
+# Netzwerk erstellen
+docker network create webnet
+
+# Container starten
+docker run -d \
+  --name api \
+  --network webnet \
+  -e DATABASE_URL=postgres://db:5432/mydb \
+  myapi
+
+docker run -d \
+  --name db \
+  --network webnet \
+  postgres
+
+# Im api-Container:
+# ping db  ← Funktioniert! ✅
+# curl http://db:5432  ← Per Name!
+```
+
+## Per IP (Default Bridge)
+
+```bash
+# Container IP finden
+docker inspect -f '{{.NetworkSettings.IPAddress}}' db
+# Output: 172.17.0.3
+
+# Im anderen Container:
+docker exec api curl http://172.17.0.3:5432
+```
+
+## Links (Deprecated)
+
+```bash
+# Alte Methode (nicht empfohlen)
+docker run -d --name db postgres
+docker run -d --link db:database myapp
+
+# Besser: Custom Network verwenden!
+```
+
+---
+
+# Praktisches Beispiel: LAMP Stack
+
+```bash
+# Custom Network
+docker network create lamp-net
+
+# MySQL
+docker run -d \
+  --name mysql \
+  --network lamp-net \
+  -e MYSQL_ROOT_PASSWORD=secret \
+  -e MYSQL_DATABASE=myapp \
+  mysql:8.0
+
+# PHP-Apache
+docker run -d \
+  --name web \
+  --network lamp-net \
+  -p 8080:80 \
+  -v $(pwd)/html:/var/www/html \
+  php:apache
+
+# Im PHP Code:
+# $conn = mysqli_connect("mysql", "root", "secret", "myapp");
+#                         ↑ Hostname = Container-Name!
+```
+
+---
+
+# Docker Compose Networking
+
+## Automatisches Netzwerk
+
+```yaml
+version: '3.8'
+
+services:
+  web:
+    image: nginx
+    ports:
+      - "8080:80"
+
+  api:
+    image: node:16
+    # Kann web per Namen erreichen!
+
+  db:
+    image: postgres
+    # Kann api und web per Namen erreichen!
+
+# Compose erstellt automatisch ein Netzwerk!
+# Alle Services können sich per Namen erreichen
+```
+
+## Custom Networks in Compose
+
+```yaml
+version: '3.8'
+
+services:
+  web:
+    image: nginx
+    networks:
+      - frontend
+
+  api:
+    image: node:16
+    networks:
+      - frontend
+      - backend
+
+  db:
+    image: postgres
+    networks:
+      - backend
+
+networks:
+  frontend:
+    driver: bridge
+  backend:
+    driver: bridge
+    internal: true  # Kein Zugriff von außen!
+```
+
+**Ergebnis:**
+- `web` kann `api` erreichen (beide in frontend)
+- `api` kann `db` erreichen (beide in backend)
+- `web` kann `db` NICHT erreichen (verschiedene Netzwerke)
+
+---
+
+# DNS & Service Discovery
+
+## Automatisches DNS
+
+```
+DOCKER EMBEDDED DNS:
+┌────────────────────────────────────┐
+│  Custom Network                    │
+│                                    │
+│  Container: web                    │
+│  ├─ Hostname: web                  │
+│  ├─ IP: 172.20.0.2                 │
+│  └─ DNS: 127.0.0.11 (Docker DNS)   │
+│                                    │
+│  Container: db                     │
+│  ├─ Hostname: db                   │
+│  ├─ IP: 172.20.0.3                 │
+│  └─ DNS: 127.0.0.11 (Docker DNS)   │
+│                                    │
+│  DNS Resolver:                     │
+│  web → 172.20.0.2 ✅               │
+│  db  → 172.20.0.3 ✅               │
+└────────────────────────────────────┘
+```
+
+## Alias Names
+
+```bash
+# Container mit Alias
+docker run -d \
+  --name mydb \
+  --network mynet \
+  --network-alias database \
+  --network-alias mysql \
+  postgres
+
+# Erreichbar per:
+# - mydb
+# - database
+# - mysql
+```
+
+---
+
+# Network Security
+
+## Internal Networks
+
+```bash
+# Internes Netzwerk (kein Internet-Zugang)
+docker network create \
+  --internal \
+  backend-net
+
+docker run -d \
+  --name secure-db \
+  --network backend-net \
+  postgres
+
+# DB hat kein Internet! Sicherer! ✅
+```
+
+## Network Encryption (Overlay)
+
+```bash
+# Encrypted Overlay Network
+docker network create \
+  --driver overlay \
+  --opt encrypted \
+  secure-overlay
+
+# Traffic zwischen Hosts ist verschlüsselt
+```
+
+---
+
+# Troubleshooting
+
+## Container können sich nicht erreichen
+
+```bash
+# Problem: Container in verschiedenen Netzwerken
+
+# Lösung 1: Gleiches Netzwerk
+docker network connect mynet container1
+docker network connect mynet container2
+
+# Lösung 2: Docker Compose (automatisch gleiches Netz)
+```
+
+## DNS funktioniert nicht
+
+```bash
+# Problem: Default bridge hat kein DNS
+
+# Lösung: Custom Network verwenden
+docker network create mynet
+docker run --network mynet ...
+```
+
+## Port-Konflikte
+
+```bash
+# Problem: "port is already allocated"
+
+# Lösung 1: Anderen Port
+docker run -p 8081:80 nginx  # Statt 8080
+
+# Lösung 2: Container stoppen
+docker ps | grep 8080
+docker stop conflicting-container
+```
+
+---
+
+# Network Performance
+
+## Bridge vs Host
+
+```
+BRIDGE NETWORK:               HOST NETWORK:
+Container → docker0           Container → Host-Stack
+  → iptables                  (Direkt)
+  → Host
+Overhead: ~5%                 Overhead: ~0%
+
+Für Production mit hohem      Nur wenn maximale
+Traffic: Bridge ok           Performance nötig!
+```
+
+## Macvlan (Advanced)
+
+```bash
+# Container bekommt eigene MAC-Adresse
+docker network create -d macvlan \
+  --subnet=192.168.1.0/24 \
+  --gateway=192.168.1.1 \
+  -o parent=eth0 \
+  macvlan-net
+
+# Container erscheint als physisches Gerät im Netzwerk
+```
+
+---
+
+# Best Practices
+
+>[!tip] Network Best Practices
+
+**1. Custom Networks verwenden**
+```bash
+# ✅ Gut
+docker network create mynet
+docker run --network mynet ...
+
+# ❌ Schlecht - Default bridge
+docker run ...  # Kein DNS!
+```
+
+**2. Network Segmentation**
+```yaml
+# Frontend und Backend trennen
+networks:
+  frontend:
+  backend:
+    internal: true  # Kein Internet
+```
+
+**3. Port-Exposition minimieren**
+```bash
+# ✅ Nur notwendige Ports
+-p 80:80
+
+# ❌ Alle Ports
+-P  # Nicht in Production!
+```
+
+**4. DNS Namen verwenden**
+```bash
+# ✅ Gut
+DATABASE_URL=postgres://db:5432/mydb
+
+# ❌ Schlecht - hardcoded IP
+DATABASE_URL=postgres://172.17.0.3:5432/mydb
+```
+
+---
+
+# Zusammenfassung
+
+>[!summary] Docker Networking Kernpunkte
+>- **Bridge**: Standard, Container-Kommunikation
+>- **Host**: Container nutzt Host-Netzwerk direkt
+>- **Custom Networks**: DNS-basierte Kommunikation per Namen
+>- **Port-Mapping**: `-p Host:Container`
+>- **Isolation**: Verschiedene Networks = Isolation
+>- **Service Discovery**: Automatisches DNS in Custom Networks
+
+>[!tip] Quick Reference
+>```bash
+># Network erstellen
+>docker network create mynet
+>
+># Container starten
+>docker run --network mynet --name web nginx
+>docker run --network mynet --name db postgres
+>
+># Im web-Container:
+># curl http://db:5432  ← Per Name!
+>```
+
+---
+
+# Verwandte Konzepte
+
+- [[02 - RESOURCES/Notes/Docker\|Docker]] - Hauptnotiz
+- [[02 - RESOURCES/Notes/Docker Container\|Docker Container]] - Container brauchen Networking
+- [[02 - RESOURCES/Notes/Docker Compose\|Docker Compose]] - Automatisches Networking
+- [[02 - RESOURCES/Notes/Docker Swarm\|Docker Swarm]] - Overlay Networks für Cluster
+
 
 </div></div>
 
@@ -3165,15 +3746,466 @@ docker volume prune
 
 
 
+>**Docker Hub** ist die öffentliche [[02 - RESOURCES/Notes/Docker Registry\|Docker Registry]] von Docker Inc.
+>>Größte Sammlung von Docker Images - wie der App Store für Container.
 
->[[02 - RESOURCES/Notes/Docker Hub\|Docker Hub]] ist die öffentliche [[02 - RESOURCES/Notes/Docker Registry\|Docker Registry]] von Docker Inc.
->>Größte Sammlung von [[02 - RESOURCES/Notes/Docker Image\|Docker Image]]s - wie der App Store für [[02 - RESOURCES/Notes/Docker Container\|Docker Container]].
+---
 
->[!info] Features
->- **Kostenlose öffentliche [[Images\|Images]]**
->- **Private Repositories** (begrenzt kostenlos)
->- **Official Images** - Von Docker verifiziert
->- **Automated Builds** - Automatische [[Image\|Image]] Erstellung
+# Was ist Docker Hub?
+
+>Docker Hub ist die zentrale Registry für Docker Images - kostenlos für öffentliche Images.
+
+**Features:**
+- 🆓 **Kostenlos** für öffentliche Images
+- 🔒 **Private Repositories** (1 kostenlos, mehr kostenpflichtig)
+- ✅ **Official Images** - Von Docker verifiziert
+- 🤖 **Automated Builds** - Automatischer Build aus GitHub
+- 👥 **Teams & Organizations** - Kollaboration
+- 📊 **Analytics** - Download-Statistiken
+
+**URL:** https://hub.docker.com
+
+---
+
+# Docker Hub Account
+
+## Registrierung
+
+```bash
+# 1. Account erstellen auf hub.docker.com
+
+# 2. Anmelden
+docker login
+
+# Login mit Username/Password:
+# Username: maxmustermann
+# Password: ********
+# Login Succeeded
+
+# Mit Token (empfohlen)
+docker login -u maxmustermann -p <access-token>
+
+# Status prüfen
+docker info | grep Username
+```
+
+## Ausloggen
+
+```bash
+# Ausloggen
+docker logout
+
+# Von spezifischer Registry
+docker logout registry.example.com
+```
+
+---
+
+# Images suchen
+
+## Über CLI
+
+```bash
+# Images suchen
+docker search nginx
+
+# Output:
+# NAME                      DESCRIPTION                     STARS   OFFICIAL
+# nginx                     Official build of Nginx.        15000   [OK]
+# jwilder/nginx-proxy      Automated nginx proxy           2000
+# bitnami/nginx            Bitnami nginx image             500
+
+# Mit Limit
+docker search --limit 5 postgres
+
+# Nach Official Images filtern
+docker search --filter "is-official=true" nginx
+
+# Nach Stars filtern
+docker search --filter "stars=100" nginx
+```
+
+## Über Web
+
+```
+https://hub.docker.com
+
+Suche nach:
+- Official Images (von Docker verifiziert)
+- Verified Publisher (von Firmen verifiziert)
+- Community Images (von Usern)
+```
+
+---
+
+# Images herunterladen
+
+```bash
+# Latest Version
+docker pull nginx
+docker pull nginx:latest
+
+# Spezifische Version
+docker pull nginx:1.21
+docker pull postgres:14
+docker pull node:16-alpine
+
+# Vollständiger Name
+docker pull docker.io/nginx:latest
+#           ↑ Registry  ↑ Image  ↑ Tag
+
+# Von anderem User
+docker pull username/myimage:latest
+
+# Multi-Arch Images
+docker pull --platform linux/amd64 nginx
+docker pull --platform linux/arm64 nginx
+```
+
+---
+
+# Eigene Images hochladen
+
+## Image vorbereiten
+
+```bash
+# 1. Image bauen oder taggen
+docker build -t myapp:1.0 .
+
+# 2. Mit Username taggen (WICHTIG!)
+docker tag myapp:1.0 username/myapp:1.0
+docker tag myapp:1.0 username/myapp:latest
+
+# Naming Convention:
+# <username>/<repository>:<tag>
+```
+
+## Image pushen
+
+```bash
+# Bei Docker Hub angemeldet sein!
+docker login
+
+# Image hochladen
+docker push username/myapp:1.0
+docker push username/myapp:latest
+
+# Alle Tags pushen
+docker push username/myapp --all-tags
+
+# Output zeigt Upload-Fortschritt:
+# The push refers to repository [docker.io/username/myapp]
+# abc123: Pushed
+# def456: Pushed
+# 1.0: digest: sha256:abc... size: 1234
+```
+
+---
+
+# Repositories verwalten
+
+## Public Repository
+
+```bash
+# Public Repo erstellen (über Web oder automatisch beim Push)
+
+# Jeder kann pullen:
+docker pull username/myapp:latest
+
+# Kostenlos, unbegrenzt viele
+```
+
+## Private Repository
+
+```bash
+# Private Repo (über Web erstellen oder beim ersten Push)
+
+# Nur du (und Team-Mitglieder) können pullen
+docker pull username/private-app:latest
+# Erfordert: docker login
+
+# Kostenlos: 1 private Repo
+# Kostenpflichtig: Mehr private Repos
+```
+
+---
+
+# Official Images
+
+>Von Docker geprüft und optimiert
+
+```bash
+# Erkennbar am "Official Image" Badge
+
+# Beliebte Official Images:
+docker pull nginx          # Web Server
+docker pull postgres       # Datenbank
+docker pull redis          # Cache
+docker pull node           # JavaScript Runtime
+docker pull python         # Python Runtime
+docker pull mysql          # Datenbank
+docker pull mongo          # NoSQL DB
+docker pull ubuntu         # OS
+docker pull alpine         # Minimal OS
+```
+
+**Vorteile:**
+- ✅ Sicher und geprüft
+- ✅ Best Practices
+- ✅ Regelmäßig aktualisiert
+- ✅ Gut dokumentiert
+
+---
+
+# Verified Publisher
+
+>Von Firmen verifiziert
+
+```bash
+# Beispiele:
+docker pull bitnami/nginx
+docker pull gitlab/gitlab-ce
+docker pull microsoft/mssql-server-linux
+
+# Erkennbar am "Verified Publisher" Badge
+```
+
+---
+
+# Automated Builds
+
+## GitHub Integration
+
+```yaml
+# 1. Repository auf hub.docker.com erstellen
+# 2. GitHub Account verknüpfen
+# 3. Automated Build aktivieren
+
+# Bei jedem Git-Push:
+# → Docker Hub baut automatisch neues Image
+# → Tag basiert auf Git-Branch/Tag
+
+# Beispiel:
+# Git Tag: v1.0   → Image Tag: 1.0
+# Git Branch: main → Image Tag: latest
+```
+
+---
+
+# Praktisches Beispiel
+
+## Image erstellen und teilen
+
+```bash
+# 1. Dockerfile erstellen
+cat > Dockerfile <<EOF
+FROM nginx:alpine
+COPY index.html /usr/share/nginx/html/
+EOF
+
+# 2. HTML Datei
+echo "<h1>My Docker Image</h1>" > index.html
+
+# 3. Image bauen
+docker build -t mywebsite:1.0 .
+
+# 4. Mit Username taggen
+docker tag mywebsite:1.0 maxmustermann/mywebsite:1.0
+docker tag mywebsite:1.0 maxmustermann/mywebsite:latest
+
+# 5. Anmelden
+docker login
+
+# 6. Hochladen
+docker push maxmustermann/mywebsite:1.0
+docker push maxmustermann/mywebsite:latest
+
+# 7. Von überall abrufbar!
+docker pull maxmustermann/mywebsite:latest
+docker run -d -p 8080:80 maxmustermann/mywebsite:latest
+```
+
+---
+
+# Tagging Strategie
+
+## Semantic Versioning
+
+```bash
+# Version Tags
+docker tag myapp username/myapp:1.0.0
+docker tag myapp username/myapp:1.0
+docker tag myapp username/myapp:1
+docker tag myapp username/myapp:latest
+
+# Push alle
+docker push username/myapp --all-tags
+
+# User können wählen:
+# docker pull username/myapp:latest    # Neueste
+# docker pull username/myapp:1         # Major Version 1
+# docker pull username/myapp:1.0       # Minor Version 1.0
+# docker pull username/myapp:1.0.0     # Exact Version
+```
+
+## Environment Tags
+
+```bash
+# Development
+docker tag myapp username/myapp:dev
+
+# Staging
+docker tag myapp username/myapp:staging
+
+# Production
+docker tag myapp username/myapp:prod
+docker tag myapp username/myapp:latest
+```
+
+---
+
+# Image Beschreibung & README
+
+```markdown
+# README auf Docker Hub
+
+Über Web-Interface editierbar:
+- Beschreibung
+- Verwendung
+- Umgebungsvariablen
+- Beispiele
+- Links
+
+Unterstützt Markdown!
+```
+
+---
+
+# Docker Hub Limits
+
+## Pull Rate Limits
+
+```
+ANONYMOUS:          100 pulls / 6 Stunden
+FREE ACCOUNT:       200 pulls / 6 Stunden
+PRO/TEAM:          Unlimited
+
+Pro IP-Adresse!
+```
+
+```bash
+# Limit prüfen
+curl -s "https://auth.docker.io/token?service=registry.docker.io&scope=repository:ratelimitpreview/test:pull" | \
+  jq -r '.token' | \
+  xargs -I {} curl -s -H "Authorization: Bearer {}" https://registry-1.docker.io/v2/ratelimitpreview/test/manifests/latest -I | \
+  grep RateLimit
+
+# Output:
+# ratelimit-limit: 200;w=21600
+# ratelimit-remaining: 195;w=21600
+```
+
+## Workarounds
+
+```bash
+# 1. Anmelden
+docker login  # Höheres Limit
+
+# 2. Private Registry verwenden
+# 3. Caching Proxy einrichten
+# 4. Pro Account kaufen
+```
+
+---
+
+# Best Practices
+
+>[!tip] Docker Hub Best Practices
+
+**1. Spezifische Tags verwenden**
+```bash
+# ✅ Gut
+FROM node:16.14.2-alpine
+
+# ❌ Schlecht - ändert sich!
+FROM node:latest
+```
+
+**2. README pflegen**
+```markdown
+# Ausführliche Beschreibung
+# Verwendungsbeispiele
+# Environment Variables
+# Volumes
+# Ports
+```
+
+**3. Multi-Arch Images**
+```bash
+# Baue für mehrere Plattformen
+docker buildx build --platform linux/amd64,linux/arm64 -t username/myapp:latest .
+```
+
+**4. Image scannen**
+```bash
+# Vulnerabilities prüfen
+docker scout quickview username/myapp:latest
+docker scout cves username/myapp:latest
+```
+
+**5. Automated Builds**
+```bash
+# GitHub Integration für Auto-Builds
+# CI/CD Pipeline einrichten
+```
+
+---
+
+# Alternativen zu Docker Hub
+
+```
+ANDERE PUBLIC REGISTRIES:
+- GitHub Container Registry (ghcr.io)
+- Google Container Registry (gcr.io)
+- Amazon ECR Public (public.ecr.aws)
+- Red Hat Quay.io
+
+PRIVATE REGISTRIES:
+- AWS ECR
+- Google GCR
+- Azure ACR
+- Harbor (Self-hosted)
+- GitLab Container Registry
+```
+
+---
+
+# Zusammenfassung
+
+>[!summary] Docker Hub Kernpunkte
+>- **Zentrale Registry**: Größte Image-Sammlung
+>- **Official Images**: Geprüft und sicher
+>- **Kostenlos**: Public Repos unbegrenzt
+>- **Private Repos**: 1 kostenlos, mehr kostenpflichtig
+>- **Automated Builds**: GitHub Integration
+>- **Rate Limits**: 100-200 pulls/6h
+
+>[!tip] Workflow
+>1. Account erstellen auf hub.docker.com
+>2. `docker login`
+>3. Image mit Username taggen
+>4. `docker push username/image:tag`
+>5. Image ist öffentlich verfügbar!
+
+---
+
+# Verwandte Konzepte
+
+- [[02 - RESOURCES/Notes/Docker\|Docker]] - Hauptnotiz
+- [[02 - RESOURCES/Notes/Docker Image\|Docker Image]] - Images hochladen/herunterladen
+- [[02 - RESOURCES/Notes/Docker Registry\|Docker Registry]] - Private Registries
+- [[02 - RESOURCES/Notes/Dockerfile\|Dockerfile]] - Images bauen für Hub
+
 
 </div></div>
 
