@@ -662,11 +662,11 @@ kubectl apply -f app.yaml -n development
 # Verwandte Konzepte
 
 - [[02 - RESOURCES/Notes/Kubernetes Pods\|Kubernetes Pods]] - Kleinste deploybare Einheit
-- [[Kubernetes Deployments\|Kubernetes Deployments]] - Deklaratives Management
-- [[Kubernetes Services\|Kubernetes Services]] - Load Balancing & Discovery
-- [[Kubernetes Volumes\|Kubernetes Volumes]] - Datenpersistenz
-- [[Kubernetes Networking\|Kubernetes Networking]] - Container-Kommunikation
-- [[Kubernetes Ingress\|Kubernetes Ingress]] - HTTP/HTTPS Routing
+- [[02 - RESOURCES/Notes/Kubernetes Deployments\|Kubernetes Deployments]] - Deklaratives Management
+- [[02 - RESOURCES/Notes/Kubernetes Services\|Kubernetes Services]] - Load Balancing & Discovery
+- [[02 - RESOURCES/Notes/Kubernetes Volumes\|Kubernetes Volumes]] - Datenpersistenz
+- [[02 - RESOURCES/Notes/Kubernetes Networking\|Kubernetes Networking]] - Container-Kommunikation
+- [[02 - RESOURCES/Notes/Kubernetes Ingress\|Kubernetes Ingress]] - HTTP/HTTPS Routing
 - [[Kubernetes kubectl\|Kubernetes kubectl]] - CLI-Tool
 - [[Kubernetes Helm\|Kubernetes Helm]] - Package Manager
 - [[02 - RESOURCES/Notes/Docker\|Docker]] - Container-Technologie

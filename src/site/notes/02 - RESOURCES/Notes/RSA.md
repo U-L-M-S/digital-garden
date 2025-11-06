@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rsa/","tags":["algorithmus","kryptografie/encryption","kryptografie/decryption","sicherheit/it-sicherheit","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T13:43:03.328+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/rsa/","tags":["algorithmus","kryptografie/encryption","kryptografie/decryption","sicherheit/it-sicherheit","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T16:27:12.420+01:00"}
 ---
 
 >**RSA** ist ein [[02 - RESOURCES/Notes/Asymmetrische Verschlüsselung\|asymmetrischer Verschlüsselungsalgorithmus]], der auf der mathematischen Schwierigkeit basiert, große Zahlen in ihre Primfaktoren zu zerlegen.
@@ -417,7 +417,7 @@ gpg --decrypt nachricht.txt.gpg
 
 - [[02 - RESOURCES/Notes/Asymmetrische Verschlüsselung\|Asymmetrische Verschlüsselung]] - Übergeordnetes Konzept
 - [[02 - RESOURCES/Notes/AES\|AES]] - Symmetrische Verschlüsselung
-- [[Digitale Signatur\|Digitale Signatur]] - Authentifizierung mit RSA
+- [[02 - RESOURCES/Notes/Digitale Signatur\|Digitale Signatur]] - Authentifizierung mit RSA
 - [[02 - RESOURCES/Notes/HTTPS\|HTTPS]] - Verwendung von RSA im Web
 - [[Public Key Infrastructure\|Public Key Infrastructure]] - Zertifikatsverwaltung
 - [[Elliptic Curve Cryptography\|Elliptic Curve Cryptography]] - Moderne Alternative

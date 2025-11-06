@@ -352,7 +352,7 @@ def dictionary_attack(url, username, wordlist_file):
 
 - [[Brute-Force-Attacke\|Brute-Force-Attacke]] - Alle Kombinationen durchprobieren
 - [[Rainbow Tables\|Rainbow Tables]] - Vorberechnete Hash-Tabellen
-- [[Passwort-Hashing\|Passwort-Hashing]] - Sichere Passwortspeicherung
+- [[02 - RESOURCES/Notes/Passwort-Hashing\|Passwort-Hashing]] - Sichere Passwortspeicherung
 - [[Zwei-Faktor-Authentifizierung\|Zwei-Faktor-Authentifizierung]] - Zusätzliche Sicherheitsebene
 - [[02 - RESOURCES/Notes/Social Engineering\|Social Engineering]] - Passwörter durch Manipulation erhalten
 
