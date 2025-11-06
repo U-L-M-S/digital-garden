@@ -229,7 +229,7 @@
 # Symbol
 
 ```
-[Use Case A] ────────《include》────────► [Use Case B]
+[Use Case A] ────────<<include>>────────► [Use Case B]
               gestrichelte Linie
               mit <<include>>
 ```
@@ -337,11 +337,11 @@ public void bestellen() {
 
 ```
 Include (IMMER):
-[Bestellen] ──《include》──► [Anmelden]
+[Bestellen] ──<<include>>──► [Anmelden]
    └─► "Bestellen" braucht "Anmelden" IMMER
 
 Extend (OPTIONAL):
-[Bestellen] ◄──《extend》── [Gutschein einlösen]
+[Bestellen] ◄──<<extend>>── [Gutschein einlösen]
    └─► "Gutschein" ist optional bei "Bestellen"
 ```
 
@@ -386,15 +386,15 @@ Extend (OPTIONAL):
 
 **Gute Verwendung:**
 ```
-✅ [Bestellen] ──《include》──► [Bezahlen]
-✅ [Artikel kaufen] ──《include》──► [Anmelden]
-✅ [Dokument drucken] ──《include》──► [Drucker wählen]
+✅ [Bestellen] ──<<include>>──► [Bezahlen]
+✅ [Artikel kaufen] ──<<include>>──► [Anmelden]
+✅ [Dokument drucken] ──<<include>>──► [Drucker wählen]
 ```
 
 **Schlechte Verwendung:**
 ```
-❌ [Bestellen] ──《include》──► [Newsletter abonnieren] (optional!)
-❌ [Suchen] ──《include》──► [Favorit hinzufügen] (optional!)
+❌ [Bestellen] ──<<include>>──► [Newsletter abonnieren] (optional!)
+❌ [Suchen] ──<<include>>──► [Favorit hinzufügen] (optional!)
 ```
 
 ---
@@ -438,7 +438,7 @@ Extend (OPTIONAL):
 # Symbol
 
 ```
-[Use Case A] ◄────────《extend》──────── [Use Case B]
+[Use Case A] ◄────────<<extend>>──────── [Use Case B]
               gestrichelte Linie
               mit <<extend>>
 ```
@@ -469,7 +469,7 @@ Extend (OPTIONAL):
      │
      ↓
 ┌─────────────────┐
-│   Bestellen     │ ◄─────《extend》────── ┌───────────────────┐
+│   Bestellen     │ ◄─────<<extend>>────── ┌───────────────────┐
 └─────────────────┘                         │Gutschein einlösen │
                                             └───────────────────┘
                                             [Extension Point:
@@ -532,7 +532,7 @@ public void bestellen() {
 
 ```
 ┌─────────────────┐
-│  Geld abheben   │ ◄─────《extend》────── ┌───────────────────┐
+│  Geld abheben   │ ◄─────<<extend>>────── ┌───────────────────┐
 └─────────────────┘                         │ Quittung drucken  │
                                             └───────────────────┘
                                             [Extension Point:
@@ -555,7 +555,7 @@ public void bestellen() {
 │                  INCLUDE (IMMER)                        │
 └─────────────────────────────────────────────────────────┘
 
-[Bestellen] ────《include》────► [Anmelden]
+[Bestellen] ────<<include>>────► [Anmelden]
                                     │
                                     └─► MUSS ausgeführt werden
 
@@ -564,7 +564,7 @@ public void bestellen() {
 │                  EXTEND (OPTIONAL)                      │
 └─────────────────────────────────────────────────────────┘
 
-[Bestellen] ◄────《extend》──── [Gutschein einlösen]
+[Bestellen] ◄────<<extend>>──── [Gutschein einlösen]
                                         │
                                         └─► KANN ausgeführt werden
 ```
@@ -645,15 +645,15 @@ public void bestellen() {
 
 **Gute Verwendung:**
 ```
-✅ [Bestellen] ◄──《extend》── [Gutschein einlösen]
-✅ [Suchen] ◄──《extend》── [Filter anwenden]
-✅ [Zahlen] ◄──《extend》── [Rechnung ausdrucken]
+✅ [Bestellen] ◄──<<extend>>── [Gutschein einlösen]
+✅ [Suchen] ◄──<<extend>>── [Filter anwenden]
+✅ [Zahlen] ◄──<<extend>>── [Rechnung ausdrucken]
 ```
 
 **Schlechte Verwendung:**
 ```
-❌ [Bestellen] ◄──《extend》── [Bezahlen] (Pflicht, nicht optional!)
-❌ [Anmelden] ◄──《extend》── [Passwort eingeben] (Pflicht!)
+❌ [Bestellen] ◄──<<extend>>── [Bezahlen] (Pflicht, nicht optional!)
+❌ [Anmelden] ◄──<<extend>>── [Passwort eingeben] (Pflicht!)
 ```
 
 ---
@@ -888,7 +888,7 @@ class Admin extends Benutzer {  // Vererbung!
 │           INCLUDE (BENÖTIGT IMMER)               │
 └──────────────────────────────────────────────────┘
 
-[Bestellen] ────《include》────► [Bezahlen]
+[Bestellen] ────<<include>>────► [Bezahlen]
                    "benötigt"
 
 
@@ -896,7 +896,7 @@ class Admin extends Benutzer {  // Vererbung!
 │           EXTEND (OPTIONAL)                      │
 └──────────────────────────────────────────────────┘
 
-[Bestellen] ◄────《extend》──── [Gutschein einlösen]
+[Bestellen] ◄────<<extend>>──── [Gutschein einlösen]
                    "kann erweitert werden durch"
 ```
 

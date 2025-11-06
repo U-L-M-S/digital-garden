@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-use-case-include/","tags":["uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T13:58:26.229+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-use-case-include/","tags":["uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T16:00:51.965+01:00"}
 ---
 
 >Eine **Include-Beziehung** zeigt, dass ein Use Case einen anderen Use Case **immer** einschließt und benötigt.
@@ -10,7 +10,7 @@
 # Symbol
 
 ```
-[Use Case A] ────────《include》────────► [Use Case B]
+[Use Case A] ────────<<include>>────────► [Use Case B]
               gestrichelte Linie
               mit <<include>>
 ```
@@ -118,11 +118,11 @@ public void bestellen() {
 
 ```
 Include (IMMER):
-[Bestellen] ──《include》──► [Anmelden]
+[Bestellen] ──<<include>>──► [Anmelden]
    └─► "Bestellen" braucht "Anmelden" IMMER
 
 Extend (OPTIONAL):
-[Bestellen] ◄──《extend》── [Gutschein einlösen]
+[Bestellen] ◄──<<extend>>── [Gutschein einlösen]
    └─► "Gutschein" ist optional bei "Bestellen"
 ```
 
@@ -167,15 +167,15 @@ Extend (OPTIONAL):
 
 **Gute Verwendung:**
 ```
-✅ [Bestellen] ──《include》──► [Bezahlen]
-✅ [Artikel kaufen] ──《include》──► [Anmelden]
-✅ [Dokument drucken] ──《include》──► [Drucker wählen]
+✅ [Bestellen] ──<<include>>──► [Bezahlen]
+✅ [Artikel kaufen] ──<<include>>──► [Anmelden]
+✅ [Dokument drucken] ──<<include>>──► [Drucker wählen]
 ```
 
 **Schlechte Verwendung:**
 ```
-❌ [Bestellen] ──《include》──► [Newsletter abonnieren] (optional!)
-❌ [Suchen] ──《include》──► [Favorit hinzufügen] (optional!)
+❌ [Bestellen] ──<<include>>──► [Newsletter abonnieren] (optional!)
+❌ [Suchen] ──<<include>>──► [Favorit hinzufügen] (optional!)
 ```
 
 ---

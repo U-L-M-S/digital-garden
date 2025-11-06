@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-use-case-generalisierung/","tags":["uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T13:58:30.437+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-use-case-generalisierung/","tags":["uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T16:00:26.330+01:00"}
 ---
 
 >**Generalisierung** (auch Vererbung genannt) zeigt eine **"ist-ein"**-Beziehung zwischen Use Cases oder Akteuren.
@@ -200,7 +200,7 @@ class Admin extends Benutzer {  // Vererbung!
 │           INCLUDE (BENÖTIGT IMMER)               │
 └──────────────────────────────────────────────────┘
 
-[Bestellen] ────《include》────► [Bezahlen]
+[Bestellen] ────<<include>>────► [Bezahlen]
                    "benötigt"
 
 
@@ -208,7 +208,7 @@ class Admin extends Benutzer {  // Vererbung!
 │           EXTEND (OPTIONAL)                      │
 └──────────────────────────────────────────────────┘
 
-[Bestellen] ◄────《extend》──── [Gutschein einlösen]
+[Bestellen] ◄────<<extend>>──── [Gutschein einlösen]
                    "kann erweitert werden durch"
 ```
 

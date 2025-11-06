@@ -58,7 +58,7 @@
 >[!fail] Nachteile
 >- **Komplexe Kommunikation** - Services müssen miteinander sprechen
 >- **Verteiltes System** - Schwerer zu debuggen
->- **Mehr Infrastruktur** - Braucht [[02 - RESOURCES/Notes/Docker\|Docker]], [[00 - PROJECTS/kubernetes\|Kubernetes]], etc.
+>- **Mehr Infrastruktur** - Braucht [[02 - RESOURCES/Notes/Docker\|Docker]], [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]], etc.
 >- **Datenkonsistenz** - Schwieriger wenn jeder Service eigene [[02 - RESOURCES/Notes/Datenbank\|Datenbank]] hat
 >- **Mehr Deployment-Aufwand** - Viele Services = viel zu deployen
 
@@ -134,15 +134,15 @@ Client → API Gateway → User-Service
 
 ### Container-Technologie
 
->[!tip] [[02 - RESOURCES/Notes/Docker\|Docker]] und [[00 - PROJECTS/kubernetes\|Kubernetes]]
->[[02 - RESOURCES/Notes/Microservices\|Microservices]] laufen meist in [[02 - RESOURCES/Notes/Docker\|Docker]]-Containern, orchestriert durch [[00 - PROJECTS/kubernetes\|Kubernetes]].
+>[!tip] [[02 - RESOURCES/Notes/Docker\|Docker]] und [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]]
+>[[02 - RESOURCES/Notes/Microservices\|Microservices]] laufen meist in [[02 - RESOURCES/Notes/Docker\|Docker]]-Containern, orchestriert durch [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]].
 
 **[[02 - RESOURCES/Notes/Docker\|Docker]]:**
 - Jeder Service in eigenem Container
 - Isoliert und portabel
 - Einfaches Deployment
 
-**[[00 - PROJECTS/kubernetes\|Kubernetes]]:**
+**[[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]]:**
 - Automatisches Deployment und Skalierung
 - Self-Healing (startet abgestürzte Services neu)
 - Load Balancing
@@ -222,7 +222,7 @@ Client → API Gateway → User-Service
 - [[02 - RESOURCES/Notes/MVC\|MVC]] - Architektur-Pattern
 - [[02 - RESOURCES/Notes/REST API\|REST API]] - Kommunikation zwischen Services
 - [[02 - RESOURCES/Notes/Docker\|Docker]] - Container-Technologie
-- [[00 - PROJECTS/kubernetes\|Kubernetes]] - Orchestrierung
+- [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]] - Orchestrierung
 - [[API Gateway\|API Gateway]] - Einstiegspunkt
 - [[Load Balancing\|Load Balancing]] - Lastverteilung
 - [[02 - RESOURCES/Notes/Cloud\|Cloud]] - [[02 - RESOURCES/Notes/Microservices\|Microservices]] laufen oft in [[02 - RESOURCES/Notes/Cloud\|Cloud]]

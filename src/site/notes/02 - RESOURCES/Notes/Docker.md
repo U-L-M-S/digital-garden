@@ -5046,7 +5046,7 @@ docker network connect netzwerk-name container-name
 # Verwandte Konzepte
 
 - [[02 - RESOURCES/Notes/Containerisierung\|Containerisierung]] - Container-Technologie allgemein
-- [[00 - PROJECTS/kubernetes\|Kubernetes]] - Container-Orchestrierung
+- [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]] - Container-Orchestrierung
 - [[02 - RESOURCES/Notes/Microservices\|Microservices]] - Architektur-Pattern
 - [[CI/CD\|CI/CD]] - Continuous Integration/Deployment
 - [[DevOps\|DevOps]] - Development + Operations

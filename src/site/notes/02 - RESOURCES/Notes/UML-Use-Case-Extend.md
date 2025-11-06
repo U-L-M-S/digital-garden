@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-use-case-extend/","tags":["uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T13:58:28.309+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-use-case-extend/","tags":["uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T16:00:41.449+01:00"}
 ---
 
 >Eine **Extend-Beziehung** zeigt, dass ein Use Case einen anderen Use Case **optional** erweitern kann.
@@ -10,7 +10,7 @@
 # Symbol
 
 ```
-[Use Case A] ◄────────《extend》──────── [Use Case B]
+[Use Case A] ◄────────<<extend>>──────── [Use Case B]
               gestrichelte Linie
               mit <<extend>>
 ```
@@ -41,7 +41,7 @@
      │
      ↓
 ┌─────────────────┐
-│   Bestellen     │ ◄─────《extend》────── ┌───────────────────┐
+│   Bestellen     │ ◄─────<<extend>>────── ┌───────────────────┐
 └─────────────────┘                         │Gutschein einlösen │
                                             └───────────────────┘
                                             [Extension Point:
@@ -104,7 +104,7 @@ public void bestellen() {
 
 ```
 ┌─────────────────┐
-│  Geld abheben   │ ◄─────《extend》────── ┌───────────────────┐
+│  Geld abheben   │ ◄─────<<extend>>────── ┌───────────────────┐
 └─────────────────┘                         │ Quittung drucken  │
                                             └───────────────────┘
                                             [Extension Point:
@@ -127,7 +127,7 @@ public void bestellen() {
 │                  INCLUDE (IMMER)                        │
 └─────────────────────────────────────────────────────────┘
 
-[Bestellen] ────《include》────► [Anmelden]
+[Bestellen] ────<<include>>────► [Anmelden]
                                     │
                                     └─► MUSS ausgeführt werden
 
@@ -136,7 +136,7 @@ public void bestellen() {
 │                  EXTEND (OPTIONAL)                      │
 └─────────────────────────────────────────────────────────┘
 
-[Bestellen] ◄────《extend》──── [Gutschein einlösen]
+[Bestellen] ◄────<<extend>>──── [Gutschein einlösen]
                                         │
                                         └─► KANN ausgeführt werden
 ```
@@ -217,15 +217,15 @@ public void bestellen() {
 
 **Gute Verwendung:**
 ```
-✅ [Bestellen] ◄──《extend》── [Gutschein einlösen]
-✅ [Suchen] ◄──《extend》── [Filter anwenden]
-✅ [Zahlen] ◄──《extend》── [Rechnung ausdrucken]
+✅ [Bestellen] ◄──<<extend>>── [Gutschein einlösen]
+✅ [Suchen] ◄──<<extend>>── [Filter anwenden]
+✅ [Zahlen] ◄──<<extend>>── [Rechnung ausdrucken]
 ```
 
 **Schlechte Verwendung:**
 ```
-❌ [Bestellen] ◄──《extend》── [Bezahlen] (Pflicht, nicht optional!)
-❌ [Anmelden] ◄──《extend》── [Passwort eingeben] (Pflicht!)
+❌ [Bestellen] ◄──<<extend>>── [Bezahlen] (Pflicht, nicht optional!)
+❌ [Anmelden] ◄──<<extend>>── [Passwort eingeben] (Pflicht!)
 ```
 
 ---
