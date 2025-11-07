@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-sequenzdiagramme/","tags":["uml/sequenzdiagramme","ausbildung/gfn/ap1/vorbereitung","informatik/softwareentwicklung"],"noteIcon":"","updated":"2025-11-06T12:00:56.107+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-sequenzdiagramme/","tags":["uml/sequenzdiagramme","ausbildung/gfn/ap1/vorbereitung","informatik/softwareentwicklung"],"noteIcon":"","updated":"2025-11-07T15:10:47.375+01:00"}
 ---
 
 >Ein **Sequenzdiagramm** ist ein [[02 - RESOURCES/Notes/UML\|UML]]-Diagramm, das die zeitliche Abfolge von Nachrichten zwischen mehreren Objekten oder Akteuren darstellt.

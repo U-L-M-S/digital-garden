@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/observer/","tags":["design-patterns/verhalten","oop/benachrichtigung"],"noteIcon":"","updated":"2025-10-29T12:59:08.771+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/observer/","tags":["design-patterns/verhalten","oop/benachrichtigung"],"noteIcon":"","updated":"2025-11-07T15:10:46.272+01:00"}
 ---
 
 

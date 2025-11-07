@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/planen-eines-softwareproduktes/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-06T11:12:55.360+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/planen-eines-softwareproduktes/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-07T15:17:03.848+01:00"}
 ---
 
 
@@ -48,7 +48,7 @@ ___
 
 ___
 
-## [[Softwarearchitektur\|Softwarearchitektur]]
+## [[02 - RESOURCES/Notes/Softwarearchitektur\|Softwarearchitektur]]
 >Die Architektur ist das Grundgerüst deiner [[02 - RESOURCES/Notes/Software\|Software]] - wie Räume in einem Haus verteilt sind.
 
 ### [[02 - RESOURCES/Notes/MVC\|MVC]] - Model View Controller
@@ -92,10 +92,10 @@ ___
 - Logger
 - Konfigurations-Manager
 
-### [[Factory Pattern\|Factory Pattern]]
+### [[02 - RESOURCES/Notes/Factory\|Factory-Pattern]]
 >Erstellt [[02 - RESOURCES/Notes/Java Objekt\|Objekte]] ohne die genaue [[02 - RESOURCES/Notes/Java klasse\|Klasse]] zu kennen - wie eine Fabrik die Produkte herstellt.
 
-### [[Observer Pattern\|Observer Pattern]]
+### [[02 - RESOURCES/Notes/Observer\|Observer-Pattern]]
 >Ein [[02 - RESOURCES/Notes/Java Objekt\|Objekt]] beobachtet andere und wird benachrichtigt bei Änderungen.
 
 **Beispiel:** Newsletter-System - Abonnenten werden informiert bei neuen Artikeln
@@ -137,7 +137,7 @@ ___
 - **Anwendungsfall** - Ovale mit Verben ("Geld abheben")
 - **System-Grenze** - Rechteck um alle Anwendungsfälle
 
-### [[UML-Sequenzdiagramm\|UML-Sequenzdiagramm]]
+### [[02 - RESOURCES/Notes/UML-Sequenzdiagramme\|UML-Sequenzdiagramme]]
 >Zeigt zeitliche Abläufe - wie Objekte miteinander kommunizieren.
 
 **Elemente:**
@@ -156,7 +156,7 @@ ___
 
 ___
 
-## [[Softwarequalität\|Softwarequalität]]
+## [[02 - RESOURCES/Notes/Softwarequalität\|Softwarequalität]]
 >Qualität bedeutet: Die [[02 - RESOURCES/Notes/Software\|Software]] tut was sie soll - zuverlässig, sicher und benutzerfreundlich.
 
 ### ISO 25010 Qualitätskriterien
@@ -445,7 +445,7 @@ ___
 |---------|---------|
 | Network Attached Storage | Storage Area Network |
 | Datei-basiert | Block-basiert |
-| Über Netzwerk wie ein Ordner | Wie eine lokale [[Festplatte\|Festplatte]] |
+| Über Netzwerk wie ein Ordner | Wie eine lokale [[02 - RESOURCES/Notes/Festplatte\|Festplatte]] |
 | Einfacher einzurichten | Schneller und professioneller |
 
 ### [[02 - RESOURCES/Notes/Cloud\|Cloud]] vs [[02 - RESOURCES/Notes/On-Premises\|On-Premises]]

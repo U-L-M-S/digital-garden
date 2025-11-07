@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/factory/","tags":["design-patterns/erzeugung","oop/objekterstellung"],"noteIcon":"","updated":"2025-10-29T12:59:05.993+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/factory/","tags":["design-patterns/erzeugung","oop/objekterstellung"],"noteIcon":"","updated":"2025-11-07T15:10:45.182+01:00"}
 ---
 
 
