@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-03-clients-in-netzwerk-einbinden/","tags":["informatik/netzwerk","GFN/LF03","finished"],"noteIcon":"","updated":"2025-11-07T10:14:28.028+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-03-clients-in-netzwerk-einbinden/","tags":["informatik/netzwerk","GFN/LF03","finished"],"noteIcon":"","updated":"2025-11-07T12:07:27.300+01:00"}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
@@ -411,7 +411,7 @@ Gleichzeitiger Betrieb von [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[02 - RESOUR
 - [[02 - RESOURCES/Notes/Verfügbarkeit\|Verfügbarkeit]]: Systeme sind erreichbar, wenn gebraucht
 - [[02 - RESOURCES/Notes/Authentizität\|Authentizität]]: Identität ist nachweisbar
 
-## [[00 - PROJECTS/Firewall\|Firewall]]
+## [[02 - RESOURCES/Notes/Firewall 1\|Firewall 1]]
 
 Eine digitale "Brandschutzmauer":
 
