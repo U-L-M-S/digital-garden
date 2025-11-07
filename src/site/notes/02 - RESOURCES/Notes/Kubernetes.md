@@ -667,6 +667,6 @@ kubectl apply -f app.yaml -n development
 - [[02 - RESOURCES/Notes/Kubernetes Volumes\|Kubernetes Volumes]] - Datenpersistenz
 - [[02 - RESOURCES/Notes/Kubernetes Networking\|Kubernetes Networking]] - Container-Kommunikation
 - [[02 - RESOURCES/Notes/Kubernetes Ingress\|Kubernetes Ingress]] - HTTP/HTTPS Routing
-- [[Kubernetes kubectl\|Kubernetes kubectl]] - CLI-Tool
-- [[Kubernetes Helm\|Kubernetes Helm]] - Package Manager
+- [[02 - RESOURCES/Notes/Kubernetes kubectl\|Kubernetes kubectl]] - CLI-Tool
+- [[02 - RESOURCES/Notes/Kubernetes Helm\|Kubernetes Helm]] - Package Manager
 - [[02 - RESOURCES/Notes/Docker\|Docker]] - Container-Technologie

@@ -7,7 +7,7 @@
 
 # I. Das Grundprinzip
 
->Bei [[02 - RESOURCES/Notes/Symmetrische Verschlüsselung\|symmetrischer Verschlüsselung]] gibt es nur EINEN [[Schlüssel\|Schlüssel]] für beide Richtungen: [[02 - RESOURCES/Notes/Verschlüsselung\|Verschlüsselung]] und [[Entschlüsselung\|Entschlüsselung]].
+>Bei [[02 - RESOURCES/Notes/Symmetrische Verschlüsselung\|symmetrischer Verschlüsselung]] gibt es nur EINEN [[Schlüssel\|Schlüssel]] für beide Richtungen: [[02 - RESOURCES/Notes/Verschlüsselung\|Verschlüsselung]] und [[02 - RESOURCES/Notes/Entschlüsselung\|Entschlüsselung]].
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
