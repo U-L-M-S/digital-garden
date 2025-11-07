@@ -65,7 +65,7 @@ ___
 >[!tip]
 >Erst verstehen, was wirklich wehtut (Schadenswirkung), dann Maßnahmen wählen.
 
-# IV. [[00 - PROJECTS/Kryptographie\|Kryptographie]]-Ziele und Basics
+# IV. [[02 - RESOURCES/Notes/Kryptographie\|Kryptographie]]-Ziele und Basics
 >Warum verschlüsseln? Um Schutzziele umzusetzen:
 >>Vertraulichkeit, Integrität, Authentizität/Verbindlichkeit.
 ___

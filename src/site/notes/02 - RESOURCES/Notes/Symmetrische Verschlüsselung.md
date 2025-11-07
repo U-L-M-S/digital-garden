@@ -3,7 +3,7 @@
 ---
 
 >Symmetrische Verschlüsselung ist ein Verfahren, bei dem <mark style="background: #ABF7F7A6;">Sender und Empfänger denselben geheimen Schlüssel verwenden</mark>, um Daten zu verschlüsseln und zu entschlüsseln.
->>Stell dir vor, du und dein Freund habt denselben Tresor-Code - wer den Code kennt, kann den Tresor öffnen UND verschließen. Genau so funktioniert symmetrische [[00 - PROJECTS/Kryptographie\|Kryptographie]].
+>>Stell dir vor, du und dein Freund habt denselben Tresor-Code - wer den Code kennt, kann den Tresor öffnen UND verschließen. Genau so funktioniert symmetrische [[02 - RESOURCES/Notes/Kryptographie\|Kryptographie]].
 
 # I. Das Grundprinzip
 
@@ -271,7 +271,7 @@ AES (2001):
 - Sehr schnell auf CPUs ohne AES-Hardware-Beschleunigung
 - Einfacher zu implementieren als [[02 - RESOURCES/Notes/AES\|AES]]
 - Resistent gegen Timing-Angriffe
-- Verwendet in [[02 - RESOURCES/Notes/TLS\|TLS]], [[WireGuard\|WireGuard]], [[02 - RESOURCES/Notes/ssh\|SSH]]
+- Verwendet in [[02 - RESOURCES/Notes/TLS\|TLS]], [[02 - RESOURCES/Notes/WireGuard\|WireGuard]], [[02 - RESOURCES/Notes/ssh\|SSH]]
 
 # V. Betriebsmodi - Wie verschlüsselt man mehr als einen Block?
 
@@ -554,7 +554,7 @@ key = hashlib.pbkdf2_hmac('sha256', passwort.encode(), salt, 100000, 32)
 
 ## VPN-Tunnel
 
->[[WireGuard\|WireGuard]], [[OpenVPN\|OpenVPN]], [[02 - RESOURCES/Notes/IPSec\|IPsec]] - alle verwenden symmetrische Verschlüsselung für den eigentlichen Datentunnel.
+>[[02 - RESOURCES/Notes/WireGuard\|WireGuard]], [[02 - RESOURCES/Notes/OpenVPN\|OpenVPN]], [[02 - RESOURCES/Notes/IPSec\|IPsec]] - alle verwenden symmetrische Verschlüsselung für den eigentlichen Datentunnel.
 
 **WireGuard-Beispiel:**
 - [[ChaCha20\|ChaCha20]]-Poly1305 für Verschlüsselung
@@ -626,7 +626,7 @@ key = hashlib.pbkdf2_hmac('sha256', passwort.encode(), salt, 100000, 32)
 
 # IX. Verwandte Konzepte
 
-- [[00 - PROJECTS/Kryptographie\|Kryptographie]] - Hauptartikel
+- [[02 - RESOURCES/Notes/Kryptographie\|Kryptographie]] - Hauptartikel
 - [[02 - RESOURCES/Notes/Asymmetrische Verschlüsselung\|Asymmetrische Verschlüsselung]] - Die Alternative mit zwei Schlüsseln
 - [[02 - RESOURCES/Notes/AES\|AES]] - Der wichtigste symmetrische Algorithmus
 - [[Block-Chiffre\|Block-Chiffre]] - Verschlüsselung in Blöcken

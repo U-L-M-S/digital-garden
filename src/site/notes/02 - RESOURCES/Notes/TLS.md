@@ -6,7 +6,7 @@
 > **TLS** (Transport Layer Security) ist ein kryptografisches Protokoll, das sichere Kommunikation über ein Netzwerk ermöglicht, indem es Verschlüsselung, Authentifizierung und Integritätsprüfung bereitstellt.
 >> TLS ist der Nachfolger von SSL (Secure Sockets Layer) und wird heute für HTTPS, E-Mail-Verschlüsselung, VPN und viele andere Anwendungen verwendet.
 >> Das Protokoll arbeitet zwischen der Anwendungs- und Transportschicht und schützt die Datenübertragung vor Abhören, Manipulation und Fälschung.
->> TLS verwendet eine Kombination aus asymmetrischer und symmetrischer [[00 - PROJECTS/Kryptographie\|Kryptographie]] für optimale Sicherheit und Performance.
+>> TLS verwendet eine Kombination aus asymmetrischer und symmetrischer [[02 - RESOURCES/Notes/Kryptographie\|Kryptographie]] für optimale Sicherheit und Performance.
 
 >[!important] Warum TLS wichtig ist
 > TLS schützt **95% des gesamten Web-Traffics** und ist fundamental für:
@@ -901,7 +901,7 @@ Edit → Preferences → Protocols → TLS
 
 # Verwandte Konzepte
 
-- [[00 - PROJECTS/Kryptographie\|Kryptographie]] - Übergeordnetes Konzept
+- [[02 - RESOURCES/Notes/Kryptographie\|Kryptographie]] - Übergeordnetes Konzept
 - [[02 - RESOURCES/Notes/AES\|AES]] - Symmetrische Verschlüsselung in TLS
 - [[02 - RESOURCES/Notes/RSA\|RSA]] - Asymmetrische Verschlüsselung für Zertifikate
 - [[02 - RESOURCES/Notes/Diffie-Hellman\|Diffie-Hellman]] - Schlüsselaustausch in TLS 1.3

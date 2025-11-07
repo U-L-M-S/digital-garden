@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-10-29T12:59:02.332+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-pruefungskatalog-2025/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-07T10:14:28.047+01:00"}
 ---
 
 # 📌 Sichere Themen für die AP2-Prüfung 2025
@@ -89,7 +89,7 @@
     - [[02 - RESOURCES/Notes/Switch\|Switch]], [[02 - RESOURCES/Notes/Bridge\|Bridge]], [[02 - RESOURCES/Notes/Router\|Router]], [[02 - RESOURCES/Notes/Firewall\|Firewall]]
     - 🆕 [[02 - RESOURCES/Notes/Kerberos\|Kerberos]] (Zugriffskontrolle)
 - 🌍 **Netzwerkarten**
-    - [[02 - RESOURCES/Notes/LAN\|LAN]]/[[02 - RESOURCES/Notes/WAN\|WAN]]/[[02 - RESOURCES/Notes/MAN\|MAN]]/[[02 - RESOURCES/Notes/GAN\|GAN]]
+    - [[02 - RESOURCES/Notes/LAN\|LAN]]/[[02 - RESOURCES/Notes/WAN\|WAN]]/[[02 - RESOURCES/Notes/Metropolitan Area Network\|Metropolitan Area Network]]/[[02 - RESOURCES/Notes/GAN\|GAN]]
     - [[02 - RESOURCES/Notes/VLAN\|VLAN]], [[02 - RESOURCES/Notes/VPN\|VPN]], strukturierte Verkabelung
     - [[02 - RESOURCES/Notes/PAN\|PAN]]/[[02 - RESOURCES/Notes/WLAN\|WLAN]]/Mesh, [[02 - RESOURCES/Notes/Bluetooth\|Bluetooth]]
 - 🤝 **Client-Server vs. Peer-to-Peer**

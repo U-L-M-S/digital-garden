@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/asymmetrische-verschluesselung/","tags":["ausbildung/gfn/ap1/vorbereitung","sicherheit/it-sicherheit","sicherheit/kryptografie","kryptografie/verschlüsselung","kryptografie/asymmetrisch"],"noteIcon":"","updated":"2025-11-06T16:19:21.781+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/asymmetrische-verschluesselung/","tags":["ausbildung/gfn/ap1/vorbereitung","sicherheit/it-sicherheit","sicherheit/kryptografie","kryptografie/verschlüsselung","kryptografie/asymmetrisch"],"noteIcon":"","updated":"2025-11-07T10:16:09.326+01:00"}
 ---
 
->Asymmetrische Verschlüsselung ist eine Methode der [[00 - PROJECTS/Kryptographie\|Kryptographie]], bei der <mark style="background: #ABF7F7A6;">zwei verschiedene, mathematisch verbundene Schlüssel verwendet werden</mark>: ein [[öffentlicher Schlüssel\|öffentlicher Schlüssel]] (public key) und ein [[privater Schlüssel\|privater Schlüssel]] (private key).
+>Asymmetrische Verschlüsselung ist eine Methode der [[02 - RESOURCES/Notes/Kryptographie\|Kryptographie]], bei der <mark style="background: #ABF7F7A6;">zwei verschiedene, mathematisch verbundene Schlüssel verwendet werden</mark>: ein [[öffentlicher Schlüssel\|öffentlicher Schlüssel]] (public key) und ein [[privater Schlüssel\|privater Schlüssel]] (private key).
 >>Was mit dem einen [[Schlüssel\|Schlüssel]] verschlüsselt wird, kann nur mit dem anderen entschlüsselt werden - das ist die Magie der asymmetrischen Kryptographie!
 
 # I. Das revolutionäre Konzept
@@ -715,7 +715,7 @@ Wenn alles OK → 🔒 (Grünes Schloss)
 
 # VII. Verwandte Konzepte
 
-- [[00 - PROJECTS/Kryptographie\|Kryptographie]] - Hauptartikel
+- [[02 - RESOURCES/Notes/Kryptographie\|Kryptographie]] - Hauptartikel
 - [[02 - RESOURCES/Notes/Symmetrische Verschlüsselung\|Symmetrische Verschlüsselung]] - Die Alternative mit einem Schlüssel
 - [[02 - RESOURCES/Notes/RSA\|RSA]] - Der wichtigste asymmetrische Algorithmus
 - [[02 - RESOURCES/Notes/ECC\|ECC]] - Moderne Alternative mit kürzeren Schlüsseln

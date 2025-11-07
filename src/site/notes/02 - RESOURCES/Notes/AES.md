@@ -598,7 +598,7 @@ Get-WmiObject Win32_Processor | Select-Object Name, *aes*
 
 # Verwandte Konzepte
 
-- [[00 - PROJECTS/Kryptographie\|Kryptographie]] - Übergeordnetes Konzept
+- [[02 - RESOURCES/Notes/Kryptographie\|Kryptographie]] - Übergeordnetes Konzept
 - [[02 - RESOURCES/Notes/Symmetrische Verschlüsselung\|Symmetrische Verschlüsselung]] - AES ist symmetrisch
 - [[02 - RESOURCES/Notes/RSA\|RSA]] - Asymmetrische Alternative
 - [[02 - RESOURCES/Notes/TLS\|TLS]] - Verwendet AES für sichere Verbindungen

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-03-clients-in-netzwerk-einbinden/","tags":["informatik/netzwerk","GFN/LF03","finished"],"noteIcon":"","updated":"2025-10-29T09:18:50.625+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-03-clients-in-netzwerk-einbinden/","tags":["informatik/netzwerk","GFN/LF03","finished"],"noteIcon":"","updated":"2025-11-07T10:14:28.028+01:00"}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
@@ -50,10 +50,10 @@ Hier wird es clever: Du kannst [[02 - RESOURCES/Notes/physische LANs\|physische 
 
 Das ist wie ein sicherer Tunnel durch das gefährliche Internet. Mit [[02 - RESOURCES/Notes/IP-Tunneling\|IP-Tunneling]] und [[02 - RESOURCES/Notes/Verschlüsselung\|Verschlüsselung]] verbindest du entfernte Standorte sicher miteinander.
 
-### [[02 - RESOURCES/Notes/WAN\|WAN]], [[02 - RESOURCES/Notes/MAN\|MAN]], [[02 - RESOURCES/Notes/GAN\|GAN]]
+### [[02 - RESOURCES/Notes/WAN\|WAN]], [[02 - RESOURCES/Notes/Metropolitan Area Network\|Metropolitan Area Network]], [[02 - RESOURCES/Notes/GAN\|GAN]]
 
 - [[02 - RESOURCES/Notes/WAN\|WAN]]: Weite geografische Bereiche, betrieben von [[02 - RESOURCES/Notes/Providern\|Providern]]
-- [[02 - RESOURCES/Notes/MAN\|MAN]]: Stadtweite Netzwerke
+- [[02 - RESOURCES/Notes/Metropolitan Area Network\|Metropolitan Area Network]]: Stadtweite Netzwerke
 - [[02 - RESOURCES/Notes/GAN\|GAN]]: Globale Vernetzung mehrerer [[02 - RESOURCES/Notes/WAN\|WAN]]s
 
 # II. Datenübertragung verstehen
