@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/entwicklung-und-umsetzung-von-algorithmen/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-06T11:14:43.137+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/entwicklung-und-umsetzung-von-algorithmen/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-10T15:15:29.993+01:00"}
 ---
 
 
@@ -213,7 +213,7 @@ ___
 3. Wiederhole bis sortiert
 
 **Komplexität:**
-- **Best Case:** [[3. Big O(n)\|O(n)]] - bereits sortiert
+- **Best Case:** 3. Big O(n) - bereits sortiert
 - **Average Case:** [[02 - RESOURCES/Notes/6. Big O(n²)\|O(n²)]]
 - **Worst Case:** [[02 - RESOURCES/Notes/6. Big O(n²)\|O(n²)]]
 
