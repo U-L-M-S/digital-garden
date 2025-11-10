@@ -519,7 +519,7 @@ Fläche: 6.0
 - [[02 - RESOURCES/Notes/Java abstrakte Klasse\|Java abstrakte Klasse]]
 - [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]]
 - [[02 - RESOURCES/Notes/UML-Vererbung\|UML-Vererbung]]
-- [[Interface\|Interface]]
+- [[02 - RESOURCES/Notes/Java Interface\|Java Interface]]
 - [[02 - RESOURCES/Notes/Klasse\|Klasse]]
 
 

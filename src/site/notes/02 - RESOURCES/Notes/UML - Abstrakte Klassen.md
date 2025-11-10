@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-abstrakte-klassen/","tags":["uml/klassendiagramm","informatik/oop","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-07T14:47:24.160+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-abstrakte-klassen/","tags":["uml/klassendiagramm","informatik/oop","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-07T15:46:11.181+01:00"}
 ---
 
 >In [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]]en werden **abstrakte Klassen** als Klassen dargestellt, die **nicht direkt instanziiert** werden können und als **Vorlage** für andere Klassen dienen.
@@ -381,5 +381,5 @@ Fläche: 6.0
 - [[02 - RESOURCES/Notes/Java abstrakte Klasse\|Java abstrakte Klasse]]
 - [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]]
 - [[02 - RESOURCES/Notes/UML-Vererbung\|UML-Vererbung]]
-- [[Interface\|Interface]]
+- [[02 - RESOURCES/Notes/Java Interface\|Java Interface]]
 - [[02 - RESOURCES/Notes/Klasse\|Klasse]]
