@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/erm/","tags":["informatik/datenbank","datenmodellierung","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T12:06:34.839+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/erm/","tags":["informatik/datenbank","datenmodellierung","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-10T14:44:29.821+01:00"}
 ---
 
 >Ein **Entity-Relationship-Modell (ERM)** ist ein konzeptionelles Datenbankmodell, das die **Struktur** und **Beziehungen** zwischen Daten visualisiert.
@@ -480,9 +480,373 @@ CREATE TABLE Ausleihe (
 
 - [[Relationale Datenbanken\|Relationale Datenbanken]] - Implementierung von ERM
 - [[02 - RESOURCES/Notes/SQL\|SQL]] - Abfragesprache für Datenbanken
-- [[Normalisierung\|Normalisierung]] - Optimierung von Datenbankstrukturen
+- [[02 - RESOURCES/Notes/Normalisierung\|Normalisierung]] - Optimierung von Datenbankstrukturen
 - [[Fremdschlüssel\|Fremdschlüssel]] - Beziehungen in SQL
 - [[Datenmodellierung\|Datenmodellierung]] - Übergeordnetes Konzept
+
+---
+
+# 🎯 Typische AP2-Prüfungsaufgabe
+
+>[!example] Prüfungsaufgabe: Fahrzeugverwaltung einer Autovermietung
+>**Szenario:** Eine Autovermietung möchte ihre Daten digital verwalten. Folgende Anforderungen sind gegeben:
+>
+>**Gegeben:**
+>- Die Vermietung hat mehrere **Filialen** (mit FilialNr, Adresse, Telefon)
+>- Jede Filiale hat mehrere **Fahrzeuge** (mit FahrzeugNr, Marke, Modell, Baujahr, Tagessatz)
+>- Es gibt **Kunden** (mit KundenNr, Name, Adresse, Führerscheinnummer)
+>- Kunden können Fahrzeuge **mieten** (mit MietNr, Startdatum, Enddatum, Gesamtpreis)
+>- Ein Fahrzeug gehört zu genau einer Filiale
+>- Ein Kunde kann mehrere Mietverträge haben
+>- Ein Fahrzeug kann in mehreren Mietverträgen vorkommen (zu unterschiedlichen Zeiten)
+>- Jede Miete bezieht sich auf genau ein Fahrzeug und genau einen Kunden
+>
+>**Aufgaben:**
+>1. Erstellen Sie ein vollständiges ER-Diagramm
+>2. Markieren Sie alle Primärschlüssel (unterstrichen)
+>3. Geben Sie alle Kardinalitäten an (1:1, 1:N, N:M)
+>4. Kennzeichnen Sie die Attribute korrekt
+>5. Überführen Sie die N:M-Beziehung in ein relationales Modell (mit Zwischentabelle)
+
+---
+
+# 🍳 Kochrezept: ER-Diagramm in 6 Schritten (Visuell)
+
+```
+┌─────────────────────────────────────────────────────────┐
+│ SCHRITT 1: ENTITÄTEN IDENTIFIZIEREN                     │
+├─────────────────────────────────────────────────────────┤
+│ Suche nach: Substantive = "Dinge" über die Daten        │
+│             gespeichert werden sollen                    │
+│                                                          │
+│ Markiere im Text:                                        │
+│  • Filiale     ✓                                         │
+│  • Fahrzeug    ✓                                         │
+│  • Kunde       ✓                                         │
+│  • Miete       ✓ (Zwischenentität!)                      │
+│                                                          │
+│ Zeichne Rechtecke:                                       │
+│  ┌──────────┐  ┌──────────┐  ┌──────────┐              │
+│  │ FILIALE  │  │ FAHRZEUG │  │  KUNDE   │              │
+│  └──────────┘  └──────────┘  └──────────┘              │
+│                                                          │
+│ 📌 TIPP: Nur die WICHTIGEN Substantive!                 │
+│         "Adresse" = Attribut, keine eigene Entität       │
+└─────────────────────────────────────────────────────────┘
+          ↓
+┌─────────────────────────────────────────────────────────┐
+│ SCHRITT 2: PRIMÄRSCHLÜSSEL BESTIMMEN                    │
+├─────────────────────────────────────────────────────────┤
+│ Frage: Wie kann ich JEDE Instanz EINDEUTIG identifizieren?│
+│                                                          │
+│  ┌──────────┐                                           │
+│  │ FILIALE  │                                           │
+│  │──────────│                                           │
+│  │ FilialNr │ ← Primärschlüssel (unterstrichen!)       │
+│  └──────────┘                                           │
+│                                                          │
+│  ┌──────────┐                                           │
+│  │ FAHRZEUG │                                           │
+│  │──────────│                                           │
+│  │FahrzeugNr│ ← Primärschlüssel                         │
+│  └──────────┘                                           │
+│                                                          │
+│  ┌──────────┐                                           │
+│  │  KUNDE   │                                           │
+│  │──────────│                                           │
+│  │ KundenNr │ ← Primärschlüssel                         │
+│  └──────────┘                                           │
+│                                                          │
+│ 📌 REGEL: Primärschlüssel IMMER unterstreichen!         │
+│          Meistens: ...Nr, ...ID, ...Code                 │
+└─────────────────────────────────────────────────────────┘
+          ↓
+┌─────────────────────────────────────────────────────────┐
+│ SCHRITT 3: ATTRIBUTE HINZUFÜGEN                          │
+├─────────────────────────────────────────────────────────┤
+│ Suche nach: Eigenschaften der Entitäten                 │
+│             "hat", "besitzt", Adjektive                  │
+│                                                          │
+│     ┌─────────┐  ┌─────────┐  ┌──────────┐             │
+│     │ Adresse │  │ Telefon │  │  Name    │             │
+│     └────┬────┘  └────┬────┘  └────┬─────┘             │
+│          │            │            │                     │
+│     ┌────┴────────────┴────────────┴─────┐              │
+│     │            FILIALE                 │              │
+│     │────────────────────────────────────│              │
+│     │          FilialNr                  │              │
+│     │          Adresse                   │              │
+│     │          Telefon                   │              │
+│     └────────────────────────────────────┘              │
+│                                                          │
+│ Gleich machen für: FAHRZEUG, KUNDE                       │
+│                                                          │
+│ 📌 TIPP: Primärschlüssel OBEN, andere Attribute UNTEN   │
+└─────────────────────────────────────────────────────────┘
+          ↓
+┌─────────────────────────────────────────────────────────┐
+│ SCHRITT 4: BEZIEHUNGEN IDENTIFIZIEREN                   │
+├─────────────────────────────────────────────────────────┤
+│ Suche nach: Verben zwischen Entitäten                   │
+│             "gehört zu", "hat", "mietet", "arbeitet in" │
+│                                                          │
+│ Zeichne Rauten (Rhombus):                                │
+│                                                          │
+│  ┌──────────┐      ┌──────────┐      ┌──────────┐      │
+│  │ FILIALE  │──────│   hat    │──────│ FAHRZEUG │      │
+│  └──────────┘      └──────────┘      └──────────┘      │
+│                                                          │
+│  ┌──────────┐      ┌──────────┐      ┌──────────┐      │
+│  │  KUNDE   │──────│  mietet  │──────│ FAHRZEUG │      │
+│  └──────────┘      └──────────┘      └──────────┘      │
+│                                                          │
+│ 📌 FORMAT: Beziehung = Verb in Raute                    │
+└─────────────────────────────────────────────────────────┘
+          ↓
+┌─────────────────────────────────────────────────────────┐
+│ SCHRITT 5: KARDINALITÄTEN BESTIMMEN                     │
+├─────────────────────────────────────────────────────────┤
+│ Frage 1: Wie viele B gehören zu einem A?                │
+│ Frage 2: Wie viele A gehören zu einem B?                │
+│                                                          │
+│ BEISPIEL: Filiale ←→ Fahrzeug                           │
+│                                                          │
+│ Frage 1: Wie viele Fahrzeuge hat eine Filiale?          │
+│ Antwort: VIELE (N)                                       │
+│                                                          │
+│ Frage 2: Zu wie vielen Filialen gehört ein Fahrzeug?    │
+│ Antwort: GENAU EINE (1)                                  │
+│                                                          │
+│ Ergebnis: 1:N Beziehung                                  │
+│                                                          │
+│  ┌──────────┐  1   ┌──────────┐  N   ┌──────────┐      │
+│  │ FILIALE  │──────│   hat    │──────│ FAHRZEUG │      │
+│  └──────────┘      └──────────┘      └──────────┘      │
+│                                                          │
+│ 📌 ESELSBRÜCKE:                                          │
+│    1:1  = Eins-zu-Eins    (Selten)                       │
+│    1:N  = Eins-zu-Viele   (Häufigste!)                   │
+│    N:M  = Viele-zu-Viele  (Zwischentabelle nötig!)      │
+└─────────────────────────────────────────────────────────┘
+          ↓
+┌─────────────────────────────────────────────────────────┐
+│ SCHRITT 6: N:M BEZIEHUNGEN AUFLÖSEN                     │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│ Problem: N:M geht NICHT direkt in SQL!                  │
+│                                                          │
+│ Lösung: Zwischentabelle erstellen                        │
+│                                                          │
+│ VORHER:                                                  │
+│  ┌──────────┐  N   ┌──────────┐  M   ┌──────────┐      │
+│  │  KUNDE   │──────│  mietet  │──────│ FAHRZEUG │      │
+│  └──────────┘      └──────────┘      └──────────┘      │
+│                                                          │
+│ NACHHER:                                                 │
+│  ┌──────────┐  1   ┌──────────┐  N   ┌──────────┐      │
+│  │  KUNDE   │──────│  MIETE   │──────│ FAHRZEUG │      │
+│  └──────────┘      └──────────┘      └──────────┘      │
+│                         │                                │
+│                    ┌────┴─────┐                          │
+│                    │  MietNr  │ ← Neuer Primärschlüssel  │
+│                    │Startdatum│                          │
+│                    │ Enddatum │                          │
+│                    │KundenNr  │ ← Fremdschlüssel         │
+│                    │FahrzeugNr│ ← Fremdschlüssel         │
+│                    └──────────┘                          │
+│                                                          │
+│ 📌 REGEL: N:M → 2x 1:N mit Zwischenentität              │
+│          Zwischentabelle enthält beide Fremdschlüssel!   │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🎨 Vollständige Lösung: Fahrzeugverwaltung
+
+## ER-Diagramm
+
+```
+     ┌──────────┐
+     │ FilialNr │
+     └─────┬────┘
+           │
+    ┌──────┴───────┐
+    │   FILIALE    │
+    │──────────────│
+    │  FilialNr    │ ← Primärschlüssel
+    │  Adresse     │
+    │  Telefon     │
+    └──────┬───────┘
+           │
+           │ 1
+           │
+      ┌────┴────┐
+      │   hat   │
+      └────┬────┘
+           │ N
+           │
+    ┌──────┴───────┐
+    │  FAHRZEUG    │
+    │──────────────│
+    │ FahrzeugNr   │ ← Primärschlüssel
+    │  Marke       │
+    │  Modell      │
+    │  Baujahr     │
+    │  Tagessatz   │
+    │  FilialNr    │ ← Fremdschlüssel
+    └──────┬───────┘
+           │
+           │ N
+           │
+      ┌────┴────┐
+      │ betrifft│
+      └────┬────┘
+           │ 1
+           │
+    ┌──────┴───────┐
+    │    MIETE     │ ← Zwischenentität
+    │──────────────│
+    │   MietNr     │ ← Primärschlüssel
+    │  Startdatum  │
+    │   Enddatum   │
+    │ Gesamtpreis  │
+    │  KundenNr    │ ← Fremdschlüssel
+    │ FahrzeugNr   │ ← Fremdschlüssel
+    └──────┬───────┘
+           │
+           │ N
+           │
+      ┌────┴────┐
+      │  wird   │
+      │  gemietet│
+      │   von   │
+      └────┬────┘
+           │ 1
+           │
+    ┌──────┴───────┐
+    │    KUNDE     │
+    │──────────────│
+    │  KundenNr    │ ← Primärschlüssel
+    │    Name      │
+    │   Adresse    │
+    │Führerschein- │
+    │   nummer     │
+    └──────────────┘
+```
+
+## SQL-Implementierung
+
+```sql
+-- Schritt 1: Entitäten ohne Fremdschlüssel
+CREATE TABLE Filiale (
+    FilialNr INT PRIMARY KEY,
+    Adresse VARCHAR(200) NOT NULL,
+    Telefon VARCHAR(20)
+);
+
+CREATE TABLE Kunde (
+    KundenNr INT PRIMARY KEY,
+    Name VARCHAR(100) NOT NULL,
+    Adresse VARCHAR(200),
+    Fuehrerscheinnummer VARCHAR(20) NOT NULL
+);
+
+-- Schritt 2: Entität mit Fremdschlüssel (1:N)
+CREATE TABLE Fahrzeug (
+    FahrzeugNr INT PRIMARY KEY,
+    Marke VARCHAR(50) NOT NULL,
+    Modell VARCHAR(50) NOT NULL,
+    Baujahr INT,
+    Tagessatz DECIMAL(8,2) NOT NULL,
+    FilialNr INT NOT NULL,
+    FOREIGN KEY (FilialNr) REFERENCES Filiale(FilialNr)
+);
+
+-- Schritt 3: Zwischentabelle (N:M Auflösung)
+CREATE TABLE Miete (
+    MietNr INT PRIMARY KEY,
+    Startdatum DATE NOT NULL,
+    Enddatum DATE,
+    Gesamtpreis DECIMAL(10,2),
+    KundenNr INT NOT NULL,
+    FahrzeugNr INT NOT NULL,
+    FOREIGN KEY (KundenNr) REFERENCES Kunde(KundenNr),
+    FOREIGN KEY (FahrzeugNr) REFERENCES Fahrzeug(FahrzeugNr)
+);
+```
+
+---
+
+# ✅ Checkliste ER-Diagramm
+
+>[!check] Vor der Abgabe prüfen:
+>- [ ] Alle relevanten Entitäten identifiziert?
+>- [ ] Jede Entität hat einen Primärschlüssel?
+>- [ ] Primärschlüssel unterstrichen?
+>- [ ] Alle wichtigen Attribute eingetragen?
+>- [ ] Beziehungen mit Rauten dargestellt?
+>- [ ] Kardinalitäten (1:1, 1:N, N:M) angegeben?
+>- [ ] N:M-Beziehungen aufgelöst (Zwischentabelle)?
+>- [ ] Fremdschlüssel in den richtigen Tabellen?
+
+>[!failure] Häufige Fehler in der AP2-Prüfung
+>❌ Primärschlüssel nicht unterstrichen
+>❌ Kardinalitäten vertauscht oder vergessen
+>❌ N:M-Beziehung nicht aufgelöst
+>❌ Attribute als eigene Entitäten (z.B. "Adresse" als Tabelle)
+>❌ Fremdschlüssel auf der falschen Seite (bei 1:N)
+>❌ Beziehungsattribute nicht erkannt (gehören zur Zwischentabelle!)
+>❌ Zu viele oder zu wenige Entitäten
+
+---
+
+# 🎨 Entscheidungshilfe: Kardinalitäten bestimmen
+
+```
+┌─────────────────────────────────────────────────────────┐
+│         WIE BESTIMME ICH KARDINALITÄTEN?                 │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│ Stelle DIR diese Fragen:                                │
+│                                                          │
+│ Entität A ←→ Entität B                                  │
+│                                                          │
+│ Frage 1: Wie viele B gehören zu EINEM A?                │
+│ ┌────────────────────────────────────────┐              │
+│ │ Genau 1    → 1                         │              │
+│ │ 0 oder 1   → 0..1                      │              │
+│ │ Mehrere    → N (oder M)                │              │
+│ │ Mindestens → 1..N                      │              │
+│ └────────────────────────────────────────┘              │
+│                                                          │
+│ Frage 2: Wie viele A gehören zu EINEM B?                │
+│ ┌────────────────────────────────────────┐              │
+│ │ Genau 1    → 1                         │              │
+│ │ 0 oder 1   → 0..1                      │              │
+│ │ Mehrere    → M (oder N)                │              │
+│ │ Mindestens → 1..M                      │              │
+│ └────────────────────────────────────────┘              │
+│                                                          │
+│ BEISPIELE:                                               │
+│                                                          │
+│ 📌 Person ←→ Ausweis                                    │
+│   • Eine Person hat genau einen Ausweis → 1             │
+│   • Ein Ausweis gehört zu einer Person → 1              │
+│   Ergebnis: 1:1                                          │
+│                                                          │
+│ 📌 Abteilung ←→ Mitarbeiter                             │
+│   • Eine Abteilung hat viele Mitarbeiter → N            │
+│   • Ein Mitarbeiter gehört zu einer Abteilung → 1       │
+│   Ergebnis: 1:N                                          │
+│                                                          │
+│ 📌 Student ←→ Kurs                                       │
+│   • Ein Student belegt viele Kurse → M                  │
+│   • Ein Kurs hat viele Studenten → N                    │
+│   Ergebnis: N:M (Zwischentabelle!)                       │
+│                                                          │
+└─────────────────────────────────────────────────────────┘
+```
 
 ---
 

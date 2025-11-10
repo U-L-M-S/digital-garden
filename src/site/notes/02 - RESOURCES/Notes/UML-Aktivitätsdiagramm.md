@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-aktivitaetsdiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","uml/aktivitätsdiagramm"],"noteIcon":"","updated":"2025-10-29T12:59:10.928+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-aktivitaetsdiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","uml/aktivitätsdiagramm"],"noteIcon":"","updated":"2025-11-10T14:36:04.846+01:00"}
 ---
 
 >Es stellt graphisch da die Ablauf von Aktivitäten in einem System.
@@ -19,4 +19,218 @@ es gibt nur ein START und ein ENDE
 >Aktion
 <div id="UML-Aktivitätsdiagramm_2025-03-22_1734.22.excalidraw.md4"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.9.1","elements":[{"id":"4oFmTynfj6SUm-R37TFIr","type":"rectangle","x":-123.375,"y":-132.203125,"width":209,"height":58,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a0","roundness":{"type":3},"seed":1337860922,"version":110,"versionNonce":1521009082,"isDeleted":false,"boundElements":[{"type":"text","id":"hzsjaF6S"}],"updated":1742661284361,"link":null,"locked":false},{"id":"hzsjaF6S","type":"text","x":-67.24495697021484,"y":-115.703125,"width":96.73991394042969,"height":25,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a1","roundness":null,"seed":1098258086,"version":72,"versionNonce":1381792378,"isDeleted":false,"boundElements":null,"updated":1742661284362,"link":null,"locked":false,"text":"Stehe auf","rawText":"Stehe auf","fontSize":20,"fontFamily":5,"textAlign":"center","verticalAlign":"middle","containerId":"4oFmTynfj6SUm-R37TFIr","originalText":"Stehe auf","autoResize":true,"lineHeight":1.25}],"appState":{"theme":"dark","viewBackgroundColor":"#ffffff","currentItemStrokeColor":"#1e1e1e","currentItemBackgroundColor":"transparent","currentItemFillStyle":"solid","currentItemStrokeWidth":2,"currentItemStrokeStyle":"solid","currentItemRoughness":1,"currentItemOpacity":100,"currentItemFontFamily":5,"currentItemFontSize":20,"currentItemTextAlign":"left","currentItemStartArrowhead":null,"currentItemEndArrowhead":"arrow","currentItemArrowType":"round","scrollX":392.625,"scrollY":451.796875,"zoom":{"value":1},"currentItemRoundness":"round","gridSize":20,"gridStep":5,"gridModeEnabled":false,"gridColor":{"Bold":"rgba(217, 217, 217, 0.5)","Regular":"rgba(230, 230, 230, 0.5)"},"currentStrokeOptions":null,"frameRendering":{"enabled":true,"clip":true,"name":true,"outline":true},"objectsSnapModeEnabled":false,"activeTool":{"type":"selection","customType":null,"locked":false,"lastActiveTool":null}},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("UML-Aktivitätsdiagramm_2025-03-22_1734.22.excalidraw.md4");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>
 ### Partitionen
+>Zuständigkeitsbereiche trennen (auch Swimlanes genannt)
+
+---
+
+# 🎯 Typische AP2-Prüfungsaufgabe
+
+>[!example] Prüfungsaufgabe: Bestellprozess
+>**Szenario:** Ein Online-Bestellprozess läuft wie folgt ab:
+>1. Kunde legt Artikel in den Warenkorb
+>2. Kunde geht zur Kasse
+>3. System prüft Verfügbarkeit
+>   - Falls nicht verfügbar: Fehlermeldung und zurück zum Warenkorb
+>4. Kunde wählt Zahlungsart (Überweisung oder Kreditkarte)
+>5. Bei Kreditkarte: Sofortige Prüfung der Kreditkarte
+>   - Bei Fehler: Abbruch
+>6. Bestellung wird gespeichert
+>7. Parallel: Rechnung erstellen UND Versand vorbereiten
+>8. Kunde erhält Bestätigungsmail
 >
+>**Aufgabe:** Erstellen Sie ein Aktivitätsdiagramm mit Entscheidungen, Parallelität und Zusammenführungen
+
+---
+
+# 🍳 Kochrezept: Aktivitätsdiagramm in 6 Schritten (Visuell)
+
+```
+┌─────────────────────────────────────────────────────────┐
+│ SCHRITT 1: START UND ENDE MARKIEREN                     │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│     ⚫ = Startknoten (gefüllter Kreis)                   │
+│                                                          │
+│     ◎ = Endknoten (Kreis mit Ring)                      │
+│                                                          │
+│ 📌 REGEL: IMMER mit Start beginnen, mit Ende abschließen│
+│          Es gibt NUR EINEN Startknoten!                  │
+└─────────────────────────────────────────────────────────┘
+          ↓
+┌─────────────────────────────────────────────────────────┐
+│ SCHRITT 2: AKTIVITÄTEN EINZEICHNEN                       │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│      ⚫ Start                                            │
+│      │                                                   │
+│      ▼                                                   │
+│  ┌──────────────────┐                                   │
+│  │ Artikel in       │  ← Rechteck mit runden Ecken      │
+│  │ Warenkorb legen  │                                   │
+│  └──────────────────┘                                   │
+│      │                                                   │
+│      ▼                                                   │
+│  ┌──────────────────┐                                   │
+│  │ Zur Kasse gehen  │                                   │
+│  └──────────────────┘                                   │
+│                                                          │
+│ 📌 FORMAT: Aktivitäten = Abgerundete Rechtecke          │
+│            Beschriftung = Verb + Objekt                  │
+│            (Was wird GETAN?)                             │
+└─────────────────────────────────────────────────────────┘
+          ↓
+┌─────────────────────────────────────────────────────────┐
+│ SCHRITT 3: ENTSCHEIDUNGEN (IF-THEN-ELSE)                │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│  ┌──────────────────┐                                   │
+│  │ Verfügbarkeit    │                                   │
+│  │ prüfen           │                                   │
+│  └────────┬─────────┘                                   │
+│           │                                              │
+│           ▼                                              │
+│          ◇  [nicht verfügbar]                           │
+│         ╱ ╲─────────────────────► Fehlermeldung         │
+│        ╱   ╲                                             │
+│       ╱     ╲ [verfügbar]                                │
+│      ╱       ╲                                           │
+│     ◇─────────▼                                          │
+│   Zahlungsart wählen                                     │
+│                                                          │
+│ 📌 RAUTE = Entscheidung (Diamond)                        │
+│    Bedingungen in [eckige Klammern]                     │
+│    Alle Wege müssen wieder zusammengeführt werden!       │
+└─────────────────────────────────────────────────────────┘
+          ↓
+┌─────────────────────────────────────────────────────────┐
+│ SCHRITT 4: ZUSAMMENFÜHRUNG (MERGE)                       │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│          ◇ [Überweisung]                                │
+│         ╱ ╲                                              │
+│        ╱   ╲ [Kreditkarte]                               │
+│       ╱     ╲─────► Karte prüfen                         │
+│      ╱       ╲            │                              │
+│     ╱         ╲           │                              │
+│    ◇───────────◇──────────┘  ← Zusammenführung          │
+│    │                          (Raute ohne Bedingung)    │
+│    ▼                                                     │
+│  Bestellung speichern                                    │
+│                                                          │
+│ 📌 REGEL: Nach Verzweigung wieder zusammenführen         │
+│          Merge-Raute hat KEINE Bedingungen               │
+└─────────────────────────────────────────────────────────┘
+          ↓
+┌─────────────────────────────────────────────────────────┐
+│ SCHRITT 5: PARALLELITÄT (FORK & JOIN)                   │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│  Bestellung speichern                                    │
+│          │                                               │
+│          ▼                                               │
+│     ══════════  ← FORK (dicker Balken)                   │
+│      ╱       ╲                                           │
+│     ╱         ╲                                          │
+│    ▼           ▼                                         │
+│ Rechnung    Versand                                      │
+│ erstellen   vorbereiten                                  │
+│    │           │                                         │
+│     ╲         ╱                                          │
+│      ╲       ╱                                           │
+│       ▼     ▼                                            │
+│     ══════════  ← JOIN (warten auf beide)                │
+│          │                                               │
+│          ▼                                               │
+│  Bestätigungsmail senden                                 │
+│                                                          │
+│ 📌 FORK = Aufspaltung in parallele Abläufe              │
+│    JOIN = Warten bis ALLE fertig sind                    │
+│    Wichtig: Jeder Fork braucht einen Join!               │
+└─────────────────────────────────────────────────────────┘
+          ↓
+┌─────────────────────────────────────────────────────────┐
+│ SCHRITT 6: SWIMLANES (OPTIONAL)                         │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│ ┌─── Kunde ────┬─── System ────┬─── Lager ────┐        │
+│ │              │                │              │        │
+│ │  ⚫ Start     │                │              │        │
+│ │  │           │                │              │        │
+│ │  ▼           │                │              │        │
+│ │ Artikel      │                │              │        │
+│ │ auswählen ───┼───►Verfügbarkeit              │        │
+│ │              │    prüfen ─────┼──►Bestand    │        │
+│ │              │                │  prüfen      │        │
+│ └──────────────┴────────────────┴──────────────┘        │
+│                                                          │
+│ 📌 SWIMLANES = Zuständigkeitsbereiche trennen            │
+│    Wer macht was? (Kunde, System, Externe Systeme)      │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🎨 Symbolübersicht (Spickzettel)
+
+```
+┌──────────────────────────────────────────────────────┐
+│ SYMBOL         │ BEDEUTUNG           │ WANN?         │
+├────────────────┼─────────────────────┼───────────────┤
+│ ⚫ (Punkt)      │ Start               │ Am Anfang     │
+│                │                     │               │
+│ ◎ (Ring)       │ Ende                │ Am Ende       │
+│                │                     │               │
+│ ┌────┐         │ Aktivität           │ Aktion        │
+│ │    │         │ (runde Ecken)       │               │
+│ └────┘         │                     │               │
+│                │                     │               │
+│ ◇ (Raute)      │ Entscheidung        │ if/switch     │
+│ mit [Bedingung]│                     │               │
+│                │                     │               │
+│ ◇ (Raute)      │ Zusammenführung     │ Nach if/else  │
+│ ohne Bedingung │                     │               │
+│                │                     │               │
+│ ═══════        │ Fork (Start parallel)│ Parallelität │
+│ ═══════        │ Join (Ende parallel) │ starten/enden │
+│                │                     │               │
+│ │ Swimlane │   │ Verantwortlichkeit  │ Wer macht was │
+└──────────────────────────────────────────────────────┘
+```
+
+>[!tip] Visuelle Merkhilfe
+>- **Raute MIT Text** = Entscheidung (Verzweigung)
+>- **Raute OHNE Text** = Zusammenführung (Merge)
+>- **Balken** = Parallele Aktivitäten (Fork/Join)
+>- **Rechteck mit runden Ecken** = Aktivität (Was wird getan?)
+
+---
+
+# ✅ Checkliste Aktivitätsdiagramm
+
+>[!check] Vor der Abgabe prüfen:
+>- [ ] Start- und Endknoten vorhanden?
+>- [ ] Aktivitäten mit Verben beschriftet?
+>- [ ] Alle Entscheidungen mit Bedingungen?
+>- [ ] Alle Verzweigungen wieder zusammengeführt?
+>- [ ] Parallelität mit Fork/Join dargestellt?
+>- [ ] Flussrichtung klar (meist von oben nach unten)?
+>- [ ] Swimlanes sinnvoll eingesetzt (falls gewünscht)?
+>- [ ] Keine "toten Enden" (alle Wege führen zum Ende)?
+
+>[!failure] Häufige Fehler
+>❌ Fork ohne Join (parallele Pfade nicht zusammengeführt)
+>❌ Entscheidungen ohne Bedingungen in [Klammern]
+>❌ Mehrere Startknoten (nur einer erlaubt!)
+>❌ Aktivitäten als Substantive statt Verben
+>❌ Raute als Merge MIT Bedingung (sollte leer sein)
+>❌ Verzweigung nicht wieder zusammengeführt
+
+---
+
+# Verwandte Konzepte
+
+- [[02 - RESOURCES/Notes/UML\|UML]] - Unified Modeling Language Übersicht
+- [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]] - Struktur
+- [[02 - RESOURCES/Notes/UML-Sequenzdiagramme\|UML-Sequenzdiagramme]] - Interaktionen
+- [[02 - RESOURCES/Notes/UML-Zustandsdiagramme\|UML-Zustandsdiagramme]] - Zustände
+- [[02 - RESOURCES/Notes/UML-Anwendungsfalldiagramm\|UML-Anwendungsfalldiagramm]] - Use Cases

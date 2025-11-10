@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-anwendungsfalldiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","uml/anwendungsfalldiagramm"],"noteIcon":"","updated":"2025-11-10T13:31:56.019+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-anwendungsfalldiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","uml/anwendungsfalldiagramm"],"noteIcon":"","updated":"2025-11-10T14:34:57.027+01:00"}
 ---
 
 
@@ -1172,3 +1172,166 @@ Schritt 5: Review mit Team
 - [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]] – Prozessabläufe
 - [[Requirements Engineering\|Requirements Engineering]] – Anforderungsanalyse
 - [[User Stories\|User Stories]] – Alternative Anforderungsdokumentation
+
+---
+
+# 🎯 Typische AP2-Prüfungsaufgabe
+
+>[!example] Prüfungsaufgabe: Bibliothekssystem
+>**Szenario:** Eine Bibliothek soll digitalisiert werden:
+>- Mitglieder können Bücher ausleihen und zurückgeben
+>- Mitglieder können nach Büchern suchen
+>- Bibliothekare können neue Bücher erfassen
+>- Bibliothekare können Mahnungen versenden
+>- Administratoren können Mitglieder verwalten
+>- Das System sendet automatisch Erinnerungen bei Fälligkeit
+>
+>**Aufgabe:** Erstellen Sie ein Use-Case-Diagramm mit allen Akteuren, Anwendungsfällen und Beziehungen (include, extend, Generalisierung)
+
+---
+
+# 🍳 Kochrezept: Use-Case-Diagramm in 5 Schritten (Visuell)
+
+```
+┌─────────────────────────────────────────────────────────┐
+│ SCHRITT 1: AKTEURE FINDEN                                │
+├─────────────────────────────────────────────────────────┤
+│ Suche nach: Wer interagiert mit dem System?              │
+│                                                          │
+│  👤 Mitglied     (normaler Benutzer)                     │
+│  👤 Bibliothekar (erweiterte Rechte)                     │
+│  👤 Admin        (volle Rechte)                          │
+│  🖥️  System       (automatische Aktionen)                │
+│                                                          │
+│ 📌 TIPP: Akteure = Strichmännchen außerhalb der Box     │
+│          Rollen/Personen, die mit dem System arbeiten    │
+└─────────────────────────────────────────────────────────┘
+          ↓
+┌─────────────────────────────────────────────────────────┐
+│ SCHRITT 2: USE CASES IDENTIFIZIEREN                     │
+├─────────────────────────────────────────────────────────┤
+│ Suche nach: Was KANN man tun? (Verben!)                 │
+│                                                          │
+│  ⭕ Bücher ausleihen                                     │
+│  ⭕ Bücher zurückgeben                                   │
+│  ⭕ Nach Büchern suchen                                  │
+│  ⭕ Neue Bücher erfassen                                 │
+│  ⭕ Mahnungen versenden                                  │
+│  ⭕ Mitglieder verwalten                                 │
+│                                                          │
+│ 📌 FORMAT: Use Cases = Ovale mit VERBEN                 │
+│    (nicht "Buch" sondern "Buch ausleihen")              │
+└─────────────────────────────────────────────────────────┘
+          ↓
+┌─────────────────────────────────────────────────────────┐
+│ SCHRITT 3: SYSTEMGRENZE ZEICHNEN                        │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│           ┌────────────────────────────┐                │
+│           │   Bibliothekssystem        │                │
+│  Mitglied │                            │                │
+│    👤─────│──⭕ Bücher ausleihen       │                │
+│           │                            │                │
+│           │  ⭕ Bücher zurückgeben     │                │
+│           │                            │                │
+│           └────────────────────────────┘                │
+│                                                          │
+│ 📌 REGEL: Akteure AUSSEN, Use Cases INNEN               │
+│          Rechteck = Systemgrenze                         │
+└─────────────────────────────────────────────────────────┘
+          ↓
+┌─────────────────────────────────────────────────────────┐
+│ SCHRITT 4: BEZIEHUNGEN - INCLUDE & EXTEND               │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│ <<include>> = MUSS IMMER (wird zwingend ausgeführt)     │
+│                                                          │
+│   Bücher ausleihen                                       │
+│         │                                                │
+│         │ <<include>>                                    │
+│         ↓                                                │
+│   Anmelden                                               │
+│                                                          │
+│ (Ausleihen OHNE Anmelden geht NICHT)                    │
+│ Pfeil: Basis → Hilfsfunktion                             │
+│                                                          │
+│ ─────────────────────────────────────────────────        │
+│                                                          │
+│ <<extend>> = OPTIONAL (kann zusätzlich passieren)       │
+│                                                          │
+│   Bücher ausleihen                                       │
+│         ↑                                                │
+│         │ <<extend>>                                     │
+│         │                                                │
+│   Vormerkung löschen                                     │
+│                                                          │
+│ (Ausleihen geht auch OHNE Vormerkung)                   │
+│ Pfeil: Erweiterung → Basis                               │
+│                                                          │
+│ 📌 ESELSBRÜCKE:                                          │
+│    include = INbegriffen (zwingend)                      │
+│    extend = EXtra (optional)                             │
+│                                                          │
+│ 📌 WICHTIG: Nur ASCII <<>> verwenden!                    │
+│    NICHT 《》 (Unicode-Zeichen)                         │
+└─────────────────────────────────────────────────────────┘
+          ↓
+┌─────────────────────────────────────────────────────────┐
+│ SCHRITT 5: GENERALISIERUNG                              │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│  👤 Bibliothekar                                         │
+│         △                                                │
+│         │ (Vererbung bei Akteuren)                      │
+│  👤 Mitglied                                             │
+│                                                          │
+│ (Bibliothekar IST AUCH ein Mitglied + mehr Rechte)      │
+│                                                          │
+│ 📌 REGEL: Spezialisierung zeigt auf Allgemeines         │
+│          Leerer Pfeil △ nach oben                        │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🎨 Visuelle Merkhilfe: Beziehungen auf einen Blick
+
+```
+┌──────────────┬─────────────┬──────────────────┬───────────┐
+│ Beziehung    │ Pfeilart    │ Richtung         │ Bedeutung │
+├──────────────┼─────────────┼──────────────────┼───────────┤
+│ Assoziation  │ ────        │ Akteur → Use Case│ benutzt   │
+│              │             │                  │           │
+│ <<include>>  │ ┄┄┄┄►       │ Basis → Hilfe    │ zwingend  │
+│              │             │                  │           │
+│ <<extend>>   │ ┄┄┄┄►       │ Extra → Basis    │ optional  │
+│              │             │                  │           │
+│ Vererbung    │ ────△       │ Spez. → Allg.    │ ist-ein   │
+└──────────────┴─────────────┴──────────────────┴───────────┘
+```
+
+>[!tip] Merkhilfe für include vs extend
+>**Include** = "IN"begriffen → geht IN den Use Case hinein → MUSS drin sein
+>**Extend** = "EX"tra → kommt von außen als EXtra dazu → KANN dabei sein
+
+---
+
+# ✅ Checkliste Use-Case-Diagramm
+
+>[!check] Vor der Abgabe prüfen:
+>- [ ] Alle Akteure als Strichmännchen außerhalb?
+>- [ ] Systemgrenze als Rechteck mit Namen?
+>- [ ] Use Cases als Ovale mit Verben?
+>- [ ] Include-Beziehungen korrekt (zwingend)?
+>- [ ] Extend-Beziehungen korrekt (optional)?
+>- [ ] Pfeilrichtungen beachtet?
+>- [ ] Stereotypen mit `<<...>>` (ASCII-Brackets!)?
+>- [ ] Generalisierung mit △-Pfeil?
+
+>[!failure] Häufige Fehler
+>❌ Include/Extend verwechselt
+>❌ Pfeilrichtung vertauscht
+>❌ Use Cases als Substantive statt Verben ("Buch" statt "Buch ausleihen")
+>❌ Akteure innerhalb der Systemgrenze
+>❌ Falsche Unicode-Brackets 《》 statt `<<>>`
+>❌ Zu technische Use Cases ("SQL-Query" statt "Daten abrufen")
