@@ -1,10 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/planen-eines-softwareproduktes/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-07T15:17:03.848+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/planen-eines-softwareproduktes/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-10T15:32:46.424+01:00"}
 ---
 
 
 >Dieser Teil der Prüfung dauert 90 Minuten und umfasst 100 Punkte (10% der Gesamtprüfung).
 >>Hier geht es um die komplette Planung eines [[02 - RESOURCES/Notes/Software\|Software]]-Projekts - von der ersten Idee bis zur technischen Umsetzungsplanung.
+___
+
+# 📊 Themen nach Prüfungswahrscheinlichkeit
+
+## 🔴 SEHR HOCH (15%) - OOP & UML
+- [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]] - Klassen, Attribute, Methoden, Beziehungen
+- [[02 - RESOURCES/Notes/UML-Sequenzdiagramme\|UML-Sequenzdiagramme]] - Interaktionsabläufe
+- [[02 - RESOURCES/Notes/UML-Anwendungsfalldiagramm\|UML-Anwendungsfalldiagramm]] - Use Cases
+- [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]] - Ablaufmodellierung
+- [[02 - RESOURCES/Notes/UML-Zustandsdiagramme\|UML-Zustandsdiagramme]] - Zustandsübergänge
+
+## 🟠 HOCH (8%) - Design Patterns & Architektur
+- [[02 - RESOURCES/Notes/Singleton\|Singleton]] - Eine Instanz mit Thread-Safety
+- [[02 - RESOURCES/Notes/Factory\|Factory]] - Objekterstellung ohne konkrete Klasse
+- [[02 - RESOURCES/Notes/Observer\|Observer]] - Automatische Benachrichtigung
+- [[02 - RESOURCES/Notes/MVC\|MVC]] - Model-View-Controller Architektur
+
+## 🟡 MITTEL (6%) - APIs & Schnittstellen
+- [[02 - RESOURCES/Notes/REST API\|REST API]] - CRUD-Operationen, HTTP-Methoden, Status-Codes
+- [[02 - RESOURCES/Notes/JSON\|JSON]] - Datenformat für APIs
+
 ___
 
 ## [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]

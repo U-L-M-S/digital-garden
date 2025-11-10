@@ -1,10 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wirtschafts-und-sozialkunde-wi-so/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-06T11:15:26.558+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wirtschafts-und-sozialkunde-wi-so/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-10T15:33:07.632+01:00"}
 ---
 
 
 >Der kürzeste Teil mit 60 Minuten und 100 Punkten (10%).
->>Hier wird dein Wissen über Arbeitsrecht, Sozialversicherung und Betriebswirtschaft geprüft.
+>>Hier wird dein Wissen über Arbeitsrecht, Sozialversicherung, Betriebswirtschaft, IT-Sicherheit und Datenschutz geprüft.
+___
+
+# 📊 Themen nach Prüfungswahrscheinlichkeit
+
+## 🔴 HOCH (10%) - IT-Sicherheit & Datenschutz
+- [[02 - RESOURCES/Notes/DSGVO\|DSGVO]] - Auskunftsrecht, Löschpflicht, Art. 15-17
+- [[02 - RESOURCES/Notes/Verschlüsselung\|Verschlüsselung]] - Symmetrisch vs Asymmetrisch (AES, RSA)
+- [[02 - RESOURCES/Notes/Datenschutz\|Datenschutz]] - Grundprinzipien
+
+## 🟡 MITTEL (6%) - Netzwerke
+- [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]] - Subnetze berechnen mit Formeln
+- [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] - Grundlagen
+
+## 🟢 STANDARD - Arbeitsrecht & Soziales
+- Arbeitsvertrag, Kündigungsfristen, Sozialversicherung
+- Betriebsrat, Tarifverträge
+
 ___
 
 ## Arbeitsrecht
