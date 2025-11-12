@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/power-shell/","tags":["scripting/windows","automation/microsoft"],"noteIcon":"","updated":"2025-10-29T12:59:09.261+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/power-shell/","tags":["scripting/windows","automation/microsoft"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
 ---
 
 

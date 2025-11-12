@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/network-layer/","tags":["informatik/netzwerk/osi/layer3","routing/adressierung","informatik/netzwerk/osi"],"noteIcon":"","updated":"2025-10-29T12:59:08.542+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/network-layer/","tags":["informatik/netzwerk/osi/layer3","routing/adressierung","informatik/netzwerk/osi"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00"}
 ---
 
 

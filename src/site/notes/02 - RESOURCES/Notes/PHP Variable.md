@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/php-variable/","tags":["informatik/programmierung/sprachen/php"],"noteIcon":"","updated":"2025-10-29T12:59:09.123+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/php-variable/","tags":["informatik/programmierung/sprachen/php"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
 ---
 
 [[02 - RESOURCES/Notes/Variable\|Variable]]n in [[02 - RESOURCES/Notes/PHP\|PHP]] werden deklariert mit einen `$`.

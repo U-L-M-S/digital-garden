@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-06-serviceanfragen-bearbeiten/","tags":["GFN/LF06","inProgress"],"noteIcon":"","updated":"2025-11-05T14:52:53.047+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-06-serviceanfragen-bearbeiten/","tags":["GFN/LF06","inProgress"],"noteIcon":"","updated":"2025-11-05T14:52:53.000+01:00"}
 ---
 
 ![[IT-Berufe_Lernfelder_6-9_Westermann.pdf]]

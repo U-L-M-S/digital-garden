@@ -1,79 +1,69 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-anwendungsfalldiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","uml/anwendungsfalldiagramm"],"noteIcon":"","updated":"2025-11-10T14:34:57.027+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-anwendungsfalldiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","uml/anwendungsfalldiagramm"],"noteIcon":"","updated":"2025-11-06T16:28:36.000+01:00"}
 ---
 
+>Ein UML-Anwendungsfalldiagramm ist eine grafische Darstellung, die zeigt, wie Nutzer (Akteure) mit einem System interagieren können.
+>>Es beschreibt die verschiedenen *Use Cases* (Anwendungsfälle) und die Beziehungen zwischen ihnen und den Akteuren. Solche Diagramme helfen, die Anforderungen an ein System zu verstehen und zu planen, indem sie die Funktionen aus Sicht der Benutzer visualisieren.
 
-# UML-Anwendungsfalldiagramm
-
-> Ein UML-Anwendungsfalldiagramm ist eine grafische Darstellung, die zeigt, wie Nutzer (Akteure) mit einem System interagieren können.
->
-> Es beschreibt die verschiedenen *Use Cases* (Anwendungsfälle) und die Beziehungen zwischen ihnen und den Akteuren. Solche Diagramme helfen, die Anforderungen an ein System zu verstehen und zu planen, indem sie die Funktionen aus Sicht der Benutzer visualisieren.
-
-<!-- Tipp: Falls eingebettete Medien nicht gepusht werden, ersetze die Obsidian-Transklusion durch einen relativen Bildpfad -->
-![TEQoGCUjPw4PopfwMAIGuFwSrY.png](/img/user/02%20-%20RESOURCES/Files/TEQoGCUjPw4PopfwMAIGuFwSrY.png)
+[[TEQoGCUjPw4PopfwMAIGuFwSrY.png]]
 
 ---
 
-## Zweck und Verwendung
+# Zweck und Verwendung
 
 >[!info] Wofür werden Use-Case-Diagramme verwendet?
-> Anwendungsfalldiagramme dienen der **Anforderungsanalyse** und helfen dabei:
-> - System-Funktionalitäten aus **Nutzersicht** zu definieren
-> - **Systemgrenzen** klar zu ziehen
-> - **Beziehungen zwischen Akteuren** und Use Cases zu visualisieren
-> - **Projektumfang** festzulegen
+>Anwendungsfalldiagramme dienen der **Anforderungsanalyse** und helfen dabei:
+>- System-Funktionalitäten aus **Nutzersicht** zu definieren
+>- **Systemgrenzen** klar zu ziehen
+>- **Beziehungen zwischen Akteuren** und Use Cases zu visualisieren
+>- **Projektumfang** festzulegen
 
 **Typische Einsatzbereiche:**
 ```
-
-┌────────────────────────────────────────┐  
-│ Anforderungsanalyse │  
-│ ↓ │  
-│ System-Design │  
-│ ↓ │  
-│ Kommunikation mit Stakeholdern │  
-│ ↓ │  
-│ Testplanung │  
+┌────────────────────────────────────────┐
+│  Anforderungsanalyse                   │
+│  ↓                                     │
+│  System-Design                         │
+│  ↓                                     │
+│  Kommunikation mit Stakeholdern        │
+│  ↓                                     │
+│  Testplanung                           │
 └────────────────────────────────────────┘
-
 ```
 
 ---
 
-## Grundelemente
+# Grundelemente
 
-> Ein Anwendungsfalldiagramm besteht aus **vier Hauptelementen**:
+>Ein Anwendungsfalldiagramm besteht aus **vier Hauptelementen**:
 
-1. **Akteure (Actors)** – Wer nutzt das System?
-2. **Use Cases** – Was kann das System tun?
-3. **Beziehungen** – Wie hängen Use Cases zusammen?
-4. **Systemgrenzen** – Was gehört zum System?
+1. **Akteure (Actors)** - Wer nutzt das System?
+2. **Use Cases** - Was kann das System tun?
+3. **Beziehungen** - Wie hängen Use Cases zusammen?
+4. **Systemgrenzen** - Was gehört zum System?
 
 **Visuelles Beispiel:**
-```
 
 ```
- O                    ┌───────────────────────────┐
-/|\                   │     SYSTEM                │
-/ \                   │                           │
-```
-
-Kunde ──────────► │ (Use Case 1) │  
-│ │ │  
-O │ │ │  
-/|\ │ ↓ │  
-/ \ │ (Use Case 2) │  
-Admin ──────────► │ │  
-└───────────────────────────┘
-
+     O                    ┌───────────────────────────┐
+    /|\                   │     SYSTEM                │
+    / \                   │                           │
+   Kunde ──────────►  (Use Case 1)                │
+                          │         │                │
+     O                    │         │                │
+    /|\                   │         ↓                │
+    / \                   │    (Use Case 2)          │
+   Admin ──────────►  │                           │
+                          └───────────────────────────┘
 ```
 
 ---
 
-## Komponenten im Detail
+# Komponenten im Detail
 
-### Akteur
+>Um Anwendungsfalldiagramme vollständig zu verstehen, müssen wir die einzelnen Komponenten kennen:
 
+# 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/uml-use-case-akteur/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -225,8 +215,7 @@ Admin ──────────► │ │
 </div></div>
 
 
-### Include
-
+# 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/uml-use-case-include/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -435,8 +424,7 @@ Extend (OPTIONAL):
 </div></div>
 
 
-### Extend
-
+# 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/uml-use-case-extend/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -696,8 +684,7 @@ public void bestellen() {
 </div></div>
 
 
-### Generalisierung
-
+# 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/uml-use-case-generalisierung/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -1020,129 +1007,119 @@ class Admin extends Benutzer {  // Vererbung!
 
 ---
 
-## Vollständiges Beispiel: Bibliotheks-System
+# Vollständiges Beispiel: Bibliotheks-System
 
 ```
-
-```
-                ┌────────────────────────────────────────────┐
-                │        BIBLIOTHEKS-SYSTEM                  │
-                │                                            │
- O              │  ┌─────────────────────┐                   │
-/|\             │  │ Katalog durchsuchen │                   │
-/ \             │  └─────────────────────┘                   │
-```
-
-Besucher ────────┼────────────┘ │  
-│ │  
-△ │ │  
-│ │ ┌─────────────────┐ │  
-───┴─── │ │ Buch ausleihen │ │  
-│ │ │ └─────────────────┘ │  
-O O │ │ │  
-/|\ /|\ │ │ <> │  
-/ \ / \ │ ↓ │  
-Gast Mitglied──────┼───►┌──────────────┐ │  
-│ │ │Benutzer prüfen│ │  
-│ │ └──────────────┘ │  
-│ │ │  
-├────────────┼───►┌─────────────────┐ │  
-│ │ │ Buch verlängern │ │  
-│ │ └─────────────────┘ │  
-│ │ │  
-└────────────┼───►┌─────────────────┐ │  
-│ │ Reservieren │ │  
-│ └─────────────────┘ │  
-│ △ │  
-│ │ <> │  
-│ │ │  
-│ ┌─────────────────────────┐ │  
-│ │ E-Mail-Benachrichtigung │ │  
-│ └─────────────────────────┘ │  
-│ │  
-└────────────────────────────────────────────┘
-
+                    ┌────────────────────────────────────────────┐
+                    │        BIBLIOTHEKS-SYSTEM                  │
+                    │                                            │
+     O              │  ┌─────────────────────┐                  │
+    /|\             │  │ Katalog durchsuchen │                  │
+    / \             │  └─────────────────────┘                  │
+  Besucher ────────┼────────────┘                               │
+                    │                                            │
+     △              │                                            │
+     │              │  ┌─────────────────┐                      │
+  ───┴───           │  │ Buch ausleihen  │                      │
+  │     │           │  └─────────────────┘                      │
+  O     O           │         │                                  │
+ /|\   /|\          │         │ <<include>>                     │
+ / \   / \          │         ↓                                  │
+Gast Mitglied──────┼───►┌──────────────┐                       │
+       │            │    │Benutzer prüfen│                      │
+       │            │    └──────────────┘                       │
+       │            │                                            │
+       ├────────────┼───►┌─────────────────┐                   │
+       │            │    │ Buch verlängern │                   │
+       │            │    └─────────────────┘                   │
+       │            │                                            │
+       └────────────┼───►┌─────────────────┐                   │
+                    │    │  Reservieren    │                   │
+                    │    └─────────────────┘                   │
+                    │         △                                  │
+                    │         │ <<extend>>                      │
+                    │         │                                  │
+                    │    ┌─────────────────────────┐            │
+                    │    │ E-Mail-Benachrichtigung │            │
+                    │    └─────────────────────────┘            │
+                    │                                            │
+                    └────────────────────────────────────────────┘
 ```
 
 **Erklärung:**
-- **Besucher**: Basis-Akteur  
-- **Gast/Mitglied**: Spezialisierte Akteure (Generalisierung)  
-- **Katalog durchsuchen**: Für alle Besucher  
-- **Buch ausleihen** inkludiert **Benutzer prüfen** (Include)  
+- **Besucher**: Basis-Akteur
+- **Gast/Mitglied**: Spezialisierte Akteure (Generalisierung)
+- **Katalog durchsuchen**: Für alle Besucher
+- **Buch ausleihen** inkludiert **Benutzer prüfen** (Include)
 - **Reservieren** kann optional **E-Mail-Benachrichtigung** auslösen (Extend)
 
 ---
 
-## Erstellen eines Use-Case-Diagramms
+# Erstellen eines Use-Case-Diagramms
 
 >[!tip] Schritte zum Erstellen
-> 1. **Akteure identifizieren**: Wer nutzt das System?
-> 2. **Use Cases definieren**: Was soll das System tun?
-> 3. **Systemgrenzen zeichnen**: Was ist Teil des Systems?
-> 4. **Beziehungen modellieren**: Include, Extend, Generalisierung
-> 5. **Validieren**: Mit Stakeholdern überprüfen
+>1. **Akteure identifizieren**: Wer nutzt das System?
+>2. **Use Cases definieren**: Was soll das System tun?
+>3. **Systemgrenzen zeichnen**: Was ist Teil des Systems?
+>4. **Beziehungen modellieren**: Include, Extend, Generalisierung
+>5. **Validieren**: Mit Stakeholdern überprüfen
 
 **Beispiel-Workflow:**
+
 ```
+Schritt 1: Akteure sammeln
+    Kunde, Administrator, Zahlungssystem
 
-Schritt 1: Akteure sammeln  
-Kunde, Administrator, Zahlungssystem
+Schritt 2: Use Cases sammeln
+    Bestellen, Bezahlen, Produkte verwalten
 
-Schritt 2: Use Cases sammeln  
-Bestellen, Bezahlen, Produkte verwalten
+Schritt 3: Systemgrenze ziehen
+    [System: Online-Shop]
 
-Schritt 3: Systemgrenze ziehen  
-[System: Online-Shop]
+Schritt 4: Beziehungen hinzufügen
+    Bestellen <<include>> Bezahlen
+    Bestellen <<extend>> Gutschein einlösen
 
-Schritt 4: Beziehungen hinzufügen  
-Bestellen <> Bezahlen  
-Bestellen <> Gutschein einlösen
-
-Schritt 5: Review mit Team  
-✓ Vollständig? Korrekt?
-
+Schritt 5: Review mit Team
+    ✓ Vollständig? Korrekt?
 ```
 
 ---
 
-## Häufige Fehler
+# Häufige Fehler
 
 >[!warning] Typische Fehler vermeiden
 >
-> **❌ Zu technische Use Cases:**
+>**❌ Zu technische Use Cases:**
+>```
+>Falsch: "Datenbank abfragen"
+>Richtig: "Produkte suchen"
+>```
 >
-> ```
-> Falsch: "Datenbank abfragen"
-> Richtig: "Produkte suchen"
-> ```
+>**❌ Implementierungsdetails:**
+>```
+>Falsch: "SQL-Query ausführen"
+>Richtig: "Kundendaten abrufen"
+>```
 >
-> **❌ Implementierungsdetails:**
+>**❌ Falsche Beziehungsrichtung:**
+>```
+>Falsch: [Anmelden] ◄── <<extend>> ── [Bestellen]
+>Richtig: [Bestellen] ──── <<include>> ──► [Anmelden]
+>```
 >
-> ```
-> Falsch: "SQL-Query ausführen"
-> Richtig: "Kundendaten abrufen"
-> ```
->
-> **❌ Falsche Beziehungsrichtung:**
->
-> ```
-> Falsch: [Anmelden] ◄── <<extend>> ── [Bestellen]
-> Richtig: [Bestellen] ──── <<include>> ──► [Anmelden]
-> ```
->
-> **❌ Zu viele Details:**
->
-> ```
-> Falsch: 50 Use Cases mit allen Spezialfällen
-> Richtig: 10–15 Haupt-Use-Cases
-> ```
+>**❌ Zu viele Details:**
+>```
+>Falsch: 50 Use Cases mit allen Spezialfällen
+>Richtig: 10-15 Haupt-Use-Cases
+>```
 
 ---
 
-## Use-Case-Diagramm vs. andere UML-Diagramme
+# Use-Case-Diagramm vs. andere UML-Diagramme
 
 | Diagramm | Zweck | Perspektive |
-|---|---|---|
+|----------|-------|-------------|
 | **Anwendungsfalldiagramm** | Was kann das System? | Nutzersicht (extern) |
 | [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]] | Wie ist das System strukturiert? | Entwicklersicht (intern) |
 | [[02 - RESOURCES/Notes/UML-Sequenzdiagramme\|UML-Sequenzdiagramme]] | Wie läuft eine Interaktion ab? | Zeitlicher Ablauf |
@@ -1151,187 +1128,25 @@ Schritt 5: Review mit Team
 
 ---
 
-## Zusammenfassung
+# Zusammenfassung
 
->[!note] Anwendungsfalldiagramm – Kernpunkte
-> - **Zweck**: System-Funktionalitäten aus Nutzersicht definieren
-> - **Hauptelemente**: Akteure, Use Cases, Beziehungen, Systemgrenzen
-> - **Beziehungen**: Include (Pflicht), Extend (Optional), Generalisierung (Vererbung)
-> - **Verwendung**: Anforderungsanalyse, Projektplanung, Kommunikation
-> - **Perspektive**: Externe Sicht auf das System
->
->**Merkhilfe:** Anwendungsfalldiagramme beantworten: **„WER macht WAS mit dem System?“**
+>[!summary] Anwendungsfalldiagramm - Kernpunkte
+>- **Zweck**: System-Funktionalitäten aus Nutzersicht definieren
+>- **Hauptelemente**: Akteure, Use Cases, Beziehungen, Systemgrenzen
+>- **Beziehungen**: Include (Pflicht), Extend (Optional), Generalisierung (Vererbung)
+>- **Verwendung**: Anforderungsanalyse, Projektplanung, Kommunikation
+>- **Perspektive**: Externe Sicht auf das System
 
----
-
-## Verwandte Konzepte
-
-- [[02 - RESOURCES/Notes/UML\|UML]] – Unified Modeling Language
-- [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]] – Struktur des Systems
-- [[02 - RESOURCES/Notes/UML-Sequenzdiagramme\|UML-Sequenzdiagramme]] – Zeitlicher Ablauf
-- [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]] – Prozessabläufe
-- [[Requirements Engineering\|Requirements Engineering]] – Anforderungsanalyse
-- [[User Stories\|User Stories]] – Alternative Anforderungsdokumentation
+>[!tip] Merkhilfe
+>Anwendungsfalldiagramme beantworten: **"WER macht WAS mit dem System?"**
 
 ---
 
-# 🎯 Typische AP2-Prüfungsaufgabe
+# Verwandte Konzepte
 
->[!example] Prüfungsaufgabe: Bibliothekssystem
->**Szenario:** Eine Bibliothek soll digitalisiert werden:
->- Mitglieder können Bücher ausleihen und zurückgeben
->- Mitglieder können nach Büchern suchen
->- Bibliothekare können neue Bücher erfassen
->- Bibliothekare können Mahnungen versenden
->- Administratoren können Mitglieder verwalten
->- Das System sendet automatisch Erinnerungen bei Fälligkeit
->
->**Aufgabe:** Erstellen Sie ein Use-Case-Diagramm mit allen Akteuren, Anwendungsfällen und Beziehungen (include, extend, Generalisierung)
-
----
-
-# 🍳 Kochrezept: Use-Case-Diagramm in 5 Schritten (Visuell)
-
-```
-┌─────────────────────────────────────────────────────────┐
-│ SCHRITT 1: AKTEURE FINDEN                                │
-├─────────────────────────────────────────────────────────┤
-│ Suche nach: Wer interagiert mit dem System?              │
-│                                                          │
-│  👤 Mitglied     (normaler Benutzer)                     │
-│  👤 Bibliothekar (erweiterte Rechte)                     │
-│  👤 Admin        (volle Rechte)                          │
-│  🖥️  System       (automatische Aktionen)                │
-│                                                          │
-│ 📌 TIPP: Akteure = Strichmännchen außerhalb der Box     │
-│          Rollen/Personen, die mit dem System arbeiten    │
-└─────────────────────────────────────────────────────────┘
-          ↓
-┌─────────────────────────────────────────────────────────┐
-│ SCHRITT 2: USE CASES IDENTIFIZIEREN                     │
-├─────────────────────────────────────────────────────────┤
-│ Suche nach: Was KANN man tun? (Verben!)                 │
-│                                                          │
-│  ⭕ Bücher ausleihen                                     │
-│  ⭕ Bücher zurückgeben                                   │
-│  ⭕ Nach Büchern suchen                                  │
-│  ⭕ Neue Bücher erfassen                                 │
-│  ⭕ Mahnungen versenden                                  │
-│  ⭕ Mitglieder verwalten                                 │
-│                                                          │
-│ 📌 FORMAT: Use Cases = Ovale mit VERBEN                 │
-│    (nicht "Buch" sondern "Buch ausleihen")              │
-└─────────────────────────────────────────────────────────┘
-          ↓
-┌─────────────────────────────────────────────────────────┐
-│ SCHRITT 3: SYSTEMGRENZE ZEICHNEN                        │
-├─────────────────────────────────────────────────────────┤
-│                                                          │
-│           ┌────────────────────────────┐                │
-│           │   Bibliothekssystem        │                │
-│  Mitglied │                            │                │
-│    👤─────│──⭕ Bücher ausleihen       │                │
-│           │                            │                │
-│           │  ⭕ Bücher zurückgeben     │                │
-│           │                            │                │
-│           └────────────────────────────┘                │
-│                                                          │
-│ 📌 REGEL: Akteure AUSSEN, Use Cases INNEN               │
-│          Rechteck = Systemgrenze                         │
-└─────────────────────────────────────────────────────────┘
-          ↓
-┌─────────────────────────────────────────────────────────┐
-│ SCHRITT 4: BEZIEHUNGEN - INCLUDE & EXTEND               │
-├─────────────────────────────────────────────────────────┤
-│                                                          │
-│ <<include>> = MUSS IMMER (wird zwingend ausgeführt)     │
-│                                                          │
-│   Bücher ausleihen                                       │
-│         │                                                │
-│         │ <<include>>                                    │
-│         ↓                                                │
-│   Anmelden                                               │
-│                                                          │
-│ (Ausleihen OHNE Anmelden geht NICHT)                    │
-│ Pfeil: Basis → Hilfsfunktion                             │
-│                                                          │
-│ ─────────────────────────────────────────────────        │
-│                                                          │
-│ <<extend>> = OPTIONAL (kann zusätzlich passieren)       │
-│                                                          │
-│   Bücher ausleihen                                       │
-│         ↑                                                │
-│         │ <<extend>>                                     │
-│         │                                                │
-│   Vormerkung löschen                                     │
-│                                                          │
-│ (Ausleihen geht auch OHNE Vormerkung)                   │
-│ Pfeil: Erweiterung → Basis                               │
-│                                                          │
-│ 📌 ESELSBRÜCKE:                                          │
-│    include = INbegriffen (zwingend)                      │
-│    extend = EXtra (optional)                             │
-│                                                          │
-│ 📌 WICHTIG: Nur ASCII <<>> verwenden!                    │
-│    NICHT 《》 (Unicode-Zeichen)                         │
-└─────────────────────────────────────────────────────────┘
-          ↓
-┌─────────────────────────────────────────────────────────┐
-│ SCHRITT 5: GENERALISIERUNG                              │
-├─────────────────────────────────────────────────────────┤
-│                                                          │
-│  👤 Bibliothekar                                         │
-│         △                                                │
-│         │ (Vererbung bei Akteuren)                      │
-│  👤 Mitglied                                             │
-│                                                          │
-│ (Bibliothekar IST AUCH ein Mitglied + mehr Rechte)      │
-│                                                          │
-│ 📌 REGEL: Spezialisierung zeigt auf Allgemeines         │
-│          Leerer Pfeil △ nach oben                        │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🎨 Visuelle Merkhilfe: Beziehungen auf einen Blick
-
-```
-┌──────────────┬─────────────┬──────────────────┬───────────┐
-│ Beziehung    │ Pfeilart    │ Richtung         │ Bedeutung │
-├──────────────┼─────────────┼──────────────────┼───────────┤
-│ Assoziation  │ ────        │ Akteur → Use Case│ benutzt   │
-│              │             │                  │           │
-│ <<include>>  │ ┄┄┄┄►       │ Basis → Hilfe    │ zwingend  │
-│              │             │                  │           │
-│ <<extend>>   │ ┄┄┄┄►       │ Extra → Basis    │ optional  │
-│              │             │                  │           │
-│ Vererbung    │ ────△       │ Spez. → Allg.    │ ist-ein   │
-└──────────────┴─────────────┴──────────────────┴───────────┘
-```
-
->[!tip] Merkhilfe für include vs extend
->**Include** = "IN"begriffen → geht IN den Use Case hinein → MUSS drin sein
->**Extend** = "EX"tra → kommt von außen als EXtra dazu → KANN dabei sein
-
----
-
-# ✅ Checkliste Use-Case-Diagramm
-
->[!check] Vor der Abgabe prüfen:
->- [ ] Alle Akteure als Strichmännchen außerhalb?
->- [ ] Systemgrenze als Rechteck mit Namen?
->- [ ] Use Cases als Ovale mit Verben?
->- [ ] Include-Beziehungen korrekt (zwingend)?
->- [ ] Extend-Beziehungen korrekt (optional)?
->- [ ] Pfeilrichtungen beachtet?
->- [ ] Stereotypen mit `<<...>>` (ASCII-Brackets!)?
->- [ ] Generalisierung mit △-Pfeil?
-
->[!failure] Häufige Fehler
->❌ Include/Extend verwechselt
->❌ Pfeilrichtung vertauscht
->❌ Use Cases als Substantive statt Verben ("Buch" statt "Buch ausleihen")
->❌ Akteure innerhalb der Systemgrenze
->❌ Falsche Unicode-Brackets 《》 statt `<<>>`
->❌ Zu technische Use Cases ("SQL-Query" statt "Daten abrufen")
+- [[02 - RESOURCES/Notes/UML\|UML]] - Unified Modeling Language
+- [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]] - Struktur des Systems
+- [[02 - RESOURCES/Notes/UML-Sequenzdiagramme\|UML-Sequenzdiagramme]] - Zeitlicher Ablauf
+- [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]] - Prozessabläufe
+- [[Requirements Engineering\|Requirements Engineering]] - Anforderungsanalyse
+- [[User Stories\|User Stories]] - Alternative Anforderungsdokumentation

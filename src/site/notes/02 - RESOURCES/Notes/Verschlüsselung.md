@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/verschluesselung/","tags":["informatik/sicherheit","kryptografie"],"noteIcon":"","updated":"2025-11-10T15:23:30.802+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/verschluesselung/","tags":["informatik/sicherheit","kryptografie"],"noteIcon":"","updated":"2025-11-07T09:43:31.000+01:00"}
 ---
 
 >Verschlüsselung wandelt lesbare Daten (Klartext) in unlesbare Daten (Geheimtext) um. So kann niemand ohne Schlüssel die Daten lesen.
@@ -92,41 +92,3 @@ Der Algorithmus ist die Methode, wie verschlüsselt wird. Nutze immer bewährte 
 - [[02 - RESOURCES/Notes/TLS\|TLS]] - Verschlüsselung im Internet
 - [[02 - RESOURCES/Notes/Hash-Funktion\|Hash-Funktion]] - Einweg-Verschlüsselung
 - [[02 - RESOURCES/Notes/Digitale Signatur\|Digitale Signatur]] - Echtheit beweisen
-
----
-
-# 🎯 AP2-Prüfungsaufgabe: Verschlüsselung
-
->[!example] Typische Prüfungsaufgabe
->**Aufgabe:** Unterscheide symmetrische und asymmetrische Verschlüsselung. Nenne je 2 Beispiele und erkläre Vor-/Nachteile.
-
----
-
-## ✅ Kompakte Lösung
-
-| Kriterium | Symmetrisch | Asymmetrisch |
-|---|---|---|
-| **Schlüssel** | 1 Schlüssel | 2 Schlüssel (public/private) |
-| **Beispiele** | [[02 - RESOURCES/Notes/AES\|AES]], DES | [[02 - RESOURCES/Notes/RSA\|RSA]], ECC |
-| **Geschwindigkeit** | ⚡ Sehr schnell | 🐌 Langsamer |
-| **Schlüsseltausch** | ❌ Problem | ✅ Einfach |
-| **Nutzung** | Daten verschlüsseln | Schlüsseltausch, Signatur |
-
-**Typischer AP2-Ablauf:**
-1. Bob sendet öffentlichen Schlüssel an Alice
-2. Alice verschlüsselt AES-Schlüssel mit Bobs öffentlichem Schlüssel → Asymmetrisch
-3. Alice sendet verschlüsselten AES-Schlüssel
-4. Bob entschlüsselt mit privatem Schlüssel → hat jetzt AES-Schlüssel
-5. Weitere Kommunikation mit AES → Symmetrisch (schnell!)
-
->[!check] AP2-Checkliste
->- ✅ Symmetrisch: 1 Schlüssel, schnell, Schlüsselproblem
->- ✅ Asymmetrisch: 2 Schlüssel, langsam, sicherer Austausch
->- ✅ [[02 - RESOURCES/Notes/Hybride Verschlüsselung\|Hybride Verschlüsselung]]: Kombination aus beiden
->- ✅ [[02 - RESOURCES/Notes/AES\|AES]]: 128/192/256 Bit
->- ✅ [[02 - RESOURCES/Notes/RSA\|RSA]]: Mindestens 2048 Bit
-
->[!warning] Häufige Fehler
->- ❌ "RSA für große Dateien" → Zu langsam!
->- ❌ "Public Key geheim halten" → Nein, public = öffentlich!
->- ❌ "Ein Schlüssel bei asymmetrisch" → Zwei Schlüssel!

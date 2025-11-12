@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/binaerzahl/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2025-10-29T12:59:03.992+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/binaerzahl/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00"}
 ---
 
 >Es ist ein Zahlsystem, bei den man nur **Zwei** Zahlen benutzt (1 und 0). 

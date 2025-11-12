@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker-compose/","tags":["informatik/virtualisierung/docker/compose","informatik/virtualisierung/docker/orchestration"],"noteIcon":"","updated":"2025-11-06T15:39:08.507+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker-compose/","tags":["informatik/virtualisierung/docker/compose","informatik/virtualisierung/docker/orchestration"],"noteIcon":"","updated":"2025-11-06T15:39:08.000+01:00"}
 ---
 
 >**Docker Compose** orchestriert mehrere [[02 - RESOURCES/Notes/Docker Container\|Docker Container]] mit einer einzigen YAML Datei.

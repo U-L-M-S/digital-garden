@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/stateful-inspection-firewall/","tags":["informatik/netzwerk/firewall","firewall/generation-2"],"noteIcon":"","updated":"2025-11-07T11:31:52.517+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/stateful-inspection-firewall/","tags":["informatik/netzwerk/firewall","firewall/generation-2"],"noteIcon":"","updated":"2025-11-07T11:31:52.000+01:00"}
 ---
 
 > [[02 - RESOURCES/Notes/Firewall\|Firewall]] Generation 2 (Ende 1990er / Anfang 2000er)
