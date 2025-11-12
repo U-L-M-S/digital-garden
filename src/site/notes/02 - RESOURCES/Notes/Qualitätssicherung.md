@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/qualitaetssicherung/","tags":["GFN/LF10","informatik/netzwerk/ISO"],"noteIcon":"","updated":"2025-10-29T12:59:09.614+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/qualitaetssicherung/","tags":["GFN/LF10","informatik/netzwerk/ISO"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
 ---
 
 >Es ist der [[02 - RESOURCES/Notes/Prozess\|Prozess]], der sicherstellt, dass Produkte oder Dienstleistungen bestimmte Qualitätsstandards erfüllen. Sie umfasst systematische Maßnahmen zur Vermeidung von Fehlern und zur Verbesserung der Qualität in der [[02 - RESOURCES/Notes/Produktion\|Produktion]] oder Entwicklung.

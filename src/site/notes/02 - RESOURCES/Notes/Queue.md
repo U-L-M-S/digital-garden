@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/queue/","tags":["datenstrukturen/queue","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-11-05T12:25:33.581+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/queue/","tags":["datenstrukturen/queue","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-11-05T12:25:33.000+01:00"}
 ---
 
 

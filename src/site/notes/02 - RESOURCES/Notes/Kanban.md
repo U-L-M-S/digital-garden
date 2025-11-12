@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kanban/","tags":["projektmanagement","agile/methoden","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T12:05:06.564+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kanban/","tags":["projektmanagement","agile/methoden","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T12:05:06.000+01:00"}
 ---
 
 >**Kanban** ist eine agile Projektmanagement-Methode, die Arbeitsprozesse visualisiert und den Workflow optimiert, indem Aufgaben in Spalten auf einem Board dargestellt werden.

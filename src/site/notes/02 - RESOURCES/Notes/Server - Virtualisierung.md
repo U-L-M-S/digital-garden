@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/server-virtualisierung/","tags":["informatik/virtualisierung","GFN/LF10/FISI"],"noteIcon":"","updated":"2025-10-29T12:59:10.072+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/server-virtualisierung/","tags":["informatik/virtualisierung","GFN/LF10/FISI"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
 ---
 
 >Jetzt dass du [[02 - RESOURCES/Notes/Server - Grundlagen\|Server - Grundlagen]] gelernt hast. lass uns auf [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]] fokusieren.

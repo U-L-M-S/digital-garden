@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hgb/","tags":["rechtliches/handelsrecht","business/unternehmen"],"noteIcon":"","updated":"2025-10-29T12:59:06.509+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hgb/","tags":["rechtliches/handelsrecht","business/unternehmen"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
 ---
 
 >Das HGB (Handelsgesetzbuch) regelt die Rechtsbeziehungen zwischen Kaufleuten und Handelsgeschäfte.

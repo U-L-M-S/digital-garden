@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-10-29T12:59:06.928+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
 ---
 
 > 32-[[02 - RESOURCES/Notes/Bit\|bit]]-Binärzahlen, die in [[02 - RESOURCES/Notes/Dezimal\|Dezimal]] dargestellt werden und mit "**.**"  in vier [[02 - RESOURCES/Notes/Oktett\|Oktett]]e getrennt sind.  
@@ -97,72 +97,6 @@ Als nächsten Schritt beim [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] müss
 
 >[!hint] [[02 - RESOURCES/Notes/Subnetz bestimmen\|Subnetz bestimmen]]
 >Mit dieser Methode können wir [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] und [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]] bestimmter  [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]en herausfinden, ohne die ganze Rechnerei und Tabelldarstellung.
-
----
-
-# 🎯 AP2-Prüfungsaufgabe: Subnetting IPv4
-
->[!example] Typische Prüfungsaufgabe
->**Gegeben:** 192.168.10.0/24 soll in 4 Subnetze aufgeteilt werden.
->
->**Aufgabe:**
->1. Berechne neue Subnetzmaske
->2. Gib alle 4 Netz-IDs an
->3. Gib alle 4 Broadcast-IDs an
->4. Wie viele nutzbare Hosts pro Subnetz?
-
----
-
-## ✅ Kompakte Lösung
-
-**1. Neue Subnetzmaske:**
-- Brauche 4 Subnetze → 2 Bits (2² = 4)
-- /24 + 2 = /26
-- **Neue Maske: 255.255.255.192**
-
-**2. Netz-IDs:**
-- Subnet 1: 192.168.10.0
-- Subnet 2: 192.168.10.64
-- Subnet 3: 192.168.10.128
-- Subnet 4: 192.168.10.192
-
-**3. Broadcast-IDs:**
-- Subnet 1: 192.168.10.63
-- Subnet 2: 192.168.10.127
-- Subnet 3: 192.168.10.191
-- Subnet 4: 192.168.10.255
-
-**4. Nutzbare Hosts:**
-- 2^(32-26) - 2 = 64 - 2 = **62 Hosts** pro Subnetz
-
-**Schnellformel:**
-```
-Subnetze benötigt: n
-→ Bits benötigt: log₂(n) aufrunden
-→ Neue Maske: alte + benötigte Bits
-
-Hosts pro Subnet: 2^(verbleibende Host-Bits) - 2
-```
-
->[!check] AP2-Checkliste
->- ✅ Binärrechnung beherrschen
->- ✅ Formel: 2^n für Anzahl Subnetze
->- ✅ Host-Berechnung: 2^(32-Präfix) - 2
->- ✅ Netz-ID = erste Adresse
->- ✅ Broadcast = letzte Adresse
-
->[!warning] Häufige Fehler
->- ❌ -2 bei Hosts vergessen (Netz-ID & Broadcast nicht nutzbar)
->- ❌ Falsche Binärumrechnung
->- ❌ Verwechslung von /24 mit 255.255.255.0
-
----
-
-## 🔗 Weiterführende Themen
-
-- [[02 - RESOURCES/Notes/Subnet Mask\|Subnet Mask]] - Subnetzmaske erklärt
-- [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] - Grundlagen
-- [[02 - RESOURCES/Notes/IPv4\|IPv4]] - IP-Adressierung
 
 </div></div>
 

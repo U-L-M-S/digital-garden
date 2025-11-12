@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/empirie/","tags":["projektmanagement"],"noteIcon":"","updated":"2025-10-29T12:59:05.821+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/empirie/","tags":["projektmanagement"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
 ---
 
 >**Empirie** ist ein Ansatz, der auf Erfahrungen und Beobachtungen basiert, um Wissen zu gewinnen und fundierte Entscheidungen zu treffen. In der Praxis bedeutet das, dass Entscheidungen nicht rein theoretisch getroffen werden, sondern durch tatsächliche Daten und Ergebnisse unterstützt werden.  

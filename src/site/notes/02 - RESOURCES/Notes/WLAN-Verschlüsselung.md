@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wlan-verschluesselung/","tags":["informatik/netzwerk/wifi","kryptografie/wifi","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:11.373+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wlan-verschluesselung/","tags":["informatik/netzwerk/wifi","kryptografie/wifi","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
 ---
 
 >[[02 - RESOURCES/Notes/WLAN\|WLAN]] ist ein offenes [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]], das bedeutet, dass jeder mithören und sehen kann, was passiert, da die Übertragung über Funkwellen erfolgt. 

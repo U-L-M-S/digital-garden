@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ssh/","tags":["informatik/betriebssystem/linux/command","informatik/betriebssystem/windows/command","informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-10-29T12:59:10.541+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ssh/","tags":["informatik/betriebssystem/linux/command","informatik/betriebssystem/windows/command","informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
 ---
 
 >Secure Shell

@@ -1,31 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/entwicklung-und-umsetzung-von-algorithmen/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-10T15:32:23.958+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/entwicklung-und-umsetzung-von-algorithmen/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-06T11:14:43.000+01:00"}
 ---
 
 
 >Dieser Teil dauert ebenfalls 90 Minuten und umfasst 100 Punkte (10%).
 >>Hier geht es um die praktische Programmierung - Algorithmen, [[02 - RESOURCES/Notes/SQL\|SQL]], [[02 - RESOURCES/Notes/OOP\|OOP]] und Testing.
-___
-
-# 📊 Themen nach Prüfungswahrscheinlichkeit
-
-## 🔴 SEHR HOCH (20%) - Datenbanken
-- [[02 - RESOURCES/Notes/SQL\|SQL]] - Abfragen, JOINs, Aggregatfunktionen
-- [[02 - RESOURCES/Notes/Normalisierung\|Normalisierung]] - 1NF, 2NF, 3NF mit Prüfungsaufgaben
-- [[02 - RESOURCES/Notes/ERM\|ERM]] - Entity-Relationship-Modell
-
-## 🟠 HOCH (15%) - Algorithmen & Datenstrukturen
-- [[02 - RESOURCES/Notes/Bubble Sort\|Bubble Sort]] - O(n²) Sortieralgorithmus mit Kochrezept
-- [[02 - RESOURCES/Notes/Quicksort\|Quicksort]] - O(n log n) Sortieralgorithmus mit Kochrezept
-- [[02 - RESOURCES/Notes/Binary Search\|Binary Search]] - O(log n) Suchalgorithmus mit Kochrezept
-- [[02 - RESOURCES/Notes/Linear Search\|Linear Search]] - O(n) Suchalgorithmus mit Kochrezept
-- [[02 - RESOURCES/Notes/Big O\|Big O]] - Zeitkomplexität analysieren mit Prüfungsaufgabe
-
-## 🟡 MITTEL (8%) - Testing
-- [[02 - RESOURCES/Notes/Unit Test\|Unit Test]] - Komponententests
-- [[02 - RESOURCES/Notes/Integrationstest\|Integrationstest]] - System-Tests
-- [[02 - RESOURCES/Notes/Test Driven Development\|Test Driven Development]] - TDD-Prinzip
-
 ___
 
 ## [[02 - RESOURCES/Notes/SQL\|SQL]] - Strukturierte Datenbankabfragen
@@ -234,7 +213,7 @@ ___
 3. Wiederhole bis sortiert
 
 **Komplexität:**
-- **Best Case:** 3. Big O(n) - bereits sortiert
+- **Best Case:** [[3. Big O(n)\|O(n)]] - bereits sortiert
 - **Average Case:** [[02 - RESOURCES/Notes/6. Big O(n²)\|O(n²)]]
 - **Worst Case:** [[02 - RESOURCES/Notes/6. Big O(n²)\|O(n²)]]
 

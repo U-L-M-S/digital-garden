@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dmarc/","tags":["informatik/sicherheit/email","dns"],"noteIcon":"","updated":"2025-11-07T11:40:17.415+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dmarc/","tags":["informatik/sicherheit/email","dns"],"noteIcon":"","updated":"2025-11-07T11:40:17.000+01:00"}
 ---
 
 > Domain-based Message Authentication, Reporting & Conformance

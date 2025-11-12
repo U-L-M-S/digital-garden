@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/firewall-1/","tags":["informatik/netzwerk/firewall","informatik/hardware/information","informatik/sicherheit","GFN","finished"],"noteIcon":"","updated":"2025-11-07T12:07:27.230+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/firewall-1/","tags":["informatik/netzwerk/firewall","informatik/hardware/information","informatik/sicherheit","GFN","finished"],"noteIcon":"","updated":"2025-11-07T12:07:27.000+01:00"}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
