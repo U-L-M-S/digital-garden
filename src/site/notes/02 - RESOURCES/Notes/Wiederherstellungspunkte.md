@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wiederherstellungspunkte/","tags":["system/snapshot","informatik/betriebssystem/windows/wiederherstellung"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wiederherstellungspunkte/","tags":["system/snapshot","informatik/betriebssystem/windows/wiederherstellung"],"noteIcon":"","updated":"2025-10-29T12:59:11.309+01:00"}
 ---
 
 

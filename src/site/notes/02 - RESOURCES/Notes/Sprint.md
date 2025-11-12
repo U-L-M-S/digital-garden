@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sprint/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sprint/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2025-10-29T12:59:10.424+01:00"}
 ---
 
 >Ein **Sprint** ist ein zentraler Bestandteil des **Scrum-Frameworks** und bezeichnet einen festen Zeitraum (meist 1–4 Wochen), in dem ein Team ein definiertes Ziel erreicht und ein potenziell nutzbares Produktinkrement liefert. 

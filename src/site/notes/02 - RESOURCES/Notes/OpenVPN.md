@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/open-vpn/","tags":["informatik/netzwerk/vpn","opensource","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-11-07T11:35:54.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/open-vpn/","tags":["informatik/netzwerk/vpn","opensource","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-11-07T11:35:54.892+01:00"}
 ---
 
 > Etabliertes [[02 - RESOURCES/Notes/VPN\|VPN]]-Protokoll

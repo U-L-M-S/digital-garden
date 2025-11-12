@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rc-4/","tags":["sicherheit/kryptografie","algorithmus","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T13:50:29.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/rc-4/","tags":["sicherheit/kryptografie","algorithmus","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T13:50:29.747+01:00"}
 ---
 
 >**RC4 (Rivest Cipher 4)** ist ein **Stream-Cipher** (Stromverschlüsselung), der 1987 von Ron Rivest entwickelt wurde. Er verschlüsselt Daten **byteweise** durch XOR-Verknüpfung mit einem Pseudozufallsstrom.

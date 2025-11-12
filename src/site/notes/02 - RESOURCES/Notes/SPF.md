@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/spf/","tags":["informatik/sicherheit/email","dns"],"noteIcon":"","updated":"2025-11-07T11:40:12.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/spf/","tags":["informatik/sicherheit/email","dns"],"noteIcon":"","updated":"2025-11-07T11:40:12.684+01:00"}
 ---
 
 > Sender Policy Framework

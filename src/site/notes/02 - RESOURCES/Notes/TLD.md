@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/tld/","tags":["informatik/netzwerk/domain"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/tld/","tags":["informatik/netzwerk/domain"],"noteIcon":"","updated":"2025-10-29T12:59:10.820+01:00"}
 ---
 
 >Top-Level Domain

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["ausbildung/gfn/ap1","informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["ausbildung/gfn/ap1","informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:07.016+01:00"}
 ---
 
 >128-[[02 - RESOURCES/Notes/Bit\|bit]]-[[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en, die in [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt werden und 

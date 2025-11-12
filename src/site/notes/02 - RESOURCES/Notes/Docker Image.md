@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker-image/","tags":["informatik/virtualisierung/docker/images","informatik/virtualisierung/docker/grundlagen"],"noteIcon":"","updated":"2025-11-06T15:35:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker-image/","tags":["informatik/virtualisierung/docker/images","informatik/virtualisierung/docker/grundlagen"],"noteIcon":"","updated":"2025-11-06T15:35:10.962+01:00"}
 ---
 
 >**Docker Image**s sind Blaupausen oder Vorlagen für [[02 - RESOURCES/Notes/Docker Container\|Docker Container]] - wie Fotos die nicht verändert werden können.

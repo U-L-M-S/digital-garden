@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/suricata/","tags":["informatik/netzwerk/firewall","informatik/sicherheit/ids","opensource"],"noteIcon":"","updated":"2025-11-07T12:04:30.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/suricata/","tags":["informatik/netzwerk/firewall","informatik/sicherheit/ids","opensource"],"noteIcon":"","updated":"2025-11-07T12:04:30.501+01:00"}
 ---
 
 > Open-Source [[02 - RESOURCES/Notes/IDS\|IDS]]/[[02 - RESOURCES/Notes/IPS\|IPS]]-Engine

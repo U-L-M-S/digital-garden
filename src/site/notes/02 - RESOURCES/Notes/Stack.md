@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/stack/","tags":["datenstrukturen/stack","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-11-05T12:24:15.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/stack/","tags":["datenstrukturen/stack","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-11-05T12:24:15.948+01:00"}
 ---
 
 
