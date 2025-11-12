@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/symmetrische-verschluesselung/","tags":["ausbildung/gfn/ap1/vorbereitung","sicherheit/it-sicherheit","sicherheit/kryptografie","kryptografie/verschlüsselung","kryptografie/symmetrisch"],"noteIcon":"","updated":"2025-11-06T16:15:48.531+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/symmetrische-verschluesselung/","tags":["ausbildung/gfn/ap1/vorbereitung","sicherheit/it-sicherheit","sicherheit/kryptografie","kryptografie/verschlüsselung","kryptografie/symmetrisch"],"noteIcon":"","updated":"2025-11-06T16:15:48.000+01:00"}
 ---
 
 >Symmetrische Verschlüsselung ist ein Verfahren, bei dem <mark style="background: #ABF7F7A6;">Sender und Empfänger denselben geheimen Schlüssel verwenden</mark>, um Daten zu verschlüsseln und zu entschlüsseln.

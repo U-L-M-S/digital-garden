@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/vi/","tags":["usv/line-interactive","elektrotechnik/strom/teilaktiv"],"noteIcon":"","updated":"2025-10-29T12:59:11.170+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/vi/","tags":["usv/line-interactive","elektrotechnik/strom/teilaktiv"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
 ---
 
 

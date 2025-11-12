@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-networking/","tags":["informatik/virtualisierung/kubernetes/networking","informatik/netzwerk","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:20:11.529+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-networking/","tags":["informatik/virtualisierung/kubernetes/networking","informatik/netzwerk","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:20:11.000+01:00"}
 ---
 
 >**Kubernetes Networking** verbindet [[02 - RESOURCES/Notes/Kubernetes Pods\|Pods]], [[02 - RESOURCES/Notes/Kubernetes Services\|Services]] und externe Clients über ein Cluster-weites Netzwerk.

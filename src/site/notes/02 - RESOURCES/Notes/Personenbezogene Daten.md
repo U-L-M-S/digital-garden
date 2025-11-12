@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/personenbezogene-daten/","tags":["ausbildung/gfn/ap1","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:09.048+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/personenbezogene-daten/","tags":["ausbildung/gfn/ap1","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
 ---
 
 >Alle Informationen, die verwendet werden, um eine [[02 - RESOURCES/Notes/natürliche Person\|natürliche Person]] zu identifizieren:  
