@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/nextcloud/","tags":["informatik/server","GFN/LF10/FISI"],"noteIcon":"","updated":"2025-10-29T12:59:08.681+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/nextcloud/","tags":["informatik/server","GFN/LF10/FISI"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00"}
 ---
 
 > **Nextcloud** ist eine freie Cloud-Software, die deine eigene "Dropbox" auf dem eigenen [[02 - RESOURCES/Notes/Server\|Server]] macht.

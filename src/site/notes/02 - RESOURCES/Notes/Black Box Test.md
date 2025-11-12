@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/black-box-test/","tags":["qualitaetssicherung/testing","testing/verfahren","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T09:51:07.336+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/black-box-test/","tags":["qualitaetssicherung/testing","testing/verfahren","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:20:43.000+01:00"}
 ---
 
 >Black Box Test ist eine Testmethode, bei der Software getestet wird, ohne den internen Code zu kennen.
@@ -52,14 +52,14 @@ Eingabe              Ausgabe
 
 >[!example] Test-Techniken im Black Box Test
 >
->**1. Äquivalenzklassenbildung**
+>**1. [[02 - RESOURCES/Notes/Äquivalenzklasse\|Äquivalenzklasse]]nbildung**
 >```
 >Beispiel: Altersangabe (0-100)
 >
 >Klassen:
->  └→ Gültig:    1-100  (Test: 50)
->  └→ Ungültig: <0     (Test: -5)
->  └→ Ungültig: >100   (Test: 150)
+>  └→ Gültig:    1-100  ([[Testfall]]: 50)
+>  └→ Ungültig: <0     ([[Testfall]]: -5)
+>  └→ Ungültig: >100   ([[Testfall]]: 150)
 >```
 >
 >**2. Grenzwertanalyse**
@@ -120,6 +120,6 @@ BLACK BOX TEST - ABLAUF
 >[!note] Black Box vs [[02 - RESOURCES/Notes/White Box Test\|White Box Test]]
 >**Hauptunterschied:**
 >- **Black Box:** Tester kennt Code NICHT
->- **[[02 - RESOURCES/Notes/White Box Test\|White Box Test]]:** Tester kennt Code und testet interne Logik
-
-**Kombiniert ergeben sie die beste Testabdeckung!**
+>- **[[02 - RESOURCES/Notes/White Box Test\|White Box Test]]:** Tester kennt Code und testet interne Logik mit [[02 - RESOURCES/Notes/Unit Testing\|Unit Testing]]
+>
+>**Kombiniert ergeben sie die beste Testabdeckung!**

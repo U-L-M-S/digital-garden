@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/proxmox/","tags":["informatik/virtualisierung","informatik/server"],"noteIcon":"","updated":"2025-11-07T12:04:06.665+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/proxmox/","tags":["informatik/virtualisierung","informatik/server"],"noteIcon":"","updated":"2025-11-07T12:04:06.000+01:00"}
 ---
 
 > Proxmox VE (Virtual Environment)

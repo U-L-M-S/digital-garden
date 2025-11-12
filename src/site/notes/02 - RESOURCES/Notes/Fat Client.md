@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/fat-client/","tags":["client/vollständig","computer/autonom","informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:06.001+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/fat-client/","tags":["client/vollständig","computer/autonom","informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
 ---
 
 

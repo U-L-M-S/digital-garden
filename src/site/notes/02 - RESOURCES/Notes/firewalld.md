@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/firewalld/","tags":["informatik/linux","informatik/netzwerk/firewall","linux/dienst"],"noteIcon":"","updated":"2025-11-07T11:35:48.527+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/firewalld/","tags":["informatik/linux","informatik/netzwerk/firewall","linux/dienst"],"noteIcon":"","updated":"2025-11-07T11:35:48.000+01:00"}
 ---
 
 > Moderne [[02 - RESOURCES/Notes/Firewall\|Firewall]]-Lösung für Linux

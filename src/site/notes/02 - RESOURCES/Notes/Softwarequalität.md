@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/softwarequalitaet/","tags":["informatik/softwareentwicklung","ausbildung/gfn/ap2/vorbereitung","qualität/software"],"noteIcon":"","updated":"2025-11-07T15:13:15.517+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/softwarequalitaet/","tags":["informatik/softwareentwicklung","ausbildung/gfn/ap2/vorbereitung","qualität/software"],"noteIcon":"","updated":"2025-11-07T15:13:15.000+01:00"}
 ---
 
 >**Softwarequalität** beschreibt, wie gut eine [[02 - RESOURCES/Notes/Software\|Software]] ihre Aufgabe erfüllt und den Anforderungen entspricht.

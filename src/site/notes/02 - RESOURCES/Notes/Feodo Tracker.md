@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/feodo-tracker/","tags":["informatik/sicherheit/malware","threat-intelligence"],"noteIcon":"","updated":"2025-11-07T11:36:04.499+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/feodo-tracker/","tags":["informatik/sicherheit/malware","threat-intelligence"],"noteIcon":"","updated":"2025-11-07T11:36:04.000+01:00"}
 ---
 
 > Datenbank von Banking-Trojanern

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/test-driven-development/","tags":["programmierung/methoden","qualitaetssicherung/agile","GFN/prüfungsrelevant/AP2","AP2025/neu"],"noteIcon":"","updated":"2025-11-12T09:55:20.755+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/test-driven-development/","tags":["programmierung/methoden","qualitaetssicherung/agile","GFN/prüfungsrelevant/AP2","AP2025/neu"],"noteIcon":"","updated":"2025-11-12T15:22:53.000+01:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 >
 >**2. GREEN (Grün) - Code schreiben:**
 >- Schreibe nur so viel Code wie nötig
->- Der Test muss erfolgreich sein
+>- Der [[02 - RESOURCES/Notes/Testfall\|Testfall]] muss erfolgreich sein
 >- Keine Optimierung jetzt!
 >
 >**3. REFACTOR (Verbessern) - Code aufräumen:**
@@ -73,7 +73,7 @@ ASCII-Zyklus:
 >**Schritt 2 - GREEN (Minimal-Code):**
 >```java
 >public class Calculator {
->    public int add(int a, int b) {
+>    public int add(int a, int b) {  // [[Methode]]
 >        return a + b;
 >    }
 >}
@@ -103,7 +103,7 @@ ASCII-Zyklus:
 >// 2. GREEN - Code schreiben
 >public double divide(int a, int b) {
 >    if (b == 0) {
->        throw new IllegalArgumentException("Division durch Null!");
+>        throw new IllegalArgumentException("Division durch Null!");  // [[Exception]]
 >    }
 >    return (double) a / b;
 >}
@@ -111,7 +111,7 @@ ASCII-Zyklus:
 >// 3. REFACTOR - Fehlermeldung verbessern
 >public double divide(int a, int b) {
 >    if (b == 0) {
->        throw new IllegalArgumentException(
+>        throw new IllegalArgumentException(  // [[Exception]]
 >            "Fehler: Division durch " + b + " ist nicht erlaubt!"
 >        );
 >    }
@@ -140,8 +140,8 @@ ASCII-Zyklus:
 >- Leichter zu erweitern
 >
 >**Hohe Testabdeckung:**
->- Fast 100% Code Coverage
->- Alle wichtigen Fälle getestet
+>- Fast 100% [[02 - RESOURCES/Notes/Code Coverage\|Code Coverage]]
+>- Alle wichtigen Fälle getestet mit [[02 - RESOURCES/Notes/Unit Testing\|Unit Testing]]
 >- Dokumentation durch Tests
 
 ```
@@ -196,6 +196,7 @@ Traditionell:           TDD:
 >- Nutze [[02 - RESOURCES/Notes/Unit Testing\|Unit Testing]]-Frameworks (JUnit, pytest)
 >- Schreibe einfache Tests zuerst
 >- Verbessere mit der Zeit
+>- Nutze [[02 - RESOURCES/Notes/Code Coverage\|Code Coverage]]-Tools
 
 # V. TDD in der Prüfung
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/debugging/","tags":["informatik/code","programmierung/fehlersuche","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T09:49:57.986+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/debugging/","tags":["informatik/code","programmierung/fehlersuche","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:19:46.000+01:00"}
 ---
 
 >Debugging ist der Prozess, Fehler (Bugs) im Code zu finden und zu beheben.
->>Es ist eine der wichtigsten Fähigkeiten eines Entwicklers, systematisch Probleme zu analysieren.
+>>Es ist eine der wichtigsten Fähigkeiten eines Entwicklers, systematisch Probleme zu analysieren und [[02 - RESOURCES/Notes/Methode\|Methode]]n zur Fehlerbehebung anzuwenden.
 
 >[!summary] Was ist Debugging?
 >- **Fehler finden** im Programmcode
@@ -66,7 +66,7 @@ DEBUGGING-PROZESS
 >System.out.println(result); // Crash!
 >```
 >
->**Problem:** Programm stürzt ab mit `ArithmeticException`
+>**Problem:** Programm stürzt ab mit `ArithmeticException` ([[02 - RESOURCES/Notes/Exception\|Exception]])
 >
 >**Debugging-Schritte:**
 >
@@ -76,7 +76,7 @@ DEBUGGING-PROZESS
 >2. **Ursache finden**
 >   → Division durch Null in Zeile 1
 >
->3. **Fehler beheben** - Prüfung einbauen:
+>3. **Fehler beheben** - Prüfung einbauen mit [[02 - RESOURCES/Notes/Try-Catch\|Try-Catch]]:
 >```java
 >int divisor = 0;
 >if (divisor != 0) {

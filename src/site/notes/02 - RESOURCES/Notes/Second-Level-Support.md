@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/second-level-support/","tags":["it-service/support","GFN/LF06"],"noteIcon":"","updated":"2025-11-05T13:13:15.277+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/second-level-support/","tags":["it-service/support","GFN/LF06"],"noteIcon":"","updated":"2025-11-05T13:13:15.000+01:00"}
 ---
 
 

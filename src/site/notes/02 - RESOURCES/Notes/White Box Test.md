@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/white-box-test/","tags":["qualitaetssicherung/testing","testing/verfahren","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T09:51:48.228+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/white-box-test/","tags":["qualitaetssicherung/testing","testing/verfahren","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:20:22.000+01:00"}
 ---
 
 >White Box Test ist eine Testmethode, bei der der interne Code bekannt ist und gezielt getestet wird.
@@ -48,7 +48,7 @@ Eingabe           Code (sichtbar!)        Ausgabe
 >   - Jede if/else-Bedingung testen
 >   - Jede Schleife durchlaufen
 >
->4. **Code-Coverage-Messung**
+>4. **[[02 - RESOURCES/Notes/Code Coverage\|Code Coverage]]-Messung**
 >   - Wie viel % des Codes getestet?
 >   - Tools messen automatisch
 
@@ -128,10 +128,10 @@ Path Coverage (am gründlichsten)
 ```
 
 >[!tip] Vorteile White Box Test
->✅ **Gründlich:** Alle Code-Pfade werden geprüft
+>✅ **Gründlich:** Alle Code-Pfade werden geprüft mit [[02 - RESOURCES/Notes/Unit Testing\|Unit Testing]]
 >✅ **Früh einsetzbar:** Während der Entwicklung
 >✅ **Optimierung:** Findet ineffizienten Code
->✅ **Messbar:** Code-Coverage in %
+>✅ **Messbar:** [[02 - RESOURCES/Notes/Code Coverage\|Code Coverage]] in %
 
 >[!warning] Nachteile White Box Test
 >❌ **Code-Kenntnis nötig:** Tester muss programmieren können
@@ -155,7 +155,7 @@ WHITE BOX TEST - ABLAUF
 └──────────────────────┘
           ↓
 ┌──────────────────────┐
-│ 3. TESTFÄLLE FÜR     │
+│ 3. [[Testfall|TESTFÄLLE]] FÜR     │
 │    JEDEN PFAD        │
 └──────────────────────┘
           ↓
@@ -167,7 +167,7 @@ WHITE BOX TEST - ABLAUF
 ```
 
 >[!warning] Wichtiger Hinweis
->**100% Code Coverage garantiert NICHT fehlerfreie Software!**
+>**100% [[02 - RESOURCES/Notes/Code Coverage\|Code Coverage]] garantiert NICHT fehlerfreie Software!**
 >
 >Warum?
 >- Kann Logikfehler übersehen

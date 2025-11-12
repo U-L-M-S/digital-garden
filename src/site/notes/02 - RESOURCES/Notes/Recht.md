@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/recht/","noteIcon":"","updated":"2025-10-29T12:59:09.748+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/recht/","noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
 ---
 
 >Ist der Inbegriff der in einer politischen Gemeinschaft gelten Rechtsordnung.

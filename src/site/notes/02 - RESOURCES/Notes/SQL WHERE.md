@@ -1,8 +1,46 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-where/","tags":["informatik/code/SQL","informatik/datenbank"],"noteIcon":"","updated":"2025-10-29T12:59:10.514+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-where/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:37:00.000+01:00"}
 ---
 
->Es ist das **IF**-Anweisung bei [[02 - RESOURCES/Notes/SQL\|SQL]].
+>WHERE ist die Filterbedingung in [[02 - RESOURCES/Notes/SQL\|SQL]] - das **IF** der Datenbankabfragen.
+>>Mit WHERE werden Zeilen nach bestimmten Kriterien gefiltert.
+
+```
+WHERE-Ablauf:
+
+Alle Zeilen                Gefilterte Zeilen
+┌────┬──────┐             ┌────┬──────┐
+│ 1  │ Max  │ ─┐          │ 3  │ Tom  │
+│ 2  │ Anna │  │ WHERE    └────┴──────┘
+│ 3  │ Tom  │ ─┘ id > 2
+│ 4  │ Lisa │ ─┐
+└────┴──────┘  │
+               ▼
+          ┌────┬──────┐
+          │ 3  │ Tom  │
+          │ 4  │ Lisa │
+          └────┴──────┘
+
+Visuelle Darstellung:
+
+SELECT *                   WHERE Filter
+FROM Schueler
+    │                          │
+    ▼                          ▼
+┌────┬─────────┬───────┐   ┌──────────┐
+│ ID │ Name    │ Alter │   │ Alter>=18│
+├────┼─────────┼───────┤   └────┬─────┘
+│ 1  │ Max     │  17   │ ───────┼───── ✗ raus
+│ 2  │ Anna    │  19   │ ───────┼───── ✓ durch
+│ 3  │ Tom     │  16   │ ───────┼───── ✗ raus
+│ 4  │ Lisa    │  20   │ ───────┼───── ✓ durch
+└────┴─────────┴───────┘        │
+                                ▼
+                    ┌────┬─────────┬───────┐
+                    │ 2  │ Anna    │  19   │
+                    │ 4  │ Lisa    │  20   │
+                    └────┴─────────┴───────┘
+```
 
 
 **Kunden**

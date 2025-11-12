@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/festplatte/","tags":["hardware/speicher","informatik/hardware","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-07T15:14:39.528+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/festplatte/","tags":["hardware/speicher","informatik/hardware","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-07T15:14:39.000+01:00"}
 ---
 
 >Eine **Festplatte** (Hard Disk Drive, HDD) ist ein magnetisches [[02 - RESOURCES/Notes/Speicher\|Speicher]]medium zur dauerhaften Speicherung von Daten.

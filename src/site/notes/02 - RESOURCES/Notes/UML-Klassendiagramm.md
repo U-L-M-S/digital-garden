@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-klassendiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","ausbildung/gfn/ap2/vorbereitung","GFN/prüfungsrelevant/AP2","uml/klassendiagramm"],"noteIcon":"","updated":"2025-11-12T10:01:59.632+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-klassendiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","ausbildung/gfn/ap2/vorbereitung","GFN/prüfungsrelevant/AP2","uml/klassendiagramm"],"noteIcon":"","updated":"2025-11-12T15:21:14.000+01:00"}
 ---
 
 
@@ -169,10 +169,10 @@
 >[!important] Beziehungstypen
 >In [[02 - RESOURCES/Notes/UML\|UML]] gibt es verschiedene Arten von Verbindungen:
 >
->1. **Assoziation** - "kennt" Beziehung
->2. **Vererbung** - "ist ein" Beziehung
->3. **Aggregation** - "hat ein" Beziehung (lose)
->4. **Komposition** - "hat ein" Beziehung (fest)
+>1. **[[02 - RESOURCES/Notes/UML-Assoziation\|Assoziation]]** - "kennt" Beziehung
+>2. **[[02 - RESOURCES/Notes/Vererbung\|Vererbung]]** - "ist ein" Beziehung
+>3. **[[02 - RESOURCES/Notes/UML-Aggregation\|Aggregation]]** - "hat ein" Beziehung (lose)
+>4. **[[02 - RESOURCES/Notes/UML-Komposition\|Komposition]]** - "hat ein" Beziehung (fest)
 
 ## Assoziation
 

@@ -1,8 +1,196 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-komposition/","tags":["uml/klassendiagramm"],"noteIcon":"","updated":"2025-10-29T12:59:10.949+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-komposition/","tags":["uml/klassendiagramm","informatik/oop","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:12:03.000+01:00"}
 ---
 
->In [[02 - RESOURCES/Notes/UML\|UML]] wird Komposition durch eine Linie mit einer ausgefüllten Raute dargestellt. 
->Sie zeigt eine '<mark style="background: #BBFABBA6;">besteht-aus</mark>'-Beziehung, bei der die enthaltenen Objekte nicht unabhängig existieren können
+>Komposition ist die stärkste Form einer "besteht-aus"-Beziehung, bei der das Teil-Objekt NICHT ohne das Ganze existieren kann.
+>>In UML wird Komposition durch eine Linie mit einer **gefüllten Raute** (◆) dargestellt. Wird das Ganze gelöscht, werden auch alle Teile gelöscht.
+
+>[!summary] Kernpunkte
+>**Komposition** ist eine starke "HAS-A"-Beziehung mit Existenzabhängigkeit:
+>- Darstellung: **Gefüllte Raute** (◆) + Linie
+>- Bedeutung: "besteht aus" (stärker als "hat")
+>- **Teil kann NICHT ohne Ganzes existieren** (stirbt mit Ganzem)
+>- Raute zeigt zur "Ganzes"-Klasse (Container)
+>- Beispiel: Haus besteht aus Zimmern (Zimmer stirbt mit Haus)
+
+## ASCII-Diagramm: UML-Komposition
+
+```
+KOMPOSITION (STARKE BESITZBEZIEHUNG)
+
+┌────────────────┐           ┌────────────────┐
+│     HAUS       │◆──────────│    ZIMMER      │
+├────────────────┤           ├────────────────┤
+│ - adresse      │           │ - nummer: int  │
+│ - groesse: int │           │ - groesse: int │
+└────────────────┘           └────────────────┘
+      ◆ Gefüllte Raute
+
+BEDEUTUNG:
+→ Haus "besteht aus" Zimmern
+→ Zimmer kann NICHT ohne Haus existieren
+→ Wird Haus abgerissen, werden Zimmer auch zerstört
+→ ◆ zeigt zur "Ganzes"-Klasse (Haus)
+```
+
+## Komposition vs. Aggregation
+
+```
+HAUPTUNTERSCHIED
+
+AGGREGATION (◇ hohle Raute)
+┌────────────┐         ┌────────────┐
+│UNIVERSITÄT │◇────────│  STUDENT   │
+└────────────┘         └────────────┘
+→ Student kann Uni wechseln
+→ Student existiert nach Uni-Schließung weiter
+→ SCHWACHE Beziehung
+
+
+KOMPOSITION (◆ gefüllte Raute)
+┌────────────┐         ┌────────────┐
+│   HAUS     │◆────────│   ZIMMER   │
+└────────────┘         └────────────┘
+→ Zimmer kann nicht Haus wechseln
+→ Zimmer wird mit Haus zerstört
+→ STARKE Beziehung mit Existenzabhängigkeit
+```
+
+## Java-Code-Beispiel
+
+```java
+// KOMPOSITION: Haus besteht aus Zimmern
+
+public class Haus {
+    private String adresse;
+    private List<Zimmer> zimmer;  // ← Komposition
+
+    public Haus(String adresse) {
+        this.adresse = adresse;
+        this.zimmer = new ArrayList<>();
+
+        // Zimmer werden MIT dem Haus erstellt
+        zimmer.add(new Zimmer(1, 20.5));  // ← new!
+        zimmer.add(new Zimmer(2, 15.0));  // ← new!
+        zimmer.add(new Zimmer(3, 25.0));  // ← new!
+    }
+
+    // Destruktor (in Java: finalize, aber besser: try-with-resources)
+    public void abreissen() {
+        System.out.println("Haus wird abgerissen.");
+        // Zimmer werden automatisch mit gelöscht (Garbage Collector)
+        zimmer.clear();
+        zimmer = null;
+    }
+}
+
+public class Zimmer {
+    private int nummer;
+    private double groesse;
+
+    public Zimmer(int nummer, double groesse) {
+        this.nummer = nummer;
+        this.groesse = groesse;
+    }
+}
+
+// VERWENDUNG
+Haus haus = new Haus("Berliner Str. 10");
+// Zimmer wurden INNERHALB des Hauses erstellt
+
+haus.abreissen();
+// Zimmer werden MIT dem Haus zerstört!
+// Kein Zugriff mehr auf Zimmer möglich
+```
+
+## Weitere Beispiele
+
+```
+TYPISCHE KOMPOSITIONEN
+
+┌────────────────────────────────────────┐
+│  AUTO ◆──> MOTOR                       │
+│  → Motor ist fester Bestandteil        │
+│  → Auto ohne Motor = kaputt            │
+└────────────────────────────────────────┘
+
+┌────────────────────────────────────────┐
+│  DOKUMENT ◆──> SEITEN                  │
+│  → Seiten gehören zum Dokument         │
+│  → Dokument löschen = Seiten löschen   │
+└────────────────────────────────────────┘
+
+┌────────────────────────────────────────┐
+│  BAUM ◆──> BLÄTTER                     │
+│  → Blätter sind Teil des Baums         │
+│  → Baum fällen = Blätter sterben       │
+└────────────────────────────────────────┘
+
+┌────────────────────────────────────────┐
+│  FORMULAR ◆──> FELDER                  │
+│  → Felder gehören zum Formular         │
+│  → Formular löschen = Felder löschen   │
+└────────────────────────────────────────┘
+```
+
+>[!important] Wichtig für AP2
+>**Komposition Merkmale:**
+>- **Notation:** Gefüllte Raute (◆) + Linie
+>- **Bedeutung:** "besteht aus" / starke Besitzbeziehung
+>- **Raute zeigt zum Ganzen** (Container)
+>- **Existenzabhängigkeit:** Teil stirbt mit Ganzem!
+>
+>**Unterschiede:**
+>- **Komposition:** ◆─── (gefüllte Raute) - Teil stirbt mit Ganzem
+>- **Aggregation:** ◇─── (hohle Raute) - Teil kann ohne Ganzes existieren
+>- **Assoziation:** ─── (einfache Linie) - nur Referenz
+>
+>**Typische Prüfungsfrage:** "Wann verwendet man Komposition statt Aggregation?"
+>→ Antwort: Wenn Teil nicht ohne Ganzes existieren kann (Existenzabhängigkeit)!
+
+>[!example] Praxis-Beispiel
+
+```
+BEISPIEL: ONLINE-FORMULAR
+
+┌─────────────────┐         ┌─────────────────┐
+│   FORMULAR      │◆────────│   FELD          │
+├─────────────────┤    1  * ├─────────────────┤
+│ - titel: String │         │ - label: String │
+│ - id: int       │         │ - typ: String   │
+└─────────────────┘         │ - wert: String  │
+                            └─────────────────┘
+
+→ Formular "besteht aus" Feldern
+→ Felder werden mit Formular erstellt
+→ Formular löschen = Felder werden auch gelöscht
+→ KOMPOSITION (◆)
+
+CODE:
+public class Formular {
+    private String titel;
+    private List<Feld> felder;  // Komposition
+
+    public Formular(String titel) {
+        this.titel = titel;
+        this.felder = new ArrayList<>();
+        // Felder werden HIER erstellt (nicht von außen)
+        felder.add(new Feld("Name", "text"));
+        felder.add(new Feld("Email", "email"));
+    }
+}
+```
+
+>[!tip] Praxis-Tipps für AP2
+>1. **Gefüllte Raute = Starke Bindung = Teil stirbt mit Ganzem**
+>2. **Test für Komposition:** "Kann Teil ohne Ganzes sinnvoll existieren?" → Nein = Komposition
+>3. **Eselsbrücke:** "Gefüllte Raute = Vollständig abhängig"
+>4. **Code-Hinweis:** Bei Komposition wird Teil meist im Konstruktor mit `new` erstellt
+>5. **Typischer Fehler:** Komposition mit Aggregation verwechseln
+
+## Verwandte Konzepte
+- [[02 - RESOURCES/Notes/UML-Aggregation\|UML-Aggregation]] - Schwache Besitzbeziehung
+- [[02 - RESOURCES/Notes/UML-Assoziation\|UML-Assoziation]] - Einfache Beziehung
+- [[02 - RESOURCES/Notes/Vererbung\|Vererbung]] - IS-A Beziehung
 
 <style> .container {font-family: sans-serif; text-align: center;} .button-wrapper button {z-index: 1;height: 40px; width: 100px; margin: 10px;padding: 5px;} .excalidraw .App-menu_top .buttonList { display: flex;} .excalidraw-wrapper { height: 800px; margin: 50px; position: relative;} :root[dir="ltr"] .excalidraw .layer-ui__wrapper .zen-mode-transition.App-menu_bottom--transition-left {transform: none;} </style><script src="https://cdn.jsdelivr.net/npm/react@17/umd/react.production.min.js"></script><script src="https://cdn.jsdelivr.net/npm/react-dom@17/umd/react-dom.production.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@excalidraw/excalidraw@0/dist/excalidraw.production.min.js"></script><div id="UML-Komposition_2024-11-06_1800.58.excalidraw.md1"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.16.1","elements":[{"type":"rectangle","version":296,"versionNonce":997764889,"index":"a0","isDeleted":false,"id":"AoaPub3azlhPvXgHUFApe","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-360.18983496520667,"y":-80.70797729492188,"strokeColor":"#000000","backgroundColor":"transparent","width":270.12152099609375,"height":149.41595458984375,"seed":2020191609,"groupIds":["GmSzVmzCQQlHURQg1oPvN"],"frameId":null,"roundness":{"type":1},"boundElements":[{"id":"JfzV17_XIuieHFYUP3S9_","type":"arrow"}],"updated":1730912550171,"link":null,"locked":false},{"type":"line","version":233,"versionNonce":1479048409,"index":"a1","isDeleted":false,"id":"5mGEatFSLcj_Fk65r1Td-","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-357.7644809613004,"y":-42.1513671875,"strokeColor":"#000000","backgroundColor":"transparent","width":269.38385009765625,"height":1.72381591796875,"seed":497522265,"groupIds":["GmSzVmzCQQlHURQg1oPvN"],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1730912550171,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[269.38385009765625,-1.72381591796875]],"polygon":false},{"type":"rectangle","version":281,"versionNonce":1347194393,"index":"a3","isDeleted":false,"id":"p7bbe-dNeHn1czjQny9P_","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":86.35781158025375,"y":-80.91891479492188,"strokeColor":"#000000","backgroundColor":"transparent","width":270.12152099609375,"height":149.41595458984375,"seed":144653465,"groupIds":["jSBqRsiE1N1ExOoEcn6XF"],"frameId":null,"roundness":{"type":1},"boundElements":[{"id":"JfzV17_XIuieHFYUP3S9_","type":"arrow"}],"updated":1730912547337,"link":null,"locked":false},{"type":"line","version":218,"versionNonce":1764040057,"index":"a4","isDeleted":false,"id":"rKlCWxtp_JTOfRX5V5ocy","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":88.78316558416,"y":-42.3623046875,"strokeColor":"#000000","backgroundColor":"transparent","width":269.38385009765625,"height":1.72381591796875,"seed":715014521,"groupIds":["jSBqRsiE1N1ExOoEcn6XF"],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1730912477615,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[269.38385009765625,-1.72381591796875]],"polygon":false},{"id":"JfzV17_XIuieHFYUP3S9_","type":"arrow","x":-85.06831396911298,"y":-6.099999999999994,"width":166.4261255493667,"height":0.2109375,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a5","roundness":null,"seed":1404384919,"version":52,"versionNonce":2137225079,"isDeleted":false,"boundElements":[],"updated":1730912558965,"link":null,"locked":false,"points":[[0,0],[83.2130627746834,0],[83.2130627746834,-0.2109375],[166.4261255493667,-0.2109375]],"lastCommittedPoint":null,"startBinding":{"elementId":"AoaPub3azlhPvXgHUFApe","focus":-0.0013385451409724804,"gap":5,"fixedPoint":[1.0185101874947322,0.4993307274295138]},"endBinding":{"elementId":"p7bbe-dNeHn1czjQny9P_","focus":0.0013385451409724748,"gap":4.999999999999972,"fixedPoint":[-0.018510187494732544,0.4993307274295138]},"startArrowhead":null,"endArrowhead":"diamond","elbowed":true,"fixedSegments":null},{"id":"QZJf5DEH","type":"text","x":-273.78936316388035,"y":-79.77353514966347,"width":75.69903564453125,"height":28.244848628970338,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a6","roundness":null,"seed":1430484695,"version":177,"versionNonce":1526932661,"isDeleted":false,"boundElements":[],"updated":1742879016988,"link":null,"locked":false,"text":"Zimmer","rawText":"Zimmer","fontSize":22.59587890317627,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Zimmer","autoResize":true,"lineHeight":1.25},{"id":"K81p9N6b","type":"text","x":183,"y":-76.2109375,"width":44.799957275390625,"height":25,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a7","roundness":null,"seed":2073650969,"version":39,"versionNonce":1304053237,"isDeleted":false,"boundElements":[],"updated":1741179080821,"link":null,"locked":false,"text":"Haus","rawText":"Haus","fontSize":20,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Haus","autoResize":true,"lineHeight":1.25},{"id":"BcjOMfRG7ipdRc_1Vw7pB","type":"freedraw","x":-34.055796003793375,"y":-150.7265625,"width":83,"height":98,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":40,"groupIds":[],"frameId":null,"index":"a9","roundness":null,"seed":599070072,"version":54,"versionNonce":1856705400,"isDeleted":false,"boundElements":null,"updated":1762427273047,"link":null,"locked":false,"points":[[0,0],[1.5,0.5],[6,6],[9,9.5],[16.5,18],[29,33.5],[36,42],[42.5,49],[47,55],[49.5,58.5],[53.5,62],[58,67],[60.5,68.5],[62,70.5],[63.5,72.5],[64.5,73.5],[65.5,74],[66,74.5],[66,75],[66.5,75.5],[67,76.5],[67.5,77],[68,77.5],[68.5,78.5],[68.5,79],[69.5,80],[70,80.5],[71,81.5],[71.5,82],[72,82.5],[72.5,83],[73,84],[74.5,86],[76,87.5],[77,89],[78,90],[78.5,91.5],[80,92.5],[80,93.5],[80.5,94],[81,94.5],[82,96],[82,96.5],[82.5,97],[83,97.5],[83,98],[83,98]],"pressures":[],"simulatePressure":true,"lastCommittedPoint":[83,98]},{"id":"I69CWTgcT6T9scQaqpor7","type":"freedraw","x":-8.555796003793375,"y":-73.7265625,"width":71.5,"height":58,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":40,"groupIds":[],"frameId":null,"index":"aA","roundness":null,"seed":1250242424,"version":76,"versionNonce":1476435832,"isDeleted":false,"boundElements":null,"updated":1762427279611,"link":null,"locked":false,"points":[[0,0],[0.5,0],[1,0],[4,0.5],[6.5,2.5],[11,4],[16.5,6.5],[26.5,12],[30.5,15],[33,17],[35.5,18],[37,19],[38,19.5],[39,20],[40,20],[40.5,20],[41.5,20.5],[42.5,21],[43,21],[44,21],[44,21.5],[44.5,21.5],[45.5,21.5],[46.5,21.5],[47.5,21.5],[48,21.5],[48.5,21.5],[49,21.5],[50.5,21.5],[52,22],[54,22.5],[55,22.5],[56.5,23.5],[58,24],[61.5,25],[66.5,27],[67.5,27.5],[68,28],[69,28],[69.5,28.5],[70.5,29],[71,29],[71,29.5],[71.5,29.5],[71.5,28.5],[71.5,25.5],[71.5,22],[71.5,18],[71.5,15],[71.5,7.5],[71.5,4],[71.5,1],[71.5,-1.5],[71.5,-4],[71.5,-8],[71.5,-11.5],[71.5,-15],[71.5,-17],[71.5,-19],[71,-20],[70.5,-22.5],[70,-24],[70,-25],[69.5,-26.5],[69.5,-27],[69,-27.5],[68.5,-28],[68.5,-28.5],[68.5,-28.5]],"pressures":[],"simulatePressure":true,"lastCommittedPoint":[68.5,-28.5]},{"id":"pC9MmDIhk4DP45EpZ8cG9","type":"freedraw","x":-268.5557960037934,"y":-217.7265625,"width":171.5,"height":1.5,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aB","roundness":null,"seed":1295557752,"version":50,"versionNonce":1664118136,"isDeleted":false,"boundElements":null,"updated":1762427243273,"link":null,"locked":false,"points":[[0,0],[0.5,0],[3,0],[8,0],[12,0],[14.5,0],[21.5,0],[32.5,0],[40.5,0],[48,0],[58,0],[62,0],[69.5,0],[77,0],[84.5,0],[94.5,0],[100,0.5],[104,1],[106,1],[110.5,1],[116,1],[119.5,1],[122.5,1],[124,1],[129,1],[132.5,1],[135.5,1],[139,1],[142,1],[147.5,1],[150,1],[153,1],[155.5,1],[157.5,1],[159,1],[160,1],[161,1],[162,1],[163,1],[164,1],[165,1],[165.5,1],[167,1],[168,1],[169,1],[169.5,1.5],[170,1.5],[171.5,1.5],[171.5,1.5]],"pressures":[],"simulatePressure":true,"lastCommittedPoint":[171.5,1.5]},{"id":"RbrssVBARGBcU_eGgk2V9","type":"freedraw","x":-98.05579600379338,"y":-216.2265625,"width":126.5,"height":51.5,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aC","roundness":null,"seed":1436381048,"version":169,"versionNonce":2138951688,"isDeleted":false,"boundElements":null,"updated":1762427248065,"link":null,"locked":false,"points":[[0,0],[0.5,0],[3,-2],[5.5,-3.5],[11.5,-7],[15.5,-9],[19,-10],[22.5,-12],[28,-13.5],[34,-17],[38.5,-18.5],[42,-20.5],[44,-21],[46.5,-22],[48,-23],[50,-23.5],[51,-24.5],[52,-25],[53,-26],[54.5,-27],[56,-27.5],[57.5,-28.5],[59,-29],[60,-29.5],[61,-30],[61.5,-30.5],[62,-31],[63.5,-31.5],[64.5,-32],[65,-32.5],[65.5,-32.5],[66,-33],[66.5,-33.5],[67,-33.5],[67.5,-33.5],[68,-33.5],[68.5,-33.5],[70,-33.5],[72,-33.5],[73.5,-33.5],[75.5,-33],[77.5,-32],[79.5,-31],[80.5,-30],[81,-30],[81.5,-30],[81.5,-29.5],[82,-29.5],[82.5,-29.5],[83,-29.5],[84,-29],[85,-28],[86.5,-27.5],[87.5,-26.5],[90,-25],[91,-24.5],[91.5,-24],[92.5,-24],[94,-23],[95,-22.5],[95.5,-22.5],[96.5,-22],[97.5,-21.5],[98.5,-21],[100,-20],[100.5,-19.5],[102,-19],[103,-18],[104,-18],[105,-17.5],[106,-16.5],[107,-16],[107,-15.5],[107.5,-15],[108.5,-14.5],[110,-14],[111,-13],[111.5,-13],[112.5,-12.5],[113.5,-12],[115,-11],[116.5,-10.5],[117.5,-9.5],[118.5,-8.5],[120,-7.5],[120.5,-7],[121.5,-7],[122,-6.5],[123,-6],[124,-4.5],[125,-4],[126,-4],[126.5,-3.5],[126.5,-3],[126,-2.5],[125,-2],[123,-1],[121,0],[118,1],[115.5,1.5],[112,3.5],[109,4.5],[106.5,5.5],[102,7],[100,7.5],[98,8.5],[96,9],[94,9.5],[90.5,10.5],[88,11],[86,12],[85,12],[84,12],[83.5,13],[82.5,13],[81.5,13.5],[81,14],[80.5,14.5],[79.5,14.5],[78,15],[77.5,15.5],[76.5,16],[76,16],[75.5,16.5],[74.5,17],[73.5,17.5],[73,18],[72.5,18],[72,18],[70.5,18],[68.5,18],[64,18],[60.5,18],[57.5,18],[54.5,17],[52,16.5],[49,15.5],[46.5,15],[43.5,14],[41,13.5],[38,12.5],[36,12.5],[34,12.5],[32,12],[29,11],[27,11],[25,10.5],[24,10.5],[21,10],[19.5,10],[17.5,9],[14.5,8.5],[14.5,8],[13.5,8],[13,8],[12,8],[10.5,7.5],[9.5,7.5],[8.5,7.5],[7,7.5],[6.5,7.5],[5.5,7.5],[4.5,7.5],[3.5,7.5],[2.5,7.5],[2,7.5],[2,7],[2,7]],"pressures":[],"simulatePressure":true,"lastCommittedPoint":[2,7]},{"id":"3WMcJJIpu3KhePPfsiaCm","type":"freedraw","x":-79.55579600379338,"y":-221.7265625,"width":3,"height":7,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aD","roundness":null,"seed":1371500040,"version":12,"versionNonce":1344751624,"isDeleted":false,"boundElements":null,"updated":1762427248777,"link":null,"locked":false,"points":[[0,0],[0.5,0],[0.5,0.5],[0.5,1.5],[-0.5,3.5],[-1,4.5],[-2,6],[-2,6.5],[-2,7],[-2.5,7],[-2.5,7]],"pressures":[],"simulatePressure":true,"lastCommittedPoint":[-2.5,7]},{"id":"6hGf73UqD4F5tykRCOndM","type":"freedraw","x":-68.55579600379338,"y":-221.7265625,"width":5,"height":15,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aE","roundness":null,"seed":812312072,"version":10,"versionNonce":129114376,"isDeleted":false,"boundElements":null,"updated":1762427249527,"link":null,"locked":false,"points":[[0,0],[0,1],[-1,4.5],[-1.5,7.5],[-2.5,10.5],[-4,12.5],[-5,14.5],[-5,15],[-5,15]],"pressures":[],"simulatePressure":true,"lastCommittedPoint":[-5,15]},{"id":"53LGAuRnUmu-A00lLCSxE","type":"freedraw","x":-51.055796003793375,"y":-228.2265625,"width":7.5,"height":24,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aF","roundness":null,"seed":1674805000,"version":12,"versionNonce":305830152,"isDeleted":false,"boundElements":null,"updated":1762427250103,"link":null,"locked":false,"points":[[0,0],[0,1],[-1,5.5],[-3,11],[-5,16],[-6,20],[-6.5,22],[-6.5,22.5],[-7,24],[-7.5,24],[-7.5,24]],"pressures":[],"simulatePressure":true,"lastCommittedPoint":[-7.5,24]},{"id":"pBiNt-UUt7tcGTuwkxtQ1","type":"freedraw","x":-37.555796003793375,"y":-242.2265625,"width":10,"height":32,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aG","roundness":null,"seed":1352529672,"version":14,"versionNonce":5484552,"isDeleted":false,"boundElements":null,"updated":1762427250733,"link":null,"locked":false,"points":[[0,0],[0,1.5],[-2,6.5],[-3.5,10],[-4,12],[-4.5,15.5],[-6.5,21.5],[-7.5,25],[-9,28.5],[-9,30.5],[-9.5,32],[-10,32],[-10,32]],"pressures":[],"simulatePressure":true,"lastCommittedPoint":[-10,32]},{"id":"5dDKABKoXwAejWavvb-4r","type":"freedraw","x":-22.555796003793375,"y":-235.7265625,"width":14.5,"height":31,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aH","roundness":null,"seed":1050496520,"version":18,"versionNonce":1936901384,"isDeleted":false,"boundElements":null,"updated":1762427251526,"link":null,"locked":false,"points":[[0,0],[-0.5,0.5],[-3,6],[-7.5,15.5],[-9,18.5],[-9,20],[-10,22],[-10.5,23.5],[-11.5,25.5],[-12,27],[-12.5,28],[-13,29],[-13,29.5],[-13.5,30],[-14,30.5],[-14.5,31],[-14.5,31]],"pressures":[],"simulatePressure":true,"lastCommittedPoint":[-14.5,31]},{"id":"YBc8XO5oOFa__CWgbFMAM","type":"freedraw","x":-9.555796003793375,"y":-229.7265625,"width":5.5,"height":23,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aI","roundness":null,"seed":1253778184,"version":14,"versionNonce":591027208,"isDeleted":false,"boundElements":null,"updated":1762427252391,"link":null,"locked":false,"points":[[0,0],[0,0.5],[-1,4.5],[-2.5,9],[-3.5,14],[-4,16],[-5,18],[-5,20],[-5,21],[-5,22],[-5.5,22.5],[-5.5,23],[-5.5,23]],"pressures":[],"simulatePressure":true,"lastCommittedPoint":[-5.5,23]},{"id":"-89z2LRpbAEYppDn8Lb-N","type":"freedraw","x":3.4442039962066247,"y":-226.2265625,"width":4,"height":17.5,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aJ","roundness":null,"seed":1086913032,"version":10,"versionNonce":918795528,"isDeleted":false,"boundElements":null,"updated":1762427253207,"link":null,"locked":false,"points":[[0,0],[0,1],[0,4],[-1,9],[-3,14.5],[-3.5,16.5],[-3.5,17],[-4,17.5],[-4,17.5]],"pressures":[],"simulatePressure":true,"lastCommittedPoint":[-4,17.5]},{"id":"tYf6SLYbKmSl_4OXN_CEy","type":"freedraw","x":14.944203996206625,"y":-223.7265625,"width":100.5,"height":38,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aK","roundness":null,"seed":1116738312,"version":274,"versionNonce":424110600,"isDeleted":false,"boundElements":null,"updated":1762427261425,"link":null,"locked":false,"points":[[0,0],[-1,0],[-2.5,0.5],[-4,0.5],[-5,0.5],[-8,0.5],[-10.5,0.5],[-14.5,0.5],[-16.5,0.5],[-23,0.5],[-30.5,0.5],[-38,0],[-43.5,-1],[-46.5,-1.5],[-48,-1.5],[-47,-1.5],[-43,-1.5],[-39.5,-1.5],[-37,-1.5],[-34.5,-1.5],[-33,-1.5],[-33,-2],[-42,-3.5],[-53,-5],[-61.5,-6],[-66,-7],[-67,-7],[-66,-7.5],[-63,-8],[-61,-8.5],[-59.5,-9],[-58.5,-9],[-58,-9.5],[-58,-10],[-59,-10],[-59.5,-10],[-58,-10.5],[-54,-11],[-49.5,-12],[-45.5,-12],[-43.5,-12.5],[-42.5,-13],[-44,-13],[-45.5,-13],[-46,-13],[-45.5,-13],[-42,-13],[-39.5,-13],[-36.5,-12.5],[-34.5,-11.5],[-31,-10],[-29,-9.5],[-27.5,-9],[-27,-8.5],[-26.5,-8.5],[-26.5,-7],[-26.5,-5.5],[-26.5,-4.5],[-26.5,-2.5],[-27,-1],[-27,1],[-27,1.5],[-27,2],[-25.5,2],[-24.5,2],[-23.5,1.5],[-22.5,0],[-21.5,-2],[-21,-4.5],[-21,-7],[-21,-9.5],[-22.5,-12.5],[-24,-13],[-26.5,-14],[-29.5,-15.5],[-32.5,-16],[-35.5,-16.5],[-39,-17],[-40,-17],[-41,-17],[-41.5,-17],[-42.5,-17],[-43,-17],[-43.5,-17],[-44,-17],[-45.5,-17],[-47,-17],[-48.5,-17],[-53,-17],[-55.5,-16],[-56,-16],[-56.5,-15],[-57,-14],[-58,-13],[-59.5,-12],[-61,-11.5],[-62.5,-10.5],[-63.5,-10],[-65.5,-9],[-67.5,-8.5],[-69,-7.5],[-70,-7],[-71.5,-7],[-72,-6.5],[-72.5,-6.5],[-73,-6],[-74,-5.5],[-75,-4.5],[-76.5,-4],[-78,-4],[-79.5,-3],[-81,-2],[-82.5,-2],[-83,-1.5],[-84,-1],[-84.5,-1],[-85.5,-0.5],[-86,-0.5],[-87.5,0],[-88.5,0.5],[-89.5,0.5],[-91,1.5],[-92.5,1.5],[-93.5,2.5],[-94.5,2.5],[-95,2.5],[-95.5,3],[-96,3],[-96.5,3],[-98,3],[-98.5,3.5],[-99.5,3.5],[-100,4],[-100,4.5],[-100.5,4.5],[-100.5,5],[-100.5,6],[-100,6.5],[-99,7],[-98,8],[-97.5,8.5],[-96.5,9],[-95.5,10],[-94,10],[-93,10],[-89.5,10.5],[-89,11],[-86.5,11],[-84,11],[-81.5,11],[-76,11],[-74.5,11],[-72.5,11],[-69.5,11],[-67.5,11],[-67,11],[-64.5,11],[-62.5,11],[-60.5,11],[-58,11],[-54,11],[-51.5,11],[-50,11],[-48.5,11],[-47.5,11],[-46.5,11],[-48.5,11],[-53,10.5],[-59.5,9.5],[-62,9],[-65.5,8.5],[-67.5,8.5],[-69.5,8.5],[-70.5,8],[-71,7.5],[-73,7],[-73.5,6.5],[-74.5,6],[-76,5.5],[-77,5],[-78,4],[-79,3.5],[-79.5,3],[-79.5,2.5],[-79.5,1],[-77,-1],[-72.5,-3.5],[-66.5,-5.5],[-61,-6.5],[-53,-7],[-47.5,-7],[-45,-7],[-41,-5],[-36,-2.5],[-34.5,-1.5],[-34,-1.5],[-34,-0.5],[-35,2],[-38.5,4.5],[-44.5,7.5],[-52,11],[-63.5,14.5],[-66.5,15.5],[-69.5,16],[-72,17],[-75,17.5],[-75.5,17.5],[-76,18],[-75.5,18],[-74,18.5],[-70,19.5],[-59.5,20.5],[-52,21],[-44.5,21],[-38.5,20],[-32,18.5],[-28.5,17.5],[-26.5,16.5],[-25,16],[-24,15],[-23,14.5],[-22,13.5],[-20.5,12],[-18.5,11],[-16.5,10],[-16,9],[-15.5,9],[-15.5,8.5],[-15,8.5],[-14,7.5],[-13.5,7.5],[-13.5,7],[-17,7],[-27.5,7],[-34,7],[-40.5,7.5],[-45,8.5],[-48,9],[-49,9],[-49.5,9],[-50.5,9],[-51,9],[-47.5,9],[-42,9],[-39.5,9],[-35.5,9],[-32,9],[-30.5,10],[-31.5,12],[-36.5,14],[-42.5,15.5],[-46.5,17],[-48,17],[-48.5,18],[-48.5,17.5],[-49,15],[-50,12],[-50.5,9],[-51,5.5],[-51.5,3],[-52.5,1.5],[-53,0.5],[-53,0],[-53.5,0],[-53.5,-1],[-53.5,-1.5],[-54,-1.5],[-54,-2],[-55,-3],[-55.5,-3],[-54.5,-3],[-54,-3],[-54,-3]],"pressures":[],"simulatePressure":true,"lastCommittedPoint":[-54,-3]},{"id":"C3MmhiD9K6c2Y3JwgKFRH","type":"line","x":-57.055796003793375,"y":-178.2265625,"width":105.5,"height":125.5,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a8","roundness":{"type":2},"seed":1082193272,"version":59,"versionNonce":1775599624,"isDeleted":true,"boundElements":null,"updated":1762427235002,"link":null,"locked":false,"points":[[0,0],[105.5,125.5]],"lastCommittedPoint":null,"startBinding":null,"endBinding":null,"startArrowhead":null,"endArrowhead":null,"polygon":false},{"id":"dnk28axW","type":"text","x":41.944203996206625,"y":-45.2265625,"width":8,"height":25,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":40,"groupIds":[],"frameId":null,"index":"aL","roundness":null,"seed":363144824,"version":3,"versionNonce":2063067256,"isDeleted":true,"boundElements":null,"updated":1762427276434,"link":null,"locked":false,"text":"","rawText":"","fontSize":20,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"","autoResize":true,"lineHeight":1.25}],"appState":{"theme":"dark","viewBackgroundColor":"#ffffff","currentItemStrokeColor":"#1e1e1e","currentItemBackgroundColor":"transparent","currentItemFillStyle":"solid","currentItemStrokeWidth":2,"currentItemStrokeStyle":"solid","currentItemRoughness":1,"currentItemOpacity":40,"currentItemFontFamily":5,"currentItemFontSize":20,"currentItemTextAlign":"left","currentItemStartArrowhead":null,"currentItemEndArrowhead":"diamond","currentItemArrowType":"elbow","currentItemFrameRole":null,"scrollX":562.3057960037934,"scrollY":344.484375,"zoom":{"value":1},"currentItemRoundness":"round","gridSize":20,"gridStep":5,"gridModeEnabled":false,"gridColor":{"Bold":"rgba(217, 217, 217, 0.5)","Regular":"rgba(230, 230, 230, 0.5)"},"currentStrokeOptions":null,"frameRendering":{"enabled":true,"clip":true,"name":true,"outline":true,"markerName":true,"markerEnabled":true},"objectsSnapModeEnabled":false,"activeTool":{"type":"selection","customType":null,"locked":false,"lastActiveTool":null,"fromSelection":false}},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("UML-Komposition_2024-11-06_1800.58.excalidraw.md1");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>

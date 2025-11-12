@@ -480,7 +480,7 @@ CREATE TABLE Ausleihe (
 
 - [[Relationale Datenbanken\|Relationale Datenbanken]] - Implementierung von ERM
 - [[02 - RESOURCES/Notes/SQL\|SQL]] - Abfragesprache für Datenbanken
-- [[Normalisierung\|Normalisierung]] - Optimierung von Datenbankstrukturen
+- [[02 - RESOURCES/Notes/Normalisierung\|Normalisierung]] - Optimierung von Datenbankstrukturen
 - [[Fremdschlüssel\|Fremdschlüssel]] - Beziehungen in SQL
 - [[Datenmodellierung\|Datenmodellierung]] - Übergeordnetes Konzept
 

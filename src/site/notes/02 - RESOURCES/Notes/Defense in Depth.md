@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/defense-in-depth/","tags":["informatik/sicherheit","sicherheit/konzept"],"noteIcon":"","updated":"2025-11-07T11:36:10.855+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/defense-in-depth/","tags":["informatik/sicherheit","sicherheit/konzept"],"noteIcon":"","updated":"2025-11-07T11:36:10.000+01:00"}
 ---
 
 > Mehrere Sicherheitsschichten hintereinander

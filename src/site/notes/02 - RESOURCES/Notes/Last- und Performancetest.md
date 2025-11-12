@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/last-und-performancetest/","tags":["qualitaetssicherung/performance","testing/nonfunctional","AP2025/neu","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T09:52:58.767+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/last-und-performancetest/","tags":["qualitaetssicherung/performance","testing/nonfunctional","AP2025/neu","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:20:45.000+01:00"}
 ---
 
 >Last- und Performancetest prüfen, wie sich Software unter verschiedenen Belastungen verhält.
@@ -133,7 +133,7 @@ PERFORMANCE-TEST ABLAUF
 ┌────────────────────────┐
 │ 2. LAST SIMULIEREN     │
 │  Virtuelle User        │
-│  erzeugen              │
+│  erzeugen ([[Testfall]])     │
 └────────────────────────┘
           ↓
 ┌────────────────────────┐

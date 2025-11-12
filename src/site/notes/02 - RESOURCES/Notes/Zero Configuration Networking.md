@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/zero-configuration-networking/","tags":["informatik/netzwerk/automatisch","konfiguration/null"],"noteIcon":"","updated":"2025-10-29T12:59:11.793+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/zero-configuration-networking/","tags":["informatik/netzwerk/automatisch","konfiguration/null"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
 ---
 
 

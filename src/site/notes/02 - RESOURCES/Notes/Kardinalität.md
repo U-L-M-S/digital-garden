@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kardinalitaet/","tags":["ausbildung/gfn/ap1","ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","informatik/datenbank"],"noteIcon":"","updated":"2025-11-12T10:04:21.208+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kardinalitaet/","tags":["ausbildung/gfn/ap1","ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","informatik/datenbank"],"noteIcon":"","updated":"2025-11-12T15:22:20.000+01:00"}
 ---
 
 
@@ -53,6 +53,8 @@ Ein Ausweis → Eine Person
 >- Kunde ↔ Kundennummer
 
 >[!note] Siehe: [[02 - RESOURCES/Notes/1 zu 1\|1 zu 1]] für Details
+>
+>*Eine Person hat genau einen Ausweis - [[02 - RESOURCES/Notes/1 zu 1\|1 zu 1]] [[02 - RESOURCES/Notes/Relationship\|Relationship]]*
 
 ## 1 zu n (1:n)
 
@@ -76,6 +78,8 @@ Ein Kind → Eine Mutter
 >- Autor → Bücher (1 Autor, viele Bücher)
 
 >[!note] Siehe: [[02 - RESOURCES/Notes/1 zu n\|1 zu n]] für Details
+>
+>*Eine Mutter hat viele Kinder - [[02 - RESOURCES/Notes/1 zu n\|1 zu n]] [[02 - RESOURCES/Notes/Relationship\|Relationship]]*
 
 ## n zu m (n:m)
 
@@ -110,6 +114,8 @@ Viele Kurse → Viele Studenten
 >- Autoren ↔ Bücher (Viele Autoren für viele Bücher)
 
 >[!note] Siehe: [[02 - RESOURCES/Notes/n zu m\|n zu m]] für Details
+>
+>*Viele Studenten in vielen Kursen - [[02 - RESOURCES/Notes/n zu m\|n zu m]] [[02 - RESOURCES/Notes/Relationship\|Relationship]]*
 
 # III. Kardinalität in der Praxis
 
@@ -190,30 +196,30 @@ Viele Kurse → Viele Studenten
 >
 >**1:1 Beziehung:**
 >```sql
->-- Eindeutiger Fremdschlüssel
+>-- Eindeutiger [[Foreign Key]]
 >CREATE TABLE Person (
->    PersonID INT PRIMARY KEY,
+>    PersonID INT PRIMARY KEY,  -- [[Primary Key]]
 >    Name VARCHAR(100)
 >);
 >
 >CREATE TABLE Ausweis (
->    AusweisID INT PRIMARY KEY,
+>    AusweisID INT PRIMARY KEY,  -- [[Primary Key]]
 >    PersonID INT UNIQUE,  ← UNIQUE macht es 1:1
 >    Nummer VARCHAR(20),
->    FOREIGN KEY (PersonID) REFERENCES Person(PersonID)
+>    FOREIGN KEY (PersonID) REFERENCES Person(PersonID)  -- [[Foreign Key]]
 >);
 >```
 >
 >**1:n Beziehung:**
 >```sql
 >CREATE TABLE Kunde (
->    KundeID INT PRIMARY KEY,
+>    KundeID INT PRIMARY KEY,  -- [[Primary Key]]
 >    Name VARCHAR(100)
 >);
 >
 >CREATE TABLE Bestellung (
->    BestellID INT PRIMARY KEY,
->    KundeID INT,  ← Kein UNIQUE = 1:n
+>    BestellID INT PRIMARY KEY,  -- [[Primary Key]]
+>    KundeID INT,  ← Kein UNIQUE = 1:n ([[Foreign Key]])
 >    Datum DATE,
 >    FOREIGN KEY (KundeID) REFERENCES Kunde(KundeID)
 >);
@@ -222,21 +228,21 @@ Viele Kurse → Viele Studenten
 >**n:m Beziehung:**
 >```sql
 >CREATE TABLE Student (
->    StudentID INT PRIMARY KEY,
+>    StudentID INT PRIMARY KEY,  -- [[Primary Key]]
 >    Name VARCHAR(100)
 >);
 >
 >CREATE TABLE Kurs (
->    KursID INT PRIMARY KEY,
+>    KursID INT PRIMARY KEY,  -- [[Primary Key]]
 >    Titel VARCHAR(100)
 >);
 >
->-- Zwischentabelle für n:m
+>-- Zwischentabelle für n:m ([[SQL]])
 >CREATE TABLE Teilnahme (
->    StudentID INT,
->    KursID INT,
+>    StudentID INT,  -- [[Foreign Key]]
+>    KursID INT,  -- [[Foreign Key]]
 >    Note DECIMAL(2,1),
->    PRIMARY KEY (StudentID, KursID),  ← Kombinierter Schlüssel
+>    PRIMARY KEY (StudentID, KursID),  ← Kombinierter [[Primary Key]]
 >    FOREIGN KEY (StudentID) REFERENCES Student(StudentID),
 >    FOREIGN KEY (KursID) REFERENCES Kurs(KursID)
 >);

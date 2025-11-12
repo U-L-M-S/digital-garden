@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hgb/","tags":["rechtliches/handelsrecht","business/unternehmen","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T09:47:42.436+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hgb/","tags":["rechtliches/handelsrecht","business/unternehmen","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:19:42.000+01:00"}
 ---
 
 >Das HGB (Handelsgesetzbuch) ist das Gesetz für Geschäfte zwischen Unternehmen (Kaufleuten).
->>Es ergänzt das [[02 - RESOURCES/Notes/BGB\|BGB]] mit speziellen Regeln für gewerbliche Tätigkeiten und Handel.
+>>Es ergänzt das [[02 - RESOURCES/Notes/BGB\|BGB]] mit speziellen Regeln für gewerbliche Tätigkeiten und Handel, insbesondere für [[02 - RESOURCES/Notes/Vertrag\|Verträge]] im B2B-Bereich.
 
 >[!summary] Was macht das HGB?
 >- Regelt **Geschäfte zwischen Firmen** (B2B = Business-to-Business)

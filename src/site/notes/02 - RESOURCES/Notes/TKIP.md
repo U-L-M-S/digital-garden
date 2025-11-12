@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/tkip/","tags":["sicherheit/kryptografie","netzwerk/wlan","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T13:46:55.244+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/tkip/","tags":["sicherheit/kryptografie","netzwerk/wlan","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T13:46:55.000+01:00"}
 ---
 
 >**Temporal Key Integrity Protocol (TKIP)** ist ein Sicherheitsprotokoll für [[02 - RESOURCES/Notes/WLAN\|WLAN]], das als Übergangslösung entwickelt wurde, um die Schwächen von [[02 - RESOURCES/Notes/WEP\|WEP]] zu beheben. Es wurde in [[02 - RESOURCES/Notes/Wi-Fi 4\|Wi-Fi 4]] (802.11n) standardisiert.
