@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/eisenhower-prinzip/","tags":["zeitmanagement","GFN/LF06","produktivität"],"noteIcon":"","updated":"2025-11-05T13:17:52.504+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/eisenhower-prinzip/","tags":["zeitmanagement","GFN/LF06","produktivität"],"noteIcon":"","updated":"2025-11-05T13:17:52.000+01:00"}
 ---
 
 

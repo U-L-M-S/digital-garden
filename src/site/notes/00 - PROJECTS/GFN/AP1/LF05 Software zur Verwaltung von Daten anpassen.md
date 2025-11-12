@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-05-software-zur-verwaltung-von-daten-anpassen/","tags":["inProgress","informatik/datenbank","informatik/code/SQL","informatik/code/python","GFN/LF05"],"noteIcon":"","updated":"2025-10-29T09:17:59.832+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-05-software-zur-verwaltung-von-daten-anpassen/","tags":["inProgress","informatik/datenbank","informatik/code/SQL","informatik/code/python","GFN/LF05"],"noteIcon":"","updated":"2025-10-29T09:17:59.000+01:00"}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.

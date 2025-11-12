@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/change-the-business-leistungen/","tags":["it-service/service-arten","GFN/LF06","itsm/grundlagen","innovation"],"noteIcon":"","updated":"2025-11-05T13:10:35.948+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/change-the-business-leistungen/","tags":["it-service/service-arten","GFN/LF06","itsm/grundlagen","innovation"],"noteIcon":"","updated":"2025-11-05T13:10:35.000+01:00"}
 ---
 
 

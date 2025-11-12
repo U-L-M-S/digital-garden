@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-namespaces/","tags":["informatik/virtualisierung/kubernetes/namespaces","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:15:11.535+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-namespaces/","tags":["informatik/virtualisierung/kubernetes/namespaces","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:15:11.000+01:00"}
 ---
 
 >Ein **Namespace** ist eine virtuelle Trennung innerhalb eines [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]]-Clusters die Ressourcen isoliert und organisiert.

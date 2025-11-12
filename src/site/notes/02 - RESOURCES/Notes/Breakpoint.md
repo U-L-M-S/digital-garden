@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/breakpoint/","tags":["programmierung/debugging","entwicklung/tools","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T09:50:28.862+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/breakpoint/","tags":["programmierung/debugging","entwicklung/tools","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:20:41.000+01:00"}
 ---
 
 >Ein Breakpoint (Haltepunkt) ist eine markierte Stelle im Code, an der das Programm während des [[02 - RESOURCES/Notes/Debugging\|Debugging]]s anhält.
@@ -41,13 +41,13 @@ Code ausführen         Breakpoint erreicht
 >- Stoppt nur wenn Bedingung erfüllt
 >- Beispiel: `i == 50` (stoppt nur bei i=50)
 >
->**3. Exception Breakpoint**
->- Stoppt bei bestimmten Fehlern
+>**3. [[02 - RESOURCES/Notes/Exception\|Exception]] Breakpoint**
+>- Stoppt bei bestimmten Fehlern ([[02 - RESOURCES/Notes/Exception\|Exception]]s)
 >- z.B. bei NullPointerException
 >
 >**4. Method Breakpoint**
->- Stoppt beim Aufruf einer Methode
->- Nützlich für Methodenanalyse
+>- Stoppt beim Aufruf einer [[02 - RESOURCES/Notes/Methode\|Methode]]
+>- Nützlich für [[02 - RESOURCES/Notes/Methode\|Methode]]nanalyse
 
 >[!example] Praktisches Beispiel
 >```java

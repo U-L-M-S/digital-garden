@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/erasmus/","tags":["bildung/austausch"],"noteIcon":"","updated":"2025-10-29T12:59:05.866+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/erasmus/","tags":["bildung/austausch"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
 ---
 
 >EU-Programm für Bildung, Jugend und Sport - finanziert Auslandsaufenthalte.

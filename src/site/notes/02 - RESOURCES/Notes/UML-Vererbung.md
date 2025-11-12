@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-vererbung/","tags":["uml/klassendiagramm"],"noteIcon":"","updated":"2025-11-12T10:50:06.598+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-vererbung/","tags":["uml/klassendiagramm"],"noteIcon":"","updated":"2025-11-12T10:50:06.000+01:00"}
 ---
 
 >In [[02 - RESOURCES/Notes/UML\|UML]] wird Vererbung durch eine Pfeil-Linie mit einer leeren Spitze dargestellt. 

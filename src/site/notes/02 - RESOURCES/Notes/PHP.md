@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/php/","tags":["empty","informatik/programmierung/sprachen/php"],"noteIcon":"","updated":"2025-10-29T12:59:09.128+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/php/","tags":["empty","informatik/programmierung/sprachen/php"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
 ---
 
 >PHP ist eine Computer Sprache, bei den man in die Backend sowie in die Frontend verwenden werden können.

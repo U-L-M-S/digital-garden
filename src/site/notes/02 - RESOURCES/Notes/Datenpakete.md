@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datenpakete/","tags":["informatik/netzwerk/ip"],"noteIcon":"","updated":"2025-10-29T12:59:04.785+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/datenpakete/","tags":["informatik/netzwerk/ip"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00"}
 ---
 
 Es besteht hauptsächlich aus zwei Komponenten:

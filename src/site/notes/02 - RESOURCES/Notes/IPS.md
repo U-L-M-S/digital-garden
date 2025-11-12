@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ips/","tags":["informatik/sicherheit/ips","informatik/netzwerk"],"noteIcon":"","updated":"2025-11-07T11:31:45.500+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ips/","tags":["informatik/sicherheit/ips","informatik/netzwerk"],"noteIcon":"","updated":"2025-11-07T11:31:45.000+01:00"}
 ---
 
 > Intrusion Prevention System

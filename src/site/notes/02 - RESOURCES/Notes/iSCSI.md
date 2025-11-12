@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-scsi/","tags":["storage/protokolle","netzwerk/storage"],"noteIcon":"","updated":"2025-10-29T12:59:07.042+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-scsi/","tags":["storage/protokolle","netzwerk/storage"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00"}
 ---
 
 

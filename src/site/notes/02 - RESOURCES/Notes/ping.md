@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ping/","tags":["informatik/netzwerk","informatik/betriebssystem/linux/command","informatik/betriebssystem/windows/command"],"noteIcon":"","updated":"2025-10-29T12:59:09.160+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ping/","tags":["informatik/netzwerk","informatik/betriebssystem/linux/command","informatik/betriebssystem/windows/command"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
 ---
 
 > Befehl, der verwendet wird zu überprüfen ob zwei Geräte mit einnander verbunden sind.

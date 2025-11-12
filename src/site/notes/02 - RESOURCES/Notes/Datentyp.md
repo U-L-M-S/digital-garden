@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datentyp/","tags":["informatik/code"],"noteIcon":"","updated":"2025-10-29T12:59:04.815+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/datentyp/","tags":["informatik/code"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00"}
 ---
 
 >In den meisten Programmiersprachen gibt es zwei [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]en:

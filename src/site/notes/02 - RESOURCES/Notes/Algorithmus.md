@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/algorithmus/","tags":["algorithmus","informatik/code/algorithmus","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T09:56:44.243+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/algorithmus/","tags":["algorithmus","informatik/code/algorithmus","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:21:10.000+01:00"}
 ---
 
 
@@ -203,6 +203,8 @@ Algorithmus-Schema:
 >```
 >Vorteil: Direkt ausführbar
 >Nachteil: Syntax-abhängig
+>
+>**Hinweis:** Dies ist eine [[02 - RESOURCES/Notes/Methode\|Methode]] in Java
 >
 >**4. Flussdiagramm:**
 >```

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/domain/","tags":["informatik/netzwerk/domain"],"noteIcon":"","updated":"2025-10-29T12:59:05.488+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/domain/","tags":["informatik/netzwerk/domain"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
 ---
 
 >Es befindet sich unter der [[02 - RESOURCES/Notes/TLD\|TLD]] und über den Subdomains.

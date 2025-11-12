@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/angebot/","tags":["markt/mechanismus","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T09:46:49.198+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/angebot/","tags":["markt/mechanismus","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:20:20.000+01:00"}
 ---
 
 >Ein Angebot ist die Menge an Produkten oder Dienstleistungen, die Verkäufer zu bestimmten Preisen verkaufen möchten.
@@ -48,5 +48,5 @@ Kunde              Anbieter
   │                    │
   ├─ Annahme ─────────>│
   │                    │
-  └─── Vertrag! ───────┘
+  └─── [[Vertrag]]! ───────┘
 ```

@@ -391,7 +391,7 @@ public class BankKonto {
 }
 ```
 
-#### [[Vererbung\|Vererbung]]
+#### [[02 - RESOURCES/Notes/Vererbung\|Vererbung]]
 >Kindklassen erben Eigenschaften von Elternklassen - verhindert Code-Duplikation.
 
 ```java

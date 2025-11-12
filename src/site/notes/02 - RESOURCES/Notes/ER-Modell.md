@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/er-modell/","tags":["datenmodellierung/konzeptionell","datenbank/design","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T10:03:08.965+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/er-modell/","tags":["datenmodellierung/konzeptionell","datenbank/design","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:21:45.000+01:00"}
 ---
 
 
@@ -28,7 +28,7 @@
 
 >[!important] ER-Komponenten
 >
->**1. Entitäten (Rechtecke)**
+>**1. [[02 - RESOURCES/Notes/Entität\|Entität]]en (Rechtecke)**
 >```
 >┌──────────┐
 >│  KUNDE   │  ← Objekt der realen Welt
@@ -52,13 +52,13 @@
 >- Z.B. Name, Preis, Datum
 >- In Klammern oder Ovalen
 >
->**3. Beziehungen (Rauten)**
+>**3. [[02 - RESOURCES/Notes/Relationship\|Beziehungen]] (Rauten)**
 >```
 >┌────────┐     ┌──────────┐     ┌─────────┐
 >│ KUNDE  │────<│ BESTELLT │>────│ PRODUKT │
 >└────────┘     └──────────┘     └─────────┘
 >```
->- Verbindungen zwischen Entitäten
+>- Verbindungen zwischen [[02 - RESOURCES/Notes/Entität\|Entität]]en
 >- Z.B. kauft, gehört zu, liefert
 >- Als Verb formulieren
 
@@ -71,9 +71,9 @@
 >
 >| Notation | Name    | Bedeutung                      |
 >|----------|---------|--------------------------------|
->| **1:1**  | Eins zu eins | Jeder hat genau einen   |
->| **1:n**  | Eins zu viele| Einer hat viele         |
->| **n:m**  | Viele zu viele| Viele haben viele      |
+>| **[[02 - RESOURCES/Notes/1 zu 1\|1:1]]**  | Eins zu eins | Jeder hat genau einen   |
+>| **[[02 - RESOURCES/Notes/1 zu n\|1:n]]**  | Eins zu viele| Einer hat viele         |
+>| **[[02 - RESOURCES/Notes/n zu m\|n:m]]**  | Viele zu viele| Viele haben viele      |
 >
 >**Beispiele:**
 >```
@@ -158,7 +158,7 @@ PK = Primary Key (Primärschlüssel)
 >**Schritt 1: Entitäten → Tabellen**
 >```
 >KUNDE → Tabelle "Kunde"
->├─ KundenID (Primärschlüssel)
+>├─ KundenID ([[02 - RESOURCES/Notes/Primary Key\|Primary Key]])
 >├─ Name
 >├─ Adresse
 >└─ Email
@@ -167,11 +167,11 @@ PK = Primary Key (Primärschlüssel)
 >**Schritt 2: Beziehungen → Fremdschlüssel**
 >```
 >1:n Beziehung:
->Fremdschlüssel auf der "n"-Seite
+>[[02 - RESOURCES/Notes/Foreign Key\|Foreign Key]] auf der "n"-Seite
 >
 >Bestellung:
->├─ BestellID
->├─ KundenID (FK)  ← Verweis auf Kunde
+>├─ BestellID ([[Primary Key]])
+>├─ KundenID ([[Foreign Key]])  ← Verweis auf Kunde
 >├─ Datum
 >└─ Menge
 >```
@@ -181,17 +181,17 @@ PK = Primary Key (Primärschlüssel)
 >Student ←→ Kurs
 >
 >Neue Tabelle "Teilnahme":
->├─ StudentID (FK)
->├─ KursID (FK)
+>├─ StudentID ([[Foreign Key]])
+>├─ KursID ([[Foreign Key]])
 >└─ Note
 >```
 
 >[!success] Grundlage für Datenbank-Design
 >Das [[02 - RESOURCES/Notes/ER-Modell\|ER-Modell]] ist der erste Schritt beim Erstellen einer Datenbank. Danach kommen:
 >1. ER-Modell erstellen
->2. In Tabellen umwandeln
->3. [[02 - RESOURCES/Notes/1. Normalform\|1. Normalform]], [[02 - RESOURCES/Notes/2. Normalform\|2. Normalform]], [[02 - RESOURCES/Notes/3. Normalform\|3. Normalform]] anwenden
->4. Datenbank implementieren
+>2. In Tabellen umwandeln mit [[Primary Key]] und [[Foreign Key]]
+>3. [[02 - RESOURCES/Notes/Normalisierung\|Normalisierung]] anwenden: [[02 - RESOURCES/Notes/1. Normalform\|1. Normalform]], [[02 - RESOURCES/Notes/2. Normalform\|2. Normalform]], [[02 - RESOURCES/Notes/3. Normalform\|3. Normalform]]
+>4. Datenbank implementieren mit [[02 - RESOURCES/Notes/SQL\|SQL]]
 
 # VI. Prüfungswissen
 

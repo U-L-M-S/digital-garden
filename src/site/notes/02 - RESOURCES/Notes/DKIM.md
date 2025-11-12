@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dkim/","tags":["informatik/sicherheit/email","kryptographie","dns"],"noteIcon":"","updated":"2025-11-07T11:40:14.929+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dkim/","tags":["informatik/sicherheit/email","kryptographie","dns"],"noteIcon":"","updated":"2025-11-07T11:40:14.000+01:00"}
 ---
 
 > DomainKeys Identified Mail

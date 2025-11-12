@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dns-spoofing/","tags":["informatik/netzwerk/dns","informatik/netzwerk/dns/manipulation","sicherheit/angriff","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:05.373+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dns-spoofing/","tags":["informatik/netzwerk/dns","informatik/netzwerk/dns/manipulation","sicherheit/angriff","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
 ---
 
 
