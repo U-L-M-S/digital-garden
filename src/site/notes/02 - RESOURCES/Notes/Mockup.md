@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mockup/","tags":["design/visualisierung","prototyping/statisch"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/mockup/","tags":["design/visualisierung","prototyping/statisch"],"noteIcon":"","updated":"2025-10-29T12:59:08.356+01:00"}
 ---
 
 
