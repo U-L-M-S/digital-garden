@@ -1,25 +1,190 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/white-box-test/","tags":["qualitaetssicherung/testing","testing/verfahren"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/white-box-test/","tags":["qualitaetssicherung/testing","testing/verfahren","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T09:51:48.228+01:00"}
 ---
 
+>White Box Test ist eine Testmethode, bei der der interne Code bekannt ist und gezielt getestet wird.
+>>Der Tester "sieht durch die Box" und prüft alle Code-Pfade, Verzweigungen und Anweisungen.
 
->[[02 - RESOURCES/Notes/White Box Test\|White Box Test]] prüft die interne Struktur und Logik des Codes mit vollständiger Code-Kenntnis.
+>[!summary] Was ist White Box Test?
+>- **Strukturtest** mit Code-Kenntnis
+>- **Entwicklersicht:** Sind alle Pfade korrekt?
+>- **Code-Abdeckung** messen
 
->>Ziel ist die Überprüfung aller Code-Pfade, Verzweigungen und Anweisungen.
+```
+WHITE BOX TEST - KONZEPT
 
->[!important] 
->**White Box Test Merkmale:**
->- Vollständige Code-Sichtbarkeit
->- Strukturelle Testabdeckung
->- Pfad- und Verzweigungstests
->- Code-Coverage-Messung
+       Tester sieht ALLES:
 
->[!example] 
->**Überdeckungsarten:**
->- Statement Coverage (Anweisungsüberdeckung)
->- Branch Coverage (Zweigüberdeckung)  
->- Path Coverage (Pfadüberdeckung)
->- Condition Coverage
+Eingabe           Code (sichtbar!)        Ausgabe
+  │                     │                    │
+  ▼                     ▼                    ▼
+┌───┐    ┌──────────────────────┐         ┌───┐
+│ 5 │───>│ if (a > 0) {         │────────>│ 8 │
+│ + │    │   result = a + b;    │         │   │
+│ 3 │    │ } else {             │         └───┘
+└───┘    │   result = 0;        │
+         │ }                    │
+         │ return result;       │
+         └──────────────────────┘
+                  │
+         Tester prüft:
+         • Alle if-Zweige getestet?
+         • Alle Pfade durchlaufen?
+         • Edge Cases bedacht?
+```
 
->[!warning] 
->100% Code Coverage garantiert nicht fehlerfreie Software.
+>[!important] White Box Test Merkmale
+>**4 Haupteigenschaften:**
+>
+>1. **Vollständige Code-Sichtbarkeit**
+>   - Tester MUSS Code lesen können
+>   - Versteht interne Logik
+>
+>2. **Strukturelle Testabdeckung**
+>   - Alle Code-Zeilen testen
+>   - Alle Verzweigungen prüfen
+>
+>3. **Pfad- und Verzweigungstests**
+>   - Jede if/else-Bedingung testen
+>   - Jede Schleife durchlaufen
+>
+>4. **Code-Coverage-Messung**
+>   - Wie viel % des Codes getestet?
+>   - Tools messen automatisch
+
+>[!example] Überdeckungsarten (Coverage)
+>
+>```java
+>// Beispiel-Code:
+>public int calculate(int a, int b) {
+>    int result;                    // Zeile 1
+>    if (a > 0) {                   // Zeile 2
+>        result = a + b;            // Zeile 3
+>    } else {                       // Zeile 4
+>        result = 0;                // Zeile 5
+>    }
+>    return result;                 // Zeile 6
+>}
+>```
+>
+>**1. Statement Coverage (Anweisungsüberdeckung)**
+>```
+>Ziel: Jede Zeile einmal ausführen
+>
+>Test 1: calculate(5, 3)
+>  → Zeilen: 1, 2, 3, 6 ✓
+>
+>Test 2: calculate(-1, 3)
+>  → Zeilen: 1, 2, 5, 6 ✓
+>
+>Coverage: 100% (alle Zeilen getestet)
+>```
+>
+>**2. Branch Coverage (Zweigüberdeckung)**
+>```
+>Ziel: Jede if/else-Verzweigung testen
+>
+>Test 1: a > 0  → TRUE-Zweig  ✓
+>Test 2: a <= 0 → FALSE-Zweig ✓
+>
+>Coverage: 100% (beide Zweige)
+>```
+>
+>**3. Path Coverage (Pfadüberdeckung)**
+>```
+>Ziel: ALLE möglichen Pfade durch Code
+>
+>Bei komplexem Code sehr aufwändig!
+>```
+
+```
+COVERAGE-ARTEN IM VERGLEICH
+
+Statement Coverage (am einfachsten)
+     │
+     ▼
+┌────────────────────────┐
+│ Jede Zeile einmal      │
+│ ausführen              │
+└────────────────────────┘
+     │
+     ▼
+Branch Coverage
+     │
+     ▼
+┌────────────────────────┐
+│ Jede Verzweigung       │
+│ (if/else) testen       │
+└────────────────────────┘
+     │
+     ▼
+Path Coverage (am gründlichsten)
+     │
+     ▼
+┌────────────────────────┐
+│ ALLE Kombinationen     │
+│ von Pfaden             │
+└────────────────────────┘
+```
+
+>[!tip] Vorteile White Box Test
+>✅ **Gründlich:** Alle Code-Pfade werden geprüft
+>✅ **Früh einsetzbar:** Während der Entwicklung
+>✅ **Optimierung:** Findet ineffizienten Code
+>✅ **Messbar:** Code-Coverage in %
+
+>[!warning] Nachteile White Box Test
+>❌ **Code-Kenntnis nötig:** Tester muss programmieren können
+>❌ **Zeitaufwändig:** Viele Tests für komplexen Code
+>❌ **Nicht benutzernah:** Fokus auf Technik, nicht auf UX
+>❌ **Keine Garantie:** 100% Coverage ≠ fehlerfrei!
+
+```
+WHITE BOX TEST - ABLAUF
+
+┌──────────────────────┐
+│ 1. CODE ANALYSIEREN  │
+│  Struktur verstehen  │
+└──────────────────────┘
+          ↓
+┌──────────────────────┐
+│ 2. PFADE             │
+│    IDENTIFIZIEREN    │
+│  • if-Zweige         │
+│  • Schleifen         │
+└──────────────────────┘
+          ↓
+┌──────────────────────┐
+│ 3. TESTFÄLLE FÜR     │
+│    JEDEN PFAD        │
+└──────────────────────┘
+          ↓
+┌──────────────────────┐
+│ 4. COVERAGE MESSEN   │
+│  Wurde alles         │
+│  getestet?           │
+└──────────────────────┘
+```
+
+>[!warning] Wichtiger Hinweis
+>**100% Code Coverage garantiert NICHT fehlerfreie Software!**
+>
+>Warum?
+>- Kann Logikfehler übersehen
+>- Testet nicht alle Eingabe-Kombinationen
+>- Anforderungen könnten falsch sein
+>
+>**Kombination ist best Practice:**
+>White Box + [[02 - RESOURCES/Notes/Black Box Test\|Black Box Test]] = Optimale Abdeckung
+
+>[!note] White Box vs [[02 - RESOURCES/Notes/Black Box Test\|Black Box Test]]
+>
+>| Merkmal | White Box | [[02 - RESOURCES/Notes/Black Box Test\|Black Box Test]] |
+>|---------|-----------|-------------|
+>| **Code-Kenntnis** | Ja, vollständig | Nein |
+>| **Perspektive** | Entwickler | Benutzer |
+>| **Testet** | Interne Struktur | Funktionalität |
+>| **Abdeckung** | Code Coverage | Anforderungen |
+>| **Zeitpunkt** | Während Entwicklung | Nach Fertigstellung |
+>
+>**Praxis-Tipp:** Beide Methoden kombinieren!

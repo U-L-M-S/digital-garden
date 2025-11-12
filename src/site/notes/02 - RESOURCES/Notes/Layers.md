@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/layers/","tags":["informatik/virtualisierung/docker/images","informatik/virtualisierung/docker/storage"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/layers/","tags":["informatik/virtualisierung/docker/images","informatik/virtualisierung/docker/storage"],"noteIcon":"","updated":"2025-10-29T12:59:07.778+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wlan-standards/","tags":["informatik/netzwerk/wifi"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wlan-standards/","tags":["informatik/netzwerk/wifi"],"noteIcon":"","updated":"2025-10-29T12:59:11.358+01:00"}
 ---
 
 >Die Wireless Networking (IEEE 802.11) wurden in Generationen aufgeteilt und aktuell sind diese 6.

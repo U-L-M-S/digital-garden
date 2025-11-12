@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ascii/","noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ascii/","noteIcon":"","updated":"2025-10-29T12:59:02.719+01:00"}
 ---
 
 >Zeichencodierungssystem mit 128 Zeichen.

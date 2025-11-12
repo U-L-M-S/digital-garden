@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/cps/","tags":["industrie40/systeme","AP2025/neu"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/cps/","tags":["industrie40/systeme","AP2025/neu"],"noteIcon":"","updated":"2025-10-29T12:59:04.632+01:00"}
 ---
 
 

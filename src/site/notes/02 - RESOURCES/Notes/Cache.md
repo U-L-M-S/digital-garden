@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/cache/","tags":["performance/optimierung","speicher/zwischenspeicher"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/cache/","tags":["performance/optimierung","speicher/zwischenspeicher"],"noteIcon":"","updated":"2025-10-29T12:59:04.311+01:00"}
 ---
 
 

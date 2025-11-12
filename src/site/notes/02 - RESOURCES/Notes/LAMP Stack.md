@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lamp-stack/","tags":["web","GFN/LF10/FISI","informatik/server"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/lamp-stack/","tags":["web","GFN/LF10/FISI","informatik/server"],"noteIcon":"","updated":"2025-10-29T12:59:07.631+01:00"}
 ---
 
 > Eine **nützliche Kombo!** [[02 - RESOURCES/Notes/LAMP Stack\|LAMP Stack]] ist eine kostenlose Open-Source Sammlung von Software, die zusammen eine Plattform für dynamische Webinhalte ergibt.

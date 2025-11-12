@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/abuse-ch/","tags":["informatik/sicherheit/threat-intelligence","malware"],"noteIcon":"","updated":"2025-11-07T11:31:47.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/abuse-ch/","tags":["informatik/sicherheit/threat-intelligence","malware"],"noteIcon":"","updated":"2025-11-07T11:31:47.650+01:00"}
 ---
 
 > Kostenlose Threat Intelligence Plattform

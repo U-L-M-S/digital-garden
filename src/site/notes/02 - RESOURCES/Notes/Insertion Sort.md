@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/insertion-sort/","tags":["algorithmen/sortierung","AP2025/detailliert"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/insertion-sort/","tags":["algorithmen/sortierung","AP2025/detailliert"],"noteIcon":"","updated":"2025-11-12T09:26:56.247+01:00"}
 ---
 
-
+![Insertion-sort-example.gif](/img/user/02%20-%20RESOURCES/Files/Insertion-sort-example.gif)
 >[[02 - RESOURCES/Notes/Insertion Sort\|Insertion Sort]] sortiert durch schrittweises Einfügen von Elementen an die korrekte Position.
 
 >>Ähnlich dem Sortieren von Spielkarten in der Hand - jede neue Karte wird an die richtige Stelle eingefügt.

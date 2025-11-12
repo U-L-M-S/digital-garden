@@ -1,22 +1,462 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-aktivitaetsdiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","uml/aktivitätsdiagramm"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-aktivitaetsdiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","ausbildung/gfn/ap2/vorbereitung","GFN/prüfungsrelevant/AP2","uml/aktivitätsdiagramm"],"noteIcon":"","updated":"2025-11-12T09:58:10.238+01:00"}
 ---
 
->Es stellt graphisch da die Ablauf von Aktivitäten in einem System.
+
+>Das [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]] zeigt den Ablauf von Aktivitäten in einem System. Es ist wie ein Flussdiagramm für Geschäftsprozesse.
+
+>>Mit einem [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]] kann man darstellen, welche Schritte nacheinander oder parallel ablaufen.
+
+# I. Was ist ein Aktivitätsdiagramm?
+
+>Es zeigt, was in welcher Reihenfolge passiert.
+
+>[!note] Wofür braucht man es?
+>**Verwendung:**
+>- Ablauf von Geschäftsprozessen zeigen
+>- Workflows dokumentieren
+>- Algorithmen visualisieren
+>- Parallel ablaufende Prozesse darstellen
+>
+>**Beispiele:**
+>- Bestellprozess in einem Online-Shop
+>- Login-Vorgang einer App
+>- Produktionsablauf in einer Fabrik
+>- Genehmigungsverfahren
+
+# II. Die wichtigsten Elemente
+
+>Diese Symbole brauchst du für ein [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]].
 
 ## Syntax
 <style> .container {font-family: sans-serif; text-align: center;} .button-wrapper button {z-index: 1;height: 40px; width: 100px; margin: 10px;padding: 5px;} .excalidraw .App-menu_top .buttonList { display: flex;} .excalidraw-wrapper { height: 800px; margin: 50px; position: relative;} :root[dir="ltr"] .excalidraw .layer-ui__wrapper .zen-mode-transition.App-menu_bottom--transition-left {transform: none;} </style><script src="https://cdn.jsdelivr.net/npm/react@17/umd/react.production.min.js"></script><script src="https://cdn.jsdelivr.net/npm/react-dom@17/umd/react-dom.production.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@excalidraw/excalidraw@0/dist/excalidraw.production.min.js"></script><div id="UML-Aktivitätsdiagramm_2025-03-22_1713.22.excalidraw.md1"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.9.1","elements":[{"id":"3iENoQKGLQNM1-GBzYmSP","type":"ellipse","x":-178.75,"y":-301.203125,"width":54,"height":51,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#ffffff","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a0","roundness":{"type":2},"seed":686507450,"version":143,"versionNonce":1731495846,"isDeleted":false,"boundElements":[{"id":"BrJNTI6tLhEtr_OkUxWnZ","type":"arrow"}],"updated":1742660204745,"link":null,"locked":false},{"id":"Hj7zNWRNHPwEwaGeLH-UV","type":"rectangle","x":-236.75,"y":-187.203125,"width":171,"height":84,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#ffffff","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a1","roundness":{"type":3},"seed":374800186,"version":40,"versionNonce":1281435898,"isDeleted":false,"boundElements":[{"type":"text","id":"wGo91gBs"},{"id":"BrJNTI6tLhEtr_OkUxWnZ","type":"arrow"},{"id":"HhnWDxTts4WBYC6G_tc0Y","type":"arrow"}],"updated":1742660207455,"link":null,"locked":false},{"id":"wGo91gBs","type":"text","x":-198.8299560546875,"y":-157.703125,"width":95.159912109375,"height":25,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#ffffff","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a2","roundness":null,"seed":1005493990,"version":22,"versionNonce":1056190822,"isDeleted":false,"boundElements":null,"updated":1742660183195,"link":null,"locked":false,"text":"stehe auf","rawText":"stehe auf","fontSize":20,"fontFamily":5,"textAlign":"center","verticalAlign":"middle","containerId":"Hj7zNWRNHPwEwaGeLH-UV","originalText":"stehe auf","autoResize":true,"lineHeight":1.25},{"id":"3aP0ElbXA7R2SqA2f79RV","type":"rectangle","x":-241.75,"y":-35.203125,"width":199,"height":72,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#ffffff","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a4","roundness":{"type":3},"seed":2122769210,"version":99,"versionNonce":1771563430,"isDeleted":false,"boundElements":[{"type":"text","id":"VWqDHoSp"},{"id":"HhnWDxTts4WBYC6G_tc0Y","type":"arrow"},{"id":"IiudlaydeoLTcvdi2seQp","type":"arrow"}],"updated":1742660211203,"link":null,"locked":false},{"id":"VWqDHoSp","type":"text","x":-223.2299346923828,"y":-11.703125,"width":161.95986938476562,"height":25,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#ffffff","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a5","roundness":null,"seed":876627046,"version":46,"versionNonce":1674221350,"isDeleted":false,"boundElements":null,"updated":1742660184646,"link":null,"locked":false,"text":"Putze die Zähne","rawText":"Putze die Zähne","fontSize":20,"fontFamily":5,"textAlign":"center","verticalAlign":"middle","containerId":"3aP0ElbXA7R2SqA2f79RV","originalText":"Putze die Zähne","autoResize":true,"lineHeight":1.25},{"id":"haCAtkK8_OaKsTD7gKTmS","type":"rectangle","x":-218.75,"y":91.796875,"width":153,"height":45,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#ffffff","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a7","roundness":{"type":3},"seed":1307864102,"version":76,"versionNonce":1703920634,"isDeleted":false,"boundElements":[{"type":"text","id":"STnpMj9v"},{"id":"IiudlaydeoLTcvdi2seQp","type":"arrow"},{"id":"phveqSlA9eatyshD7Zu9I","type":"arrow"}],"updated":1742660843190,"link":null,"locked":false},{"id":"STnpMj9v","type":"text","x":-177.03997039794922,"y":101.796875,"width":69.57994079589844,"height":25,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#ffffff","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a8","roundness":null,"seed":955753082,"version":37,"versionNonce":728228646,"isDeleted":false,"boundElements":null,"updated":1742660230765,"link":null,"locked":false,"text":"Dusche","rawText":"Dusche","fontSize":20,"fontFamily":5,"textAlign":"center","verticalAlign":"middle","containerId":"haCAtkK8_OaKsTD7gKTmS","originalText":"Dusche","autoResize":true,"lineHeight":1.25},{"id":"y8lxcOmjqVqthO69NN73V","type":"rectangle","x":160.25,"y":465.796875,"width":152,"height":60,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#ffffff","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a9","roundness":{"type":3},"seed":1696114618,"version":176,"versionNonce":539839206,"isDeleted":false,"boundElements":[{"type":"text","id":"fA76tCAo"},{"id":"BaTbOc13cujWgUsOkm7rr","type":"arrow"},{"id":"SgdtiZol-m5QdVMp4fR8E","type":"arrow"}],"updated":1742660891537,"link":null,"locked":false},{"id":"fA76tCAo","type":"text","x":191.2400360107422,"y":470.796875,"width":90.01992797851562,"height":50,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#ffffff","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aA","roundness":null,"seed":582234150,"version":159,"versionNonce":1682130938,"isDeleted":false,"boundElements":null,"updated":1742660449895,"link":null,"locked":false,"text":"fahre zur\nArbeit","rawText":"fahre zur Arbeit","fontSize":20,"fontFamily":5,"textAlign":"center","verticalAlign":"middle","containerId":"y8lxcOmjqVqthO69NN73V","originalText":"fahre zur Arbeit","autoResize":true,"lineHeight":1.25},{"id":"J2KnhtIJr5oA2_iKIeEJ5","type":"rectangle","x":175.25,"y":576.796875,"width":120,"height":50,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#ffffff","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aB","roundness":{"type":3},"seed":262456998,"version":189,"versionNonce":1787265018,"isDeleted":false,"boundElements":[{"type":"text","id":"udx4meAm"},{"id":"SgdtiZol-m5QdVMp4fR8E","type":"arrow"},{"id":"U2oV6PWFn3FlVWkJBCEEK","type":"arrow"}],"updated":1742660897402,"link":null,"locked":false},{"id":"udx4meAm","type":"text","x":200.11003875732422,"y":589.296875,"width":70.27992248535156,"height":25,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#ffffff","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aC","roundness":null,"seed":40108070,"version":153,"versionNonce":100933178,"isDeleted":false,"boundElements":null,"updated":1742660451345,"link":null,"locked":false,"text":"Arbeite","rawText":"Arbeite","fontSize":20,"fontFamily":5,"textAlign":"center","verticalAlign":"middle","containerId":"J2KnhtIJr5oA2_iKIeEJ5","originalText":"Arbeite","autoResize":true,"lineHeight":1.25},{"id":"eDcEXUJx7n7t1HE0ozbC4","type":"ellipse","x":-145.75,"y":857.296875,"width":29,"height":30,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#ffffff","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aD","roundness":{"type":2},"seed":915570874,"version":453,"versionNonce":1779386746,"isDeleted":false,"boundElements":[{"id":"U2oV6PWFn3FlVWkJBCEEK","type":"arrow"}],"updated":1742660897404,"link":null,"locked":false},{"id":"_9nlrWDGHdJHnbxditaAp","type":"ellipse","x":-157.75,"y":847.296875,"width":54,"height":51,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aE","roundness":{"type":2},"seed":326587322,"version":367,"versionNonce":1914801894,"isDeleted":false,"boundElements":[{"id":"xQdSiNHpm3gnE3lSrfQoV","type":"arrow"}],"updated":1742660903683,"link":null,"locked":false},{"id":"BrJNTI6tLhEtr_OkUxWnZ","type":"arrow","x":-149.75,"y":-245.203125,"width":1,"height":59,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aF","roundness":{"type":2},"seed":712912614,"version":29,"versionNonce":1271964390,"isDeleted":false,"boundElements":null,"updated":1742660204747,"link":null,"locked":false,"points":[[0,0],[1,59]],"lastCommittedPoint":null,"startBinding":{"elementId":"3iENoQKGLQNM1-GBzYmSP","focus":-0.05406240345999251,"gap":5.059497384467858},"endBinding":{"elementId":"Hj7zNWRNHPwEwaGeLH-UV","focus":0.03705888135260039,"gap":1},"startArrowhead":null,"endArrowhead":"arrow","elbowed":false},{"id":"HhnWDxTts4WBYC6G_tc0Y","type":"arrow","x":-145.75,"y":-97.203125,"width":2,"height":55,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aG","roundness":{"type":2},"seed":179048442,"version":23,"versionNonce":386267578,"isDeleted":false,"boundElements":null,"updated":1742660207456,"link":null,"locked":false,"points":[[0,0],[2,55]],"lastCommittedPoint":null,"startBinding":{"elementId":"Hj7zNWRNHPwEwaGeLH-UV","focus":-0.04314217068839416,"gap":6},"endBinding":{"elementId":"3aP0ElbXA7R2SqA2f79RV","focus":0.0006312561998377233,"gap":7},"startArrowhead":null,"endArrowhead":"arrow","elbowed":false},{"id":"IiudlaydeoLTcvdi2seQp","type":"arrow","x":-142.96770608100542,"y":38.23882854818648,"width":4.4516854082488635,"height":52.30730354692394,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aH","roundness":{"type":2},"seed":1977816422,"version":42,"versionNonce":1201042170,"isDeleted":false,"boundElements":null,"updated":1742660230770,"link":null,"locked":false,"points":[[0,0],[4.4516854082488635,52.30730354692394]],"lastCommittedPoint":null,"startBinding":{"elementId":"3aP0ElbXA7R2SqA2f79RV","focus":0.038066590602634606,"gap":4},"endBinding":{"elementId":"haCAtkK8_OaKsTD7gKTmS","focus":0.07339574006240676,"gap":4},"startArrowhead":null,"endArrowhead":"arrow","elbowed":false},{"id":"tk9vhhFTJmpPUbqgyHxml","type":"diamond","x":-267.75,"y":212.796875,"width":255,"height":186,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aK","roundness":{"type":2},"seed":258502822,"version":528,"versionNonce":2098993530,"isDeleted":false,"boundElements":[{"type":"text","id":"8TtK5wnd"},{"id":"phveqSlA9eatyshD7Zu9I","type":"arrow"},{"id":"BaTbOc13cujWgUsOkm7rr","type":"arrow"},{"id":"U0DDhexF2z8mtoe6TrCDW","type":"arrow"}],"updated":1742660884586,"link":null,"locked":false},{"id":"8TtK5wnd","type":"text","x":-196.85919189453125,"y":264.546875,"width":113.7183837890625,"height":82.5,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aL","roundness":null,"seed":753846694,"version":445,"versionNonce":1847117754,"isDeleted":false,"boundElements":null,"updated":1742660879448,"link":null,"locked":false,"text":"Heute\nWocheende\n?","rawText":"Heute Wocheende?","fontSize":22,"fontFamily":5,"textAlign":"center","verticalAlign":"middle","containerId":"tk9vhhFTJmpPUbqgyHxml","originalText":"Heute Wocheende?","autoResize":true,"lineHeight":1.25},{"id":"V0Ut5DhYU8VnYMq-okbYQ","type":"rectangle","x":-367.75000000000006,"y":-254.20312499999997,"width":421.00000000000006,"height":435.00000000000006,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aM","roundness":{"type":3},"seed":1855493050,"version":104,"versionNonce":1517100154,"isDeleted":false,"boundElements":null,"updated":1742660458634,"link":null,"locked":false},{"id":"3XS8ayGz","type":"text","x":-353.75,"y":-244.203125,"width":149.07247924804688,"height":27.5,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aN","roundness":null,"seed":1148491686,"version":64,"versionNonce":1557016870,"isDeleted":false,"boundElements":null,"updated":1742660461335,"link":null,"locked":false,"text":"Morgenroutine","rawText":"Morgenroutine","fontSize":22,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Morgenroutine","autoResize":true,"lineHeight":1.25},{"id":"HaQHIJCItxuSbbwSqtw5w","type":"rectangle","x":58.25,"y":387.796875,"width":361,"height":298,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aO","roundness":{"type":3},"seed":67491174,"version":71,"versionNonce":764740666,"isDeleted":false,"boundElements":[{"id":"BaTbOc13cujWgUsOkm7rr","type":"arrow"}],"updated":1742660868031,"link":null,"locked":false},{"id":"ftCiOKvj","type":"text","x":68.25,"y":397.796875,"width":123.64198303222656,"height":24.178141386034785,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aP","roundness":null,"seed":2072238694,"version":72,"versionNonce":1439098790,"isDeleted":false,"boundElements":null,"updated":1742660446076,"link":null,"locked":false,"text":"Arbeitroutine","rawText":"Arbeitroutine","fontSize":19.342513108827827,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Arbeitroutine","autoResize":true,"lineHeight":1.25},{"id":"A6aNAbYwMDgeih0trS4GH","type":"rectangle","x":-490.75,"y":498.796875,"width":201,"height":81,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aQ","roundness":{"type":3},"seed":1635894522,"version":71,"versionNonce":1701602810,"isDeleted":false,"boundElements":[{"type":"text","id":"AUeoxTjQ"},{"id":"U0DDhexF2z8mtoe6TrCDW","type":"arrow"},{"id":"lK377OMVV7x0deQL8hVq_","type":"arrow"}],"updated":1742660900453,"link":null,"locked":false},{"id":"AUeoxTjQ","type":"text","x":-447.90120697021484,"y":525.546875,"width":115.30241394042969,"height":27.5,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aR","roundness":null,"seed":1492209210,"version":46,"versionNonce":588248806,"isDeleted":false,"boundElements":null,"updated":1742660823321,"link":null,"locked":false,"text":"Frührstuck","rawText":"Frührstuck","fontSize":22,"fontFamily":5,"textAlign":"center","verticalAlign":"middle","containerId":"A6aNAbYwMDgeih0trS4GH","originalText":"Frührstuck","autoResize":true,"lineHeight":1.25},{"id":"0GQLwLuoou8O7-MbpYtrW","type":"rectangle","x":-485.75,"y":633.796875,"width":193,"height":83,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aS","roundness":{"type":3},"seed":411647866,"version":86,"versionNonce":2009198694,"isDeleted":false,"boundElements":[{"type":"text","id":"cWgB4LEu"},{"id":"lK377OMVV7x0deQL8hVq_","type":"arrow"},{"id":"xQdSiNHpm3gnE3lSrfQoV","type":"arrow"}],"updated":1742660903682,"link":null,"locked":false},{"id":"cWgB4LEu","type":"text","x":-443.18318939208984,"y":647.796875,"width":107.86637878417969,"height":55,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aT","roundness":null,"seed":2073521082,"version":58,"versionNonce":1904211302,"isDeleted":false,"boundElements":null,"updated":1742660823321,"link":null,"locked":false,"text":"Fernsehen\nanschauen","rawText":"Fernsehen\nanschauen","fontSize":22,"fontFamily":5,"textAlign":"center","verticalAlign":"middle","containerId":"0GQLwLuoou8O7-MbpYtrW","originalText":"Fernsehen\nanschauen","autoResize":true,"lineHeight":1.25},{"id":"BssmlA1OVFALlP2pSpUne","type":"rectangle","x":-595.75,"y":378.79687500000006,"width":373,"height":380.99999999999994,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aU","roundness":{"type":3},"seed":451126010,"version":111,"versionNonce":1362474746,"isDeleted":false,"boundElements":[],"updated":1742660879447,"link":null,"locked":false},{"id":"9spJf4r8","type":"text","x":-576.75,"y":392.796875,"width":145.970458984375,"height":27.5,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aV","roundness":null,"seed":783236538,"version":87,"versionNonce":1038242790,"isDeleted":false,"boundElements":null,"updated":1742660823321,"link":null,"locked":false,"text":"Chillingroutine","rawText":"Chillingroutine","fontSize":22,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Chillingroutine","autoResize":true,"lineHeight":1.25},{"id":"phveqSlA9eatyshD7Zu9I","type":"arrow","x":-134.5911266615962,"y":138.7559965167883,"width":1.8638320109353117,"height":79.24297260414622,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aW","roundness":{"type":2},"seed":1297469050,"version":39,"versionNonce":847522022,"isDeleted":false,"boundElements":null,"updated":1742660879449,"link":null,"locked":false,"points":[[0,0],[-1.8638320109353117,79.24297260414622]],"lastCommittedPoint":null,"startBinding":{"elementId":"haCAtkK8_OaKsTD7gKTmS","focus":-0.10689916603487501,"gap":6},"endBinding":{"elementId":"tk9vhhFTJmpPUbqgyHxml","focus":0.013615416841223003,"gap":1},"startArrowhead":null,"endArrowhead":"arrow","elbowed":false},{"id":"BaTbOc13cujWgUsOkm7rr","type":"arrow","x":-7.75,"y":305.696875,"width":243.9,"height":155.10000000000002,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aY","roundness":null,"seed":1595037734,"version":57,"versionNonce":359989754,"isDeleted":false,"boundElements":null,"updated":1742660889624,"link":null,"locked":false,"points":[[0,0],[243.9,0],[243.9,155.10000000000002]],"lastCommittedPoint":null,"startBinding":{"elementId":"tk9vhhFTJmpPUbqgyHxml","fixedPoint":[1.0196078431372548,0.49946236559139773],"focus":0,"gap":0},"endBinding":{"elementId":"y8lxcOmjqVqthO69NN73V","fixedPoint":[0.4993421052631579,-0.08333333333333333],"focus":0,"gap":0},"startArrowhead":null,"endArrowhead":"arrow","elbowed":true,"fixedSegments":null,"startIsSpecial":null,"endIsSpecial":null},{"id":"U0DDhexF2z8mtoe6TrCDW","type":"arrow","x":-272.75,"y":305.696875,"width":117.60000000000002,"height":188.10000000000002,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aa","roundness":null,"seed":1689086458,"version":19,"versionNonce":1141824058,"isDeleted":false,"boundElements":null,"updated":1742660884588,"link":null,"locked":false,"points":[[0,0],[-117.60000000000002,0],[-117.60000000000002,188.10000000000002]],"lastCommittedPoint":null,"startBinding":{"elementId":"tk9vhhFTJmpPUbqgyHxml","fixedPoint":[-0.0196078431372549,0.49946236559139773],"focus":0,"gap":0},"endBinding":{"elementId":"A6aNAbYwMDgeih0trS4GH","fixedPoint":[0.49950248756218896,-0.06172839506172839],"focus":0,"gap":0},"startArrowhead":null,"endArrowhead":"arrow","elbowed":true,"fixedSegments":null,"startIsSpecial":null,"endIsSpecial":null},{"id":"SgdtiZol-m5QdVMp4fR8E","type":"arrow","x":236.15,"y":530.796875,"width":1,"height":41,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"ab","roundness":null,"seed":574010042,"version":8,"versionNonce":1196359206,"isDeleted":false,"boundElements":null,"updated":1742660891538,"link":null,"locked":false,"points":[[0,0],[-1,41]],"lastCommittedPoint":null,"startBinding":{"elementId":"y8lxcOmjqVqthO69NN73V","fixedPoint":[0.4993421052631579,1.0833333333333333],"focus":0,"gap":0},"endBinding":{"elementId":"J2KnhtIJr5oA2_iKIeEJ5","fixedPoint":[0.4991666666666667,-0.1],"focus":0,"gap":0},"startArrowhead":null,"endArrowhead":"arrow","elbowed":true,"fixedSegments":null,"startIsSpecial":null,"endIsSpecial":null},{"id":"U2oV6PWFn3FlVWkJBCEEK","type":"arrow","x":244.25,"y":634.796875,"width":356,"height":237.39999999999998,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"ac","roundness":null,"seed":682416314,"version":61,"versionNonce":1816752314,"isDeleted":false,"boundElements":null,"updated":1742660897403,"link":null,"locked":false,"points":[[0,0],[0,237.39999999999998],[-356,237.39999999999998]],"lastCommittedPoint":null,"startBinding":{"elementId":"J2KnhtIJr5oA2_iKIeEJ5","fixedPoint":[0.575,1.16],"focus":0,"gap":0},"endBinding":{"elementId":"eDcEXUJx7n7t1HE0ozbC4","fixedPoint":[1.1724137931034482,0.4966666666666659],"focus":0,"gap":0},"startArrowhead":null,"endArrowhead":"arrow","elbowed":true,"fixedSegments":null,"startIsSpecial":null,"endIsSpecial":null},{"id":"lK377OMVV7x0deQL8hVq_","type":"arrow","x":-390.35,"y":584.796875,"width":1,"height":44,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"ad","roundness":null,"seed":1277972070,"version":8,"versionNonce":1168217786,"isDeleted":false,"boundElements":null,"updated":1742660900455,"link":null,"locked":false,"points":[[0,0],[1,44]],"lastCommittedPoint":null,"startBinding":{"elementId":"A6aNAbYwMDgeih0trS4GH","fixedPoint":[0.49950248756218896,1.0617283950617284],"focus":0,"gap":0},"endBinding":{"elementId":"0GQLwLuoou8O7-MbpYtrW","fixedPoint":[0.49948186528497396,-0.060240963855421686],"focus":0,"gap":0},"startArrowhead":null,"endArrowhead":"arrow","elbowed":true,"fixedSegments":null,"startIsSpecial":null,"endIsSpecial":null},{"id":"xQdSiNHpm3gnE3lSrfQoV","type":"arrow","x":-389.35,"y":721.796875,"width":226.60000000000002,"height":150.89999999999998,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"ae","roundness":null,"seed":2144012390,"version":63,"versionNonce":1613951910,"isDeleted":false,"boundElements":null,"updated":1742660903683,"link":null,"locked":false,"points":[[0,0],[0,150.89999999999998],[226.60000000000002,150.89999999999998]],"lastCommittedPoint":null,"startBinding":{"elementId":"0GQLwLuoou8O7-MbpYtrW","fixedPoint":[0.49948186528497396,1.0602409638554218],"focus":0,"gap":0},"endBinding":{"elementId":"_9nlrWDGHdJHnbxditaAp","fixedPoint":[-0.09259259259259259,0.4980392156862741],"focus":0,"gap":0},"startArrowhead":null,"endArrowhead":"arrow","elbowed":true,"fixedSegments":null,"startIsSpecial":null,"endIsSpecial":null},{"id":"rQDbD9Jq","type":"text","x":22.25,"y":247.796875,"width":40.32612609863281,"height":27.5,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"af","roundness":null,"seed":306245798,"version":20,"versionNonce":1485136294,"isDeleted":false,"boundElements":null,"updated":1742660911637,"link":null,"locked":false,"text":"nein","rawText":"nein","fontSize":22,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"nein","autoResize":true,"lineHeight":1.25},{"id":"wzl8YhCV","type":"text","x":-346.75,"y":252.796875,"width":19.8880615234375,"height":27.5,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"ag","roundness":null,"seed":765807930,"version":5,"versionNonce":2122309690,"isDeleted":false,"boundElements":null,"updated":1742660915891,"link":null,"locked":false,"text":"ja","rawText":"ja","fontSize":22,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"ja","autoResize":true,"lineHeight":1.25},{"id":"WfQNlq1nGjxyfpr8jCG_B","type":"arrow","x":28.25,"y":306.796875,"width":212,"height":90,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aX","roundness":null,"seed":1210829414,"version":197,"versionNonce":787596902,"isDeleted":true,"boundElements":null,"updated":1742660862583,"link":null,"locked":false,"points":[[0,0],[0,70],[0,-18],[212,-18],[212,72]],"lastCommittedPoint":null,"startBinding":{"elementId":"tk9vhhFTJmpPUbqgyHxml","focus":-0.27339817816890516,"gap":7.000050117742422,"fixedPoint":[0.996078431372549,0.5053763440860215]},"endBinding":{"elementId":"HaQHIJCItxuSbbwSqtw5w","focus":0.7914716179536606,"gap":9,"fixedPoint":[0.5041551246537396,-0.030201342281879196]},"startArrowhead":null,"endArrowhead":"arrow","elbowed":true,"fixedSegments":[{"index":2,"start":[2,70],"end":[2,-18]},{"index":3,"start":[2,-18],"end":[254,-18]}],"startIsSpecial":false,"endIsSpecial":false},{"id":"9rBEGrKpBWUwJIgWQNY1s","type":"arrow","x":-272.75,"y":305.696875,"width":136.60000000000002,"height":68.10000000000008,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aZ","roundness":null,"seed":879261606,"version":67,"versionNonce":118459962,"isDeleted":true,"boundElements":null,"updated":1742660879447,"link":null,"locked":false,"points":[[0,0],[-136.60000000000002,0],[-136.60000000000002,68.10000000000008]],"lastCommittedPoint":null,"startBinding":{"elementId":"tk9vhhFTJmpPUbqgyHxml","fixedPoint":[-0.0196078431372549,0.49946236559139773],"focus":0,"gap":0},"endBinding":{"elementId":"BssmlA1OVFALlP2pSpUne","fixedPoint":[0.49973190348525465,-0.013123359580052495],"focus":0,"gap":0},"startArrowhead":null,"endArrowhead":"arrow","elbowed":true,"fixedSegments":null,"startIsSpecial":null,"endIsSpecial":null}],"appState":{"theme":"dark","viewBackgroundColor":"#ffffff","currentItemStrokeColor":"#1e1e1e","currentItemBackgroundColor":"transparent","currentItemFillStyle":"solid","currentItemStrokeWidth":2,"currentItemStrokeStyle":"solid","currentItemRoughness":1,"currentItemOpacity":100,"currentItemFontFamily":5,"currentItemFontSize":22,"currentItemTextAlign":"left","currentItemStartArrowhead":null,"currentItemEndArrowhead":"arrow","currentItemArrowType":"elbow","scrollX":786.25,"scrollY":-28.203125,"zoom":{"value":1},"currentItemRoundness":"round","gridSize":20,"gridStep":5,"gridModeEnabled":false,"gridColor":{"Bold":"rgba(217, 217, 217, 0.5)","Regular":"rgba(230, 230, 230, 0.5)"},"currentStrokeOptions":null,"frameRendering":{"enabled":true,"clip":true,"name":true,"outline":true},"objectsSnapModeEnabled":false,"activeTool":{"type":"selection","customType":null,"locked":false,"lastActiveTool":null}},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("UML-Aktivitätsdiagramm_2025-03-22_1713.22.excalidraw.md1");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>
 
-es gibt nur ein START und ein ENDE
-### Start/Beginn
->Wo das Ablauf ein System beginnt.
+>[!important] Wichtig
+>Es gibt nur **einen START** und **ein ENDE** pro Diagramm!
+
+## Start/Beginn
+>Wo der Ablauf eines Systems beginnt.
+
 <div id="UML-Aktivitätsdiagramm_2025-03-22_1732.15.excalidraw.md2"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.9.1","elements":[{"id":"0bON-qlvVRZVIxj6Wk3Qd","type":"ellipse","x":-102.375,"y":-186.203125,"width":85,"height":83,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#ffffff","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a0","roundness":{"type":2},"seed":1859159610,"version":57,"versionNonce":2141852666,"isDeleted":false,"boundElements":null,"updated":1742661144261,"link":null,"locked":false}],"appState":{"theme":"dark","viewBackgroundColor":"#ffffff","currentItemStrokeColor":"#1e1e1e","currentItemBackgroundColor":"#ffffff","currentItemFillStyle":"solid","currentItemStrokeWidth":2,"currentItemStrokeStyle":"solid","currentItemRoughness":1,"currentItemOpacity":100,"currentItemFontFamily":5,"currentItemFontSize":20,"currentItemTextAlign":"left","currentItemStartArrowhead":null,"currentItemEndArrowhead":"arrow","currentItemArrowType":"round","scrollX":392.625,"scrollY":451.796875,"zoom":{"value":1},"currentItemRoundness":"round","gridSize":20,"gridStep":5,"gridModeEnabled":false,"gridColor":{"Bold":"rgba(217, 217, 217, 0.5)","Regular":"rgba(230, 230, 230, 0.5)"},"currentStrokeOptions":null,"frameRendering":{"enabled":true,"clip":true,"name":true,"outline":true},"objectsSnapModeEnabled":false,"activeTool":{"type":"selection","customType":null,"locked":false,"lastActiveTool":null}},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("UML-Aktivitätsdiagramm_2025-03-22_1732.15.excalidraw.md2");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>
-### Ende
->Wo das Ablauf ein System endet.
+
+```
+ASCII-Darstellung:
+
+    ●  ← Startknoten (gefüllter Kreis)
+    │
+    │  Ablauf beginnt hier
+    ▼
+```
+
+>[!note] Startknoten
+>- Gefüllter schwarzer Kreis
+>- Nur EINER pro Diagramm
+>- Keine eingehenden Pfeile
+>- Ein ausgehender Pfeil
+
+## Ende
+>Wo der Ablauf eines Systems endet.
+
 <div id="UML-Aktivitätsdiagramm_2025-03-22_1732.52.excalidraw.md3"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.9.1","elements":[{"id":"eZzypbCOIow21SZiqv_mM","type":"ellipse","x":-72.375,"y":-1.703125,"width":29,"height":30,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#ffffff","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a0","roundness":{"type":2},"seed":309815782,"version":456,"versionNonce":770091110,"isDeleted":false,"boundElements":[],"updated":1742661184737,"link":null,"locked":false},{"id":"QNUkZ8yFRXF6zp_fb-CC5","type":"ellipse","x":-84.375,"y":-11.703125,"width":54,"height":51,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a1","roundness":{"type":2},"seed":1224555814,"version":370,"versionNonce":126023930,"isDeleted":false,"boundElements":[],"updated":1742661184738,"link":null,"locked":false}],"appState":{"theme":"dark","viewBackgroundColor":"#ffffff","currentItemStrokeColor":"#1e1e1e","currentItemBackgroundColor":"transparent","currentItemFillStyle":"solid","currentItemStrokeWidth":2,"currentItemStrokeStyle":"solid","currentItemRoughness":1,"currentItemOpacity":100,"currentItemFontFamily":5,"currentItemFontSize":20,"currentItemTextAlign":"left","currentItemStartArrowhead":null,"currentItemEndArrowhead":"arrow","currentItemArrowType":"round","scrollX":392.625,"scrollY":451.796875,"zoom":{"value":1},"currentItemRoundness":"round","gridSize":20,"gridStep":5,"gridModeEnabled":false,"gridColor":{"Bold":"rgba(217, 217, 217, 0.5)","Regular":"rgba(230, 230, 230, 0.5)"},"currentStrokeOptions":null,"frameRendering":{"enabled":true,"clip":true,"name":true,"outline":true},"objectsSnapModeEnabled":false,"activeTool":{"type":"selection","customType":null,"locked":false,"lastActiveTool":null}},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("UML-Aktivitätsdiagramm_2025-03-22_1732.52.excalidraw.md3");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>
 
-### Aktivitäten
->Aktion
+```
+ASCII-Darstellung:
+
+    │
+    │  Ablauf endet hier
+    ▼
+    ◉  ← Endknoten (Kreis mit Ring)
+```
+
+>[!note] Endknoten
+>- Kreis mit Ring (Bull's Eye)
+>- Kann mehrere geben (verschiedene Enden)
+>- Nur eingehende Pfeile
+>- Keine ausgehenden Pfeile
+
+## Aktivitäten
+>Eine Aktion oder Tätigkeit im Ablauf.
+
 <div id="UML-Aktivitätsdiagramm_2025-03-22_1734.22.excalidraw.md4"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.9.1","elements":[{"id":"4oFmTynfj6SUm-R37TFIr","type":"rectangle","x":-123.375,"y":-132.203125,"width":209,"height":58,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a0","roundness":{"type":3},"seed":1337860922,"version":110,"versionNonce":1521009082,"isDeleted":false,"boundElements":[{"type":"text","id":"hzsjaF6S"}],"updated":1742661284361,"link":null,"locked":false},{"id":"hzsjaF6S","type":"text","x":-67.24495697021484,"y":-115.703125,"width":96.73991394042969,"height":25,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a1","roundness":null,"seed":1098258086,"version":72,"versionNonce":1381792378,"isDeleted":false,"boundElements":null,"updated":1742661284362,"link":null,"locked":false,"text":"Stehe auf","rawText":"Stehe auf","fontSize":20,"fontFamily":5,"textAlign":"center","verticalAlign":"middle","containerId":"4oFmTynfj6SUm-R37TFIr","originalText":"Stehe auf","autoResize":true,"lineHeight":1.25}],"appState":{"theme":"dark","viewBackgroundColor":"#ffffff","currentItemStrokeColor":"#1e1e1e","currentItemBackgroundColor":"transparent","currentItemFillStyle":"solid","currentItemStrokeWidth":2,"currentItemStrokeStyle":"solid","currentItemRoughness":1,"currentItemOpacity":100,"currentItemFontFamily":5,"currentItemFontSize":20,"currentItemTextAlign":"left","currentItemStartArrowhead":null,"currentItemEndArrowhead":"arrow","currentItemArrowType":"round","scrollX":392.625,"scrollY":451.796875,"zoom":{"value":1},"currentItemRoundness":"round","gridSize":20,"gridStep":5,"gridModeEnabled":false,"gridColor":{"Bold":"rgba(217, 217, 217, 0.5)","Regular":"rgba(230, 230, 230, 0.5)"},"currentStrokeOptions":null,"frameRendering":{"enabled":true,"clip":true,"name":true,"outline":true},"objectsSnapModeEnabled":false,"activeTool":{"type":"selection","customType":null,"locked":false,"lastActiveTool":null}},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("UML-Aktivitätsdiagramm_2025-03-22_1734.22.excalidraw.md4");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>
-### Partitionen
+
+```
+ASCII-Darstellung:
+
+┌──────────────────┐
+│ Aktivität Name   │  ← Abgerundetes Rechteck
+└──────────────────┘
+```
+
+>[!note] Aktivitäten
+>**Eigenschaften:**
+>- Abgerundetes Rechteck
+>- Enthält Beschreibung der Aktion
+>- Verben verwenden ("Bestellen", "Prüfen", "Senden")
+>- Kurze, klare Beschreibung
 >
+>**Beispiele:**
+>- "Daten eingeben"
+>- "Rechnung erstellen"
+>- "Email versenden"
+>- "Artikel verpacken"
+
+## Entscheidungen (Verzweigungen)
+
+>Wenn der Ablauf sich aufteilt.
+
+```
+ASCII-Darstellung:
+
+         │
+         ▼
+        ◆  ← Raute (Entscheidung)
+       ╱ ╲
+      ╱   ╲
+  [ja]     [nein]
+    ╱       ╲
+   ▼         ▼
+```
+
+>[!important] Verzweigung (Decision)
+>**Symbol:** Raute (Diamant)
+>
+>**Verwendung:**
+>- Bedingungen prüfen
+>- IF-THEN-ELSE darstellen
+>- Mehrere Ausgänge möglich
+>- Bedingungen an Pfeile schreiben
+>
+>**Beispiel:**
+>```
+>        ◆
+>       ╱ ╲
+>  [Geld    ]
+>  [genug?]
+>     ╱     ╲
+> [ja]      [nein]
+>   ╱         ╲
+>  ▼           ▼
+>Bestellen  Abbrechen
+>```
+
+## Zusammenführung (Merge)
+
+>Mehrere Pfade kommen zusammen.
+
+```
+ASCII-Darstellung:
+
+  Pfad 1     Pfad 2
+    │          │
+    ▼          ▼
+     ╲        ╱
+      ╲      ╱
+       ╲    ╱
+        ◆  ← Merge
+         │
+         ▼
+   Weiter geht's
+```
+
+## Parallelisierung (Fork)
+
+>Mehrere Aktivitäten laufen gleichzeitig.
+
+```
+ASCII-Darstellung:
+
+         │
+         ▼
+    ═════════  ← Dicker Balken (Fork)
+    ║   ║   ║
+    ▼   ▼   ▼
+  Akt1 Akt2 Akt3  (parallel!)
+```
+
+>[!note] Fork (Parallelisierung)
+>**Symbol:** Dicker horizontaler Balken
+>
+>**Bedeutung:**
+>- Aktivitäten laufen parallel
+>- Alle Pfade werden gleichzeitig gestartet
+>- Nicht nacheinander!
+>
+>**Beispiel:**
+>```
+>    Bestellung eingegangen
+>           │
+>           ▼
+>      ═════════
+>      ║   ║   ║
+>      ▼   ▼   ▼
+>   Rechnung  Lager  Versand
+>   erstellen prüfen vorbereiten
+>```
+
+## Synchronisation (Join)
+
+>Warten bis alle parallelen Aktivitäten fertig sind.
+
+```
+ASCII-Darstellung:
+
+  Akt1  Akt2  Akt3
+    ║    ║    ║
+    ▼    ▼    ▼
+    ═════════  ← Join
+         │
+         ▼
+  Alle fertig, weiter!
+```
+
+## Partitionen (Swimlanes)
+
+>Zeigt, wer für welche Aktivität zuständig ist.
+
+```
+ASCII-Darstellung:
+
+┌─────────────┬─────────────┬─────────────┐
+│   Kunde     │  System     │   Admin     │
+├─────────────┼─────────────┼─────────────┤
+│             │             │             │
+│ Bestellen   │             │             │
+│      │      │             │             │
+│      └──────┼──→ Prüfen   │             │
+│             │      │      │             │
+│             │      └──────┼──→ Freigabe │
+│             │             │             │
+└─────────────┴─────────────┴─────────────┘
+```
+
+>[!note] Swimlanes
+>**Verwendung:**
+>- Zuständigkeiten zeigen
+>- Rollen trennen
+>- Abteilungen darstellen
+>- Verantwortlichkeiten klar machen
+
+# III. Vollständiges Beispiel: Online-Bestellung
+
+>Ein praktisches Beispiel für den Bestellprozess.
+
+>[!example] Bestellprozess
+>```
+>Kunde                System              Lager
+>  │                    │                   │
+>  ● Start              │                   │
+>  │                    │                   │
+>  ▼                    │                   │
+>┌─────────┐            │                   │
+>│Produkt  │            │                   │
+>│auswählen│            │                   │
+>└────┬────┘            │                   │
+>     │                 │                   │
+>     ▼                 │                   │
+>┌─────────┐            │                   │
+>│In Waren-│            │                   │
+>│korb     │            │                   │
+>└────┬────┘            │                   │
+>     │                 │                   │
+>     └─────────────────┼──→                │
+>                       ▼                   │
+>                  ┌─────────┐              │
+>                  │Bestell- │              │
+>                  │ung      │              │
+>                  │prüfen   │              │
+>                  └────┬────┘              │
+>                       │                   │
+>                       ▼                   │
+>                      ◆                    │
+>                     ╱ ╲                   │
+>                [Verfügbar?]               │
+>                   ╱     ╲                 │
+>              [ja]         [nein]          │
+>                ╱             ╲            │
+>               ▼               ▼           │
+>          ══════════      ┌────────┐       │
+>          ║      ║        │Kunde   │       │
+>          ║      ║        │benach- │       │
+>          ║      ║        │richtigen│      │
+>          ▼      ▼        └────┬───┘       │
+>     ┌────┐  ┌────┐           │           │
+>     │Rech│  │────┼───────────┼──→        │
+>     │nung│  │    │           ▼           │
+>     └──┬─┘  └──┬─┘      ┌─────────┐      │
+>        ║       ║        │Artikel  │      │
+>        ║       ║        │entnehmen│      │
+>        ▼       ▼        └────┬────┘      │
+>      ══════════               │           │
+>           │                   │           │
+>           ▼                   │           │
+>      ┌─────────┐              │           │
+>      │Versand  │◀─────────────┘           │
+>      │         │                           │
+>      └────┬────┘                           │
+>           │                                │
+>           ▼                                │
+>           ◉ Ende                           │
+>```
+
+# IV. Schritt-für-Schritt Anleitung
+
+>So erstellst du dein eigenes [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]].
+
+>[!tip] Vorgehensweise
+>**1. Prozess verstehen:**
+>- Was soll ablaufen?
+>- Wer ist beteiligt?
+>- Was sind die Schritte?
+>
+>**2. Hauptaktivitäten finden:**
+>- Alle wichtigen Schritte auflisten
+>- Verben verwenden
+>- Reihenfolge festlegen
+>
+>**3. Entscheidungen identifizieren:**
+>- Wo gibt es IF-THEN?
+>- Welche Bedingungen?
+>- Alternative Pfade?
+>
+>**4. Parallele Abläufe erkennen:**
+>- Was läuft gleichzeitig?
+>- Fork und Join einfügen
+>
+>**5. Swimlanes hinzufügen:**
+>- Wer macht was?
+>- Zuständigkeiten klären
+
+# V. Häufige Fehler
+
+>Das solltest du vermeiden.
+
+>[!warning] Typische Fehler
+>**1. Mehrere Starts:**
+>```
+>❌ FALSCH:
+>● Start 1    ● Start 2
+>│            │
+>▼            ▼
+>
+>✅ RICHTIG:
+>     ● Start
+>     │
+>     ▼
+>    ◆
+>   ╱ ╲
+>  ▼   ▼
+>```
+>
+>**2. Aktivitäten ohne Verb:**
+>```
+>❌ FALSCH:
+>┌──────────┐
+>│ Rechnung │
+>└──────────┘
+>
+>✅ RICHTIG:
+>┌──────────────┐
+>│ Rechnung     │
+>│ erstellen    │
+>└──────────────┘
+>```
+>
+>**3. Fehlende Bedingungen:**
+>```
+>❌ FALSCH:
+>    ◆
+>   ╱ ╲
+>  ▼   ▼
+>(keine Labels!)
+>
+>✅ RICHTIG:
+>      ◆
+>     ╱ ╲
+>[ja]   [nein]
+>   ▼     ▼
+>```
+>
+>**4. Fork ohne Join:**
+>```
+>❌ FALSCH:
+>  ═══════
+>  ║  ║  ║
+>  ▼  ▼  ▼
+>(nie zusammengeführt)
+>
+>✅ RICHTIG:
+>  ═══════
+>  ║  ║  ║
+>  ▼  ▼  ▼
+>  Akt1 Akt2 Akt3
+>  ║  ║  ║
+>  ▼  ▼  ▼
+>  ═══════
+>```
+
+# VI. Prüfungswissen
+
+>Was du für die [[02 - RESOURCES/Notes/IHK\|IHK]]-Prüfung wissen musst.
+
+>[!important] Prüfungsrelevant
+>**Symbole kennen:**
+>- ● Start (gefüllter Kreis)
+>- ◉ Ende (Kreis mit Ring)
+>- Rechteck mit runden Ecken = Aktivität
+>- ◆ Raute = Entscheidung
+>- ═ Dicker Balken = Fork/Join
+>
+>**Regeln:**
+>- Nur ein Start
+>- Kann mehrere Enden haben
+>- Aktivitäten mit Verben beschreiben
+>- Bedingungen an Pfeile
+>- Fork und Join immer paarweise
+>
+>**Unterschied zu anderen Diagrammen:**
+>- [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]]: Struktur von Klassen
+>- [[02 - RESOURCES/Notes/UML-Anwendungsfalldiagramm\|UML-Anwendungsfalldiagramm]]: Was System kann
+>- [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]]: WIE Abläufe funktionieren
+
+>[!example] Typische Prüfungsfrage
+>**Frage:** "Erstellen Sie ein Aktivitätsdiagramm für einen Login-Vorgang."
+>
+>**Antwort:**
+>```
+>        ● Start
+>        │
+>        ▼
+>  ┌──────────────┐
+>  │ Benutzername │
+>  │ eingeben     │
+>  └──────┬───────┘
+>         │
+>         ▼
+>  ┌──────────────┐
+>  │ Passwort     │
+>  │ eingeben     │
+>  └──────┬───────┘
+>         │
+>         ▼
+>  ┌──────────────┐
+>  │ Daten        │
+>  │ prüfen       │
+>  └──────┬───────┘
+>         │
+>         ▼
+>        ◆
+>       ╱ ╲
+>  [korrekt?]
+>     ╱     ╲
+>[ja]       [nein]
+>   ╱         ╲
+>  ▼           ▼
+>┌──────┐  ┌─────────┐
+>│Login │  │Fehler-  │
+>│erfolg│  │meldung  │
+>└──┬───┘  └────┬────┘
+>   │           │
+>   ▼           ▼
+>   ◉           ◉
+> Ende        Ende
+>```

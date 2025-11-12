@@ -1,25 +1,125 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/black-box-test/","tags":["qualitaetssicherung/testing","testing/verfahren"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/black-box-test/","tags":["qualitaetssicherung/testing","testing/verfahren","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T09:51:07.336+01:00"}
 ---
 
+>Black Box Test ist eine Testmethode, bei der Software getestet wird, ohne den internen Code zu kennen.
+>>Der Tester sieht nur Eingabe und Ausgabe - wie eine "schwarze Box" die man von außen prüft.
 
->[[02 - RESOURCES/Notes/Black Box Test\|Black Box Test]] prüft die Funktionalität einer Software ohne Kenntnis der internen Struktur.
+>[!summary] Was ist Black Box Test?
+>- **Funktionstest** ohne Code-Kenntnis
+>- **Benutzersicht:** Funktioniert es wie erwartet?
+>- **Eingabe → Black Box → Ausgabe**
 
->>Getestet wird nur das Ein-/Ausgabe-Verhalten basierend auf Spezifikationen.
+```
+BLACK BOX TEST - KONZEPT
 
->[!important] 
->**Black Box Test Charakteristika:**
->- Keine Code-Kenntnis erforderlich
->- Fokus auf Anforderungen
->- Benutzerperspektive
->- Unabhängig von Implementierung
+       Tester sieht nur:
 
->[!example] 
->**Test-Techniken:**
->- Äquivalenzklassenbildung
->- Grenzwertanalyse
->- Ursache-Wirkungs-Diagramm
->- Zustandsbasierte Tests
+Eingabe              Ausgabe
+  │                     │
+  ▼                     ▼
+┌───┐    ┌─────────┐  ┌───┐
+│ 5 │───>│ ░░░░░░░ │─>│ 25│
+│ + │    │ ░░░░░░░ │  │   │
+│ 3 │    │ ░BLACK░ │  └───┘
+└───┘    │ ░░BOX░░ │
+         │ ░░░░░░░ │  Erwartung: 8
+         └─────────┘  Ergebnis:  25 ❌
+              │
+              │       FEHLER GEFUNDEN!
+          Code ist      (ohne Code
+          unbekannt      zu sehen)
+```
 
->[!success] 
->Findet Abweichungen von Spezifikationen und Benutzerwünschen.
+>[!important] Black Box Test Merkmale
+>**4 Haupteigenschaften:**
+>
+>1. **Keine Code-Kenntnis nötig**
+>   - Tester muss nicht programmieren können
+>   - Fokus auf Funktionalität
+>
+>2. **Basiert auf Anforderungen**
+>   - Was soll die Software tun?
+>   - Spezifikation als Grundlage
+>
+>3. **Benutzerperspektive**
+>   - Wie würde ein Kunde testen?
+>   - Realitätsnahe Szenarien
+>
+>4. **Unabhängig von Implementierung**
+>   - Egal welche Programmiersprache
+>   - Egal wie der Code aussieht
+
+>[!example] Test-Techniken im Black Box Test
+>
+>**1. Äquivalenzklassenbildung**
+>```
+>Beispiel: Altersangabe (0-100)
+>
+>Klassen:
+>  └→ Gültig:    1-100  (Test: 50)
+>  └→ Ungültig: <0     (Test: -5)
+>  └→ Ungültig: >100   (Test: 150)
+>```
+>
+>**2. Grenzwertanalyse**
+>```
+>Grenzwerte testen:
+>  └→ 0, 1, 99, 100, 101
+>  (Fehler passieren oft an Grenzen!)
+>```
+>
+>**3. Zustandsbasierte Tests**
+>```
+>Login-System:
+>  Ausgeloggt → Einloggen → Eingeloggt
+>  Eingeloggt → Ausloggen → Ausgeloggt
+>```
+
+```
+BLACK BOX TEST - ABLAUF
+
+┌──────────────────────┐
+│ 1. ANFORDERUNGEN     │
+│    lesen             │
+│  "Rechner soll       │
+│   addieren"          │
+└──────────────────────┘
+          ↓
+┌──────────────────────┐
+│ 2. TESTFÄLLE         │
+│    erstellen         │
+│  • 5 + 3 = 8         │
+│  • 0 + 0 = 0         │
+│  • -2 + 5 = 3        │
+└──────────────────────┘
+          ↓
+┌──────────────────────┐
+│ 3. TESTS AUSFÜHREN   │
+│  Eingaben testen     │
+└──────────────────────┘
+          ↓
+┌──────────────────────┐
+│ 4. ERGEBNISSE        │
+│    VERGLEICHEN       │
+│  Soll ↔ Ist          │
+└──────────────────────┘
+```
+
+>[!tip] Vorteile Black Box Test
+>✅ **Unabhängigkeit:** Tester braucht keine Programmierkenntnisse
+>✅ **Benutzernah:** Tests aus Kundensicht
+>✅ **Früh einsetzbar:** Sobald Anforderungen klar sind
+>✅ **Objektiv:** Nicht durch Code-Struktur beeinflusst
+
+>[!warning] Nachteile Black Box Test
+>❌ **Keine Code-Abdeckung:** Kann nicht alle Code-Pfade testen
+>❌ **Ineffizient:** Viele Tests nötig
+>❌ **Versteckte Fehler:** Interne Logikfehler werden übersehen
+
+>[!note] Black Box vs [[02 - RESOURCES/Notes/White Box Test\|White Box Test]]
+>**Hauptunterschied:**
+>- **Black Box:** Tester kennt Code NICHT
+>- **[[02 - RESOURCES/Notes/White Box Test\|White Box Test]]:** Tester kennt Code und testet interne Logik
+
+**Kombiniert ergeben sie die beste Testabdeckung!**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sachziele/","tags":["unternehmensziele/arten","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sachziele/","tags":["unternehmensziele/arten","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:09.929+01:00"}
 ---
 
 >Konkrete, messbare Aufgaben wie Produktionsziele oder Qualitätsstandards.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lf-12b-projektantrag/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/lf-12b-projektantrag/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2025-10-29T12:59:07.838+01:00"}
 ---
 
 # LF12b Tag 3 - Projektantrag

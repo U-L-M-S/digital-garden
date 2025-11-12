@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-04-schutzbedarfsanalyse-im-eigenen-arbeitsbereich-durchfuehren/","tags":["GFN/LF04","finished"],"noteIcon":"","updated":"2025-11-07T12:07:27.000+01:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-04-schutzbedarfsanalyse-im-eigenen-arbeitsbereich-durchfuehren/","tags":["GFN/LF04","finished"],"noteIcon":"","updated":"2025-11-07T12:07:27.496+01:00"}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.

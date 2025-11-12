@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hexadezimal-binaer/","tags":["mathe/binärzahlen","mathe/hexadezimal"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hexadezimal-binaer/","tags":["mathe/binärzahlen","mathe/hexadezimal"],"noteIcon":"","updated":"2025-10-29T12:59:06.487+01:00"}
 ---
 
 >Im Hexadezimalsystem verwendet man 16 Ziffern:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mvc/","noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/mvc/","noteIcon":"","updated":"2025-10-29T12:59:08.444+01:00"}
 ---
 
 >Es ist ein Architekturdesign, das häufig in der Softwareentwicklung verwendet wird, insbesondere in Webanwendungen wie [[02 - RESOURCES/Notes/ASP.NET\|ASP.NET]].

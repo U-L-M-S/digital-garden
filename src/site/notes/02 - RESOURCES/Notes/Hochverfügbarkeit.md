@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hochverfuegbarkeit/","tags":["sicherheit/it-sicherheit","system/ausfallsicher","verfügbarkeit/hoch"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hochverfuegbarkeit/","tags":["sicherheit/it-sicherheit","system/ausfallsicher","verfügbarkeit/hoch"],"noteIcon":"","updated":"2025-10-29T12:59:06.525+01:00"}
 ---
 
 

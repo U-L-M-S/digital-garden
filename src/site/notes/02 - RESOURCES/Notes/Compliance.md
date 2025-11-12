@@ -1,23 +1,107 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/compliance/","tags":["AI-generated"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/compliance/","tags":["rechtliches/compliance","sicherheit/vorschriften","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T09:48:42.780+01:00"}
 ---
 
->Compliance bezeichnet die Einhaltung gesetzlicher Vorschriften, Unternehmensrichtlinien und regulatorischer Anforderungen zur Sicherstellung rechtskonformer Geschäftspraktiken.
->>Umfasst die systematische Überwachung und Durchsetzung von [[02 - RESOURCES/Notes/Sicherheitsrichtlinien\|Sicherheitsrichtlinien]], Datenschutzbestimmungen und branchenspezifischen Regularien zur [[02 - RESOURCES/Notes/Risikoanalyse\|Risikominderung]].
+>Compliance bedeutet, dass ein Unternehmen alle Gesetze, Vorschriften und eigenen Regeln einhält.
+>>Es ist die systematische Überwachung, dass alle gesetzlichen Anforderungen (z.B. Datenschutz, IT-Sicherheit) erfüllt werden.
 
->[!important] Grundprinzipien
->- Einhaltung von [[02 - RESOURCES/Notes/Recht\|gesetzlichen Vorschriften]]
->- Schutz von [[02 - RESOURCES/Notes/Vertraulichkeit\|Vertraulichkeit]], [[02 - RESOURCES/Notes/Integrität\|Integrität]], [[02 - RESOURCES/Notes/Verfügbarkeit\|Verfügbarkeit]]
->- Kontinuierliche Überwachung und Anpassung
+>[!summary] Was ist Compliance?
+>- **Einhaltung** aller Gesetze und Regeln
+>- **Überwachung** dass nichts gegen Vorschriften verstößt
+>- **Vermeidung** von Strafen und Schäden
 
->[!example] Praktische Anwendung
->Sicherheitsanalysten müssen die [[02 - RESOURCES/Notes/Unternehmensrichtlinie\|Unternehmensrichtlinie]]n in Bezug auf private Gesundheitsinformationen aktualisieren.
+```
+COMPLIANCE-PYRAMIDE
 
->[!note] Compliance-Ziele
->- Schutz wichtiger Vermögenswerte und Daten
->- Sicherstellung der [[02 - RESOURCES/Notes/PII Daten\|PII Daten]] und [[02 - RESOURCES/Notes/Personenbezogene Daten\|Personenbezogene Daten]] Behandlung
->- Gewährleistung der Geschäftskontinuität
->- Vermeidung rechtlicher Sanktionen
+              ┌───────────┐
+              │  Gesetze  │ (DSGVO, BGB, HGB)
+              └───────────┘
+                   ↓
+         ┌──────────────────┐
+         │   Branchenregeln  │ (IT-Standards)
+         └──────────────────┘
+                   ↓
+      ┌────────────────────────┐
+      │  Unternehmensrichtlinien │
+      │   (interne Regeln)       │
+      └────────────────────────┘
+                   ↓
+   ┌──────────────────────────────┐
+   │  Tägliche Arbeitsprozesse     │
+   │  (Mitarbeiter halten sich     │
+   │   an alle Vorgaben)           │
+   └──────────────────────────────┘
+```
 
->[!warning] Compliance-Verstöße
->Nichteinhaltung kann zu rechtlichen Konsequenzen, Bußgeldern und Reputationsschäden führen.
+>[!important] Compliance-Bereiche in der IT
+>**3 Hauptziele (CIA-Triade):**
+>- **[[02 - RESOURCES/Notes/Vertraulichkeit\|Vertraulichkeit]]:** Nur Berechtigte sehen Daten
+>- **[[02 - RESOURCES/Notes/Integrität\|Integrität]]:** Daten sind korrekt und unverändert
+>- **[[02 - RESOURCES/Notes/Verfügbarkeit\|Verfügbarkeit]]:** Systeme sind erreichbar
+
+**Wichtige Gesetze für IT:**
+>- **DSGVO:** Datenschutz-Grundverordnung
+>- **[[02 - RESOURCES/Notes/BGB\|BGB]]/[[02 - RESOURCES/Notes/HGB\|HGB]]:** Vertragsrecht
+>- **IT-Sicherheitsgesetz:** Kritische Infrastrukturen
+
+>[!example] Praxis-Beispiel IT-Compliance
+>**Situation:** Unternehmen verarbeitet Kundendaten
+>```
+>Compliance-Anforderungen:
+>
+>1. DSGVO einhalten
+>   └→ Datenschutzerklärung
+>   └→ Einwilligung einholen
+>   └→ Daten verschlüsseln
+>
+>2. IT-Sicherheitsgesetz
+>   └→ Firewalls installieren
+>   └→ Backups erstellen
+>   └→ Zugriffe protokollieren
+>
+>3. Interne Richtlinien
+>   └→ Passwortregeln
+>   └→ Schulungen für Mitarbeiter
+>   └→ Incident-Response-Plan
+>```
+
+```
+COMPLIANCE-PROZESS
+
+┌─────────────────┐
+│ 1. IDENTIFIZIEREN│
+│ Welche Gesetze  │
+│ gelten für uns? │
+└─────────────────┘
+         ↓
+┌─────────────────┐
+│ 2. IMPLEMENTIEREN│
+│ Maßnahmen       │
+│ umsetzen        │
+└─────────────────┘
+         ↓
+┌─────────────────┐
+│ 3. ÜBERWACHEN   │
+│ Kontrollen      │
+│ durchführen     │
+└─────────────────┘
+         ↓
+┌─────────────────┐
+│ 4. ANPASSEN     │
+│ Bei Änderungen  │
+│ aktualisieren   │
+└─────────────────┘
+```
+
+>[!warning] Compliance-Verstöße - Konsequenzen
+>**Was passiert bei Nichteinhaltung:**
+>- 💰 **Bußgelder** (DSGVO: bis zu 20 Mio. € oder 4% Jahresumsatz)
+>- ⚖️ **Rechtliche Strafen** (Gerichtsverfahren)
+>- 📉 **Reputationsschaden** (Vertrauensverlust bei Kunden)
+>- 🚫 **Betriebsverbot** (im Extremfall)
+
+>[!tip] Praxis-Tipp für die Prüfung
+>**Compliance = Regeln einhalten**
+>- Gesetze + Richtlinien befolgen
+>- Regelmäßig überprüfen
+>- Dokumentieren!

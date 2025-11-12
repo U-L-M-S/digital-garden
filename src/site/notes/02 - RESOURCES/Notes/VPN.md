@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/vpn/","tags":["informatik/netzwerk","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/vpn/","tags":["informatik/netzwerk","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:11.223+01:00"}
 ---
 
 > Virtual Private Network 

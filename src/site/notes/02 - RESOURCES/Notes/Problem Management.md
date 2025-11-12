@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/problem-management/","tags":["itil/service-operation","GFN/LF06","itsm"],"noteIcon":"","updated":"2025-11-05T13:15:35.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/problem-management/","tags":["itil/service-operation","GFN/LF06","itsm"],"noteIcon":"","updated":"2025-11-05T13:15:35.625+01:00"}
 ---
 
 
