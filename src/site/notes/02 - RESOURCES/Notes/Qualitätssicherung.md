@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/qualitaetssicherung/","tags":["GFN/LF10","GFN/prüfungsrelevant/AP2","informatik/netzwerk/ISO"],"noteIcon":"","updated":"2025-11-12T10:08:52.344+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/qualitaetssicherung/","tags":["GFN/LF10","GFN/prüfungsrelevant/AP2","informatik/netzwerk/ISO"],"noteIcon":"","updated":"2025-11-12T15:22:51.000+01:00"}
 ---
 
 >Es ist der [[02 - RESOURCES/Notes/Prozess\|Prozess]], der sicherstellt, dass Produkte oder Dienstleistungen bestimmte Qualitätsstandards erfüllen. Sie umfasst systematische Maßnahmen zur Vermeidung von Fehlern und zur Verbesserung der Qualität in der [[02 - RESOURCES/Notes/Produktion\|Produktion]] oder Entwicklung.
@@ -12,7 +12,7 @@ Das  sind die Haupt Beisteine für eine hohe Softwarequalität
 >[!summary] Funktionalität
 >![Qualitätssicherung-20240828230850268.png](/img/user/02%20-%20RESOURCES/Files/IMG/Qualit%C3%A4tssicherung-20240828230850268.png)
 >Das [[02 - RESOURCES/Notes/Software\|Software]] soll alle Aufgaben vollständigen und soeben die Benutzerziele abdecken.
->>[[02 - RESOURCES/Notes/UML-Anwendungsfalldiagramm\|UML-Anwendungsfalldiagramm]], [[02 - RESOURCES/Notes/Unit Testing\|Unit Testing]] und [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] sind wichtigen Werkzeugen um das Baustein zu  sicher.
+>>[[02 - RESOURCES/Notes/UML-Anwendungsfalldiagramm\|UML-Anwendungsfalldiagramm]], [[02 - RESOURCES/Notes/Unit Testing\|Unit Testing]], [[02 - RESOURCES/Notes/Code Coverage\|Code Coverage]], [[02 - RESOURCES/Notes/Testfall\|Testfälle]] und [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] sind wichtigen Werkzeugen um das Baustein zu  sicher.
 
 >[!summary] Gebrauchstauglichkeit
 >![Qualitätssicherung-20240828230953750.png](/img/user/02%20-%20RESOURCES/Files/IMG/Qualit%C3%A4tssicherung-20240828230953750.png)

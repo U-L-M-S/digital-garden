@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/firewalls/","tags":["it-sicherheit/technisch"],"noteIcon":"","updated":"2025-10-29T12:59:06.041+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/firewalls/","tags":["it-sicherheit/technisch"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
 ---
 
 >Software oder Hardware zum Schutz vor unberechtigten Netzwerkzugriffen.

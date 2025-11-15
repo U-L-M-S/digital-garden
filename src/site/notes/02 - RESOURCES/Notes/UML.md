@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml/","tags":["ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","uml"],"noteIcon":"","updated":"2025-11-12T09:59:57.577+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml/","tags":["ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","uml"],"noteIcon":"","updated":"2025-11-12T15:21:12.000+01:00"}
 ---
 
 
@@ -92,10 +92,12 @@ UML-Diagramme
 >│ - marke: String │
 >│ - baujahr: int  │
 >├─────────────────┤
->│ + starten()     │
+>│ + starten()     │  ← [[Methode]]n
 >│ + fahren()      │
 >└─────────────────┘
 >```
+>
+>*Zeigt [[02 - RESOURCES/Notes/Vererbung\|Vererbung]], [[02 - RESOURCES/Notes/UML-Assoziation\|UML-Assoziation]]en zwischen Klassen*
 >
 >Siehe: [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]] für Details
 
