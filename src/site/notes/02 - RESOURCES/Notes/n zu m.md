@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/n-zu-m/","tags":["informatik/datenbank/kardinalität","informatik/er-modell","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:04:37.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/n-zu-m/","tags":["informatik/datenbank/kardinalität","informatik/er-modell","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-19T21:01:23.126+01:00"}
 ---
 
 >Eine n:m-Beziehung (viele-zu-viele) liegt vor, wenn mehrere Instanzen einer Entität mit mehreren Instanzen einer anderen Entität verbunden sein können.
@@ -305,6 +305,5 @@ Tabelle: BESTELLPOSITION (Zwischentabelle)
 
 ```mermaid
 flowchart LR
-    Student <-- n:m --> Kurse
-
+    Student ---|n:m| Kurse
 ```
