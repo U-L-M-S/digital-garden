@@ -1,6 +1,10 @@
 const wikiLinkRegex = /\[\[(.*?\|.*?)\]\]/g;
 const internalLinkRegex = /href="\/(.*?)"/g;
 
+function caselessCompare(a, b) {
+  return a.toLowerCase() === b.toLowerCase();
+}
+
 function extractLinks(content) {
   return [
     ...(content.match(wikiLinkRegex) || []).map(
@@ -26,27 +30,18 @@ function extractLinks(content) {
   ];
 }
 
-async function getGraph(data) {
+function getGraph(data) {
   let nodes = {};
   let links = [];
   let stemURLs = {};
   let homeAlias = "/";
-
-  // Process notes sequentially to handle async reads
-  const notes = data.collections.note || [];
-  for (let idx = 0; idx < notes.length; idx++) {
-    const v = notes[idx];
+  (data.collections.note || []).forEach((v, idx) => {
     let fpath = v.filePathStem.replace("/notes/", "");
     let parts = fpath.split("/");
     let group = "none";
     if (parts.length >= 3) {
       group = parts[parts.length - 2];
     }
-
-    // Use async read() method instead of accessing frontMatter directly
-    const templateContent = await v.template.read();
-    const content = templateContent?.content || "";
-
     nodes[v.url] = {
       id: idx,
       title: v.data.title || v.fileSlug,
@@ -56,7 +51,7 @@ async function getGraph(data) {
         v.data["dg-home"] ||
         (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1) ||
         false,
-      outBound: extractLinks(content),
+      outBound: extractLinks(v.template.frontMatter.content),
       neighbors: new Set(),
       backLinks: new Set(),
       noteIcon: v.data.noteIcon || process.env.NOTE_ICON_DEFAULT,
@@ -69,7 +64,7 @@ async function getGraph(data) {
     ) {
       homeAlias = v.url;
     }
-  }
+  });
   Object.values(nodes).forEach((node) => {
     let outBound = new Set();
     node.outBound.forEach((olink) => {
