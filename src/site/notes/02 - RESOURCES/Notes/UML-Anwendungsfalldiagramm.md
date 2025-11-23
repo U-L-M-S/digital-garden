@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-anwendungsfalldiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","uml/anwendungsfalldiagramm"],"noteIcon":"","updated":"2025-11-12T01:51:10.015+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-anwendungsfalldiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","uml/anwendungsfalldiagramm"],"noteIcon":"","updated":"2025-11-23T13:42:32.514+01:00"}
 ---
 
 >Ein UML-Anwendungsfalldiagramm ist eine grafische Darstellung, die zeigt, wie Nutzer (Akteure) mit einem System interagieren können.
@@ -19,7 +19,7 @@
 >- **Projektumfang** festzulegen
 
 **Typische Einsatzbereiche:**
-```
+```text
 ┌────────────────────────────────────────┐
 │  Anforderungsanalyse                   │
 │  ↓                                     │
@@ -44,7 +44,7 @@
 
 **Visuelles Beispiel:**
 
-```
+```text
      O                    ┌───────────────────────────┐
     /|\                   │     SYSTEM                │
     / \                   │                           │
@@ -63,7 +63,7 @@
 
 >Um Anwendungsfalldiagramme vollständig zu verstehen, müssen wir die einzelnen Komponenten kennen:
 
-# 
+ 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/uml-use-case-akteur/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -684,7 +684,7 @@ public void bestellen() {
 </div></div>
 
 
-# 
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/uml-use-case-generalisierung/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -1009,7 +1009,7 @@ class Admin extends Benutzer {  // Vererbung!
 
 # Vollständiges Beispiel: Bibliotheks-System
 
-```
+```text
                     ┌────────────────────────────────────────────┐
                     │        BIBLIOTHEKS-SYSTEM                  │
                     │                                            │
@@ -1066,7 +1066,7 @@ Gast Mitglied──────┼───►┌──────────�
 
 **Beispiel-Workflow:**
 
-```
+```text
 Schritt 1: Akteure sammeln
     Kunde, Administrator, Zahlungssystem
 
@@ -1118,13 +1118,13 @@ Schritt 5: Review mit Team
 
 # Use-Case-Diagramm vs. andere UML-Diagramme
 
-| Diagramm | Zweck | Perspektive |
-|----------|-------|-------------|
-| **Anwendungsfalldiagramm** | Was kann das System? | Nutzersicht (extern) |
-| [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]] | Wie ist das System strukturiert? | Entwicklersicht (intern) |
-| [[02 - RESOURCES/Notes/UML-Sequenzdiagramme\|UML-Sequenzdiagramme]] | Wie läuft eine Interaktion ab? | Zeitlicher Ablauf |
-| [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]] | Wie läuft ein Prozess ab? | Workflow/Prozess |
-| [[02 - RESOURCES/Notes/UML-Zustandsdiagramme\|UML-Zustandsdiagramme]] | Welche Zustände hat ein Objekt? | Zustandsübergänge |
+| Diagramm                   | Zweck                            | Perspektive              |
+| -------------------------- | -------------------------------- | ------------------------ |
+| **Anwendungsfalldiagramm** | Was kann das System?             | Nutzersicht (extern)     |
+| [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]]    | Wie ist das System strukturiert? | Entwicklersicht (intern) |
+| [[02 - RESOURCES/Notes/UML-Sequenzdiagramme\|UML-Sequenzdiagramme]]   | Wie läuft eine Interaktion ab?   | Zeitlicher Ablauf        |
+| [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]] | Wie läuft ein Prozess ab?        | Workflow/Prozess         |
+| [[02 - RESOURCES/Notes/UML-Zustandsdiagramme\|UML-Zustandsdiagramme]]  | Welche Zustände hat ein Objekt?  | Zustandsübergänge        |
 
 ---
 
