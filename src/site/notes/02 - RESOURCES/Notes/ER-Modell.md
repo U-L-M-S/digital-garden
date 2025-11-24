@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/er-modell/","tags":["datenmodellierung/konzeptionell","datenbank/design","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:21:45.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/er-modell/","tags":["datenmodellierung/konzeptionell","datenbank/design","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-24T20:53:13.924+01:00"}
 ---
 
 
@@ -71,9 +71,9 @@
 >
 >| Notation | Name    | Bedeutung                      |
 >|----------|---------|--------------------------------|
->| **[[02 - RESOURCES/Notes/1 zu 1\|1:1]]**  | Eins zu eins | Jeder hat genau einen   |
->| **[[02 - RESOURCES/Notes/1 zu n\|1:n]]**  | Eins zu viele| Einer hat viele         |
->| **[[02 - RESOURCES/Notes/n zu m\|n:m]]**  | Viele zu viele| Viele haben viele      |
+>| **1:1**  | Eins zu eins | Jeder hat genau einen   |
+>| **1:n**  | Eins zu viele| Einer hat viele         |
+>| **n:m**  | Viele zu viele| Viele haben viele      |
 >
 >**Beispiele:**
 >```
