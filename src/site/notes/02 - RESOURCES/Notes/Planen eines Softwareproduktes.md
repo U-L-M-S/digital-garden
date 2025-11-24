@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/planen-eines-softwareproduktes/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-24T09:23:09.205+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/planen-eines-softwareproduktes/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-24T11:31:14.001+01:00"}
 ---
 
 >Dieser Teil der Prüfung dauert 90 Minuten und umfasst 100 Punkte (10% der Gesamtprüfung).
@@ -202,7 +202,7 @@ ___
 
 **Beispiele:**
 - **Performance:** "Login in unter 2 Sekunden"
-- **Sicherheit:** "Passwörter [[02 - RESOURCES/Notes/Verschlüsselung\|verschlüsselt]] speichern"
+- **Sicherheit:** "Passwörter [[02 - RESOURCES/Notes/Passwort-Hashing\|gehasht]] speichern"
 - **[[02 - RESOURCES/Notes/Usability\|Usability]]:** "Bedienung ohne Schulung möglich"
 - **[[02 - RESOURCES/Notes/Verfügbarkeit\|Verfügbarkeit]]:** "99,9% Uptime"
 
