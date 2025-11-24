@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/planen-eines-softwareproduktes/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-07T15:17:03.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/planen-eines-softwareproduktes/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-24T09:23:09.205+01:00"}
 ---
-
 
 >Dieser Teil der Prüfung dauert 90 Minuten und umfasst 100 Punkte (10% der Gesamtprüfung).
 >>Hier geht es um die komplette Planung eines [[02 - RESOURCES/Notes/Software\|Software]]-Projekts - von der ersten Idee bis zur technischen Umsetzungsplanung.
