@@ -9,7 +9,7 @@
 >>PS: Alle Zusammenfassungen wurde von mir erstellt (Jemand der deutsch nicht als Muttersprachen hat). 
 >>Mit andere Wörter: erwartet nicht von mir ein **super**-hochdeutsch (Das heißt meine Satzbildung so einfach sein wird, dass sogar Ausländer die verstehen können).
 
-![[22.01.2024_PRV_ Freiburg_FIAE_Stand 06.02.2025.pdf]]
+<iframe src="/img/user/02%20-%20RESOURCES/Files/22.01.2024_PRV_%20Freiburg_FIAE_Stand%2006.02.2025.pdf" width="100%" height="900px" title="22.01.2024_PRV_ Freiburg_FIAE_Stand 06.02.2025.pdf" style="border:1px solid #ccc;"></iframe>
 
 Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-L-M-S/digital-garden) pushen.
 

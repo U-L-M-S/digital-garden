@@ -11,4 +11,4 @@
 >Es hängt extrem mit [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]] zusammen und der [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] wird vordem [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]] geschrieben.
 
 
-![[lastenheft.pdf]]
+<iframe src="/img/user/02%20-%20RESOURCES/Files/PDF/lastenheft.pdf" width="100%" height="900px" title="lastenheft.pdf" style="border:1px solid #ccc;"></iframe>

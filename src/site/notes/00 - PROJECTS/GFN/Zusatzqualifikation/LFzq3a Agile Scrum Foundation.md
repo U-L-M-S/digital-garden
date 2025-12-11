@@ -4,7 +4,7 @@
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Scrum\|Scrum]].
 >> An ende des Kurses wird keine LZK geschrieben. Dieses Lernfeld ist nur da um uns für die [[02 - RESOURCES/Notes/Scrum\|Scrum]]- Zertifikat zu vorbereiten.
-![[ASF Präsentation v3.0.pdf]]
+<iframe src="/img/user/02%20-%20RESOURCES/Files/PDF/ASF%20Pr%C3%A4sentation%20v3.0.pdf" width="100%" height="900px" title="ASF Präsentation v3.0.pdf" style="border:1px solid #ccc;"></iframe>
 
 # 1. Das Agile Manifest
 ___

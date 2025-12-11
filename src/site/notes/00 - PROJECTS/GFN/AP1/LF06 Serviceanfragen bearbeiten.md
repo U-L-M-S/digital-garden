@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-06-serviceanfragen-bearbeiten/","tags":["GFN/LF06","inProgress"],"noteIcon":"","updated":"2025-11-05T14:52:53.000+01:00"}
 ---
 
-![[IT-Berufe_Lernfelder_6-9_Westermann.pdf]]
+[[IT-Berufe_Lernfelder_6-9_Westermann.pdf|PDF too large to embed]]
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
 
 >Serviceanfragen bearbeiten ist das Herzstück vom IT-Service-Management. Du lernst hier, wie du als IT-Profi Anfragen strukturiert bearbeitest und Kunden zufrieden stellst.

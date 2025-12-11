@@ -13,4 +13,4 @@
 
 
 # [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]] Bsp
-![[lexoffice-Vorlage-Pflichtenheft.pdf]]
+<iframe src="/img/user/02%20-%20RESOURCES/Files/PDF/lexoffice-Vorlage-Pflichtenheft.pdf" width="100%" height="900px" title="lexoffice-Vorlage-Pflichtenheft.pdf" style="border:1px solid #ccc;"></iframe>

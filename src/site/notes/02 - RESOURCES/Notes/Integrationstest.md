@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/integrationstest/","tags":["testing/integration","qualitaetssicherung/schnittstellen"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/integrationstest/","tags":["testing/integration","qualitaetssicherung/schnittstellen"],"noteIcon":"","updated":"2025-12-09T16:21:18.049+01:00"}
 ---
-
 
 >[[02 - RESOURCES/Notes/Integrationstest\|Integrationstest]] prüft die Schnittstellen und Zusammenarbeit zwischen Software-Komponenten.
 
