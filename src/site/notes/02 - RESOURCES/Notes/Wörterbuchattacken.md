@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/woerterbuchattacken/","tags":["sicherheit/it-sicherheit","sicherheit/passwort","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T13:41:30.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/woerterbuchattacken/","tags":["sicherheit/it-sicherheit","sicherheit/passwort","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T13:41:30.828+01:00"}
 ---
 
 >Eine **Wörterbuchattacke (Dictionary Attack)** ist ein Angriffsmethode, bei der ein Angreifer systematisch **vorbereitete Listen** von häufig verwendeten Passwörtern, Wörtern und Kombinationen durchprobiert, um Zugang zu einem System zu erhalten.

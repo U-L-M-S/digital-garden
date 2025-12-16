@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-ingress/","tags":["informatik/virtualisierung/kubernetes/ingress","informatik/netzwerk","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:20:14.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-ingress/","tags":["informatik/virtualisierung/kubernetes/ingress","informatik/netzwerk","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:20:14.627+01:00"}
 ---
 
 >**Ingress** ist eine [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]] API zur Verwaltung externen HTTP/HTTPS Zugriffs auf [[02 - RESOURCES/Notes/Kubernetes Services\|Services]].

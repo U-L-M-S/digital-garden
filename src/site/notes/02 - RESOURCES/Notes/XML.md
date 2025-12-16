@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/xml/","tags":["datenformat/strukturiert","markup/standards"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/xml/","tags":["datenformat/strukturiert","markup/standards"],"noteIcon":"","updated":"2025-10-29T12:59:11.551+01:00"}
 ---
 
 >[[02 - RESOURCES/Notes/XML\|XML]] (Extensible Markup Language) ist eine Markup-Sprache für strukturierte Datendarstellung.

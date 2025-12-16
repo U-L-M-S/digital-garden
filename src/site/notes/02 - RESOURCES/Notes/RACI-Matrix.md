@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/raci-matrix/","tags":["projektmanagement/tools","GFN/LF06","organisation"],"noteIcon":"","updated":"2025-11-05T13:15:37.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/raci-matrix/","tags":["projektmanagement/tools","GFN/LF06","organisation"],"noteIcon":"","updated":"2025-11-05T13:15:37.020+01:00"}
 ---
 
 

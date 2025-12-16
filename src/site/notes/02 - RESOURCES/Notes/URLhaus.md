@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ur-lhaus/","tags":["informatik/sicherheit/malware","threat-intelligence"],"noteIcon":"","updated":"2025-11-07T11:36:02.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ur-lhaus/","tags":["informatik/sicherheit/malware","threat-intelligence"],"noteIcon":"","updated":"2025-11-07T11:36:02.480+01:00"}
 ---
 
 > Datenbank von [[02 - RESOURCES/Notes/Malware\|Malware]]-URLs

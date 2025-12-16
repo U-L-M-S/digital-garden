@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-injection/","tags":["sicherheit/web-angriffe","datenbank/vulnerabilities","AP2025/neu"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-injection/","tags":["sicherheit/web-angriffe","datenbank/vulnerabilities","AP2025/neu"],"noteIcon":"","updated":"2025-10-29T12:59:10.464+01:00"}
 ---
 
 

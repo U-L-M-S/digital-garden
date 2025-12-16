@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/meltdown-and-spectre/","tags":["sicherheit/it-sicherheit","sicherheit/hardware","software/hardware","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T13:52:22.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/meltdown-and-spectre/","tags":["sicherheit/it-sicherheit","sicherheit/hardware","software/hardware","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T13:52:22.219+01:00"}
 ---
 
 >**Meltdown** und **Spectre** sind kritische Hardware-Sicherheitslücken in modernen CPUs, die im Januar 2018 öffentlich bekannt wurden. Sie nutzen **Speculative Execution** (spekulative Ausführung) aus, um auf geschützte Speicherbereiche zuzugreifen.

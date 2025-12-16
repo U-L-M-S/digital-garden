@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-aggregation/","tags":["uml/klassendiagramm","informatik/oop","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:11:22.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-aggregation/","tags":["uml/klassendiagramm","informatik/oop","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:11:22.795+01:00"}
 ---
 
 >Aggregation ist eine spezielle Form der [[02 - RESOURCES/Notes/UML-Assoziation\|UML-Assoziation]], die eine "hat-eine"-Beziehung darstellt, bei der das Teil-Objekt unabhängig vom Ganzen existieren kann.

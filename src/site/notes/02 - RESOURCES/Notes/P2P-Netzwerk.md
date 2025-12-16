@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/p2-p-netzwerk/","tags":["informatik/netzwerk/p2p","informatik/netzwerk/topologie"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/p2-p-netzwerk/","tags":["informatik/netzwerk/p2p","informatik/netzwerk/topologie"],"noteIcon":"","updated":"2025-10-29T12:59:08.928+01:00"}
 ---
 
 

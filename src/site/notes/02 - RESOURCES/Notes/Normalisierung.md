@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/normalisierung/","tags":["informatik/datenbank","GFN/prüfungsrelevant/AP2","ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-12T14:35:52.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/normalisierung/","tags":["informatik/datenbank","GFN/prüfungsrelevant/AP2","ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-12T14:35:52.513+01:00"}
 ---
 
 >Normalisierung ist ein Prozess in der Datenbankentwicklung, um [[02 - RESOURCES/Notes/Redundanz\|Redundanz]] zu vermeiden und Datenintegrität sicherzustellen.

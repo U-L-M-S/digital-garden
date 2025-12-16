@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/primary-key/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:38:27.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/primary-key/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:38:27.212+01:00"}
 ---
 
 >Der Primary Key (Primärschlüssel) ist eine Spalte oder Kombination von [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n, die jeden Datensatz in einer [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] eindeutig identifiziert.

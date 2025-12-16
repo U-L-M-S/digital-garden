@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-static/","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-static/","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:07.212+01:00"}
 ---
 
 >In [[02 - RESOURCES/Notes/Java\|Java]] wenn etwas die Schlüssel [[02 - RESOURCES/Notes/static\|static]] enthält. Wird diese als Inhalt von [[02 - RESOURCES/Notes/Java klasse\|Java klasse]] angesehen und nicht von den Objekt.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/binaer-zu-dezimal/","tags":["ausbildung/gfn/ap1/vorbereitung","mathe/binärzahlen"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/binaer-zu-dezimal/","tags":["ausbildung/gfn/ap1/vorbereitung","mathe/binärzahlen"],"noteIcon":"","updated":"2025-10-29T12:59:03.967+01:00"}
 ---
 
 **11001101**

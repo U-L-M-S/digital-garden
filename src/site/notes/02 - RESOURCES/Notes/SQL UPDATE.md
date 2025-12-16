@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-update/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:32:08.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-update/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:32:08.932+01:00"}
 ---
 
 >Befehl wird verwendet um bereits existierende Daten in einer [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] zu ändern.

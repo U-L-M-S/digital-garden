@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/next-generation-firewall/","tags":["informatik/netzwerk/firewall","firewall/generation-3"],"noteIcon":"","updated":"2025-11-07T11:31:55.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/next-generation-firewall/","tags":["informatik/netzwerk/firewall","firewall/generation-3"],"noteIcon":"","updated":"2025-11-07T11:31:55.480+01:00"}
 ---
 
 > [[02 - RESOURCES/Notes/Firewall\|Firewall]] Generation 3 (ab 2010)
