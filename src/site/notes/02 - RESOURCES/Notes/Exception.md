@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/exception/","tags":["informatik/code","informatik/programmierung","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:34:04.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/exception/","tags":["informatik/code","informatik/programmierung","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:34:04.508+01:00"}
 ---
 
 >Eine Exception (Ausnahme) ist ein Ereignis, das während der Programmausführung auftritt und den normalen Ablauf des Programms unterbricht.

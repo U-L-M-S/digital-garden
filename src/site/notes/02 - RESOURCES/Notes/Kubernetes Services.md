@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-services/","tags":["informatik/virtualisierung/kubernetes/services","devops/kubernetes","informatik/netzwerk"],"noteIcon":"","updated":"2025-11-06T16:13:44.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-services/","tags":["informatik/virtualisierung/kubernetes/services","devops/kubernetes","informatik/netzwerk"],"noteIcon":"","updated":"2025-11-06T16:13:44.548+01:00"}
 ---
 
 >Ein **Service** in [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]] ist eine Abstraktion die eine logische Menge von [[02 - RESOURCES/Notes/Kubernetes Pods\|Pods]] exponiert und Load Balancing bereitstellt.

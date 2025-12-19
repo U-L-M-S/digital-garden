@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/compliance/","tags":["rechtliches/compliance","sicherheit/vorschriften","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T09:48:42.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/compliance/","tags":["rechtliches/compliance","sicherheit/vorschriften","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T09:48:42.780+01:00"}
 ---
 
 >Compliance bedeutet, dass ein Unternehmen alle Gesetze, Vorschriften und eigenen Regeln einhält.

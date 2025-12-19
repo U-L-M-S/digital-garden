@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/nachfrage/","tags":["markt/mechanismus","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:49:33.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/nachfrage/","tags":["markt/mechanismus","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:49:33.156+01:00"}
 ---
 
 >Menge an Gütern, die Käufer zu verschiedenen Preisen kaufen möchten.

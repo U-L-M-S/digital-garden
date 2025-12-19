@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/git-push/","tags":["git/push"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/git-push/","tags":["git/push"],"noteIcon":"","updated":"2025-10-29T12:59:06.351+01:00"}
 ---
 
 >Befehl wird verwendet um was bei mir (Lokal) steht an das Git verschickt wird.

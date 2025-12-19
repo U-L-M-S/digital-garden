@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/privater-netzbereich/","tags":["ausbildung/gfn/ap1","informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/privater-netzbereich/","tags":["ausbildung/gfn/ap1","informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:09.353+01:00"}
 ---
 
 > Unternehmensweites [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] (Privat). Wird verwendet um Daten in eines [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] zu verwalten/bearbeiten/teilen.

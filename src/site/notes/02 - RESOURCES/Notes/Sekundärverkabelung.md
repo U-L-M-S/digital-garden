@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sekundaerverkabelung/","tags":["informatik/netzwerk/kabel","GFN/LF03"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sekundaerverkabelung/","tags":["informatik/netzwerk/kabel","GFN/LF03"],"noteIcon":"","updated":"2025-10-29T12:59:10.048+01:00"}
 ---
 
 ![Sekundärverkabelung-20240802125934388.png|364](/img/user/02%20-%20RESOURCES/Files/IMG/Sekund%C3%A4rverkabelung-20240802125934388.png)

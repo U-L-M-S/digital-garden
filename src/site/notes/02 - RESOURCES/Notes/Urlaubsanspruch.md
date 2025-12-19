@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/urlaubsanspruch/","tags":["arbeitsrecht/urlaub"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/urlaubsanspruch/","tags":["arbeitsrecht/urlaub"],"noteIcon":"","updated":"2025-10-29T12:59:11.054+01:00"}
 ---
 
 >Recht auf bezahlte Freistellung zur Erholung. Mindestens nach [[02 - RESOURCES/Notes/BUrlG\|BUrlG]], oft mehr durch [[Tarifvertrag\|Tarifvertrag]].

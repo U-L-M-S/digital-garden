@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-select/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T13:58:24.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-select/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T13:58:24.449+01:00"}
 ---
 
 >Befehl, der verwendet wird, um die [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]] herauszusuchen.

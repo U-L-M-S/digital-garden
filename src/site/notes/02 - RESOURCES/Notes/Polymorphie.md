@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/polymorphie/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/polymorphie/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:09.198+01:00"}
 ---
 
 > **[[02 - RESOURCES/Notes/Polymorphie\|Polymorphie]]** _(„Vielgestaltigkeit“)_  

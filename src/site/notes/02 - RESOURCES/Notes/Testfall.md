@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/testfall/","tags":["informatik/testing","informatik/qualitätssicherung","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:15:08.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/testfall/","tags":["informatik/testing","informatik/qualitätssicherung","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:15:08.243+01:00"}
 ---
 
 >Ein Testfall ist eine detaillierte Beschreibung, wie eine bestimmte Funktion oder ein Feature getestet werden soll, inklusive Eingabedaten, Ausführungsschritten und erwarteten Ergebnissen.

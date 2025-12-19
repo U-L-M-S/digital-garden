@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/reellen-zahlen/","tags":["mathe/reellen-zahlen"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/reellen-zahlen/","tags":["mathe/reellen-zahlen"],"noteIcon":"","updated":"2025-10-29T12:59:09.778+01:00"}
 ---
 
 >$\mathbb{R}$ := {x|x ist rationale oder irrationale Zahl}

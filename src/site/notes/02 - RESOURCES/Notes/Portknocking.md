@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/portknocking/","tags":["sicherheit/it-sicherheit","sicherheit/verborgen","zugang/sequenz"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/portknocking/","tags":["sicherheit/it-sicherheit","sicherheit/verborgen","zugang/sequenz"],"noteIcon":"","updated":"2025-10-29T12:59:09.229+01:00"}
 ---
 
 

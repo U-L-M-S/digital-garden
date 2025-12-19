@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/berufsschule/","tags":["ausbildung/institution","duales-system"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/berufsschule/","tags":["ausbildung/institution","duales-system"],"noteIcon":"","updated":"2025-10-29T12:59:03.486+01:00"}
 ---
 
 >Teil des [[Duales System\|dualen Systems]]. Vermittelt theoretisches Wissen während der Ausbildung.

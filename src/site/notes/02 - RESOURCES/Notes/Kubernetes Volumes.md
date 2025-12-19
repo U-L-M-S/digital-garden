@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-volumes/","tags":["informatik/virtualisierung/kubernetes/storage","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:16:47.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-volumes/","tags":["informatik/virtualisierung/kubernetes/storage","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:16:47.556+01:00"}
 ---
 
 >**Volumes** in [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]] ermöglichen [[02 - RESOURCES/Notes/Kubernetes Pods\|Pods]] Daten persistent zu speichern über Container-Neustarts hinweg.

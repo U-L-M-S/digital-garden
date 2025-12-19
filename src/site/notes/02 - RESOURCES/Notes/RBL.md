@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rbl/","tags":["informatik/sicherheit/email","spam"],"noteIcon":"","updated":"2025-11-07T11:40:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/rbl/","tags":["informatik/sicherheit/email","spam"],"noteIcon":"","updated":"2025-11-07T11:40:10.535+01:00"}
 ---
 
 > Realtime Blackhole List

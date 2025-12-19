@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/backup-strategien/","tags":["datensicherung/methoden","schutz/verlust","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/backup-strategien/","tags":["datensicherung/methoden","schutz/verlust","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:03.180+01:00"}
 ---
 
 

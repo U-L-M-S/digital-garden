@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker-hub/","tags":["informatik/virtualisierung/docker/registry","informatik/virtualisierung/docker/public"],"noteIcon":"","updated":"2025-11-06T15:41:53.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker-hub/","tags":["informatik/virtualisierung/docker/registry","informatik/virtualisierung/docker/public"],"noteIcon":"","updated":"2025-11-06T15:41:53.906+01:00"}
 ---
 
 >**Docker Hub** ist die öffentliche [[02 - RESOURCES/Notes/Docker Registry\|Docker Registry]] von Docker Inc.
