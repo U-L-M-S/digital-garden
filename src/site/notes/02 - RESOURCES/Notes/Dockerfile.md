@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dockerfile/","tags":["informatik/virtualisierung/docker/build","informatik/virtualisierung/docker/images"],"noteIcon":"","updated":"2025-11-06T15:35:16.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dockerfile/","tags":["informatik/virtualisierung/docker/build","informatik/virtualisierung/docker/images"],"noteIcon":"","updated":"2025-11-06T15:35:16.346+01:00"}
 ---
 
 >**Dockerfile** ist eine Textdatei mit Anweisungen wie ein [[02 - RESOURCES/Notes/Docker Image\|Docker Image]] gebaut werden soll.
