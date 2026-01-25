@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pseudocode/","tags":["informatik/code","GFN/prüfungsrelevant/AP2","AI-generated"],"noteIcon":"","updated":"2025-11-12T15:22:55.247+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pseudocode/","tags":["informatik/code","GFN/prüfungsrelevant/AP2","AI-generated"],"noteIcon":"","updated":"2025-11-12T15:22:55.000+01:00"}
 ---
 
 > [[02 - RESOURCES/Notes/Pseudocode\|Pseudocode]] ist wie ein Rezept zum Kochen - du schreibst die Schritte auf, bevor du wirklich kochst. Es ist eine Zwischenstufe zwischen deiner Idee und dem echten [[Code\|Code]].

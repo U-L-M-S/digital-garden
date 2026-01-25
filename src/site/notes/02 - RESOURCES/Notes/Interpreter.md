@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/interpreter/","tags":["informatik/code"],"noteIcon":"","updated":"2025-10-29T12:59:06.851+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/interpreter/","tags":["informatik/code"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
 ---
 
 >Es führt den Quellcode Zeile für Zeile aus, ohne ihn vorher in Maschinencode zu übersetzen. 

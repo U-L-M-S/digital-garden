@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-deployments/","tags":["informatik/virtualisierung/kubernetes/deployments","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:12:09.756+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-deployments/","tags":["informatik/virtualisierung/kubernetes/deployments","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:12:09.000+01:00"}
 ---
 
 >Ein **Deployment** ist ein [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]]-Controller der deklarativ [[02 - RESOURCES/Notes/Kubernetes Pods\|Pods]] und ReplicaSets verwaltet.

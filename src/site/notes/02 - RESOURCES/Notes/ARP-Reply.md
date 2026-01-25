@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/arp-reply/","tags":["informatik/netzwerk/arp/antwort","unicast/antwort","informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-10-29T12:59:02.598+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/arp-reply/","tags":["informatik/netzwerk/arp/antwort","unicast/antwort","informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/acme/","tags":["informatik/protokoll","informatik/sicherheit/ssl","kryptographie"],"noteIcon":"","updated":"2025-11-07T11:35:52.537+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/acme/","tags":["informatik/protokoll","informatik/sicherheit/ssl","kryptographie"],"noteIcon":"","updated":"2025-11-07T11:35:52.000+01:00"}
 ---
 
 > Automatic Certificate Management Environment

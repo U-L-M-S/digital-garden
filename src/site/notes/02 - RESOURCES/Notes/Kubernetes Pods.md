@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-pods/","tags":["informatik/virtualisierung/kubernetes/pods","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:10:44.106+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-pods/","tags":["informatik/virtualisierung/kubernetes/pods","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:10:44.000+01:00"}
 ---
 
 >Ein **Pod** ist die kleinste deploybare Einheit in [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]] und besteht aus einem oder mehreren Containern die zusammen auf einem Node laufen.

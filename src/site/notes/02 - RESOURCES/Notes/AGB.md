@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/agb/","tags":["rechtliches/vertragsrecht","business/konditionen","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:19:44.138+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/agb/","tags":["rechtliches/vertragsrecht","business/konditionen","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:19:44.000+01:00"}
 ---
 
 >AGB (Allgemeine Geschäftsbedingungen) sind vorgefertigte [[02 - RESOURCES/Notes/Vertrag\|Vertrag]]sregeln, die ein Unternehmen für alle Kunden verwendet.

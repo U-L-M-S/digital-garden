@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/debugging/","tags":["informatik/code","programmierung/fehlersuche","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:19:46.170+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/debugging/","tags":["informatik/code","programmierung/fehlersuche","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:19:46.000+01:00"}
 ---
 
 >Debugging ist der Prozess, Fehler (Bugs) im Code zu finden und zu beheben.

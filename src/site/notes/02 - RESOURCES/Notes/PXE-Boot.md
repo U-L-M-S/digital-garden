@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pxe-boot/","tags":["netzwerk/boot","GFN/LF06","system-administration"],"noteIcon":"","updated":"2025-11-05T13:17:53.981+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pxe-boot/","tags":["netzwerk/boot","GFN/LF06","system-administration"],"noteIcon":"","updated":"2025-11-05T13:17:53.000+01:00"}
 ---
 
 
