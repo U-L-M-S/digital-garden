@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/insertion-sort/","tags":["algorithmen/sortierung","AP2025/detailliert"],"noteIcon":"","updated":"2025-11-12T09:26:56.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/insertion-sort/","tags":["algorithmen/sortierung","AP2025/detailliert"],"noteIcon":"","updated":"2025-11-12T09:26:56.247+01:00"}
 ---
 
 ![Insertion-sort-example.gif](/img/user/02%20-%20RESOURCES/Files/Insertion-sort-example.gif)

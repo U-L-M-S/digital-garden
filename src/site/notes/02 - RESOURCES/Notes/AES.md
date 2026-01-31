@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/aes/","tags":["sicherheit/it-sicherheit","kryptografie/encryption","kryptografie/symmetric","algorithmus"],"noteIcon":"","updated":"2025-11-06T16:38:41.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/aes/","tags":["sicherheit/it-sicherheit","kryptografie/encryption","kryptografie/symmetric","algorithmus"],"noteIcon":"","updated":"2025-11-06T16:38:41.485+01:00"}
 ---
 
 

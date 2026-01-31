@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dhcpreply/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dhcpreply/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:05.178+01:00"}
 ---
 
 >Finale Antwort des [[02 - RESOURCES/Notes/DHCPv6\|DHCPv6]]-Servers - "Hier ist deine [[02 - RESOURCES/Notes/IPv6\|IPv6]]-[[Adresse\|Adresse]] und Konfiguration!"

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wi-fi-6/","tags":["informatik/netzwerk/wifi"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wi-fi-6/","tags":["informatik/netzwerk/wifi"],"noteIcon":"","updated":"2025-10-29T12:59:11.335+01:00"}
 ---
 
 ![Wi-Fi 6-20240804223321671.png|371](/img/user/02%20-%20RESOURCES/Files/IMG/Wi-Fi%206-20240804223321671.png)

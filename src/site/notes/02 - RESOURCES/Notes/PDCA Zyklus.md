@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pdca-zyklus/","tags":["qualitaetsmanagement/methoden","projektmanagement/verbesserung","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T10:09:28.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pdca-zyklus/","tags":["qualitaetsmanagement/methoden","projektmanagement/verbesserung","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T10:09:28.524+01:00"}
 ---
 
 

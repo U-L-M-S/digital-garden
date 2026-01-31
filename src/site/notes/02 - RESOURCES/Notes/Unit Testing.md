@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/unit-testing/","tags":["informatik/code","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:40:07.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/unit-testing/","tags":["informatik/code","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:40:07.667+01:00"}
 ---
 
 >Unit Testing (Modultest) ist das Testen einzelner, isolierter Teile (Units) eines Programms.

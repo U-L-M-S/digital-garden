@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/code-coverage/","tags":["informatik/code","informatik/testing","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:35:55.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/code-coverage/","tags":["informatik/code","informatik/testing","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:35:55.496+01:00"}
 ---
 
 >Code Coverage (Testabdeckung) ist eine Metrik, die angibt, wie viel Prozent des Codes durch [[02 - RESOURCES/Notes/Unit Testing\|Unit Testing]]s abgedeckt ist.

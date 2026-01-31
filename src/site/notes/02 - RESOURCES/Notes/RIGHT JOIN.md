@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/right-join/","tags":["informatik/datenbank","informatik/code/SQL"],"noteIcon":"","updated":"2025-12-09T19:47:21.230+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/right-join/","tags":["informatik/datenbank","informatik/code/SQL"],"noteIcon":"","updated":"2025-12-09T19:47:21.000+01:00"}
 ---
 
 >Es gibt **alle Datensätze der rechten Tabelle** (in diesem Fall `orders`) zurück, **auch wenn es keine Übereinstimmung** in der linken Tabelle (`customers`) gibt. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/vertrag/","tags":["recht/vertragsrecht","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:56:38.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/vertrag/","tags":["recht/vertragsrecht","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:56:38.300+01:00"}
 ---
 
 >Ein Vertrag ist eine rechtlich bindende Vereinbarung zwischen mindestens zwei Parteien.
