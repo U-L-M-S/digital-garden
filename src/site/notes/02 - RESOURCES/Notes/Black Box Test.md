@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/black-box-test/","tags":["qualitaetssicherung/testing","testing/verfahren","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:20:43.437+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/black-box-test/","tags":["qualitaetssicherung/testing","testing/verfahren","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:20:43.000+01:00"}
 ---
 
 >Black Box Test ist eine Testmethode, bei der Software getestet wird, ohne den internen Code zu kennen.

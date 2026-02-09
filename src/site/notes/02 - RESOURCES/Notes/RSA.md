@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rsa/","tags":["algorithmus","kryptografie/encryption","kryptografie/decryption","sicherheit/it-sicherheit","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T16:27:12.420+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/rsa/","tags":["algorithmus","kryptografie/encryption","kryptografie/decryption","sicherheit/it-sicherheit","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T16:27:12.000+01:00"}
 ---
 
 >**RSA** ist ein [[02 - RESOURCES/Notes/Asymmetrische Verschlüsselung\|asymmetrischer Verschlüsselungsalgorithmus]], der auf der mathematischen Schwierigkeit basiert, große Zahlen in ihre Primfaktoren zu zerlegen.

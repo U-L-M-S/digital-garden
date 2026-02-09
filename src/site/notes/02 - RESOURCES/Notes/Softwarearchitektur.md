@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/softwarearchitektur/","tags":["informatik/softwareentwicklung","ausbildung/gfn/ap2/vorbereitung","architektur/software"],"noteIcon":"","updated":"2025-11-07T15:12:00.521+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/softwarearchitektur/","tags":["informatik/softwareentwicklung","ausbildung/gfn/ap2/vorbereitung","architektur/software"],"noteIcon":"","updated":"2025-11-07T15:12:00.000+01:00"}
 ---
 
 >**Softwarearchitektur** beschreibt die grundlegende Struktur und Organisation eines [[02 - RESOURCES/Notes/Software\|Software]]-Systems.

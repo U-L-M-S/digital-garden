@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/entschluesselung/","tags":["informatik/sicherheit","kryptografie"],"noteIcon":"","updated":"2025-11-07T09:44:13.481+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/entschluesselung/","tags":["informatik/sicherheit","kryptografie"],"noteIcon":"","updated":"2025-11-07T09:44:13.000+01:00"}
 ---
 
 >Entschlüsselung wandelt unlesbare Daten (Geheimtext) zurück in lesbare Daten (Klartext) um. Dafür braucht man den richtigen Schlüssel.

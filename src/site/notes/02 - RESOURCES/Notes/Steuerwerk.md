@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/steuerwerk/","tags":["hardware/cpu","informatik/architektur"],"noteIcon":"","updated":"2025-12-16T08:33:09.975+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/steuerwerk/","tags":["hardware/cpu","informatik/architektur"],"noteIcon":"","updated":"2025-12-16T08:33:09.000+01:00"}
 ---
 
 

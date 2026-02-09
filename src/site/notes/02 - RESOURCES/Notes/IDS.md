@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ids/","tags":["informatik/sicherheit/ids","informatik/netzwerk"],"noteIcon":"","updated":"2025-11-07T11:31:43.473+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ids/","tags":["informatik/sicherheit/ids","informatik/netzwerk"],"noteIcon":"","updated":"2025-11-07T11:31:43.000+01:00"}
 ---
 
 > Intrusion Detection System

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/3-2-1-regel/","tags":["informatik/backup/strategie","sicherheit/it-sicherheit","sicherheit/redundanz"],"noteIcon":"","updated":"2025-10-29T12:59:01.574+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/3-2-1-regel/","tags":["informatik/backup/strategie","sicherheit/it-sicherheit","sicherheit/redundanz"],"noteIcon":"","updated":"2025-10-29T12:59:01.000+01:00"}
 ---
 
 >Backup-Grundregel für Datensicherung mit optimaler Redundanz.

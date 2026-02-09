@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/left-join/","tags":["informatik/datenbank","informatik/code/SQL"],"noteIcon":"","updated":"2025-11-26T02:00:41.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/left-join/","tags":["informatik/datenbank","informatik/code/SQL"],"noteIcon":"","updated":"2025-11-26T02:00:41.078+01:00"}
 ---
 
 >Ein **LEFT JOIN** gibt **alle [[02 - RESOURCES/Notes/Datensatz\|Datensätze]] der linken Tabelle** (in diesem Fall `customers`) zurück, **auch wenn es keine Übereinstimmung** in der rechten Tabelle (`orders`) gibt.

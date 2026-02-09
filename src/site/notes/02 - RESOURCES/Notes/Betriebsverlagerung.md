@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/betriebsverlagerung/","tags":["betriebsrat/information","wirtschaftlich"],"noteIcon":"","updated":"2025-10-29T12:59:03.783+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/betriebsverlagerung/","tags":["betriebsrat/information","wirtschaftlich"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00"}
 ---
 
 >Verlegung der Produktion oder des Standorts an andere Orte.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-klassendiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","ausbildung/gfn/ap2/vorbereitung","GFN/prüfungsrelevant/AP2","uml/klassendiagramm"],"noteIcon":"","updated":"2025-11-12T15:21:14.442+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-klassendiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","ausbildung/gfn/ap2/vorbereitung","GFN/prüfungsrelevant/AP2","uml/klassendiagramm"],"noteIcon":"","updated":"2025-11-12T15:21:14.000+01:00"}
 ---
 
 

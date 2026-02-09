@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/redundanz/","tags":["informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:40:04.690+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/redundanz/","tags":["informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:40:04.000+01:00"}
 ---
 
 >Redundanz ist die unnötige Wiederholung von Daten in einer Datenbank.

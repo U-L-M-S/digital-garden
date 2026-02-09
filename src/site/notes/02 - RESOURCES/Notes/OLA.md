@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ola/","tags":["itsm/verträge","GFN/LF06","itil"],"noteIcon":"","updated":"2025-11-05T13:17:56.269+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ola/","tags":["itsm/verträge","GFN/LF06","itil"],"noteIcon":"","updated":"2025-11-05T13:17:56.000+01:00"}
 ---
 
 

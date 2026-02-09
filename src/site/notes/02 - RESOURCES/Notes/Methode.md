@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/methode/","tags":["informatik/oop","informatik/java","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:13:06.411+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/methode/","tags":["informatik/oop","informatik/java","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:13:06.000+01:00"}
 ---
 
 >Eine Methode ist ein Block von Code innerhalb einer Klasse, der eine bestimmte Aufgabe ausführt und wiederverwendbar ist.

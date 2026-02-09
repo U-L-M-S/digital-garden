@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/firewall/","tags":["informatik/netzwerk/filter","sicherheit/it-sicherheit","sicherheit/schutz"],"noteIcon":"","updated":"2025-10-29T12:59:06.033+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/firewall/","tags":["informatik/netzwerk/filter","sicherheit/it-sicherheit","sicherheit/schutz"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
 ---
 
 

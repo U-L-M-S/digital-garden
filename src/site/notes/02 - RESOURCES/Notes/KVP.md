@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kvp/","tags":["qualitaetsmanagement/kontinuierlich","prozessverbesserung/methoden","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T10:10:13.766+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kvp/","tags":["qualitaetsmanagement/kontinuierlich","prozessverbesserung/methoden","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T10:10:13.000+01:00"}
 ---
 
 

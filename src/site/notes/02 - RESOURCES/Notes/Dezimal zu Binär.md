@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dezimal-zu-binaer/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2025-10-29T12:59:05.015+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dezimal-zu-binaer/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
 ---
 
 >Es gibt mehrere Möglichkeiten, aber oft wird das hier verwendet:

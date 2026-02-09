@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pi-hole/","tags":["informatik/netzwerk/dns","sicherheit/werbeblocker","raspberry-pi"],"noteIcon":"","updated":"2025-11-07T11:40:25.741+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pi-hole/","tags":["informatik/netzwerk/dns","sicherheit/werbeblocker","raspberry-pi"],"noteIcon":"","updated":"2025-11-07T11:40:25.000+01:00"}
 ---
 
 > DNS-basierter Werbeblocker
