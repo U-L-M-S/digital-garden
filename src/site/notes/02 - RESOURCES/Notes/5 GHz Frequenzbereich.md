@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/5-g-hz-frequenzbereich/","tags":["informatik/netzwerk/wifi"],"noteIcon":"","updated":"2025-10-29T12:59:01.643+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/5-g-hz-frequenzbereich/","tags":["informatik/netzwerk/wifi"],"noteIcon":"","updated":"2025-10-29T12:59:01.000+01:00"}
 ---
 
 >[!multi-column]

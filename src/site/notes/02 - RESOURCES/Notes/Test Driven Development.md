@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/test-driven-development/","tags":["programmierung/methoden","qualitaetssicherung/agile","GFN/prüfungsrelevant/AP2","AP2025/neu"],"noteIcon":"","updated":"2025-11-12T15:22:53.209+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/test-driven-development/","tags":["programmierung/methoden","qualitaetssicherung/agile","GFN/prüfungsrelevant/AP2","AP2025/neu"],"noteIcon":"","updated":"2025-11-12T15:22:53.000+01:00"}
 ---
 
 

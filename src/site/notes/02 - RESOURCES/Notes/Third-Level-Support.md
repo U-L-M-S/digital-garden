@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/third-level-support/","tags":["it-service/support","GFN/LF06"],"noteIcon":"","updated":"2025-11-05T13:13:16.642+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/third-level-support/","tags":["it-service/support","GFN/LF06"],"noteIcon":"","updated":"2025-11-05T13:13:16.000+01:00"}
 ---
 
 

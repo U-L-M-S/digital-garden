@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lf-11b-it-security-verschluesselung/","tags":["GFN/LF11/FISI"],"noteIcon":"","updated":"2025-10-29T12:59:07.816+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/lf-11b-it-security-verschluesselung/","tags":["GFN/LF11/FISI"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00"}
 ---
 
 # LF11b - IT Security Verschlüsselung

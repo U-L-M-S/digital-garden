@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/unleugbarkeit/","tags":["sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:11.006+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/unleugbarkeit/","tags":["sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
 ---
 
 >**Unleugbarkeit** (oder Nichtabstreitbarkeit) ist ein Sicherheitsprinzip, das sicherstellt, dass ein Absender nicht leugnen kann, eine Nachricht gesendet oder eine bestimmte Aktion durchgeführt zu haben. 

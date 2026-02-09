@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/white-box-test/","tags":["qualitaetssicherung/testing","testing/verfahren","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:20:22.913+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/white-box-test/","tags":["qualitaetssicherung/testing","testing/verfahren","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:20:22.000+01:00"}
 ---
 
 >White Box Test ist eine Testmethode, bei der der interne Code bekannt ist und gezielt getestet wird.

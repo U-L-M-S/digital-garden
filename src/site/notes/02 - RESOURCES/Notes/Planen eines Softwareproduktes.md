@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/planen-eines-softwareproduktes/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-24T11:31:14.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/planen-eines-softwareproduktes/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-24T11:31:14.001+01:00"}
 ---
 
 >Dieser Teil der Prüfung dauert 90 Minuten und umfasst 100 Punkte (10% der Gesamtprüfung).

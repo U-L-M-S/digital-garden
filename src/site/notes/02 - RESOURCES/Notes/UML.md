@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml/","tags":["ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","uml"],"noteIcon":"","updated":"2025-11-12T15:21:12.515+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml/","tags":["ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","uml"],"noteIcon":"","updated":"2025-11-12T15:21:12.000+01:00"}
 ---
 
 

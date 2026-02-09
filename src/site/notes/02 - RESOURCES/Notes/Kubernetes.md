@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes/","tags":["informatik/virtualisierung/kubernetes","informatik/orchestrierung","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:09:02.357+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes/","tags":["informatik/virtualisierung/kubernetes","informatik/orchestrierung","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:09:02.000+01:00"}
 ---
 
 >**Kubernetes** (K8s) ist eine Open-Source-Plattform zur Container-Orchestrierung, die das Deployment, Skalierung und Management von containerisierten Anwendungen automatisiert.

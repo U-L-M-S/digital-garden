@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-secrets/","tags":["informatik/virtualisierung/kubernetes/secrets","devops/kubernetes","sicherheit"],"noteIcon":"","updated":"2025-11-06T16:19:08.520+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-secrets/","tags":["informatik/virtualisierung/kubernetes/secrets","devops/kubernetes","sicherheit"],"noteIcon":"","updated":"2025-11-06T16:19:08.000+01:00"}
 ---
 
 >**Secrets** in [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]] speichern vertrauliche Daten wie Passwörter, API-Keys, und Zertifikate.

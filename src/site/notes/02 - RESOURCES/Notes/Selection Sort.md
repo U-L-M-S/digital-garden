@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/selection-sort/","tags":["algorithmen/sortierung","AP2025/detailliert"],"noteIcon":"","updated":"2025-11-12T09:28:50.524+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/selection-sort/","tags":["algorithmen/sortierung","AP2025/detailliert"],"noteIcon":"","updated":"2025-11-12T09:28:50.000+01:00"}
 ---
 
 ![selection-600.gif](/img/user/02%20-%20RESOURCES/Files/selection-600.gif)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/vererbung/","tags":["informatik/oop","informatik/java","informatik/uml","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:05:55.151+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/vererbung/","tags":["informatik/oop","informatik/java","informatik/uml","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:05:55.000+01:00"}
 ---
 
 >Vererbung (Inheritance) ist ein Grundprinzip der Objektorientierung, bei dem eine Klasse (Kindklasse) Eigenschaften und Methoden einer anderen Klasse (Elternklasse) übernimmt.

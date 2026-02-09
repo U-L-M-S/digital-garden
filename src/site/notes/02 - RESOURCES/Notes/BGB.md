@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bgb/","tags":["rechtliches/grundlagen","compliance/gesetze","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:19:40.385+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bgb/","tags":["rechtliches/grundlagen","compliance/gesetze","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:19:40.000+01:00"}
 ---
 
 >Das BGB (Bürgerliches Gesetzbuch) ist das wichtigste Gesetz für [[02 - RESOURCES/Notes/Vertrag\|Verträge]] zwischen Privatpersonen in Deutschland.
