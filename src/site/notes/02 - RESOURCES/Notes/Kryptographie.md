@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kryptographie/","tags":["kryptografie","informatik/sicherheit"],"noteIcon":"","updated":"2025-11-07T10:23:10.590+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kryptographie/","tags":["kryptografie","informatik/sicherheit"],"noteIcon":"","updated":"2025-11-07T10:23:10.000+01:00"}
 ---
 
 >Kryptographie ist die Wissenschaft, die Informationen verschlüsselt. Das bedeutet: Die Informationen werden so verändert, dass fremde Personen sie nicht lesen können.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kardinalitaet/","tags":["ausbildung/gfn/ap1","ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","informatik/datenbank"],"noteIcon":"","updated":"2025-11-12T15:22:20.648+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kardinalitaet/","tags":["ausbildung/gfn/ap1","ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","informatik/datenbank"],"noteIcon":"","updated":"2025-11-12T15:22:20.000+01:00"}
 ---
 
 

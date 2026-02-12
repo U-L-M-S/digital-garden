@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/igp/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:06.632+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/igp/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
 ---
 
 >Interior [[02 - RESOURCES/Notes/Gateway\|Gateway]] Protocol
