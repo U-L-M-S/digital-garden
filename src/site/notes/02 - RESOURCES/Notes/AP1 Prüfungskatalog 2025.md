@@ -4,7 +4,7 @@
 
 # 📌 Sichere Themen für die AP1-Prüfung
 > Das ist eine Zusammenfassung, was in die AP1 2025 drankommen wird/kann.
-> > Sie wurde erstellt durch [Broadcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap1-der-it-berufe-ab-2025-it-berufe-podcast-190/) und [Prüfungskatalog.pdf](/img/user/02%20-%20RESOURCES/Files/Pr%C3%BCfungskatalog.pdf)
+> > Sie wurde erstellt durch [Broadcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap1-der-it-berufe-ab-2025-it-berufe-podcast-190/) und [[Prüfungskatalog.pdf]]
 
 ---
 
