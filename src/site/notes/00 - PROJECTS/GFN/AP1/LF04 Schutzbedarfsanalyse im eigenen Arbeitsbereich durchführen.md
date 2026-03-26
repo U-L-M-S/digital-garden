@@ -4,21 +4,21 @@
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
 
-[[LF04V2_Tag_5_Beschäftigungsmöglichkeiten Zertifizierungen_Präsentation 1.pdf]]
-[[15_LF04V2_Tag_5_Urheberrecht Copyright Markenrecht und Lizenzen_Präsentation_neu 1.pdf]]
-[[14_LF04V2_Tag_5_Überblick Hacking und Hackingprozess_Präsentation_neu 1.pdf]]
-[[13_LF04V2_Tag_4_Schutzbedarfsanalyse_Präsentation_neu 1.pdf]]
-[[12_LF04V2_Tag_3_TOM_Präsentation_neu 1.pdf]]
-[[11_LF04V2_Tag_3_Social Engineering_Präsentation_neu 1.pdf]]
-[[10_LF04V2_Tag_3_Malware_Präsentation_neu 1.pdf]]
-[[09_LF04V2_Tag_2_Verschlüsselung + Kennwort + Hash Co_Präsentation_neu 1.pdf]]
-[[08_LF04V2_Tag_2_Kryptographie + Verschlüsselungsziele Beispiele_Präsentation_neu 1.pdf]]
-[[07_LF04V2_Tag_2_Elementare Gefährdungen und Risiko_Präsentation_neu 1.pdf]]
-[[06_LF04V2_Tag_1_IT Grundschutz und Ziele_Präsentation_neu 1.pdf]]
-[[05_LF04V2_Tag_1_Gesetze Aufsichtsbehörden_Präsentation_neu 1.pdf]]
-[[03_LF04V2_Tag_1_Informationsquellen_Präsentation_neu 1.pdf]]
-[[02_LF04V2_Tag_1_IT-Sicherheit_Präsentation_neu 1.pdf]]
-[[01_LF04V2_Tag_1_Kursüberblick_Präsentation_neu 1.pdf]]
+[LF04V2_Tag_5_Beschäftigungsmöglichkeiten Zertifizierungen_Präsentation 1.pdf](/img/user/02%20-%20RESOURCES/Files/LF04V2_Tag_5_Besch%C3%A4ftigungsm%C3%B6glichkeiten%20Zertifizierungen_Pr%C3%A4sentation%201.pdf)
+[15_LF04V2_Tag_5_Urheberrecht Copyright Markenrecht und Lizenzen_Präsentation_neu 1.pdf](/img/user/02%20-%20RESOURCES/Files/15_LF04V2_Tag_5_Urheberrecht%20Copyright%20Markenrecht%20und%20Lizenzen_Pr%C3%A4sentation_neu%201.pdf)
+[14_LF04V2_Tag_5_Überblick Hacking und Hackingprozess_Präsentation_neu 1.pdf](/img/user/02%20-%20RESOURCES/Files/14_LF04V2_Tag_5_%C3%9Cberblick%20Hacking%20und%20Hackingprozess_Pr%C3%A4sentation_neu%201.pdf)
+[13_LF04V2_Tag_4_Schutzbedarfsanalyse_Präsentation_neu 1.pdf](/img/user/02%20-%20RESOURCES/Files/13_LF04V2_Tag_4_Schutzbedarfsanalyse_Pr%C3%A4sentation_neu%201.pdf)
+[12_LF04V2_Tag_3_TOM_Präsentation_neu 1.pdf](/img/user/02%20-%20RESOURCES/Files/12_LF04V2_Tag_3_TOM_Pr%C3%A4sentation_neu%201.pdf)
+[11_LF04V2_Tag_3_Social Engineering_Präsentation_neu 1.pdf](/img/user/02%20-%20RESOURCES/Files/11_LF04V2_Tag_3_Social%20Engineering_Pr%C3%A4sentation_neu%201.pdf)
+[10_LF04V2_Tag_3_Malware_Präsentation_neu 1.pdf](/img/user/02%20-%20RESOURCES/Files/10_LF04V2_Tag_3_Malware_Pr%C3%A4sentation_neu%201.pdf)
+[09_LF04V2_Tag_2_Verschlüsselung + Kennwort + Hash Co_Präsentation_neu 1.pdf](/img/user/02%20-%20RESOURCES/Files/09_LF04V2_Tag_2_Verschl%C3%BCsselung%20+%20Kennwort%20+%20Hash%20Co_Pr%C3%A4sentation_neu%201.pdf)
+[08_LF04V2_Tag_2_Kryptographie + Verschlüsselungsziele Beispiele_Präsentation_neu 1.pdf](/img/user/02%20-%20RESOURCES/Files/08_LF04V2_Tag_2_Kryptographie%20+%20Verschl%C3%BCsselungsziele%20Beispiele_Pr%C3%A4sentation_neu%201.pdf)
+[07_LF04V2_Tag_2_Elementare Gefährdungen und Risiko_Präsentation_neu 1.pdf](/img/user/02%20-%20RESOURCES/Files/07_LF04V2_Tag_2_Elementare%20Gef%C3%A4hrdungen%20und%20Risiko_Pr%C3%A4sentation_neu%201.pdf)
+[06_LF04V2_Tag_1_IT Grundschutz und Ziele_Präsentation_neu 1.pdf](/img/user/02%20-%20RESOURCES/Files/06_LF04V2_Tag_1_IT%20Grundschutz%20und%20Ziele_Pr%C3%A4sentation_neu%201.pdf)
+[05_LF04V2_Tag_1_Gesetze Aufsichtsbehörden_Präsentation_neu 1.pdf](/img/user/02%20-%20RESOURCES/Files/05_LF04V2_Tag_1_Gesetze%20Aufsichtsbeh%C3%B6rden_Pr%C3%A4sentation_neu%201.pdf)
+[03_LF04V2_Tag_1_Informationsquellen_Präsentation_neu 1.pdf](/img/user/02%20-%20RESOURCES/Files/03_LF04V2_Tag_1_Informationsquellen_Pr%C3%A4sentation_neu%201.pdf)
+[02_LF04V2_Tag_1_IT-Sicherheit_Präsentation_neu 1.pdf](/img/user/02%20-%20RESOURCES/Files/02_LF04V2_Tag_1_IT-Sicherheit_Pr%C3%A4sentation_neu%201.pdf)
+[01_LF04V2_Tag_1_Kursüberblick_Präsentation_neu 1.pdf](/img/user/02%20-%20RESOURCES/Files/01_LF04V2_Tag_1_Kurs%C3%BCberblick_Pr%C3%A4sentation_neu%201.pdf)
 
 
 >Dieses Lernfeld führt dich in die Grundlagen der [[02 - RESOURCES/Notes/Cybersecurity\|Cybersecurity]] im Betrieb ein.
