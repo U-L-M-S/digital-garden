@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-use-case-akteur/","tags":["uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T13:58:25.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-use-case-akteur/","tags":["uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T13:58:25.000+01:00","dg-note-properties":{"aliases":["UML-Use-Case-Akteur","Use Case Akteur","Akteur","Actor"],"created_date":"2025-11-06","links":null,"tags":["uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"]}}
 ---
 
 >Ein **Akteur (Actor)** ist eine Person, Organisation oder externes System, das mit dem System interagiert.

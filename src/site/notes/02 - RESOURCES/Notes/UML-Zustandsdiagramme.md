@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-zustandsdiagramme/","tags":["ausbildung/gfn/ap1/vorbereitung","uml/zustandsdiagramm","informatik/softwareentwicklung"],"noteIcon":"","updated":"2025-11-06T11:48:14.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-zustandsdiagramme/","tags":["ausbildung/gfn/ap1/vorbereitung","uml/zustandsdiagramm","informatik/softwareentwicklung"],"noteIcon":"","updated":"2025-11-06T11:48:14.000+01:00","dg-note-properties":{"aliases":["Zustandsdiagramme","zustandsdiagramme","State Diagram","Zustandsautomat","State Machine Diagram"],"created_date":"2025-11-06","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","uml/zustandsdiagramm","informatik/softwareentwicklung"]}}
 ---
 
 >Ein **Zustandsdiagramm** ist ein [[02 - RESOURCES/Notes/UML\|UML]]-Diagramm, das das Verhalten eines Objekts über seinen gesamten Lebenszyklus darstellt, indem es die verschiedenen Zustände und die Übergänge zwischen diesen Zustände visualisiert.

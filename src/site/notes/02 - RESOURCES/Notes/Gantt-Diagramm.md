@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/gantt-diagramm/","tags":["projektmanagement","GFN/LFF4"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/gantt-diagramm/","tags":["projektmanagement","GFN/LFF4"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"aliases":["Gantt Diagramm"],"created":"2024-08-22 15:26","links":null,"path":"Notes","tags":["projektmanagement","GFN/LFF4"]}}
 ---
 
 >Es ist ein [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]-Werkzeug.

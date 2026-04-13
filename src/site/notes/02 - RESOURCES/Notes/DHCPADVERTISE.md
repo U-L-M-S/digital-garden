@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dhcpadvertise/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dhcpadvertise/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"tags":["informatik/netzwerk/ip/ipv6"],"aliases":["dHCPADVERTISE"],"links":null,"created_date":"2025-09-15"}}
 ---
 
 >Antwort des [[02 - RESOURCES/Notes/DHCPv6\|DHCPv6]]-Servers auf [[02 - RESOURCES/Notes/DHCPSOLICIT\|DHCPSOLICIT]] - "Ich bin da und kann dir helfen!"

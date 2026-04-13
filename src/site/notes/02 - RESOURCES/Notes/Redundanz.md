@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/redundanz/","tags":["informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:40:04.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/redundanz/","tags":["informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:40:04.000+01:00","dg-note-properties":{"created":"2024-06-26 09:21","links":null,"path":"Notes","tags":["informatik/datenbank","GFN/prüfungsrelevant/AP2"],"aliases":["Datenredundanz","Doppelte Daten"]}}
 ---
 
 >Redundanz ist die unnötige Wiederholung von Daten in einer Datenbank.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-jobs/","tags":["informatik/virtualisierung/kubernetes/jobs","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:30:48.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-jobs/","tags":["informatik/virtualisierung/kubernetes/jobs","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:30:48.000+01:00","dg-note-properties":{"aliases":["Kubernetes Jobs","K8s Job","CronJob","Batch Jobs"],"created_date":"2025-11-06","links":null,"tags":["informatik/virtualisierung/kubernetes/jobs","devops/kubernetes"]}}
 ---
 
 >**Jobs** in [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]] führen [[02 - RESOURCES/Notes/Kubernetes Pods\|Pods]] aus die eine Aufgabe abschließen und dann beenden.

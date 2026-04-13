@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/passwort-hashing/","tags":["kryptografie/passwort","sicherheit/authentifizierung","informatik/kryptographie"],"noteIcon":"","updated":"2025-11-24T11:31:19.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/passwort-hashing/","tags":["kryptografie/passwort","sicherheit/authentifizierung","informatik/kryptographie"],"noteIcon":"","updated":"2025-11-24T11:31:19.000+01:00","dg-note-properties":{"tags":["kryptografie/passwort","sicherheit/authentifizierung","informatik/kryptographie"],"aliases":["passwort-hashing","password hashing","bcrypt","argon2","scrypt","pbkdf2"],"links":["[[02 - RESOURCES/Notes/Kryptographie\|Kryptographie]]","[[02 - RESOURCES/Notes/Hash-Funktion\|Hash-Funktion]]","[[02 - RESOURCES/Notes/SHA-256\|SHA-256]]"],"created_date":"2025-11-07"}}
 ---
 
 
@@ -1048,8 +1048,8 @@ for pw in test_passwoerter:
 
 ## Verwandte Konzepte
 
-- [[Kryptographie]] - Übergeordnetes Thema
-- [[Hash-Funktion]] - Grundlagen
-- [[SHA-256]] - Normale Hash-Funktion (nicht für Passwörter!)
-- [[Digitale Signatur]] - Verwendet Hashes
-- [[TLS]] - Verwendet Passwort-Authentifizierung
+- [[02 - RESOURCES/Notes/Kryptographie\|Kryptographie]] - Übergeordnetes Thema
+- [[02 - RESOURCES/Notes/Hash-Funktion\|Hash-Funktion]] - Grundlagen
+- [[02 - RESOURCES/Notes/SHA-256\|SHA-256]] - Normale Hash-Funktion (nicht für Passwörter!)
+- [[02 - RESOURCES/Notes/Digitale Signatur\|Digitale Signatur]] - Verwendet Hashes
+- [[02 - RESOURCES/Notes/TLS\|TLS]] - Verwendet Passwort-Authentifizierung

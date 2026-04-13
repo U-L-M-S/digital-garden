@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/slaac/","tags":["informatik/netzwerk/protokoll","informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/slaac/","tags":["informatik/netzwerk/protokoll","informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"aliases":["Stateless Address Autoconfiguration"],"created":"2024-08-02 17:29","links":null,"tags":["informatik/netzwerk/protokoll","informatik/netzwerk/ip/ipv6"]}}
 ---
 
 > **SLAAC** = **Stateless Address Autoconfiguration**

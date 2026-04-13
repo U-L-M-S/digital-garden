@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bmc/","tags":["informatik/hardware/server"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bmc/","tags":["informatik/hardware/server"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00","dg-note-properties":{"created":"2023-09-24 21:57","links":null,"path":"Notes","tags":["informatik/hardware/server"]}}
 ---
 
 ## BMC

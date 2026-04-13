@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/usv/","tags":["elektrotechnik","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/usv/","tags":["elektrotechnik","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-24","links":null,"tags":["elektrotechnik","informatik/hardware"]}}
 ---
 
 > Schützt IT-Systeme vor **Stromausfällen** und anderen **Stromproblemen**.  

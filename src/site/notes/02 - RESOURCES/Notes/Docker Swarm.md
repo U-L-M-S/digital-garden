@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker-swarm/","tags":["informatik/virtualisierung/docker/orchestration","informatik/virtualisierung/docker/cluster"],"noteIcon":"","updated":"2025-11-06T15:43:56.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker-swarm/","tags":["informatik/virtualisierung/docker/orchestration","informatik/virtualisierung/docker/cluster"],"noteIcon":"","updated":"2025-11-06T15:43:56.000+01:00","dg-note-properties":{"aliases":["Docker Swarm","Swarm Mode","Docker Cluster"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker/orchestration","informatik/virtualisierung/docker/cluster"]}}
 ---
 
 >**Docker Swarm** ist Dockers eingebaute Lösung für Container-Orchestrierung über mehrere Hosts.

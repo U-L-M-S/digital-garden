@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/algorithmus/","tags":["algorithmus","informatik/code/algorithmus","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:21:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/algorithmus/","tags":["algorithmus","informatik/code/algorithmus","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:21:10.000+01:00","dg-note-properties":{"aliases":["Algo","algorithmus"],"created_date":"2024-10-21","links":null,"tags":["algorithmus","informatik/code/algorithmus","GFN/prüfungsrelevant/AP2"]}}
 ---
 
 

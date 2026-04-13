@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dhc-pv4/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dhc-pv4/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"aliases":["Dynamic Host Configuration Protocol"],"created":"2024-07-04 11:46","links":null,"path":["Notes"],"tags":["informatik/netzwerk/protokoll"]}}
 ---
 
 >Dynamic Host Configuration Protocol

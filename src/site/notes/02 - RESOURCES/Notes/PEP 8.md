@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pep-8/","tags":["informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pep-8/","tags":["informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":["Python Enhancement Proposal 8"],"created_date":"2025-01-20","links":["https://peps.python.org/pep-0008/"],"tags":["informatik/programmierung/sprachen/python"]}}
 ---
 
 >**Python Enhancement Proposal 8**
