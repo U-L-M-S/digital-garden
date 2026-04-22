@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-array-list/","tags":["grundlagen/array","informatik/code/java"],"noteIcon":"","updated":"2026-02-10T15:49:16.000+01:00","dg-note-properties":{"tags":["grundlagen/array","informatik/code/java"],"aliases":["java ArrayList"],"links":null,"created_date":"2026-02-10"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-array-list/","tags":["grundlagen/array","informatik/code/java"],"noteIcon":"","updated":"2026-02-10T15:49:16.000+01:00"}
 ---
 
 ```java

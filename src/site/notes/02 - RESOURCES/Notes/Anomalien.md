@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/anomalien/","tags":["datenbank/design","qualitaetssicherung/daten"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00","dg-note-properties":{"tags":["datenbank/design","qualitaetssicherung/daten"],"aliases":["Datenbank-Anomalien","Update-Anomalien","Einfüge-Anomalien"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/anomalien/","tags":["datenbank/design","qualitaetssicherung/daten"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00"}
 ---
 
 

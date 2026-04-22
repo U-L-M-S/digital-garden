@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/1-zu-n/","tags":["informatik/datenbank/kardinalität","informatik/er-modell","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-19T21:01:23.000+01:00","dg-note-properties":{"created":"2024-05-14 11:12","links":null,"tags":["informatik/datenbank/kardinalität","informatik/er-modell","GFN/prüfungsrelevant/AP2"],"aliases":["1:n","eins-zu-viele","one-to-many","n:1"],"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/1-zu-n/","tags":["informatik/datenbank/kardinalität","informatik/er-modell","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-19T21:01:23.031+01:00"}
 ---
 
 >Eine 1:n-Beziehung (eins-zu-viele) liegt vor, wenn eine Instanz einer Entität mit mehreren Instanzen einer anderen Entität verbunden sein kann.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/egp/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"aliases":["EGP","Exterior Gateway Protocol"],"created":"2024-07-23 14:24","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/egp/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
 ---
 
 > Exterior [[02 - RESOURCES/Notes/Gateway\|Gateway]] Protocol

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/second-level-support/","tags":["it-service/support","GFN/LF06"],"noteIcon":"","updated":"2025-11-05T13:13:15.000+01:00","dg-note-properties":{"tags":["it-service/support","GFN/LF06"],"aliases":["2nd Level Support","Level 2 Support","L2 Support"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/second-level-support/","tags":["it-service/support","GFN/LF06"],"noteIcon":"","updated":"2025-11-05T13:13:15.000+01:00"}
 ---
 
 

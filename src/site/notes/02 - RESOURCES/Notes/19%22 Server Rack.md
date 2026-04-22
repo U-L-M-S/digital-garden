@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/19-22-server-rack/","tags":["informatik/hardware/server"],"noteIcon":"","updated":"2025-10-29T12:59:01.000+01:00","dg-note-properties":{"tags":["informatik/hardware/server"],"aliases":["19\" Server Rack"],"links":null,"created_date":"2025-07-18"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/19-22-server-rack/","tags":["informatik/hardware/server"],"noteIcon":"","updated":"2025-10-29T12:59:01.000+01:00"}
 ---
 
 

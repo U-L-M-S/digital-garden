@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/autorisierung/","tags":["sicherheit/zugriff","berechtigungen/kontrolle"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00","dg-note-properties":{"tags":["sicherheit/zugriff","berechtigungen/kontrolle"],"aliases":["Authorization","Berechtigung","Zugriffssteuerung"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/autorisierung/","tags":["sicherheit/zugriff","berechtigungen/kontrolle"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00"}
 ---
 
 

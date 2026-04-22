@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/providern/","tags":["informatik/netzwerk/anbieter","informatik/netzwerk/internet/service"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk/anbieter","informatik/netzwerk/internet/service"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/providern/","tags":["informatik/netzwerk/anbieter","informatik/netzwerk/internet/service"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
 ---
 
 

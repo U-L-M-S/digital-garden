@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docsis/","tags":["informatik/netzwerk","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"aliases":["DOCSIS","Data Over Cable Service Interface"],"created":"2024-08-02 03:39","links":null,"path":"Notes","tags":["informatik/netzwerk","informatik/hardware"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/docsis/","tags":["informatik/netzwerk","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
 ---
 
-![DOCSIS-20240802053337672.png\|200](/img/user/02%20-%20RESOURCES/Files/IMG/DOCSIS-20240802053337672.png)
+![DOCSIS-20240802053337672.png|200](/img/user/02%20-%20RESOURCES/Files/IMG/DOCSIS-20240802053337672.png)
 >Data Over Cable Service Interface
 >>Daten über das Kabelnetz übertragen.
 

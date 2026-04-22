@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/tunneling/","tags":["netzwerk/protokolle","sicherheit/kapselung"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"tags":["netzwerk/protokolle","sicherheit/kapselung"],"aliases":["Protokoll-Tunneling","Network Tunneling"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/tunneling/","tags":["netzwerk/protokolle","sicherheit/kapselung"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
 ---
 
 

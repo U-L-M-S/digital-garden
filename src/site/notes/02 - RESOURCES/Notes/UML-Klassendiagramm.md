@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-klassendiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","ausbildung/gfn/ap2/vorbereitung","GFN/prüfungsrelevant/AP2","uml/klassendiagramm"],"noteIcon":"","updated":"2025-11-12T15:21:14.000+01:00","dg-note-properties":{"aliases":["UML Klassendiagramm","UML Class Diagram","UML class diagram","UML-Class-Diagram","UML Class-Diagram","Klassendiagramme"],"created_date":"2024-09-26","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","ausbildung/gfn/ap2/vorbereitung","GFN/prüfungsrelevant/AP2","uml/klassendiagramm"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-klassendiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","ausbildung/gfn/ap2/vorbereitung","GFN/prüfungsrelevant/AP2","uml/klassendiagramm"],"noteIcon":"","updated":"2025-11-12T15:21:14.000+01:00"}
 ---
 
 

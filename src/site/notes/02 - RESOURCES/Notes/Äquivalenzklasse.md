@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/aequivalenzklasse/","tags":["informatik/testing","informatik/qualitätssicherung","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:15:09.000+01:00","dg-note-properties":{"tags":["informatik/testing","informatik/qualitätssicherung","GFN/prüfungsrelevant/AP2"],"aliases":["Äquivalenzklassenbildung","Equivalence Class","Äquivalenzpartitionierung"],"links":null,"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/aequivalenzklasse/","tags":["informatik/testing","informatik/qualitätssicherung","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:15:09.000+01:00"}
 ---
 
 >Äquivalenzklassen sind Gruppen von Eingabewerten, die vom System gleich behandelt werden und daher als repräsentativ für die gesamte Gruppe getestet werden können.

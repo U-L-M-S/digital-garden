@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerkkarte/","tags":["informatik/netzwerk","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"created":"2024-07-02 09:00","links":null,"path":"Notes","tags":["informatik/netzwerk","informatik/hardware"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerkkarte/","tags":["informatik/netzwerk","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00"}
 ---
 
 > Hardware, der zuständig ist für die Kommunikation zwischen Rechner.

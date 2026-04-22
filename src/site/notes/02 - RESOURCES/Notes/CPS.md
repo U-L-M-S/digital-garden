@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/cps/","tags":["industrie40/systeme","AP2025/neu"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00","dg-note-properties":{"tags":["industrie40/systeme","AP2025/neu"],"aliases":["Cyber-Physical Systems","Cyber-physische Systeme","Vernetzte eingebettete Systeme"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/cps/","tags":["industrie40/systeme","AP2025/neu"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/katila/","noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"tags":null,"aliases":null,"links":null,"created_date":"2025-08-19"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/katila/","noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00"}
 ---
 
 ![image-105.png](/img/user/02%20-%20RESOURCES/Files/image-105.png)

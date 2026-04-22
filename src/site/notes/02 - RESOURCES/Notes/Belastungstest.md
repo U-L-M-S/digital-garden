@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/belastungstest/","tags":["testing/performance","qualitaetssicherung/last"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00","dg-note-properties":{"tags":["testing/performance","qualitaetssicherung/last"],"aliases":["Load Test","Stress Test","Performance-Belastung"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/belastungstest/","tags":["testing/performance","qualitaetssicherung/last"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00"}
 ---
 
 

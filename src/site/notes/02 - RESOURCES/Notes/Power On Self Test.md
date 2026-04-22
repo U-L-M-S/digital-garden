@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/power-on-self-test/","tags":["hardware/firmware","diagnostik/test"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"tags":["hardware/firmware","diagnostik/test"],"aliases":["Boot-Test"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/power-on-self-test/","tags":["hardware/firmware","diagnostik/test"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
 ---
 
 

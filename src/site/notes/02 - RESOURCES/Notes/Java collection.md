@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-collection/","tags":["informatik/code/java"],"noteIcon":"","updated":"2026-02-10T14:39:08.000+01:00","dg-note-properties":{"tags":["informatik/code/java"],"aliases":["java collection"],"links":null,"created_date":"2026-02-10"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-collection/","tags":["informatik/code/java"],"noteIcon":"","updated":"2026-02-10T14:39:08.000+01:00"}
 ---
 
 > Collections in [[02 - RESOURCES/Notes/Java\|Java]] sind alle Möglichkeiten wie wir mehrere Sachen speichern können.

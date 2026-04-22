@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uefi/","tags":["hardware/firmware","software/system"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"tags":["hardware/firmware","software/system"],"aliases":["Unified Extensible Firmware Interface","Moderne Firmware"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/uefi/","tags":["hardware/firmware","software/system"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
 ---
 
 

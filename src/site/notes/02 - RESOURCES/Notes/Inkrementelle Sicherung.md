@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/inkrementelle-sicherung/","tags":["informatik/backup/typ","sicherheit/it-sicherheit","änderungen/letztes-backup"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"created":"2025-08-27","aliases":["Inkrementelles Backup"],"links":"[[Backup-Strategien]]","path":"Notes","tags":["informatik/backup/typ","sicherheit/it-sicherheit","änderungen/letztes-backup"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/inkrementelle-sicherung/","tags":["informatik/backup/typ","sicherheit/it-sicherheit","änderungen/letztes-backup"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
 ---
 
 

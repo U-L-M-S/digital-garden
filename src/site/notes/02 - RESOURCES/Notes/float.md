@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/float/","tags":["informatik/code","speicher"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"aliases":["Float","float"],"created_date":"2024-08-25","links":null,"path":"Notes","tags":["informatik/code","speicher"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/float/","tags":["informatik/code","speicher"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
 ---
 
 >32 [[02 - RESOURCES/Notes/Bit\|Bit]]s

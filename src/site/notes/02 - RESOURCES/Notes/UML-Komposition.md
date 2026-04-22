@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-komposition/","tags":["uml/klassendiagramm","informatik/oop","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:12:03.000+01:00","dg-note-properties":{"aliases":["Komposition","UML Komposition"],"created_date":"2024-11-06","links":null,"tags":["uml/klassendiagramm","informatik/oop","GFN/prüfungsrelevant/AP2"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-komposition/","tags":["uml/klassendiagramm","informatik/oop","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:12:03.000+01:00"}
 ---
 
 >Komposition ist die stärkste Form einer "besteht-aus"-Beziehung, bei der das Teil-Objekt NICHT ohne das Ganze existieren kann.

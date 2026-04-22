@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/link-state-routing/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"aliases":["Link-State Routing","link-State Routing"],"created":"2024-07-24 14:40","links":null,"path":"Notes","tags":["informatik/netzwerk/protokoll"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/link-state-routing/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00"}
 ---
 
 >Nicht der kürzeste Weg ([[02 - RESOURCES/Notes/Hop\|Hop]]), sondern der schnellste Weg wird hier verwendet.

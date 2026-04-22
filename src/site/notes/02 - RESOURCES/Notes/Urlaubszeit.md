@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/urlaubszeit/","tags":[null],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"tags":[null],"links":null,"path":"Notes","created":"2024-02-06 22:35"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/urlaubszeit/","tags":[null],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
 ---
 
 # Jugendliche

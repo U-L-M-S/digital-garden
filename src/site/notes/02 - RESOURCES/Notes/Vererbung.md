@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/vererbung/","tags":["informatik/oop","informatik/java","informatik/uml","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:05:55.000+01:00","dg-note-properties":{"tags":["informatik/oop","informatik/java","informatik/uml","GFN/prüfungsrelevant/AP2"],"aliases":["Inheritance","Vererbung Java","extends"],"links":null,"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/vererbung/","tags":["informatik/oop","informatik/java","informatik/uml","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:05:55.000+01:00"}
 ---
 
 >Vererbung (Inheritance) ist ein Grundprinzip der Objektorientierung, bei dem eine Klasse (Kindklasse) Eigenschaften und Methoden einer anderen Klasse (Elternklasse) übernimmt.
@@ -360,7 +360,7 @@ HIERARCHIE:
 
 ## Verwandte Konzepte
 - [[02 - RESOURCES/Notes/UML-Assoziation\|UML-Assoziation]] - Andere UML-Beziehung
-- [[02 - RESOURCES/Notes/UML-Komposition\|UML-Komposition]] - HAS-A Beziehung
+- [[UML-Komposition]] - HAS-A Beziehung
 - [[02 - RESOURCES/Notes/UML-Aggregation\|UML-Aggregation]] - Schwache HAS-A Beziehung
 - [[Polymorphismus\|Polymorphismus]] - Vielgestaltigkeit (nutzt Vererbung)
 - [[Abstrakte Klasse\|Abstrakte Klasse]] - Spezielle Elternklasse

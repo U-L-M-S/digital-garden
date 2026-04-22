@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-daemon-sets/","tags":["informatik/virtualisierung/kubernetes/daemonsets","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:30:47.000+01:00","dg-note-properties":{"aliases":["Kubernetes DaemonSets","K8s DaemonSet","DaemonSet"],"created_date":"2025-11-06","links":null,"tags":["informatik/virtualisierung/kubernetes/daemonsets","devops/kubernetes"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-daemon-sets/","tags":["informatik/virtualisierung/kubernetes/daemonsets","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:30:47.000+01:00"}
 ---
 
 >**DaemonSets** stellen sicher dass auf jedem Node (oder ausgewählten Nodes) genau ein [[02 - RESOURCES/Notes/Kubernetes Pods\|Pod]] läuft.

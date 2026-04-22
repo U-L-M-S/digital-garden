@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ids/","tags":["informatik/sicherheit/ids","informatik/netzwerk"],"noteIcon":"","updated":"2025-11-07T11:31:43.000+01:00","dg-note-properties":{"aliases":["Intrusion Detection System"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit/ids","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/ids/","tags":["informatik/sicherheit/ids","informatik/netzwerk"],"noteIcon":"","updated":"2025-11-07T11:31:43.000+01:00"}
 ---
 
 > Intrusion Detection System

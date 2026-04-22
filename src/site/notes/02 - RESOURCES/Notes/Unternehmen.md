@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/unternehmen/","tags":["GFN/LF01","ausbildung/gfn/ap1","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"created":"2023-10-14 12:20","links":null,"path":"Notes","tags":["GFN/LF01","ausbildung/gfn/ap1","wirtschaft/bwl"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/unternehmen/","tags":["GFN/LF01","ausbildung/gfn/ap1","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
 ---
 
 ## Unternehmen

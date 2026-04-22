@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/if-bedingung/","tags":["informatik/code"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"aliases":["IF-Bedingung"],"created_date":"2024-10-25","links":null,"tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/if-bedingung/","tags":["informatik/code"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
 ---
 
 >Eine `if`-Bedingung prüft, ob eine bestimmte Bedingung wahr ist. 

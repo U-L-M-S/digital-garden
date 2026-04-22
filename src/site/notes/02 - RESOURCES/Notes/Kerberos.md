@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kerberos/","tags":["AP2025/neu","netzwerk/protokolle","sicherheit/authentifizierung"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"tags":["AP2025/neu","netzwerk/protokolle","sicherheit/authentifizierung"],"aliases":["Kerberos-Protokoll","Network Authentication"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/kerberos/","tags":["AP2025/neu","netzwerk/protokolle","sicherheit/authentifizierung"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00"}
 ---
 
 

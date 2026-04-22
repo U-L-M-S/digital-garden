@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ecc-speicher/","tags":["hardware/speicher","sicherheit/datenintegrität","server/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"tags":["hardware/speicher","sicherheit/datenintegrität","server/hardware"],"aliases":["Error Correcting Code","Fehlerkorrigierender Speicher"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/ecc-speicher/","tags":["hardware/speicher","sicherheit/datenintegrität","server/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
 ---
 
 

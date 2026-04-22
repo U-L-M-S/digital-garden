@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/gateway/","tags":["informatik/netzwerk/gateway"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"created":"2023-09-13 15:11","links":null,"path":"Notes","tags":["informatik/netzwerk/gateway"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/gateway/","tags":["informatik/netzwerk/gateway"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
 ---
 
 ## gateway 
@@ -18,7 +18,7 @@ Man soll Hauptsächlich nur ein Begriff kennen lernen wenn es um [[02 - RESOURCE
 >[!note] 
 >Wenn ein [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]] nicht in das Netz verbunden ist. Ist die Aufgabe der [[02 - RESOURCES/Notes/Router\|Router]] die [[02 - RESOURCES/Notes/IP\|IP]]s zu vergeben. Viele moderne [[02 - RESOURCES/Notes/Router\|Router]] haben eine [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]] in sich.
 
-![Router-20240722190813246.png\|280](/img/user/02%20-%20RESOURCES/Files/IMG/Router-20240722190813246.png)![Router-20240723100123014.png\|275](/img/user/02%20-%20RESOURCES/Files/IMG/Router-20240723100123014.png)
+![Router-20240722190813246.png|280](/img/user/02%20-%20RESOURCES/Files/IMG/Router-20240722190813246.png)![Router-20240723100123014.png|275](/img/user/02%20-%20RESOURCES/Files/IMG/Router-20240723100123014.png)
 >[!note] 
 >Standartig ist der [[02 - RESOURCES/Notes/Router\|Router]]-[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] das erste [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] nach den [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] **ODER** ein vor den [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]-[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]
 

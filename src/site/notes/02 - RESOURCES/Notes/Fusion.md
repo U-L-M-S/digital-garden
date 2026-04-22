@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/fusion/","tags":[null],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"tags":[null],"links":null,"path":"Notes","created":"2024-02-07 21:49"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/fusion/","tags":[null],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
 ---
 
 >[[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]szusammenschluss. Zwei [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] werden zu eins.

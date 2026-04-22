@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-config-maps/","tags":["informatik/virtualisierung/kubernetes/config","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:19:07.000+01:00","dg-note-properties":{"aliases":["Kubernetes ConfigMaps","K8s ConfigMap","ConfigMap"],"created_date":"2025-11-06","links":null,"tags":["informatik/virtualisierung/kubernetes/config","devops/kubernetes"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-config-maps/","tags":["informatik/virtualisierung/kubernetes/config","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:19:07.000+01:00"}
 ---
 
 >**ConfigMaps** in [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]] speichern nicht-vertrauliche Konfigurationsdaten in Key-Value Paaren.

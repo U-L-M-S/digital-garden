@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml/","tags":["ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","uml"],"noteIcon":"","updated":"2025-11-12T15:21:12.000+01:00","dg-note-properties":{"aliases":["Unified Modeling Language","uml"],"created_date":"2024-09-26","links":null,"tags":["ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","uml"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml/","tags":["ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","uml"],"noteIcon":"","updated":"2025-11-12T15:21:12.000+01:00"}
 ---
 
 

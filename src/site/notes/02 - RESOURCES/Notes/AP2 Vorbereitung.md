@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-vorbereitung/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-10T15:13:47.000+01:00","dg-note-properties":{"tags":["ausbildung/gfn/ap2/vorbereitung"],"aliases":null,"links":null,"created_date":"2025-10-31"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-vorbereitung/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-10T15:13:47.000+01:00"}
 ---
 
 > Die AP2-Prüfung ist in zwei Teile aufgeteilt: einen schriftlichen und einen mündlichen Teil.

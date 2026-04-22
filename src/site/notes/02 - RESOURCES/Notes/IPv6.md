@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["ausbildung/gfn/ap1","informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"created":"2023-09-13 11:07","links":"https://www.youtube.com/watch?v=NfrGNngigFU","path":"Notes","tags":["ausbildung/gfn/ap1","informatik/netzwerk/ip/ipv6"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["ausbildung/gfn/ap1","informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00"}
 ---
 
 >128-[[02 - RESOURCES/Notes/Bit\|bit]]-[[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en, die in [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt werden und 
@@ -118,7 +118,7 @@ indem man die ersten Bits der Adresse betrachtet.
 >>- [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] und [[02 - RESOURCES/Notes/Bit\|Bit]]s-Umsetzung passiert in die [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] Bereich.
 >>- [[02 - RESOURCES/Notes/IPv6\|IPv6]] ist nicht 32 [[02 - RESOURCES/Notes/Bit\|Bit]]slang, sonder 128. 
 >>  Daher es ist nur [[02 - RESOURCES/Notes/Bit\|Bit]]s-Zahlen, die in [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt sind.
->$$2^{128}$$
+>$2^{128}$
 
 
 
@@ -126,7 +126,7 @@ indem man die ersten Bits der Adresse betrachtet.
 >FD00::/50 in 4 Subnetze  
 >Lass uns erstmal prüfen mit welchen [[02 - RESOURCES/Notes/Bit\|Bit]]s wir arbeiten müssen.
 >Jeder Block entspricht 16 [[02 - RESOURCES/Notes/Bit\|Bit]]s.
->$$50-48(\text{3 Blöcke})=2$$
+>$50-48(\text{3 Blöcke})=2$
 >3 Blöcke + 2 [[02 - RESOURCES/Notes/Bit\|Bit]]s. Das heißt:
 >
 >
@@ -145,7 +145,7 @@ indem man die ersten Bits der Adresse betrachtet.
 >Und jetzt müssen wir das [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] erweitern mit 2 [[02 - RESOURCES/Notes/Bit\|Bit]]s (4 Subnetze ).
 >>**Ja. Ganz genau! So wie bei [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]] ([[02 - RESOURCES/Notes/Bit\|Bit]]serweiterung), werden wir diese 2 [[02 - RESOURCES/Notes/Bit\|Bit]]s hier verwenden für die [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]verteilung.** 
 >
->$$2^{2}=4$$
+>$2^{2}=4$
 >
 >Das heißt:
 >
@@ -200,7 +200,7 @@ indem man die ersten Bits der Adresse betrachtet.
 >[!example] Beispiel 2
 >FE80:0:3a:: /56 in 8 [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e
 >Gleiche Schema wie vorher, lass uns  nachschauen mit welche [[02 - RESOURCES/Notes/Bit\|Bit]]/Block wir zutun haben.
->$$56-48(\text{3 Blöcke})=8$$
+>$56-48(\text{3 Blöcke})=8$
 >3 Blocks und 8 Bits
 >
 >|  <mark style="background: #BBFABBA6;">FD00</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003a</mark> | <mark style="background: #BBFABBA6;">00</mark>00 |
@@ -208,7 +208,7 @@ indem man die ersten Bits der Adresse betrachtet.
 >| 16     |  16   |  16    |  4+4   |
 >
 >und jetzt das [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] um 3 [[02 - RESOURCES/Notes/Bit\|Bit]]s erweitern (8 [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e).
->$$2^{3}=8$$
+>$2^{3}=8$
 >
 >FE80:0:3A:: /59
 >
@@ -246,7 +246,7 @@ indem man die ersten Bits der Adresse betrachtet.
 >[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]: FE80:0:3A:: /59 
 >In 8 Subnetze einteilen
 >
->$$59=16-16-16=11$$
+>$59=16-16-16=11$
 >3 Blöcke und 11 Bits
 >
 >>|  <mark style="background: #BBFABBA6;">FE80</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003A</mark> | <mark style="background: #BBFABBA6;">00</mark>00 |
@@ -261,9 +261,9 @@ indem man die ersten Bits der Adresse betrachtet.
 >| 16   | 32   | 48   | 52      56       59 |
 >
 >8 [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]
->$$2^{3}=8$$
+>$2^{3}=8$
 >
->$$59+3=62$$
+>$59+3=62$
 >
 >| <mark style="background: #BBFABBA6;">FE80</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003a</mark> |   <mark style="background: #BBFABBA6;">0        0 </mark>       <mark style="background: #D2B3FFA6;">0        0</mark>  |
 >| ---- | ---- | ---- | ----- |

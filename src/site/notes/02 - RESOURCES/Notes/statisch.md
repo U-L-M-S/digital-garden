@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/statisch/","noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"tags":[],"links":null,"path":"Notes","created":"2024-06-23 11:17"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/statisch/","noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
 ---
 
 > Adjektiv für 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/angebot/","tags":["markt/mechanismus","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:20:20.000+01:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["markt/mechanismus","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"aliases":["Angebotsmenge","Verkaufsangebot"],"links":null,"created_date":"2025-08-26"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/angebot/","tags":["markt/mechanismus","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:20:20.000+01:00"}
 ---
 
 >Ein Angebot ist die Menge an Produkten oder Dienstleistungen, die Verkäufer zu bestimmten Preisen verkaufen möchten.
