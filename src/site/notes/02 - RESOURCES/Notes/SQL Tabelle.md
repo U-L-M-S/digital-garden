@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-tabelle/","tags":["informatik/code/SQL","informatik/datenbank"],"noteIcon":"","updated":"2025-11-10T13:47:01.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-tabelle/","tags":["informatik/code/SQL","informatik/datenbank"],"noteIcon":"","updated":"2025-11-10T13:47:01.000+01:00","dg-note-properties":{"aliases":["SQL Tabelle","SQL Table"],"created_date":"2024-10-09","links":null,"tags":["informatik/code/SQL","informatik/datenbank"]}}
 ---
 
 ```sql

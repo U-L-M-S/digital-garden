@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/duale-system/","tags":["GFN/LF01","ausbildung/gfn/ap1"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/duale-system/","tags":["GFN/LF01","ausbildung/gfn/ap1"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"created":"2024-02-06 22:00","links":null,"path":"Notes","tags":["GFN/LF01","ausbildung/gfn/ap1"]}}
 ---
 
 >System, der verwendet wird im Deutschland während die Ausbildung, Es wird über das [[02 - RESOURCES/Notes/BBiG\|BBiG]] geregelt.

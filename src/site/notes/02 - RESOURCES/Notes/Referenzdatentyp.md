@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/referenzdatentyp/","tags":["informatik/code"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/referenzdatentyp/","tags":["informatik/code"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":["Referenzdatentyp"],"created_date":"2024-10-22","links":null,"tags":["informatik/code"]}}
 ---
 
 >Ein **Referenzdatentyp** ist ein [[02 - RESOURCES/Notes/Datentyp\|Datentyp]], der auf Objekte oder Datenstrukturen verweist, anstatt die Werte direkt zu speichern. 

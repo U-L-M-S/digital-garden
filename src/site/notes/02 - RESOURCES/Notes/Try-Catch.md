@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/try-catch/","tags":["informatik/code","informatik/programmierung","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:34:06.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/try-catch/","tags":["informatik/code","informatik/programmierung","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:34:06.000+01:00","dg-note-properties":{"tags":["informatik/code","informatik/programmierung","GFN/prüfungsrelevant/AP2"],"aliases":["try catch","Try-Catch-Block","Exception Handling"],"links":null,"created_date":"2025-11-12"}}
 ---
 
 >Try-Catch ist ein Konstrukt zur Behandlung von [[02 - RESOURCES/Notes/Exception\|Exception]]s (Ausnahmen) in der Programmierung.

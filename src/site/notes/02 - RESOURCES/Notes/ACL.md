@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/acl/","tags":["informatik/netzwerk/firewall","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:01.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/acl/","tags":["informatik/netzwerk/firewall","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:01.000+01:00","dg-note-properties":{"aliases":["ACL","Access Control List"],"created":"2024-08-02 18:31","links":null,"path":"Notes","tags":["informatik/netzwerk/firewall","sicherheit/it-sicherheit"]}}
 ---
 
 ![ACL-20240804000247511.png](/img/user/02%20-%20RESOURCES/Files/IMG/ACL-20240804000247511.png)

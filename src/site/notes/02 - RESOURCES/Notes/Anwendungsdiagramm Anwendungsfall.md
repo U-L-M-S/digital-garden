@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/anwendungsdiagramm-anwendungsfall/","tags":["uml/anwendungsdiagramm"],"noteIcon":"","updated":"2025-11-12T08:53:17.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/anwendungsdiagramm-anwendungsfall/","tags":["uml/anwendungsdiagramm"],"noteIcon":"","updated":"2025-11-12T08:53:17.000+01:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-21","links":null,"tags":["uml/anwendungsdiagramm"]}}
 ---
 
 >Es ist Ovale mit der Beschreibung der Funktion.

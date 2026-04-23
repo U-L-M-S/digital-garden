@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2025-10-01T10:14:17.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/zusatzqualifikation/l-fzq3a-agile-scrum-foundation/","tags":["GFN/LFzq3a"],"noteIcon":"","updated":"2025-10-01T10:14:17.000+02:00","dg-note-properties":{"tags":["GFN/LFzq3a"],"links":["https://lernplattform.gfn.de/course/view.php?id=15094","https://scrumguides.org/","https://www.examtopics.com/exams/exin/ex0-008/view/#"],"created_date":"2024-11-10"}}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[02 - RESOURCES/Notes/Scrum\|Scrum]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/berechtigungskonzepte/","tags":["sicherheit/zugriff","access-management/kontrolle"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/berechtigungskonzepte/","tags":["sicherheit/zugriff","access-management/kontrolle"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00","dg-note-properties":{"tags":["sicherheit/zugriff","access-management/kontrolle"],"aliases":["Access Control","Zugriffskonzepte","Permission Management"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

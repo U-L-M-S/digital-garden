@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/security-by-design/","tags":["sicherheit/konzepte","softwareentwicklung/prinzipien"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/security-by-design/","tags":["sicherheit/konzepte","softwareentwicklung/prinzipien"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"tags":["sicherheit/konzepte","softwareentwicklung/prinzipien"],"aliases":["Sicherheit durch Design","Secure by Design","Privacy by Design"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

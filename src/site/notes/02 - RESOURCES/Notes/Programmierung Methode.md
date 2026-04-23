@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/programmierung-methode/","tags":["informatik/code/OOP","projektmanagement"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/programmierung-methode/","tags":["informatik/code/OOP","projektmanagement"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"created":"2024-06-24 12:49","links":null,"path":["Notes"],"tags":["informatik/code/OOP","projektmanagement"]}}
 ---
 
 >Eine **Methode** ist ein systematischer, geordneter und oft wiederholbarer Ansatz, um ein bestimmtes Ziel zu erreichen oder ein Problem zu lösen. Sie beschreibt den Weg, den man geht, um eine Aufgabe zu erledigen, und umfasst eine Reihe von Schritten oder Handlungen, die in einer bestimmten Reihenfolge ausgeführt werden.

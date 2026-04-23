@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/geraeteverwaltung/","tags":["software/betriebssystem","hardware/treiber"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/geraeteverwaltung/","tags":["software/betriebssystem","hardware/treiber"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"tags":["software/betriebssystem","hardware/treiber"],"aliases":["Device Management","Hardware-Verwaltung"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 

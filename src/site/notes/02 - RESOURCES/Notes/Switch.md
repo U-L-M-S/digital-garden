@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/switch/","tags":["GFN/LF03","GFN/LF09","ausbildung/gfn/ap1","informatik/hardware","informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/switch/","tags":["GFN/LF03","GFN/LF09","ausbildung/gfn/ap1","informatik/hardware","informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"aliases":null,"created":"2024-07-15 15:43","links":null,"tags":["GFN/LF03","GFN/LF09","ausbildung/gfn/ap1","informatik/hardware","informatik/netzwerk"]}}
 ---
 
 >[[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]gäret, das Datenpakete basierend auf [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]] and die richtigen Ports weiterleitet, wenn der Empfänger nicht in die Liste eingetragen ist wird das Datenpakete an allen weitergeleitet ([[02 - RESOURCES/Notes/Broadcast\|Broadcast]]). Hier sind die 'Ports', die Switch-Anschlüsse gemeint.
 >>Es arbeitet in die [[02 - RESOURCES/Notes/Layer 2\|Layer 2]] und sorgt noch dafür die effiziente Kommunikation innerhalb eines lokalen [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]s.
 
-![Switch-20240715155812018.png|147](/img/user/02%20-%20RESOURCES/Files/IMG/Switch-20240715155812018.png) ![Switch-20240715160016523.png|150](/img/user/02%20-%20RESOURCES/Files/IMG/Switch-20240715160016523.png)
+![Switch-20240715155812018.png\|147](/img/user/02%20-%20RESOURCES/Files/IMG/Switch-20240715155812018.png) ![Switch-20240715160016523.png\|150](/img/user/02%20-%20RESOURCES/Files/IMG/Switch-20240715160016523.png)
 
 
 

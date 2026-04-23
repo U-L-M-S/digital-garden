@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rechenwerk/","tags":["hardware/cpu","informatik/architektur"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/rechenwerk/","tags":["hardware/cpu","informatik/architektur"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"tags":["hardware/cpu","informatik/architektur"],"aliases":["ALU","Arithmetic Logic Unit","Recheneinheit"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 

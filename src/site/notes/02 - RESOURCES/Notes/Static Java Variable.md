@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/static-java-variable/","tags":["GFN/LF11","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/static-java-variable/","tags":["GFN/LF11","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"aliases":["Static Java Variable","static Java Variable"],"created_date":"2024-10-21","links":null,"tags":["GFN/LF11","informatik/programmierung/sprachen/java"]}}
 ---
 
 >So wie bei [[02 - RESOURCES/Notes/Static Java Methode\|Static Java Methode]] funktioniert es hier genau gleich.

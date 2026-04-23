@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-use-case-generalisierung/","tags":["uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T16:00:26.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-use-case-generalisierung/","tags":["uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T16:00:26.000+01:00","dg-note-properties":{"aliases":["UML-Use-Case-Generalisierung","Generalisierung","Generalization","Vererbung bei Use Cases"],"created_date":"2025-11-06","links":null,"tags":["uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"]}}
 ---
 
 >**Generalisierung** (auch Vererbung genannt) zeigt eine **"ist-ein"**-Beziehung zwischen Use Cases oder Akteuren.

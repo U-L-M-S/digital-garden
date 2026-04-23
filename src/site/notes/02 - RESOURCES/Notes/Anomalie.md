@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/anomalie/","tags":["informatik/datenbank","informatik"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/anomalie/","tags":["informatik/datenbank","informatik"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00","dg-note-properties":{"created":"2024-06-26 09:02","links":null,"path":"Notes","tags":["informatik/datenbank","informatik"]}}
 ---
 
 >In der Informatik/Datenbank bezeichnet man als Anomalie alle Arten von fehlerhaften Daten.

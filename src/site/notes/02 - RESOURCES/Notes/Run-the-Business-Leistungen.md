@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/run-the-business-leistungen/","tags":["it-service/service-arten","GFN/LF06","itsm/grundlagen"],"noteIcon":"","updated":"2025-11-05T13:09:11.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/run-the-business-leistungen/","tags":["it-service/service-arten","GFN/LF06","itsm/grundlagen"],"noteIcon":"","updated":"2025-11-05T13:09:11.000+01:00","dg-note-properties":{"tags":["it-service/service-arten","GFN/LF06","itsm/grundlagen"],"aliases":["Run the Business","RTB-Leistungen","Betriebsleistungen"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

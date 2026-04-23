@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/singleton/","tags":["design-patterns/erzeugung","oop/instanziierung"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/singleton/","tags":["design-patterns/erzeugung","oop/instanziierung"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"tags":["design-patterns/erzeugung","oop/instanziierung"],"aliases":["Singleton-Pattern","Einzelstück-Muster"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

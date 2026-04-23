@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/python-installieren/","tags":["informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/python-installieren/","tags":["informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":["Python installieren","Python-Installieren"],"created":"2024-08-16 17:53","links":"https://www.python.org/downloads/","path":"Notes","tags":["informatik/programmierung/sprachen/python"]}}
 ---
 
 >Es kann überall verwendet werden.

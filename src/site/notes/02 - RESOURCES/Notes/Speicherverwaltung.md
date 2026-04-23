@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/speicherverwaltung/","tags":["software/betriebssystem","informatik/speicher"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/speicherverwaltung/","tags":["software/betriebssystem","informatik/speicher"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"tags":["software/betriebssystem","informatik/speicher"],"aliases":["Memory Management","RAM-Verwaltung"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 

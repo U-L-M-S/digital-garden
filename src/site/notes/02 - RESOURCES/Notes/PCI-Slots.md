@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pci-slots/","tags":["hardware/mainboard","hardware/erweiterung"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pci-slots/","tags":["hardware/mainboard","hardware/erweiterung"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"tags":["hardware/mainboard","hardware/erweiterung"],"aliases":["PCI-Express","PCIe-Slots","Erweiterungsslots"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 

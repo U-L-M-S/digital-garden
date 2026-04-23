@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/factory/","tags":["design-patterns/erzeugung","oop/objekterstellung"],"noteIcon":"","updated":"2025-11-07T15:10:45.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/factory/","tags":["design-patterns/erzeugung","oop/objekterstellung"],"noteIcon":"","updated":"2025-11-07T15:10:45.000+01:00","dg-note-properties":{"tags":["design-patterns/erzeugung","oop/objekterstellung"],"aliases":["Factory-Pattern","Factory Pattern","Fabrik-Muster","Factory Method"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

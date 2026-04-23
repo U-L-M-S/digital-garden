@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/entwicklung-und-umsetzung-von-algorithmen/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-06T11:14:43.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/entwicklung-und-umsetzung-von-algorithmen/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-06T11:14:43.000+01:00","dg-note-properties":{"tags":["ausbildung/gfn/ap2/vorbereitung"],"aliases":null,"links":null,"created_date":"2025-11-06"}}
 ---
 
 

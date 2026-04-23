@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/active-directory-und-gp-os/","tags":["informatik/netzwerk","informatik/server/windows","GFN/LF10/FISI"],"noteIcon":"","updated":"2025-10-29T12:59:01.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/active-directory-und-gp-os/","tags":["informatik/netzwerk","informatik/server/windows","GFN/LF10/FISI"],"noteIcon":"","updated":"2025-10-29T12:59:01.000+01:00","dg-note-properties":{"tags":["informatik/netzwerk","informatik/server/windows","GFN/LF10/FISI"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
 ---
 
 # Active Directory und GPOs

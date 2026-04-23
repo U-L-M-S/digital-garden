@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-11-funktionalitaet-in-anwendungen-realisieren/","tags":["GFN/LF11"],"noteIcon":"","updated":"2025-09-16T14:40:37.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2/lf-11-funktionalitaet-in-anwendungen-realisieren/","tags":["GFN/LF11"],"noteIcon":"","updated":"2025-09-16T14:40:37.000+02:00","dg-note-properties":{"tags":["GFN/LF11"],"links":"https://lernplattform.gfn.de/course/view.php?id=14381","created_date":"2024-09-16"}}
 ---
 
 > Dieses Lernfeld 11a bringt dir bei, wie du richtige [[02 - RESOURCES/Notes/Software\|Software]] entwickelst - von der ersten Idee bis zum fertigen Programm.

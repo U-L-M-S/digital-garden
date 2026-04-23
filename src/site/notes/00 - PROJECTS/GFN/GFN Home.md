@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2026-04-23T02:01:23.166+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2026-04-23T02:01:23.000+02:00","dg-note-properties":{"tags":["GFN","gardenEntry"],"links":["https://gfn.uinclis.de/"],"created":"2024-06-07 16:23"}}
 ---
 
 # Hallo zusammen 😄 
@@ -9,7 +9,7 @@
 >>PS: Alle Zusammenfassungen wurde von mir erstellt (Jemand der deutsch nicht als Muttersprachen hat). 
 >>Mit andere Wörter: erwartet nicht von mir ein **super**-hochdeutsch (Das heißt meine Satzbildung so einfach sein wird, dass sogar Ausländer die verstehen können).
 
-[[22.01.2024_PRV_ Freiburg_FIAE_Stand 06.02.2025.pdf]]
+[22.01.2024_PRV_ Freiburg_FIAE_Stand 06.02.2025.pdf](/img/user/02%20-%20RESOURCES/Files/22.01.2024_PRV_%20Freiburg_FIAE_Stand%2006.02.2025.pdf)
 
 Verbesserungsvorschläge könnt ihr gern auf mein [GitHub](https://github.com/U-L-M-S/digital-garden) pushen.
 

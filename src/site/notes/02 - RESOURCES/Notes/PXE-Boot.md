@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pxe-boot/","tags":["netzwerk/boot","GFN/LF06","system-administration"],"noteIcon":"","updated":"2025-11-05T13:17:53.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pxe-boot/","tags":["netzwerk/boot","GFN/LF06","system-administration"],"noteIcon":"","updated":"2025-11-05T13:17:53.000+01:00","dg-note-properties":{"tags":["netzwerk/boot","GFN/LF06","system-administration"],"aliases":["PXE","Preboot Execution Environment","Network Boot"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 
@@ -213,7 +213,7 @@ cp /usr/lib/syslinux/pxelinux.0 /srv/tftp/
 
 >[!important] Für LF06 wichtig
 >- **Definition**: Boot über [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]
->- **Komponenten**: [[DHCP-Server]], [[TFTP-Server]], Boot-Image
+>- **Komponenten**: [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]], [[TFTP-Server\|TFTP-Server]], Boot-Image
 >- **Anwendung**: Mass-Deployment, Diagnose, Installation
 >- **Sicherheit**: TFTP unverschlüsselt
 
@@ -222,8 +222,8 @@ cp /usr/lib/syslinux/pxelinux.0 /srv/tftp/
 
 ## Verwandte Konzepte
 
-- [[DHCP-Server]] - Verteilt [[IP-Adresse]]n und Boot-Info
-- [[TFTP-Server]] - Liefert Boot-Dateien
+- [[02 - RESOURCES/Notes/DHCP-Server\|DHCP-Server]] - Verteilt [[02 - RESOURCES/Notes/IP-Adresse\|IP-Adresse]]n und Boot-Info
+- [[TFTP-Server\|TFTP-Server]] - Liefert Boot-Dateien
 - WDS - Windows Deployment Services
 - [[Netboot\|Netboot]] - Generischer Begriff
 - [[Diskless Workstation\|Diskless Workstation]] - [[PC\|PC]] ohne Festplatte

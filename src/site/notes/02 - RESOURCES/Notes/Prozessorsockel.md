@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/prozessorsockel/","tags":["hardware/mainboard","hardware/cpu"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/prozessorsockel/","tags":["hardware/mainboard","hardware/cpu"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"tags":["hardware/mainboard","hardware/cpu"],"aliases":["CPU-Sockel","CPU-Socket"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 

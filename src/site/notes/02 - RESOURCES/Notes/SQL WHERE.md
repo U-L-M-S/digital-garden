@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-where/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:37:00.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-where/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:37:00.000+01:00","dg-note-properties":{"aliases":["SQL WHERE"],"created_date":"2024-10-11","links":null,"tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"]}}
 ---
 
 >WHERE ist die Filterbedingung in [[02 - RESOURCES/Notes/SQL\|SQL]] - das **IF** der Datenbankabfragen.

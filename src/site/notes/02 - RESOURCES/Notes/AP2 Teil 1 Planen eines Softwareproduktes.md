@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-teil-1-planen-eines-softwareproduktes/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2026-04-14T22:24:23.930+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-2-teil-1-planen-eines-softwareproduktes/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2026-04-14T22:24:23.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn/ap2/vorbereitung"],"aliases":null,"links":null,"created_date":"2026-04-14"}}
 ---
 
 

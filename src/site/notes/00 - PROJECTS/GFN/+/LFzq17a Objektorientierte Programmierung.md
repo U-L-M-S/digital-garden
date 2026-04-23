@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn//l-fzq17a-objektorientierte-programmierung/","tags":["GFN/LFzq17a","informatik/code/java","informatik/code/OOP"],"noteIcon":"","updated":"2025-09-10T16:32:54.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn//l-fzq17a-objektorientierte-programmierung/","tags":["GFN/LFzq17a","informatik/code/java","informatik/code/OOP"],"noteIcon":"","updated":"2025-09-10T16:32:54.000+02:00","dg-note-properties":{"tags":["GFN/LFzq17a","informatik/code/java","informatik/code/OOP"],"links":["https://lernplattform.gfn.de/course/view.php?id=14978"],"created_date":"2024-10-21"}}
 ---
 
 >[!important] 

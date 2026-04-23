@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dmz/","tags":["informatik/netzwerk/firewall","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dmz/","tags":["informatik/netzwerk/firewall","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"aliases":["DMZ","Demilitarisierte Zone"],"created":"2024-08-03 23:55","links":null,"path":"Notes","tags":["informatik/netzwerk/firewall","sicherheit/it-sicherheit"]}}
 ---
 
 ![DMZ-20240804000213781.png](/img/user/02%20-%20RESOURCES/Files/IMG/DMZ-20240804000213781.png)

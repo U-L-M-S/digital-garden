@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/quicksort/","tags":["informatik/code/C","informatik/code/algorithmus","informatik/code/time-complexity","informatik/programmierung/sprachen/java","informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/quicksort/","tags":["informatik/code/C","informatik/code/algorithmus","informatik/code/time-complexity","informatik/programmierung/sprachen/java","informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":["quicksort"],"created_date":"2024-10-30","links":null,"tags":["informatik/code/C","informatik/code/algorithmus","informatik/code/time-complexity","informatik/programmierung/sprachen/java","informatik/programmierung/sprachen/python"]}}
 ---
 
 >Quicksort ist ein effizienter, rekursiver Sortieralgorithmus, der das Prinzip des Teilens und Herrschens anwendet. 

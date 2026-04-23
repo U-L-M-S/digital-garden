@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["GFN/LF09","informatik/netzwerk","finished"],"noteIcon":"","updated":"2025-09-15T15:52:55.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-1/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["GFN/LF09","informatik/netzwerk","finished"],"noteIcon":"","updated":"2025-09-15T15:52:55.000+02:00","dg-note-properties":{"tags":["GFN/LF09","informatik/netzwerk","finished"],"links":"https://lernplattform.gfn.de/course/view.php?id=13592","reference":"[[00 - PROJECTS/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]","path":"GFN","created":"2024-07-01 09:02"}}
 ---
 
 >Dieses Lernfeld ist eine Erweiterung von [[00 - PROJECTS/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]. 
@@ -32,7 +32,7 @@ Der [[02 - RESOURCES/Notes/Router\|Router]] ist einer der wichtigsten Geräte in
 ## [[02 - RESOURCES/Notes/IGP\|IGP]] und [[02 - RESOURCES/Notes/EGP\|EGP]]
 Die [[02 - RESOURCES/Notes/IGP\|IGP]] und [[02 - RESOURCES/Notes/EGP\|EGP]] sind Arten von [[02 - RESOURCES/Notes/Routing\|Routing]]s, und es ist wichtig, sie zu verstehen, da  [[02 - RESOURCES/Notes/Autonome Systeme\|Autonome Systeme]] mit diese Protokollen verbunden werden.
 ![LF09 Netzwerke und Dienste bereitstellen-20240723143614522.png](/img/user/02%20-%20RESOURCES/Files/IMG/LF09%20Netzwerke%20und%20Dienste%20bereitstellen-20240723143614522.png)
-![LF09 Netzwerke und Dienste bereitstellen-20240724112516020.png|666](/img/user/02%20-%20RESOURCES/Files/IMG/LF09%20Netzwerke%20und%20Dienste%20bereitstellen-20240724112516020.png)
+![LF09 Netzwerke und Dienste bereitstellen-20240724112516020.png\|666](/img/user/02%20-%20RESOURCES/Files/IMG/LF09%20Netzwerke%20und%20Dienste%20bereitstellen-20240724112516020.png)
 
 - Was ist [[02 - RESOURCES/Notes/IGP\|IGP]], [[02 - RESOURCES/Notes/EGP\|EGP]], [[02 - RESOURCES/Notes/Autonome Systeme\|Autonome Systeme]] und wo und wie funktioniert [[02 - RESOURCES/Notes/IGP\|IGP]] und [[02 - RESOURCES/Notes/EGP\|EGP]].
 

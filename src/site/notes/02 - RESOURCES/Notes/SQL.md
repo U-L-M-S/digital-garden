@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["ausbildung/gfn/ap2","informatik/code/SQL","informatik/datenbank"],"noteIcon":"","updated":"2025-11-12T13:57:42.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["ausbildung/gfn/ap2","informatik/code/SQL","informatik/datenbank"],"noteIcon":"","updated":"2025-11-12T13:57:42.000+01:00","dg-note-properties":{"aliases":["Structured Query Language","sql"],"created":"2024-06-25 15:35","links":null,"path":"Notes","tags":["ausbildung/gfn/ap2","informatik/code/SQL","informatik/datenbank"]}}
 ---
 
 >SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.
@@ -576,6 +576,7 @@ FULL OUTER JOIN:         CROSS JOIN:
 >- [[02 - RESOURCES/Notes/INNER JOIN\|INNER JOIN]] - Nur Übereinstimmungen
 >- [[02 - RESOURCES/Notes/LEFT JOIN\|LEFT JOIN]] - Alle von links
 >- [[02 - RESOURCES/Notes/RIGHT JOIN\|RIGHT JOIN]] - Alle von rechts
+ - [[02 - RESOURCES/Notes/How to multiple Joins\|How to multiple Joins]]
 >- [[02 - RESOURCES/Notes/SQL FROM\|SQL FROM]] - Tabellen auswählen
 >- [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]] - Filtern nach JOIN
 

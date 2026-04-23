@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/fisi-teil2/","noteIcon":"","updated":"2026-04-23T01:40:43.691+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/fisi-teil2/","noteIcon":"","updated":"2026-04-23T01:40:43.000+02:00","dg-note-properties":{"tags":null,"aliases":null,"links":null,"created_date":"2026-04-23"}}
 ---
 
 # 📊 Frequenz-Matrix Sommer-Prüfungen S22 → S25

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/produktivitaet/","tags":["wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/produktivitaet/","tags":["wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"created":"2023-10-10 18:10","links":null,"path":["Notes"],"tags":["wirtschaft/bwl"]}}
 ---
 
 >Die Leistung von eines Unternehmens (in die BWL-Welt). 

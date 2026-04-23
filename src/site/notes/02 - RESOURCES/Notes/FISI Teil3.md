@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/fisi-teil3/","noteIcon":"","updated":"2026-04-23T01:45:22.813+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/fisi-teil3/","noteIcon":"","updated":"2026-04-23T01:45:22.000+02:00","dg-note-properties":{"tags":null,"aliases":null,"links":null,"created_date":"2026-04-23"}}
 ---
 
 Gut. Jetzt Tiefe-Analyse — ich lese systematisch alle OCR-Texte:Done — alle 5 Sommer-Hauptprüfungen analysiert (S2019, S2020, S2021, S2022, S2023) plus Sommer 2024 BaWü. **Massiver Fund:**

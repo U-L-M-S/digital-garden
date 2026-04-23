@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rentabilitaet/","tags":["ausbildung/gfn/ap1/vorbereitung","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/rentabilitaet/","tags":["ausbildung/gfn/ap1/vorbereitung","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":["ROI"],"created_date":"2025-03-16","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","wirtschaft/bwl"]}}
 ---
 
 >Es Misst, wie wirtschaftlich erfolgreich (profitabel) eine Investition ist.

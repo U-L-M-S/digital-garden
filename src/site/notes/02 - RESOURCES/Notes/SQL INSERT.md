@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-insert/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T13:59:04.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-insert/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T13:59:04.000+01:00","dg-note-properties":{"aliases":["SQL INSERT"],"created_date":"2024-10-10","links":null,"tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"]}}
 ---
 
 >Befehl wird verwendet um [[02 - RESOURCES/Notes/SQL Zeile\|SQL Zeile]] (Werten) in die [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n ([[02 - RESOURCES/Notes/Variable\|Variable]]) einzufügen.

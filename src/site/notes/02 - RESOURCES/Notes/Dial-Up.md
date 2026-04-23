@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dial-up/","tags":["informatik/netzwerk","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dial-up/","tags":["informatik/netzwerk","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"aliases":["Dialup","dialup"],"created":"2024-08-02 15:43","links":null,"path":"Notes","tags":["informatik/netzwerk","informatik/hardware"]}}
 ---
 
 ![Dial-Up-20240802160446072.png](/img/user/02%20-%20RESOURCES/Files/IMG/Dial-Up-20240802160446072.png)

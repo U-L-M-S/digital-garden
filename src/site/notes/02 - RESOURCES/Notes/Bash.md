@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bash/","tags":["informatik/code/bash"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bash/","tags":["informatik/code/bash"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00","dg-note-properties":{"tags":["informatik/code/bash"],"aliases":["Bash-Shell","Bourne Again Shell"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

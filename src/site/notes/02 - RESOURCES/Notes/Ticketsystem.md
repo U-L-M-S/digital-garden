@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ticketsystem/","tags":["service-management/tools","incident-management/tracking"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ticketsystem/","tags":["service-management/tools","incident-management/tracking"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"tags":["service-management/tools","incident-management/tracking"],"aliases":["Issue Tracking","Bug Tracking","Service Desk"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

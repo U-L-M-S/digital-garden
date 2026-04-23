@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/strategy-pattern/","tags":["design-patterns/behavioral","oop/patterns","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-11-05T12:23:12.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/strategy-pattern/","tags":["design-patterns/behavioral","oop/patterns","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-11-05T12:23:12.000+01:00","dg-note-properties":{"tags":["design-patterns/behavioral","oop/patterns","GFN/prüfungsrelevant/AP2/vorbereitung"],"aliases":["Strategy","Strategie-Pattern","Strategie-Muster"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

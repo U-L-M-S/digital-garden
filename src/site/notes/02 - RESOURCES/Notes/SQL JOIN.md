@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-join/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-26T01:58:41.385+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-join/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-04-23T15:14:20.255+02:00","dg-note-properties":{"aliases":["SQL JOIN"],"created_date":"2024-10-17","links":null,"tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"]}}
 ---
 
 >JOINs in [[02 - RESOURCES/Notes/SQL\|SQL]] sind Befehle, um [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]]n miteinander zu verbinden.
@@ -150,5 +150,6 @@ FULL OUTER JOIN:         CROSS JOIN:
 >- [[02 - RESOURCES/Notes/INNER JOIN\|INNER JOIN]] - Nur Übereinstimmungen
 >- [[02 - RESOURCES/Notes/LEFT JOIN\|LEFT JOIN]] - Alle von links
 >- [[02 - RESOURCES/Notes/RIGHT JOIN\|RIGHT JOIN]] - Alle von rechts
+ - [[02 - RESOURCES/Notes/How to multiple Joins\|How to multiple Joins]]
 >- [[02 - RESOURCES/Notes/SQL FROM\|SQL FROM]] - Tabellen auswählen
 >- [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]] - Filtern nach JOIN
