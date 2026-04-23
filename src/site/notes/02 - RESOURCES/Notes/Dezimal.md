@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dezimal/","tags":["mathe"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"aliases":["dezimal"],"created":"2024-07-25 15:24","links":null,"path":"Notes","tags":["mathe"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/dezimal/","tags":["mathe"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
 ---
 
 >Zahlsystem, das auf der Basis 10 basiert.

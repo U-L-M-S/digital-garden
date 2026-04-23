@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker-container/","tags":["informatik/virtualisierung/docker/container","containerisierung"],"noteIcon":"","updated":"2025-11-06T15:32:40.000+01:00","dg-note-properties":{"aliases":["Docker Container","Container"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker/container","containerisierung"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker-container/","tags":["informatik/virtualisierung/docker/container","containerisierung"],"noteIcon":"","updated":"2025-11-06T15:32:40.000+01:00"}
 ---
 
 >**Docker Container** sind laufende Instanzen von [[02 - RESOURCES/Notes/Docker Image\|Docker Image]]s mit isolierter Laufzeitumgebung.

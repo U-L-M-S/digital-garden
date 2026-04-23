@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker-registry/","tags":["informatik/virtualisierung/docker/registry","informatik/virtualisierung/docker/distribution"],"noteIcon":"","updated":"2025-11-06T15:40:05.000+01:00","dg-note-properties":{"aliases":["Registry","Image Registry"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker/registry","informatik/virtualisierung/docker/distribution"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker-registry/","tags":["informatik/virtualisierung/docker/registry","informatik/virtualisierung/docker/distribution"],"noteIcon":"","updated":"2025-11-06T15:40:05.000+01:00"}
 ---
 
 

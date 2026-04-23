@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-helm/","tags":["informatik/virtualisierung/kubernetes/helm","devops/kubernetes","tools/package-manager"],"noteIcon":"","updated":"2025-11-06T16:31:49.000+01:00","dg-note-properties":{"aliases":["Helm","Kubernetes Helm","K8s Package Manager","Helm Charts"],"created_date":"2025-11-06","links":null,"tags":["informatik/virtualisierung/kubernetes/helm","devops/kubernetes","tools/package-manager"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-helm/","tags":["informatik/virtualisierung/kubernetes/helm","devops/kubernetes","tools/package-manager"],"noteIcon":"","updated":"2025-11-06T16:31:49.000+01:00"}
 ---
 
 >**Helm** ist ein Package Manager für [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]] der komplexe Applikationen als wiederverwendbare Charts verpackt.

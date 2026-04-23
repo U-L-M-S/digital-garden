@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-kubectl/","tags":["informatik/virtualisierung/kubernetes/kubectl","devops/kubernetes","tools/cli"],"noteIcon":"","updated":"2025-11-06T16:31:48.000+01:00","dg-note-properties":{"aliases":["kubectl","Kubernetes CLI","K8s CLI"],"created_date":"2025-11-06","links":null,"tags":["informatik/virtualisierung/kubernetes/kubectl","devops/kubernetes","tools/cli"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-kubectl/","tags":["informatik/virtualisierung/kubernetes/kubectl","devops/kubernetes","tools/cli"],"noteIcon":"","updated":"2025-11-06T16:31:48.000+01:00"}
 ---
 
 >**kubectl** ist das Command-Line Tool zur Interaktion mit [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]]-Clustern.

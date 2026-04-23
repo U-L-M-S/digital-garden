@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/last-und-performancetest/","tags":["qualitaetssicherung/performance","testing/nonfunctional","AP2025/neu","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:20:45.000+01:00","dg-note-properties":{"tags":["qualitaetssicherung/performance","testing/nonfunctional","AP2025/neu","GFN/prüfungsrelevant/AP2"],"aliases":["Lasttest","Performance-Test","Belastungstest"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/last-und-performancetest/","tags":["qualitaetssicherung/performance","testing/nonfunctional","AP2025/neu","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:20:45.000+01:00"}
 ---
 
 >Last- und Performancetest prüfen, wie sich Software unter verschiedenen Belastungen verhält.
