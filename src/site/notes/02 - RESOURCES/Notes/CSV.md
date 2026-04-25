@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/csv/","tags":["datenformat/tabellen","import-export/einfach"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/csv/","tags":["datenformat/tabellen","import-export/einfach"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00","dg-note-properties":{"tags":["datenformat/tabellen","import-export/einfach"],"aliases":["Comma Separated Values","CSV-Datei","Trennwert-Format"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

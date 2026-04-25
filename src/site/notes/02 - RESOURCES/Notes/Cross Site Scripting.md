@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/cross-site-scripting/","tags":["sicherheit/it-sicherheit","sicherheit/web-sicherheit","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T12:02:11.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/cross-site-scripting/","tags":["sicherheit/it-sicherheit","sicherheit/web-sicherheit","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T12:02:11.000+01:00","dg-note-properties":{"aliases":["Cross Site Scripting","XSS","Cross-Site-Scripting"],"created_date":"2025-11-06","links":["https://www.youtube.com/watch?v=txHc4zk6w3s"],"tags":["sicherheit/it-sicherheit","sicherheit/web-sicherheit","ausbildung/gfn/ap1/vorbereitung"]}}
 ---
 
 >**Cross-Site Scripting (XSS)** ist eine Sicherheitslücke in Webanwendungen, bei der ein Angreifer schädlichen Code (meist JavaScript) in eine Website einschleust, der dann im Browser anderer Benutzer ausgeführt wird.

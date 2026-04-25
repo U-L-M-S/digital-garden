@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/power-over-ethernet/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/power-over-ethernet/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":["PoE"],"created_date":"2025-03-11","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/netzwerk"]}}
 ---
 
 >**Power over [[02 - RESOURCES/Notes/Ethernet\|Ethernet]] (PoE)** ist eine Technik, die Geräte über ein einziges [[02 - RESOURCES/Notes/Ethernet\|Ethernet]]-Kabel gleichzeitig mit **Daten** und **Strom** versorgt.

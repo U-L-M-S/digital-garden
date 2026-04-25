@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mac-adresse/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-04-21T14:52:33.000+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/mac-adresse/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-04-21T14:52:33.475+02:00","dg-note-properties":{"aliases":["MAC","Media Access Control"],"created":"2024-07-02 08:57","links":null,"path":["Notes"],"tags":["informatik/netzwerk"]}}
 ---
 
 > **MAC (Media Access Control)**

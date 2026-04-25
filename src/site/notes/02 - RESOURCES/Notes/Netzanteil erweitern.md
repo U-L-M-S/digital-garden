@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzanteil-erweitern/","tags":["informatik/netzwerk/subnetting","informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzanteil-erweitern/","tags":["informatik/netzwerk/subnetting","informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"aliases":["Netzanteil erweitern","netzanteil erweitern"],"created":"2024-07-29 13:46","links":null,"path":"Notes","tags":["informatik/netzwerk/subnetting","informatik/netzwerk/ip/ipv4"]}}
 ---
 
 >$$2^{n}=gewünsche Anzahl Von Subnetze$$

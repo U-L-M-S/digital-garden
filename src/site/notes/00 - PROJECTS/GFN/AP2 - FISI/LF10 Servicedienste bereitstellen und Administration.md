@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2-fisi/lf-10-servicedienste-bereitstellen-und-administration/","tags":["GFN/LF10/FISI"],"noteIcon":"","updated":"2025-09-05T11:58:48.000+02:00"}
+{"dg-publish":true,"permalink":"/00-projects/gfn/ap-2-fisi/lf-10-servicedienste-bereitstellen-und-administration/","tags":["GFN/LF10/FISI"],"noteIcon":"","updated":"2025-09-05T11:58:48.000+02:00","dg-note-properties":{"tags":["GFN/LF10/FISI"],"links":null}}
 ---
 
 ![[Server Services and Data Management - podcast.wav]]

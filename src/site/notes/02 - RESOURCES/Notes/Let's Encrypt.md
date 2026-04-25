@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/let-s-encrypt/","tags":["informatik/sicherheit/ssl","kryptographie","zertifikat"],"noteIcon":"","updated":"2025-11-07T11:35:50.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/let-s-encrypt/","tags":["informatik/sicherheit/ssl","kryptographie","zertifikat"],"noteIcon":"","updated":"2025-11-07T11:35:50.000+01:00","dg-note-properties":{"aliases":["Lets Encrypt","LE"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit/ssl","kryptographie","zertifikat"]}}
 ---
 
 > Kostenlose Zertifizierungsstelle (Certificate Authority)

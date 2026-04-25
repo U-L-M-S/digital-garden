@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/arp-request/","tags":["informatik/netzwerk/arp/anfrage","broadcast/suche","informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/arp-request/","tags":["informatik/netzwerk/arp/anfrage","broadcast/suche","informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk/arp/anfrage","broadcast/suche","informatik/netzwerk/protokoll"]}}
 ---
 
 >**ARP-Request** - [[02 - RESOURCES/Notes/Broadcast\|Broadcast]]-Anfrage zur Ermittlung einer [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]].

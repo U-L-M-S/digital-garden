@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting/","tags":["ausbildung/gfn/ap1","informatik/netzwerk/ip/ipv4","informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting/","tags":["ausbildung/gfn/ap1","informatik/netzwerk/ip/ipv4","informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"aliases":["Subnetting","subnetting"],"created":"2024-07-25 11:04","links":null,"path":"Notes","tags":["ausbildung/gfn/ap1","informatik/netzwerk/ip/ipv4","informatik/netzwerk/ip/ipv6"]}}
 ---
 
 >Beim [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] wird ein großes [[02 - RESOURCES/Notes/Netzwerk\|Netz]] in kleinere Netze unterteilt. 

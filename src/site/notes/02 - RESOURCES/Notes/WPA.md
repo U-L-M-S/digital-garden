@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wpa/","tags":["informatik/netzwerk/wifi","kryptografie/wifi","sicherheit/it-sicherheit","sicherheit/kryptografie"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wpa/","tags":["informatik/netzwerk/wifi","kryptografie/wifi","sicherheit/it-sicherheit","sicherheit/kryptografie"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"aliases":["WPA","Wi-Fi Protected Access"],"created":"2024-08-04 23:11","links":null,"path":"Notes","tags":["informatik/netzwerk/wifi","kryptografie/wifi","sicherheit/it-sicherheit","sicherheit/kryptografie"]}}
 ---
 
 >[[02 - RESOURCES/Notes/Wi-Fi\|Wi-Fi]] Protected Access

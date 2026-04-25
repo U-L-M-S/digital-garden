@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dateiverwaltung/","tags":["software/betriebssystem","informatik/dateisystem"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dateiverwaltung/","tags":["software/betriebssystem","informatik/dateisystem"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00","dg-note-properties":{"tags":["software/betriebssystem","informatik/dateisystem"],"aliases":["File Management","Datei-System"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 

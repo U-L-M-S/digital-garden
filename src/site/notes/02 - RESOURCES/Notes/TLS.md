@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/tls/","tags":["kryptografie/tls","sicherheit/it-sicherheit","netzwerk/protokoll","web/https"],"noteIcon":"","updated":"2025-11-06T16:41:33.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/tls/","tags":["kryptografie/tls","sicherheit/it-sicherheit","netzwerk/protokoll","web/https"],"noteIcon":"","updated":"2025-11-06T16:41:33.000+01:00","dg-note-properties":{"aliases":["Transport Layer Security","TLS","SSL","HTTPS"],"created_date":"2025-11-06","links":null,"tags":["kryptografie/tls","sicherheit/it-sicherheit","netzwerk/protokoll","web/https"]}}
 ---
 
 

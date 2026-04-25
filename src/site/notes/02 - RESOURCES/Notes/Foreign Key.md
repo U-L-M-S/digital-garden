@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/foreign-key/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:38:30.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/foreign-key/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:38:30.000+01:00","dg-note-properties":{"aliases":["Fremdschlüssel","Foreign-Key","FK"],"created_date":"2024-10-10","links":null,"tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"]}}
 ---
 
 >Ein Foreign Key (Fremdschlüssel) ist eine Spalte in einer [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]], die auf den [[02 - RESOURCES/Notes/Primary Key\|Primary Key]] einer anderen Tabelle verweist.

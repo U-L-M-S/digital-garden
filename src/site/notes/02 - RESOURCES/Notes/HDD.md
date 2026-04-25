@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hdd/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/hardware","speicher"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hdd/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/hardware","speicher"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"aliases":["Hard Disk Drive"],"created_date":"2025-02-11","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/hardware","speicher"]}}
 ---
 
 > Speichermedium, das Daten **magnetisch** auf rotierende Scheiben speichert. Gehört zu den **magnetischen Speichern** und hat bewegliche Teile (Motor + Lesekopf).

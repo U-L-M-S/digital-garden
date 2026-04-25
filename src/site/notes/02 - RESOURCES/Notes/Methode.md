@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/methode/","tags":["informatik/oop","informatik/java","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:13:06.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/methode/","tags":["informatik/oop","informatik/java","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:13:06.000+01:00","dg-note-properties":{"tags":["informatik/oop","informatik/java","GFN/prüfungsrelevant/AP2"],"aliases":["Methode Java","Method","Klassenmethode"],"links":null,"created_date":"2025-11-12"}}
 ---
 
 >Eine Methode ist ein Block von Code innerhalb einer Klasse, der eine bestimmte Aufgabe ausführt und wiederverwendbar ist.
@@ -310,7 +310,7 @@ String bank = Bankkonto.getBankname();  // "Sparkasse"
 >6. **Überladung:** Gleicher Name, andere Parameter = erlaubt!
 
 ## Verwandte Konzepte
-- [[Funktion]] - Standalone, nicht in Klasse
+- [[02 - RESOURCES/Notes/Funktion\|Funktion]] - Standalone, nicht in Klasse
 - [[02 - RESOURCES/Notes/Konstruktor\|Konstruktor]] - Spezielle Methode zum Erstellen von Objekten
 - [[02 - RESOURCES/Notes/Vererbung\|Vererbung]] - Methoden werden vererbt
 - [[Polymorphismus\|Polymorphismus]] - Methoden-Überschreibung

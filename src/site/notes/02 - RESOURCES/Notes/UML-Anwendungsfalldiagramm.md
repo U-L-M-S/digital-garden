@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-anwendungsfalldiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","uml/anwendungsfalldiagramm"],"noteIcon":"","updated":"2025-11-23T14:04:26.677+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-anwendungsfalldiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","uml/anwendungsfalldiagramm"],"noteIcon":"","updated":"2025-11-23T14:04:26.000+01:00","dg-note-properties":{"aliases":["UML-Anwendungsfalldiagramm","UML Anwendungsfalldiagramm","Anwendungsfalldiagramme","Use-Case-Diagramm","Nutzfalldiagramm","Use Case"],"created_date":"2024-08-28","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","uml/anwendungsfalldiagramm"]}}
 ---
 
 >Ein UML-Anwendungsfalldiagramm ist eine grafische Darstellung, die zeigt, wie Nutzer (Akteure) mit einem System interagieren können.

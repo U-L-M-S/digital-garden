@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/fisi-teil1/","noteIcon":"","updated":"2026-04-23T01:31:44.230+02:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/fisi-teil1/","noteIcon":"","updated":"2026-04-23T01:31:44.000+02:00","dg-note-properties":{"tags":null,"aliases":null,"links":null,"created_date":"2026-04-23"}}
 ---
 
 ## ⚠️ Wichtige Klarstellung vorab (online-bestätigt)

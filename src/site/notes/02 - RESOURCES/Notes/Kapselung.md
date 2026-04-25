@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kapselung/","tags":["oop/prinzipien","programmierung/konzepte","AP2025/betont"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kapselung/","tags":["oop/prinzipien","programmierung/konzepte","AP2025/betont"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"tags":["oop/prinzipien","programmierung/konzepte","AP2025/betont"],"aliases":["Encapsulation","Data Hiding","Datenkapselung"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

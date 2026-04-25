@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-klasse/","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"created":"2024-06-21 16:38","links":null,"path":"Notes","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"]}}
 ---
 
 >In [[02 - RESOURCES/Notes/Java\|Java]] gibt's keine echten [[02 - RESOURCES/Notes/Funktion\|Funktion]]en. Da alles in [[02 - RESOURCES/Notes/Java klasse\|Java klasse]] gemacht werden.

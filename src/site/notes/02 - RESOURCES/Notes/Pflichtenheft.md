@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pflichtenheft/","tags":["ausbildung/gfn/ap1","projektmanagement"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/pflichtenheft/","tags":["ausbildung/gfn/ap1","projektmanagement"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":["pflichtenheft"],"created":"2024-07-01 14:24","links":null,"path":"Notes","tags":["ausbildung/gfn/ap1","projektmanagement"]}}
 ---
 
 >Notwendig Dokument für die Entstehung eines Projekts.
