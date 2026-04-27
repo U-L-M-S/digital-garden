@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-factory-method/","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-factory-method/","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"aliases":["Java Factory Method","Java-Factory-Method"],"created_date":"2024-10-29","links":null,"tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"]}}
 ---
 
 >Es ist eine [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]], die Objekte einer [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]] erstellt und zurückgibt, ohne den [[02 - RESOURCES/Notes/Konstruktor\|Konstruktor]] direkt aufzurufen. 

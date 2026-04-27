@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/while-loop/","tags":["informatik/code"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/while-loop/","tags":["informatik/code"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"aliases":["While-Loop","while-loop"],"created_date":"2024-09-23","links":null,"tags":["informatik/code"]}}
 ---
 
 >Es wiederholt den Code so lange, wie eine Bedingung `True` ist. 

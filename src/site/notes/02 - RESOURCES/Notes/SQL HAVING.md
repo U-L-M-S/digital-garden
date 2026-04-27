@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-having/","tags":["informatik/code/SQL"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-having/","tags":["informatik/code/SQL"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"tags":["informatik/code/SQL"],"aliases":null,"links":null,"created_date":"2025-09-15"}}
 ---
 
 > Befehl wird verwendet um Bedingungen auf gruppierte Daten anzuwenden. Funktioniert wie [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]], aber für [[02 - RESOURCES/Notes/SQL GROUP BY\|SQL GROUP BY]] Ergebnisse.

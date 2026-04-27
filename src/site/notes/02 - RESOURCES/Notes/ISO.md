@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/iso/","tags":["informatik/netzwerk/ISO","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/iso/","tags":["informatik/netzwerk/ISO","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"banner":"![ISO-20240819141658862.png](/img/user/02%20-%20RESOURCES/Files/IMG/ISO-20240819141658862.png)","created":"2024-06-22 20:49","links":"https://de.wikipedia.org/wiki/Liste_von_ISO-Normen","path":"Notes","tags":["informatik/netzwerk/ISO","wirtschaft/bwl"]}}
 ---
 
 >Internationale Organisation für Normung.
