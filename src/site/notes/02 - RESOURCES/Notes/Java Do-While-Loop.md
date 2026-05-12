@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-do-while-loop/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"created":"2024-06-21 16:34","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-do-while-loop/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:32:22.516+02:00","dg-note-properties":{"created":"2024-06-21 16:34","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java"]}}
 ---
 
 >Bei [[02 - RESOURCES/Notes/Do-While-Loop\|Do-While-Loop]] wird die Anweisung mindestens **1** mal wiederholt.
->Es folgt die Denkweise von [[02 - RESOURCES/Notes/While-Loop\|While-Loop]]
+>Es folgt die Denkweise von [[02 - RESOURCES/Notes/While-Loop\|While-Loop]].
 ```java
 public class Main {
     public static void main(String[] args) {

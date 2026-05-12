@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-for-loop/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"created":"2024-06-21 16:32","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-for-loop/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:33:28.318+02:00","dg-note-properties":{"created":"2024-06-21 16:32","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java"]}}
 ---
 
->[[02 - RESOURCES/Notes/For-Loop\|For-Loop]]s in [[02 - RESOURCES/Notes/Java\|Java]] hat das gleiche Syntax wie bei [[02 - RESOURCES/Notes/C Sprache\|C Sprache]].
+>[[02 - RESOURCES/Notes/For-Loop\|For-Loop]]s in [[02 - RESOURCES/Notes/Java\|Java]] haben die gleiche Syntax wie bei [[02 - RESOURCES/Notes/C Sprache\|C Sprache]].
 
 ```java
 public class Main {

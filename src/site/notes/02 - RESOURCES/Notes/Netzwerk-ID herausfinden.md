@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-id-herausfinden/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"aliases":["Netzwerk-ID herausfinden","netzwerk-ID herausfinden"],"created":"2024-07-26 14:32","links":"http://jodies.de/ipcalc","path":"Notes","tags":["informatik/netzwerk/ip/ipv4"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzwerk-id-herausfinden/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2026-05-12T16:12:55.667+02:00","dg-note-properties":{"aliases":["Netzwerk-ID herausfinden","netzwerk-ID herausfinden"],"created":"2024-07-26 14:32","links":"http://jodies.de/ipcalc","path":"Notes","tags":["informatik/netzwerk/ip/ipv4"]}}
 ---
 
 >[!example] Beispiel
 >Jetzt lass uns die [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] von dieser [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] (**192.168.1.4/16**) identifizieren.
 >
-Da wir [[02 - RESOURCES/Notes/CIDR\|CIDR]] lesen können (/16), sehen wir, dass das [[Netzwerkmaske\|Netzwerkmaske]] 255.255.0.0 lautet.
+Da wir [[02 - RESOURCES/Notes/CIDR\|CIDR]] lesen können (/16), sehen wir, dass die [[Netzwerkmaske\|Netzwerkmaske]] 255.255.0.0 lautet.
 >
-Daher wissen wir, das die 1. und 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]] sich nicht ändern können und dass die [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] immer die erste [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] ist. 
+Daher wissen wir, dass das 1. und 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]] sich nicht ändern können und dass die [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] immer die erste [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] ist. 
 >Wir müssen nur die ersten beiden [[02 - RESOURCES/Notes/Oktett\|Oktett]]e wiederholen: 
 >
->> Am besten machen wir das in [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en um zufällige Schwierigkeiten zu vermeiden (falls die Netzwerkmaske kein [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8 ist).
->>Vergleiche [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] und [[Netzwerkmaske\|Netzwerkmaske]]  zusammen. Überall wo ein 1 bei [[Netzwerkmaske\|Netzwerkmaske]] steht, darf das [[02 - RESOURCES/Notes/Bit\|Bit]]wert für den [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] nicht geändert werden.
+>> Am besten machen wir das in [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en, um zufällige Schwierigkeiten zu vermeiden (falls die Netzwerkmaske kein [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8 ist).
+>>Vergleiche [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] und [[Netzwerkmaske\|Netzwerkmaske]] zusammen. Überall, wo eine 1 bei [[Netzwerkmaske\|Netzwerkmaske]] steht, darf der [[02 - RESOURCES/Notes/Bit\|Bit]]wert für den [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] nicht geändert werden.
 >>
 >> 
 >>| 1. [[02 - RESOURCES/Notes/Oktett\|Oktett]]    | 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]]    | 3. [[02 - RESOURCES/Notes/Oktett\|Oktett]] | 4. [[02 - RESOURCES/Notes/Oktett\|Oktett]] | Inhalt |
@@ -33,13 +33,13 @@ Daher wissen wir, das die 1. und 2. [[02 - RESOURCES/Notes/Oktett\|Oktett]] sich
 >
 > [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]]: <mark style="background: #FFF3A3A6;">192.168.0.0</mark>
 
-Der Grund warum man mit den [[02 - RESOURCES/Notes/Bit\|Bit]]s/Tabell arbeitet ist um logische Fehler zu vermeiden wenn das gegebene  [[Netzwerkmaske\|Netzwerkmaske]] nicht ein [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8 ist.
+Der Grund, warum man mit den [[02 - RESOURCES/Notes/Bit\|Bit]]s/Tabell arbeitet, ist um logische Fehler zu vermeiden, wenn die gegebene [[Netzwerkmaske\|Netzwerkmaske]] kein [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8 ist.
 Sieh Beispiel:
 
 >[!example] Bsp mit nicht [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8
 >Gegeben ist die [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]  **198.154.27.0/22**.
 >Man denkt sich sofort, dass die [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] **198.157.0.0** ist.
->Das ist natürlich **falsch**. Artet auf den [[02 - RESOURCES/Notes/CIDR\|CIDR]]! Die Zahl ist keine [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8 und somit können wir am besten diese in eine Tabelle eintragen.
+>Das ist natürlich **falsch**. Achtet auf den [[02 - RESOURCES/Notes/CIDR\|CIDR]]! Die Zahl ist kein [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 8 und somit können wir am besten diese in eine Tabelle eintragen.
 >
 >>|  -  |    A     |    B     |        C        |    D     |  E  | 
 >>| :-: | :------: | :------: | :-------------: | :------: | :-: | 
@@ -53,5 +53,5 @@ Sieh Beispiel:
 >>|  8  |          |          |                 |          |     |
 >>|  9  |          |          |                 |          |     |
 >
->Die letzten **11** in C2 werden von die letzten **00** in C3 *nicht* berücksichtigen und daher gehören sie zu den [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]].
+>Die letzten **11** in C2 werden von den letzten **00** in C3 *nicht* berücksichtigt und daher gehören sie zum [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]].
 >Somit können wir sagen, dass die [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] hier **198.154.24.0** ist.

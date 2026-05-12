@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-interface/","tags":["informatik/code/oop/vererbung","informatik/programmierung/sprachen/java","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-07T15:47:27.000+01:00","dg-note-properties":{"aliases":["Java Interface","Interface","Java Schnittstelle","interface"],"created_date":"2024-11-07","links":["https://www.youtube.com/watch?v=GhslBwrRsnw"],"tags":["informatik/code/oop/vererbung","informatik/programmierung/sprachen/java","ausbildung/gfn/ap1/vorbereitung"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-interface/","tags":["informatik/code/oop/vererbung","informatik/programmierung/sprachen/java","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2026-05-12T15:34:07.957+02:00","dg-note-properties":{"aliases":["Java Interface","Interface","Java Schnittstelle","interface"],"created_date":"2024-11-07","links":["https://www.youtube.com/watch?v=GhslBwrRsnw"],"tags":["informatik/code/oop/vererbung","informatik/programmierung/sprachen/java","ausbildung/gfn/ap1/vorbereitung"]}}
 ---
 
 >Ein **Interface** (Schnittstelle) in [[02 - RESOURCES/Notes/Java\|Java]] ist ein Vertrag, der definiert, **welche Methoden** eine [[02 - RESOURCES/Notes/Klasse\|Klasse]] implementieren muss, aber **nicht wie**.
@@ -651,7 +651,7 @@ public class User implements Serializable {
 >- Seit Java 8: `default` und `static` Methoden möglich
 >- Ermöglicht [[Polymorphismus\|Polymorphismus]] und Mehrfachvererbung
 >- Verwende Interfaces für "**kann**"-Beziehungen
->- Abstakte Klassen für "**ist-ein**"-Beziehungen
+>- Abstrakte Klassen für "**ist-ein**"-Beziehungen
 
 ---
 

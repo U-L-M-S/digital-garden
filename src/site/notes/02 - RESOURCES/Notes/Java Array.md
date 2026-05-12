@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-array/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"created":"2024-06-21 16:27","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-array/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:31:02.462+02:00","dg-note-properties":{"created":"2024-06-21 16:27","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java"]}}
 ---
 
 >[!summary] Regeln
 >- So wie die meisten Programmiersprachen fängt [[02 - RESOURCES/Notes/Java Array\|Java Array]] bei 0 an (Index).
->- Jedes Element in die [[02 - RESOURCES/Notes/Java Array\|Java Array]] haben das gleiche [[02 - RESOURCES/Notes/Datentyp\|Datentyp]].
+>- Jedes Element in einem [[02 - RESOURCES/Notes/Java Array\|Java Array]] hat den gleichen [[02 - RESOURCES/Notes/Datentyp\|Datentyp]].
 
 # Syntax
 >[!info] Array-Deklaration
@@ -17,7 +17,7 @@
  >datatype[] arrayName = new datatype[n];
 >```
 >Somit wird die Array deklariert und Initialisiert. **ABER**  es wird kein Wert zugewiesen. 
- >>Es wird nur die Länge (`n`) von die Array definiert.
+ >>Es wird nur die Länge (`n`) von der Array definiert.
  
  >[!info] Array-Deklaration und Initialisierung
 > ```java
@@ -335,4 +335,4 @@ public class ArrayListElementLoeschen {
 ```
 # [[02 - RESOURCES/Notes/Java 2D-Array\|Java 2D-Array]]
 >Eigentlich kann [[02 - RESOURCES/Notes/Java Array\|Java Array]] unendlich lang sein. D.h: 3D, 4D, 5D, ... [[02 - RESOURCES/Notes/Java Array\|Java Array]]
->Es macht aber kein Sinn.  
+>Es macht aber keinen Sinn.  

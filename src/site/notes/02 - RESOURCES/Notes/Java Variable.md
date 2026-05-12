@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-variable/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"created":"2023-08-20 16:42","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-variable/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:30:35.057+02:00","dg-note-properties":{"created":"2023-08-20 16:42","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java"]}}
 ---
 
 # Syntax
@@ -26,7 +26,7 @@ public class AwesomeJavaProgram{
 }
 ```
 
-# Notz
+# Notiz
 
 >[!hint] Regeln zur Vergabe von Variablennamen:
 >- Ein Variablenname muss mit einem Buchstaben, Unterstrich (`_`) oder Dollarzeichen (`$`) beginnen, aber nicht mit einer Zahl.
@@ -39,4 +39,4 @@ public class AwesomeJavaProgram{
 >  
 >- Es dürfen keine reservierten Schlüsselwörter von Java verwendet werden (z. B. `int`, `class`, `public`, etc.).
 
-[[02 - RESOURCES/Notes/String\|String]] ist großgeschrieben, weil es in die Wirklichkeit keine [[02 - RESOURCES/Notes/Datentyp\|Datentyp]] ist, sonder eine [[02 - RESOURCES/Notes/Klasse\|Klasse]].
+[[02 - RESOURCES/Notes/String\|String]] ist großgeschrieben, weil es in Wirklichkeit kein [[02 - RESOURCES/Notes/Datentyp\|Datentyp]] ist, sondern eine [[02 - RESOURCES/Notes/Java klasse\|Klasse]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-vererbung/","tags":["informatik/code/oop/vererbung"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"created":"2024-06-21 16:24","links":null,"path":["Notes"],"tags":["informatik/code/oop/vererbung"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-vererbung/","tags":["informatik/code/oop/vererbung"],"noteIcon":"","updated":"2026-05-12T15:36:25.082+02:00","dg-note-properties":{"created":"2024-06-21 16:24","links":null,"path":["Notes"],"tags":["informatik/code/oop/vererbung"]}}
 ---
 
 >In [[02 - RESOURCES/Notes/Java\|Java]] ermöglicht die [[02 - RESOURCES/Notes/UML-Vererbung\|Vererbung]], dass eine [[02 - RESOURCES/Notes/Klasse\|Klasse]] (die _Kindklasse_ oder _Subklasse_) von einer anderen [[02 - RESOURCES/Notes/Klasse\|Klasse]] (der _Elternklasse_ oder _Superklasse_) erbt. 
@@ -113,4 +113,4 @@ Baujahr: 1995
 >
 
 >[!important] 
->Eine CHILD Klasse kann nur von ein PARENT Klasse vererben. Wenn dieser von zwei oder mehrere [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]n vererben muss. Sollst du [[02 - RESOURCES/Notes/Java Interface\|Java Interface]] verwenden.
+>Eine CHILD Klasse kann nur von einer PARENT Klasse erben. Wenn sie von zwei oder mehreren [[02 - RESOURCES/Notes/Java klasse\|Java klasse]]n erben muss, sollst du [[02 - RESOURCES/Notes/Java Interface\|Java Interface]] verwenden.

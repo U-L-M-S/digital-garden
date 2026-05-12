@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-array-list/","tags":["grundlagen/array","informatik/code/java"],"noteIcon":"","updated":"2026-02-10T15:49:16.000+01:00","dg-note-properties":{"tags":["grundlagen/array","informatik/code/java"],"aliases":["java ArrayList"],"links":null,"created_date":"2026-02-10"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-array-list/","tags":["grundlagen/array","informatik/code/java"],"noteIcon":"","updated":"2026-05-12T15:31:43.674+02:00","dg-note-properties":{"tags":["grundlagen/array","informatik/code/java"],"aliases":["java ArrayList"],"links":null,"created_date":"2026-02-10"}}
 ---
 
 ```java
 import java.util.ArrayList;
 ```
->Es ist kein Standard Bibliothek von [[02 - RESOURCES/Notes/Java\|Java]]. Es wird aber häufig verwendet für [[02 - RESOURCES/Notes/Java Array\|Java Array]]-Management.
+>Es ist keine Standardbibliothek von [[02 - RESOURCES/Notes/Java\|Java]]. Es wird aber häufig verwendet für [[02 - RESOURCES/Notes/Java Array\|Java Array]]-Management.
 
 # Schreibweise
 ```java
@@ -32,4 +32,4 @@ namen.set(1, "Banana") // Setz Banana
 nana.size() // Array Länge = 2 
 ```
 
-Es ist wichtig dass man Wrapper verwendet und nicht den [[02 - RESOURCES/Notes/Datentyp\|Datentyp]].
+Es ist wichtig, dass man Wrapper verwendet und nicht den [[02 - RESOURCES/Notes/Datentyp\|Datentyp]].

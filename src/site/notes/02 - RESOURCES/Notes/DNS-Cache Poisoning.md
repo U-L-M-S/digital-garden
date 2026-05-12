@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dns-cache-poisoning/","tags":["informatik/netzwerk/dns","informatik/netzwerk/dns/vergiftung","sicherheit/angriff","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk/dns","informatik/netzwerk/dns/vergiftung","sicherheit/angriff","sicherheit/it-sicherheit"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/dns-cache-poisoning/","tags":["informatik/netzwerk/dns","informatik/netzwerk/dns/vergiftung","sicherheit/angriff","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-05-12T16:08:31.614+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk/dns","informatik/netzwerk/dns/vergiftung","sicherheit/angriff","sicherheit/it-sicherheit"]}}
 ---
 
 
 **DNS-Cache Poisoning** - Einschleusung gefälschter [[02 - RESOURCES/Notes/DNS\|DNS]]-Daten in Server-Caches.
-Langfristige Weiterleitung auf falsche IPs - gefährlicher als [[02 - RESOURCES/Notes/DNS-Spoofing\|DNS-Spoofing]] da dauerhafter.
+Langfristige Weiterleitung auf falsche IPs - gefährlicher als [[02 - RESOURCES/Notes/DNS-Spoofing\|DNS-Spoofing]], da dauerhafter.

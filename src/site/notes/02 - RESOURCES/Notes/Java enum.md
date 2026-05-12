@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-enum/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"aliases":["Java-enum"],"created_date":"2024-10-28","links":null,"tags":["informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-enum/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:32:34.196+02:00","dg-note-properties":{"aliases":["Java-enum"],"created_date":"2024-10-28","links":null,"tags":["informatik/programmierung/sprachen/java"]}}
 ---
 
 >Ein `enum` in [[02 - RESOURCES/Notes/Java\|Java]] ist ein spezieller [[02 - RESOURCES/Notes/Datentyp\|Datentyp]], der eine Sammlung von Konstanten definiert. 
 >Es wird verwendet, um eine feste Anzahl von Werten zu speichern, wie zum Beispiel die Wochentage oder Jahreszeiten.
->> `enum`-Typen sind in [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]]n und können [[02 - RESOURCES/Notes/Java Methode\|Java Methode]]n und [[02 - RESOURCES/Notes/Attribut\|Attribut]]e haben.
+>> `enum`-Typen sind [[02 - RESOURCES/Notes/Java klasse\|Java Klasse]]n und können [[02 - RESOURCES/Notes/Java Methode\|Java Methode]]n und [[02 - RESOURCES/Notes/Attribut\|Attribut]]e haben.
 
 # Syntax
 ```java

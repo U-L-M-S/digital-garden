@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/tcp/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"aliases":["Transmission Control Protocol"],"created":"2024-07-02 15:10","links":null,"tags":["informatik/netzwerk/protokoll"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/tcp/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2026-05-12T15:56:12.549+02:00","dg-note-properties":{"aliases":["Transmission Control Protocol"],"created":"2024-07-02 15:10","links":null,"tags":["informatik/netzwerk/protokoll"]}}
 ---
 
 >Transmission Control Protocol 
 >>Ein Standardprotokoll, das für die Übertragung von [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]]n verwendet wird.
 
 Es stellt sicher, dass die [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]] vollständig und fehlerfrei ihr Ziel erreichen.
-Es wird oft verwendet für Protokollen wie:
+Es wird oft verwendet für Protokolle wie:
 - [[02 - RESOURCES/Notes/HTTP\|HTTP]] / [[02 - RESOURCES/Notes/HTTPS\|HTTPS]] (Web-Browsing)
 - [[02 - RESOURCES/Notes/SMTP\|SMTP]](E-Mail)
 - [[02 - RESOURCES/Notes/FTP\|FTP]] (Datenübertragung)
 
-Es ist leider etwas langsamer als [[02 - RESOURCES/Notes/UDP\|UDP]]
+Es ist leider etwas langsamer als [[02 - RESOURCES/Notes/UDP\|UDP]].

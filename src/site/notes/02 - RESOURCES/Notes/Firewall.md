@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/firewall/","tags":["informatik/netzwerk/filter","sicherheit/it-sicherheit","sicherheit/schutz"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk/filter","sicherheit/it-sicherheit","sicherheit/schutz"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/firewall/","tags":["informatik/netzwerk/filter","sicherheit/it-sicherheit","sicherheit/schutz"],"noteIcon":"","updated":"2026-05-12T16:00:01.134+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk/filter","sicherheit/it-sicherheit","sicherheit/schutz"]}}
 ---
 
 
-**Firewall** - "Brandschutzmauer" die unerwünschten Netzwerk-Verkehr blockiert.
+**Firewall** - "Brandschutzmauer", die unerwünschten Netzwerk-Verkehr blockiert.
 Setzt [[02 - RESOURCES/Notes/ACL\|ACL]]s um, verschiedene Typen: [[02 - RESOURCES/Notes/Paketfilter\|Paketfilter]], [[02 - RESOURCES/Notes/Stateful Packet Inspection\|Stateful Packet Inspection]], [[02 - RESOURCES/Notes/Application Firewall\|Application Firewall]].

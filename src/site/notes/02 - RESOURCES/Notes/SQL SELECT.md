@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-select/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T13:58:24.000+01:00","dg-note-properties":{"aliases":["SQL SELECT"],"created_date":"2024-10-11","links":null,"tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-select/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-05-12T15:45:52.539+02:00","dg-note-properties":{"aliases":["SQL SELECT"],"created_date":"2024-10-11","links":null,"tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"]}}
 ---
 
 >Befehl, der verwendet wird, um die [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]] herauszusuchen.
@@ -67,18 +67,18 @@ Tabelle: Schueler
 ```sql
 SELECT *
 ```
->[!note] So werden alle [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n von eine [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] angezeigt (die [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]], die angezeigt sein sollte wurde **nicht** ausgewählt mit [[02 - RESOURCES/Notes/SQL FROM\|SQL FROM]]).
+>[!note] So werden alle [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n von einer [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] angezeigt (die [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]], die angezeigt sein sollte, wurde **nicht** ausgewählt mit [[02 - RESOURCES/Notes/SQL FROM\|SQL FROM]]).
 
 ## Bestimmte Spalten auswählen
 
-Man kann auch bestimmten [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n auswählen.
+Man kann auch bestimmte [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n auswählen.
 ```sql
 SELECT Tabellname.Spaltename1, Tabellname.Spaltename2
 ```
 
 >[!tip]
->Man kann auch **nur** die Name von die [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n schreiben.
->Es gibt aber den Risiko um Konflikten wenn 2 oder mehrere [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]]n die gleichen [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n haben.
+>Man kann auch **nur** die Namen von den [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n schreiben.
+>Es gibt aber das Risiko von Konflikten, wenn 2 oder mehrere [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]]n die gleichen [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n haben.
 
 ```sql
 SELECT Spaltename1, Spaltename2

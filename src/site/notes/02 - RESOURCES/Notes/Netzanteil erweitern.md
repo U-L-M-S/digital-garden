@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/netzanteil-erweitern/","tags":["informatik/netzwerk/subnetting","informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"aliases":["Netzanteil erweitern","netzanteil erweitern"],"created":"2024-07-29 13:46","links":null,"path":"Notes","tags":["informatik/netzwerk/subnetting","informatik/netzwerk/ip/ipv4"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/netzanteil-erweitern/","tags":["informatik/netzwerk/subnetting","informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2026-05-12T16:15:12.965+02:00","dg-note-properties":{"aliases":["Netzanteil erweitern","netzanteil erweitern"],"created":"2024-07-29 13:46","links":null,"path":"Notes","tags":["informatik/netzwerk/subnetting","informatik/netzwerk/ip/ipv4"]}}
 ---
 
->$$2^{n}=gewünsche Anzahl Von Subnetze$$
+>$$2^{n}=gewünschte Anzahl Von Subnetze$$
 
->Um das zumachen müssen wir erstens wissen wie viele Subnetze wir brauchen um die [[02 - RESOURCES/Notes/Bit\|Bit]]s bei den [[02 - RESOURCES/Notes/Netzanteil\|Netzanteil]] nach Rechts zu verschieben und ein Teil von den [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]] für sich zunehmen.
->$$2^{n}=gewünsche Anzahl Von Subnetze$$
+>Um das zu machen, müssen wir erstens wissen, wie viele Subnetze wir brauchen, um die [[02 - RESOURCES/Notes/Bit\|Bit]]s beim [[02 - RESOURCES/Notes/Netzanteil\|Netzanteil]] nach rechts zu verschieben und einen Teil vom [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]] für sich zu nehmen.
+>$$2^{n}=gewünschte Anzahl Von Subnetze$$
 
 >[!example] Anzahl der [[02 - RESOURCES/Notes/Bit\|Bit]]s berechen
 >
@@ -15,7 +15,7 @@
 >**2** [[02 - RESOURCES/Notes/Bit\|Bit]]s von den [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]].
 >$$24+2=26$$
 >
->Jetzt sieht die [[Netzwerkmaske\|Netzwerkmaske]] folgendes aus: 192.168.0.0/27
+>Jetzt sieht die [[Netzwerkmaske\|Netzwerkmaske]] folgendermaßen aus: 192.168.0.0/27
 
 Tabellarisch sieht es so aus:
 
@@ -25,7 +25,7 @@ Tabellarisch sieht es so aus:
 | 192.168.0.0/27 | >   | <mark style="background: #ABF7F7A6;">11000000</mark> | <mark style="background: #ABF7F7A6;">10101000</mark> | <mark style="background: #ABF7F7A6;">00000000</mark> | <mark style="background: #ABF7F7A6;">00</mark>000000 |
 
 
-Im Fall von Zahlen, die kein [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 2 sind, müssen wir das nächstgrößere mögliche Einheit nehmen.
+Im Fall von Zahlen, die kein [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 2 sind, müssen wir die nächstgrößere mögliche Einheit nehmen.
 
 >[!example] Anzahl der [Bit](app://obsidian.md/Bit)s berechnen, nicht [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von 2.
 >Nehmen wir an, wir haben dieses [[02 - RESOURCES/Notes/IPv4\|IPv4]]: 192.168.0.0/24
@@ -34,7 +34,7 @@ Im Fall von Zahlen, die kein [[02 - RESOURCES/Notes/Vielfaches\|Vielfaches]] von
 >**3** [[02 - RESOURCES/Notes/Bit\|Bit]]s von den [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]].
 >$$24+3=27$$
 >
->Jetzt sieht die [[Netzwerkmaske\|Netzwerkmaske]] folgt aus: 192.168.0.0/27
+>Jetzt sieht die [[Netzwerkmaske\|Netzwerkmaske]] folgendermaßen aus: 192.168.0.0/27
 
 
 Tabellarisch sieht es so aus:

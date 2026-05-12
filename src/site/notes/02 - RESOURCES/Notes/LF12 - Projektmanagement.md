@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lf-12-projektmanagement/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"tags":["GFN/LF12/FISI"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/lf-12-projektmanagement/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2026-05-12T15:40:49.080+02:00","dg-note-properties":{"tags":["GFN/LF12/FISI"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
 ---
 
 # LF12b Tag 1 - [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] Wiederholung
@@ -39,7 +39,7 @@ Du wiederholst die wichtigsten Projektphasen für erfolgreiche Systemintegration
 
 ### Wiederholungsfragen Moodle
 
-Du beantwortest Fragen zum [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] um dein Wissen zu testen. Diese Fragen bereiten dich auf echte Projekte vor.
+Du beantwortest Fragen zum [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]], um dein Wissen zu testen. Diese Fragen bereiten dich auf echte Projekte vor.
 
 ### Praktische Anwendung
 

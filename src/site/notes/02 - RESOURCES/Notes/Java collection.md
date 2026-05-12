@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-collection/","tags":["informatik/code/java"],"noteIcon":"","updated":"2026-02-10T14:39:08.000+01:00","dg-note-properties":{"tags":["informatik/code/java"],"aliases":["java collection"],"links":null,"created_date":"2026-02-10"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-collection/","tags":["informatik/code/java"],"noteIcon":"","updated":"2026-05-12T15:32:09.678+02:00","dg-note-properties":{"tags":["informatik/code/java"],"aliases":["java collection"],"links":null,"created_date":"2026-02-10"}}
 ---
 
 > Collections in [[02 - RESOURCES/Notes/Java\|Java]] sind alle Möglichkeiten wie wir mehrere Sachen speichern können.
->> Wir wissen, dass in [[02 - RESOURCES/Notes/Java\|Java]] solche Sachen wie: [[02 - RESOURCES/Notes/Java Array\|Java Array]]s, Java Sets und  [[02 - RESOURCES/Notes/Queue\|Queue]]s gibt. Diese alle nennen wir als Collections.
+>> Wir wissen, dass es in [[02 - RESOURCES/Notes/Java\|Java]] solche Sachen wie [[02 - RESOURCES/Notes/Java Array\|Java Array]]s, Java Sets und [[02 - RESOURCES/Notes/Queue\|Queue]]s gibt. Diese alle nennen wir Collections.
 

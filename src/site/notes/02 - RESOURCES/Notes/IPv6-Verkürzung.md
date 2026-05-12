@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6-verkuerzung/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"aliases":[],"created":"2024-07-30 09:14","links":["[[02 - RESOURCES/Notes/IPv6\|IPv6]]"],"path":["Notes"],"tags":["informatik/netzwerk/ip/ipv6"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6-verkuerzung/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2026-05-12T16:09:47.909+02:00","dg-note-properties":{"aliases":[],"created":"2024-07-30 09:14","links":["[[02 - RESOURCES/Notes/IPv6\|IPv6]]"],"path":["Notes"],"tags":["informatik/netzwerk/ip/ipv6"]}}
 ---
 
->Um [[02 - RESOURCES/Notes/IPv6\|IPv6]] zu lesbarer zu machen kann man es verkürzen.
-Hier sind die Regeln, die man es folgen muss:
+>Um [[02 - RESOURCES/Notes/IPv6\|IPv6]] lesbarer zu machen, kann man es verkürzen.
+Hier sind die Regeln, denen man folgen muss:
 >- Führende Nullen in jeder Gruppe können weggelassen werden. 
  >> <mark style="background: #FFF3A3A6;">0db8 -> db8</mark>
 >- Gruppen von aufeinanderfolgenden Nullen können durch zwei Doppelpunkte "::" ersetzt werden, aber <mark style="background: #FFF3A3A6;">nur einmal pro Adresse</mark>. Dies kann nur gemacht werden, wenn es keine Verwechslungsmöglichkeiten gibt. 

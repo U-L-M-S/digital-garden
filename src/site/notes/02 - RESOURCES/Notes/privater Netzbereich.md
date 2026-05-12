@@ -17,7 +17,7 @@
 >Wireless [[02 - RESOURCES/Notes/LAN\|LAN]]
 >Drahtloses [[02 - RESOURCES/Notes/LAN\|LAN]]
 
-Es gibt hauptsächlich 3 Frequenzbereiche für . Diese sind:
+Es gibt hauptsächlich 3 Frequenzbereiche für [[02 - RESOURCES/Notes/WLAN\|WLAN]]. Diese sind:
 
 [[02 - RESOURCES/Notes/2.4 GHz Frequenzbereich\|2.4 GHz Frequenzbereich]]
 [[02 - RESOURCES/Notes/5 GHz Frequenzbereich\|5 GHz Frequenzbereich]]
@@ -29,7 +29,7 @@ Es gibt hauptsächlich 3 Frequenzbereiche für . Diese sind:
 
 
 
->Die Wireless Networking (IEEE 802.11) wurden in Generationen aufgeteilt und aktuell sind diese 6.
+>Das Wireless Networking (IEEE 802.11) wurde in Generationen aufgeteilt und aktuell sind es 6.
 
 | Wi-Fi Generation | Standard | Max. Geschwindigkeit         |
 | ---------------- | -------- | ---------------------------- |
@@ -81,7 +81,7 @@ Es gibt hauptsächlich 3 Frequenzbereiche für . Diese sind:
 
 > Local Area Network.
 
-Auf ein Gelände beschränktes [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]].
+Auf ein Gelände beschränktes [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]. 
 
 </div></div>
 
@@ -98,13 +98,13 @@ Auf ein Gelände beschränktes [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]].
 
 
 
-Mit andere Wörter 1 [[02 - RESOURCES/Notes/Switch\|Switch]] mit eine oder mehrere [[02 - RESOURCES/Notes/VLAN\|VLAN]]s.
+Mit anderen Worten: 1 [[02 - RESOURCES/Notes/Switch\|Switch]] mit einem oder mehreren [[02 - RESOURCES/Notes/VLAN\|VLAN]]s.
 ![VLAN-20240722141645311.png](/img/user/02%20-%20RESOURCES/Files/IMG/VLAN-20240722141645311.png)
 ![VLAN-20240722141826439.png](/img/user/02%20-%20RESOURCES/Files/IMG/VLAN-20240722141826439.png)
 
 >[!important] 
->Man kann auch [[02 - RESOURCES/Notes/Switch\|Switch]]es verbinden um die Anzahl von Geräte per [[02 - RESOURCES/Notes/VLAN\|VLAN]] zu erhöhen.
->Man enthält aber viele Nachteilen. Wie:
+>Man kann auch [[02 - RESOURCES/Notes/Switch\|Switch]]es verbinden, um die Anzahl von Geräten pro [[02 - RESOURCES/Notes/VLAN\|VLAN]] zu erhöhen.
+>Das hat aber viele Nachteile. Wie:
 >- Teuer
 >- Unübersichtlich
 >- Nicht sinnvoll
@@ -118,7 +118,7 @@ Es heißt [[02 - RESOURCES/Notes/Trunking und Tagging\|Trunking und Tagging]].
 
 
 >[!important] 
->Es gibt kein [[02 - RESOURCES/Notes/Broadcast\|Broadcast]] zwischen [[02 - RESOURCES/Notes/VLAN\|VLAN]]s.
+>Es gibt keinen [[02 - RESOURCES/Notes/Broadcast\|Broadcast]] zwischen [[02 - RESOURCES/Notes/VLAN\|VLAN]]s.
 
 
 </div></div>

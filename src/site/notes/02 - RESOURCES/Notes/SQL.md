@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["ausbildung/gfn/ap2","informatik/code/SQL","informatik/datenbank"],"noteIcon":"","updated":"2025-11-12T13:57:42.000+01:00","dg-note-properties":{"aliases":["Structured Query Language","sql"],"created":"2024-06-25 15:35","links":null,"path":"Notes","tags":["ausbildung/gfn/ap2","informatik/code/SQL","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql/","tags":["ausbildung/gfn/ap2","informatik/code/SQL","informatik/datenbank"],"noteIcon":"","updated":"2026-05-12T15:43:27.760+02:00","dg-note-properties":{"aliases":["Structured Query Language","sql"],"created":"2024-06-25 15:35","links":null,"path":"Notes","tags":["ausbildung/gfn/ap2","informatik/code/SQL","informatik/datenbank"]}}
 ---
 
 >SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[02 - RESOURCES/Notes/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.
@@ -53,7 +53,7 @@ Anwendung                 SQL-Engine              Datenbank
 
 # Datenbank erstellen
 
-Am besten fangen wir an in den wir lernen wie man einer [[02 - RESOURCES/Notes/SQL Datenbank\|SQL Datenbank]] erstellt.
+Am besten fangen wir an, indem wir lernen, wie man eine [[02 - RESOURCES/Notes/SQL Datenbank\|SQL Datenbank]] erstellt.
 ```sql
 CREATE DATABASE schule;
 USE schule;
@@ -157,8 +157,8 @@ Einschreibung:
 |        5         |      4      |    4    |    2023-09-01    |
 
 >[!note] 
->Jetzt wissen wir wie man ein Datenbank erstellt und wie man Tabellen erstellt.
->Nun.... Wie lesen kriegen wir die Werten ?
+>Jetzt wissen wir, wie man eine Datenbank erstellt und wie man Tabellen erstellt.
+>Nun.... Wie lesen wir die Werte?
 >>Das lernen wir gleich 😊
 
 
@@ -316,7 +316,7 @@ FROM Tabellename;
 ```
 
 
-In unser Bsp wurde etwas so aussehen:
+In unserem Bsp würde es so aussehen:
 ```sql
 SELECT *
 FROM Schueler;
@@ -350,9 +350,9 @@ WHERE YEAR(geburtsdatum) <= 2005;
 
 ___
 >[!info] 
->Jetzt, dass du die Grundlage über SQL gelernt hast.
->Es ist Zeit auf die Vertiefung an den Thema.
->>Ab hier wirst du bestimmten Anweisungen, Syntax und noch viel mehr.
+>Jetzt, wo du die Grundlagen von SQL gelernt hast,
+>ist es Zeit für die Vertiefung des Themas.
+>>Ab hier wirst du bestimmte Anweisungen, Syntax und noch viel mehr lernen.
 
 # SQL Algorithmus
 >Es gibt unendlich viele Wege, um eine Aufgabe in SQL zu lösen.
@@ -379,7 +379,7 @@ Weight:
 
 1. Welche [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n sind hier gefragt ?
    >Vorname, Nachname, Datum und KG
-   >>Deise füge ich in den [[02 - RESOURCES/Notes/SQL SELECT\|SQL SELECT]] ein.
+   >>Diese füge ich in den [[02 - RESOURCES/Notes/SQL SELECT\|SQL SELECT]] ein.
    
 ```sql
 SELECT Patient.first_name, Patient.last_name, Weight.date, Weight.kg
@@ -397,7 +397,7 @@ SELECT Patient.first_name, Patient.last_name, Weight.date, Weight.kg
 | 2         | 1          | 2024-11-15                                       | 80.0                                           |
 | 3         | 2          | 2024-10-05                                       | 68.4                                           |
 | 4         | 3          | 2024-10-12                                       | 90.2                                           |
-2. Welchen Tabellen werden hier benötigen?
+2. Welche Tabellen werden hier benötigt?
    >Patient und Weight
    >>Diese füge ich in den [[02 - RESOURCES/Notes/SQL FROM\|SQL FROM]] ein.
    
@@ -406,8 +406,8 @@ SELECT Patient.first_name, Patient.last_name, Weight.date, Weight.kg
 FROM Patient, Weight
 ```
 
-3. Welchen Bedingungen müssen erfühlen werden?
-   >Bei diese Aufgabe, müssen die `patient_ID` und `weight_ID` übereinstimmen.
+3. Welche Bedingungen müssen erfüllt werden?
+   >Bei dieser Aufgabe müssen die `patient_ID` und `weight_ID` übereinstimmen.
    >>Diese Bedingung kommt in den [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]].
    
 ```sql
@@ -576,7 +576,7 @@ FULL OUTER JOIN:         CROSS JOIN:
 >- [[02 - RESOURCES/Notes/INNER JOIN\|INNER JOIN]] - Nur Übereinstimmungen
 >- [[02 - RESOURCES/Notes/LEFT JOIN\|LEFT JOIN]] - Alle von links
 >- [[02 - RESOURCES/Notes/RIGHT JOIN\|RIGHT JOIN]] - Alle von rechts
- - [[02 - RESOURCES/Notes/How to multiple Joins\|How to multiple Joins]]
+>- [[02 - RESOURCES/Notes/How to multiple Joins\|How to multiple Joins]]
 >- [[02 - RESOURCES/Notes/SQL FROM\|SQL FROM]] - Tabellen auswählen
 >- [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]] - Filtern nach JOIN
 
@@ -590,7 +590,7 @@ FULL OUTER JOIN:         CROSS JOIN:
 
 
 
-> Befehl wird verwendet um [[02 - RESOURCES/Notes/SQL Zeile\|SQL Zeile]]n zu gruppieren die gleiche Werte in bestimmten [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n haben. Oft mit Aggregatfunktionen wie COUNT, SUM, AVG verwendet.
+> Befehl wird verwendet, um [[02 - RESOURCES/Notes/SQL Zeile\|SQL Zeile]]n zu gruppieren, die gleiche Werte in bestimmten [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n haben. Oft mit Aggregatfunktionen wie COUNT, SUM, AVG verwendet.
 
 ```sql
 -- Grundlegende Gruppierung
@@ -626,7 +626,7 @@ GROUP BY lehrer_name;
 
 
 
-> Befehl wird verwendet um Bedingungen auf gruppierte Daten anzuwenden. Funktioniert wie [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]], aber für [[02 - RESOURCES/Notes/SQL GROUP BY\|SQL GROUP BY]] Ergebnisse.
+> Befehl wird verwendet, um Bedingungen auf gruppierte Daten anzuwenden. Funktioniert wie [[02 - RESOURCES/Notes/SQL WHERE\|SQL WHERE]], aber für [[02 - RESOURCES/Notes/SQL GROUP BY\|SQL GROUP BY]] Ergebnisse.
 
 ```sql
 -- Grundlegende HAVING Bedingung

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-static/","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"aliases":["Java Static","Java-Static"],"created_date":"2024-10-21","links":null,"tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-static/","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:35:58.166+02:00","dg-note-properties":{"aliases":["Java Static","Java-Static"],"created_date":"2024-10-21","links":null,"tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"]}}
 ---
 
->In [[02 - RESOURCES/Notes/Java\|Java]] wenn etwas die Schlüssel [[02 - RESOURCES/Notes/static\|static]] enthält. Wird diese als Inhalt von [[02 - RESOURCES/Notes/Java klasse\|Java klasse]] angesehen und nicht von den Objekt.
->>Das heißt [[02 - RESOURCES/Notes/static\|static]] [[02 - RESOURCES/Notes/Java Methode\|Java Methode]]n und [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n benötigen kein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]].
+>In [[02 - RESOURCES/Notes/Java\|Java]], wenn etwas das Schlüsselwort [[02 - RESOURCES/Notes/static\|static]] enthält, wird es als Inhalt der [[02 - RESOURCES/Notes/Java klasse\|Java klasse]] angesehen und nicht vom Objekt.
+>>Das heißt, [[02 - RESOURCES/Notes/static\|static]] [[02 - RESOURCES/Notes/Java Methode\|Java Methode]]n und [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n benötigen kein [[02 - RESOURCES/Notes/Java Objekt\|Java Objekt]].
 
 [[02 - RESOURCES/Notes/Static Java Methode\|Static Java Methode]]
 

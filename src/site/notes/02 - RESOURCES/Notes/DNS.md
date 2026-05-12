@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dns/","tags":["informatik/netzwerk/dns"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"Created":"2023-07-30 19:50","Path":"Notes","Reference":"https://root-servers.org/","aliases":["Domain Name Server"],"tags":["informatik/netzwerk/dns"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/dns/","tags":["informatik/netzwerk/dns"],"noteIcon":"","updated":"2026-05-12T15:59:47.478+02:00","dg-note-properties":{"Created":"2023-07-30 19:50","Path":"Notes","Reference":"https://root-servers.org/","aliases":["Domain Name Server"],"tags":["informatik/netzwerk/dns"]}}
 ---
 
 > [[02 - RESOURCES/Notes/Domain\|Domain]] Name System
@@ -41,10 +41,10 @@ graph LR
 
 
 
-Wie du es sehen kannst macht der Recursive Resolver die ganze Arbeit. Um das alles schneller zu machen wurde das [[02 - RESOURCES/Notes/TTL Cache\|TTL Cache]] zwischen die  Root Servers und den Recursive Resolver eingefügt.
+Wie du es sehen kannst, macht der Recursive Resolver die ganze Arbeit. Um das alles schneller zu machen, wurde das [[02 - RESOURCES/Notes/TTL Cache\|TTL Cache]] zwischen den Root Servers und dem Recursive Resolver eingefügt.
 
 ### Beispiel 
-Um das besser zu verstehen. Lass uns den Website [uol](https://www.uol.com.br/)  (https://www.uol.com.br/)besuchen. So läuft es ab:
+Um das besser zu verstehen, lass uns die Website [uol](https://www.uol.com.br/) (https://www.uol.com.br/) besuchen. So läuft es ab:
 >[!summary] 
 >- Mein Browser schickt ein Request an der Resolver in Frankfurt
 > - Diese schickt eine request an den Root-Server(am nähst) mit den Endung '.br' 

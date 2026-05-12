@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wlan-standards/","tags":["informatik/netzwerk/wifi"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"aliases":["WLAN Standards","WLAN Standard","WLAN-Standards","WLAN-Standard"],"created":"2024-08-04 22:06","links":null,"path":"Notes","tags":["informatik/netzwerk/wifi"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/wlan-standards/","tags":["informatik/netzwerk/wifi"],"noteIcon":"","updated":"2026-05-12T16:03:49.408+02:00","dg-note-properties":{"aliases":["WLAN Standards","WLAN Standard","WLAN-Standards","WLAN-Standard"],"created":"2024-08-04 22:06","links":null,"path":"Notes","tags":["informatik/netzwerk/wifi"]}}
 ---
 
->Die Wireless Networking (IEEE 802.11) wurden in Generationen aufgeteilt und aktuell sind diese 6.
+>Das Wireless Networking (IEEE 802.11) wurde in Generationen aufgeteilt und aktuell sind es 6.
 
 | Wi-Fi Generation | Standard | Max. Geschwindigkeit         |
 | ---------------- | -------- | ---------------------------- |

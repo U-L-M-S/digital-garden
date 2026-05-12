@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lf-11b-i-pv6/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"tags":["informatik/netzwerk/ip/ipv6"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/lf-11b-i-pv6/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2026-05-12T15:40:22.670+02:00","dg-note-properties":{"tags":["informatik/netzwerk/ip/ipv6"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
 ---
 
 # LF11b - [[02 - RESOURCES/Notes/IPv6\|IPv6]]  
@@ -71,7 +71,7 @@
 
 ### DHCPv6 Sicherheitsrisiken
 
-- **Rouge DHCP-Server Problem**
+- **Rogue DHCP-Server Problem**
     - Falsche Router Advertisements
     - IPv6-Hosts akzeptieren alle Router Advertisements
     - Bildung falscher IP-Adressen und Gateways

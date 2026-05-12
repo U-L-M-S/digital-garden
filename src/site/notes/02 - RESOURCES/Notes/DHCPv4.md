@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dhc-pv4/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"aliases":["Dynamic Host Configuration Protocol"],"created":"2024-07-04 11:46","links":null,"path":["Notes"],"tags":["informatik/netzwerk/protokoll"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/dhc-pv4/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2026-05-12T16:01:43.985+02:00","dg-note-properties":{"aliases":["Dynamic Host Configuration Protocol"],"created":"2024-07-04 11:46","links":null,"path":["Notes"],"tags":["informatik/netzwerk/protokoll"]}}
 ---
 
 >Dynamic Host Configuration Protocol
->>[[02 - RESOURCES/Notes/Netzwerkprotokolle\|Netzwerkprotokolle]], das verwendet wird, um Netzwerke automatisch zu verwalten und bestimmten Einstellungen zuzuweisen. 
+>>[[02 - RESOURCES/Notes/Netzwerkprotokolle\|Netzwerkprotokoll]], das verwendet wird, um Netzwerke automatisch zu verwalten und bestimmte Einstellungen zuzuweisen. 
 >>So erhält jedes Gerät, das in das [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] integriert ist, eine eindeutige Konfiguration.
 >
->>Die [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]]-Übertragung passiert über [[02 - RESOURCES/Notes/UDP\|UDP]] und passiert durch das [[02 - RESOURCES/Notes/DORA-Prinzip\|DORA-Prinzip]]
+>>Die [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]]-Übertragung erfolgt über [[02 - RESOURCES/Notes/UDP\|UDP]] und läuft nach dem [[02 - RESOURCES/Notes/DORA-Prinzip\|DORA-Prinzip]] ab.
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/dora-prinzip/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">

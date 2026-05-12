@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-grundlage/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"aliases":["Java Grundlage","Java-Grundlage"],"created_date":"2024-11-02","links":null,"tags":["informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-grundlage/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:30:18.209+02:00","dg-note-properties":{"aliases":["Java Grundlage","Java-Grundlage"],"created_date":"2024-11-02","links":null,"tags":["informatik/programmierung/sprachen/java"]}}
 ---
 
 
@@ -21,7 +21,7 @@ public MyClass{
 
 # [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]
 
-Wie in jede Computersprache enthält [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n und ihre Syntax is ganz ähnlich wie bei [[02 - RESOURCES/Notes/C Sprache\|C Sprache]].
+Wie in jeder Computersprache enthält [[02 - RESOURCES/Notes/Java\|Java]] [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n und ihre Syntax ist ganz ähnlich wie bei [[02 - RESOURCES/Notes/C Sprache\|C Sprache]].
 Also man muss auf die [[02 - RESOURCES/Notes/Datentyp\|Datentyp]]en aufpassen wenn man [[02 - RESOURCES/Notes/Java Variable\|Java Variable]]n initialisiert oder deklariert.
 
 ```java
@@ -89,7 +89,7 @@ public class MyClass {
 >> Genau gesagt: [[02 - RESOURCES/Notes/String\|String]] ist eine [[02 - RESOURCES/Notes/Klasse\|Klasse]].
 
 # [[02 - RESOURCES/Notes/Java Array\|Java Array]]
-Es wird benötig wenn man mehrere Werten 
+Es wird benötigt, wenn man mehrere Werte speichern will.
 ```java
 public class ArrayExample {
     public static void main(String[] args) {
@@ -104,7 +104,7 @@ public class ArrayExample {
 }
 ```
 >[!note] 
->Yep... In Java wir müssen ein Objekt erstellen für eine [[02 - RESOURCES/Notes/Java Array\|Java Array]].
+>Yep... In Java müssen wir ein [[02 - RESOURCES/Notes/Java Objekt\|Objekt]] erstellen für ein [[02 - RESOURCES/Notes/Java Array\|Java Array]].
 # [[02 - RESOURCES/Notes/Java Bedingung\|Java Bedingung]]
 [[02 - RESOURCES/Notes/IF-Bedingung\|IF-Bedingung]], [[02 - RESOURCES/Notes/ELSE IF-Bedingung\|ELSE IF-Bedingung]] und [[02 - RESOURCES/Notes/ELSE-Bedingung\|ELSE-Bedingung]] in Java.
 ```java

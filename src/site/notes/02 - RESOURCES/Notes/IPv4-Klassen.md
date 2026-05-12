@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4-klassen/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"aliases":["iPv4 Klassen"],"created":"2024-07-30 10:03","links":null,"path":["Notes"],"tags":["informatik/netzwerk/ip/ipv4"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4-klassen/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2026-05-12T16:03:10.176+02:00","dg-note-properties":{"aliases":["iPv4 Klassen"],"created":"2024-07-30 10:03","links":null,"path":["Notes"],"tags":["informatik/netzwerk/ip/ipv4"]}}
 ---
 
 >IPv4 wurde in 5 Klassen unterteilt:
@@ -17,7 +17,7 @@
 
 >[!important] 
 >
-Heutzutage wird meistens **Klasse C** bei die meisten [[02 - RESOURCES/Notes/Router\|Router]] verwendet, die man zuhause hat.
+Heutzutage wird meistens **Klasse C** bei den meisten [[02 - RESOURCES/Notes/Router\|Router]]n verwendet, die man zuhause hat.
 
 
 >[!tip] There is not place like home

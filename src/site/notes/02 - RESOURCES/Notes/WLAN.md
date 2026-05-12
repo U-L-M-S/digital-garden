@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wlan/","tags":["informatik/netzwerk/wifi","GFN/LF09"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"created":"2024-05-06 16:03","links":null,"path":"Notes","tags":["informatik/netzwerk/wifi","GFN/LF09"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/wlan/","tags":["informatik/netzwerk/wifi","GFN/LF09"],"noteIcon":"","updated":"2026-05-12T16:01:11.529+02:00","dg-note-properties":{"created":"2024-05-06 16:03","links":null,"path":"Notes","tags":["informatik/netzwerk/wifi","GFN/LF09"]}}
 ---
 
 >Wireless [[02 - RESOURCES/Notes/LAN\|LAN]]
 >Drahtloses [[02 - RESOURCES/Notes/LAN\|LAN]]
 
-Es gibt hauptsächlich 3 Frequenzbereiche für . Diese sind:
+Es gibt hauptsächlich 3 Frequenzbereiche für [[02 - RESOURCES/Notes/WLAN\|WLAN]]. Diese sind:
 
 [[02 - RESOURCES/Notes/2.4 GHz Frequenzbereich\|2.4 GHz Frequenzbereich]]
 [[02 - RESOURCES/Notes/5 GHz Frequenzbereich\|5 GHz Frequenzbereich]]
@@ -17,7 +17,7 @@ Es gibt hauptsächlich 3 Frequenzbereiche für . Diese sind:
 
 
 
->Die Wireless Networking (IEEE 802.11) wurden in Generationen aufgeteilt und aktuell sind diese 6.
+>Das Wireless Networking (IEEE 802.11) wurde in Generationen aufgeteilt und aktuell sind es 6.
 
 | Wi-Fi Generation | Standard | Max. Geschwindigkeit         |
 | ---------------- | -------- | ---------------------------- |

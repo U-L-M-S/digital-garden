@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-zeile/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"aliases":["SQL Zeile"],"created_date":"2024-10-09","links":null,"tags":["informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-zeile/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2026-05-12T15:45:11.730+02:00","dg-note-properties":{"aliases":["SQL Zeile"],"created_date":"2024-10-09","links":null,"tags":["informatik/datenbank"]}}
 ---
 
->Das sind die Werten, was man in die [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]] einfügt.
+>Das sind die Werte, die man in die [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]] einfügt.
 ```sql
 INSERT INTO Tabell_Name VALUES
 
