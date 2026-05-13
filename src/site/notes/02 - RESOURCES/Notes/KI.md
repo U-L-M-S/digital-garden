@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ki/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/AI"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"aliases":["Künstliche Intelligenz","AI","Artificial Inteligence"],"created_date":"2025-03-13","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/AI"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/ki/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/AI"],"noteIcon":"","updated":"2026-05-13T08:42:28.809+02:00","dg-note-properties":{"aliases":["Künstliche Intelligenz","AI","Artificial Intelligence"],"created_date":"2025-03-13","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/AI"]}}
 ---
 
 >Künstliche Intelligenz umfasst alles, was Computer und Maschinen befähigt, menschenähnliche Intelligenzleistungen zu erbringen. 
@@ -39,7 +39,7 @@ clustern, also in Gruppen zusammenzufassen.
 
 
 
->Es ist wenn man ein [[02 - RESOURCES/Notes/Neuronales Netzwerk\|Neuronales Netzwerk]] zu gut
+>Es ist, wenn ein [[02 - RESOURCES/Notes/Neuronales Netzwerk\|Neuronales Netzwerk]] zu gut
 auf die Trainingsdaten trainiert wurde und somit NUR auf die
 Trainingsdaten angewendet werden kann.
 
@@ -66,7 +66,7 @@ Trainingsdaten angewendet werden kann.
 
 
 
->[[02 - RESOURCES/Notes/Neuronales Netzwerk\|Neuronales Netzwerk]] mit vielen zwischen-Layern.
+>[[02 - RESOURCES/Notes/Neuronales Netzwerk\|Neuronales Netzwerk]] mit vielen Zwischen-Layern.
 
 </div></div>
 
@@ -78,7 +78,7 @@ Trainingsdaten angewendet werden kann.
 
 
 
->Schwacher [[02 - RESOURCES/Notes/KI\|KI]], die nicht selbständig handeln kann und Eingabe eines Menschen braucht.
+>Schwache [[02 - RESOURCES/Notes/KI\|KI]], die nicht selbständig handeln kann und Eingabe eines Menschen braucht.
 
 </div></div>
 
@@ -103,6 +103,6 @@ irgendeine menschliche Interaktion angewiesen ist.
 
 
 
->Bearbeitet Video/Bild von durch [[02 - RESOURCES/Notes/KI\|KI]]. Meistens wird das Gesicht und die Stimme einer anderen Person ersetzt.
+>Bearbeitet Video/Bild durch [[02 - RESOURCES/Notes/KI\|KI]]. Meistens wird das Gesicht und die Stimme einer anderen Person ersetzt.
 
 </div></div>

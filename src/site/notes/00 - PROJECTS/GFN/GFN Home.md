@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2026-04-23T02:01:23.000+02:00","dg-note-properties":{"tags":["GFN","gardenEntry"],"links":["https://gfn.uinclis.de/"],"created":"2024-06-07 16:23"}}
+{"dg-publish":true,"permalink":"/00-projects/gfn/gfn-home/","tags":["GFN","gardenEntry"],"noteIcon":"","updated":"2026-05-13T08:43:29.533+02:00","dg-note-properties":{"tags":["GFN","gardenEntry"],"links":["https://gfn.uinclis.de/"],"created":"2024-06-07 16:23"}}
 ---
 
 # Hallo zusammen 😄 
@@ -59,12 +59,6 @@ ___
 - 🟢 [[00 - PROJECTS/GFN/AP2 - FISI/LF11 Betrieb und Sicherheit vernetzter Systeme gewährleisten\|LF11 Betrieb und Sicherheit vernetzter Systeme gewährleisten]]
 - 🟢 [[00 - PROJECTS/GFN/AP2 - FISI/LF12 Kundenspezifische Systemintegration durchführen\|LF12 Kundenspezifische Systemintegration durchführen]]
 
-
-Für Mariella:
-
-[[02 - RESOURCES/Notes/FISI Teil1\|FISI Teil1]]
-[[02 - RESOURCES/Notes/FISI Teil2\|FISI Teil2]]
-[[02 - RESOURCES/Notes/FISI Teil3\|FISI Teil3]]
 
 ___
 ___
