@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker-compose/","tags":["informatik/virtualisierung/docker/compose","informatik/virtualisierung/docker/orchestration"],"noteIcon":"","updated":"2025-11-06T15:39:08.000+01:00","dg-note-properties":{"aliases":["Docker Compose","Compose","Multi-Container"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker/compose","informatik/virtualisierung/docker/orchestration"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker-compose/","tags":["informatik/virtualisierung/docker/compose","informatik/virtualisierung/docker/orchestration"],"noteIcon":"","updated":"2026-05-13T08:45:15.276+02:00","dg-note-properties":{"aliases":["Docker Compose","Compose","Multi-Container"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker/compose","informatik/virtualisierung/docker/orchestration"]}}
 ---
 
 >**Docker Compose** orchestriert mehrere [[02 - RESOURCES/Notes/Docker Container\|Docker Container]] mit einer einzigen YAML Datei.
->>Perfekt für Anwendungen die mehrere Services brauchen wie Web App + Datenbank + Cache.
+>>Perfekt für Anwendungen, die mehrere Services brauchen, wie Web App + Datenbank + Cache.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker-image/","tags":["informatik/virtualisierung/docker/images","informatik/virtualisierung/docker/grundlagen"],"noteIcon":"","updated":"2025-11-06T15:35:10.000+01:00","dg-note-properties":{"aliases":["Docker Image","Image","Container Image"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker/images","informatik/virtualisierung/docker/grundlagen"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker-image/","tags":["informatik/virtualisierung/docker/images","informatik/virtualisierung/docker/grundlagen"],"noteIcon":"","updated":"2026-05-13T08:45:11.839+02:00","dg-note-properties":{"aliases":["Docker Image","Image","Container Image"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker/images","informatik/virtualisierung/docker/grundlagen"]}}
 ---
 
->**Docker Image**s sind Blaupausen oder Vorlagen für [[02 - RESOURCES/Notes/Docker Container\|Docker Container]] - wie Fotos die nicht verändert werden können.
->>Enthalten alles was die Anwendung braucht: OS, Libraries, Code und Konfiguration.
+>**Docker Image**s sind Blaupausen oder Vorlagen für [[02 - RESOURCES/Notes/Docker Container\|Docker Container]] - wie Fotos, die nicht verändert werden können.
+>>Enthalten alles, was die Anwendung braucht: OS, Libraries, Code und Konfiguration.
 
 ---
 

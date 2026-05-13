@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-namespaces/","tags":["informatik/virtualisierung/kubernetes/namespaces","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:15:11.000+01:00","dg-note-properties":{"aliases":["Kubernetes Namespaces","K8s Namespace","Namespace"],"created_date":"2025-11-06","links":null,"tags":["informatik/virtualisierung/kubernetes/namespaces","devops/kubernetes"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-namespaces/","tags":["informatik/virtualisierung/kubernetes/namespaces","devops/kubernetes"],"noteIcon":"","updated":"2026-05-13T08:46:06.304+02:00","dg-note-properties":{"aliases":["Kubernetes Namespaces","K8s Namespace","Namespace"],"created_date":"2025-11-06","links":null,"tags":["informatik/virtualisierung/kubernetes/namespaces","devops/kubernetes"]}}
 ---
 
->Ein **Namespace** ist eine virtuelle Trennung innerhalb eines [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]]-Clusters die Ressourcen isoliert und organisiert.
+>Ein **Namespace** ist eine virtuelle Trennung innerhalb eines [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]]-Clusters, die Ressourcen isoliert und organisiert.
 >>Namespaces ermöglichen Multi-Tenancy, Umgebungs-Trennung (dev/staging/prod), und Ressourcen-Quotas pro Team/Projekt.
 
 ---

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/git-pull/","tags":["git/pull"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"tags":["git/pull"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/git-pull/","tags":["git/pull"],"noteIcon":"","updated":"2026-05-13T08:47:46.368+02:00","dg-note-properties":{"tags":["git/pull"]}}
 ---
 
->Es funktioniert fast wie [[02 - RESOURCES/Notes/git clone\|git clone]]. Wird aber oft verwendet wenn du in Team arbeitest und das neueste Version von dein Code (das was in GitHub ist) willst.
+>Es funktioniert fast wie [[02 - RESOURCES/Notes/git clone\|git clone]]. Wird aber oft verwendet, wenn du im Team arbeitest und die neueste Version deines Codes (das, was in GitHub ist) willst.
 
 ```bash
 git pull

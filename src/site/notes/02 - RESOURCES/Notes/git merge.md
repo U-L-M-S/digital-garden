@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/git-merge/","tags":["git/merge"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"tags":["git/merge"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/git-merge/","tags":["git/merge"],"noteIcon":"","updated":"2026-05-13T08:47:49.079+02:00","dg-note-properties":{"tags":["git/merge"]}}
 ---
 
 
@@ -9,7 +9,7 @@
 git merge <branch-name>
 ```
 
-> [!important] Stelle sicher, dass du in dem Branch bist, in den du mergen willst. Mit [[02 - RESOURCES/Notes/git checkout\|git checkout]] kannst du den Branch wechseln. [!important] Falls es Konflikte gibt, musst du diese manuell lösen bevor der Merge abgeschlossen werden kann.
+> [!important] Stelle sicher, dass du in dem Branch bist, in den du mergen willst. Mit [[02 - RESOURCES/Notes/git checkout\|git checkout]] kannst du den Branch wechseln. [!important] Falls es Konflikte gibt, musst du diese manuell lösen, bevor der Merge abgeschlossen werden kann.
 
 # --no-ff
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dockerfile/","tags":["informatik/virtualisierung/docker/build","informatik/virtualisierung/docker/images"],"noteIcon":"","updated":"2025-11-06T15:35:16.000+01:00","dg-note-properties":{"aliases":["Dockerfile","Docker Build File"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker/build","informatik/virtualisierung/docker/images"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/dockerfile/","tags":["informatik/virtualisierung/docker/build","informatik/virtualisierung/docker/images"],"noteIcon":"","updated":"2026-05-13T08:45:13.741+02:00","dg-note-properties":{"aliases":["Dockerfile","Docker Build File"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker/build","informatik/virtualisierung/docker/images"]}}
 ---
 
->**Dockerfile** ist eine Textdatei mit Anweisungen wie ein [[02 - RESOURCES/Notes/Docker Image\|Docker Image]] gebaut werden soll.
->>Wie ein Kochrezept das Schritt für Schritt erklärt was in den Container gehört.
+>**Dockerfile** ist eine Textdatei mit Anweisungen, wie ein [[02 - RESOURCES/Notes/Docker Image\|Docker Image]] gebaut werden soll.
+>>Wie ein Kochrezept, das Schritt für Schritt erklärt, was in den Container gehört.
 
 ---
 

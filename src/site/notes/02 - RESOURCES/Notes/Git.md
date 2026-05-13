@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/git/","tags":["finished","tools/versionsverwaltung/git"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"Links":["https://www.youtube.com/watch?v=XwWReqRfnjs"],"Path":["Tool"],"banner":"![github.jpg](/img/user/02%20-%20RESOURCES/Files/Banners/github.jpg)","banner_y":0.376,"modified":"2023-08-04 21:38","tags":["finished","tools/versionsverwaltung/git"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/git/","tags":["finished","tools/versionsverwaltung/git"],"noteIcon":"","updated":"2026-05-13T08:48:12.876+02:00","dg-note-properties":{"Links":["https://www.youtube.com/watch?v=XwWReqRfnjs"],"Path":["Tool"],"banner":"![github.jpg](/img/user/02%20-%20RESOURCES/Files/Banners/github.jpg)","banner_y":0.376,"modified":"2023-08-04 21:38","tags":["finished","tools/versionsverwaltung/git"]}}
 ---
 
 >Versionskontrollsystem.  
@@ -29,7 +29,7 @@ Du kannst mit Git auf zwei Arten arbeiten: Offline(Local) oder Online(GitHub).
 
 # GitHub
 ![Pasted image 20230806150949.png](/img/user/02%20-%20RESOURCES/Files/IMG/Pasted%20image%2020230806150949.png)
->Wie du es sehen kannst, GitHub ist nicht anders als eine Klone von deinen Local Git. 
+>Wie du sehen kannst, ist GitHub nichts anderes als ein Klon deines lokalen Gits. 
 
 [[02 - RESOURCES/Notes/git clone\|git clone]]
 

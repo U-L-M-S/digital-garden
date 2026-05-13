@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-services/","tags":["informatik/virtualisierung/kubernetes/services","devops/kubernetes","informatik/netzwerk"],"noteIcon":"","updated":"2025-11-06T16:13:44.000+01:00","dg-note-properties":{"aliases":["Kubernetes Services","K8s Service","Service"],"created_date":"2025-11-06","links":null,"tags":["informatik/virtualisierung/kubernetes/services","devops/kubernetes","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-services/","tags":["informatik/virtualisierung/kubernetes/services","devops/kubernetes","informatik/netzwerk"],"noteIcon":"","updated":"2026-05-13T08:45:42.453+02:00","dg-note-properties":{"aliases":["Kubernetes Services","K8s Service","Service"],"created_date":"2025-11-06","links":null,"tags":["informatik/virtualisierung/kubernetes/services","devops/kubernetes","informatik/netzwerk"]}}
 ---
 
->Ein **Service** in [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]] ist eine Abstraktion die eine logische Menge von [[02 - RESOURCES/Notes/Kubernetes Pods\|Pods]] exponiert und Load Balancing bereitstellt.
+>Ein **Service** in [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]] ist eine Abstraktion, die eine logische Menge von [[02 - RESOURCES/Notes/Kubernetes Pods\|Pods]] exponiert und Load Balancing bereitstellt.
 >>Services haben eine stabile IP-Adresse und DNS-Namen, auch wenn Pods dynamisch erstellt/gelöscht werden.
 
 ---

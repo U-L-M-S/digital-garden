@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker/","tags":["informatik/virtualisierung/docker","containerisierung"],"noteIcon":"","updated":"2025-11-06T15:31:12.000+01:00","dg-note-properties":{"aliases":["Docker","Container Platform","Docker Engine"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker","containerisierung"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker/","tags":["informatik/virtualisierung/docker","containerisierung"],"noteIcon":"","updated":"2026-05-13T08:44:49.759+02:00","dg-note-properties":{"aliases":["Docker","Container Platform","Docker Engine"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker","containerisierung"]}}
 ---
 
 >**Docker** ist eine [[02 - RESOURCES/Notes/Containerisierung\|Containerisierung]]s-Plattform, die Anwendungen in isolierten Umgebungen verpackt und startet.
@@ -30,7 +30,7 @@ VIRTUELLE MASCHINEN:                    DOCKER CONTAINER:
 
 # Was ist Docker?
 
->Docker ist eine Software die [[02 - RESOURCES/Notes/Docker Container\|Docker Container]] erstellt und verwaltet.
+>Docker ist eine Software, die [[02 - RESOURCES/Notes/Docker Container\|Docker Container]] erstellt und verwaltet.
 
 ## Grundkonzepte
 
@@ -88,7 +88,7 @@ DOCKER ARCHITEKTUR:
 
 **Komponenten:**
 - **Docker Client** - Befehlszeilenwerkzeug (CLI)
-- **Docker Daemon** - Hintergrundprozess der Container verwaltet
+- **Docker Daemon** - Hintergrundprozess, der Container verwaltet
 - **Docker Registry** - Speicher für Images (z.B. [[02 - RESOURCES/Notes/Docker Hub\|Docker Hub]])
 - **Docker Images** - Read-only Templates
 - **Docker Container** - Laufende Image-Instanzen
@@ -274,7 +274,7 @@ docker volume prune              # Unused Volumes
 
 
 >**Docker Container** sind laufende Instanzen von [[02 - RESOURCES/Notes/Docker Image\|Docker Image]]s mit isolierter Laufzeitumgebung.
->>Wie ein Programm das in seiner eigenen kleinen Welt läuft - komplett getrennt von anderen Containern.
+>>Wie ein Programm, das in seiner eigenen kleinen Welt läuft - komplett getrennt von anderen Containern.
 
 ---
 
@@ -859,8 +859,8 @@ netstat -ano | findstr :8080
 
 
 
->**Docker Image**s sind Blaupausen oder Vorlagen für [[02 - RESOURCES/Notes/Docker Container\|Docker Container]] - wie Fotos die nicht verändert werden können.
->>Enthalten alles was die Anwendung braucht: OS, Libraries, Code und Konfiguration.
+>**Docker Image**s sind Blaupausen oder Vorlagen für [[02 - RESOURCES/Notes/Docker Container\|Docker Container]] - wie Fotos, die nicht verändert werden können.
+>>Enthalten alles, was die Anwendung braucht: OS, Libraries, Code und Konfiguration.
 
 ---
 
@@ -1401,8 +1401,8 @@ docker system prune -a --volumes  # Alles aufräumen
 
 
 
->**Dockerfile** ist eine Textdatei mit Anweisungen wie ein [[02 - RESOURCES/Notes/Docker Image\|Docker Image]] gebaut werden soll.
->>Wie ein Kochrezept das Schritt für Schritt erklärt was in den Container gehört.
+>**Dockerfile** ist eine Textdatei mit Anweisungen, wie ein [[02 - RESOURCES/Notes/Docker Image\|Docker Image]] gebaut werden soll.
+>>Wie ein Kochrezept, das Schritt für Schritt erklärt, was in den Container gehört.
 
 ---
 
@@ -1983,7 +1983,7 @@ docker run --rm -v /var/run/docker.sock:/var/run/docker.sock \
 
 
 >**Docker Compose** orchestriert mehrere [[02 - RESOURCES/Notes/Docker Container\|Docker Container]] mit einer einzigen YAML Datei.
->>Perfekt für Anwendungen die mehrere Services brauchen wie Web App + Datenbank + Cache.
+>>Perfekt für Anwendungen, die mehrere Services brauchen, wie Web App + Datenbank + Cache.
 
 ---
 
@@ -2594,7 +2594,7 @@ volumes:
 
 
 >**Docker Volumes** sind Dockers Art Daten dauerhaft zu speichern außerhalb des [[02 - RESOURCES/Notes/Docker Container\|Docker Container]]s.
->>Ohne Volumes gehen alle Daten verloren wenn der Container gelöscht wird!
+>>Ohne Volumes gehen alle Daten verloren, wenn der Container gelöscht wird!
 
 ---
 
@@ -3128,7 +3128,7 @@ docker volume prune
 
 
 
->**Docker Networking** erstellt virtuelle Netzwerke damit [[02 - RESOURCES/Notes/Docker Container\|Docker Container]] miteinander kommunizieren können.
+>**Docker Networking** erstellt virtuelle Netzwerke, damit [[02 - RESOURCES/Notes/Docker Container\|Docker Container]] miteinander kommunizieren können.
 >>Jeder Container bekommt eigene IP-Adresse in seinem Netzwerk - wie ein virtuelles LAN.
 
 ---
