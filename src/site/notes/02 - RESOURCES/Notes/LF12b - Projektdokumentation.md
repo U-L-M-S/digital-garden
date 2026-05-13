@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lf-12b-projektdokumentation/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"tags":["GFN/LF12/FISI"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/lf-12b-projektdokumentation/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2026-05-13T08:56:39.069+02:00","dg-note-properties":{"tags":["GFN/LF12/FISI"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
 ---
 
 # LF12b - Projektdokumentation
@@ -50,7 +50,7 @@ Die komplette Projektdokumentation besteht aus drei Teilen:
 - **[[02 - RESOURCES/Notes/Gantt-Diagramm\|GANTT-Diagramm]]** - Zeitplanung visualisiert
 - **Soll-Ist-Vergleich** - Plan vs Realität
 - **[[02 - RESOURCES/Notes/Risikoanalyse\|Risikoanalyse]]** - Was kann schiefgehen?
-- **Testprotokolle** - Beweise dass alles funktioniert
+- **Testprotokolle** - Beweise, dass alles funktioniert
 - **Kundendokumentation** - Bedienungsanleitung für den [[02 - RESOURCES/Notes/Kunden\|Kunden]]
 - **Abnahmeprotokoll** - Kunde bestätigt Projekterfolg
 

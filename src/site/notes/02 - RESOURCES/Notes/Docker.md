@@ -594,7 +594,7 @@ docker ps -aq | xargs docker rm -f
 # Container Persistenz
 
 >[!warning] Wichtig
->Container sind **ephemeral** (vergänglich). Alle Änderungen im Container gehen verloren wenn er gelöscht wird!
+>Container sind **ephemeral** (vergänglich). Alle Änderungen im Container gehen verloren, wenn er gelöscht wird!
 
 ```
 OHNE VOLUME:                    MIT VOLUME:

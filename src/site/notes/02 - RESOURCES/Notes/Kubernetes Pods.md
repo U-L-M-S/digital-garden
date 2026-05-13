@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-pods/","tags":["informatik/virtualisierung/kubernetes/pods","devops/kubernetes"],"noteIcon":"","updated":"2026-05-13T08:45:38.350+02:00","dg-note-properties":{"aliases":["Kubernetes Pods","K8s Pod","Pod"],"created_date":"2025-11-06","links":null,"tags":["informatik/virtualisierung/kubernetes/pods","devops/kubernetes"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-pods/","tags":["informatik/virtualisierung/kubernetes/pods","devops/kubernetes"],"noteIcon":"","updated":"2026-05-13T08:57:44.874+02:00","dg-note-properties":{"aliases":["Kubernetes Pods","K8s Pod","Pod"],"created_date":"2025-11-06","links":null,"tags":["informatik/virtualisierung/kubernetes/pods","devops/kubernetes"]}}
 ---
 
 >Ein **Pod** ist die kleinste deploybare Einheit in [[02 - RESOURCES/Notes/Kubernetes\|Kubernetes]] und besteht aus einem oder mehreren Containern, die zusammen auf einem Node laufen.
@@ -425,7 +425,7 @@ kubectl top pods
 
 ## Liveness Probe
 
->Prüft ob Container läuft. Neustart bei Fehler.
+>Prüft, ob Container läuft. Neustart bei Fehler.
 
 ```yaml
 apiVersion: v1
@@ -448,7 +448,7 @@ spec:
 
 ## Readiness Probe
 
->Prüft ob Container bereit ist Traffic zu empfangen.
+>Prüft, ob Container bereit ist, Traffic zu empfangen.
 
 ```yaml
 apiVersion: v1

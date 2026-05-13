@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ausbildung-kuendigung/","tags":["GFN/LF01","ausbildung/gfn/ap1"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00","dg-note-properties":{"created":"2023-10-20 17:27","links":null,"path":"Notes","tags":["GFN/LF01","ausbildung/gfn/ap1"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/ausbildung-kuendigung/","tags":["GFN/LF01","ausbildung/gfn/ap1"],"noteIcon":"","updated":"2026-05-13T08:57:40.877+02:00","dg-note-properties":{"created":"2023-10-20 17:27","links":null,"path":"Notes","tags":["GFN/LF01","ausbildung/gfn/ap1"]}}
 ---
 
 ## Kündigung 
@@ -8,7 +8,7 @@
 > - Kündigung nach der [[02 - RESOURCES/Notes/Ausbildungsprobezeit\|Ausbildungsprobezeit]] 
 
 > [!important] 
-> Du muss  nur verstehen, dass sobald man während die [[02 - RESOURCES/Notes/Ausbildungsprobezeit\|Ausbildungsprobezeit]] nicht gekündigt wird, wird man nicht so einfach rausgeschmissen und egal was passiert, passiert diese immer in eine schriftlich Form. 
+> Du musst nur verstehen, dass, sobald man während der [[02 - RESOURCES/Notes/Ausbildungsprobezeit\|Ausbildungsprobezeit]] nicht gekündigt wird, man nicht so einfach rausgeschmissen wird. Und egal, was passiert, es passiert immer in einer schriftlichen Form. 
 
 | Während der [[02 - RESOURCES/Notes/Ausbildungsprobezeit\|Ausbildungsprobezeit]] | Nach [[02 - RESOURCES/Notes/Ausbildungsprobezeit\|Ausbildungsprobezeit]] und [[02 - RESOURCES/Notes/Auszubildender\|Auszubildender]]-Entscheidung | Nach [[02 - RESOURCES/Notes/Ausbildungsprobezeit\|Ausbildungsprobezeit]] und [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]-Entscheidung |
 | ------------------------- | ------------------------------------------------------ | -------------------------------------------------- |

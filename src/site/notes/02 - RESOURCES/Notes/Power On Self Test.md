@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/power-on-self-test/","tags":["hardware/firmware","diagnostik/test"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"tags":["hardware/firmware","diagnostik/test"],"aliases":["Boot-Test"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/power-on-self-test/","tags":["hardware/firmware","diagnostik/test"],"noteIcon":"","updated":"2026-05-13T08:58:27.420+02:00","dg-note-properties":{"tags":["hardware/firmware","diagnostik/test"],"aliases":["Boot-Test"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 
-> Automatischer Selbsttest beim Computer-Start - prüft ob grundlegende Hardware-Komponenten funktionsfähig sind.
+> Automatischer Selbsttest beim Computer-Start - prüft, ob grundlegende Hardware-Komponenten funktionsfähig sind.
 
->> Wird vom [[02 - RESOURCES/Notes/BIOS\|BIOS]]/[[02 - RESOURCES/Notes/UEFI\|UEFI]] durchgeführt bevor das [[02 - RESOURCES/Notes/Betriebssystem\|Betriebssystem]] gestartet wird.
+>> Wird vom [[02 - RESOURCES/Notes/BIOS\|BIOS]]/[[02 - RESOURCES/Notes/UEFI\|UEFI]] durchgeführt, bevor das [[02 - RESOURCES/Notes/Betriebssystem\|Betriebssystem]] gestartet wird.
 
 >[!info] POST-Ablauf
 >**Test-Reihenfolge:**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker-container/","tags":["informatik/virtualisierung/docker/container","containerisierung"],"noteIcon":"","updated":"2026-05-13T08:45:09.551+02:00","dg-note-properties":{"aliases":["Docker Container","Container"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker/container","containerisierung"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker-container/","tags":["informatik/virtualisierung/docker/container","containerisierung"],"noteIcon":"","updated":"2026-05-13T08:56:51.169+02:00","dg-note-properties":{"aliases":["Docker Container","Container"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker/container","containerisierung"]}}
 ---
 
 >**Docker Container** sind laufende Instanzen von [[02 - RESOURCES/Notes/Docker Image\|Docker Image]]s mit isolierter Laufzeitumgebung.
@@ -323,7 +323,7 @@ docker ps -aq | xargs docker rm -f
 # Container Persistenz
 
 >[!warning] Wichtig
->Container sind **ephemeral** (vergänglich). Alle Änderungen im Container gehen verloren wenn er gelöscht wird!
+>Container sind **ephemeral** (vergänglich). Alle Änderungen im Container gehen verloren, wenn er gelöscht wird!
 
 ```
 OHNE VOLUME:                    MIT VOLUME:

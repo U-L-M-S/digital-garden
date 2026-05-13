@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/incident-management/","tags":["itil/service-operation","GFN/LF06","itsm"],"noteIcon":"","updated":"2025-11-05T13:14:22.000+01:00","dg-note-properties":{"tags":["itil/service-operation","GFN/LF06","itsm"],"aliases":["Störungsmanagement","Incident-Management-Prozess"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/incident-management/","tags":["itil/service-operation","GFN/LF06","itsm"],"noteIcon":"","updated":"2026-05-13T08:56:10.637+02:00","dg-note-properties":{"tags":["itil/service-operation","GFN/LF06","itsm"],"aliases":["Störungsmanagement","Incident-Management-Prozess"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 
@@ -147,7 +147,7 @@
 | Beispiel | [[02 - RESOURCES/Notes/Server\|Server]] neu starten | Warum crasht [[02 - RESOURCES/Notes/Server\|Server]]? |
 
 **Zusammenspiel:**
->Incident Management löscht das Feuer, Problem Management verhindert dass es wieder brennt.
+>Incident Management löscht das Feuer, Problem Management verhindert, dass es wieder brennt.
 
 ## KPIs
 

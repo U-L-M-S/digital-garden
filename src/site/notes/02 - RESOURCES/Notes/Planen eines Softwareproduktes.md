@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/planen-eines-softwareproduktes/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-24T11:31:14.000+01:00","dg-note-properties":{"tags":["ausbildung/gfn/ap2/vorbereitung"],"aliases":null,"links":null,"created_date":"2025-11-06"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/planen-eines-softwareproduktes/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:56:32.190+02:00","dg-note-properties":{"tags":["ausbildung/gfn/ap2/vorbereitung"],"aliases":null,"links":null,"created_date":"2025-11-06"}}
 ---
 
 >Dieser Teil der Prüfung dauert 90 Minuten und umfasst 100 Punkte (10% der Gesamtprüfung).
@@ -84,7 +84,7 @@ ___
 >[[02 - RESOURCES/Notes/Design Patterns\|Design Patterns]] sind bewährte Lösungen für typische Programmier-Probleme - wie Rezepte zum Kochen.
 
 ### [[02 - RESOURCES/Notes/Singleton\|Singleton]]
->Sorgt dafür dass es von einer [[02 - RESOURCES/Notes/Java klasse\|Klasse]] nur ein einziges [[02 - RESOURCES/Notes/Java Objekt\|Objekt]] gibt.
+>Sorgt dafür, dass es von einer [[02 - RESOURCES/Notes/Java klasse\|Klasse]] nur ein einziges [[02 - RESOURCES/Notes/Java Objekt\|Objekt]] gibt.
 
 **Verwendung:**
 - [[02 - RESOURCES/Notes/Datenbank\|Datenbank]]-Verbindung
@@ -212,7 +212,7 @@ ___
 >Tests finden Fehler bevor der Kunde sie findet - je früher desto besser!
 
 ### [[02 - RESOURCES/Notes/Test Driven Development\|Test Driven Development]] (TDD)
->Erst den Test schreiben, dann den Code - so bist du sicher dass alles getestet ist.
+>Erst den Test schreiben, dann den Code - so bist du sicher, dass alles getestet ist.
 
 🆕 **Neu im Katalog 2025!**
 
@@ -265,7 +265,7 @@ ___
 - **n:m** - Viele Produkte in vielen Bestellungen
 
 ### Normalisierung
->Daten so organisieren dass keine Redundanzen entstehen.
+>Daten so organisieren, dass keine Redundanzen entstehen.
 
 #### [[02 - RESOURCES/Notes/1. Normalform\|1. Normalform]]
 - Jede Tabellenzelle enthält nur einen Wert

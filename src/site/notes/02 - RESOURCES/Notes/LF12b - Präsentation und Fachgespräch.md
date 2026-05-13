@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/lf-12b-praesentation-und-fachgespraech/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2026-05-12T15:41:14.952+02:00","dg-note-properties":{"tags":["GFN/LF12/FISI"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/lf-12b-praesentation-und-fachgespraech/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2026-05-13T08:56:40.573+02:00","dg-note-properties":{"tags":["GFN/LF12/FISI"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
 ---
 
 # LF12b - Präsentation und Fachgespräch
@@ -45,7 +45,7 @@
 - Vertiefende Fragen zu deinem Projekt
 - Technische Details erklären
 - Alternativen diskutieren
-- Zeigen dass du das Thema verstehst
+- Zeigen, dass du das Thema verstehst
 
 **Typische Fragen:**
 

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bmc/","tags":["informatik/hardware/server"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00","dg-note-properties":{"created":"2023-09-24 21:57","links":null,"path":"Notes","tags":["informatik/hardware/server"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/bmc/","tags":["informatik/hardware/server"],"noteIcon":"","updated":"2026-05-13T08:57:20.566+02:00","dg-note-properties":{"created":"2023-09-24 21:57","links":null,"path":"Notes","tags":["informatik/hardware/server"]}}
 ---
 
 ## BMC
 >**Baseboard Management Controller**
 
-Es ist ein spezialisierter Mikrocontroller (Hardware) der in [[02 - RESOURCES/Notes/Server\|Server]] reimplantiert wird um bestimmte Daten wie Speicher, Temperatur, [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] und noch viel mehr protokolliert und in den Fall eine eine Betriebsstörung wird der Administrator kontaktiert, durch eine unabhängige Verbindung.  Der [[02 - RESOURCES/Notes/BMC\|BMC]] braucht dafür ein Protokoll und diese heißt [[02 - RESOURCES/Notes/IPMI\|IPMI]]
+Es ist ein spezialisierter Mikrocontroller (Hardware), der in [[02 - RESOURCES/Notes/Server\|Server]]n implementiert wird, um bestimmte Daten wie Speicher, Temperatur, [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] und noch viel mehr zu protokollieren. Im Fall einer Betriebsstörung wird der Administrator durch eine unabhängige Verbindung kontaktiert. Der [[02 - RESOURCES/Notes/BMC\|BMC]] braucht dafür ein Protokoll, und dieses heißt [[02 - RESOURCES/Notes/IPMI\|IPMI]].
 
 >[!summary] 
->Mit andere Wörter es ist ein mini PC in der [[02 - RESOURCES/Notes/Server\|Server]] drin und es hat sein eigenen Akku damit falls eine Betriebsstörung gibt in der [[02 - RESOURCES/Notes/Server\|Server]], der BMC funktioniert immer noch weiter.
+>In anderen Worten: Es ist ein Mini-PC im [[02 - RESOURCES/Notes/Server\|Server]] drin und hat seinen eigenen Akku, damit, falls es eine Betriebsstörung im [[02 - RESOURCES/Notes/Server\|Server]] gibt, der BMC immer noch weiterfunktioniert.

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hamming-code-7-4/","tags":["algorithmus","informatik/netzwerk","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"created":"2023-10-09 17:21","links":null,"path":"Notes","tags":["algorithmus","informatik/netzwerk","informatik/hardware"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/hamming-code-7-4/","tags":["algorithmus","informatik/netzwerk","informatik/hardware"],"noteIcon":"","updated":"2026-05-13T08:57:29.382+02:00","dg-note-properties":{"created":"2023-10-09 17:21","links":null,"path":"Notes","tags":["algorithmus","informatik/netzwerk","informatik/hardware"]}}
 ---
 
->Hamming-Code oder besser gesagt (7,4)-Hamming-Code ist ein Code bei den Daten (Nachricht) gesendet wird + eine Prüfsumme. 
->>Die Prüfsumme  ist nur da zu überprüfen ob ein Bit-Fehler (Bit-Invertierung) passiert ist.
+>Hamming-Code oder besser gesagt (7,4)-Hamming-Code ist ein Code, bei dem Daten (Nachricht) gesendet werden + eine Prüfsumme. 
+>>Die Prüfsumme ist nur dazu da, zu überprüfen, ob ein Bit-Fehler (Bit-Invertierung) passiert ist.
  
  Die ersten 4 Bits sind die Nachricht und die letzten 3 sind die Prüfbits.
 $x_{1}$ = 0

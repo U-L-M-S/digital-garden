@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/and-operator/","tags":["mathe","informatik/logik"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00","dg-note-properties":{"aliases":["AND-Operator"],"created":"2024-07-26 13:48","links":null,"path":"Notes","tags":["mathe","informatik/logik"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/and-operator/","tags":["mathe","informatik/logik"],"noteIcon":"","updated":"2026-05-13T08:53:37.734+02:00","dg-note-properties":{"aliases":["AND-Operator"],"created":"2024-07-26 13:48","links":null,"path":"Notes","tags":["mathe","informatik/logik"]}}
 ---
 
 
->Es ist nur TRUE wenn beides Inputs TRUE sind.
+>Es ist nur TRUE, wenn beide Inputs TRUE sind.
 
 |  A  |  B  | **A∧B** |
 | :-: | :-: | :-----: |

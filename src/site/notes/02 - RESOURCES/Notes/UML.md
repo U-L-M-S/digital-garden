@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml/","tags":["ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","uml"],"noteIcon":"","updated":"2025-11-12T15:21:12.000+01:00","dg-note-properties":{"aliases":["Unified Modeling Language","uml"],"created_date":"2024-09-26","links":null,"tags":["ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","uml"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml/","tags":["ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","uml"],"noteIcon":"","updated":"2026-05-13T08:58:07.440+02:00","dg-note-properties":{"aliases":["Unified Modeling Language","uml"],"created_date":"2024-09-26","links":null,"tags":["ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","uml"]}}
 ---
 
 
->[[02 - RESOURCES/Notes/UML\|UML]] (Unified Modeling Language) ist eine Sprache um Software zu zeichnen. Mit Bildern und Diagrammen zeigt man, wie ein Programm aufgebaut ist.
+>[[02 - RESOURCES/Notes/UML\|UML]] (Unified Modeling Language) ist eine Sprache, um Software zu zeichnen. Mit Bildern und Diagrammen zeigt man, wie ein Programm aufgebaut ist.
 
 >>[[02 - RESOURCES/Notes/UML\|UML]] hilft, komplexe Software zu planen und zu dokumentieren. Es ist wie eine Bauzeichnung für Gebäude - nur für Programme.
 
@@ -388,7 +388,7 @@ PHASE 4: TEST
 >**Frage 2:** "Was ist der Unterschied zwischen Struktur- und Verhaltensdiagrammen?"
 >
 >**Antwort:**
->**Strukturdiagramme** zeigen den statischen Aufbau des Systems (z.B. Klassendiagramm). Sie ändern sich nicht während das Programm läuft.
+>**Strukturdiagramme** zeigen den statischen Aufbau des Systems (z.B. Klassendiagramm). Sie ändern sich nicht, während das Programm läuft.
 >
 >**Verhaltensdiagramme** zeigen dynamische Abläufe (z.B. Aktivitätsdiagramm). Sie zeigen, was während der Programmausführung passiert.
 

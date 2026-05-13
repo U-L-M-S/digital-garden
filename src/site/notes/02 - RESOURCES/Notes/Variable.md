@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/variable/","tags":["informatik/code"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"aliases":["Variable","variable"],"created_date":"2024-08-25","links":null,"path":"Notes","tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/variable/","tags":["informatik/code"],"noteIcon":"","updated":"2026-05-13T08:51:30.712+02:00","dg-note-properties":{"aliases":["Variable","variable"],"created_date":"2024-08-25","links":null,"path":"Notes","tags":["informatik/code"]}}
 ---
 
->Es ist ein **Placeholder** für ein Wert.
+>Es ist ein **Placeholder** für einen Wert.
 
 ```python
 # Integer

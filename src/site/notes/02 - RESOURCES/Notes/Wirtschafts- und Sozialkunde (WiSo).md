@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wirtschafts-und-sozialkunde-wi-so/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-06T11:15:26.000+01:00","dg-note-properties":{"tags":["ausbildung/gfn/ap2/vorbereitung"],"aliases":["WiSo"],"links":null,"created_date":"2025-11-06"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/wirtschafts-und-sozialkunde-wi-so/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:58:30.411+02:00","dg-note-properties":{"tags":["ausbildung/gfn/ap2/vorbereitung"],"aliases":["WiSo"],"links":null,"created_date":"2025-11-06"}}
 ---
 
 
@@ -250,7 +250,7 @@ Umlaufvermögen:               |  - Langfristige Kredite
 **Bilanzgleichung:** Aktiva = Passiva
 
 ### GuV (Gewinn- und Verlustrechnung)
->Zeigt ob Unternehmen Gewinn oder Verlust gemacht hat.
+>Zeigt, ob das Unternehmen Gewinn oder Verlust gemacht hat.
 
 **Aufbau:**
 ```

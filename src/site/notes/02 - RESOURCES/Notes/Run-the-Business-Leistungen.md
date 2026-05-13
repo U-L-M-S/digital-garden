@@ -1,19 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/run-the-business-leistungen/","tags":["it-service/service-arten","GFN/LF06","itsm/grundlagen"],"noteIcon":"","updated":"2025-11-05T13:09:11.000+01:00","dg-note-properties":{"tags":["it-service/service-arten","GFN/LF06","itsm/grundlagen"],"aliases":["Run the Business","RTB-Leistungen","Betriebsleistungen"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/run-the-business-leistungen/","tags":["it-service/service-arten","GFN/LF06","itsm/grundlagen"],"noteIcon":"","updated":"2026-05-13T08:56:20.526+02:00","dg-note-properties":{"tags":["it-service/service-arten","GFN/LF06","itsm/grundlagen"],"aliases":["Run the Business","RTB-Leistungen","Betriebsleistungen"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 
->[[02 - RESOURCES/Notes/Run-the-Business-Leistungen\|Run-the-Business-Leistungen]] sind IT-Services die dein Geschäft am Laufen halten - wie der Hausmeister der dafür sorgt dass alles funktioniert wie gewohnt.
+>[[02 - RESOURCES/Notes/Run-the-Business-Leistungen\|Run-the-Business-Leistungen]] sind IT-Services, die dein Geschäft am Laufen halten - wie der Hausmeister, der dafür sorgt, dass alles funktioniert wie gewohnt.
 
->>Das sind die täglichen IT-Aufgaben die dein Unternehmen braucht um zu arbeiten - ohne Überraschungen, ohne Ausfälle.
+>>Das sind die täglichen IT-Aufgaben, die dein Unternehmen braucht, um zu arbeiten - ohne Überraschungen, ohne Ausfälle.
 
 ## Grundprinzip
 
 >[!quote] Definition
->[[02 - RESOURCES/Notes/Run-the-Business-Leistungen\|Run-the-Business-Leistungen]] (RTB) sind IT-Services die den aktuellen Geschäftsbetrieb aufrechterhalten und sicherstellen dass die IT-Infrastruktur stabil läuft.
+>[[02 - RESOURCES/Notes/Run-the-Business-Leistungen\|Run-the-Business-Leistungen]] (RTB) sind IT-Services, die den aktuellen Geschäftsbetrieb aufrechterhalten und sicherstellen, dass die IT-Infrastruktur stabil läuft.
 
 **Einfach gesagt:**
->Das ist alles was dafür sorgt dass deine IT-Systeme **heute genauso funktionieren wie gestern** - ohne Ausfälle, ohne Probleme.
+>Das ist alles, was dafür sorgt, dass deine IT-Systeme **heute genauso funktionieren wie gestern** - ohne Ausfälle, ohne Probleme.
 
 ## Merkmale
 

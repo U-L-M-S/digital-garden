@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-daemon-sets/","tags":["informatik/virtualisierung/kubernetes/daemonsets","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:30:47.000+01:00","dg-note-properties":{"aliases":["Kubernetes DaemonSets","K8s DaemonSet","DaemonSet"],"created_date":"2025-11-06","links":null,"tags":["informatik/virtualisierung/kubernetes/daemonsets","devops/kubernetes"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/kubernetes-daemon-sets/","tags":["informatik/virtualisierung/kubernetes/daemonsets","devops/kubernetes"],"noteIcon":"","updated":"2026-05-13T08:56:12.893+02:00","dg-note-properties":{"aliases":["Kubernetes DaemonSets","K8s DaemonSet","DaemonSet"],"created_date":"2025-11-06","links":null,"tags":["informatik/virtualisierung/kubernetes/daemonsets","devops/kubernetes"]}}
 ---
 
->**DaemonSets** stellen sicher dass auf jedem Node (oder ausgewählten Nodes) genau ein [[02 - RESOURCES/Notes/Kubernetes Pods\|Pod]] läuft.
->>Ideal für Node-Level Services wie Monitoring, Logging, oder Netzwerk-Plugins die auf allen Nodes laufen müssen.
+>**DaemonSets** stellen sicher, dass auf jedem Node (oder ausgewählten Nodes) genau ein [[02 - RESOURCES/Notes/Kubernetes Pods\|Pod]] läuft.
+>>Ideal für Node-Level Services wie Monitoring, Logging oder Netzwerk-Plugins, die auf allen Nodes laufen müssen.
 
 ---
 
