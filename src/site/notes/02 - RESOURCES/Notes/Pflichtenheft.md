@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pflichtenheft/","tags":["ausbildung/gfn/ap1","projektmanagement"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":["pflichtenheft"],"created":"2024-07-01 14:24","links":null,"path":"Notes","tags":["ausbildung/gfn/ap1","projektmanagement"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/pflichtenheft/","tags":["ausbildung/gfn/ap1","projektmanagement"],"noteIcon":"","updated":"2026-05-13T08:21:00.318+02:00","dg-note-properties":{"aliases":["pflichtenheft"],"created":"2024-07-01 14:24","links":null,"path":"Notes","tags":["ausbildung/gfn/ap1","projektmanagement"]}}
 ---
 
->Notwendig Dokument für die Entstehung eines Projekts.
+>Notwendiges Dokument für die Entstehung eines Projekts.
 >Es enthält alle Anforderungen, Funktionen und Spezifikationen.
  
->W**i**e und wom**i**t
->Man muss diese 2 Fragen immer sich selbst stellen wenn man den [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]] schreibt.
+>W**i**e und wom**i**t?
+>Man muss sich diese 2 Fragen immer selbst stellen, wenn man das [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]] schreibt.
 
 >[!note] 
->Es hängt extrem zusammen mit [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]]
+>Es hängt extrem mit [[02 - RESOURCES/Notes/Lastenheft\|Lastenheft]] zusammen.
 
 
 # [[02 - RESOURCES/Notes/Pflichtenheft\|Pflichtenheft]] Bsp

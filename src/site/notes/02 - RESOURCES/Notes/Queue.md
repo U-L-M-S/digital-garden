@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/queue/","tags":["datenstrukturen/queue","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-11-05T12:25:33.000+01:00","dg-note-properties":{"tags":["datenstrukturen/queue","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"aliases":["Warteschlange","FIFO","Queue-Datenstruktur"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/queue/","tags":["datenstrukturen/queue","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:38:52.178+02:00","dg-note-properties":{"tags":["datenstrukturen/queue","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"aliases":["Warteschlange","FIFO","Queue-Datenstruktur"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 
->Eine [[02 - RESOURCES/Notes/Queue\|Queue]] ist eine Datenstruktur nach dem **First In, First Out (FIFO)** Prinzip - wie eine Warteschlange im Supermarkt, wo der Erste der ankommt auch Erster bedient wird.
+>Eine [[02 - RESOURCES/Notes/Queue\|Queue]] ist eine Datenstruktur nach dem **First In, First Out (FIFO)** Prinzip - wie eine Warteschlange im Supermarkt, wo der Erste, der ankommt, auch als Erster bedient wird.
 
 >>Wer zuerst kommt, mahlt zuerst!
 
 ## Grundprinzip
 
 >[!quote] Definition
->Eine [[02 - RESOURCES/Notes/Queue\|Queue]] ist eine lineare Datenstruktur bei der Elemente **hinten** hinzugefügt und **vorne** entfernt werden.
+>Eine [[02 - RESOURCES/Notes/Queue\|Queue]] ist eine lineare Datenstruktur, bei der Elemente **hinten** hinzugefügt und **vorne** entfernt werden.
 
 ### FIFO - First In, First Out
 
@@ -185,7 +185,7 @@ public class CircularQueue {
 ```
 
 **Warum Circular?**
->Verhindert dass Array "nach rechts wandert" - nutzt Platz effizient durch Modulo-Rechnung.
+>Verhindert, dass Array "nach rechts wandert" - nutzt Platz effizient durch Modulo-Rechnung.
 
 ```
 Normal:     [_ _ _ 3 4]  ← front, rear kann nicht weiter
@@ -442,7 +442,7 @@ String item = queue.take();  // Blockiert wenn leer
 ## Zusammenfassung
 
 >[!quote] Kern-Aussage
->Eine [[02 - RESOURCES/Notes/Queue\|Queue]] ist eine FIFO-Datenstruktur wo Elemente hinten hinzugefügt und vorne entfernt werden - wie eine Warteschlange.
+>Eine [[02 - RESOURCES/Notes/Queue\|Queue]] ist eine FIFO-Datenstruktur, wo Elemente hinten hinzugefügt und vorne entfernt werden - wie eine Warteschlange.
 
 **Merksatz:**
 >"First In, First Out - Wer zuerst kommt, wird zuerst bedient!"

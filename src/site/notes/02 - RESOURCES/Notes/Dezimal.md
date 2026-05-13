@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dezimal/","tags":["mathe"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"aliases":["dezimal"],"created":"2024-07-25 15:24","links":null,"path":"Notes","tags":["mathe"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/dezimal/","tags":["mathe"],"noteIcon":"","updated":"2026-05-13T08:30:43.348+02:00","dg-note-properties":{"aliases":["dezimal"],"created":"2024-07-25 15:24","links":null,"path":"Notes","tags":["mathe"]}}
 ---
 
 >Zahlsystem, das auf der Basis 10 basiert.
 >> [[02 - RESOURCES/Notes/Zifferbereich\|Zifferbereich]] von 0 bis 9
 
-6500123 -> Sechs Millionen fünfhundertdreitausenddreiundzwanzig
+6500123 -> Sechs Millionen fünfhunderttausend einhundertdreiundzwanzig
 
 | $x*10^{6}$ | $x*10^{5}$ | $x*10^{4}$ | $x*10^{3}$ | $x*10^{2}$ | $x*10^{1}$ | $x*10^{0}$ |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |

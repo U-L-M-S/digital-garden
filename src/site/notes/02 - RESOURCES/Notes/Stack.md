@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/stack/","tags":["datenstrukturen/stack","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-11-05T12:24:15.000+01:00","dg-note-properties":{"tags":["datenstrukturen/stack","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"aliases":["Stapel","LIFO","Stack-Datenstruktur"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/stack/","tags":["datenstrukturen/stack","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:38:45.404+02:00","dg-note-properties":{"tags":["datenstrukturen/stack","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"aliases":["Stapel","LIFO","Stack-Datenstruktur"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 
@@ -10,7 +10,7 @@
 ## Grundprinzip
 
 >[!quote] Definition
->Ein [[02 - RESOURCES/Notes/Stack\|Stack]] ist eine lineare Datenstruktur bei der Elemente nur an einem Ende (der Spitze) hinzugefügt und entfernt werden können.
+>Ein [[02 - RESOURCES/Notes/Stack\|Stack]] ist eine lineare Datenstruktur, bei der Elemente nur an einem Ende (der Spitze) hinzugefügt und entfernt werden können.
 
 ### LIFO - Last In, First Out
 
@@ -53,7 +53,7 @@ int element = stack.pop();  // 3
 **Komplexität:** [[02 - RESOURCES/Notes/1. Big O(1)\|O(1)]]
 
 >[!warning] Warnung
->pop() auf leerem [[02 - RESOURCES/Notes/Stack\|Stack]] wirft Exception! Immer erst prüfen ob Stack leer ist.
+>pop() auf leerem [[02 - RESOURCES/Notes/Stack\|Stack]] wirft Exception! Immer erst prüfen, ob Stack leer ist.
 
 #### 3. peek() / top() - Oberstes Element anschauen
 >Gibt oberstes Element zurück **ohne** es zu entfernen.
@@ -390,7 +390,7 @@ void unendlicheRekursion() {
 ## Zusammenfassung
 
 >[!quote] Kern-Aussage
->Ein [[02 - RESOURCES/Notes/Stack\|Stack]] ist eine LIFO-Datenstruktur wo Elemente nur oben hinzugefügt und entfernt werden - wie ein Stapel Teller.
+>Ein [[02 - RESOURCES/Notes/Stack\|Stack]] ist eine LIFO-Datenstruktur, wo Elemente nur oben hinzugefügt und entfernt werden - wie ein Stapel Teller.
 
 **Merksatz:**
 >"Last In, First Out - Was zuletzt drauf kommt, geht zuerst wieder runter!"

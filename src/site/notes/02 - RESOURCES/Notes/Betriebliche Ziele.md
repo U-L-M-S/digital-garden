@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/betriebliche-ziele/","tags":["wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00","dg-note-properties":{"created":"2023-10-12 17:59","links":null,"path":"Notes","tags":["wirtschaft/bwl"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/betriebliche-ziele/","tags":["wirtschaft/bwl"],"noteIcon":"","updated":"2026-05-13T08:26:26.532+02:00","dg-note-properties":{"created":"2023-10-12 17:59","links":null,"path":"Notes","tags":["wirtschaft/bwl"]}}
 ---
 
 ## Betriebliche Ziele 
->Was will das Unternehme erreichen. Geld ? Sozial?
+>Was will das Unternehmen erreichen? Geld? Sozial?
 
 
 Unternehmen können hauptsächlich 3 Ziele haben:

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/algorithmus/","tags":["algorithmus","informatik/code/algorithmus","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:21:10.000+01:00","dg-note-properties":{"aliases":["Algo","algorithmus"],"created_date":"2024-10-21","links":null,"tags":["algorithmus","informatik/code/algorithmus","GFN/prüfungsrelevant/AP2"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/algorithmus/","tags":["algorithmus","informatik/code/algorithmus","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-05-13T08:38:06.715+02:00","dg-note-properties":{"aliases":["Algo","algorithmus"],"created_date":"2024-10-21","links":null,"tags":["algorithmus","informatik/code/algorithmus","GFN/prüfungsrelevant/AP2"]}}
 ---
 
 
->Ein [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] ist eine genaue Schritt-für-Schritt-Anleitung um ein Problem zu lösen.
+>Ein [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] ist eine genaue Schritt-für-Schritt-Anleitung, um ein Problem zu lösen.
 
 >>Jeder [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] hat eine Eingabe (Input), verarbeitet diese nach festen Regeln und liefert eine Ausgabe (Output).
 

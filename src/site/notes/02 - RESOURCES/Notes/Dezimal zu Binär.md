@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dezimal-zu-binaer/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-23","links":null,"tags":["mathe/binärzahlen"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/dezimal-zu-binaer/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2026-05-13T08:33:25.929+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-23","links":null,"tags":["mathe/binärzahlen"]}}
 ---
 
 >Es gibt mehrere Möglichkeiten, aber oft wird das hier verwendet:
@@ -18,4 +18,4 @@
 | **0** |     |          |      |
 
 Jetzt müssen wir den Rest **rückwärts** zählen.
-D.h: **96** in Dezimal ist **1100000**
+D.h: **96** in Binär ist **1100000**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/entwicklung-und-umsetzung-von-algorithmen/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2025-11-06T11:14:43.000+01:00","dg-note-properties":{"tags":["ausbildung/gfn/ap2/vorbereitung"],"aliases":null,"links":null,"created_date":"2025-11-06"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/entwicklung-und-umsetzung-von-algorithmen/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:38:20.853+02:00","dg-note-properties":{"tags":["ausbildung/gfn/ap2/vorbereitung"],"aliases":null,"links":null,"created_date":"2025-11-06"}}
 ---
 
 
@@ -8,7 +8,7 @@
 ___
 
 ## [[02 - RESOURCES/Notes/SQL\|SQL]] - Strukturierte Datenbankabfragen
->[[02 - RESOURCES/Notes/SQL\|SQL]] ist die Sprache um mit [[02 - RESOURCES/Notes/Datenbank\|Datenbank]]en zu kommunizieren - unverzichtbar für jeden Entwickler.
+>[[02 - RESOURCES/Notes/SQL\|SQL]] ist die Sprache, um mit [[02 - RESOURCES/Notes/Datenbank\|Datenbank]]en zu kommunizieren - unverzichtbar für jeden Entwickler.
 
 >[!important] Wichtig - Prüfungsrelevant
 >In der AP2 gibt es ein **2-seitiges SQL-Detailblatt** mit allen Befehlen! 👈
@@ -205,7 +205,7 @@ ___
 ### Sortieralgorithmen
 
 #### [[02 - RESOURCES/Notes/Bubble Sort\|Bubble Sort]]
->Vergleicht benachbarte Elemente und tauscht sie wenn nötig - wie Blasen die aufsteigen.
+>Vergleicht benachbarte Elemente und tauscht sie, wenn nötig - wie Blasen, die aufsteigen.
 
 **Funktionsweise:**
 1. Vergleiche Element mit Nachbar
@@ -339,7 +339,7 @@ int binarySearch(int[] arr, int target) {
 ___
 
 ## Komplexitätsanalyse - O-Notation
->Beschreibt wie langsam ein [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] wird wenn Daten größer werden.
+>Beschreibt, wie langsam ein [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] wird, wenn Daten größer werden.
 
 ### Die wichtigsten Komplexitäten:
 
@@ -483,7 +483,7 @@ switch (tag) {
 ### Schleifen
 
 #### for-Schleife
->Wenn du weißt wie oft wiederholt werden soll.
+>Wenn du weißt, wie oft wiederholt werden soll.
 
 ```java
 for (int i = 0; i < 10; i++) {
@@ -559,7 +559,7 @@ public void testAddition() {
 ___
 
 ## Datenstrukturen
->Wie du Daten organisierst beeinflusst Performance und Wartbarkeit.
+>Wie du Daten organisierst, beeinflusst Performance und Wartbarkeit.
 
 ### Arrays
 >Feste Größe, schneller Zugriff über Index.
@@ -626,10 +626,10 @@ String naechster = queue.poll(); // "Erster"
 ___
 
 ## Fehlerbehandlung
->Fehler passieren - wichtig ist wie du damit umgehst.
+>Fehler passieren - wichtig ist, wie du damit umgehst.
 
 ### try-catch-finally
->Fange Fehler ab bevor das Programm abstürzt.
+>Fange Fehler ab, bevor das Programm abstürzt.
 
 ```java
 try {
@@ -677,7 +677,7 @@ ___
 - **Ventil** - Flüssigkeiten steuern
 
 ### Bibliotheken für [[02 - RESOURCES/Notes/CPS\|CPS]]
->Nutze fertige Bibliotheken statt alles selbst zu programmieren.
+>Nutze fertige Bibliotheken, statt alles selbst zu programmieren.
 
 **Beispiele:**
 - **Arduino Libraries** - für Mikrocontroller
@@ -706,7 +706,7 @@ while (true) {
 ___
 
 ## [[02 - RESOURCES/Notes/Monitoring\|Monitoring]]
->Überwache deine Systeme - finde Probleme bevor Nutzer sie merken.
+>Überwache deine Systeme - finde Probleme, bevor Nutzer sie merken.
 
 🆕 **Festlegung Monitoringdaten verstärkt im Katalog 2025!**
 
@@ -719,7 +719,7 @@ ___
 - **Fehlerraten** - Wie viele Anfragen schlagen fehl?
 
 ### [[Schwellwerte\|Schwellwerte]] festlegen
->Definiere Grenzwerte ab wann Alarm geschlagen wird.
+>Definiere Grenzwerte, ab wann Alarm geschlagen wird.
 
 🆕 **Verstärkt im Katalog 2025!**
 

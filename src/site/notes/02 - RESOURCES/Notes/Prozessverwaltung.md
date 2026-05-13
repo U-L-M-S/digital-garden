@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/prozessverwaltung/","tags":["software/betriebssystem","informatik/prozesse"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"tags":["software/betriebssystem","informatik/prozesse"],"aliases":["Process Management","Task-Management"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/prozessverwaltung/","tags":["software/betriebssystem","informatik/prozesse"],"noteIcon":"","updated":"2026-05-13T08:17:16.651+02:00","dg-note-properties":{"tags":["software/betriebssystem","informatik/prozesse"],"aliases":["Process Management","Task-Management"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 
-> [[02 - RESOURCES/Notes/Betriebssystem\|Betriebssystem]]-Komponente die Prozesse (laufende Programme) startet, stoppt, überwacht und koordiniert.
+> [[02 - RESOURCES/Notes/Betriebssystem\|Betriebssystem]]-Komponente, die Prozesse (laufende Programme) startet, stoppt, überwacht und koordiniert.
 
 >> Sorgt für konfliktfreie Nutzung der Systemressourcen zwischen mehreren gleichzeitigen Programmen.
 

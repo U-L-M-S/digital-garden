@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pseudocode/","tags":["informatik/code","GFN/prüfungsrelevant/AP2","AI-generated"],"noteIcon":"","updated":"2025-11-12T15:22:55.000+01:00","dg-note-properties":{"tags":["informatik/code","GFN/prüfungsrelevant/AP2","AI-generated"],"aliases":["pseudocode"],"links":null,"created_date":"2025-09-15"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/pseudocode/","tags":["informatik/code","GFN/prüfungsrelevant/AP2","AI-generated"],"noteIcon":"","updated":"2026-05-13T08:38:40.401+02:00","dg-note-properties":{"tags":["informatik/code","GFN/prüfungsrelevant/AP2","AI-generated"],"aliases":["pseudocode"],"links":null,"created_date":"2025-09-15"}}
 ---
 
 > [[02 - RESOURCES/Notes/Pseudocode\|Pseudocode]] ist wie ein Rezept zum Kochen - du schreibst die Schritte auf, bevor du wirklich kochst. Es ist eine Zwischenstufe zwischen deiner Idee und dem echten [[Code\|Code]].
-> > Mit [[02 - RESOURCES/Notes/Pseudocode\|Pseudocode]] kannst du deine [[02 - RESOURCES/Notes/Algorithmus\|Algorithmen]] planen, ohne dich um die [[Syntax\|Syntax]] einer bestimmten Programs kümmern zu müssen.
+> > Mit [[02 - RESOURCES/Notes/Pseudocode\|Pseudocode]] kannst du deine [[02 - RESOURCES/Notes/Algorithmus\|Algorithmen]] planen, ohne dich um die [[Syntax\|Syntax]] einer bestimmten Programmiersprache kümmern zu müssen.
 ___
 ## Warum [[02 - RESOURCES/Notes/Pseudocode\|Pseudocode]] verwenden?
 
-- **Planung**: Durchdenke deinen [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]] bevor du Code
+- **Planung**: Durchdenke deinen [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]], bevor du Code schreibst
 - **Kommunikation**: Zeige anderen deine Idee ohne Syntax-Probleme
 - **[[02 - RESOURCES/Notes/Debugging\|Debugging]]**: Finde Logikfehler früher
 - **Sprachunabhängig**: Funktioniert für [[02 - RESOURCES/Notes/Java\|Java]], [[02 - RESOURCES/Notes/Python\|Python]], [[02 - RESOURCES/Notes/C++\|C++]] etc.
 
 # I. Grundelemente von [[02 - RESOURCES/Notes/Pseudocode\|Pseudocode]]
 
-> Die wichtigsten Bausteine die du immer wieder brauchst.
+> Die wichtigsten Bausteine, die du immer wieder brauchst.
 > 
 > > Wie Lego-Steine - damit baust du jeden [[02 - RESOURCES/Notes/Algorithmus\|Algorithmus]].
 

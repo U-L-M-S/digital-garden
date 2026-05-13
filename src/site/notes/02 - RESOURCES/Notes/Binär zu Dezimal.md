@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/binaer-zu-dezimal/","tags":["ausbildung/gfn/ap1/vorbereitung","mathe/binärzahlen"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-23","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","mathe/binärzahlen"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/binaer-zu-dezimal/","tags":["ausbildung/gfn/ap1/vorbereitung","mathe/binärzahlen"],"noteIcon":"","updated":"2026-05-13T08:33:24.770+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-23","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","mathe/binärzahlen"]}}
 ---
 
 **11001101**
@@ -10,7 +10,7 @@ Die Zahl **11001101** in Tabelle einsetzen
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | --- | --- | --- | --- |
 |     |     |     |  1  |  1  |  0  |  0  | 1   | 1   | 0   | 1   |
 
-überall wo ein **1** steht summieren. D.h 
+überall, wo eine **1** steht, summieren. D.h 
 2⁰+2²+2³+2⁶+2⁷
 1 + 4 + 8 + 64 + 128 = 205
 

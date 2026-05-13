@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/python-variable/","tags":["informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":["Python Variable"],"created_date":"2024-11-02","links":null,"tags":["informatik/programmierung/sprachen/python"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/python-variable/","tags":["informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2026-05-13T08:11:14.800+02:00","dg-note-properties":{"aliases":["Python Variable"],"created_date":"2024-11-02","links":null,"tags":["informatik/programmierung/sprachen/python"]}}
 ---
 
->In viele Computersprachen müssen die Variablen mit den [[02 - RESOURCES/Notes/Datentyp\|Datentyp]] definiert werden.
->In Python wird das nicht gemacht. Er erkennt automatisch die [[02 - RESOURCES/Notes/Datentyp\|Datentyp]] bei Erstellung von eine Variable. 
+>In vielen Computersprachen müssen die Variablen mit dem [[02 - RESOURCES/Notes/Datentyp\|Datentyp]] definiert werden.
+>In Python wird das nicht gemacht. Es erkennt automatisch den [[02 - RESOURCES/Notes/Datentyp\|Datentyp]] bei Erstellung einer Variable. 
 
 ```python
 variable_integer = 3
@@ -41,8 +41,8 @@ print(type(variable_tuple))
 ```
 
 >[!important] 
->Python erkennt eine Variable [[02 - RESOURCES/Notes/Datentyp\|Datentyp]] nur solange das Wert in den Code definiert wurde.
->Sobald den Nutzer ein Wert über Terminal eingibt wird diese als String gesehen.
+>Python erkennt einen Variablen-[[02 - RESOURCES/Notes/Datentyp\|Datentyp]] nur solange der Wert im Code definiert wurde.
+>Sobald der Nutzer einen Wert über das Terminal eingibt, wird dieser als String gesehen.
 
 ```python
 user_input = input("Gib bitte ein Wert ein: ")

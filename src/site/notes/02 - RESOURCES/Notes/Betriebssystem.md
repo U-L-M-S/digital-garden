@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/betriebssystem/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/betriebssystem","software/system"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00","dg-note-properties":{"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/betriebssystem","software/system"],"aliases":["OS","Operating System","System-Software"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/betriebssystem/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/betriebssystem","software/system"],"noteIcon":"","updated":"2026-05-13T08:16:22.473+02:00","dg-note-properties":{"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/betriebssystem","software/system"],"aliases":["OS","Operating System","System-Software"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 
 > Der Chef im Computer - verwaltet Hardware, koordiniert Programme und stellt dem Benutzer eine bedienbare Oberfläche bereit.
 
->> Sammlung von Programmen die es ermöglichen, den Rechner zu betreiben und Anwendungen darauf auszuführen.
+>> Sammlung von Programmen, die es ermöglichen, den Rechner zu betreiben und Anwendungen darauf auszuführen.
 
 >[!info] Hauptaufgaben
 >**Verwaltung von:**

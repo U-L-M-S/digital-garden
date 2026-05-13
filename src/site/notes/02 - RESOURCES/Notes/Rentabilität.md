@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rentabilitaet/","tags":["ausbildung/gfn/ap1/vorbereitung","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":["ROI"],"created_date":"2025-03-16","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","wirtschaft/bwl"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/rentabilitaet/","tags":["ausbildung/gfn/ap1/vorbereitung","wirtschaft/bwl"],"noteIcon":"","updated":"2026-05-13T08:27:22.787+02:00","dg-note-properties":{"aliases":["ROI"],"created_date":"2025-03-16","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","wirtschaft/bwl"]}}
 ---
 
->Es Misst, wie wirtschaftlich erfolgreich (profitabel) eine Investition ist.
+>Es misst, wie wirtschaftlich erfolgreich (profitabel) eine Investition ist.
 > - Zeigt das Verhältnis zwischen erzieltem **[[02 - RESOURCES/Notes/Gewinn\|Gewinn]]** und eingesetztem **Kapital**.
 
 $$

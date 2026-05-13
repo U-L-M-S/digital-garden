@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/marktformen/","tags":["wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-17","links":null,"tags":["wirtschaft/bwl"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/marktformen/","tags":["wirtschaft/bwl"],"noteIcon":"","updated":"2026-05-13T08:27:08.702+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-17","links":null,"tags":["wirtschaft/bwl"]}}
 ---
 
 >Es gibt 3 Marktformen und diese sind in 2 Arten aufgeteilt (Anbieter/Nachfrager).
@@ -19,7 +19,7 @@
 	- VAG Verkehr
 	
 - [[02 - RESOURCES/Notes/Polypol\|Polypol]]
-	- viel Anbieter
+	- viele Anbieter
 		- Wasseranbieter
-	- viel Nachfrager
-		- Türkische laden
+	- viele Nachfrager
+		- Türkische Läden

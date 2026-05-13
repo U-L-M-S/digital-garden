@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wasserfallmodell/","tags":["ausbildung/gfn/ap1/vorbereitung","projektmanagement"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"aliases":["waterfall model","Waterfall Model","Waterfall-Mdel"],"created_date":"2024-11-10","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","projektmanagement"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/wasserfallmodell/","tags":["ausbildung/gfn/ap1/vorbereitung","projektmanagement"],"noteIcon":"","updated":"2026-05-13T08:20:01.437+02:00","dg-note-properties":{"aliases":["waterfall model","Waterfall Model","Waterfall-Mdel"],"created_date":"2024-11-10","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","projektmanagement"]}}
 ---
 
 
 >Es ist eine Art von [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]].
->>Genauer gesagt handelt es sich um ein [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassisches Vorgehensmodelle]].
+>>Genauer gesagt handelt es sich um ein [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassisches Vorgehensmodell]].
 
 >[!summary] 
 >Das [[02 - RESOURCES/Notes/Wasserfallmodell\|Wasserfallmodell]] wird in 5~6 Phasen unterteilt.

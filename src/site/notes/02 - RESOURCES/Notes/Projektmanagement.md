@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/projektmanagement/","tags":["ausbildung/gfn/ap1","projektmanagement"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"created":"2024-02-22 09:06","links":null,"tags":["ausbildung/gfn/ap1","projektmanagement"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/projektmanagement/","tags":["ausbildung/gfn/ap1","projektmanagement"],"noteIcon":"","updated":"2026-05-13T08:19:31.616+02:00","dg-note-properties":{"created":"2024-02-22 09:06","links":null,"tags":["ausbildung/gfn/ap1","projektmanagement"]}}
 ---
 
->Es kommt aus Lateinisch und hat als Merkmale eine Aufgabe einmal zu machen (Ohne Wiederholung). 
->>Daher soll man [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]]en nicht mit Routinen verwechseln.
+>Es kommt aus dem Lateinischen und hat als Merkmal, eine Aufgabe einmal zu machen (Ohne Wiederholung). 
+>>Daher soll man [[02 - RESOURCES/Notes/Projektmanagement\|Projekte]] nicht mit Routinen verwechseln.
 
-Ein [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] kann aber in 2 Arten getrennt werden.
+Ein [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] kann aber in 2 Arten unterteilt werden.
 - [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassische Vorgehensmodelle]]
 - [[02 - RESOURCES/Notes/Agile Vorgehensmodelle\|Agile Vorgehensmodelle]]
 
-## Merkmalen
+## Merkmale
 1. **Einmaligkeit**: Ein Projekt ist ein einzigartiges Vorhaben mit klar definierten Zielen.
     
 2. **Zeitliche Begrenzung**: Projekte haben festgelegte Anfangs- und Endtermine.
@@ -32,13 +32,13 @@ Ein [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] kann aber in 2
 | Routine                            | Projekt                                                      |
 | ---------------------------------- | ------------------------------------------------------------ |
 | Altbekannte Ziele                  | Ziele sind neu festgelegt oder verändern sich                |
-| Eingespiltes Team                  | Teammitglieder bekommen neue Rollen und Verantwortungen      |
+| Eingespieltes Team                  | Teammitglieder bekommen neue Rollen und Verantwortungen      |
 | Bereits bekannte Abläufe           | Abläufe müssen neu entwickelt und geplant werden             |
 | Feste Mitarbeiter                  | Mitarbeiter müssen neu zugeordnet und koordiniert werden     |
 | Festes Budget                      | [[02 - RESOURCES/Notes/Kosten\|Kosten]] müssen erst geplant, genehmigt und abgestimmt werden  |
 | Wenig Risiko in der Zielerreichung | Unsicherheiten und Risiken bei der Zielerreichung sind höher |
 
-Jetzt, da du weißt, was ein [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] ist, solltest du den [[02 - RESOURCES/Notes/Deming Zyklus\|Deming Zyklus]] kennenlernen und natürlich wissen die 5 Gründe für eine Projektmanagement.
+Jetzt, da du weißt, was [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] ist, solltest du den [[02 - RESOURCES/Notes/Deming Zyklus\|Deming Zyklus]] kennenlernen und natürlich die 5 Gründe für ein Projektmanagement wissen.
 
 # Wofür ist [[02 - RESOURCES/Notes/Projektmanagement\|Projektmanagement]] überhaupt nötig?
 

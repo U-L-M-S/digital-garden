@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/binaerzahl/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00","dg-note-properties":{"aliases":["Binär"],"created":"2023-09-14 10:11","links":null,"tags":["mathe/binärzahlen"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/binaerzahl/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2026-05-13T08:30:20.764+02:00","dg-note-properties":{"aliases":["Binär"],"created":"2023-09-14 10:11","links":null,"tags":["mathe/binärzahlen"]}}
 ---
 
->Es ist ein Zahlsystem, bei den man nur **Zwei** Zahlen benutzt (1 und 0). 
+>Es ist ein Zahlsystem, bei dem man nur **zwei** Zahlen benutzt (1 und 0). 
 
 |     | -   |       |     |
 | :-: | --- | :---: | :-: |
@@ -16,7 +16,7 @@ ___
 | 1024 | 512 | 256 | 128 |  64  |  32  |  16  |   8  |  4   |   2  | 1   |
 
 ## System zur Angabe von Speichergröße
-Wir wissen dass 8 [[02 - RESOURCES/Notes/Bit\|Bit]]s genau 1 [[02 - RESOURCES/Notes/Byte\|Byte]] entspricht.
+Wir wissen, dass 8 [[02 - RESOURCES/Notes/Bit\|Bit]]s genau 1 [[02 - RESOURCES/Notes/Byte\|Byte]] entsprechen.
 >Es gibt aber andere Zahlenbereiche, diese lassen sich in zwei Gruppen unterscheiden:
 ### Internationales Einheitensystem (SI)
 >Es verwendet Dezimalpräfixe basierend auf Vielfachen von 1.000
@@ -134,7 +134,7 @@ Wir wissen dass 8 [[02 - RESOURCES/Notes/Bit\|Bit]]s genau 1 [[02 - RESOURCES/No
 | **0** |     |          |      |
 
 Jetzt müssen wir den Rest **rückwärts** zählen.
-D.h: **96** in Dezimal ist **1100000**
+D.h: **96** in Binär ist **1100000**
 
 </div></div>
 
@@ -154,7 +154,7 @@ Die Zahl **11001101** in Tabelle einsetzen
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | --- | --- | --- | --- |
 |     |     |     |  1  |  1  |  0  |  0  | 1   | 1   | 0   | 1   |
 
-überall wo ein **1** steht summieren. D.h 
+überall, wo eine **1** steht, summieren. D.h 
 2⁰+2²+2³+2⁶+2⁷
 1 + 4 + 8 + 64 + 128 = 205
 

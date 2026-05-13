@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/raid-0/","tags":["raid/striping","performance/keine-redundanz","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"created":"2025-08-27","links":"[[RAID]]","path":"Notes","tags":["raid/striping","performance/keine-redundanz","informatik/hardware"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/raid-0/","tags":["raid/striping","performance/keine-redundanz","informatik/hardware"],"noteIcon":"","updated":"2026-05-13T08:08:03.736+02:00","dg-note-properties":{"created":"2025-08-27","links":"[[RAID]]","path":"Notes","tags":["raid/striping","performance/keine-redundanz","informatik/hardware"]}}
 ---
 
 
@@ -24,4 +24,4 @@
 ![Pasted image 20230924212842.png](/img/user/02%20-%20RESOURCES/Files/IMG/Pasted%20image%2020230924212842.png)
 
 >[!note] Verwendung
->RAID 0 eignet sich für Anwendungen wo Geschwindigkeit wichtiger ist als Datensicherheit, z.B. Video-Editing oder Gaming.
+>RAID 0 eignet sich für Anwendungen, wo Geschwindigkeit wichtiger ist als Datensicherheit, z.B. Video-Editing oder Gaming.
