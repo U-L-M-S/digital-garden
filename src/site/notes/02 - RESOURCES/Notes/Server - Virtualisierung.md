@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/server-virtualisierung/","tags":["informatik/virtualisierung","GFN/LF10/FISI"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"aliases":["server - virtualisierung"],"created_date":"2025-07-18","links":null,"tags":["informatik/virtualisierung","GFN/LF10/FISI"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/server-virtualisierung/","tags":["informatik/virtualisierung","GFN/LF10/FISI"],"noteIcon":"","updated":"2026-05-13T08:41:47.691+02:00","dg-note-properties":{"aliases":["server - virtualisierung"],"created_date":"2025-07-18","links":null,"tags":["informatik/virtualisierung","GFN/LF10/FISI"]}}
 ---
 
->Jetzt dass du [[02 - RESOURCES/Notes/Server - Grundlagen\|Server - Grundlagen]] gelernt hast. lass uns auf [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]] fokusieren.
+>Jetzt, da du [[02 - RESOURCES/Notes/Server - Grundlagen\|Server - Grundlagen]] gelernt hast, lass uns auf [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]] fokussieren.
 
 # Was ist [[02 - RESOURCES/Notes/Virtualisierung\|Virtualisierung]] ?
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/server/","tags":["informatik/hardware/server","AI-generated"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"aliases":null,"created_date":"2025-02-09","links":null,"tags":["informatik/hardware/server","AI-generated"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/server/","tags":["informatik/hardware/server","AI-generated"],"noteIcon":"","updated":"2026-05-13T08:41:36.815+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-02-09","links":null,"tags":["informatik/hardware/server","AI-generated"]}}
 ---
 
 ![image-79.png](/img/user/02%20-%20RESOURCES/Files/image-79.png)
@@ -50,7 +50,7 @@
 
 - [[02 - RESOURCES/Notes/PORT\|Ports]] kennen (z. B. [[02 - RESOURCES/Notes/HTTP\|HTTP]] → 80, [[02 - RESOURCES/Notes/HTTPS\|HTTPS]] → 443).
 
-- Deployment-Przesse: CI/CD, [[02 - RESOURCES/Notes/Docker\|Docker]], manuelles Hochladen.
+- Deployment-Prozesse: CI/CD, [[02 - RESOURCES/Notes/Docker\|Docker]], manuelles Hochladen.
 
 - Logging und Monitoring einrichten.
 

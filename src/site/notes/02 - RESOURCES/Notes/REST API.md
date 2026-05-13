@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rest-api/","tags":["informatik/code","tools"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":null,"created_date":"2025-07-21","links":null,"tags":["informatik/code","tools"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/rest-api/","tags":["informatik/code","tools"],"noteIcon":"","updated":"2026-05-13T08:39:37.423+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-07-21","links":null,"tags":["informatik/code","tools"]}}
 ---
 
 Representational State Transfer – [[02 - RESOURCES/Notes/API\|API]]
@@ -39,7 +39,7 @@ Representational State Transfer – [[02 - RESOURCES/Notes/API\|API]]
 - `GET` (Daten abrufen)
 - `POST` (Daten senden/anlegen)    
 - `PUT` (Daten aktualisieren)
-- `DELETE` (Daten löschen
+- `DELETE` (Daten löschen)
 ### Bsp
 ```bash
 GET     /users         → alle Nutzer abrufen  

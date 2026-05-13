@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/server-grundlagen/","tags":["GFN/LF10/FISI"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"tags":["GFN/LF10/FISI"],"aliases":null,"links":null,"created_date":"2025-07-18"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/server-grundlagen/","tags":["GFN/LF10/FISI"],"noteIcon":"","updated":"2026-05-13T08:41:46.300+02:00","dg-note-properties":{"tags":["GFN/LF10/FISI"],"aliases":null,"links":null,"created_date":"2025-07-18"}}
 ---
 
 > Bevor wir in das Thema gehen, frage ich dich: Was ist ein [[02 - RESOURCES/Notes/Server\|Server]]? Was macht er?
@@ -60,7 +60,7 @@ Kurz gesagt: Dieses Teil existiert, um solche Fehler zu vermeiden. [[02 - RESOUR
 ## HDDs: SAS
 ![image-90.png](/img/user/02%20-%20RESOURCES/Files/image-90.png)
 
-> Ein [Server](https://gfn.uinclis.de/02-resources/notes/server/) muss oft viele Daten schnell lesen und speichern.  
+> Ein [[02 - RESOURCES/Notes/Server\|Server]] muss oft viele Daten schnell lesen und speichern.  
 > Dafür nutzt man oft spezielle Festplatten: SAS-HDDs.
 
 SAS bedeutet **Serial Attached SCSI**.  
@@ -205,12 +205,12 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 
 
 >[!note] 
->Ja. Blade ist nicht nur Cooler. Es ist einfach die Beste von alle 3 😍.
+>Ja. Blade ist nicht nur cooler. Es ist einfach die Beste von allen 3 😍.
 >Aber extrem TEUER!
 
 
 # Server-Stromversorgung
->Ja. wie zu erwartet benötige diese Riesige Machinen Strom und zwar VIELE Strom. Daher verbrauchen sie deutig mehr Strom als ein standard PC von 5 Watts ([[02 - RESOURCES/Notes/elektrische Leistung\|elektrische Leistung]]) bis 150 Watts, je nach den Hardware Teil.
+>Ja. Wie zu erwarten benötigen diese riesigen Maschinen Strom, und zwar VIEL Strom. Daher verbrauchen sie deutlich mehr Strom als ein Standard-PC: von 5 Watt ([[02 - RESOURCES/Notes/elektrische Leistung\|elektrische Leistung]]) bis 150 Watt, je nach Hardware-Teil.
 
 | Komponent          | Typischer Stromverbrauch                 |
 | ------------------ | ---------------------------------------- |
@@ -219,7 +219,7 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 | CPU                | ~45 W - 150 W, je nach CPU               |
 | HDD                | ~5 W - 15 W                              |
 | Optische Laufwerk  | ~5 - 20 W                                |
-| Erweiterungskarten | ~5 - 30 W, GPUs verbraucht deutlich mehr |
+| Erweiterungskarten | ~5 - 30 W, GPUs verbrauchen deutlich mehr |
 
 ## Redundante Stromversorgung
 
@@ -229,7 +229,7 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 > Aber was passiert, wenn **ein Netzteil kaputt geht** oder **ausgesteckt wird**?  
 > → Genau dafür gibt es **Redundante Stromversorgung** – **nicht** für Stromausfälle im Gebäude!
 
-- [[02 - RESOURCES/Notes/Server\|Server]] haben oft **zwei Netzteile** oder besser gesagt: zwei [[02 - RESOURCES/Notes/Stromkreis\|Stromkreis]]en
+- [[02 - RESOURCES/Notes/Server\|Server]] haben oft **zwei Netzteile** oder besser gesagt: zwei [[02 - RESOURCES/Notes/Stromkreis\|Stromkreis]]e
 - Wenn eins ausfällt, übernimmt das andere **nahtlos**
 - Ziel: **Keine Unterbrechung**, kein Neustart
 

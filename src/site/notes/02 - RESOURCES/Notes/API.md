@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/api/","tags":["tools","informatik/code"],"noteIcon":"","updated":"2026-05-12T16:18:31.506+02:00","dg-note-properties":{"aliases":["Application Programming Interfaces"],"created_date":"2024-09-27","links":null,"tags":["tools","informatik/code"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/api/","tags":["tools","informatik/code"],"noteIcon":"","updated":"2026-05-13T08:39:38.554+02:00","dg-note-properties":{"aliases":["Application Programming Interfaces"],"created_date":"2024-09-27","links":null,"tags":["tools","informatik/code"]}}
 ---
 
 >Application Programming Interfaces
@@ -32,7 +32,7 @@ else:
 >Es kann variieren, aber oft werden [[02 - RESOURCES/Notes/HTTP\|HTTP]], [[02 - RESOURCES/Notes/FTP\|FTP]] und SOAP verwendet.
 
 ## Datenformat
->Unterschiedlich, aber meist in XML und CSV
+>Unterschiedlich, aber meist in XML und CSV.
 
 ## Struktur
 > Es hat keine Struktur wie bei [[02 - RESOURCES/Notes/REST API#Struktur\|REST API#Struktur]].

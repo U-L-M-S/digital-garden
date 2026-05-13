@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dns/","tags":["informatik/netzwerk/dns"],"noteIcon":"","updated":"2026-05-12T15:59:47.478+02:00","dg-note-properties":{"Created":"2023-07-30 19:50","Path":"Notes","Reference":"https://root-servers.org/","aliases":["Domain Name Server"],"tags":["informatik/netzwerk/dns"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/dns/","tags":["informatik/netzwerk/dns"],"noteIcon":"","updated":"2026-05-13T08:40:20.667+02:00","dg-note-properties":{"Created":"2023-07-30 19:50","Path":"Notes","Reference":"https://root-servers.org/","aliases":["Domain Name Server"],"tags":["informatik/netzwerk/dns"]}}
 ---
 
 > [[02 - RESOURCES/Notes/Domain\|Domain]] Name System
@@ -46,9 +46,9 @@ Wie du es sehen kannst, macht der Recursive Resolver die ganze Arbeit. Um das al
 ### Beispiel 
 Um das besser zu verstehen, lass uns die Website [uol](https://www.uol.com.br/) (https://www.uol.com.br/) besuchen. So läuft es ab:
 >[!summary] 
->- Mein Browser schickt ein Request an der Resolver in Frankfurt
-> - Diese schickt eine request an den Root-Server(am nähst) mit den Endung '.br' 
-> - Es kriegt zurück eine Liste mit allen Root-Servers die '.br' [[02 - RESOURCES/Notes/TLD\|TLD]] haben 
-> - Der Resolver schickt erneut eine Request , aber dieses mal an der Authoritative Server und diese schickt der [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] von uol zurück 
-> - Sobald der Recursive Resolver das enthält schickt es an mein Browser zurück 
-> - mein Browser jetzt muss nur ein Request an diese [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] schicken und auf den Response warten
+>- Mein Browser schickt einen Request an den Resolver in Frankfurt
+> - Dieser schickt einen Request an den Root-Server (am nächsten) mit der Endung '.br'
+> - Er kriegt zurück eine Liste mit allen Root-Servers, die '.br' [[02 - RESOURCES/Notes/TLD\|TLD]] haben
+> - Der Resolver schickt erneut einen Request, aber dieses Mal an den Authoritative Server, und dieser schickt die [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] von uol zurück
+> - Sobald der Recursive Resolver das erhält, schickt er es an meinen Browser zurück
+> - Mein Browser muss jetzt nur einen Request an diese [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] schicken und auf den Response warten
