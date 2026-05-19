@@ -60,4 +60,4 @@ Stellen wir uns vor, ein Team entwickelt eine neue App:
 Scrum ist besonders nützlich, wenn Projekte unsicher oder komplex sind, da es eine schnelle Anpassung an neue Anforderungen oder Feedback ermöglicht.
 
 >[!important] 
->Für einen besseren Durchblick schau dir mal [[00 - PROJECTS/GFN/Zusatzqualifikation/LFzq3a Agile Scrum Foundation\|LFzq3a Agile Scrum Foundation]] an. Dort wird viel genauer beschrieben, was das ist, und ausführlicher erklärt.
+>Für einen besseren Durchblick schau dir mal [[03 - ARCHIVES/Abgeschlossen/GFN/Zusatzqualifikation/LFzq3a Agile Scrum Foundation\|LFzq3a Agile Scrum Foundation]] an. Dort wird viel genauer beschrieben, was das ist, und ausführlicher erklärt.
