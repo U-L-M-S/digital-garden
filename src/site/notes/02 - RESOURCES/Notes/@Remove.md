@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/remove/","tags":["informatik/code/java/framework","informatik/code/java/annotation"],"noteIcon":"","updated":"2026-05-19T13:38:40.469+02:00","dg-note-properties":{"aliases":["remove","@remove"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/code/java/annotation"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/remove/","tags":["informatik/code/java/framework","informatik/code/java/annotation"],"noteIcon":"","updated":"2026-05-19T14:43:31.512+02:00","dg-note-properties":{"aliases":["remove","@remove"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/code/java/annotation"]}}
 ---
 
 >[[02 - RESOURCES/Notes/@Remove\|@Remove]] markiert eine Methode in einer [[02 - RESOURCES/Notes/@Stateful\|@Stateful]]-Bean: nach dem Aufruf wird die Instanz **zerstört**.
@@ -28,4 +28,4 @@ ___
 - Sonst läuft die Bean bis Timeout (Memory-Leak-Risiko!)
 
 >[!warning]
->Bei [[02 - RESOURCES/Notes/@Stateless\|@Stateless]] / [[02 - RESOURCES/Notes/@Singleton\|@Singleton]] hat [[02 - RESOURCES/Notes/@Remove\|@Remove]] **keine** Bedeutung.
+>Bei [[02 - RESOURCES/Notes/@Stateless\|@Stateless]] / [[02 - RESOURCES/Notes/Singleton\|@Singleton]] hat [[02 - RESOURCES/Notes/@Remove\|@Remove]] **keine** Bedeutung.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/atomic-integer/","tags":["informatik/code/java","informatik/code/pattern"],"noteIcon":"","updated":"2026-05-19T13:41:23.456+02:00","dg-note-properties":{"aliases":["atomic integer","atomicinteger"],"created":"2026-05-19 19:00","links":"https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/concurrent/atomic/AtomicInteger.html","path":"Notes","tags":["informatik/code/java","informatik/code/pattern"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/atomic-integer/","tags":["informatik/code/java","informatik/code/pattern"],"noteIcon":"","updated":"2026-05-19T14:43:32.998+02:00","dg-note-properties":{"aliases":["atomic integer","atomicinteger"],"created":"2026-05-19 19:00","links":"https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/concurrent/atomic/AtomicInteger.html","path":"Notes","tags":["informatik/code/java","informatik/code/pattern"]}}
 ---
 
 >[[02 - RESOURCES/Notes/AtomicInteger\|AtomicInteger]] ist ein `int`-Wrapper aus `java.util.concurrent.atomic`, der **thread-safe** ist.
@@ -9,7 +9,7 @@
 ___
 Mehrere Threads, die gleichzeitig `count++` machen, geben **nicht** garantiert das korrekte Ergebnis (das ist KEIN atomarer Vorgang!). [[02 - RESOURCES/Notes/AtomicInteger\|AtomicInteger]] löst das mit CPU-Instruktionen wie CAS (Compare-and-Swap).
 
-# II. Beispiel — [[02 - RESOURCES/Notes/@Singleton\|@Singleton]]-Counter
+# II. Beispiel — [[02 - RESOURCES/Notes/Singleton\|@Singleton]]-Counter
 ___
 ```java
 @Singleton
