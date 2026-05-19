@@ -26,7 +26,7 @@
 **Backend/[[02 - RESOURCES/Notes/Datenbank\|Datenbank]]:**
 
 - [[SQLite\|SQLite]] (für kleine Setups)
-- [[MariaDB\|MariaDB]], [[MySQL\|MySQL]] oder [[PostgreSQL\|PostgreSQL]] (für größere Installationen)
+- [[02 - RESOURCES/Notes/MariaDB\|MariaDB]], [[MySQL\|MySQL]] oder [[PostgreSQL\|PostgreSQL]] (für größere Installationen)
 
 > [!example] Analogy Stell dir vor, du mietest nicht bei einem Hotel (Google Drive), sondern baust dein eigenes Haus (Nextcloud). Du hast die Schlüssel, du bestimmst die Regeln.
 
@@ -127,7 +127,7 @@
 - **Festplatte**: Je nach Datenvolumen
 - **[[02 - RESOURCES/Notes/PHP\|PHP]]**: Version 8.0+
 - **Webserver**: [[Apache\|Apache]] oder [[Nginx\|Nginx]]
-- **[[02 - RESOURCES/Notes/Datenbank\|Datenbank]]**: [[MySQL\|MySQL]]/[[MariaDB\|MariaDB]]/[[PostgreSQL\|PostgreSQL]]
+- **[[02 - RESOURCES/Notes/Datenbank\|Datenbank]]**: [[MySQL\|MySQL]]/[[02 - RESOURCES/Notes/MariaDB\|MariaDB]]/[[PostgreSQL\|PostgreSQL]]
 
 ### Empfohlenes Setup
 
