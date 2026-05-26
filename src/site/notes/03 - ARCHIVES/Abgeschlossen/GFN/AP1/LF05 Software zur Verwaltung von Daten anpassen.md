@@ -100,7 +100,7 @@ ___
 ## Test‑Landkarte
 - Stufen: [[Modultest\|Modultest]] → [[02 - RESOURCES/Notes/Integrationstest\|Integrationstest]] → [[02 - RESOURCES/Notes/Systemtest\|Systemtest]] → [[Abnahmetest\|Abnahmetest]]
 - Verfahren: [[Black-Box-Test\|Black-Box-Test]] (Spezifikation), [[White-Box-Test\|White-Box-Test]] (Code‑Struktur)
-- Flow (optional [[TDD\|TDD]]): RED → GREEN → REFACTOR
+- Flow (optional [[02 - RESOURCES/Notes/tdd\|TDD]]): RED → GREEN → REFACTOR
 
 ## Doku‑Arten
 - Entwickler: Architektur, Modelle, Schnittstellen, [[Testdokumentation\|Testdokumentation]]
