@@ -3,7 +3,7 @@
 ---
 
  
-![image-95.png](/img/user/02%20-%20RESOURCES/Files/image-95.png)
+![image-95.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-95.png)
 
 > Blade-Server bestehen aus einem Gehäuse, in das mehrere sogenannte **Server-Blades** gesteckt werden.  
 > Diese Bauform spart Platz und ist besonders modular.

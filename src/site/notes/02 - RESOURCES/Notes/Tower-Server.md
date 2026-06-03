@@ -3,7 +3,7 @@
 ---
 
 
-![image-92.png](/img/user/02%20-%20RESOURCES/Files/image-92.png)
+![image-92.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-92.png)
 
 > Sehr ähnlich zu einem normalen **Desktop-PC**, wie man ihn zu Hause hat.  
 > Hat aber mehr Möglichkeiten zur Erweiterung, z. B. mit [[Riser Cards\|Riser Cards]].

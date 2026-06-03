@@ -6,7 +6,7 @@
 > 
 >> Ziel: **Konflikte vermeiden** und die wichtigsten Akteure gezielt steuern.
 
-![WP-StakeholderMap-1-1024x576.png](/img/user/02%20-%20RESOURCES/Files/WP-StakeholderMap-1-1024x576.png)
+![WP-StakeholderMap-1-1024x576.png](/img/user/02%20-%20RESOURCES/Files/IMG/WP-StakeholderMap-1-1024x576.png)
 > [!note] Warum wichtig?
 > 
 > - Frühzeitige Einbindung von Schlüsselpersonen.

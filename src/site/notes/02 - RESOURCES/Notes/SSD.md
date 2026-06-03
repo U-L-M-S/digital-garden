@@ -7,7 +7,7 @@
 > 
 > > Bekannt für hohe Geschwindigkeit, geringe Zugriffszeit und bessere Stoßfestigkeit als eine [[02 - RESOURCES/Notes/HDD\|HDD]].
 
-![image-87.png](/img/user/02%20-%20RESOURCES/Files/image-87.png)
+![image-87.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-87.png)
 > [!note]  
 > Die **Zugriffszeit** ist viel schneller als bei einer [[02 - RESOURCES/Notes/HDD\|HDD]], da keine mechanischen Teile bewegt werden müssen.
 

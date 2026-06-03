@@ -6,7 +6,7 @@
 > 
 > > Wird oft für Geräte wie [[02 - RESOURCES/Notes/Access-Point\|Access-Point]]s, [[02 - RESOURCES/Notes/IP\|IP]]-Kameras oder VoIP-Telefone genutzt.
 
-![PoE-WithPoE_tcm151-114959.jpg](/img/user/02%20-%20RESOURCES/Files/PoE-WithPoE_tcm151-114959.jpg)
+![PoE-WithPoE_tcm151-114959.jpg](/img/user/02%20-%20RESOURCES/Files/IMG/PoE-WithPoE_tcm151-114959.jpg)
 
 > [!tip]  
 > Du brauchst keinen separaten Stromanschluss für das Endgerät – das [[02 - RESOURCES/Notes/Ethernet\|Ethernet]]-Kabel übernimmt beides (Strom + [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]).

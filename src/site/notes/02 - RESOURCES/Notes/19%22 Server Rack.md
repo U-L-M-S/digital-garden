@@ -3,7 +3,7 @@
 ---
 
 
-![image-94.png](/img/user/02%20-%20RESOURCES/Files/image-94.png)
+![image-94.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-94.png)
 
 > Ein Rack ist ein standardisiertes Gehäuse, um mehrere Server ordentlich unterzubringen.  
 > Besonders nützlich im Rechenzentrum oder Serverraum.

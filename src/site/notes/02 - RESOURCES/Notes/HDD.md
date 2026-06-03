@@ -6,7 +6,7 @@
 > 
 > > Ist bekannt für hohe Speicherkapazität, aber langsamer und anfälliger als eine [[02 - RESOURCES/Notes/SSD\|SSD]].
 
-![614y6FroB-L.jpg](/img/user/02%20-%20RESOURCES/Files/614y6FroB-L.jpg)
+![614y6FroB-L.jpg](/img/user/02%20-%20RESOURCES/Files/IMG/614y6FroB-L.jpg)
 > [!note]  
 > Die **Zugriffszeit** ist langsamer als bei einer [[02 - RESOURCES/Notes/SSD\|SSD]], da der Lesekopf mechanisch bewegt werden muss.
 

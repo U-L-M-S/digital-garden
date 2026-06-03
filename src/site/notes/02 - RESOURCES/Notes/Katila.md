@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-resources/notes/katila/","noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"tags":null,"aliases":null,"links":null,"created_date":"2025-08-19"}}
 ---
 
-![image-105.png](/img/user/02%20-%20RESOURCES/Files/image-105.png)
+![image-105.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-105.png)
 1. [[02 - RESOURCES/Notes/Zelle\|Zelle]] und Stofftransporte
 	- Zellonganellen
 	- Aufbau Biomembran

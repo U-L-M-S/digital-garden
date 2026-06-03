@@ -11,7 +11,7 @@ Einfach gesagt: Ein [[02 - RESOURCES/Notes/Server\|Server]] ist auch ein Compute
 Der Unterschied: Ein [[02 - RESOURCES/Notes/Server\|Server]] arbeitet 24/7. Er ist dafür da, anderen Computern oder Geräten etwas zu geben oder zu helfen.
 
 ## CPU
-![image-89.png](/img/user/02%20-%20RESOURCES/Files/image-89.png)
+![image-89.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-89.png)
 
 Weil ein [[02 - RESOURCES/Notes/Server\|Server]] oft vielen Nutzern gleichzeitig helfen muss, braucht er stärkere Hardware als ein normaler Computer.  
 Vor allem die CPU ist wichtig. [[02 - RESOURCES/Notes/Server\|Server]] haben oft 2 oder mehr CPUs.
@@ -31,7 +31,7 @@ Wenn wir über „gleichzeitig“ sprechen, meinen wir:
 > So wie im echten Leben ist Multi Processing **häufig** schneller als Parallel Processing.
 
 ## [[02 - RESOURCES/Notes/RAM\|RAM]]
-![image-85.png](/img/user/02%20-%20RESOURCES/Files/image-85.png)
+![image-85.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-85.png)
 
 > "Ein [[02 - RESOURCES/Notes/Server\|Server]] ist auch ein Computer, wie der, den du gerade benutzt." Behalt das im Hinterkopf.
 
@@ -58,7 +58,7 @@ Kurz gesagt: Dieses Teil existiert, um solche Fehler zu vermeiden. [[02 - RESOUR
 > Du musst aber wissen, dass er existiert und bei [[02 - RESOURCES/Notes/ECC RAM\|ECC RAM]] verwendet wird 😊.
 
 ## HDDs: SAS
-![image-90.png](/img/user/02%20-%20RESOURCES/Files/image-90.png)
+![image-90.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-90.png)
 
 > Ein [[02 - RESOURCES/Notes/Server\|Server]] muss oft viele Daten schnell lesen und speichern.  
 > Dafür nutzt man oft spezielle Festplatten: SAS-HDDs.
@@ -91,7 +91,7 @@ Außerdem kann man bis zu 4 SAS-HDDs an einen SAS-Controller anschließen.
 > Deshalb wurde SAS in [[02 - RESOURCES/Notes/HDD\|HDD]]s als 'Booster' eingesetzt.
 
 ## Riser Cards
-![image-91.png](/img/user/02%20-%20RESOURCES/Files/image-91.png)
+![image-91.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-91.png)
 
 > Viele Server haben eine flache Bauweise.  
 > Was heißt das?  
@@ -112,7 +112,7 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 
 
 
-![image-92.png](/img/user/02%20-%20RESOURCES/Files/image-92.png)
+![image-92.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-92.png)
 
 > Sehr ähnlich zu einem normalen **Desktop-PC**, wie man ihn zu Hause hat.  
 > Hat aber mehr Möglichkeiten zur Erweiterung, z. B. mit [[Riser Cards\|Riser Cards]].
@@ -130,7 +130,7 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 
 
 
-![image-93.png](/img/user/02%20-%20RESOURCES/Files/image-93.png)
+![image-93.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-93.png)
 
 > Speziell für Rechenzentren gemacht.  
 > Wird in ein standardisiertes **Rack** eingebaut und hat viele praktische Features:
@@ -154,7 +154,7 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 
 
 
-![image-94.png](/img/user/02%20-%20RESOURCES/Files/image-94.png)
+![image-94.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-94.png)
 
 > Ein Rack ist ein standardisiertes Gehäuse, um mehrere Server ordentlich unterzubringen.  
 > Besonders nützlich im Rechenzentrum oder Serverraum.
@@ -188,7 +188,7 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 
 
  
-![image-95.png](/img/user/02%20-%20RESOURCES/Files/image-95.png)
+![image-95.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-95.png)
 
 > Blade-Server bestehen aus einem Gehäuse, in das mehrere sogenannte **Server-Blades** gesteckt werden.  
 > Diese Bauform spart Platz und ist besonders modular.
@@ -239,7 +239,7 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 ---
 
 ### Modi der Redundanz
-![image-97.png](/img/user/02%20-%20RESOURCES/Files/image-97.png)
+![image-97.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-97.png)
 
 > Unterschiedliche Arten, wie die Netzteile zusammenarbeiten:
 
@@ -257,7 +257,7 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 ---
 
 ### Hotswap
-![image-98.png](/img/user/02%20-%20RESOURCES/Files/image-98.png)
+![image-98.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-98.png)
 
 > [[02 - RESOURCES/Notes/Server\|Server]] laufen oft **tagelang oder wochenlang** ohne Pause.  
 > Trotzdem kann Hardware kaputt gehen.  
@@ -290,7 +290,7 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 
 
 ## [[02 - RESOURCES/Notes/USV\|USV]] – Schutz vor Stromausfall
-![image-99.png](/img/user/02%20-%20RESOURCES/Files/image-99.png)
+![image-99.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-99.png)
 
 > Eine **[[02 - RESOURCES/Notes/USV\|USV]] (Unterbrechungsfreie Stromversorgung)** schützt den Serverraum bei Stromproblemen.  
 > Sie springt ein, wenn der **externe Strom wegfällt** – für ein paar Minuten bis zur sicheren Abschaltung oder Umschaltung auf Notstrom.
@@ -309,7 +309,7 @@ Kiste öffnen → Hardware einstecken → Kiste schließen → Fertig.
 
 
 ## Server-Kühlung
-![image-100.png](/img/user/02%20-%20RESOURCES/Files/image-100.png)
+![image-100.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-100.png)
 
 > Du weißt bestimmt, dass Maschinen mit der Zeit heiß werden –  
 > vor allem durch Strom und die aktiven Hardwarekomponenten.  

@@ -7,7 +7,7 @@
 > 
 >> Verhindert unkontrollierte Änderungen (Scope Creep) und sichert die Qualität im Projekt.
 
-![Management-Of-Change-2.png](/img/user/02%20-%20RESOURCES/Files/Management-Of-Change-2.png)
+![Management-Of-Change-2.png](/img/user/02%20-%20RESOURCES/Files/IMG/Management-Of-Change-2.png)
 > [!note] Ablauf:
 > 
 > - **Änderungsantrag (Change Request)**:  

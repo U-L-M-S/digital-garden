@@ -10,7 +10,7 @@
 >- **Inspizieren** von Variablen während der Laufzeit
 >- **Schritt-für-Schritt** durch Code gehen
 
-![image-108.png](/img/user/02%20-%20RESOURCES/Files/image-108.png)
+![image-108.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-108.png)
 
 ```
 BREAKPOINT-FUNKTIONSWEISE

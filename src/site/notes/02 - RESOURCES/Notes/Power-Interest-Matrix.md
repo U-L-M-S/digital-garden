@@ -11,6 +11,6 @@
 > - **Wenig Macht / Viel Interesse** → aktiv informieren
 > - **Wenig Macht / Wenig Interesse** → nur beobachten
 
-![w1170.png](/img/user/02%20-%20RESOURCES/Files/w1170.png)
+![w1170.png](/img/user/02%20-%20RESOURCES/Files/IMG/w1170.png)
 > [!tip]  
 > So kannst du Kommunikationsaufwand und Maßnahmen gezielt steuern.

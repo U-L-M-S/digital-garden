@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-resources/notes/server/","tags":["informatik/hardware/server","AI-generated"],"noteIcon":"","updated":"2026-05-13T08:41:36.815+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-02-09","links":null,"tags":["informatik/hardware/server","AI-generated"]}}
 ---
 
-![image-79.png](/img/user/02%20-%20RESOURCES/Files/image-79.png)
+![image-79.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-79.png)
 
 >- Ein Server ist ein Computer oder Programm, das Dienste (z. B. Dateien, Webseiten, APIs) für andere Geräte (Clients) bereitstellt.  
 >- Arbeitet oft 24/7, um Anfragen zuverlässig zu beantworten.
