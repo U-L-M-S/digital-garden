@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/entity-manager/","tags":["informatik/code/java/framework","informatik/datenbank"],"noteIcon":"","updated":"2026-05-19T13:36:36.415+02:00","dg-note-properties":{"aliases":["entity manager","em"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/entity-manager/","tags":["informatik/code/java/framework","informatik/datenbank"],"noteIcon":"","updated":"2026-05-19T18:36:36.415+07:00","dg-note-properties":{"aliases":["entity manager","em"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/datenbank"]}}
 ---
 
 >[[02 - RESOURCES/Notes/EntityManager\|EntityManager]] ist das zentrale [[02 - RESOURCES/Notes/JPA\|JPA]]-Interface für DB-Zugriff.

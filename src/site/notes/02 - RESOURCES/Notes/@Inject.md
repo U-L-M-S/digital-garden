@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/inject/","tags":["informatik/code/java/framework","informatik/code/java/annotation"],"noteIcon":"","updated":"2026-05-19T13:38:31.351+02:00","dg-note-properties":{"aliases":["inject","cdi inject","@inject"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/code/java/annotation"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/inject/","tags":["informatik/code/java/framework","informatik/code/java/annotation"],"noteIcon":"","updated":"2026-05-19T18:38:31.351+07:00","dg-note-properties":{"aliases":["inject","cdi inject","@inject"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/code/java/annotation"]}}
 ---
 
 >[[02 - RESOURCES/Notes/@Inject\|@Inject]] ist die generische DI-[[02 - RESOURCES/Notes/Annotation\|Annotation]] aus [[02 - RESOURCES/Notes/CDI\|CDI]].

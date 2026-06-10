@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/annotation/","tags":["informatik/code/java"],"noteIcon":"","updated":"2026-05-19T13:39:46.067+02:00","dg-note-properties":{"aliases":["annotation","java annotation","annotations"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/annotation/","tags":["informatik/code/java"],"noteIcon":"","updated":"2026-05-19T18:39:46.067+07:00","dg-note-properties":{"aliases":["annotation","java annotation","annotations"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java"]}}
 ---
 
 >Eine [[02 - RESOURCES/Notes/Annotation\|Annotation]] in [[02 - RESOURCES/Notes/Java\|Java]] ist ein Marker mit `@`, der vom Compiler oder Container ausgewertet wird.

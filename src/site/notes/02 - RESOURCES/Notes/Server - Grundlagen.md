@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/server-grundlagen/","tags":["GFN/LF10/FISI"],"noteIcon":"","updated":"2026-05-13T08:41:46.300+02:00","dg-note-properties":{"tags":["GFN/LF10/FISI"],"aliases":null,"links":null,"created_date":"2025-07-18"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/server-grundlagen/","tags":["GFN/LF10/FISI"],"noteIcon":"","updated":"2026-05-13T13:41:46.300+07:00","dg-note-properties":{"tags":["GFN/LF10/FISI"],"aliases":null,"links":null,"created_date":"2025-07-18"}}
 ---
 
 > Bevor wir in das Thema gehen, frage ich dich: Was ist ein [[02 - RESOURCES/Notes/Server\|Server]]? Was macht er?

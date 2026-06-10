@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-vererbung/","tags":["informatik/code/oop/vererbung"],"noteIcon":"","updated":"2026-05-12T15:36:25.082+02:00","dg-note-properties":{"created":"2024-06-21 16:24","links":null,"path":["Notes"],"tags":["informatik/code/oop/vererbung"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-vererbung/","tags":["informatik/code/oop/vererbung"],"noteIcon":"","updated":"2026-05-12T20:36:25.082+07:00","dg-note-properties":{"created":"2024-06-21 16:24","links":null,"path":["Notes"],"tags":["informatik/code/oop/vererbung"]}}
 ---
 
 >In [[02 - RESOURCES/Notes/Java\|Java]] ermöglicht die [[02 - RESOURCES/Notes/UML-Vererbung\|Vererbung]], dass eine [[02 - RESOURCES/Notes/Klasse\|Klasse]] (die _Kindklasse_ oder _Subklasse_) von einer anderen [[02 - RESOURCES/Notes/Klasse\|Klasse]] (der _Elternklasse_ oder _Superklasse_) erbt. 

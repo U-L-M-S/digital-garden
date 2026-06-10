@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/do-while-loop/","tags":["informatik/code"],"noteIcon":"","updated":"2026-05-13T08:54:22.824+02:00","dg-note-properties":{"aliases":["Do-While-Loop","do-While-Loop"],"created_date":"2024-09-23","links":null,"tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/do-while-loop/","tags":["informatik/code"],"noteIcon":"","updated":"2026-05-13T13:54:22.824+07:00","dg-note-properties":{"aliases":["Do-While-Loop","do-While-Loop"],"created_date":"2024-09-23","links":null,"tags":["informatik/code"]}}
 ---
 
 >Das Gleiche wie bei [[02 - RESOURCES/Notes/While-Loop\|While-Loop]]. Es wird aber mindestens einmal wiederholt.

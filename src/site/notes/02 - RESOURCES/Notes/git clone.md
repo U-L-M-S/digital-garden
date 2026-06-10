@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/git-clone/","tags":["git/clone"],"noteIcon":"","updated":"2026-05-13T08:47:39.104+02:00","dg-note-properties":{"tags":["git/clone"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/git-clone/","tags":["git/clone"],"noteIcon":"","updated":"2026-05-13T13:47:39.104+07:00","dg-note-properties":{"tags":["git/clone"]}}
 ---
 
 >Lade das gesamte Repository auf deinen PC herunter.

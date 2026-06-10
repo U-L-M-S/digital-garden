@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/git-checkout/","tags":["git/checkout","git/branch"],"noteIcon":"","updated":"2026-05-13T08:47:36.450+02:00","dg-note-properties":{"tags":["git/checkout","git/branch"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/git-checkout/","tags":["git/checkout","git/branch"],"noteIcon":"","updated":"2026-05-13T13:47:36.450+07:00","dg-note-properties":{"tags":["git/checkout","git/branch"]}}
 ---
 
 >Es bietet viele Möglichkeiten, die du mit diesem Befehl ausführen kannst.

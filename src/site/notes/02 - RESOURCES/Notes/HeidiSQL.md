@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/heidi-sql/","tags":["informatik/datenbank","informatik/code/java/tools"],"noteIcon":"","updated":"2026-05-19T13:40:12.549+02:00","dg-note-properties":{"aliases":["heidi sql","heidisql"],"created":"2026-05-19 19:00","links":"https://www.heidisql.com/","path":"Notes","tags":["informatik/datenbank","informatik/code/java/tools"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/heidi-sql/","tags":["informatik/datenbank","informatik/code/java/tools"],"noteIcon":"","updated":"2026-05-19T18:40:12.549+07:00","dg-note-properties":{"aliases":["heidi sql","heidisql"],"created":"2026-05-19 19:00","links":"https://www.heidisql.com/","path":"Notes","tags":["informatik/datenbank","informatik/code/java/tools"]}}
 ---
 
 >[[02 - RESOURCES/Notes/HeidiSQL\|HeidiSQL]] ist ein GUI-Client für [[02 - RESOURCES/Notes/MariaDB\|MariaDB]] / MySQL.

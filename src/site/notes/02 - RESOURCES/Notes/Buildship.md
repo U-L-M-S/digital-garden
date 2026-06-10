@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/buildship/","tags":["informatik/code/java/tools"],"noteIcon":"","updated":"2026-05-19T13:40:02.022+02:00","dg-note-properties":{"aliases":["buildship","eclipse gradle plugin"],"created":"2026-05-19 19:00","links":"https://projects.eclipse.org/projects/tools.buildship","path":"Notes","tags":["informatik/code/java/tools"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/buildship/","tags":["informatik/code/java/tools"],"noteIcon":"","updated":"2026-05-19T18:40:02.022+07:00","dg-note-properties":{"aliases":["buildship","eclipse gradle plugin"],"created":"2026-05-19 19:00","links":"https://projects.eclipse.org/projects/tools.buildship","path":"Notes","tags":["informatik/code/java/tools"]}}
 ---
 
 >[[02 - RESOURCES/Notes/Buildship\|Buildship]] ist das offizielle [[02 - RESOURCES/Notes/Gradle\|Gradle]]-Plugin für [[02 - RESOURCES/Notes/Eclipse\|Eclipse]].

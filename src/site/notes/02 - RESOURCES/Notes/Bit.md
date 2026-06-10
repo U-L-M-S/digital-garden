@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bit/","tags":["informatik","informatik/netzwerk","mathe/binärzahlen"],"noteIcon":"","updated":"2026-05-13T08:39:14.356+02:00","dg-note-properties":{"aliases":["bit"],"created":"2024-07-09 16:17","links":null,"path":["Notes"],"tags":["informatik","informatik/netzwerk","mathe/binärzahlen"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/bit/","tags":["informatik","informatik/netzwerk","mathe/binärzahlen"],"noteIcon":"","updated":"2026-05-13T13:39:14.356+07:00","dg-note-properties":{"aliases":["bit"],"created":"2024-07-09 16:17","links":null,"path":["Notes"],"tags":["informatik","informatik/netzwerk","mathe/binärzahlen"]}}
 ---
 
 > Ein Bit ist die kleinste Informationseinheit in der Informatik. 

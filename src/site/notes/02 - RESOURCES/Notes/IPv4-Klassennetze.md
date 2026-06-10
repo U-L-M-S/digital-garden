@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4-klassennetze/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2026-05-12T16:03:21.701+02:00","dg-note-properties":{"aliases":[],"created":"2024-07-30 10:03","links":null,"path":["Notes"],"tags":["informatik/netzwerk/ip/ipv4"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv4-klassennetze/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2026-05-12T21:03:21.701+07:00","dg-note-properties":{"aliases":[],"created":"2024-07-30 10:03","links":null,"path":["Notes"],"tags":["informatik/netzwerk/ip/ipv4"]}}
 ---
 
 >IPv4 wurde in 5 Klassen unterteilt:

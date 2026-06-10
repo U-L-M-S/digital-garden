@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/web-servlet/","tags":["informatik/code/java/framework","informatik/code/java/annotation"],"noteIcon":"","updated":"2026-05-19T13:38:17.498+02:00","dg-note-properties":{"aliases":["webservlet","@webservlet"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/code/java/annotation"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/web-servlet/","tags":["informatik/code/java/framework","informatik/code/java/annotation"],"noteIcon":"","updated":"2026-05-19T18:38:17.498+07:00","dg-note-properties":{"aliases":["webservlet","@webservlet"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/code/java/annotation"]}}
 ---
 
 >[[02 - RESOURCES/Notes/@WebServlet\|@WebServlet]] mappt eine [[02 - RESOURCES/Notes/HttpServlet\|HttpServlet]]-Klasse auf einen URL-Pfad.

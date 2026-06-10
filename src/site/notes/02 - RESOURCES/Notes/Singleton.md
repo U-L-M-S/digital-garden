@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/singleton/","tags":["design-patterns/erzeugung","oop/instanziierung","informatik/code/java/framework","informatik/code/java/annotation"],"noteIcon":"","updated":"2026-05-19T14:42:33.278+02:00","dg-note-properties":{"tags":["design-patterns/erzeugung","oop/instanziierung","informatik/code/java/framework","informatik/code/java/annotation"],"aliases":["Singleton-Pattern","Einzelstück-Muster","@Singleton","singleton ejb","singleton bean","@singleton"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/singleton/","tags":["design-patterns/erzeugung","oop/instanziierung","informatik/code/java/framework","informatik/code/java/annotation"],"noteIcon":"","updated":"2026-05-19T19:42:33.278+07:00","dg-note-properties":{"tags":["design-patterns/erzeugung","oop/instanziierung","informatik/code/java/framework","informatik/code/java/annotation"],"aliases":["Singleton-Pattern","Einzelstück-Muster","@Singleton","singleton ejb","singleton bean","@singleton"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

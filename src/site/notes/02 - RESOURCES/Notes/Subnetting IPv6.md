@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv6/","tags":["informatik/netzwerk/subnetting","informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2026-05-12T16:00:51.830+02:00","dg-note-properties":{"aliases":["Subnetting IPv6","subnetting IPv6"],"created":"2024-07-30 11:31","links":null,"path":"Notes","tags":["informatik/netzwerk/subnetting","informatik/netzwerk/ip/ipv6"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv6/","tags":["informatik/netzwerk/subnetting","informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2026-05-12T21:00:51.830+07:00","dg-note-properties":{"aliases":["Subnetting IPv6","subnetting IPv6"],"created":"2024-07-30 11:31","links":null,"path":"Notes","tags":["informatik/netzwerk/subnetting","informatik/netzwerk/ip/ipv6"]}}
 ---
 
 >[[02 - RESOURCES/Notes/Subnetting IPv6\|Subnetting IPv6]] funktioniert genauso wie [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]. Es hat aber ein paar Merkmale, auf die wir besonders achten müssen.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/arbeitszeit/","tags":["jArbSchG","wirtschaft/arbeitsrecht"],"noteIcon":"","updated":"2026-05-13T08:01:28.409+02:00","dg-note-properties":{"created":"2024-02-06 22:47","links":null,"path":"Notes","tags":["jArbSchG","wirtschaft/arbeitsrecht"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/arbeitszeit/","tags":["jArbSchG","wirtschaft/arbeitsrecht"],"noteIcon":"","updated":"2026-05-13T13:01:28.409+07:00","dg-note-properties":{"created":"2024-02-06 22:47","links":null,"path":"Notes","tags":["jArbSchG","wirtschaft/arbeitsrecht"]}}
 ---
 
 # Jugendliche

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-static/","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:35:58.166+02:00","dg-note-properties":{"aliases":["Java Static","Java-Static"],"created_date":"2024-10-21","links":null,"tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-static/","tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T20:35:58.166+07:00","dg-note-properties":{"aliases":["Java Static","Java-Static"],"created_date":"2024-10-21","links":null,"tags":["informatik/code/OOP","informatik/programmierung/sprachen/java"]}}
 ---
 
 >In [[02 - RESOURCES/Notes/Java\|Java]], wenn etwas das Schlüsselwort [[02 - RESOURCES/Notes/static\|static]] enthält, wird es als Inhalt der [[02 - RESOURCES/Notes/Java klasse\|Java klasse]] angesehen und nicht vom Objekt.

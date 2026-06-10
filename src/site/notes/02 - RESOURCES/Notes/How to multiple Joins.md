@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/how-to-multiple-joins/","tags":["informatik/code/SQL","ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2026-04-23T15:24:29.793+02:00","dg-note-properties":{"tags":["informatik/code/SQL","ausbildung/gfn/ap2/vorbereitung"],"aliases":null,"links":null,"created_date":"2026-04-23"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/how-to-multiple-joins/","tags":["informatik/code/SQL","ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2026-04-23T20:24:29.793+07:00","dg-note-properties":{"tags":["informatik/code/SQL","ausbildung/gfn/ap2/vorbereitung"],"aliases":null,"links":null,"created_date":"2026-04-23"}}
 ---
 
 > Systematische 4-Schritte-Methode, um [[02 - RESOURCES/Notes/SQL\|SQL]]-Abfragen mit mehreren (3+) Tabellen sauber aufzubauen.

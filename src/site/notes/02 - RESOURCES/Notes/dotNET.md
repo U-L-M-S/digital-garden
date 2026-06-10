@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dot-net/","tags":["informatik/code/dotnet"],"noteIcon":"","updated":"2026-05-20T08:21:56.015+02:00","dg-note-properties":{"aliases":["dotnet",".net","microsoft .net"],"created":"2026-05-19 19:00","links":"https://dotnet.microsoft.com/","path":"Notes","tags":["informatik/code/dotnet"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/dot-net/","tags":["informatik/code/dotnet"],"noteIcon":"","updated":"2026-05-20T13:21:56.015+07:00","dg-note-properties":{"aliases":["dotnet",".net","microsoft .net"],"created":"2026-05-19 19:00","links":"https://dotnet.microsoft.com/","path":"Notes","tags":["informatik/code/dotnet"]}}
 ---
 
 >[[02 - RESOURCES/Notes/dotNET\|dotNET]] ist Microsofts plattformübergreifende Entwicklungsplattform für Web-, Desktop-, Mobile-, Cloud- und Spiele-Apps.

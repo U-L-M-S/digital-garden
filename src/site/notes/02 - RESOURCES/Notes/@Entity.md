@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/entity/","tags":["informatik/code/java/framework","informatik/code/java/annotation","informatik/datenbank"],"noteIcon":"","updated":"2026-05-19T13:38:31.120+02:00","dg-note-properties":{"aliases":["entity","jpa entity","@entity"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/code/java/annotation","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/entity/","tags":["informatik/code/java/framework","informatik/code/java/annotation","informatik/datenbank"],"noteIcon":"","updated":"2026-05-19T18:38:31.120+07:00","dg-note-properties":{"aliases":["entity","jpa entity","@entity"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/code/java/annotation","informatik/datenbank"]}}
 ---
 
 >[[02 - RESOURCES/Notes/@Entity\|@Entity]] markiert eine [[02 - RESOURCES/Notes/POJO\|POJO]]-Klasse als [[02 - RESOURCES/Notes/JPA\|JPA]]-managed.
