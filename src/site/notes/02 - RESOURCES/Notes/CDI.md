@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/cdi/","tags":["informatik/code/java/framework"],"noteIcon":"","updated":"2026-05-19T18:36:16.696+07:00","dg-note-properties":{"aliases":["Contexts and Dependency Injection","cdi","weld"],"created":"2026-05-19 19:00","links":"https://jakarta.ee/specifications/cdi/","path":"Notes","tags":["informatik/code/java/framework"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/cdi/","tags":["informatik/code/java/framework"],"noteIcon":"","updated":"2026-05-19T13:36:16.696+02:00","dg-note-properties":{"aliases":["Contexts and Dependency Injection","cdi","weld"],"created":"2026-05-19 19:00","links":"https://jakarta.ee/specifications/cdi/","path":"Notes","tags":["informatik/code/java/framework"]}}
 ---
 
 >[[02 - RESOURCES/Notes/CDI\|CDI]] (Contexts and Dependency Injection) ist das DI-System von [[02 - RESOURCES/Notes/Jakarta EE\|Jakarta EE]].

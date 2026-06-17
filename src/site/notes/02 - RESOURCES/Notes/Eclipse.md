@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/eclipse/","tags":["informatik/code/java/tools"],"noteIcon":"","updated":"2026-05-19T18:40:08.427+07:00","dg-note-properties":{"aliases":["eclipse","eclipse ide"],"created":"2026-05-19 19:00","links":"https://www.eclipse.org/","path":"Notes","tags":["informatik/code/java/tools"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/eclipse/","tags":["informatik/code/java/tools"],"noteIcon":"","updated":"2026-05-19T13:40:08.427+02:00","dg-note-properties":{"aliases":["eclipse","eclipse ide"],"created":"2026-05-19 19:00","links":"https://www.eclipse.org/","path":"Notes","tags":["informatik/code/java/tools"]}}
 ---
 
 >[[02 - RESOURCES/Notes/Eclipse\|Eclipse]] ist die IDE, mit der ich [[02 - RESOURCES/Notes/Java\|Java]]-Projekte bei [[02 - RESOURCES/Notes/Muckenhirn\|Muckenhirn]] entwickle.

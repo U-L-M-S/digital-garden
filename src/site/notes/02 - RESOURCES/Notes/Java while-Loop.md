@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-while-loop/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T20:36:40.370+07:00","dg-note-properties":{"created":"2024-06-21 16:35","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-while-loop/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:36:40.370+02:00","dg-note-properties":{"created":"2024-06-21 16:35","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java"]}}
 ---
 
 >Bei [[02 - RESOURCES/Notes/While-Loop\|While-Loop]] wird ein bestimmter Teil des Codes wiederholt, solange die Bedingung `True` ist.

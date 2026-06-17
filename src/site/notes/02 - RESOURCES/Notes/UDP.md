@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/udp/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2026-05-12T20:56:36.822+07:00","dg-note-properties":{"aliases":["User Datagram Protocol"],"created":"2024-07-22 11:21","links":null,"tags":["informatik/netzwerk/protokoll"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/udp/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2026-05-12T15:56:36.822+02:00","dg-note-properties":{"aliases":["User Datagram Protocol"],"created":"2024-07-22 11:21","links":null,"tags":["informatik/netzwerk/protokoll"]}}
 ---
 
 > User Datagram Protocol

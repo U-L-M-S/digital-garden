@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ausbildung-kuendigung/","tags":["GFN/LF01","ausbildung/gfn/ap1"],"noteIcon":"","updated":"2026-05-13T13:57:40.877+07:00","dg-note-properties":{"created":"2023-10-20 17:27","links":null,"path":"Notes","tags":["GFN/LF01","ausbildung/gfn/ap1"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/ausbildung-kuendigung/","tags":["GFN/LF01","ausbildung/gfn/ap1"],"noteIcon":"","updated":"2026-05-13T08:57:40.877+02:00","dg-note-properties":{"created":"2023-10-20 17:27","links":null,"path":"Notes","tags":["GFN/LF01","ausbildung/gfn/ap1"]}}
 ---
 
 ## Kündigung 

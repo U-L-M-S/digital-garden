@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dns-eintraege/","tags":["informatik/netzwerk/dns/records","domain/konfiguration","informatik/netzwerk/dns"],"noteIcon":"","updated":"2026-05-12T21:08:11.858+07:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk/dns/records","domain/konfiguration","informatik/netzwerk/dns"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/dns-eintraege/","tags":["informatik/netzwerk/dns/records","domain/konfiguration","informatik/netzwerk/dns"],"noteIcon":"","updated":"2026-05-12T16:08:11.858+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk/dns/records","domain/konfiguration","informatik/netzwerk/dns"]}}
 ---
 
 

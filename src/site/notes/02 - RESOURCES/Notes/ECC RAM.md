@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ecc-ram/","tags":["informatik/hardware","speicher"],"noteIcon":"","updated":"2026-05-13T13:52:36.328+07:00","dg-note-properties":{"created":"2024-06-17 16:08","links":null,"path":"Notes","tags":["informatik/hardware","speicher"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/ecc-ram/","tags":["informatik/hardware","speicher"],"noteIcon":"","updated":"2026-05-13T08:52:36.328+02:00","dg-note-properties":{"created":"2024-06-17 16:08","links":null,"path":"Notes","tags":["informatik/hardware","speicher"]}}
 ---
 
 ![ECC RAM-20240617161443701.png](/img/user/02%20-%20RESOURCES/Files/IMG/ECC%20RAM-20240617161443701.png)

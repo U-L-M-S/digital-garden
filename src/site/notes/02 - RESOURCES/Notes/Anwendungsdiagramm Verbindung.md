@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/anwendungsdiagramm-verbindung/","tags":["uml/anwendungsdiagramm"],"noteIcon":"","updated":"2026-05-12T20:50:03.075+07:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-21","links":null,"tags":["uml/anwendungsdiagramm"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/anwendungsdiagramm-verbindung/","tags":["uml/anwendungsdiagramm"],"noteIcon":"","updated":"2026-05-12T15:50:03.075+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-21","links":null,"tags":["uml/anwendungsdiagramm"]}}
 ---
 
 >Es zeigt, welche [[02 - RESOURCES/Notes/Anwendungsdiagramm Akteur\|Anwendungsdiagramm Akteur]] mit welchen [[02 - RESOURCES/Notes/Anwendungsdiagramm Anwendungsfall\|Anwendungsdiagramm Anwendungsfall]] interagieren.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/v-modell/","tags":["GFN/LF04","projektmanagement/vorgehensmodell/klassisch"],"noteIcon":"","updated":"2026-05-13T13:20:19.427+07:00","dg-note-properties":{"aliases":["V Modell"],"created_date":"2024-11-10","links":["https://www.youtube.com/watch?v=kl9NNiZGigs"],"tags":["GFN/LF04","projektmanagement/vorgehensmodell/klassisch"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/v-modell/","tags":["GFN/LF04","projektmanagement/vorgehensmodell/klassisch"],"noteIcon":"","updated":"2026-05-13T08:20:19.427+02:00","dg-note-properties":{"aliases":["V Modell"],"created_date":"2024-11-10","links":["https://www.youtube.com/watch?v=kl9NNiZGigs"],"tags":["GFN/LF04","projektmanagement/vorgehensmodell/klassisch"]}}
 ---
 
 >Es ist ein [[02 - RESOURCES/Notes/Klassische Vorgehensmodelle\|Klassisches Vorgehensmodell]].

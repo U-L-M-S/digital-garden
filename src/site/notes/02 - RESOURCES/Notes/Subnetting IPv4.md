@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv4/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2026-05-12T20:59:22.302+07:00","dg-note-properties":{"aliases":null,"created":"2024-07-25 11:53","links":["https://www.youtube.com/watch?v=jgwWFKryrOw"],"tags":["informatik/netzwerk/ip/ipv4"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/subnetting-i-pv4/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2026-05-12T15:59:22.302+02:00","dg-note-properties":{"aliases":null,"created":"2024-07-25 11:53","links":["https://www.youtube.com/watch?v=jgwWFKryrOw"],"tags":["informatik/netzwerk/ip/ipv4"]}}
 ---
 
 >Zuerst lass uns einen Blick auf das werfen, was wir über [[02 - RESOURCES/Notes/IPv4\|IPv4]] und [[Netzwerkmaske\|Netzwerkmaske]]n wissen. 

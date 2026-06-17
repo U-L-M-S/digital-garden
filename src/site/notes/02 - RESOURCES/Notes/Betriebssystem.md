@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/betriebssystem/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/betriebssystem","software/system"],"noteIcon":"","updated":"2026-05-13T13:16:22.473+07:00","dg-note-properties":{"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/betriebssystem","software/system"],"aliases":["OS","Operating System","System-Software"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/betriebssystem/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/betriebssystem","software/system"],"noteIcon":"","updated":"2026-05-13T08:16:22.473+02:00","dg-note-properties":{"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/betriebssystem","software/system"],"aliases":["OS","Operating System","System-Software"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/container-proxy/","tags":["informatik/code/java/framework"],"noteIcon":"","updated":"2026-05-19T18:36:35.128+07:00","dg-note-properties":{"aliases":["container proxy","ejb proxy","bean proxy"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/container-proxy/","tags":["informatik/code/java/framework"],"noteIcon":"","updated":"2026-05-19T13:36:35.128+02:00","dg-note-properties":{"aliases":["container proxy","ejb proxy","bean proxy"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework"]}}
 ---
 
 >Du bekommst **niemals** eine [[02 - RESOURCES/Notes/Enterprise Java Bean\|EJB]] direkt — der [[02 - RESOURCES/Notes/WildFly\|WildFly]]-Container gibt dir einen [[02 - RESOURCES/Notes/Proxy\|Proxy]].

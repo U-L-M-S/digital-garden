@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/git-commit/","tags":["git/commit"],"noteIcon":"","updated":"2026-05-13T13:47:26.545+07:00","dg-note-properties":{"tags":["git/commit"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/git-commit/","tags":["git/commit"],"noteIcon":"","updated":"2026-05-13T08:47:26.545+02:00","dg-note-properties":{"tags":["git/commit"]}}
 ---
 
 >Mit dem Befehl `git commit` und der Nachricht `this is a commit` kannst du einen Save Point speichern. Das bedeutet, hier wird ein Save Point gesetzt, und mit dem Befehl [[02 - RESOURCES/Notes/git log\|git log]] können sogar alle deine Save Points eingesehen werden. 

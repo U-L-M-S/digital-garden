@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2026-05-13T13:52:03.486+07:00","dg-note-properties":{"aliases":null,"created_date":"2025-02-11","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/ap-1-pruefungskatalog-2025/","tags":["ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:52:03.486+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-02-11","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung"]}}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung

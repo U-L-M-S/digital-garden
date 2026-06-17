@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/docker/","tags":["informatik/virtualisierung/docker","containerisierung"],"noteIcon":"","updated":"2026-05-13T13:44:49.759+07:00","dg-note-properties":{"aliases":["Docker","Container Platform","Docker Engine"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker","containerisierung"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/docker/","tags":["informatik/virtualisierung/docker","containerisierung"],"noteIcon":"","updated":"2026-05-13T08:44:49.759+02:00","dg-note-properties":{"aliases":["Docker","Container Platform","Docker Engine"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker","containerisierung"]}}
 ---
 
 >**Docker** ist eine [[02 - RESOURCES/Notes/Containerisierung\|Containerisierung]]s-Plattform, die Anwendungen in isolierten Umgebungen verpackt und startet.

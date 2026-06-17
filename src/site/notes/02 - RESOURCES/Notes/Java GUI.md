@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-gui/","tags":["informatik/code/java/tools","gui"],"noteIcon":"","updated":"2026-05-12T20:33:52.699+07:00","dg-note-properties":{"created":"2024-06-21 16:01","links":null,"tags":["informatik/code/java/tools","gui"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-gui/","tags":["informatik/code/java/tools","gui"],"noteIcon":"","updated":"2026-05-12T15:33:52.699+02:00","dg-note-properties":{"created":"2024-06-21 16:01","links":null,"tags":["informatik/code/java/tools","gui"]}}
 ---
 
 

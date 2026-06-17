@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hibernate/","tags":["informatik/code/java/framework","informatik/datenbank"],"noteIcon":"","updated":"2026-05-19T18:36:04.448+07:00","dg-note-properties":{"aliases":["hibernate orm","hibernate"],"created":"2026-05-19 19:00","links":"https://hibernate.org/","path":"Notes","tags":["informatik/code/java/framework","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/hibernate/","tags":["informatik/code/java/framework","informatik/datenbank"],"noteIcon":"","updated":"2026-05-19T13:36:04.448+02:00","dg-note-properties":{"aliases":["hibernate orm","hibernate"],"created":"2026-05-19 19:00","links":"https://hibernate.org/","path":"Notes","tags":["informatik/code/java/framework","informatik/datenbank"]}}
 ---
 
 >[[02 - RESOURCES/Notes/Hibernate\|Hibernate]] ist die [[02 - RESOURCES/Notes/JPA\|JPA]]-Implementierung, die in [[02 - RESOURCES/Notes/WildFly\|WildFly]] eingebaut ist.
