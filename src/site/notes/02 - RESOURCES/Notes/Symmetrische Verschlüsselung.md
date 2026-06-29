@@ -142,7 +142,7 @@ Entschlüsselt: Hallo Welt
 | **Padding** | Nötig wenn Daten nicht Blockgröße | Nicht nötig |
 | **Fehlerfortpflanzung** | Ein Fehler betrifft nur einen Block | Fehler kann sich fortpflanzen |
 | **Verwendung** | Dateiverschlüsselung, Festplatten | Streaming, Echtzeit-Kommunikation |
-| **Beispiele** | [[02 - RESOURCES/Notes/AES\|AES]], [[DES\|DES]] | [[ChaCha20\|ChaCha20]], [[02 - RESOURCES/Notes/RC4\|RC4]] |
+| **Beispiele** | [[02 - RESOURCES/Notes/AES\|AES]], [[02 - RESOURCES/Notes/DES\|DES]] | [[ChaCha20\|ChaCha20]], [[02 - RESOURCES/Notes/RC4\|RC4]] |
 
 # IV. Die wichtigsten Algorithmen
 
@@ -232,9 +232,9 @@ Input: 128 Bit Klartext + 128/192/256 Bit Schlüssel
 >print(f"Entschlüsselt: {entschlüsselt.decode().strip()}")
 >```
 
-## [[DES\|DES]] und [[3DES\|3DES]] - Die Veteranen
+## [[02 - RESOURCES/Notes/DES\|DES]] und [[3DES\|3DES]] - Die Veteranen
 
->[[DES\|DES]] (Data Encryption Standard) war von 1977-2001 der Standard, ist aber heute unsicher wegen zu kurzer [[Schlüssel\|Schlüssel]].
+>[[02 - RESOURCES/Notes/DES\|DES]] (Data Encryption Standard) war von 1977-2001 der Standard, ist aber heute unsicher wegen zu kurzer [[Schlüssel\|Schlüssel]].
 
 ```
 ┌──────────────────────────────────────────────────────────┐
@@ -577,7 +577,7 @@ key = hashlib.pbkdf2_hmac('sha256', passwort.encode(), salt, 100000, 32)
 - **Niemals ECB-Mode** verwenden
 - **Niemals IV/Nonce wiederverwenden** im selben Schlüssel-Kontext
 - **Keine selbstgebaute Krypto** (Don't roll your own crypto!)
-- **Nicht [[DES\|DES]] oder [[3DES\|3DES]]** verwenden (veraltet)
+- **Nicht [[02 - RESOURCES/Notes/DES\|DES]] oder [[3DES\|3DES]]** verwenden (veraltet)
 - **Schlüssel nicht hardcoden** im Code
 
 >[!example] Sichere Implementierung in Python
