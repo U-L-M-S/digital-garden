@@ -352,7 +352,7 @@ Das ist die Basis für ECC-Sicherheit!
 >**3. Digitale Signaturen möglich**
 >- Beweist [[02 - RESOURCES/Notes/Authentizität\|Authentizität]] des Absenders
 >- [[02 - RESOURCES/Notes/Nicht-Abstreitbarkeit\|Nicht-Abstreitbarkeit]] durch Private Key
->- Grundlage für [[PKI\|PKI]] und [[02 - RESOURCES/Notes/Zertifikat\|Zertifikat]]e
+>- Grundlage für [[02 - RESOURCES/Notes/PKI\|PKI]] und [[02 - RESOURCES/Notes/Zertifikat\|Zertifikat]]e
 >
 >**4. Schlüsselverteilung**
 >- Public Keys können in öffentlichen Verzeichnissen stehen
@@ -720,7 +720,7 @@ Wenn alles OK → 🔒 (Grünes Schloss)
 - [[02 - RESOURCES/Notes/RSA\|RSA]] - Der wichtigste asymmetrische Algorithmus
 - [[02 - RESOURCES/Notes/ECC\|ECC]] - Moderne Alternative mit kürzeren Schlüsseln
 - [[02 - RESOURCES/Notes/Digitale Signatur\|Digitale Signatur]] - Anwendung für Authentizität
-- [[PKI\|PKI]] - Public Key Infrastructure
+- [[02 - RESOURCES/Notes/PKI\|PKI]] - Public Key Infrastructure
 - [[02 - RESOURCES/Notes/Zertifikat\|Zertifikat]] - Verbindet Public Key mit Identität
 - [[02 - RESOURCES/Notes/TLS\|TLS]] - Verwendet asymmetrische Verschlüsselung für Handshake
 - [[02 - RESOURCES/Notes/Diffie-Hellman\|Diffie-Hellman]] - Schlüsselaustausch-Protokoll
