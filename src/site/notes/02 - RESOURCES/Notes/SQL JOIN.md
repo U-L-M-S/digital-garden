@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-join/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-05-12T15:46:58.463+02:00","dg-note-properties":{"aliases":["SQL JOIN"],"created_date":"2024-10-17","links":null,"tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-join/","tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T01:13:38.526+02:00","dg-note-properties":{"aliases":["SQL JOIN"],"created_date":"2024-10-17","links":null,"tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"]}}
 ---
 
 >JOINs in [[02 - RESOURCES/Notes/SQL\|SQL]] sind Befehle, um [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]]n miteinander zu verbinden.

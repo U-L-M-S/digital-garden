@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/pojo/","tags":["informatik/code/java"],"noteIcon":"","updated":"2026-05-19T13:39:52.268+02:00","dg-note-properties":{"aliases":["plain old java object","pojo"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/pojo/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.816+02:00","dg-note-properties":{"aliases":["plain old java object","pojo"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java"]}}
 ---
 
 >[[02 - RESOURCES/Notes/POJO\|POJO]] = **Plain Old Java Object**: eine normale [[02 - RESOURCES/Notes/Java\|Java]]-Klasse ohne Framework-Vererbung.

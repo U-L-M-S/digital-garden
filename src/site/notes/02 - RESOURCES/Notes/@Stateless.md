@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/stateless/","tags":["informatik/code/java/framework","informatik/code/java/annotation"],"noteIcon":"","updated":"2026-05-19T13:37:32.943+02:00","dg-note-properties":{"aliases":["stateless ejb","stateless bean","@stateless"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/code/java/annotation"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/stateless/","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/sprachen/java/annotation"],"noteIcon":"","updated":"2026-07-02T13:17:19.621+02:00","dg-note-properties":{"aliases":["stateless ejb","stateless bean","@stateless"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/sprachen/java/annotation"]}}
 ---
 
 >[[02 - RESOURCES/Notes/@Stateless\|@Stateless]] markiert eine [[02 - RESOURCES/Notes/Enterprise Java Bean\|EJB]] als Pool-Bean.

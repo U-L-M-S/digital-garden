@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/rest-api/","tags":["informatik/code","tools"],"noteIcon":"","updated":"2026-05-13T08:39:37.423+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-07-21","links":null,"tags":["informatik/code","tools"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/rest-api/","tags":["informatik/programmierung","tools"],"noteIcon":"","updated":"2026-07-02T13:17:19.832+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-07-21","links":null,"tags":["informatik/programmierung","tools"]}}
 ---
 
 Representational State Transfer – [[02 - RESOURCES/Notes/API\|API]]

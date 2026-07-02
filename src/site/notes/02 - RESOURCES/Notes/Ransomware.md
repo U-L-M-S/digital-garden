@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ransomware/","tags":["sicherheit/malware","bedrohungen/verschluesselung"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"tags":["sicherheit/malware","bedrohungen/verschluesselung"],"aliases":["Erpressersoftware","Verschlüsselungstrojaner","Crypto-Trojaner"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/ransomware/","tags":["informatik/sicherheit/malware","bedrohungen/verschluesselung"],"noteIcon":"","updated":"2026-07-02T15:37:49.265+02:00","dg-note-properties":{"tags":["informatik/sicherheit/malware","bedrohungen/verschluesselung"],"aliases":["Erpressersoftware","Verschlüsselungstrojaner","Crypto-Trojaner"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

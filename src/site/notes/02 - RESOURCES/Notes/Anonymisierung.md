@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/anonymisierung/","tags":["ausbildung/gfn/ap1","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-05-13T08:13:36.910+02:00","dg-note-properties":{"aliases":["anonymisierung"],"created_date":"2025-02-24","links":null,"tags":["ausbildung/gfn/ap1","sicherheit/it-sicherheit"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/anonymisierung/","tags":["ausbildung/gfn/ap1","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.161+02:00","dg-note-properties":{"aliases":["anonymisierung"],"created_date":"2025-02-24","links":null,"tags":["ausbildung/gfn/ap1","informatik/sicherheit/it-sicherheit"]}}
 ---
 
 >Die Daten werden so verändert, dass eine Identifikation der Person nicht mehr möglich ist, selbst nicht mit zusätzlichen Informationen.

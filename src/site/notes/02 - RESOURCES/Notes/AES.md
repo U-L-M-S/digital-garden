@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/aes/","tags":["sicherheit/it-sicherheit","kryptografie/encryption","kryptografie/symmetric","algorithmus"],"noteIcon":"","updated":"2025-11-06T16:38:41.000+01:00","dg-note-properties":{"aliases":["Advanced Encryption Standard","AES-Verschlüsselung","Rijndael"],"created_date":"2024-08-04","links":null,"tags":["sicherheit/it-sicherheit","kryptografie/encryption","kryptografie/symmetric","algorithmus"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/aes/","tags":["informatik/sicherheit/it-sicherheit","informatik/sicherheit/kryptografie/verschlüsselung","informatik/sicherheit/kryptografie/symmetrisch","algorithmus"],"noteIcon":"","updated":"2026-07-02T15:37:49.159+02:00","dg-note-properties":{"aliases":["Advanced Encryption Standard","AES-Verschlüsselung","Rijndael"],"created_date":"2024-08-04","links":null,"tags":["informatik/sicherheit/it-sicherheit","informatik/sicherheit/kryptografie/verschlüsselung","informatik/sicherheit/kryptografie/symmetrisch","algorithmus"]}}
 ---
 
 

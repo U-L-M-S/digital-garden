@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/http-servlet/","tags":["informatik/code/java/framework"],"noteIcon":"","updated":"2026-05-19T13:41:18.364+02:00","dg-note-properties":{"aliases":["http servlet","httpservlet"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/http-servlet/","tags":["informatik/programmierung/sprachen/java/framework"],"noteIcon":"","updated":"2026-07-02T13:17:19.763+02:00","dg-note-properties":{"aliases":["http servlet","httpservlet"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework"]}}
 ---
 
 >[[02 - RESOURCES/Notes/HttpServlet\|HttpServlet]] ist die Basis-Klasse aller [[02 - RESOURCES/Notes/Java\|Java]]-Web-Endpoints in [[02 - RESOURCES/Notes/Jakarta EE\|Jakarta EE]].

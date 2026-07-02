@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/object-pool/","tags":["informatik/code/java/framework","informatik/code/pattern"],"noteIcon":"","updated":"2026-05-19T14:43:37.522+02:00","dg-note-properties":{"aliases":["object pool","ejb pool","instance pool"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/code/pattern"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/object-pool/","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/pattern"],"noteIcon":"","updated":"2026-07-02T13:17:19.812+02:00","dg-note-properties":{"aliases":["object pool","ejb pool","instance pool"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/pattern"]}}
 ---
 
 >Ein [[02 - RESOURCES/Notes/Object Pool\|Object Pool]] ist eine Sammlung von vorinstanziierten Objekten, die wiederverwendet werden.

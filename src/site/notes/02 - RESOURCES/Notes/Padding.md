@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/padding/","tags":["mathe/binärzahlen","sicherheit/it-sicherheit","sicherheit/kryptografie"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"aliases":["padding"],"created_date":"2024-09-24","links":null,"tags":["mathe/binärzahlen","sicherheit/it-sicherheit","sicherheit/kryptografie"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/padding/","tags":["mathe/binärzahlen","informatik/sicherheit/it-sicherheit","informatik/sicherheit/kryptografie"],"noteIcon":"","updated":"2026-07-02T15:37:49.251+02:00","dg-note-properties":{"aliases":["padding"],"created_date":"2024-09-24","links":null,"tags":["mathe/binärzahlen","informatik/sicherheit/it-sicherheit","informatik/sicherheit/kryptografie"]}}
 ---
 
 >**Auffüllung** oder **Auffüllen**.

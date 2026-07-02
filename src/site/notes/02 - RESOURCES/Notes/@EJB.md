@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ejb/","tags":["informatik/code/java/framework","informatik/code/java/annotation"],"noteIcon":"","updated":"2026-05-19T13:36:38.992+02:00","dg-note-properties":{"aliases":["ejb injection","@ejb"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/code/java/annotation"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/ejb/","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/sprachen/java/annotation"],"noteIcon":"","updated":"2026-07-02T13:17:19.612+02:00","dg-note-properties":{"aliases":["ejb injection","@ejb"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/sprachen/java/annotation"]}}
 ---
 
 >[[02 - RESOURCES/Notes/@EJB\|@EJB]] ist die [[02 - RESOURCES/Notes/Annotation\|Annotation]] für [[02 - RESOURCES/Notes/Dependency Injection\|Dependency Injection]] von [[02 - RESOURCES/Notes/Enterprise Java Bean\|EJB]]s.

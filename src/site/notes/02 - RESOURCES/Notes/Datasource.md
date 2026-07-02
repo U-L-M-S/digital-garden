@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datasource/","tags":["informatik/code/java/framework","informatik/datenbank"],"noteIcon":"","updated":"2026-05-19T13:39:07.204+02:00","dg-note-properties":{"aliases":["data source","datasource","jndi datasource"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/datasource/","tags":["informatik/programmierung/sprachen/java/framework","informatik/datenbank"],"noteIcon":"","updated":"2026-07-02T13:17:19.712+02:00","dg-note-properties":{"aliases":["data source","datasource","jndi datasource"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/datenbank"]}}
 ---
 
 >Eine [[02 - RESOURCES/Notes/Datasource\|Datasource]] ist eine Verbindungsfabrik im [[02 - RESOURCES/Notes/WildFly\|WildFly]]-Container.

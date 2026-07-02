@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/thread-safety/","tags":["informatik/code/pattern","informatik/code/java"],"noteIcon":"","updated":"2026-05-19T14:43:40.268+02:00","dg-note-properties":{"aliases":["thread safety","thread-safe","thread sicherheit"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/pattern","informatik/code/java"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/thread-safety/","tags":["informatik/programmierung/pattern","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.864+02:00","dg-note-properties":{"aliases":["thread safety","thread-safe","thread sicherheit"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/pattern","informatik/programmierung/sprachen/java"]}}
 ---
 
 >[[02 - RESOURCES/Notes/Thread-Safety\|Thread-Safety]] bedeutet: Code funktioniert korrekt, auch wenn mehrere Threads ihn gleichzeitig ausführen.

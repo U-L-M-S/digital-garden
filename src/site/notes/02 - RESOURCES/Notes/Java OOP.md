@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/java-oop/","tags":["inProgress","informatik/code/OOP","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:35:26.099+02:00","dg-note-properties":{"aliases":["Java OOP"],"created_date":"2024-11-02","links":null,"tags":["inProgress","informatik/code/OOP","informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/java-oop/","tags":["status/in-progress","informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.779+02:00","dg-note-properties":{"aliases":["Java OOP"],"created_date":"2024-11-02","links":null,"tags":["status/in-progress","informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"]}}
 ---
 
 > Da du jetzt die [[02 - RESOURCES/Notes/Java Grundlage\|Java Grundlage]]n kennst, tauchen wir tiefer in die objektorientierte Programmierung ([[02 - RESOURCES/Notes/OOP\|OOP]]) von [[02 - RESOURCES/Notes/Java\|Java]] ein.

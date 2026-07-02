@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/zugriffsmodifikator/","tags":["informatik/code/oop","informatik/programmierung/sprachen/java","informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2026-07-02T01:13:38.541+02:00","dg-note-properties":{"created":"2024-06-24 10:57","links":null,"path":"Notes","tags":["informatik/code/oop","informatik/programmierung/sprachen/java","informatik/programmierung/sprachen/python"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/zugriffsmodifikator/","tags":["informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java","informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2026-07-02T13:17:19.898+02:00","dg-note-properties":{"created":"2024-06-24 10:57","links":null,"path":"Notes","tags":["informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java","informatik/programmierung/sprachen/python"]}}
 ---
 
 > Zugriffsrechte.

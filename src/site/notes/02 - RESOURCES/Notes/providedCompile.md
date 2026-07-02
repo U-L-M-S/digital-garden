@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/provided-compile/","tags":["informatik/code/java/build-tool"],"noteIcon":"","updated":"2026-05-19T13:40:18.215+02:00","dg-note-properties":{"aliases":["provided compile","gradle providedCompile"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/build-tool"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/provided-compile/","tags":["informatik/programmierung/sprachen/java/build-tool"],"noteIcon":"","updated":"2026-07-02T13:17:19.914+02:00","dg-note-properties":{"aliases":["provided compile","gradle providedCompile"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/build-tool"]}}
 ---
 
 >[[02 - RESOURCES/Notes/providedCompile\|providedCompile]] ist eine [[02 - RESOURCES/Notes/Gradle\|Gradle]]-Dependency-Konfiguration für Libraries, die **nicht** ins [[02 - RESOURCES/Notes/WAR\|WAR]] gepackt werden.

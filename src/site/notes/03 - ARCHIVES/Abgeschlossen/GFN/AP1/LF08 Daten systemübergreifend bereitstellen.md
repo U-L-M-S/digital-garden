@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-archives/abgeschlossen/gfn/ap-1/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["GFN/LF08","informatik/code/java","inProgress"],"noteIcon":"","updated":"2025-09-10T16:32:54.000+02:00","dg-note-properties":{"tags":["GFN/LF08","informatik/code/java","inProgress"],"links":null,"reference":null,"path":"GFN","created":"2024-06-09 18:57"}}
+{"dg-publish":true,"permalink":"/03-archives/abgeschlossen/gfn/ap-1/lf-08-daten-systemuebergreifend-bereitstellen/","tags":["GFN/LF08","informatik/programmierung/sprachen/java","status/in-progress"],"noteIcon":"","updated":"2026-07-02T13:17:19.925+02:00","dg-note-properties":{"tags":["GFN/LF08","informatik/programmierung/sprachen/java","status/in-progress"],"links":null,"reference":null,"path":"GFN","created":"2024-06-09 18:57"}}
 ---
 
 >[!important] 

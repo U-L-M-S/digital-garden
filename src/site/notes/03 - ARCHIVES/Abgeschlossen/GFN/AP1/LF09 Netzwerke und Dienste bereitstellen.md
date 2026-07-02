@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-archives/abgeschlossen/gfn/ap-1/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["GFN/LF09","informatik/netzwerk","finished"],"noteIcon":"","updated":"2025-09-15T15:52:55.000+02:00","dg-note-properties":{"tags":["GFN/LF09","informatik/netzwerk","finished"],"links":"https://lernplattform.gfn.de/course/view.php?id=13592","reference":"[[03 - ARCHIVES/Abgeschlossen/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]","path":"GFN","created":"2024-07-01 09:02"}}
+{"dg-publish":true,"permalink":"/03-archives/abgeschlossen/gfn/ap-1/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["GFN/LF09","informatik/netzwerk","status/fertig"],"noteIcon":"","updated":"2026-07-02T12:18:59.094+02:00","dg-note-properties":{"tags":["GFN/LF09","informatik/netzwerk","status/fertig"],"links":"https://lernplattform.gfn.de/course/view.php?id=13592","reference":"[[03 - ARCHIVES/Abgeschlossen/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]","path":"GFN","created":"2024-07-01 09:02"}}
 ---
 
 >Dieses Lernfeld ist eine Erweiterung von [[03 - ARCHIVES/Abgeschlossen/GFN/AP1/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]. 

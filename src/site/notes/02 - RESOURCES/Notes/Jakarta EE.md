@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/jakarta-ee/","tags":["informatik/code/java/framework"],"noteIcon":"","updated":"2026-05-19T14:43:36.010+02:00","dg-note-properties":{"aliases":["Jakarta Enterprise Edition","jakarta ee","jakartaee"],"created":"2026-05-19 19:00","links":"https://jakarta.ee/","path":"Notes","tags":["informatik/code/java/framework"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/jakarta-ee/","tags":["informatik/programmierung/sprachen/java/framework"],"noteIcon":"","updated":"2026-07-02T13:17:19.773+02:00","dg-note-properties":{"aliases":["Jakarta Enterprise Edition","jakarta ee","jakartaee"],"created":"2026-05-19 19:00","links":"https://jakarta.ee/","path":"Notes","tags":["informatik/programmierung/sprachen/java/framework"]}}
 ---
 
 >[[02 - RESOURCES/Notes/Jakarta EE\|Jakarta EE]] ist die Enterprise-Edition von [[02 - RESOURCES/Notes/Java\|Java]] mit Standards für Web-Apps, Persistenz und [[02 - RESOURCES/Notes/Enterprise Java Bean\|EJB]]s.

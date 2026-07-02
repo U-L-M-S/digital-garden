@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/runtime-exception/","tags":["informatik/code/java"],"noteIcon":"","updated":"2026-05-19T13:41:31.780+02:00","dg-note-properties":{"aliases":["runtime exception","unchecked exception"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/runtime-exception/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.838+02:00","dg-note-properties":{"aliases":["runtime exception","unchecked exception"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java"]}}
 ---
 
 >[[02 - RESOURCES/Notes/RuntimeException\|RuntimeException]] ist eine **unchecked** Exception in [[02 - RESOURCES/Notes/Java\|Java]].

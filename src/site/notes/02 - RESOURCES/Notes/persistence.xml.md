@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/persistence-xml/","tags":["informatik/code/java/framework","informatik/datenbank"],"noteIcon":"","updated":"2026-05-19T13:38:54.748+02:00","dg-note-properties":{"aliases":["persistence xml","persistence-xml"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/persistence-xml/","tags":["informatik/programmierung/sprachen/java/framework","informatik/datenbank"],"noteIcon":"","updated":"2026-07-02T13:17:19.912+02:00","dg-note-properties":{"aliases":["persistence xml","persistence-xml"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/datenbank"]}}
 ---
 
 >[[02 - RESOURCES/Notes/persistence.xml\|persistence.xml]] ist die Konfig-Datei für [[02 - RESOURCES/Notes/JPA\|JPA]] / [[02 - RESOURCES/Notes/Hibernate\|Hibernate]].

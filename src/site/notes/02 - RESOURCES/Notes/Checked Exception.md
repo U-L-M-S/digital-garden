@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/checked-exception/","tags":["informatik/code/java"],"noteIcon":"","updated":"2026-05-19T13:41:34.682+02:00","dg-note-properties":{"aliases":["checked exception","checked exceptions"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/checked-exception/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.699+02:00","dg-note-properties":{"aliases":["checked exception","checked exceptions"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java"]}}
 ---
 
 >Eine [[02 - RESOURCES/Notes/Checked Exception\|Checked Exception]] ist eine Exception in [[02 - RESOURCES/Notes/Java\|Java]], die der Compiler dich zwingt zu behandeln.

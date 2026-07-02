@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/cmt/","tags":["informatik/code/java/framework"],"noteIcon":"","updated":"2026-05-19T13:42:28.116+02:00","dg-note-properties":{"aliases":["Container Managed Transactions"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/cmt/","tags":["informatik/programmierung/sprachen/java/framework"],"noteIcon":"","updated":"2026-07-02T13:17:19.686+02:00","dg-note-properties":{"aliases":["Container Managed Transactions"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework"]}}
 ---
 
 >[[02 - RESOURCES/Notes/CMT\|CMT]] (Container Managed Transactions) bedeutet: Der [[02 - RESOURCES/Notes/WildFly\|WildFly]]-Container öffnet und schließt [[02 - RESOURCES/Notes/Transaktion\|Transaktion]]en automatisch.

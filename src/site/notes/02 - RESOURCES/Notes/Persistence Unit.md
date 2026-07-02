@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/persistence-unit/","tags":["informatik/code/java/framework","informatik/datenbank"],"noteIcon":"","updated":"2026-05-19T13:39:22.696+02:00","dg-note-properties":{"aliases":["persistence unit","persistence-unit","PU"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/persistence-unit/","tags":["informatik/programmierung/sprachen/java/framework","informatik/datenbank"],"noteIcon":"","updated":"2026-07-02T13:17:19.820+02:00","dg-note-properties":{"aliases":["persistence unit","persistence-unit","PU"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/datenbank"]}}
 ---
 
 >Eine [[02 - RESOURCES/Notes/Persistence Unit\|Persistence Unit]] ist die logische Brücke zwischen [[02 - RESOURCES/Notes/JPA\|JPA]]-Code und einer [[02 - RESOURCES/Notes/Datasource\|Datasource]].

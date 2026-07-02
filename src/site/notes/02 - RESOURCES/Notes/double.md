@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/double/","tags":["informatik/code","speicher"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"aliases":["Double","double"],"created_date":"2024-08-25","links":null,"path":"Notes","tags":["informatik/code","speicher"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/double/","tags":["informatik/programmierung","speicher"],"noteIcon":"","updated":"2026-07-02T13:17:19.906+02:00","dg-note-properties":{"aliases":["Double","double"],"created_date":"2024-08-25","links":null,"path":"Notes","tags":["informatik/programmierung","speicher"]}}
 ---
 
 >64 [[02 - RESOURCES/Notes/Bit\|Bit]]s

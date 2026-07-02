@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/beans-xml/","tags":["informatik/code/java/framework"],"noteIcon":"","updated":"2026-05-19T13:38:54.958+02:00","dg-note-properties":{"aliases":["beans xml","beans-xml"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/beans-xml/","tags":["informatik/programmierung/sprachen/java/framework"],"noteIcon":"","updated":"2026-07-02T13:17:19.901+02:00","dg-note-properties":{"aliases":["beans xml","beans-xml"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework"]}}
 ---
 
 >[[02 - RESOURCES/Notes/beans.xml\|beans.xml]] aktiviert [[02 - RESOURCES/Notes/CDI\|CDI]] (Contexts and Dependency Injection) in einer App.

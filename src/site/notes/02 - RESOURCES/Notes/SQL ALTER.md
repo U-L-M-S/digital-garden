@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-alter/","tags":["informatik/code/SQL","informatik/datenbank"],"noteIcon":"","updated":"2026-05-12T15:43:41.182+02:00","dg-note-properties":{"aliases":null,"created_date":"2024-10-10","links":null,"tags":["informatik/code/SQL","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-alter/","tags":["informatik/code/sql","informatik/datenbank"],"noteIcon":"","updated":"2026-07-02T01:13:38.519+02:00","dg-note-properties":{"aliases":null,"created_date":"2024-10-10","links":null,"tags":["informatik/code/sql","informatik/datenbank"]}}
 ---
 
 > Befehl wird verwendet, um die Struktur einer bereits existierenden [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] zu ändern. Du kannst [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n hinzufügen, entfernen oder bearbeiten.

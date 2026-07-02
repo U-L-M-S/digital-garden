@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/post-construct/","tags":["informatik/code/java/framework","informatik/code/java/annotation"],"noteIcon":"","updated":"2026-05-19T13:38:10.889+02:00","dg-note-properties":{"aliases":["post construct","@postconstruct"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/code/java/annotation"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/post-construct/","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/sprachen/java/annotation"],"noteIcon":"","updated":"2026-07-02T13:17:19.617+02:00","dg-note-properties":{"aliases":["post construct","@postconstruct"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/sprachen/java/annotation"]}}
 ---
 
 >[[02 - RESOURCES/Notes/@PostConstruct\|@PostConstruct]] ist ein [[02 - RESOURCES/Notes/Lifecycle Hook\|Lifecycle Hook]]: läuft **nach** dem Erstellen einer Bean.

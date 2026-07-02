@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/window-builder/","tags":["informatik/code/java/tools","gui"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"created":"2024-06-21 16:03","links":null,"path":"Notes","tags":["informatik/code/java/tools","gui"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/window-builder/","tags":["informatik/programmierung/sprachen/java/tools","gui"],"noteIcon":"","updated":"2026-07-02T13:17:19.895+02:00","dg-note-properties":{"created":"2024-06-21 16:03","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/tools","gui"]}}
 ---
 
 Erstens, erstellt eine neues JFrame.

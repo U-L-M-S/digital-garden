@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/passwort-hashing/","tags":["kryptografie/passwort","sicherheit/authentifizierung","informatik/kryptographie"],"noteIcon":"","updated":"2025-11-24T11:31:19.000+01:00","dg-note-properties":{"tags":["kryptografie/passwort","sicherheit/authentifizierung","informatik/kryptographie"],"aliases":["passwort-hashing","password hashing","bcrypt","argon2","scrypt","pbkdf2"],"links":["[[02 - RESOURCES/Notes/Kryptographie\|Kryptographie]]","[[02 - RESOURCES/Notes/Hash-Funktion\|Hash-Funktion]]","[[02 - RESOURCES/Notes/SHA-256\|SHA-256]]"],"created_date":"2025-11-07"}}
+{"dg-publish":true,"permalink":"/02-resources/notes/passwort-hashing/","tags":["informatik/sicherheit/kryptografie/passwort","informatik/sicherheit/authentifizierung","informatik/sicherheit/kryptografie"],"noteIcon":"","updated":"2026-07-02T15:37:49.253+02:00","dg-note-properties":{"tags":["informatik/sicherheit/kryptografie/passwort","informatik/sicherheit/authentifizierung","informatik/sicherheit/kryptografie"],"aliases":["passwort-hashing","password hashing","bcrypt","argon2","scrypt","pbkdf2"],"links":["[[02 - RESOURCES/Notes/Kryptographie\|Kryptographie]]","[[02 - RESOURCES/Notes/Hash-Funktion\|Hash-Funktion]]","[[02 - RESOURCES/Notes/SHA-256\|SHA-256]]"],"created_date":"2025-11-07"}}
 ---
 
 

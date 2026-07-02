@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/stateful/","tags":["informatik/code/java/framework","informatik/code/java/annotation"],"noteIcon":"","updated":"2026-05-19T13:37:56.750+02:00","dg-note-properties":{"aliases":["stateful ejb","stateful bean","@stateful"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework","informatik/code/java/annotation"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/stateful/","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/sprachen/java/annotation"],"noteIcon":"","updated":"2026-07-02T13:17:19.619+02:00","dg-note-properties":{"aliases":["stateful ejb","stateful bean","@stateful"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/sprachen/java/annotation"]}}
 ---
 
 >[[02 - RESOURCES/Notes/@Stateful\|@Stateful]] markiert eine [[02 - RESOURCES/Notes/Enterprise Java Bean\|EJB]] als "eine Instanz pro Client".

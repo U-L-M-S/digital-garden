@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wild-fly/","tags":["informatik/code/java/server","muckenhirn"],"noteIcon":"","updated":"2026-05-19T13:35:50.032+02:00","dg-note-properties":{"aliases":["JBoss","wildfly","wildfly server"],"created":"2026-05-19 19:00","links":"https://www.wildfly.org/","path":"Notes","tags":["informatik/code/java/server","muckenhirn"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/wild-fly/","tags":["informatik/programmierung/sprachen/java/server","muckenhirn"],"noteIcon":"","updated":"2026-07-02T13:17:19.894+02:00","dg-note-properties":{"aliases":["JBoss","wildfly","wildfly server"],"created":"2026-05-19 19:00","links":"https://www.wildfly.org/","path":"Notes","tags":["informatik/programmierung/sprachen/java/server","muckenhirn"]}}
 ---
 
 >[[02 - RESOURCES/Notes/WildFly\|WildFly]] ist ein [[02 - RESOURCES/Notes/Jakarta EE\|Jakarta EE]]-[[Application Server\|Application Server]] von Red Hat (früher JBoss).

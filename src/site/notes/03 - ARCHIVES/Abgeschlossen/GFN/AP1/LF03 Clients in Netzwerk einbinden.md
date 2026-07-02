@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-archives/abgeschlossen/gfn/ap-1/lf-03-clients-in-netzwerk-einbinden/","tags":["informatik/netzwerk","GFN/LF03","finished"],"noteIcon":"","updated":"2025-11-07T12:07:27.000+01:00","dg-note-properties":{"tags":["informatik/netzwerk","GFN/LF03","finished"],"links":"https://lernplattform.gfn.de/course/view.php?id=12581","reference":null,"created":"2024-05-03 18:07"}}
+{"dg-publish":true,"permalink":"/03-archives/abgeschlossen/gfn/ap-1/lf-03-clients-in-netzwerk-einbinden/","tags":["informatik/netzwerk","GFN/LF03","status/fertig"],"noteIcon":"","updated":"2026-07-02T12:18:59.085+02:00","dg-note-properties":{"tags":["informatik/netzwerk","GFN/LF03","status/fertig"],"links":"https://lernplattform.gfn.de/course/view.php?id=12581","reference":null,"created":"2024-05-03 18:07"}}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hot-deploy/","tags":["informatik/code/java/framework"],"noteIcon":"","updated":"2026-05-19T13:40:19.195+02:00","dg-note-properties":{"aliases":["hot deploy","hot redeploy","hot deployment"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/code/java/framework"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/hot-deploy/","tags":["informatik/programmierung/sprachen/java/framework"],"noteIcon":"","updated":"2026-07-02T13:17:19.761+02:00","dg-note-properties":{"aliases":["hot deploy","hot redeploy","hot deployment"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework"]}}
 ---
 
 >[[02 - RESOURCES/Notes/Hot-Deploy\|Hot-Deploy]] = neue Version einer App **ohne Server-Restart** ausrollen.

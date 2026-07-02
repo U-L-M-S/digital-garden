@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/gradle/","tags":["informatik/code/java/build-tool"],"noteIcon":"","updated":"2026-05-19T13:40:01.491+02:00","dg-note-properties":{"aliases":["gradle","gradle build"],"created":"2026-05-19 19:00","links":"https://gradle.org/","path":"Notes","tags":["informatik/code/java/build-tool"]}}
+{"dg-publish":true,"permalink":"/02-resources/notes/gradle/","tags":["informatik/programmierung/sprachen/java/build-tool"],"noteIcon":"","updated":"2026-07-02T13:17:19.755+02:00","dg-note-properties":{"aliases":["gradle","gradle build"],"created":"2026-05-19 19:00","links":"https://gradle.org/","path":"Notes","tags":["informatik/programmierung/sprachen/java/build-tool"]}}
 ---
 
 >[[02 - RESOURCES/Notes/Gradle\|Gradle]] ist ein Build-Tool für [[02 - RESOURCES/Notes/Java\|Java]] (Alternative zu Maven).
