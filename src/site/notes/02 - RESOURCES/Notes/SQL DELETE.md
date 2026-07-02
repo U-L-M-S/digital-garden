@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-delete/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:32:47.442+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-delete/","tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T01:13:38.521+02:00","dg-note-properties":{"tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"aliases":["SQL DELETE"],"links":null,"created_date":"2025-11-12"}}
 ---
 
->Befehl wird verwendet um bereits existierende [[02 - RESOURCES/Notes/SQL Zeile\|SQL Zeile]]n aus einer [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] zu löschen.
+>Befehl wird verwendet, um bereits existierende [[02 - RESOURCES/Notes/SQL Zeile\|SQL Zeile]]n aus einer [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] zu löschen.
 >>DELETE entfernt komplette Datensätze (Zeilen), nicht einzelne Spalten.
 
 ```

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/uml-anwendungsfalldiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","uml/anwendungsfalldiagramm"],"noteIcon":"","updated":"2025-11-23T14:04:26.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/uml-anwendungsfalldiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/uml/anwendungsfalldiagramm"],"noteIcon":"","updated":"2026-07-02T15:36:33.148+02:00","dg-note-properties":{"aliases":["UML-Anwendungsfalldiagramm","UML Anwendungsfalldiagramm","Anwendungsfalldiagramme","Use-Case-Diagramm","Nutzfalldiagramm","Use Case"],"created_date":"2024-08-28","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/uml/anwendungsfalldiagramm"]}}
 ---
 
 >Ein UML-Anwendungsfalldiagramm ist eine grafische Darstellung, die zeigt, wie Nutzer (Akteure) mit einem System interagieren können.
 >>Es beschreibt die verschiedenen *Use Cases* (Anwendungsfälle) und die Beziehungen zwischen ihnen und den Akteuren. Solche Diagramme helfen, die Anforderungen an ein System zu verstehen und zu planen, indem sie die Funktionen aus Sicht der Benutzer visualisieren.
 
-![TEQoGCUjPw4PopfwMAIGuFwSrY.png](/img/user/02%20-%20RESOURCES/Files/TEQoGCUjPw4PopfwMAIGuFwSrY.png)
+![TEQoGCUjPw4PopfwMAIGuFwSrY.png](/img/user/02%20-%20RESOURCES/Files/IMG/TEQoGCUjPw4PopfwMAIGuFwSrY.png)
 
 ---
 
@@ -211,5 +211,5 @@ Schritt 5: Review mit Team
 - [[02 - RESOURCES/Notes/UML-Klassendiagramm\|UML-Klassendiagramm]] - Struktur des Systems
 - [[02 - RESOURCES/Notes/UML-Sequenzdiagramme\|UML-Sequenzdiagramme]] - Zeitlicher Ablauf
 - [[02 - RESOURCES/Notes/UML-Aktivitätsdiagramm\|UML-Aktivitätsdiagramm]] - Prozessabläufe
-- [[Requirements Engineering\|Requirements Engineering]] - Anforderungsanalyse
+- [[02 - RESOURCES/Notes/Requirements Engineering\|Requirements Engineering]] - Anforderungsanalyse
 - [[User Stories\|User Stories]] - Alternative Anforderungsdokumentation

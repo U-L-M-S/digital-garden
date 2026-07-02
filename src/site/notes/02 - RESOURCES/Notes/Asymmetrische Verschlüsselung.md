@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/asymmetrische-verschluesselung/","tags":["ausbildung/gfn/ap1/vorbereitung","sicherheit/it-sicherheit","sicherheit/kryptografie","kryptografie/verschlüsselung","kryptografie/asymmetrisch"],"noteIcon":"","updated":"2025-11-07T10:16:09.326+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/asymmetrische-verschluesselung/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/sicherheit/it-sicherheit","informatik/sicherheit/kryptografie","informatik/sicherheit/kryptografie/verschlüsselung","informatik/sicherheit/kryptografie/asymmetrisch"],"noteIcon":"","updated":"2026-07-02T15:37:49.168+02:00","dg-note-properties":{"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/sicherheit/it-sicherheit","informatik/sicherheit/kryptografie","informatik/sicherheit/kryptografie/verschlüsselung","informatik/sicherheit/kryptografie/asymmetrisch"],"aliases":["asymmetric encryption"],"links":null,"created_date":"2024-07-16"}}
 ---
 
 >Asymmetrische Verschlüsselung ist eine Methode der [[02 - RESOURCES/Notes/Kryptographie\|Kryptographie]], bei der <mark style="background: #ABF7F7A6;">zwei verschiedene, mathematisch verbundene Schlüssel verwendet werden</mark>: ein [[öffentlicher Schlüssel\|öffentlicher Schlüssel]] (public key) und ein [[privater Schlüssel\|privater Schlüssel]] (private key).
@@ -352,7 +352,7 @@ Das ist die Basis für ECC-Sicherheit!
 >**3. Digitale Signaturen möglich**
 >- Beweist [[02 - RESOURCES/Notes/Authentizität\|Authentizität]] des Absenders
 >- [[02 - RESOURCES/Notes/Nicht-Abstreitbarkeit\|Nicht-Abstreitbarkeit]] durch Private Key
->- Grundlage für [[PKI\|PKI]] und [[02 - RESOURCES/Notes/Zertifikat\|Zertifikat]]e
+>- Grundlage für [[02 - RESOURCES/Notes/PKI\|PKI]] und [[02 - RESOURCES/Notes/Zertifikat\|Zertifikat]]e
 >
 >**4. Schlüsselverteilung**
 >- Public Keys können in öffentlichen Verzeichnissen stehen
@@ -720,7 +720,7 @@ Wenn alles OK → 🔒 (Grünes Schloss)
 - [[02 - RESOURCES/Notes/RSA\|RSA]] - Der wichtigste asymmetrische Algorithmus
 - [[02 - RESOURCES/Notes/ECC\|ECC]] - Moderne Alternative mit kürzeren Schlüsseln
 - [[02 - RESOURCES/Notes/Digitale Signatur\|Digitale Signatur]] - Anwendung für Authentizität
-- [[PKI\|PKI]] - Public Key Infrastructure
+- [[02 - RESOURCES/Notes/PKI\|PKI]] - Public Key Infrastructure
 - [[02 - RESOURCES/Notes/Zertifikat\|Zertifikat]] - Verbindet Public Key mit Identität
 - [[02 - RESOURCES/Notes/TLS\|TLS]] - Verwendet asymmetrische Verschlüsselung für Handshake
 - [[02 - RESOURCES/Notes/Diffie-Hellman\|Diffie-Hellman]] - Schlüsselaustausch-Protokoll

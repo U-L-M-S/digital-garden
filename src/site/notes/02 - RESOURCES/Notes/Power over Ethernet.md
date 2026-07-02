@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/power-over-ethernet/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:09.248+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/power-over-ethernet/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":["PoE"],"created_date":"2025-03-11","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/netzwerk"]}}
 ---
 
 >**Power over [[02 - RESOURCES/Notes/Ethernet\|Ethernet]] (PoE)** ist eine Technik, die Geräte über ein einziges [[02 - RESOURCES/Notes/Ethernet\|Ethernet]]-Kabel gleichzeitig mit **Daten** und **Strom** versorgt.
 > 
 > > Wird oft für Geräte wie [[02 - RESOURCES/Notes/Access-Point\|Access-Point]]s, [[02 - RESOURCES/Notes/IP\|IP]]-Kameras oder VoIP-Telefone genutzt.
 
-![PoE-WithPoE_tcm151-114959.jpg](/img/user/02%20-%20RESOURCES/Files/PoE-WithPoE_tcm151-114959.jpg)
+![PoE-WithPoE_tcm151-114959.jpg](/img/user/02%20-%20RESOURCES/Files/IMG/PoE-WithPoE_tcm151-114959.jpg)
 
 > [!tip]  
 > Du brauchst keinen separaten Stromanschluss für das Endgerät – das [[02 - RESOURCES/Notes/Ethernet\|Ethernet]]-Kabel übernimmt beides (Strom + [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]).

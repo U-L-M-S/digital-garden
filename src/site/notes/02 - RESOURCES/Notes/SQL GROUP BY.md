@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-group-by/","tags":["informatik/code/SQL"],"noteIcon":"","updated":"2025-10-29T12:59:10.455+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-group-by/","tags":["informatik/code/sql"],"noteIcon":"","updated":"2026-07-02T01:13:38.523+02:00","dg-note-properties":{"tags":["informatik/code/sql"],"aliases":null,"links":null,"created_date":"2025-09-15"}}
 ---
 
-> Befehl wird verwendet um [[02 - RESOURCES/Notes/SQL Zeile\|SQL Zeile]]n zu gruppieren die gleiche Werte in bestimmten [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n haben. Oft mit Aggregatfunktionen wie COUNT, SUM, AVG verwendet.
+> Befehl wird verwendet, um [[02 - RESOURCES/Notes/SQL Zeile\|SQL Zeile]]n zu gruppieren, die gleiche Werte in bestimmten [[02 - RESOURCES/Notes/SQL Spalte\|SQL Spalte]]n haben. Oft mit Aggregatfunktionen wie COUNT, SUM, AVG verwendet.
 
 ```sql
 -- Grundlegende Gruppierung

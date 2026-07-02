@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/er-modell/","tags":["datenmodellierung/konzeptionell","datenbank/design","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-24T20:53:13.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/er-modell/","tags":["datenmodellierung/konzeptionell","datenbank/design","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-24T20:53:13.000+01:00","dg-note-properties":{"tags":["datenmodellierung/konzeptionell","datenbank/design","GFN/prüfungsrelevant/AP2"],"aliases":["Entity-Relationship-Modell","ER-Diagramm","Entitäts-Beziehungsmodell","er-modell"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 
@@ -170,8 +170,8 @@ PK = Primary Key (Primärschlüssel)
 >[[02 - RESOURCES/Notes/Foreign Key\|Foreign Key]] auf der "n"-Seite
 >
 >Bestellung:
->├─ BestellID ([[Primary Key]])
->├─ KundenID ([[Foreign Key]])  ← Verweis auf Kunde
+>├─ BestellID ([[02 - RESOURCES/Notes/Primary Key\|Primary Key]])
+>├─ KundenID ([[02 - RESOURCES/Notes/Foreign Key\|Foreign Key]])  ← Verweis auf Kunde
 >├─ Datum
 >└─ Menge
 >```
@@ -181,15 +181,15 @@ PK = Primary Key (Primärschlüssel)
 >Student ←→ Kurs
 >
 >Neue Tabelle "Teilnahme":
->├─ StudentID ([[Foreign Key]])
->├─ KursID ([[Foreign Key]])
+>├─ StudentID ([[02 - RESOURCES/Notes/Foreign Key\|Foreign Key]])
+>├─ KursID ([[02 - RESOURCES/Notes/Foreign Key\|Foreign Key]])
 >└─ Note
 >```
 
 >[!success] Grundlage für Datenbank-Design
 >Das [[02 - RESOURCES/Notes/ER-Modell\|ER-Modell]] ist der erste Schritt beim Erstellen einer Datenbank. Danach kommen:
 >1. ER-Modell erstellen
->2. In Tabellen umwandeln mit [[Primary Key]] und [[Foreign Key]]
+>2. In Tabellen umwandeln mit [[02 - RESOURCES/Notes/Primary Key\|Primary Key]] und [[02 - RESOURCES/Notes/Foreign Key\|Foreign Key]]
 >3. [[02 - RESOURCES/Notes/Normalisierung\|Normalisierung]] anwenden: [[02 - RESOURCES/Notes/1. Normalform\|1. Normalform]], [[02 - RESOURCES/Notes/2. Normalform\|2. Normalform]], [[02 - RESOURCES/Notes/3. Normalform\|3. Normalform]]
 >4. Datenbank implementieren mit [[02 - RESOURCES/Notes/SQL\|SQL]]
 

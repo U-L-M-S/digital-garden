@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/n-zu-m/","tags":["informatik/datenbank/kardinalität","informatik/er-modell","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-19T21:01:23.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/n-zu-m/","tags":["informatik/datenbank/kardinalität","informatik/er-modell","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-19T21:01:23.000+01:00","dg-note-properties":{"created":"2024-05-14 11:43","links":null,"path":"Notes","tags":["informatik/datenbank/kardinalität","informatik/er-modell","GFN/prüfungsrelevant/AP2"],"aliases":["n:m","viele-zu-viele","many-to-many","m:n"],"created_date":"2025-11-12"}}
 ---
 
 >Eine n:m-Beziehung (viele-zu-viele) liegt vor, wenn mehrere Instanzen einer Entität mit mehreren Instanzen einer anderen Entität verbunden sein können.

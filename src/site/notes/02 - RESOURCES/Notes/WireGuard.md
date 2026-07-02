@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wire-guard/","tags":["informatik/netzwerk/vpn","kryptographie","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2025-11-07T11:31:38.520+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wire-guard/","tags":["informatik/netzwerk/vpn","informatik/sicherheit/kryptografie","sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T13:17:19.896+02:00","dg-note-properties":{"created":"2025-01-07","path":"Notes","tags":["informatik/netzwerk/vpn","informatik/sicherheit/kryptografie","sicherheit/it-sicherheit"]}}
 ---
 
 > Modernes [[02 - RESOURCES/Notes/VPN\|VPN]]-Protokoll

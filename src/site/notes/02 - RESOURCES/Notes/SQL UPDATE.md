@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sql-update/","tags":["informatik/code/SQL","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:32:08.932+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sql-update/","tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T01:13:38.529+02:00","dg-note-properties":{"tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"aliases":["SQL UPDATE"],"links":null,"created_date":"2025-11-12"}}
 ---
 
->Befehl wird verwendet um bereits existierende Daten in einer [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] zu ändern.
+>Befehl wird verwendet, um bereits existierende Daten in einer [[02 - RESOURCES/Notes/SQL Tabelle\|SQL Tabelle]] zu ändern.
 >>UPDATE ändert Werte in bestehenden [[02 - RESOURCES/Notes/SQL Zeile\|SQL Zeile]]n, ohne neue Zeilen hinzuzufügen.
 
 ```

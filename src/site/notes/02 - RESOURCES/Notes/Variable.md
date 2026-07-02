@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/variable/","tags":["informatik/code"],"noteIcon":"","updated":"2025-10-29T12:59:11.099+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/variable/","tags":["informatik/programmierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.879+02:00","dg-note-properties":{"aliases":["Variable","variable"],"created_date":"2024-08-25","links":null,"path":"Notes","tags":["informatik/programmierung"]}}
 ---
 
->Es ist ein **Placeholder** für ein Wert.
+>Es ist ein **Placeholder** für einen Wert.
 
 ```python
 # Integer

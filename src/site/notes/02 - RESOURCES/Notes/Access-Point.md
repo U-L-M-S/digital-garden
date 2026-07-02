@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/access-point/","tags":["informatik/netzwerk/wifi","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:01.924+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/access-point/","tags":["informatik/netzwerk/wifi","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:01.000+01:00","dg-note-properties":{"aliases":["AC"],"created_date":"2025-03-18","links":null,"tags":["informatik/netzwerk/wifi","informatik/hardware"]}}
 ---
 
 > **Access-Point (AP)** ist ein Gerät, das ein bestehendes kabelgebundenes [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]] um ein **WLAN** erweitert.
@@ -9,7 +9,7 @@
 **Access Point** – Zentrale WLAN-Basisstation im [[02 - RESOURCES/Notes/Infrastrukturmodus\|Infrastrukturmodus]].  
 Verbindet [[02 - RESOURCES/Notes/WLAN\|WLAN]]-Geräte mit kabelgebundenem Netzwerk – Gegensatz zu [[02 - RESOURCES/Notes/Ad-Hoc-Modus\|Ad-Hoc-Modus]].
 
-![images.png](/img/user/02%20-%20RESOURCES/Files/images.png)
+![images.png](/img/user/02%20-%20RESOURCES/Files/IMG/images.png)
 
 > [!note]  
 > Der AP hängt per LAN-Kabel im Netzwerk und gibt **WLAN** für andere Geräte frei – **kein Router**, sondern eine WLAN-Erweiterung.
