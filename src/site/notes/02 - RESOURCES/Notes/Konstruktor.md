@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/konstruktor/","tags":["informatik/code"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/konstruktor/","tags":["informatik/programmierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.794+02:00","dg-note-properties":{"aliases":["Constructor","constructor"],"created_date":"2024-09-25","links":null,"tags":["informatik/programmierung"]}}
 ---
 
 >Es ist eine spezielle [[02 - RESOURCES/Notes/Programmierung Methode\|Programmierung Methode]] in einer [[02 - RESOURCES/Notes/Klasse\|Klasse]], wo bestimmte Eigenschaften **immer** zugewiesen werden.

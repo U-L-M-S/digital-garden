@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/attribut/","tags":["informatik/code/OOP"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/attribut/","tags":["informatik/programmierung/konzepte/oop"],"noteIcon":"","updated":"2026-07-02T13:17:19.638+02:00","dg-note-properties":{"created":"2024-05-20 13:32","links":null,"path":"Notes","tags":["informatik/programmierung/konzepte/oop"]}}
 ---
 
-> Eigenschaften von eine Klasse.
+> Eigenschaften einer Klasse.
 
 - Name
 - Jahr

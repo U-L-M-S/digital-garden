@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/aktoren/","tags":["hardware/ausgabe","automation/steuerung","AP2025/neu"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/aktoren/","tags":["hardware/ausgabe","automation/steuerung","AP2025/neu"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00","dg-note-properties":{"tags":["hardware/ausgabe","automation/steuerung","AP2025/neu"],"aliases":["Aktor","Stellglied","Actuator"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

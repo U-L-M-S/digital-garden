@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/port-security/","tags":["netzwerk/sicherheit","switching/schutz"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/port-security/","tags":["netzwerk/sicherheit","switching/schutz"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"tags":["netzwerk/sicherheit","switching/schutz"],"aliases":["Switch Port Security","MAC Address Security","Port-basierte Sicherheit"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

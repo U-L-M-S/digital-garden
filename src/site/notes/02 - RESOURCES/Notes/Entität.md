@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/entitaet/","tags":["informatik/datenbank","informatik/er-modell","GFN/prüfungsrelevant/AP2","psychologie"],"noteIcon":"","updated":"2025-11-12T14:58:55.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/entitaet/","tags":["informatik/datenbank","informatik/er-modell","GFN/prüfungsrelevant/AP2","psychologie"],"noteIcon":"","updated":"2025-11-12T14:58:55.000+01:00","dg-note-properties":{"created":"2024-05-15 15:44","links":null,"path":"Notes","tags":["informatik/datenbank","informatik/er-modell","GFN/prüfungsrelevant/AP2","psychologie"],"aliases":["Entity","Objekt","Datenbankentität"],"created_date":"2025-11-12"}}
 ---
 
 >Eine Entität ist ein eindeutig identifizierbares Objekt der realen Welt oder der Vorstellungswelt.

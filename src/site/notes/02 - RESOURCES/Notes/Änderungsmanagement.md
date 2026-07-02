@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/aenderungsmanagement/","tags":["ausbildung/gfn/ap1/vorbereitung","projektmanagement"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/aenderungsmanagement/","tags":["ausbildung/gfn/ap1/vorbereitung","projektmanagement"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00","dg-note-properties":{"aliases":["Chage Request"],"created_date":"2025-03-19","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","projektmanagement"]}}
 ---
 
 
@@ -7,7 +7,7 @@
 > 
 >> Verhindert unkontrollierte Änderungen (Scope Creep) und sichert die Qualität im Projekt.
 
-![Management-Of-Change-2.png](/img/user/02%20-%20RESOURCES/Files/Management-Of-Change-2.png)
+![Management-Of-Change-2.png](/img/user/02%20-%20RESOURCES/Files/IMG/Management-Of-Change-2.png)
 > [!note] Ablauf:
 > 
 > - **Änderungsantrag (Change Request)**:  

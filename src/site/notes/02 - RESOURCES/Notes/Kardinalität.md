@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kardinalitaet/","tags":["ausbildung/gfn/ap1","ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","informatik/datenbank"],"noteIcon":"","updated":"2025-11-12T15:22:20.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kardinalitaet/","tags":["ausbildung/gfn/ap1","ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","informatik/datenbank"],"noteIcon":"","updated":"2025-11-12T15:22:20.000+01:00","dg-note-properties":{"created":"2024-05-14 08:49","links":null,"path":"Notes","tags":["ausbildung/gfn/ap1","ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","informatik/datenbank"],"aliases":["Multiplizität","Beziehungskardinalität","kardinalität"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sprint-retrospective/","tags":["projektmanagement/agile"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sprint-retrospective/","tags":["projektmanagement/agile"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"aliases":["sprint retrospective"],"created_date":"2024-11-22","links":null,"tags":["projektmanagement/agile"]}}
 ---
 
 >Es ist ein regelmäßiges Treffen am Ende eines jeden Sprints im [[02 - RESOURCES/Notes/Scrum\|Scrum]]-[[02 - RESOURCES/Notes/Prozess\|Prozess]]. Ziel ist es, den vergangenen [[02 - RESOURCES/Notes/Sprint\|Sprint]] zu reflektieren und kontinuierliche Verbesserungen für zukünftige Sprints zu identifizieren. 

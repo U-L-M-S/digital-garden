@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mutationsanomalie/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/mutationsanomalie/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"created":"2024-06-26 09:15","links":null,"path":"Notes","tags":["informatik/datenbank"]}}
 ---
 
 > Diese Art von [[02 - RESOURCES/Notes/Anomalie\|Anomalie]] trifft auf wenn [[02 - RESOURCES/Notes/Redundanz\|Redundanz]]daten erscheinen.
