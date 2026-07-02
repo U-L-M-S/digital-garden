@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/schluesselattribut/","tags":["informatik/datenbank","informatik/code/SQL"],"noteIcon":"","updated":"2025-10-29T12:59:09.973+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/schluesselattribut/","tags":["informatik/datenbank","informatik/code/sql"],"noteIcon":"","updated":"2026-07-02T01:13:38.534+02:00","dg-note-properties":{"created":"2024-05-20 13:29","links":null,"path":"Notes","tags":["informatik/datenbank","informatik/code/sql"]}}
 ---
 
->Einzigartig [[02 - RESOURCES/Notes/Attribut\|Attribut]], der verwendet wird um eine [[02 - RESOURCES/Notes/Entität\|Entität]] zu erkennen.
->>Es wird als [[02 - RESOURCES/Notes/Primary Key\|Primary Key]] genannt bei [[02 - RESOURCES/Notes/SQL\|SQL]].
+>Einzigartiges [[02 - RESOURCES/Notes/Attribut\|Attribut]], das verwendet wird, um eine [[02 - RESOURCES/Notes/Entität\|Entität]] zu erkennen.
+>>Es wird bei [[02 - RESOURCES/Notes/SQL\|SQL]] als [[02 - RESOURCES/Notes/Primary Key\|Primary Key]] bezeichnet.

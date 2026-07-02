@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/server/","tags":["informatik/hardware/server","AI-generated"],"noteIcon":"","updated":"2025-10-29T12:59:10.076+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/server/","tags":["informatik/hardware/server","ai-generated"],"noteIcon":"","updated":"2026-07-02T01:13:38.536+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-02-09","links":null,"tags":["informatik/hardware/server","ai-generated"]}}
 ---
 
-![image-79.png](/img/user/02%20-%20RESOURCES/Files/image-79.png)
+![image-79.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-79.png)
 
 >- Ein Server ist ein Computer oder Programm, das Dienste (z. B. Dateien, Webseiten, APIs) für andere Geräte (Clients) bereitstellt.  
 >- Arbeitet oft 24/7, um Anfragen zuverlässig zu beantworten.
@@ -50,7 +50,7 @@
 
 - [[02 - RESOURCES/Notes/PORT\|Ports]] kennen (z. B. [[02 - RESOURCES/Notes/HTTP\|HTTP]] → 80, [[02 - RESOURCES/Notes/HTTPS\|HTTPS]] → 443).
 
-- Deployment-Przesse: CI/CD, [[02 - RESOURCES/Notes/Docker\|Docker]], manuelles Hochladen.
+- Deployment-Prozesse: CI/CD, [[02 - RESOURCES/Notes/Docker\|Docker]], manuelles Hochladen.
 
 - Logging und Monitoring einrichten.
 

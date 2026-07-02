@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/raid-1/","tags":["raid/mirroring","sicherheit/spiegelung","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:09.647+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/raid-1/","tags":["raid/mirroring","informatik/sicherheit/spiegelung","informatik/hardware"],"noteIcon":"","updated":"2026-07-02T15:37:49.262+02:00","dg-note-properties":{"created":"2025-08-27","links":"[[RAID]]","path":"Notes","tags":["raid/mirroring","informatik/sicherheit/spiegelung","informatik/hardware"]}}
 ---
 
 
@@ -25,4 +25,4 @@
 ![Pasted image 20230924213530.png](/img/user/02%20-%20RESOURCES/Files/IMG/Pasted%20image%2020230924213530.png)
 
 >[!note] Verwendung
->RAID 1 eignet sich für kritische Daten wo Ausfallsicherheit wichtiger ist als Speicherkapazität, z.B. Server oder wichtige Dokumente.
+>RAID 1 eignet sich für kritische Daten, wo Ausfallsicherheit wichtiger ist als Speicherkapazität, z.B. Server oder wichtige Dokumente.

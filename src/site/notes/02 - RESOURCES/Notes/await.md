@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/await/","tags":["informatik/code/CSharp","informatik/programmierung/sprachen/java","informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2025-10-29T12:59:03.137+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/await/","tags":["informatik/programmierung/sprachen/csharp","informatik/programmierung/sprachen/java","informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2026-07-02T13:17:19.899+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-05-05","links":null,"tags":["informatik/programmierung/sprachen/csharp","informatik/programmierung/sprachen/java","informatik/programmierung/sprachen/python"]}}
 ---
 
 >Warten auf ein Ergebnis von einer async-Funktion

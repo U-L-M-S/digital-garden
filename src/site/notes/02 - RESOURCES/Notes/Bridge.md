@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/bridge/","tags":["informatik/netzwerk/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/bridge/","tags":["informatik/netzwerk/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00","dg-note-properties":{"tags":["informatik/netzwerk/hardware"],"aliases":["bridge"],"links":null,"created_date":"2025-09-15"}}
 ---
 
 > [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]gerät, das zwei oder mehr [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]segmente miteinander verbindet und dabei Kollisionsdomänen voneinander trennt. Arbeitet wie ein [[02 - RESOURCES/Notes/Switch\|Switch]] auf [[02 - RESOURCES/Notes/Layer 2\|Layer 2]] mit [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]]n.

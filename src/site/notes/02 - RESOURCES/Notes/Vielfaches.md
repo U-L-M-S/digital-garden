@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/vielfaches/","tags":["mathe"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/vielfaches/","tags":["mathe"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"aliases":["Vielfaches","vielfaches"],"created":"2024-07-26 22:36","links":null,"path":"Notes","tags":["mathe"]}}
 ---
 
 >Es ist das Ergebnis der Multiplikation einer Zahl mit einer ganzen Zahl.

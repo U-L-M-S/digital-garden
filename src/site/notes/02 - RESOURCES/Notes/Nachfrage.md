@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/nachfrage/","tags":["markt/mechanismus","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:49:33.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/nachfrage/","tags":["markt/mechanismus","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T14:49:33.000+01:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["markt/mechanismus","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"aliases":["Nachfragekurve","Konsumentennachfrage"],"links":null,"created_date":"2025-11-12"}}
 ---
 
 >Menge an Gütern, die Käufer zu verschiedenen Preisen kaufen möchten.

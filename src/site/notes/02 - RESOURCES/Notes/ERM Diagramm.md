@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/erm-diagramm/","tags":["ausbildung/gfn/ap2","informatik/datenbank"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/erm-diagramm/","tags":["ausbildung/gfn/ap2","informatik/datenbank"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"created":"2024-05-15 15:42","links":null,"path":["Notes"],"tags":["ausbildung/gfn/ap2","informatik/datenbank"]}}
 ---
 
 > Entity Relationship Diagramm.
 > Zeigt wie zwei [[02 - RESOURCES/Notes/Entität\|Entität]]en sich verhalten gegenseitig verhalten.
 
-![ERM Diagramm-20240516091656850.png|466](/img/user/02%20-%20RESOURCES/Files/IMG/ERM%20Diagramm-20240516091656850.png)
+![ERM Diagramm-20240516091656850.png\|466](/img/user/02%20-%20RESOURCES/Files/IMG/ERM%20Diagramm-20240516091656850.png)
 
 Wie du es sehen kann wird hier die [[02 - RESOURCES/Notes/Kardinalität\|Kardinalität]] eingefügt und unterschiedlichen Geometrische Formaten eingefügt.
 
