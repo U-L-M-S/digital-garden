@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/relationship/","tags":["informatik/datenbank","informatik/er-modell","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:00:24.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/relationship/","tags":["informatik/datenbank","informatik/er-modell","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T15:00:24.000+01:00","dg-note-properties":{"tags":["informatik/datenbank","informatik/er-modell","GFN/prüfungsrelevant/AP2"],"aliases":["Beziehung","Relation","ER-Beziehung"],"links":null,"created_date":"2025-11-12"}}
 ---
 
 >Eine Relationship (Beziehung) beschreibt die Verbindung zwischen zwei oder mehr Entitäten im ER-Modell.

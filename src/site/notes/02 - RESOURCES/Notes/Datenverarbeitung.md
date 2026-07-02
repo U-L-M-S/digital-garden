@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/datenverarbeitung/","tags":["GFN/LF02"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/datenverarbeitung/","tags":["GFN/LF02"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00","dg-note-properties":{"created":"2024-03-11 09:47","links":null,"path":"Notes","tags":["GFN/LF02"]}}
 ---
 
 > Es bezeichnet den organisierten Umgang mit Datenmengen mit dem Ziel. Informationen zu gewinnen oder die Datenmenge zu verändern.

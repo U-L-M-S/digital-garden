@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/mit-m-angriff/","tags":["sicherheit/it-sicherheit","sicherheit/netzwerk-sicherheit","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T12:03:38.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/mit-m-angriff/","tags":["sicherheit/it-sicherheit","sicherheit/netzwerk-sicherheit","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2025-11-06T12:03:38.000+01:00","dg-note-properties":{"aliases":["MitM-Angriff","Man-in-the-Middle-Angriff","Man in the Middle","MITM","Mittelsmann-Angriff"],"created_date":"2025-11-06","links":null,"tags":["sicherheit/it-sicherheit","sicherheit/netzwerk-sicherheit","ausbildung/gfn/ap1/vorbereitung"]}}
 ---
 
 >Ein **Man-in-the-Middle-Angriff (MitM)** ist ein Angriff, bei dem sich ein Angreifer **zwischen** zwei kommunizierende Parteien schaltet, um deren Datenverkehr abzufangen, mitzulesen oder zu manipulieren.

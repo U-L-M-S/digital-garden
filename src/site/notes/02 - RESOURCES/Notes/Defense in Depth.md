@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/defense-in-depth/","tags":["informatik/sicherheit","sicherheit/konzept"],"noteIcon":"","updated":"2025-11-07T11:36:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/defense-in-depth/","tags":["informatik/sicherheit","informatik/sicherheit/konzept"],"noteIcon":"","updated":"2026-07-02T15:37:49.206+02:00","dg-note-properties":{"aliases":["Mehrschichtige Verteidigung","Multi-Layer Defense"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit","informatik/sicherheit/konzept"]}}
 ---
 
 > Mehrere Sicherheitsschichten hintereinander

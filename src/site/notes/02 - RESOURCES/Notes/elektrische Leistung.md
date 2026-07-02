@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/elektrische-leistung/","tags":["elektrotechnik"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/elektrische-leistung/","tags":["elektrotechnik"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"created":"2024-05-28 11:38","links":null,"path":["Notes"],"tags":["elektrotechnik"]}}
 ---
 
 > Es ist die Rate, mit der elektrische Energie in einem [[02 - RESOURCES/Notes/Stromkreis\|Stromkreis]] verbraucht/umgewandelt wird.

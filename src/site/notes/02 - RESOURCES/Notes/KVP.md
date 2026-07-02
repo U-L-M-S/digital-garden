@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/kvp/","tags":["qualitaetsmanagement/kontinuierlich","prozessverbesserung/methoden","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T10:10:13.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/kvp/","tags":["qualitaetsmanagement/kontinuierlich","prozessverbesserung/methoden","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-12T10:10:13.000+01:00","dg-note-properties":{"tags":["qualitaetsmanagement/kontinuierlich","prozessverbesserung/methoden","GFN/prüfungsrelevant/AP2"],"aliases":["Kontinuierlicher Verbesserungsprozess","Continuous Improvement","Kaizen","kvp"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 
@@ -172,5 +172,5 @@ KVP-Kreislauf:
 >- Nie aufhören zu verbessern
 >- Viele kleine Schritte statt große Sprünge
 >- Alle machen mit
->- Basiert auf [[PDCA Zyklus]]
+>- Basiert auf [[02 - RESOURCES/Notes/PDCA Zyklus\|PDCA Zyklus]]
 >- Führt zu nachhaltiger Qualität

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ola/","tags":["itsm/verträge","GFN/LF06","itil"],"noteIcon":"","updated":"2025-11-05T13:17:56.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ola/","tags":["itsm/verträge","GFN/LF06","itil"],"noteIcon":"","updated":"2025-11-05T13:17:56.000+01:00","dg-note-properties":{"tags":["itsm/verträge","GFN/LF06","itil"],"aliases":["Operational Level Agreement","OLA","Betriebsvereinbarung"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

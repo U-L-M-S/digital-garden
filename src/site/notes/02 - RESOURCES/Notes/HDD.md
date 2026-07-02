@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hdd/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/hardware","speicher"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hdd/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/hardware","speicher"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"aliases":["Hard Disk Drive"],"created_date":"2025-02-11","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/hardware","speicher"]}}
 ---
 
 > Speichermedium, das Daten **magnetisch** auf rotierende Scheiben speichert. Gehört zu den **magnetischen Speichern** und hat bewegliche Teile (Motor + Lesekopf).
 > 
 > > Ist bekannt für hohe Speicherkapazität, aber langsamer und anfälliger als eine [[02 - RESOURCES/Notes/SSD\|SSD]].
 
-![614y6FroB-L.jpg](/img/user/02%20-%20RESOURCES/Files/614y6FroB-L.jpg)
+![614y6FroB-L.jpg](/img/user/02%20-%20RESOURCES/Files/IMG/614y6FroB-L.jpg)
 > [!note]  
 > Die **Zugriffszeit** ist langsamer als bei einer [[02 - RESOURCES/Notes/SSD\|SSD]], da der Lesekopf mechanisch bewegt werden muss.
 

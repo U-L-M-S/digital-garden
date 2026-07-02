@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/e2-e-test/","tags":["testing/end-to-end","qualitaetssicherung/workflow","AP2025/neu"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/e2-e-test/","tags":["testing/end-to-end","qualitaetssicherung/workflow","AP2025/neu"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"tags":["testing/end-to-end","qualitaetssicherung/workflow","AP2025/neu"],"aliases":["End-to-End-Test","E2E-Testing","Vollständiger Workflow-Test"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

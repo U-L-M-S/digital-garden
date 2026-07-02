@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/power-shell/","tags":["scripting/windows","automation/microsoft"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/power-shell/","tags":["scripting/windows","automation/microsoft"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"tags":["scripting/windows","automation/microsoft"],"aliases":["PowerShell-Skript","PS1","Windows PowerShell"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

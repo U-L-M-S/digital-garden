@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["ausbildung/gfn/ap1","informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/i-pv6/","tags":["ausbildung/gfn/ap1","informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2026-05-12T15:54:43.718+02:00","dg-note-properties":{"created":"2023-09-13 11:07","links":"https://www.youtube.com/watch?v=NfrGNngigFU","path":"Notes","tags":["ausbildung/gfn/ap1","informatik/netzwerk/ip/ipv6"]}}
 ---
 
 >128-[[02 - RESOURCES/Notes/Bit\|bit]]-[[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]]en, die in [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt werden und 
 >mit "**:**" getrennt sind( 8 Gruppen) und es wird als [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt.
 >
->Jeder **Block** ist 16 [[02 - RESOURCES/Notes/Bit\|Bit]]-Lang und bei [[02 - RESOURCES/Notes/IPv6\|IPv6]] gibt's kein [[Netzwerkmaske\|Netzwerkmaske]] oder [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] sowie bei [[02 - RESOURCES/Notes/IPv4\|IPv4]], sonder ein [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] (**/64**) und dieser hat das selbe Aufgabe wie der [[Netzwerkmaske\|Netzwerkmaske]] bei [[02 - RESOURCES/Notes/IPv4\|IPv4]].
+>Jeder **Block** ist 16 [[02 - RESOURCES/Notes/Bit\|Bit]]-Lang und bei [[02 - RESOURCES/Notes/IPv6\|IPv6]] gibt's keine [[Netzwerkmaske\|Netzwerkmaske]] oder [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] wie bei [[02 - RESOURCES/Notes/IPv4\|IPv4]], sondern ein [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] (**/64**) und dieses hat die selbe Aufgabe wie die [[Netzwerkmaske\|Netzwerkmaske]] bei [[02 - RESOURCES/Notes/IPv4\|IPv4]].
 >
 >$$2^{128}$$
 >>Es ist der Nachfolger von [[02 - RESOURCES/Notes/IPv4\|IPv4]].
@@ -19,14 +19,14 @@
 | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: | :--------------------: |
 | 0010\|0000\|0000\|0001 | 0000\|1101\|1110\|1000 | 1000\|0101\|1010\|0011 | 0000\|0000\|0000\|0000 | 0000\|0000\|0000\|0000 | 1000\|1010\|0010\|1110 | 0000\|0011\|0111\|0000 | 0111\|0011\|0011\|0100 |
 
->Ich habe jeder 4. Bit getrennt (|) damit man es besser erkennen kann.
->Es ist einfacherer [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] zu [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]] umzuwandeln als zu [[02 - RESOURCES/Notes/Dezimal\|Dezimal]].
+>Ich habe jeden 4. Bit getrennt (|), damit man es besser erkennen kann.
+>Es ist einfacher, [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] zu [[02 - RESOURCES/Notes/Binärzahl\|Binärzahl]] umzuwandeln als zu [[02 - RESOURCES/Notes/Dezimal\|Dezimal]].
 
 >[!important]  
 Da [[02 - RESOURCES/Notes/IPv6\|IPv6]] lang ist, wurden bestimmte Regeln eingesetzt, um ihn lesbar zu machen. Bei diesen Regeln wird nur die [[02 - RESOURCES/Notes/IPv6-Verkürzung\|IPv6-Verkürzung]] verwendet.
 
 >[!note] 
->Es immer wichtig auf die ersten [[02 - RESOURCES/Notes/Bit\|Bit]]s von [[02 - RESOURCES/Notes/IPv6\|IPv6]] zu achten. Da man es erkennen kann welche Art von Adresse es sich handelt.
+>Es ist immer wichtig, auf die ersten [[02 - RESOURCES/Notes/Bit\|Bit]]s von [[02 - RESOURCES/Notes/IPv6\|IPv6]] zu achten. Da man dadurch erkennen kann, um welche Art von Adresse es sich handelt.
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/02-resources/notes/i-pv6-adressen/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -34,7 +34,7 @@ Da [[02 - RESOURCES/Notes/IPv6\|IPv6]] lang ist, wurden bestimmte Regeln eingese
 
 
 > [[02 - RESOURCES/Notes/IPv6\|IPv6]] verwendet keine Klassen wie bei [[02 - RESOURCES/Notes/IPv4\|IPv4]] ([[02 - RESOURCES/Notes/IPv4-Klassennetze\|IPv4-Klassennetze]]).
-> Sonder, es verwendet 3 Arten von Adressen und jeder Adresse ist für irgendwas bestimmt.
+> Sondern es verwendet 3 Arten von Adressen und jede Adresse ist für irgendwas bestimmt.
 
 
 >[!note]Adressenarten  
@@ -111,14 +111,14 @@ indem man die ersten Bits der Adresse betrachtet.
 
 
 
->[[02 - RESOURCES/Notes/Subnetting IPv6\|Subnetting IPv6]]  funktioniert genaue wie bei [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]. Es hat aber ein paar Merkmalen was wir besonders achten müssen.
->>- [[02 - RESOURCES/Notes/IPv6\|IPv6]] hat kein [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] oder [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]]
->>- Es hat kein [[Netzwerkmaske\|Netzwerkmaske]], sonder ein [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]], dieser ist /64.
->>- Bei [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]] wird ein Teil von den [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]] genommen für die [[02 - RESOURCES/Notes/Subnetting\|Subnetting]], während bei [[02 - RESOURCES/Notes/IPv6\|IPv6]] passiert das alles in die in [[02 - RESOURCES/Notes/Netzwerkpräfix\|Netzwerkpräfix]]. 
->>- [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] und [[02 - RESOURCES/Notes/Bit\|Bit]]s-Umsetzung passiert in die [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] Bereich.
->>- [[02 - RESOURCES/Notes/IPv6\|IPv6]] ist nicht 32 [[02 - RESOURCES/Notes/Bit\|Bit]]slang, sonder 128. 
->>  Daher es ist nur [[02 - RESOURCES/Notes/Bit\|Bit]]s-Zahlen, die in [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt sind.
->$2^{128}$
+>[[02 - RESOURCES/Notes/Subnetting IPv6\|Subnetting IPv6]] funktioniert genauso wie [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]]. Es hat aber ein paar Merkmale, auf die wir besonders achten müssen.
+>>- [[02 - RESOURCES/Notes/IPv6\|IPv6]] hat keine [[02 - RESOURCES/Notes/Netz-ID\|Netz-ID]] oder [[02 - RESOURCES/Notes/Broadcast-ID\|Broadcast-ID]]
+>>- Es hat keine [[Netzwerkmaske\|Netzwerkmaske]], sondern ein [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]], dieser ist /64.
+>>- Bei [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]] wird ein Teil vom [[02 - RESOURCES/Notes/Hostanteil\|Hostanteil]] für das [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] genommen, während bei [[02 - RESOURCES/Notes/IPv6\|IPv6]] das alles im [[02 - RESOURCES/Notes/Netzwerkpräfix\|Netzwerkpräfix]] passiert. 
+>>- [[02 - RESOURCES/Notes/Subnetting\|Subnetting]] und [[02 - RESOURCES/Notes/Bit\|Bit]]s-Umsetzung passieren im [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]]-Bereich.
+>>- [[02 - RESOURCES/Notes/IPv6\|IPv6]] ist nicht 32 [[02 - RESOURCES/Notes/Bit\|Bit]]s lang, sondern 128. 
+>>  Daher ist es nur eine Folge von [[02 - RESOURCES/Notes/Bit\|Bit]]s, die in [[02 - RESOURCES/Notes/Hexadezimal\|Hexadezimal]] dargestellt sind.
+>$$2^{128}$$
 
 
 
@@ -126,7 +126,7 @@ indem man die ersten Bits der Adresse betrachtet.
 >FD00::/50 in 4 Subnetze  
 >Lass uns erstmal prüfen mit welchen [[02 - RESOURCES/Notes/Bit\|Bit]]s wir arbeiten müssen.
 >Jeder Block entspricht 16 [[02 - RESOURCES/Notes/Bit\|Bit]]s.
->$50-48(\text{3 Blöcke})=2$
+>$$50-48(\text{3 Blöcke})=2$$
 >3 Blöcke + 2 [[02 - RESOURCES/Notes/Bit\|Bit]]s. Das heißt:
 >
 >
@@ -145,7 +145,7 @@ indem man die ersten Bits der Adresse betrachtet.
 >Und jetzt müssen wir das [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] erweitern mit 2 [[02 - RESOURCES/Notes/Bit\|Bit]]s (4 Subnetze ).
 >>**Ja. Ganz genau! So wie bei [[02 - RESOURCES/Notes/Subnetting IPv4\|Subnetting IPv4]] ([[02 - RESOURCES/Notes/Bit\|Bit]]serweiterung), werden wir diese 2 [[02 - RESOURCES/Notes/Bit\|Bit]]s hier verwenden für die [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]verteilung.** 
 >
->$2^{2}=4$
+>$$2^{2}=4$$
 >
 >Das heißt:
 >
@@ -200,7 +200,7 @@ indem man die ersten Bits der Adresse betrachtet.
 >[!example] Beispiel 2
 >FE80:0:3a:: /56 in 8 [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e
 >Gleiche Schema wie vorher, lass uns  nachschauen mit welche [[02 - RESOURCES/Notes/Bit\|Bit]]/Block wir zutun haben.
->$56-48(\text{3 Blöcke})=8$
+>$$56-48(\text{3 Blöcke})=8$$
 >3 Blocks und 8 Bits
 >
 >|  <mark style="background: #BBFABBA6;">FD00</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003a</mark> | <mark style="background: #BBFABBA6;">00</mark>00 |
@@ -208,7 +208,7 @@ indem man die ersten Bits der Adresse betrachtet.
 >| 16     |  16   |  16    |  4+4   |
 >
 >und jetzt das [[02 - RESOURCES/Notes/IPv6 Präfix\|IPv6 Präfix]] um 3 [[02 - RESOURCES/Notes/Bit\|Bit]]s erweitern (8 [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]e).
->$2^{3}=8$
+>$$2^{3}=8$$
 >
 >FE80:0:3A:: /59
 >
@@ -246,7 +246,7 @@ indem man die ersten Bits der Adresse betrachtet.
 >[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]: FE80:0:3A:: /59 
 >In 8 Subnetze einteilen
 >
->$59=16-16-16=11$
+>$$59=16-16-16=11$$
 >3 Blöcke und 11 Bits
 >
 >>|  <mark style="background: #BBFABBA6;">FE80</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003A</mark> | <mark style="background: #BBFABBA6;">00</mark>00 |
@@ -261,9 +261,9 @@ indem man die ersten Bits der Adresse betrachtet.
 >| 16   | 32   | 48   | 52      56       59 |
 >
 >8 [[02 - RESOURCES/Notes/Subnetz\|Subnetz]]
->$2^{3}=8$
+>$$2^{3}=8$$
 >
->$59+3=62$
+>$$59+3=62$$
 >
 >| <mark style="background: #BBFABBA6;">FE80</mark> | <mark style="background: #BBFABBA6;">0000</mark> | <mark style="background: #BBFABBA6;">003a</mark> |   <mark style="background: #BBFABBA6;">0        0 </mark>       <mark style="background: #D2B3FFA6;">0        0</mark>  |
 >| ---- | ---- | ---- | ----- |
