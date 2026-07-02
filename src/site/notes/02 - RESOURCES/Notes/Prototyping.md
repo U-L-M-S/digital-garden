@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/prototyping/","tags":["entwicklung/methoden","design/iteration"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/prototyping/","tags":["entwicklung/methoden","design/iteration"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"tags":["entwicklung/methoden","design/iteration"],"aliases":["Prototyp-Entwicklung","Rapid Prototyping"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

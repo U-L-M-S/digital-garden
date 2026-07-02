@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/greylisting/","tags":["informatik/sicherheit/email","spam"],"noteIcon":"","updated":"2025-11-07T11:40:20.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/greylisting/","tags":["informatik/sicherheit/email","spam"],"noteIcon":"","updated":"2025-11-07T11:40:20.000+01:00","dg-note-properties":{"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit/email","spam"]}}
 ---
 
 > Temporäres Ablehnen von E-Mails

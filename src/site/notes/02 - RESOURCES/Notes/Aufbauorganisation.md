@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/aufbauorganisation/","tags":["ausbildung/gfn/ap1/vorbereitung","organisation","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/aufbauorganisation/","tags":["ausbildung/gfn/ap1/vorbereitung","organisation","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-17","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","organisation","wirtschaft/bwl"]}}
 ---
 
 >Hierarches Strukturierung des [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]]s, dieser wird in [[02 - RESOURCES/Notes/Organigramm\|Organigramm]]en dargestellt.

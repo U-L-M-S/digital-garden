@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/ssd/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/hardware","speicher"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/ssd/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/hardware","speicher"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"aliases":["Solid State Drive"],"created_date":"2025-02-11","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/hardware","speicher"]}}
 ---
 
 
@@ -7,7 +7,7 @@
 > 
 > > Bekannt für hohe Geschwindigkeit, geringe Zugriffszeit und bessere Stoßfestigkeit als eine [[02 - RESOURCES/Notes/HDD\|HDD]].
 
-![image-87.png](/img/user/02%20-%20RESOURCES/Files/image-87.png)
+![image-87.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-87.png)
 > [!note]  
 > Die **Zugriffszeit** ist viel schneller als bei einer [[02 - RESOURCES/Notes/HDD\|HDD]], da keine mechanischen Teile bewegt werden müssen.
 

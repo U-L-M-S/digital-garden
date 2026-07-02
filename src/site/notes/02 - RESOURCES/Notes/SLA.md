@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/sla/","tags":["service-management/vereinbarungen","qualitaetsmanagement/standards"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/sla/","tags":["service-management/vereinbarungen","qualitaetsmanagement/standards"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"tags":["service-management/vereinbarungen","qualitaetsmanagement/standards"],"aliases":["Service Level Agreement","Dienstgütevereinbarung","Service-Vereinbarung"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

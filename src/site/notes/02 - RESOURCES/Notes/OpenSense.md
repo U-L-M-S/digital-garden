@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/open-sense/","tags":["informatik/netzwerk/firewall","informatik/sicherheit","opensource"],"noteIcon":"","updated":"2025-11-07T11:31:36.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/open-sense/","tags":["informatik/netzwerk/firewall","informatik/sicherheit","opensource"],"noteIcon":"","updated":"2025-11-07T11:31:36.000+01:00","dg-note-properties":{"aliases":["OPNsense"],"created":"2025-01-07","path":"Notes","tags":["informatik/netzwerk/firewall","informatik/sicherheit","opensource"]}}
 ---
 
 > Open-Source [[02 - RESOURCES/Notes/Firewall\|Firewall]] basierend auf FreeBSD

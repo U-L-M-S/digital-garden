@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/spam-assassin/","tags":["informatik/sicherheit/email","spam","opensource"],"noteIcon":"","updated":"2025-11-07T11:40:23.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/spam-assassin/","tags":["informatik/sicherheit/email","spam","opensource"],"noteIcon":"","updated":"2025-11-07T11:40:23.000+01:00","dg-note-properties":{"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit/email","spam","opensource"]}}
 ---
 
 > Content-basierter Spam-Filter

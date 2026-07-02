@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/dezimal-binaer/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/dezimal-binaer/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"aliases":[],"created_date":"2025-03-23","links":null,"tags":["mathe/binärzahlen"]}}
 ---
 
 # 
@@ -24,7 +24,7 @@
 | **0** |     |          |      |
 
 Jetzt müssen wir den Rest **rückwärts** zählen.
-D.h: **96** in Dezimal ist **1100000**
+D.h: **96** in Binär ist **1100000**
 
 </div></div>
 
@@ -44,7 +44,7 @@ Die Zahl **11001101** in Tabelle einsetzen
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | --- | --- | --- | --- |
 |     |     |     |  1  |  1  |  0  |  0  | 1   | 1   | 0   | 1   |
 
-überall wo ein **1** steht summieren. D.h 
+überall, wo eine **1** steht, summieren. D.h 
 2⁰+2²+2³+2⁶+2⁷
 1 + 4 + 8 + 64 + 128 = 205
 

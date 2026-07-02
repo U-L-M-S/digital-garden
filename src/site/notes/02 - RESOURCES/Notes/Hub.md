@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/hub/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/hardware","informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/hub/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/hardware","informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-16","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/hardware","informatik/netzwerk"]}}
 ---
 
 >Ein **Hub** ist ein einfaches [[02 - RESOURCES/Notes/Netzwerk\|Netzwerk]]gerät, das alle empfangenen [[02 - RESOURCES/Notes/Datenpakete\|Datenpakete]] **an alle Ports gleichzeitig** weiterleitet, unabhängig davon, wer der Empfänger ist.
 > >Es arbeitet ebenfalls auf der [[02 - RESOURCES/Notes/Layer 1\|Layer 1]] (Bitübertragungsschicht) des OSI-Modells und kennt keine [[02 - RESOURCES/Notes/MAC Adresse\|MAC Adresse]]n.
 
-![image-7.png](/img/user/02%20-%20RESOURCES/Files/image-7.png)
+![image-7.png](/img/user/02%20-%20RESOURCES/Files/IMG/image-7.png)
 ---
 
 # Unterschied Hub vs. [[02 - RESOURCES/Notes/Switch\|Switch]]

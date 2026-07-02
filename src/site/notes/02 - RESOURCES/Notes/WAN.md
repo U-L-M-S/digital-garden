@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-resources/notes/wan/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00"}
+{"dg-publish":true,"permalink":"/02-resources/notes/wan/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"created":"2024-05-08 15:37","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 > Wide Area Network
