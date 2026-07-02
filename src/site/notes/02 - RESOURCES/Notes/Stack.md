@@ -384,7 +384,7 @@ void unendlicheRekursion() {
 - [[Linked List\|Linked List]] - Kann als [[02 - RESOURCES/Notes/Stack\|Stack]] verwendet werden
 - [[Array\|Array]] - Basis für Array-[[02 - RESOURCES/Notes/Stack\|Stack]]
 - [[Rekursion\|Rekursion]] - Nutzt implizit Call Stack
-- [[Datenstrukturen\|Datenstrukturen]] - Übergeordnetes Konzept
+- [[02 - RESOURCES/Notes/Datenstrukturen\|Datenstrukturen]] - Übergeordnetes Konzept
 - [[02 - RESOURCES/Notes/Algorithmus\|Algorithmen]] - Nutzen oft [[02 - RESOURCES/Notes/Stack\|Stack]]s
 
 ## Zusammenfassung

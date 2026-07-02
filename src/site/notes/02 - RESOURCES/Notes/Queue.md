@@ -435,7 +435,7 @@ String item = queue.take();  // Blockiert wenn leer
 - [[02 - RESOURCES/Notes/Stack\|Stack]] - LIFO-Datenstruktur
 - [[Linked List\|Linked List]] - Kann als [[02 - RESOURCES/Notes/Queue\|Queue]] verwendet werden
 - [[Array\|Array]] - Basis für Array-[[02 - RESOURCES/Notes/Queue\|Queue]]
-- [[Datenstrukturen\|Datenstrukturen]] - Übergeordnetes Konzept
+- [[02 - RESOURCES/Notes/Datenstrukturen\|Datenstrukturen]] - Übergeordnetes Konzept
 - [[02 - RESOURCES/Notes/Algorithmus\|Algorithmen]] - BFS nutzt [[02 - RESOURCES/Notes/Queue\|Queue]]s
 - [[Threads\|Threads]] - BlockingQueue für Multithreading
 
