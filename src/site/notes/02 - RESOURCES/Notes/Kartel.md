@@ -1,8 +1,0 @@
----
-{"dg-publish":true,"permalink":"/02-resources/notes/kartel/","tags":[null],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"tags":[null],"links":null,"path":"Notes","created":"2024-02-07 22:01"}}
----
-
->Absprache zwischen [[02 - RESOURCES/Notes/Unternehmen\|Unternehmen]] (Preis, Absatzmarkt).
->Ist 99% von alle Fälle Verbot.
-
-Vertraglicher Zusammenschluss rechtlich selbständiger selbständiger  Unternehmen, um Wettbewerbsvorteile zu erlangen. Preis- oder Gebietskartelle u. Ä. sind verboten, Entwieklungs- oder Normenkartelle können vom Kartellamt genehmigt werden.
