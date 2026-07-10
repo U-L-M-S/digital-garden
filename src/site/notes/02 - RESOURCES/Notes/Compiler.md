@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/02-resources/notes/compiler/","tags":["informatik/programmierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.705+02:00","dg-note-properties":{"aliases":["Compiler","compiler"],"created_date":"2024-10-22","links":null,"tags":["informatik/programmierung"]}}
----
-
->Es übersetzt den gesamten Quellcode in einer Programmiersprache in Maschinencode (z. B. eine .exe-Datei), bevor das Programm ausgeführt wird. 
->Das bedeutet, dass das Programm nach der Kompilierung eigenständig läuft, ohne dass der Quellcode mehr benötigt wird. 
->>Beispiel: [[02 - RESOURCES/Notes/C Sprache\|C Sprache]] und [[02 - RESOURCES/Notes/C++\|C++]] verwenden Compiler.
-
->[!note] Sehr ähnlich wie ein [[02 - RESOURCES/Notes/Interpreter\|Interpreter]].
