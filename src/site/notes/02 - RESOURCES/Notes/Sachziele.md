@@ -1,6 +1,0 @@
----
-{"dg-publish":true,"permalink":"/02-resources/notes/sachziele/","tags":["unternehmensziele/arten","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["unternehmensziele/arten","wirtschaft/bwl"]}}
----
-
->Konkrete, messbare Aufgaben wie Produktionsziele oder Qualitätsstandards.
->>Operativ und greifbar - Gegensatz zu abstrakten [[02 - RESOURCES/Notes/Formalziele\|Formalziele]]n.
