@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/wiki/cidr/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00","dg-note-properties":{"aliases":["Classless Inter-Domain Routing"],"created":"2024-07-25 14:02","links":null,"tags":["informatik/netzwerk/ip/ipv4"]}}
+---
+
+> Classless Inter-Domain Routing
+>>Es ist eine Methode zur flexiblen Adressierung und Verwaltung von [[wiki/IP\|IP]]-Adressen, die es ermöglicht, Netzwerke ohne die starren Klassen A, B und C zu definieren.
+
+Statt [[Netzwerkmaske\|Netzwerkmaske]] zu verwenden `255.255.0.0` benutzt man die [[wiki/CIDR\|CIDR]] schreibweise:
+
+## Bsp:
+[[wiki/IPv4\|IPv4]]: 192.168.1.0 und [[Netzwerkmaske\|Netzwerkmaske]]: `255.255.255.0` -> 192.168.1.0/24`

@@ -1,0 +1,25 @@
+---
+{"dg-publish":true,"permalink":"/wiki/on-premises/","tags":["infrastruktur/deployment","cloud/vergleich"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"tags":["infrastruktur/deployment","cloud/vergleich"],"aliases":["On-Prem","Lokale Installation","Eigeninfrastruktur"],"links":null,"created_date":"2025-09-16"}}
+---
+
+
+>[[wiki/On-Premises\|On-Premises]] bezeichnet Software und Hardware, die in den eigenen Räumlichkeiten betrieben wird.
+
+>>Im Gegensatz zur [[wiki/Cloud\|Cloud]] behält das Unternehmen vollständige Kontrolle über Infrastructure und Daten.
+
+>[!important] 
+>**On-Prem vs Cloud:**
+>- **Kontrolle**: Vollständig vs. Service-Provider
+>- **Kosten**: CapEx vs. OpEx (Investition vs. laufend)
+>- **Skalierung**: Hardware-begrenzt vs. flexibel
+>- **Wartung**: Eigene IT vs. Provider
+
+>[!example] 
+>**On-Premises-Szenarien:**
+>- Hochsensible Daten (Banking, Healthcare)
+>- Compliance-Anforderungen (DSGVO, HIPAA)
+>- Bestehende Legacy-Systeme
+>- Hohe Datenschutz-Anforderungen
+
+>[!success] 
+>**Hybrid-Ansatz:** Kombination aus On-Premises und Cloud für optimale Flexibilität.

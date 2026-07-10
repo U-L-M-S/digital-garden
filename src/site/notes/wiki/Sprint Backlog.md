@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/wiki/sprint-backlog/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"aliases":["sprint Backlog"],"created_date":"2024-11-22","links":null,"tags":["projektmanagement/vorgehensmodell/agile"]}}
+---
+
+>Es ist eine Liste aller Aufgaben, die das Entwicklungsteam während eines Sprints erledigen möchte.
+
+- Es wird aus dem [[wiki/Product Backlog\|Product Backlog]] abgeleitet und enthält die wichtigsten, für den [[wiki/Sprint\|Sprint]] priorisierten Elemente.
+- Es dient als **Arbeitsplan** des Teams und wird während des Sprints regelmäßig aktualisiert, um den Fortschritt zu dokumentieren.
+- Ziel: Sicherstellen, dass das Team klar weiß, woran es arbeitet, um das [[wiki/Sprint\|Sprint]]-Ziel zu erreichen.

@@ -1,0 +1,28 @@
+---
+{"dg-publish":true,"permalink":"/wiki/statisches-routing/","tags":["informatik/netzwerk/paket"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"aliases":["statisches Routing"],"created":"2024-07-23 10:19","links":null,"path":["Notes"],"tags":["informatik/netzwerk/paket"]}}
+---
+
+>Die Konfiguration von  die Routing-Tabellen werden manuell von einem Administrator konfiguriert.
+
+>Jeder Router kennt nur seiner Nachbar(Routing-Tabelle).
+>Bei Versendung von Paketen wird nur die Routers-[[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]s berücksichtig.
+
+>[!note] 
+>Wenn ein [[wiki/Router\|Router]] ausfällt oder den Weg nicht mehr stimmt wegen irgendwelche Grund, funktioniert nicht mehr.
+![Statisches Routing-20240723120123303.png](/img/user/assets/IMG/Statisches%20Routing-20240723120123303.png)
+![Statisches Routing-20240723120400462.png](/img/user/assets/IMG/Statisches%20Routing-20240723120400462.png)
+
+>[!multi-column]
+> 
+>>[!check] Vorteile
+>>- Administrator hat komplette Kontrolle
+>>- In kleinen Netzwerken einfach zu erstellen und zu verwalten
+>>- Kein Overhead von Routing-Protokollen
+>>- Sehr einfach einzurichten in Unternetzen
+>>- Es ist sicher: Man bekommt, was man einstellt, kein Automatismus sorgt für Probleme
+> 
+>>[!fail] Nachteile
+>>- In großen Netzwerken schwer zu verwalten und unübersichtlich
+>>- Keine automatische Loop-Verhinderung
+>>- Ändert sich etwas im Netzwerk, müssen alle betroffenen Routen von Hand geändert werden
+>>- Kein automatisches Neurouten bei Ausfall

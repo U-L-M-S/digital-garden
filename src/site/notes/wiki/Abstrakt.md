@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/wiki/abstrakt/","noteIcon":"","updated":"2025-10-29T12:59:01.000+01:00","dg-note-properties":{"tags":null,"aliases":["abstrahieren"],"links":null,"created_date":"2024-11-13"}}
+---
+
+>_Abstrakt_ bedeutet, dass etwas **nicht greifbar** oder **konkret** ist. 
+>Es konzentriert sich auf **grundlegende Konzepte**, um Komplexität zu reduzieren und Zusammenhänge zu erkennen.
+>>In der Programmierung hilft _Abstraktion_, **allgemeine Strukturen** ohne Details zu definieren. Eine **[[wiki/Java abstrakte Klasse\|Java abstrakte Klasse]]** in [[wiki/Java\|Java]] ist z. B. eine Vorlage, die grundlegende Eigenschaften und [[wiki/Programmierung Methode\|Programmierung Methode]]n festlegt, Details aber erst in den Unterklassen spezifiziert.

@@ -1,0 +1,26 @@
+---
+{"dg-publish":true,"permalink":"/wiki/port/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":["PORTs"],"created_date":"2024-11-01","links":null,"tags":["informatik/netzwerk/ip/ipv4"]}}
+---
+
+>Ports im [[wiki/Netzwerk\|Netzwerk]] sind virtuelle Schnittstellen, die es ermöglichen, verschiedene Arten von Datenverkehr über ein Netzwerkprotokoll, wie [[wiki/TCP\|TCP]] oder [[wiki/UDP\|UDP]], zu unterscheiden. 
+>>Jeder Port hat eine eindeutige Nummer, die zwischen **0 und 65535 (2^32)** liegt. 
+
+# Hauptpunkte zu Ports:
+
+1. **Kommunikationskanäle**: Ports fungieren als Kommunikationskanäle für verschiedene Anwendungen, die auf demselben Computer oder Server laufen. Zum Beispiel kann ein Webserver ([[wiki/HTTP\|HTTP]]) auf Port 80 laufen, während ein [[wiki/FTP\|FTP]]-Server auf Port 21 läuft.
+
+2. **Unterscheidung von Diensten**: Durch die Verwendung verschiedener Ports kann ein Computer mehrere Netzwerkdienste gleichzeitig betreiben, ohne dass es zu Konflikten kommt. 
+
+3. **Standardports**: Es gibt viele standardisierte Ports, die allgemein anerkannt sind, wie:
+   - **80**: [[wiki/HTTP\|HTTP]] (Webseiten)
+   - **443**: [[wiki/HTTPS\|HTTPS]] (sichere Webseiten)
+   - **22**: [[wiki/ssh\|SSH]] (sichere Fernsteuerung)
+   - **25**: [[wiki/SMTP\|SMTP]] (E-Mail-Versand)
+
+4. **Firewalls und Sicherheit**: Ports spielen eine wichtige Rolle in der Netzwerksicherheit. Firewalls verwenden Portfilterung, um den Datenverkehr basierend auf bestimmten Ports zu erlauben oder zu blockieren.
+
+# Bsp
+Wenn du im Webbrowser eine URL eingibst, sendet dein Computer eine Anfrage an den Server auf Port 80 oder 443. Der Server empfängt die Anfrage über diesen Port und sendet die angeforderten Daten zurück.
+
+>[!note] Insgesamt ermöglichen Ports eine organisierte und effiziente Kommunikation zwischen verschiedenen Anwendungen über Netzwerke.
+

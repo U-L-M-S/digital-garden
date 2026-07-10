@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/wiki/data-link-layer/","tags":["informatik/netzwerk/osi/layer2","rahmen/fehlerkontrolle","informatik/netzwerk/osi"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk/osi/layer2","rahmen/fehlerkontrolle","informatik/netzwerk/osi"]}}
+---
+
+
+**Data Link Layer (Schicht 2)** - Rahmenbildung und lokale Adressierung im [[wiki/OSI-Schichtenmodell\|OSI-Schichtenmodell]].
+[[wiki/Switch\|Switch]]es und [[MAC-Adresse\|MAC-Adresse]]n arbeiten hier - sorgt für fehlerfreie Übertragung im [[wiki/LAN\|LAN]].

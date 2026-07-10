@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/wiki/service-design/","tags":["GFN/LF06"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"aliases":["Service-Design","service-Design"],"created_date":"2024-10-20","links":null,"tags":["GFN/LF06"]}}
+---
+
+>Hier werden die Anforderungen an die Services festgelegt und die Architektur sowie die notwendigen Prozesse, Technologien und Ressourcen entworfen.
+>>Zweite Phase der [[wiki/IT-Sercice Lifecycle\|IT-Sercice Lifecycle]].

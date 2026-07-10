@@ -1,0 +1,146 @@
+---
+{"dg-publish":true,"permalink":"/wiki/php/","tags":["informatik/programmierung/sprachen/php"],"noteIcon":"","updated":"2026-07-02T18:16:25.000+02:00","dg-note-properties":{"created_date":"2024-09-05","links":null,"tags":["informatik/programmierung/sprachen/php"]}}
+---
+
+>PHP ist eine Computer Sprache, bei den man in die Backend sowie in die Frontend verwenden werden können.
+>>Es verwendet Semikolon `;`.
+
+# [[wiki/PHP in Windows installieren\|PHP in Windows installieren]]
+
+```PHP
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>PHP Test</title>
+
+    </head>
+
+    <body>
+
+            <?php
+
+                echo 'Hello Worssld';
+
+            ?>
+
+    </body>
+
+</html>
+```
+
+
+>Damit man mit [[wiki/PHP\|PHP]] in den Frontend arbeiten kann braucht man mit den `<body>` zu arbeiten und da die [[wiki/PHP\|PHP]]-Syntax arbeiten **ODER** man arbeitet in ein extra [[wiki/PHP\|PHP]]-Datei mit Funktionen und importiert diese in den index.html Datei.
+
+```php
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>PHP Test</title>
+
+    </head>
+
+    <body>
+
+        <?php
+
+            echo 'Hello world';
+
+        ?>
+  
+
+    </body>
+
+</html>
+```
+![PHP für Frontend-20240905115538632.png](/img/user/assets/IMG/PHP%20f%C3%BCr%20Frontend-20240905115538632.png)
+
+Man kann auch HTML-Syntax verwenden um den Format umzupassen.
+```php
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>PHP Test</title>
+
+    </head>
+
+    <body>
+  
+
+        <?php
+
+            echo '<h1>Hello world</h1>';
+
+        ?>
+
+
+    </body>
+
+</html>
+```
+
+![PHP für Frontend-20240905122722946.png](/img/user/assets/IMG/PHP%20f%C3%BCr%20Frontend-20240905122722946.png)
+
+___
+>Wie bereits gesagt wurde. Man kann [[wiki/PHP\|PHP]]-Werten importieren, oder besser gesagt Funktionen.
+
+functions.php:
+```php
+<?php
+
+function getYear() {
+
+    return date('Y');
+}
+  
+function calculateDaysUntilBirthday($birthday) {
+
+    $currentDate = new DateTime();
+
+    $nextBirthday = new DateTime($birthday);
+
+    if ($nextBirthday < $currentDate) {
+
+        $nextBirthday->modify('+1 year');
+
+    }
+
+  
+
+    $interval = $currentDate->diff($nextBirthday);
+
+    return $interval->days;
+}
+
+?>
+```
+
+index.php:
+```php
+        <?php
+        <h1>Year</h1>
+            include 'functions.php';
+
+            echo "The year is: ". getYear();
+        ?>
+
+        <h1>Calc Birthday</h1>
+
+        <?php
+        
+            $birthday = '2024-12-25';
+
+            echo "<p>There are " . calculateDaysUntilBirthday($birthday) . " days left until your next birthday!</p>";
+
+        ?>
+```
+
+# [[archive/junk-candidates/PHP Loop\|PHP Loop]]

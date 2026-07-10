@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/wiki/arge/","tags":[null],"noteIcon":"","updated":"2026-05-13T08:52:28.000+02:00","dg-note-properties":{"tags":[null],"links":null,"path":"Notes","created":"2024-02-07 18:06"}}
+---
+
+>[[wiki/Unternehmen\|Unternehmen]]n schließen sich zusammen, um etwas zu erreichen. Somit teilen sie sich die Kosten und das Risiko.
+
+Zusammenschluss als Arbeits- oder Interessengemeinschaft, arbeitet befristet auf gemeinsame Rechnung und Gefahr.

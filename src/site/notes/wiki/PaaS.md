@@ -1,0 +1,24 @@
+---
+{"dg-publish":true,"permalink":"/wiki/paa-s/","tags":["GFN/LF03","GFN/LF09","informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"aliases":["Platform as a Service"],"created":"2024-07-10 13:32","links":null,"path":"Notes","tags":["GFN/LF03","GFN/LF09","informatik/netzwerk"]}}
+---
+
+> Platform as a Service
+
+> Es ist ein [[wiki/Cloud-Computing-Modell\|Cloud-Computing-Modell]], das eine Plattform bereitstellt, auf der Entwickler Anwendungen erstellen, bereitstellen und verwalten können, ohne sich um die zugrunde liegende Infrastruktur kümmern zu müssen.
+
+- Microsoft Azure App Services
+- Google App Engine
+- AWS
+
+>[!multi-column]
+> 
+> >[!check] Vorteile
+> > - Schnelle Entwicklung
+> > - Skalierbarkeit
+> > - Kollaborationsunterstützung
+> > - Einfaches Management
+> 
+> >[!fail] Nachteile
+> > - Kosten
+> > - Abhängigkeit vom Anbieter
+> > - Sicherheitsbedenken

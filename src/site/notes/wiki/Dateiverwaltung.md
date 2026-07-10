@@ -1,0 +1,44 @@
+---
+{"dg-publish":true,"permalink":"/wiki/dateiverwaltung/","tags":["software/betriebssystem","informatik/dateisystem"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00","dg-note-properties":{"tags":["software/betriebssystem","informatik/dateisystem"],"aliases":["File Management","Datei-System"],"links":null,"created_date":"2024-12-19"}}
+---
+
+
+> [[wiki/Betriebssystem\|Betriebssystem]]-Komponente für Organisation, Speicherung und Zugriff auf Dateien und Ordner.
+
+>> Stellt Funktionen für Erstellen, Kopieren, Verschieben, Löschen und Suchen von Dateien bereit.
+
+>[!info] Grundfunktionen
+>**Datei-Operationen:**
+>- **Erstellen** - neue Datei anlegen
+>- **Lesen/Schreiben** - Dateiinhalt bearbeiten
+>- **Kopieren/Verschieben** - Dateien duplizieren/verlagern
+>- **Löschen** - Dateien entfernen
+>- **Suchen** - Dateien finden
+>- **Metadaten ändern** - Rechte, Attribute setzen
+
+>[!info] Dateisystem-Typen
+>**Windows:**
+>- **NTFS** - Modern, Berechtigungen, große Dateien
+>- **FAT32** - Kompatibel, aber limitiert auf 4GB
+>- **exFAT** - Für USB-Sticks und SD-Karten
+>
+>**Linux:**
+>- **ext4** - Standard Linux-Dateisystem
+>- **Btrfs** - Modern mit Snapshots
+>- **ZFS** - Enterprise mit Fehlerkorrektur
+
+>[!example] Datei-Hierarchie
+>```
+>C:\ (Windows)           / (Linux)
+>├─ Program Files        ├─ bin (Programme)
+>├─ Users                ├─ home (Benutzer)
+>├─ Windows              ├─ etc (Konfiguration)
+>└─ Temp                 └─ var (Variable Daten)
+>```
+
+>[!tip] Dateisystem-Features
+>- **Journaling** - verhindert Datenverlust bei Absturz
+>- **Kompression** - spart Speicherplatz
+>- **Verschlüsselung** - schützt sensible Daten
+
+---
