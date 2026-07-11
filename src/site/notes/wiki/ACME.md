@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/acme/","tags":["informatik/protokoll","informatik/sicherheit/ssl","informatik/sicherheit/kryptografie"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["Automatic Certificate Management Environment","ACME Protocol"],"created":"2025-01-07","path":"Notes","tags":["informatik/protokoll","informatik/sicherheit/ssl","informatik/sicherheit/kryptografie"]}}
+{"dg-publish":true,"permalink":"/wiki/acme/","tags":["informatik/netzwerk/protokoll","informatik/sicherheit/ssl","informatik/sicherheit/kryptografie"],"noteIcon":"","updated":"2026-07-11T23:31:55.908+02:00","dg-note-properties":{"aliases":["Automatic Certificate Management Environment","ACME Protocol"],"created":"2025-01-07","path":"Notes","tags":["informatik/netzwerk/protokoll","informatik/sicherheit/ssl","informatik/sicherheit/kryptografie"]}}
 ---
 
 > Automatic Certificate Management Environment

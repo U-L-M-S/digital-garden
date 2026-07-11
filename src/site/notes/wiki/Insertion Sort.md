@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/insertion-sort/","tags":["algorithmen/sortierung","AP2025/detailliert"],"noteIcon":"","updated":"2025-11-12T09:26:56.000+01:00","dg-note-properties":{"tags":["algorithmen/sortierung","AP2025/detailliert"],"aliases":["Einfügesortierung","Insertion-Sort-Algorithmus"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/insertion-sort/","tags":["algorithmen/sortierung"],"noteIcon":"","updated":"2026-07-11T23:29:17.041+02:00","dg-note-properties":{"tags":["algorithmen/sortierung"],"aliases":["Einfügesortierung","Insertion-Sort-Algorithmus"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 ![Insertion-sort-example.gif](/img/user/assets/IMG/Insertion-sort-example.gif)

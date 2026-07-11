@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/selection-sort/","tags":["algorithmen/sortierung","AP2025/detailliert"],"noteIcon":"","updated":"2025-11-12T09:28:50.000+01:00","dg-note-properties":{"tags":["algorithmen/sortierung","AP2025/detailliert"],"aliases":["Auswahlsortierung","Selection-Sort-Algorithmus"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/selection-sort/","tags":["algorithmen/sortierung"],"noteIcon":"","updated":"2026-07-11T23:29:24.410+02:00","dg-note-properties":{"tags":["algorithmen/sortierung"],"aliases":["Auswahlsortierung","Selection-Sort-Algorithmus"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 ![selection-600.gif](/img/user/assets/IMG/selection-600.gif)

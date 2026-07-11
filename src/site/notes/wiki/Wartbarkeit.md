@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/wartbarkeit/","tags":["qualitaet/maintainability","softwareentwicklung/langzeit","AP2025/hinzugefuegt"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"tags":["qualitaet/maintainability","softwareentwicklung/langzeit","AP2025/hinzugefuegt"],"aliases":["Maintainability","Software-Wartbarkeit","Code-Wartbarkeit"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/wartbarkeit/","tags":["softwareentwicklung/langzeit","AP2025/hinzugefuegt"],"noteIcon":"","updated":"2026-07-11T23:28:41.924+02:00","dg-note-properties":{"tags":["softwareentwicklung/langzeit","AP2025/hinzugefuegt"],"aliases":["Maintainability","Software-Wartbarkeit","Code-Wartbarkeit"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 
