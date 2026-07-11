@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/wiki/hdd/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/hardware","speicher"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"aliases":["Hard Disk Drive"],"created_date":"2025-02-11","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/hardware","speicher"]}}
+---
+
+> Speichermedium, das Daten **magnetisch** auf rotierende Scheiben speichert. Gehört zu den **magnetischen Speichern** und hat bewegliche Teile (Motor + Lesekopf).
+> 
+> > Ist bekannt für hohe Speicherkapazität, aber langsamer und anfälliger als eine [[wiki/SSD\|SSD]].
+
+![614y6FroB-L.jpg](/img/user/assets/IMG/614y6FroB-L.jpg)
+> [!note]  
+> Die **Zugriffszeit** ist langsamer als bei einer [[wiki/SSD\|SSD]], da der Lesekopf mechanisch bewegt werden muss.
+
+**Beispiel:**
+
+- Wird oft als günstiges **Massenspeichermedium** in Servern oder für Backups eingesetzt.

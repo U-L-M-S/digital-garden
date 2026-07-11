@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/wiki/dezimal-zu-hexadezimal/","tags":["mathe/hexadezimal"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-23","links":null,"tags":["mathe/hexadezimal"]}}
+---
+
+>Dezimalzahl durch 16 teilen, Reste notieren, rückwärts schreiben:
+
+Beispiel: **431**
+
+|   |   |   |   |
+|---|---|---|---|
+|Zahl|:16|Ergebnis|Rest|
+|431|:16|26|15 (F)|
+|26|:16|1|10 (A)|
+|1|:16|0|1|
+
+Also ist **431** in [[wiki/Hexadezimal\|Hexadezimal]] **1AF**.

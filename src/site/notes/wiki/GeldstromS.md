@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/wiki/geldstrom-s/","tags":["wirtschaft/kreislauf"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"tags":["wirtschaft/kreislauf"],"path":"Notes","created":"2025-08-26"}}
+---
+
+>Bewegung von Geld als Gegenleistung für Güter und Arbeit.
+>>Geldwirtschaft - fließt entgegengesetzt zum [[wiki/GüterstromS\|GüterstromS]].

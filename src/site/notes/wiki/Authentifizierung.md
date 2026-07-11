@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/authentifizierung/","tags":["informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2024-10-17","links":null,"tags":["informatik/sicherheit/it-sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/authentifizierung/","tags":["informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-11T00:30:20.006+02:00","dg-note-properties":{"aliases":null,"created_date":"2024-10-17","links":null,"tags":["informatik/sicherheit/it-sicherheit"]}}
 ---
 
 >Die Herkunft von Informationen oder Nachrichten ist verlässlich und kann bestätigt werden.
@@ -12,4 +12,20 @@
 >Es geht nicht nur um die Herkunft, sondern auch darum, dass die Identität der Person oder Quelle, die die Informationen bereitstellt, tatsächlich überprüft wird.
 >
 >Die Formulierung „nicht gefälscht oder manipuliert wurde“ macht klarer, dass es sowohl um Fälschungen als auch um Veränderungen geht.
+
+Ein [[Subjekt\|Subjekt]] authentisiert sich über drei mögliche Faktoren — „etwas, das es **weiß**, **hat** oder **ist**":
+
+| Faktor | „etwas, das es…" | Beispiele | Schwäche |
+| :--- | :--- | :--- | :--- |
+| **Wissen** | …**weiß** | Passwort, PIN, Passphrase | erratbar, aufschreibbar |
+| **Besitz** | …**hat** | Smartcard, Token, EC-Karte | teuer, kann geklaut werden |
+| **Sein** | …**ist** | [[wiki/Biometrie\|Biometrie]] (Fingerabdruck, Iris …) | unveränderlich, fehleranfällig |
+
+**Multi-Faktor-Authentisierung** = mehrere Faktoren kombinieren → deutlich sicherer. Eine Karte allein kann geklaut werden, Karte ==+ PIN== nicht so leicht:
+
+| Kombination | Beispiel |
+| :--- | :--- |
+| haben + wissen | Bankkarte + PIN |
+| haben + sein | Token + biometrische Prüfung |
+| sein + wissen | Zutritt mit Biometrie + PIN |
 

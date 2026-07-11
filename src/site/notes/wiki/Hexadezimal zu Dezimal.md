@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/wiki/hexadezimal-zu-dezimal/","tags":["mathe/hexadezimal"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-23","links":null,"tags":["mathe/hexadezimal"]}}
+---
+
+>[[wiki/Hexadezimal\|Hexadezimal]]-Zahl multiplizieren mit 16er-Potenzen, beginnend von rechts (16⁰):
+
+Beispiel: **1AF**
+
+`(1 × 16²) + (A × 16¹) + (F × 16⁰)`  
+= `(1 × 256) + (10 × 16) + (15 × 1)`  
+= `256 + 160 + 15`  
+= **431**

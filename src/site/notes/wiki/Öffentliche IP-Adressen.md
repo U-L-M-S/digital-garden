@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/wiki/oeffentliche-ip-adressen/","tags":["informatik/netzwerk/adressierung/global","informatik/netzwerk/internet/eindeutig","informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk/adressierung/global","informatik/netzwerk/internet/eindeutig","informatik/netzwerk/ip/ipv4"]}}
+---
+
+
+**Öffentliche IP-Adressen** - Global eindeutige [[wiki/IP-Adresse\|IP-Adresse]]n die im Internet routbar sind.
+Gegensatz zu [[wiki/Private IP-Adressen\|Private IP-Adressen]] - werden von [[wiki/Providern\|Providern]] vergeben und sind weltweit erreichbar.

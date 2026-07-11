@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/wiki/frequency-hopping/","tags":["informatik/netzwerk/wifi"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk/wifi"]}}
+---
+
+
+**Frequency-Hopping** - Schneller Kanalwechsel zur Störungsreduzierung.
+[[wiki/Bluetooth\|Bluetooth]] nutzt das - wechselt 1600x pro Sekunde den Kanal für bessere Übertragung.

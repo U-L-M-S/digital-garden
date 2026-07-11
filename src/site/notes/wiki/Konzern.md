@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/wiki/konzern/","tags":[null],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"tags":[null],"links":null,"path":"Notes","created":"2024-02-07 21:30"}}
+---
+
+>Zusammenschluss rechtlich selbständiger Firmen.
+
+Zusammenschluss großerer rechtlich selbstständiger [[wiki/Unternehmen\|Unternehmen]]n zu einer großen wirtschaftlichen Einheit unter einer Leitung. Das übergeordnete [[wiki/Unternehmen\|Unternehmen]]n wird häufig Holding genannt.

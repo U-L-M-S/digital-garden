@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/wiki/betriebsverlagerung/","tags":["betriebsrat/information","wirtschaftlich"],"noteIcon":"","updated":"2025-10-29T12:59:03.000+01:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["betriebsrat/information","wirtschaftlich"]}}
+---
+
+>Verlegung der Produktion oder des Standorts an andere Orte.
+>>Schwerwiegende Entscheidung - [[wiki/Betriebsrat\|Betriebsrat]] wird informiert, hat aber kein Vetorecht.

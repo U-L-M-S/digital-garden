@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/wiki/satelliten-verbindung/","tags":["informatik/hardware","informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":["Satelliten-Verbindung"],"created":"2024-08-02 15:41","links":null,"path":"Notes","tags":["informatik/hardware","informatik/netzwerk"]}}
+---
+
+![Satelliten-Verbindung-20240802154201659.png](/img/user/assets/IMG/Satelliten-Verbindung-20240802154201659.png)
+>Max.200 Mbit/s down, max. 70 Mbit/s, Latenz: unter 50 ms up/down

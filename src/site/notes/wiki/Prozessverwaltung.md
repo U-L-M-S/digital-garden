@@ -1,0 +1,45 @@
+---
+{"dg-publish":true,"permalink":"/wiki/prozessverwaltung/","tags":["software/betriebssystem","informatik/prozesse"],"noteIcon":"","updated":"2026-05-13T08:17:16.000+02:00","dg-note-properties":{"tags":["software/betriebssystem","informatik/prozesse"],"aliases":["Process Management","Task-Management"],"links":null,"created_date":"2024-12-19"}}
+---
+
+
+> [[wiki/Betriebssystem\|Betriebssystem]]-Komponente, die Prozesse (laufende Programme) startet, stoppt, überwacht und koordiniert.
+
+>> Sorgt für konfliktfreie Nutzung der Systemressourcen zwischen mehreren gleichzeitigen Programmen.
+
+>[!info] Prozess-Eigenschaften
+>**Jeder Prozess kann:**
+>- Programmschritte abarbeiten
+>- Angehalten und später fortgesetzt werden
+>- Mit anderen Prozessen kommunizieren
+>- Neue Prozesse erzeugen (Child-Prozesse)
+>- Sich selbst beenden (Terminierung)
+
+>[!info] Prozess-Zustände
+>```
+>Neu → Bereit → Laufend → Wartend → Beendet
+>       ↑         ↓         ↓
+>       └─────────┴─────────┘
+>```
+
+>[!info] Scheduling-Verfahren
+>**CPU-Zuteilung:**
+>- **Round-Robin** - jeder Prozess bekommt Zeitscheibe
+>- **Priority-based** - wichtige Prozesse zuerst  
+>- **First Come First Serve** - Reihenfolge nach Ankunft
+
+>[!example] Prozess-Hierarchie
+>```
+>init (PID 1)
+>├─ systemd-services
+>├─ browser
+>│  ├─ tab1
+>│  ├─ tab2
+>│  └─ extension
+>└─ text-editor
+>```
+
+>[!tip] Task-Manager
+>Windows Task-Manager oder Linux `top`/`htop` zeigen alle laufenden Prozesse mit CPU- und RAM-Verbrauch.
+
+---

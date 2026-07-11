@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/wiki/nas/","tags":["ausbildung/gfn/ap1","informatik/hardware","informatik/netzwerk","speicher"],"noteIcon":"","updated":"2025-11-25T09:22:40.716+01:00","dg-note-properties":{"created":"2024-05-06 16:21","links":null,"path":"Notes","tags":["ausbildung/gfn/ap1","informatik/hardware","informatik/netzwerk","speicher"],"aliases":["Network Attached Storage"]}}
+---
+
+> Network Attached Storage
+
+**Es ist nichts anderes als ein Dateiserver.**
+![NAS-20240506162808320.png](/img/user/assets/IMG/NAS-20240506162808320.png)
+
+>[!important] 
+>**Nicht** mit [[wiki/SAN\|SAN]] verwechseln

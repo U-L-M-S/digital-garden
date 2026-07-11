@@ -1,0 +1,32 @@
+---
+{"dg-publish":true,"permalink":"/wiki/mvc/","noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"tags":null,"aliases":["Model-View-Controller"],"links":null,"created_date":"2024-11-25"}}
+---
+
+>Es ist ein Architekturdesign, das häufig in der Softwareentwicklung verwendet wird, insbesondere in Webanwendungen wie [[wiki/ASP.NET\|ASP.NET]].
+>>Es teilt eine Anwendung in drei Hauptkomponenten, um die Entwicklung und Wartung zu erleichtern:
+
+1. **Model**:
+    
+    - Repräsentiert die Daten und die Geschäftslogik der Anwendung.
+    - Verarbeitet Datenoperationen (z. B. Datenbankzugriffe).
+    - Ist unabhängig von der [[archive/junk-candidates/Benutzeroberfläche\|Benutzeroberfläche]].
+2. **View**:
+    
+    - Präsentiert die Daten aus dem Model in einer benutzerfreundlichen Weise.
+    - Zuständig für die [[archive/junk-candidates/Benutzeroberfläche\|Benutzeroberfläche]] ([[wiki/UI\|UI]]).
+    - Zeigt keine Geschäftslogik an, sondern nur Informationen.
+3. **Controller**:
+    
+    - Verarbeitet Benutzeranfragen und Eingaben.
+    - Interagiert mit dem Model, um Daten abzurufen oder zu ändern.
+    - Leitet Daten an die View weiter, um die [[wiki/UI\|UI]] zu aktualisieren.
+
+### Vorteile:
+
+- **Trennung der Verantwortlichkeiten**: Macht den Code sauberer und wartbarer.
+- **Flexibilität**: Ermöglicht unabhängige Entwicklung und Testung der einzelnen Teile.
+- **Wiederverwendbarkeit**: Views und Models können leicht wiederverwendet werden.
+
+### Beispiel in [[wiki/ASP.NET\|ASP.NET]]:
+
+- Ein **Controller** empfängt eine Anfrage (z. B. `/Products/Details/1`), ruft das entsprechende **Model** auf, um Produktdetails zu laden, und gibt diese an eine **View** weiter, um die Daten anzuzeigen.

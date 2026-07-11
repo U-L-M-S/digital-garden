@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/wiki/gleichgewichtspreis/","tags":["markt/preisbildung","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["markt/preisbildung","wirtschaft/bwl"]}}
+---
+
+>Preis bei dem [[wiki/Angebot\|Angebot]] und [[wiki/Nachfrage\|Nachfrage]] genau übereinstimmen.
+>>Theoretischer Idealzustand - in der Realität schwanken Preise um diesen Punkt.

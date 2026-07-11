@@ -1,0 +1,75 @@
+---
+{"dg-publish":true,"permalink":"/wiki/java-factory-method/","tags":["informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["Java Factory Method","Java-Factory-Method"],"created_date":"2024-10-29","links":null,"tags":["informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"]}}
+---
+
+>Es ist eine [[wiki/Programmierung Methode\|Programmierung Methode]], die Objekte einer [[wiki/Java klasse\|Java Klasse]] erstellt und zurückgibt, ohne den [[wiki/Konstruktor\|Konstruktor]] direkt aufzurufen. 
+>>Sie ermöglicht es, die [[wiki/OOP\|OOP]] zu kontrollieren, z. B. durch Wiederverwendung einer bestehenden Instanz (wie im [[wiki/Singleton\|Singleton]]-Muster) oder das Zurückgeben verschiedener Unterklassen. 
+>>Die [[wiki/Java Methode\|Java Methode]] wird häufig statt `new` verwendet, um eine klarere, flexiblere [[wiki/API\|API]] zu schaffen.
+
+# Syntax
+```java
+class ClassName {
+    // Private Konstruktor, damit keine Instanzen direkt erstellt werden können
+    private ClassName() {
+        // Initialisierungscode
+    }
+
+    // Static Factory Method
+    public static ClassName createInstance() {
+        return new ClassName(); // Gibt eine neue Instanz der Klasse zurück
+    }
+}
+
+
+
+
+
+public class Main {
+    public static void main(String[] args) {
+        ClassName obj = ClassName.createInstance(); // Erstellen eines Objekts über die Factory-Methode
+    }
+}
+
+```
+
+# Bsp
+
+```java
+class Logger {
+    // Eine statische Variable, die die Singleton-Instanz hält
+    private static Logger instance;
+
+    // Privater Konstruktor, um die Instanziierung von außen zu verhindern
+    private Logger() {
+        System.out.println("Logger instance created");
+    }
+
+    // Static Factory Method, die kontrolliert eine Instanz zurückgibt
+    public static Logger getInstance() {
+        if (instance == null) {
+            instance = new Logger(); // Erstellt die Instanz nur, wenn sie noch nicht existiert
+        }
+        return instance;
+    }
+
+    // Beispielmethode zum Protokollieren von Nachrichten
+    public void log(String message) {
+        System.out.println("Log: " + message);
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        // Verwenden der Static Factory Method, um die Logger-Instanz zu erhalten
+        Logger logger1 = Logger.getInstance();
+        logger1.log("This is the first log message."); // Ausgabe: Log: This is the first log message.
+
+        // Ein zweiter Aufruf von getInstance() gibt dieselbe Instanz zurück
+        Logger logger2 = Logger.getInstance();
+        logger2.log("This is the second log message."); // Ausgabe: Log: This is the second log message.
+
+        // Überprüfen, ob beide Referenzen auf dasselbe Objekt zeigen
+        System.out.println(logger1 == logger2); // Ausgabe: true
+    }
+}
+```

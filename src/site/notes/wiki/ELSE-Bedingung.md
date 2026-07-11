@@ -1,0 +1,65 @@
+---
+{"dg-publish":true,"permalink":"/wiki/else-bedingung/","tags":["informatik/programmierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["ELSE-Bedingung"],"created_date":"2024-10-25","links":null,"tags":["informatik/programmierung"]}}
+---
+
+>Eine [[else\|else]]-Bedingung wird verwendet, um einen **Codeblock** auszuführen, wenn die vorhergehende `if`-Bedingung **falsch** ist. 
+>Sie bietet eine Alternative und ermöglicht es, verschiedene Aktionen basierend auf den Bedingungen zu definieren.
+>>Wenn die [[wiki/IF-Bedingung\|if-Bedingung]] nicht erfüllt wird, springt das Programm direkt zum `else`-Codeblock und führt diesen aus.
+
+```python
+num = -5
+if num > 0:
+    print("Die Zahl ist positiv.")
+else:
+    print("Die Zahl ist nicht positiv.")
+```
+
+```java
+int num = -5;
+if (num > 0) {
+    System.out.println("Die Zahl ist positiv.");
+} else {
+    System.out.println("Die Zahl ist nicht positiv.");
+}
+```
+
+```js
+let num = -5;
+if (num > 0) {
+    console.log("Die Zahl ist positiv.");
+} else {
+    console.log("Die Zahl ist nicht positiv.");
+}
+```
+
+```bash
+num=-5
+if [ "$num" -gt 0 ]; then
+    echo "Die Zahl ist positiv."
+else
+    echo "Die Zahl ist nicht positiv."
+fi
+```
+
+```c
+#include <stdio.h>
+
+int main() {
+    int num = -5;
+    if (num > 0) {
+        printf("Die Zahl ist positiv.\n");
+    } else {
+        printf("Die Zahl ist nicht positiv.\n");
+    }
+    return 0;
+}
+```
+
+```perl
+my $num = -5;
+if ($num > 0) {
+    print "Die Zahl ist positiv.\n";
+} else {
+    print "Die Zahl ist nicht positiv.\n";
+}
+```

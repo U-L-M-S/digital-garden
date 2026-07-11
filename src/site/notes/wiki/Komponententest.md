@@ -1,0 +1,35 @@
+---
+{"dg-publish":true,"permalink":"/wiki/komponententest/","tags":["testing/unit","qualitaetssicherung/modul"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"tags":["testing/unit","qualitaetssicherung/modul"],"aliases":["Unit Test","Modultest","Einheitstest"],"links":null,"created_date":"2025-09-16"}}
+---
+
+
+>[[wiki/Komponententest\|Komponententest]] (Unit Test) prüft die kleinsten testbaren Einheiten einer Software isoliert.
+
+>>Er verifiziert einzelne Methoden, Klassen oder Module unabhängig von anderen Komponenten.
+
+>[!important] 
+>**Unit Test Eigenschaften:**
+>- **Isolation**: Keine Abhängigkeiten zu anderen Units
+>- **Automatisiert**: Teil der Build-Pipeline
+>- **Schnell**: Ausführung in Millisekunden
+>- **Deterministisch**: Immer gleiches Ergebnis
+
+>[!example] 
+>```java
+>@Test
+>public void testAddition() {
+>    // Arrange
+>    Calculator calc = new Calculator();
+>    
+>    // Act
+>    int result = calc.add(2, 3);
+>    
+>    // Assert
+>    assertEquals(5, result);
+>}
+>```
+
+>[!success] 
+>**Test-Frameworks:**
+>- JUnit (Java), NUnit (C#), pytest (Python)
+>- Jest (JavaScript), PHPUnit (PHP)
