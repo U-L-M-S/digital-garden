@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/wiki/daily-scrum/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00","dg-note-properties":{"aliases":["daily scrum"],"created_date":"2024-11-22","links":null,"tags":["projektmanagement/vorgehensmodell/agile"]}}
+---
+
+>Das **[[wiki/Daily Scrum\|Daily Scrum]]** ist ein kurzes tägliches Treffen (max. 15 Minuten), bei dem das Team den aktuellen Fortschritt bespricht.
+>>Wenn das Meeting bereits vor 15 Minuten beendet ist, kann jeder mit seinen Aufgaben beginnen.
+
+# Zweck:
+
+- **Koordination und Transparenz**: Das Team informiert sich über den Status der Arbeit und eventuelle Hindernisse.
+- Jeder Teilnehmer beantwortet drei Fragen:
+    1. Was habe ich seit dem letzten Treffen erreicht?
+    2. Was werde ich bis zum nächsten Treffen tun?
+    3. Gibt es Hindernisse, die mich blockieren?
+
+# Zusammenhang mit [[wiki/Scrum Framework\|Scrum Framework]]:
+
+- Es ist eines der **wichtigen Ereignisse** (Events) in [[wiki/Scrum\|Scrum]].
+- Fördert **Kommunikation** und **Teamarbeit**, damit das Team schnell auf Änderungen und Probleme reagieren kann.

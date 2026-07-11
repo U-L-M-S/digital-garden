@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"permalink":"/wiki/java-do-while-loop/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:32:22.000+02:00","dg-note-properties":{"created":"2024-06-21 16:34","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java"]}}
+---
+
+>Bei [[wiki/Do-While-Loop\|Do-While-Loop]] wird die Anweisung mindestens **1** mal wiederholt.
+>Es folgt die Denkweise von [[wiki/While-Loop\|While-Loop]].
+```java
+public class Main {
+    public static void main(String[] args) {
+        boolean condition = true;
+        int counter = 0;
+
+        do {
+            System.out.println("Die Schleife läuft: " + counter);
+            counter++;
+            if (counter >= 5) {
+                condition = false; // Schleife beenden, wenn counter >= 5
+            }
+        } while (condition);
+    }
+}
+```

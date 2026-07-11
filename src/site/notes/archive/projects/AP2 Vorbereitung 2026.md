@@ -9,6 +9,6 @@
 - [[wiki/AP2 Prüfungskatalog 2025\|AP2 Prüfungskatalog 2025]] — Themen-Map der AP2-Prüfung 2025 (Neu/Gestrichen im Reform-Katalog)
 - [[wiki/AP2 Vorbereitung\|AP2 Vorbereitung]] — Aufbau der AP2-Prüfung (schriftlich/mündlich, Teil 1–3)
 
-**Geshippt:** [[output/AP2 Präsentation\|AP2 Präsentation]] — IHK-Präsentation (KD-Holding, Azure-AD-SSO)
+**Geshippt:** [[AP2 Präsentation\|AP2 Präsentation]] — IHK-Präsentation (KD-Holding, Azure-AD-SSO)
 **Ergebnis:** Prüfung bestanden ✅
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/festplatte/","tags":["hardware/speicher","informatik/hardware","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2026-07-11T09:09:19.279+02:00","dg-note-properties":{"tags":["hardware/speicher","informatik/hardware","ausbildung/gfn/ap1/vorbereitung"],"aliases":["Hard Disk Drive","HDD","Festplatten","Disk"],"links":null,"created_date":"2025-11-07"}}
+{"dg-publish":true,"permalink":"/wiki/festplatte/","tags":["hardware/speicher","informatik/hardware","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2026-07-11T19:51:14.568+02:00","dg-note-properties":{"tags":["hardware/speicher","informatik/hardware","ausbildung/gfn/ap1/vorbereitung"],"aliases":["Hard Disk Drive","HDD","Festplatten","Disk"],"links":null,"created_date":"2025-11-07"}}
 ---
 
 >Eine **Festplatte** (Hard Disk Drive, HDD) ist ein magnetisches [[wiki/Speicher\|Speicher]]medium zur dauerhaften Speicherung von Daten.
@@ -68,6 +68,25 @@
 >Intern adressiert die Platte über **CHS** (Cylinder, Head, Sector) — nach außen zählt sie die Blöcke einfach fortlaufend durch als **LBA** (Logical Block Addressing).
 
 - Das [[wiki/Betriebssystem\|Betriebssystem]] fragt nur eine LBA-Nummer an; die **Umrechnung LBA→CHS** macht der Controller der Platte selbst.
+
+**CHS-Struktur:**
+- **Cylinder (C):** Welche Schicht (0, 1, 2, … vom äußeren zum inneren Rand)
+- **Head (H):** Welcher Lesekopf (0, 1, … für mehrere Platten übereinander)
+- **Sector (S):** Welcher Sektor auf der Spur (1, 2, 3, … meist 1–63, nicht 0)
+
+**Umrechnung LBA → CHS:**
+$$C = \left\lfloor \frac{\text{LBA}}{\text{Heads} \times \text{Sectors}} \right\rfloor$$
+$$H = \left\lfloor \frac{\text{LBA} \bmod (\text{Heads} \times \text{Sectors})}{\text{Sectors}} \right\rfloor$$
+$$S = (\text{LBA} \bmod \text{Sectors}) + 1$$
+
+> [!example] LBA 1000 umrechnen
+> Platte: 4 Heads, 63 Sectors pro Track  
+> $$C = \left\lfloor \frac{1000}{4 \times 63} \right\rfloor = \left\lfloor \frac{1000}{252} \right\rfloor = 3$$
+> $$H = \left\lfloor \frac{1000 \bmod 252}{63} \right\rfloor = \left\lfloor \frac{244}{63} \right\rfloor = 3$$
+> $$S = (1000 \bmod 63) + 1 = 50 + 1 = 51$$
+> → **C/H/S = 3/3/51**
+
+Historisches Detail: Bei älteren BIOS (IDE/PATA) war die CHS-Adressierung nach außen sichtbar (max 1024 Zylinder, 256 Köpfe, 63 Sektoren → 8 GB Grenze). Moderne Systeme ([[wiki/UEFI\|UEFI]], [[GPT\|GPT]]) nutzen nur noch LBA direkt.
 
 ---
 

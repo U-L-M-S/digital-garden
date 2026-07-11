@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"permalink":"/wiki/vollsicherung/","tags":["informatik/backup/typ","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.000+02:00","dg-note-properties":{"created":"2025-08-27","aliases":["Vollbackup"],"links":"[[wiki/Backup-Strategien\|Backup-Strategien]]","path":"Notes","tags":["informatik/backup/typ","informatik/sicherheit/it-sicherheit"]}}
+---
+
+
+>Vollsicherung erstellt eine komplette Kopie aller Daten unabhängig davon, ob sie sich verändert haben.
+
+>>Bei einer Vollsicherung werden alle Dateien und Ordner gesichert, auch wenn sie seit der letzten Sicherung unverändert geblieben sind. Sie bildet die Basis für alle anderen [[wiki/Backup-Strategien\|Backup-Strategien]].
+
+>[!success] Vorteile
+>- **Einfachheit**: Unkomplizierte Durchführung und Verwaltung
+>- **Vollständigkeit**: Alle Daten sind in einem Backup-Set enthalten
+>- **Schnelle Wiederherstellung**: Nur ein Backup-Lauf nötig für komplette Wiederherstellung
+>- **Unabhängigkeit**: Benötigt keine anderen Backups
+
+>[!warning] Nachteile
+>- **Hoher Speicherbedarf**: Braucht viel Speicherplatz für jedes Backup
+>- **Lange Backup-Zeit**: Dauert bei großen Datenmengen sehr lange
+>- **Netzwerklast**: Belastet Netzwerk bei Remote-Backups stark
+>- **Ressourcenintensiv**: Hohe CPU- und I/O-Belastung
+
+>[!example] Beispiel
+>Server mit 1TB Daten → Jede Vollsicherung benötigt 1TB Speicherplatz
+>Wöchentliche Vollsicherung für 4 Wochen = 4TB Speicherbedarf
+
+>[!note] Verwendung
+>Vollsicherung eignet sich als Basis-Backup oder für kleine Datenmengen. In der Praxis oft kombiniert mit [[wiki/Inkrementelle Sicherung\|Inkrementelle Sicherung]] oder [[wiki/Differentielle Sicherung\|Differentielle Sicherung]] um Speicher und Zeit zu sparen.

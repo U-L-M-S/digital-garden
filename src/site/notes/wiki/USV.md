@@ -1,0 +1,44 @@
+---
+{"dg-publish":true,"permalink":"/wiki/usv/","tags":["elektrotechnik","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-24","links":null,"tags":["elektrotechnik","informatik/hardware"]}}
+---
+
+> Schützt IT-Systeme vor **Stromausfällen** und anderen **Stromproblemen**.  
+>> Ziel: Stromversorgung bleibt auch bei Ausfall der Hauptstromquelle für kurze Zeit aktiv.
+
+> [!note] Wovor schützt eine USV?
+> 
+> - **Stromausfall**
+> - **Unterspannung**
+> - **Überspannung**
+> - **Frequenzschwankungen**
+> - **Spannungsspitzen (Transienten)**
+> - **Netzrauschen**
+
+---
+
+> [!tip] Arten von USV:
+> 
+> - **Offline / Standby (VFD)**  
+>     Billigste Variante, schaltet nur bei Stromausfall auf Batterie um.
+>     
+> - **Line-Interactive (VI)**  
+>     Regelt leichte Schwankungen und schaltet bei Ausfall auf Batterie.
+>     
+> - **Online / Doppelwandler (VFI)**  
+>     Dauerhafte Trennung vom Stromnetz, sauberste Versorgung durch konstanten Wechselrichterbetrieb.
+>     
+
+---
+
+> [!example] Beispiel:
+> 
+> - [[wiki/Server\|Server]] im Rechenzentrum hängen meist an einer **Online-USV**.
+> - Ein einzelner Büro-PC bekommt oft nur eine **Offline-USV**.
+
+$$
+S = U \times I
+$$
+
+- **S** = Scheinleistung in **VA**  
+- **U** = Spannung in **[[wiki/Volt\|Volt]] (V)**  
+- **I** = Stromstärke in **[[archive/junk-candidates/Ampere\|Ampere]] (A)**

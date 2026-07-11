@@ -420,7 +420,7 @@ Heute: Teilweise gepatcht, aber nicht vollständig behebbar
 # Verwandte Konzepte
 
 - [[Speculative Execution\|Speculative Execution]] - CPU-Optimierungstechnik
-- [[Cache-Timing-Angriffe\|Cache-Timing-Angriffe]] - Basis für Meltdown/Spectre
+- [[wiki/Cache-Timing-Angriffe\|Cache-Timing-Angriffe]] - Basis für Meltdown/Spectre
 - [[Hardware-Sicherheit\|Hardware-Sicherheit]] - Allgemeines Thema
 - [[Side-Channel-Angriffe\|Side-Channel-Angriffe]] - Angriffe durch Seiteneffekte
 

@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/wiki/vielfaches/","tags":["mathe"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"aliases":["Vielfaches","vielfaches"],"created":"2024-07-26 22:36","links":null,"path":"Notes","tags":["mathe"]}}
+---
+
+>Es ist das Ergebnis der Multiplikation einer Zahl mit einer ganzen Zahl.
+>>Mit anderen Worten, wenn du eine Zahl $x$ hast, dann sind die Vielfachen von $x$ alle Zahlen, die du erhältst, indem du $x$ mit den [[wiki/ganze Zahlen\|ganze Zahlen]] multiplizierst.
+
+| Zahl1 | x   | Zahl2 | Ergebnis |
+| ----- | --- | ----- | -------- |
+| 8     | x   | 1     | 8        |
+| 8     | x   | 2     | 16       |
+| 8     | x   | 3     | 24       |
+| 8     | x   | 4     | 32       |
+
+>[!example] Bsp
+>Die [[wiki/Vielfaches\|Vielfaches]] von 8 sind 8,16,24,32,...,`fas:Infinity`

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dns/","tags":["informatik/netzwerk/dns"],"noteIcon":"","updated":"2026-05-13T08:40:20.000+02:00","dg-note-properties":{"Created":"2023-07-30 19:50","Path":"Notes","Reference":"https://root-servers.org/","aliases":["Domain Name Server"],"tags":["informatik/netzwerk/dns"]}}
+{"dg-publish":true,"permalink":"/wiki/dns/","tags":["informatik/netzwerk/dns"],"noteIcon":"","updated":"2026-07-11T00:23:29.548+02:00","dg-note-properties":{"Created":"2023-07-30 19:50","Path":"Notes","Reference":"https://root-servers.org/","aliases":["Domain Name Server"],"tags":["informatik/netzwerk/dns"]}}
 ---
 
 > [[wiki/Domain\|Domain]] Name System
@@ -52,3 +52,9 @@ Um das besser zu verstehen, lass uns die Website [uol](https://www.uol.com.br/) 
 > - Der Resolver schickt erneut einen Request, aber dieses Mal an den Authoritative Server, und dieser schickt die [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] von uol zurück
 > - Sobald der Recursive Resolver das erhält, schickt er es an meinen Browser zurück
 > - Mein Browser muss jetzt nur einen Request an diese [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]] schicken und auf den Response warten
+
+### Zone & autoritative Antwort
+
+- Eine **Zone** = der Verwaltungsbereich eines Nameservers. Bekommt z.B. `it.company.com` eigene NS-Einträge, ist das eine ==eigene Zone==.
+- **Autoritativ** = die Antwort kommt vom zuständigen Server (verbindlich). Kommt sie aus dem **Cache**, ist sie nicht-autoritativ — `nslookup` zeigt dann „Nicht autorisierende Antwort".
+- Die Record-Typen (A, AAAA, NS …) stehen in [[wiki/DNS-Einträge\|DNS-Einträge]].

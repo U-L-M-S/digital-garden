@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/prozess/","tags":["projektmanagement","informatik"],"noteIcon":"","updated":"2026-07-11T09:09:33.342+02:00","dg-note-properties":{"created":"2024-05-16 09:22","links":null,"tags":["projektmanagement","informatik"]}}
+{"dg-publish":true,"permalink":"/wiki/prozess/","tags":["projektmanagement","informatik"],"noteIcon":"","updated":"2026-07-11T19:49:39.949+02:00","dg-note-properties":{"created":"2024-05-16 09:22","links":null,"tags":["projektmanagement","informatik"]}}
 ---
 
 >Eine **Aufgabe** ist in der Computerwelt eine einzelne, definierte Handlung oder Operation, die von einem Computer ausgeführt wird. Alle Aufgaben, die ein Computer durchführt, sind oft im Hintergrund verborgen und laufen automatisiert ab.
@@ -35,4 +35,32 @@ Ein Prozess ist immer in genau einem von ==drei Zuständen==:
                                 └───────────┘
 ```
 
-Die Übergänge steuert das [[wiki/Scheduling\|Scheduling]]; den Wechsel selbst macht der [[wiki/Kontextwechsel\|Kontextwechsel]]. Läuft ein terminierter Prozess fehlerhaft weiter → [[wiki/Zombieprozess\|Zombieprozess]].
+Die Übergänge steuert das [[wiki/Scheduling\|Scheduling]]; den Wechsel selbst macht der [[wiki/Kontextwechsel\|Kontextwechsel]].
+
+# Prozesskontrollblock (PCB)
+
+Das Betriebssystem verwaltet jeden Prozess über einen **[[Prozesskontrollblock\|Prozesskontrollblock]]** ([[PCB\|PCB]]), ein Datensatz mit:
+- **Prozess-ID** (PID) — eindeutige Nummer
+- **Priorität** — Scheduling-Priorität
+- **Besitzer** (User-ID) — wer hat den Prozess gestartet
+- **Registerstatus** — alle Register-Werte (beim Kontextwechsel gespeichert)
+- **Programmzähler** + **Programmstatuswort** (PSW)
+- **Speicherbereich** (Anfangsadresse, Größe)
+- **Offene Dateien** (Filedeskriptoren)
+
+Alle PCBs liegen in der **[[Prozesstabelle\|Prozesstabelle]]** (Kernel-Speicher). Der Scheduler konsultiert sie ständig: wer läuft, wer blockiert, wer bereit?
+
+# Prozess-Lifecycle
+
+## Starten
+1. Betriebssystem erzeugt einen neuen Prozess (PCB anlegen).
+2. Programm + Daten werden aus dem Dateisystem in den RAM geladen.
+3. Jeder Prozess erhält **eigenen Speicherbereich** (per [[Speichervirtualisierung\|Speichervirtualisierung]]).
+4. Der **Elternprozess** hat nach dem Start *keinen* direkten Zugriff auf die Daten des [[Kindprozess\|Kindprozess]]es (Speichertrennung durch das BS).
+
+## Beenden
+- **Normal:** Prozess beendet sich selbst (Programm zu Ende, Nutzer beendet, `exit()`).
+- **Erzwungen:** Anderer Prozess / Kernel terminiert ihn (Crash bei Division durch 0, `kill`, Memory-Limit überschritten).
+- ⚠️ **Zombieprozess**: Läuft ein terminierter Prozess fehlerhaft weiter oder ist seine Ausgabe nicht gelesen, bleibt der PCB in der Prozesstabelle → blockiert Slot. (Unter Linux: Elternprozess muss `wait()` aufrufen.)
+
+- Zu *einem* [[Programm\|Programm]] können **mehrere** Prozesse gleichzeitig existieren (z.B. drei Firefox-Fenster laufen technisch als drei Prozesse).

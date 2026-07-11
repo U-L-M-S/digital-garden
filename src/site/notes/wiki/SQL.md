@@ -1,0 +1,672 @@
+---
+{"dg-publish":true,"permalink":"/wiki/sql/","tags":["ausbildung/gfn/ap2","informatik/code/sql","informatik/datenbank"],"noteIcon":"","updated":"2026-07-02T01:13:38.000+02:00","dg-note-properties":{"aliases":["Structured Query Language","sql"],"created":"2024-06-25 15:35","links":null,"path":"Notes","tags":["ausbildung/gfn/ap2","informatik/code/sql","informatik/datenbank"]}}
+---
+
+>SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[wiki/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.
+>>Insgesamt ist SQL ein unverzichtbares Werkzeug für Entwickler und Datenanalysten, um mit Daten effizient zu arbeiten.
+
+```
+ASCII-Übersicht: SQL-Befehle
+
+         ┌──────────────────────────────┐
+         │      SQL BEFEHLE             │
+         └──────────────────────────────┘
+                     │
+         ┌───────────┴───────────┐
+         │                       │
+    ┌────▼────┐            ┌─────▼─────┐
+    │   DDL   │            │    DML    │
+    │ (Data   │            │  (Data    │
+    │ Def.)   │            │   Manip.) │
+    └────┬────┘            └─────┬─────┘
+         │                       │
+    ┌────┴────┐          ┌───────┼───────┐
+    │         │          │       │       │
+  CREATE   ALTER      SELECT  INSERT  UPDATE
+  DROP     TRUNCATE            DELETE
+
+Datenfluss bei SQL-Operationen:
+
+Anwendung                 SQL-Engine              Datenbank
+    │                          │                       │
+    │  SQL-Befehl senden       │                       │
+    ├─────────────────────────>│                       │
+    │                          │  Befehl parsen        │
+    │                          ├─────────┐             │
+    │                          │         │             │
+    │                          │<────────┘             │
+    │                          │  Zugriff auf Daten    │
+    │                          ├──────────────────────>│
+    │                          │                       │
+    │                          │<──────────────────────┤
+    │                          │  Daten zurück         │
+    │  Ergebnis anzeigen       │                       │
+    │<─────────────────────────┤                       │
+    │                          │                       │
+```
+
+>[!summary] SQL-Grundoperationen (CRUD)
+>- **C**reate: INSERT - Neue Daten einfügen
+>- **R**ead: SELECT - Daten lesen/abfragen
+>- **U**pdate: UPDATE - Bestehende Daten ändern
+>- **D**elete: DELETE - Daten löschen
+
+## SQL-Befehle nach Kategorie
+
+<style> .container {font-family: sans-serif; text-align: center;} .button-wrapper button {z-index: 1;height: 40px; width: 100px; margin: 10px;padding: 5px;} .excalidraw .App-menu_top .buttonList { display: flex;} .excalidraw-wrapper { height: 800px; margin: 50px; position: relative;} :root[dir="ltr"] .excalidraw .layer-ui__wrapper .zen-mode-transition.App-menu_bottom--transition-left {transform: none;} </style><script src="https://cdn.jsdelivr.net/npm/react@17/umd/react.production.min.js"></script><script src="https://cdn.jsdelivr.net/npm/react-dom@17/umd/react-dom.production.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@excalidraw/excalidraw@0/dist/excalidraw.production.min.js"></script><div id="SQL_Commands_Overviewexcalidraw.md1"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases","elements":[{"id":"sql-btop","type":"rectangle","x":380,"y":30,"width":150,"height":44,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#ffec99","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11000001,"version":1,"versionNonce":11000002,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false},{"id":"sql-top","type":"text","x":380,"y":41,"width":150,"height":22,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11000003,"version":1,"versionNonce":11000004,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"fontSize":17,"fontFamily":2,"text":"SQL Commands","textAlign":"center","verticalAlign":"top","containerId":null,"originalText":"SQL Commands","lineHeight":1.25,"baseline":14},{"id":"sql-l1","type":"line","x":455,"y":74,"width":340,"height":36,"angle":0,"strokeColor":"#868e96","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":1,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11000005,"version":1,"versionNonce":11000006,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"points":[[0,0],[-340,36]],"lastCommittedPoint":null,"startBinding":null,"endBinding":null,"startArrowhead":null,"endArrowhead":null},{"id":"sql-l2","type":"line","x":455,"y":74,"width":170,"height":36,"angle":0,"strokeColor":"#868e96","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":1,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11000007,"version":1,"versionNonce":11000008,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"points":[[0,0],[-170,36]],"lastCommittedPoint":null,"startBinding":null,"endBinding":null,"startArrowhead":null,"endArrowhead":null},{"id":"sql-l3","type":"line","x":455,"y":74,"width":1,"height":36,"angle":0,"strokeColor":"#868e96","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":1,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11000009,"version":1,"versionNonce":11000010,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"points":[[0,0],[0,36]],"lastCommittedPoint":null,"startBinding":null,"endBinding":null,"startArrowhead":null,"endArrowhead":null},{"id":"sql-l4","type":"line","x":455,"y":74,"width":170,"height":36,"angle":0,"strokeColor":"#868e96","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":1,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11000011,"version":1,"versionNonce":11000012,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"points":[[0,0],[170,36]],"lastCommittedPoint":null,"startBinding":null,"endBinding":null,"startArrowhead":null,"endArrowhead":null},{"id":"sql-l5","type":"line","x":455,"y":74,"width":340,"height":36,"angle":0,"strokeColor":"#868e96","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":1,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11000013,"version":1,"versionNonce":11000014,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"points":[[0,0],[340,36]],"lastCommittedPoint":null,"startBinding":null,"endBinding":null,"startArrowhead":null,"endArrowhead":null},{"id":"sql-bddl","type":"rectangle","x":40,"y":110,"width":150,"height":50,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#b2f2bb","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11100001,"version":1,"versionNonce":11100002,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false},{"id":"sql-ddl","type":"text","x":40,"y":124,"width":150,"height":22,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11100003,"version":1,"versionNonce":11100004,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"fontSize":18,"fontFamily":2,"text":"DDL","textAlign":"center","verticalAlign":"top","containerId":null,"originalText":"DDL","lineHeight":1.25,"baseline":15},{"id":"sql-ddlx","type":"text","x":50,"y":178,"width":130,"height":130,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11100005,"version":1,"versionNonce":11100006,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"fontSize":15,"fontFamily":3,"text":"CREATE\nDROP\nALTER\nTRUNCATE\nRENAME","textAlign":"center","verticalAlign":"top","containerId":null,"originalText":"CREATE\nDROP\nALTER\nTRUNCATE\nRENAME","lineHeight":1.25,"baseline":12},{"id":"sql-bdml","type":"rectangle","x":210,"y":110,"width":150,"height":50,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#ffe8cc","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11200001,"version":1,"versionNonce":11200002,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false},{"id":"sql-dml","type":"text","x":210,"y":124,"width":150,"height":22,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11200003,"version":1,"versionNonce":11200004,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"fontSize":18,"fontFamily":2,"text":"DML","textAlign":"center","verticalAlign":"top","containerId":null,"originalText":"DML","lineHeight":1.25,"baseline":15},{"id":"sql-dmlx","type":"text","x":220,"y":178,"width":130,"height":110,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11200005,"version":1,"versionNonce":11200006,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"fontSize":15,"fontFamily":3,"text":"INSERT\nUPDATE\nDELETE\nMERGE","textAlign":"center","verticalAlign":"top","containerId":null,"originalText":"INSERT\nUPDATE\nDELETE\nMERGE","lineHeight":1.25,"baseline":12},{"id":"sql-btcl","type":"rectangle","x":380,"y":110,"width":150,"height":50,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#c3fae8","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11300001,"version":1,"versionNonce":11300002,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false},{"id":"sql-tcl","type":"text","x":380,"y":124,"width":150,"height":22,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11300003,"version":1,"versionNonce":11300004,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"fontSize":18,"fontFamily":2,"text":"TCL","textAlign":"center","verticalAlign":"top","containerId":null,"originalText":"TCL","lineHeight":1.25,"baseline":15},{"id":"sql-tclx","type":"text","x":390,"y":178,"width":130,"height":110,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11300005,"version":1,"versionNonce":11300006,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"fontSize":15,"fontFamily":3,"text":"COMMIT\nROLLBACK\nSAVEPOINT\nSET TRANSACTION","textAlign":"center","verticalAlign":"top","containerId":null,"originalText":"COMMIT\nROLLBACK\nSAVEPOINT\nSET TRANSACTION","lineHeight":1.25,"baseline":12},{"id":"sql-bdcl","type":"rectangle","x":550,"y":110,"width":150,"height":50,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#fcc2d7","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11400001,"version":1,"versionNonce":11400002,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false},{"id":"sql-dcl","type":"text","x":550,"y":124,"width":150,"height":22,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11400003,"version":1,"versionNonce":11400004,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"fontSize":18,"fontFamily":2,"text":"DCL","textAlign":"center","verticalAlign":"top","containerId":null,"originalText":"DCL","lineHeight":1.25,"baseline":15},{"id":"sql-dclx","type":"text","x":560,"y":178,"width":130,"height":70,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11400005,"version":1,"versionNonce":11400006,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"fontSize":15,"fontFamily":3,"text":"GRANT\nREVOKE","textAlign":"center","verticalAlign":"top","containerId":null,"originalText":"GRANT\nREVOKE","lineHeight":1.25,"baseline":12},{"id":"sql-bdql","type":"rectangle","x":720,"y":110,"width":150,"height":50,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"#ffc9c9","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11500001,"version":1,"versionNonce":11500002,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false},{"id":"sql-dql","type":"text","x":720,"y":124,"width":150,"height":22,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11500003,"version":1,"versionNonce":11500004,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"fontSize":18,"fontFamily":2,"text":"DQL","textAlign":"center","verticalAlign":"top","containerId":null,"originalText":"DQL","lineHeight":1.25,"baseline":15},{"id":"sql-dqlx","type":"text","x":730,"y":178,"width":130,"height":30,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"frameId":null,"roundness":null,"seed":11500005,"version":1,"versionNonce":11500006,"isDeleted":false,"boundElements":null,"updated":1,"link":null,"locked":false,"fontSize":15,"fontFamily":3,"text":"SELECT","textAlign":"center","verticalAlign":"top","containerId":null,"originalText":"SELECT","lineHeight":1.25,"baseline":12}],"appState":{"gridSize":null,"gridModeEnabled":false,"viewBackgroundColor":"#ffffff","zoom":{"value":1}},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("SQL_Commands_Overviewexcalidraw.md1");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>
+
+Alle SQL-Befehle lassen sich in **5 Kategorien** einteilen:
+
+| Kürzel | Name | Aufgabe | Befehle |
+| :--- | :--- | :--- | :--- |
+| **DDL** | Data Definition Language | Datenbank-**Struktur** definieren | `CREATE` `DROP` `ALTER` `TRUNCATE` `RENAME` |
+| **DML** | Data Manipulation Language | **Daten** bearbeiten | `INSERT` `UPDATE` `DELETE` `MERGE` |
+| **TCL** | Transaction Control Language | **Transaktionen** steuern | `COMMIT` `ROLLBACK` `SAVEPOINT` `SET TRANSACTION` |
+| **DCL** | Data Control Language | **Zugriffsrechte** steuern | `GRANT` `REVOKE` |
+| **DQL** | Data Query Language | Daten **abfragen** | `SELECT` |
+
+# Datenbank erstellen
+
+Am besten fangen wir an, indem wir lernen, wie man eine [[wiki/SQL Datenbank\|SQL Datenbank]] erstellt.
+```sql
+CREATE DATABASE schule;
+USE schule;
+```
+
+<div id="SQL_2024-10-09_1517.33.excalidraw.md2"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.3.0","elements":[{"type":"ellipse","version":325,"versionNonce":1740327332,"index":"a2","isDeleted":false,"id":"IjvRKumaDsFuPGvtc5jp7","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":182.82710731033245,"y":-642.2413111657164,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":123.87649400618038,"height":104.66891454936439,"seed":2130821532,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728480476212,"link":null,"locked":false},{"type":"line","version":368,"versionNonce":2075300508,"index":"a4","isDeleted":false,"id":"LfVf23JmekxVZW1xO4SS2","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":182.37167902354503,"y":-603.529906788785,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":1.3662848603622837,"height":128.43077687405463,"seed":1509919396,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728480476212,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[-1.3662848603622837,128.43077687405463]]},{"type":"line","version":421,"versionNonce":1013609764,"index":"a5","isDeleted":false,"id":"cbUZxU-Bl-m2wgTHXjru1","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":306.12879950918455,"y":-602.5919962741839,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":1.3662848603622837,"height":128.43077687405463,"seed":390657700,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728480476212,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[-1.3662848603622837,128.43077687405463]]},{"type":"line","version":499,"versionNonce":1836965660,"index":"a8","isDeleted":false,"id":"ecsuAy7q1GH7WhdQMJxcq","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":183.51361520689693,"y":-559.7485825175754,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":123.42106571939293,"height":26.414840633670813,"seed":1435370020,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728480476212,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[65.12624501060218,26.414840633670813],[123.42106571939293,2.277141433937139]]},{"type":"line","version":480,"versionNonce":422064292,"index":"a9","isDeleted":false,"id":"4vp9bb8_x3QYpw8xgXeSb","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":182.60275863332197,"y":-535.1554550310543,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":123.42106571939293,"height":26.414840633670813,"seed":1239505692,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728480476212,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[65.12624501060218,26.414840633670813],[123.42106571939293,2.277141433937139]]},{"type":"line","version":494,"versionNonce":288070556,"index":"aA","isDeleted":false,"id":"Vh3SHIuojPNYijo7crqYc","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":182.60275863332197,"y":-504.64175981629666,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":123.42106571939293,"height":26.414840633670813,"seed":205103900,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728480476212,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[65.12624501060218,26.414840633670813],[123.42106571939293,2.277141433937139]]},{"type":"line","version":519,"versionNonce":497187876,"index":"aE","isDeleted":false,"id":"PTyiPOV0adIQuLg2Y3QVw","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":181.53951450014284,"y":-476.50983640212354,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":123.42106571939293,"height":26.414840633670813,"seed":1782664732,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728480476212,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[65.12624501060218,26.414840633670813],[123.42106571939293,2.277141433937139]]},{"type":"text","version":343,"versionNonce":1626195996,"index":"aF","isDeleted":false,"id":"1JL5BWcW","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":193.8499700166119,"y":-684.3140595629245,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":97.06228407764708,"height":22.771414339371393,"seed":1979160860,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1728480476212,"link":null,"locked":false,"fontSize":18.217131471497115,"fontFamily":5,"text":"Datenbank","rawText":"Datenbank","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Datenbank","autoResize":true,"lineHeight":1.25},{"id":"SpHY2rSB","type":"text","x":219.93420610693556,"y":-603.0162368556959,"width":61.31996154785156,"height":25,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"aG","roundness":null,"seed":14871964,"version":59,"versionNonce":1902710948,"isDeleted":false,"boundElements":null,"updated":1728480484780,"link":null,"locked":false,"text":"Schule","rawText":"Schule","fontSize":20,"fontFamily":5,"textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Schule","autoResize":true,"lineHeight":1.25},{"id":"YaDF3DdP","type":"text","x":-55.777682621861274,"y":-205.7843113902566,"width":8,"height":25,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a2V","roundness":null,"seed":1168079780,"version":5,"versionNonce":1436512420,"isDeleted":true,"boundElements":null,"updated":1728480459025,"link":null,"locked":false,"text":"","rawText":"","fontSize":20,"fontFamily":5,"textAlign":"center","verticalAlign":"middle","containerId":"IjvRKumaDsFuPGvtc5jp7","originalText":"","autoResize":true,"lineHeight":1.25},{"id":"mur5VPbp","type":"text","x":-55.777682621861274,"y":-205.7843113902566,"width":8,"height":25,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"index":"a3","roundness":null,"seed":1529942940,"version":5,"versionNonce":1509194524,"isDeleted":true,"boundElements":null,"updated":1728480452789,"link":null,"locked":false,"text":"","rawText":"","fontSize":20,"fontFamily":5,"textAlign":"center","verticalAlign":"middle","containerId":"IjvRKumaDsFuPGvtc5jp7","originalText":"","autoResize":true,"lineHeight":1.25}],"appState":{"theme":"dark","viewBackgroundColor":"#ffffff","currentItemStrokeColor":"#1e1e1e","currentItemBackgroundColor":"transparent","currentItemFillStyle":"solid","currentItemStrokeWidth":2,"currentItemStrokeStyle":"solid","currentItemRoughness":1,"currentItemOpacity":100,"currentItemFontFamily":5,"currentItemFontSize":20,"currentItemTextAlign":"left","currentItemStartArrowhead":null,"currentItemEndArrowhead":"arrow","scrollX":1000.2781548400692,"scrollY":1174.5496891261469,"zoom":{"value":1},"currentItemRoundness":"round","gridSize":null,"gridColor":{"Bold":"#C9C9C9","Regular":"#EDEDED"},"currentStrokeOptions":null,"previousGridSize":null,"frameRendering":{"enabled":true,"clip":true,"name":true,"outline":true},"objectsSnapModeEnabled":false},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("SQL_2024-10-09_1517.33.excalidraw.md2");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>
+
+# Tabellen erstellen
+
+>[!info] Als nächstes erstellen wir ein paar [[wiki/SQL Tabelle\|SQL Tabelle]]n.
+
+```sql
+CREATE TABLE Schueler (
+    schueler_id INT PRIMARY KEY,      -- Primärschlüssel
+    vorname VARCHAR(50),
+    nachname VARCHAR(50),
+    geburtsdatum DATE
+);
+```
+
+```sql
+CREATE TABLE Kurse (
+    kurs_id INT PRIMARY KEY,          -- Primärschlüssel
+    kurs_name VARCHAR(100),
+    lehrer_name VARCHAR(100)
+);
+```
+
+```sql
+CREATE TABLE Einschreibung (
+    einschreibung_id INT PRIMARY KEY, -- Primärschlüssel
+    schueler_id INT,                  -- Fremdschlüssel zu Schueler
+    kurs_id INT,                      -- Fremdschlüssel zu Kurse
+    einschreibedatum DATE,
+    FOREIGN KEY (schueler_id) REFERENCES Schueler(schueler_id),
+    FOREIGN KEY (kurs_id) REFERENCES Kurse(kurs_id)
+);
+```
+
+<div id="SQL_2024-10-10_1359.18.excalidraw.md3"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.3.0","elements":[{"type":"ellipse","version":424,"versionNonce":1904061259,"index":"a0","isDeleted":false,"id":"IY_pQzTFfD6SVrwrFupAL","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-365.8093068469362,"y":-190.04776451739914,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":123.87649400618038,"height":104.66891454936439,"seed":283055333,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561907858,"link":null,"locked":false},{"type":"line","version":467,"versionNonce":450890219,"index":"a1","isDeleted":false,"id":"2rF7QTESijIREJRqj3nCI","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-366.2647351337236,"y":-151.3363601404677,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":1.3662848603622837,"height":128.43077687405463,"seed":139800645,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561907858,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[-1.3662848603622837,128.43077687405463]]},{"type":"line","version":520,"versionNonce":834507915,"index":"a2","isDeleted":false,"id":"tlQbG58TEljvomzhZ-shX","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-242.5076146480841,"y":-150.39844962586662,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":1.3662848603622837,"height":128.43077687405463,"seed":355524517,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561907858,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[-1.3662848603622837,128.43077687405463]]},{"type":"line","version":598,"versionNonce":902875947,"index":"a3","isDeleted":false,"id":"_JOggTbic-CCEchIItuqS","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-365.1227989503717,"y":-107.55503586925815,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":123.42106571939293,"height":26.414840633670813,"seed":497001221,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561907858,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[65.12624501060218,26.414840633670813],[123.42106571939293,2.277141433937139]]},{"type":"line","version":579,"versionNonce":1266953675,"index":"a4","isDeleted":false,"id":"sZwypDuCqbeL2xDPq_7rt","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-366.03365552394666,"y":-82.96190838273705,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":123.42106571939293,"height":26.414840633670813,"seed":1713306213,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561907858,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[65.12624501060218,26.414840633670813],[123.42106571939293,2.277141433937139]]},{"type":"line","version":593,"versionNonce":636632171,"index":"a5","isDeleted":false,"id":"fMjTBFHt81D_Fhd4ES3F6","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-366.03365552394666,"y":-52.448213167979446,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":123.42106571939293,"height":26.414840633670813,"seed":1199334853,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561907858,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[65.12624501060218,26.414840633670813],[123.42106571939293,2.277141433937139]]},{"type":"line","version":618,"versionNonce":820344587,"index":"a6","isDeleted":false,"id":"YK1ttGK_Ppy1STYXTnAnh","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-367.0968996571258,"y":-24.31628975380633,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":123.42106571939293,"height":26.414840633670813,"seed":617964837,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561907858,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[65.12624501060218,26.414840633670813],[123.42106571939293,2.277141433937139]]},{"type":"text","version":442,"versionNonce":2061000107,"index":"a7","isDeleted":false,"id":"hgKEhREb","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-354.7864441406567,"y":-232.12051291460725,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":95.29402160644531,"height":22.771414339371393,"seed":563574917,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1728561907858,"link":null,"locked":false,"fontSize":18.217131471497115,"fontFamily":5,"text":"Datenbank","rawText":"Datenbank","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Datenbank","autoResize":true,"lineHeight":1.25},{"type":"text","version":158,"versionNonce":1593143371,"index":"a8","isDeleted":false,"id":"cABqnY0o","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-328.70220805033307,"y":-150.8226902073786,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":61.31996154785156,"height":25,"seed":394272741,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1728561907858,"link":null,"locked":false,"fontSize":20,"fontFamily":5,"text":"Schule","rawText":"Schule","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Schule","autoResize":true,"lineHeight":1.25},{"type":"rectangle","version":43,"versionNonce":689390987,"index":"a9","isDeleted":false,"id":"gfb9_MfdkeY371euZtX3c","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-95.5,"y":-302.4375,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":248,"height":95,"seed":1948658405,"groupIds":[],"frameId":null,"roundness":{"type":3},"boundElements":[],"updated":1728561575520,"link":null,"locked":false},{"type":"line","version":76,"versionNonce":973079051,"index":"aA","isDeleted":false,"id":"l-uArE5_6Pn2EsHsoZbIs","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-42.5,"y":-302.4375,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":0,"height":94,"seed":1489787947,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561621616,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[0,94]]},{"type":"line","version":103,"versionNonce":81030597,"index":"aB","isDeleted":false,"id":"hK6k81UnEIek629BDpw3K","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":24.568925515301522,"y":-302.2739508800581,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":0,"height":94,"seed":145735045,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561617651,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[0,94]]},{"type":"line","version":108,"versionNonce":2006040235,"index":"aC","isDeleted":false,"id":"onqlkquLELgDim5ahTcf0","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":91.45191780085293,"y":-304.0756080143247,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":0,"height":94,"seed":630314789,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561612586,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[0,94]]},{"type":"line","version":106,"versionNonce":805846091,"index":"aD","isDeleted":false,"id":"WPyUdl-RbZJl79umUSIcP","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-95.5,"y":-280.4375,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":248,"height":1,"seed":86588235,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561635326,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[248,-1]]},{"type":"line","version":168,"versionNonce":920900011,"index":"aE","isDeleted":false,"id":"xt2LdX_8lFHwisru7xXIo","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-96.0519662277028,"y":-255.48539850829172,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":248,"height":1,"seed":1751862437,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561644306,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[248,-1]]},{"type":"line","version":148,"versionNonce":722314891,"index":"aF","isDeleted":false,"id":"VegPrhw5vrqn-8g2kKFyQ","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-96.05196622770282,"y":-233.48539850829172,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":248,"height":1,"seed":502961477,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561651070,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[248,-1]]},{"type":"text","version":37,"versionNonce":1338906827,"index":"aG","isDeleted":false,"id":"W9ZPIsNb","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-95.5,"y":-336.4375,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":80.79994201660156,"height":25,"seed":866356843,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1728561671510,"link":null,"locked":false,"fontSize":20,"fontFamily":5,"text":"Schueler","rawText":"Schueler","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Schueler","autoResize":true,"lineHeight":1.25},{"type":"rectangle","version":195,"versionNonce":453568875,"index":"aH","isDeleted":false,"id":"GkazbWg620_EcmtsLl0LX","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-91.43456622968428,"y":29.0625,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":248,"height":95,"seed":158549061,"groupIds":[],"frameId":null,"roundness":{"type":3},"boundElements":[],"updated":1728561723454,"link":null,"locked":false},{"type":"line","version":228,"versionNonce":144606219,"index":"aI","isDeleted":false,"id":"SjIv3tBB-FNCAzUHocnQ7","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-38.43456622968428,"y":29.0625,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":0,"height":94,"seed":1902932901,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561723454,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[0,94]]},{"type":"line","version":255,"versionNonce":1911016107,"index":"aJ","isDeleted":false,"id":"ph00zjH_dcRzD7YTllW6s","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":28.634359285617222,"y":29.226049119941877,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":0,"height":94,"seed":357086981,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561723454,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[0,94]]},{"type":"line","version":260,"versionNonce":2072984907,"index":"aK","isDeleted":false,"id":"kXZ2uu1YkugHkLp-iOiuW","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":95.51735157116866,"y":27.4243919856753,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":0,"height":94,"seed":797281893,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561723454,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[0,94]]},{"type":"line","version":258,"versionNonce":1357863915,"index":"aL","isDeleted":false,"id":"1v1NY53fmBlxxGLKWjEfZ","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-91.43456622968428,"y":51.0625,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":248,"height":1,"seed":1324382661,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561723454,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[248,-1]]},{"type":"line","version":320,"versionNonce":1309845131,"index":"aM","isDeleted":false,"id":"00k2u3Tn3ZH_jTBBEsVjX","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-91.98653245738709,"y":76.01460149170828,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":248,"height":1,"seed":1286011173,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561723454,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[248,-1]]},{"type":"line","version":300,"versionNonce":1773378859,"index":"aN","isDeleted":false,"id":"O86OG1Gp-Z5DdQsOTWXIl","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-91.9865324573871,"y":98.01460149170828,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":248,"height":1,"seed":35032197,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561723454,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[248,-1]]},{"type":"text","version":191,"versionNonce":67954213,"index":"aO","isDeleted":false,"id":"oF3nVAjE","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-91.43456622968428,"y":-4.9375,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":136.9598846435547,"height":25,"seed":1056748517,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1728562251086,"link":null,"locked":false,"fontSize":20,"fontFamily":5,"text":"Einschreibung ","rawText":"Einschreibung ","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Einschreibung ","autoResize":true,"lineHeight":1.25},{"type":"rectangle","version":177,"versionNonce":359729035,"index":"aQ","isDeleted":false,"id":"1IZMdGwPZqiVw7-7WmXtP","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-93.40565975074657,"y":-134.9375,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":248,"height":95,"seed":2136207467,"groupIds":[],"frameId":null,"roundness":{"type":3},"boundElements":[{"id":"33VwlA7yb9fn7l7dJyAKn","type":"arrow"}],"updated":1728562165724,"link":null,"locked":false},{"type":"line","version":226,"versionNonce":1187502917,"index":"aR","isDeleted":false,"id":"XyQDHyFGdqAzy22EDkt6Y","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-23.405659750746565,"y":-132.9375,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":0,"height":94,"seed":1542499083,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561719605,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[0,94]]},{"type":"line","version":285,"versionNonce":1712728741,"index":"aS","isDeleted":false,"id":"Ao2oSoaiX02XedrmbcgDO","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":76.66326576455494,"y":-130.77395088005812,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":0,"height":94,"seed":106762667,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561719605,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[0,94]]},{"type":"line","version":239,"versionNonce":1503890949,"index":"aU","isDeleted":false,"id":"NiBNY3Ou7JEF_qUgTlHlH","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-93.40565975074657,"y":-112.9375,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":248,"height":1,"seed":1073668843,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561719605,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[248,-1]]},{"type":"line","version":301,"versionNonce":1886225765,"index":"aV","isDeleted":false,"id":"GktBsl99RRnO4cOQpoo_Z","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-93.95762597844939,"y":-87.98539850829172,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":248,"height":1,"seed":1603882379,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561719605,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[248,-1]]},{"type":"line","version":281,"versionNonce":1036095685,"index":"aW","isDeleted":false,"id":"TMV_nLfFrIILCHRGBKIW8","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-93.95762597844939,"y":-65.98539850829172,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":248,"height":1,"seed":30237739,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728561719605,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[248,-1]]},{"type":"text","version":176,"versionNonce":2021928363,"index":"aX","isDeleted":false,"id":"J72f255N","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-93.40565975074657,"y":-168.9375,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":52.71995544433594,"height":25,"seed":2122688203,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1728561890912,"link":null,"locked":false,"fontSize":20,"fontFamily":5,"text":"Kurse","rawText":"Kurse","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Kurse","autoResize":true,"lineHeight":1.25},{"type":"text","version":113,"versionNonce":1860970635,"index":"aa","isDeleted":false,"id":"jZZDUmX3","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-87.18636186675946,"y":-297.4667424683209,"strokeColor":"#3600fa","backgroundColor":"transparent","width":41.2626953125,"height":14.044091280292951,"seed":1172994379,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[{"id":"o2NGM_YruF8oWjoAqg5DG","type":"arrow"}],"updated":1728562137125,"link":null,"locked":false,"fontSize":11.235273024234361,"fontFamily":5,"text":"PK_key","rawText":"PK_key","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"PK_key","autoResize":true,"lineHeight":1.25},{"type":"text","version":108,"versionNonce":467129637,"index":"aq","isDeleted":false,"id":"b61LIRMY","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-76.57848940633022,"y":-130.68741434046277,"strokeColor":"#3600fa","backgroundColor":"transparent","width":41.2626953125,"height":14.044091280292951,"seed":1928090821,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1728561801786,"link":null,"locked":false,"fontSize":11.235273024234361,"fontFamily":5,"text":"PK_key","rawText":"PK_key","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"PK_key","autoResize":true,"lineHeight":1.25},{"type":"text","version":129,"versionNonce":768877579,"index":"ay","isDeleted":false,"id":"sfFaV1fD","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-83.04025746247191,"y":33.92122134276161,"strokeColor":"#3600fa","backgroundColor":"transparent","width":41.2626953125,"height":14.044091280292951,"seed":2118986117,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[{"id":"o2NGM_YruF8oWjoAqg5DG","type":"arrow"}],"updated":1728562150181,"link":null,"locked":false,"fontSize":11.235273024234361,"fontFamily":5,"text":"PK_key","rawText":"PK_key","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"PK_key","autoResize":true,"lineHeight":1.25},{"type":"text","version":229,"versionNonce":354271691,"index":"b08","isDeleted":false,"id":"AZR3NI5U","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-83.74261446466664,"y":56.971538629615566,"strokeColor":"#12d957","backgroundColor":"transparent","width":38.87571716308594,"height":13.104809062045799,"seed":1139434917,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[{"id":"o2NGM_YruF8oWjoAqg5DG","type":"arrow"}],"updated":1728562137125,"link":null,"locked":false,"fontSize":10.48384724963664,"fontFamily":5,"text":"FR_key","rawText":"FR_key","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"FR_key","autoResize":true,"lineHeight":1.25},{"type":"text","version":191,"versionNonce":1496768715,"index":"b09","isDeleted":false,"id":"ANzRaSC5","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-84.15854470054649,"y":80.01900340351972,"strokeColor":"#12d957","backgroundColor":"transparent","width":38.87571716308594,"height":13.104809062045799,"seed":2147301899,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[{"id":"33VwlA7yb9fn7l7dJyAKn","type":"arrow"}],"updated":1728562165724,"link":null,"locked":false,"fontSize":10.48384724963664,"fontFamily":5,"text":"FR_key","rawText":"FR_key","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"FR_key","autoResize":true,"lineHeight":1.25},{"type":"line","version":88,"versionNonce":991986405,"index":"b0K","isDeleted":false,"id":"27ipKmT9nX8Xa-YS4lvRN","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-244.07523986635448,"y":-85.27227775239473,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":148.82156511643853,"height":169.37702991152673,"seed":1416729765,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728562081228,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[148.82156511643853,-169.37702991152673]]},{"type":"line","version":142,"versionNonce":1058008773,"index":"b0L","isDeleted":false,"id":"TphduWKCncMS2IXRQX_RG","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-242.4308026827474,"y":-85.68338704829651,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":149.64378370824204,"height":8.633295213937032,"seed":70835781,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728562093971,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[149.64378370824204,-8.633295213937032]]},{"type":"line","version":180,"versionNonce":1622767691,"index":"b0M","isDeleted":false,"id":"VELMrY_6sF6jvvvs2ingo","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-242.0196933868457,"y":-87.32782423190355,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":150.05489300414382,"height":163.62149976890203,"seed":1393544741,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1728562119193,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":null,"points":[[0,0],[150.05489300414382,163.62149976890203]]},{"type":"arrow","version":268,"versionNonce":2105940773,"index":"b0N","isDeleted":false,"id":"o2NGM_YruF8oWjoAqg5DG","fillStyle":"solid","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-92.18636186675946,"y":-290.54469682817444,"strokeColor":"#6741d9","backgroundColor":"transparent","width":38.44374740209281,"height":353.9686399888129,"seed":1948918155,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1728562211036,"link":null,"locked":false,"startBinding":{"elementId":"jZZDUmX3","focus":0.014240864432481362,"gap":5,"fixedPoint":[-0.12189188344683821,0.4928795677837593]},"endBinding":{"elementId":"AZR3NI5U","focus":0.015261572988438337,"gap":5,"fixedPoint":[-0.12935300111607329,0.49236921350578083]},"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":"arrow","points":[[0,0],[-35,0],[-35,353.9686399888129],[3.4437474020928107,353.9686399888129]],"elbowed":true},{"type":"arrow","version":101,"versionNonce":208442789,"index":"b0O","isDeleted":false,"id":"33VwlA7yb9fn7l7dJyAKn","fillStyle":"solid","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-98.40565975074657,"y":-123.50544227125877,"strokeColor":"#6741d9","backgroundColor":"transparent","width":44.24711505020008,"height":209.97685020580138,"seed":1227759851,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1728562204475,"link":null,"locked":false,"startBinding":{"elementId":"1IZMdGwPZqiVw7-7WmXtP","focus":0.7593251004475527,"gap":5,"fixedPoint":[-0.020161290322580645,0.12033744977622345]},"endBinding":{"elementId":"ANzRaSC5","focus":0.015261572988442678,"gap":5,"fixedPoint":[-0.12935300111607329,0.49236921350577867]},"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":"arrow","points":[[0,0],[-35,0],[-35,209.97685020580138],[9.24711505020008,209.97685020580138]],"elbowed":true}],"appState":{"theme":"dark","viewBackgroundColor":"#ffffff","currentItemStrokeColor":"#6741d9","currentItemBackgroundColor":"transparent","currentItemFillStyle":"solid","currentItemStrokeWidth":1,"currentItemStrokeStyle":"solid","currentItemRoughness":1,"currentItemOpacity":100,"currentItemFontFamily":5,"currentItemFontSize":20,"currentItemTextAlign":"left","currentItemStartArrowhead":null,"currentItemEndArrowhead":"arrow","scrollX":787.3940194439703,"scrollY":434.46875,"zoom":{"value":1},"currentItemRoundness":"round","gridSize":null,"gridColor":{"Bold":"#C9C9C9","Regular":"#EDEDED"},"currentStrokeOptions":null,"previousGridSize":null,"frameRendering":{"enabled":true,"clip":true,"name":true,"outline":true},"objectsSnapModeEnabled":false},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("SQL_2024-10-10_1359.18.excalidraw.md3");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>
+
+>[!info] Die [[wiki/SQL Tabelle\|SQL Tabelle]]n wurden erstellt, sind aber noch leer.
+
+# Werten in die Tabellen einsetzen
+
+>Mit [[wiki/SQL INSERT\|SQL INSERT]] können wir [[wiki/SQL Zeile\|SQL Zeile]]n in die [[wiki/SQL Spalte\|SQL Spalte]]n einsetzen.
+
+```sql
+INSERT INTO Schueler (schueler_id, vorname, nachname, geburtsdatum) VALUES
+(1, 'Max', 'Muster', '2005-04-15'),
+(2, 'Anna', 'Beispiel', '2006-05-20'),
+(3, 'Tom', 'Schneider', '2004-08-12'),
+(4, 'Lisa', 'Müller', '2005-11-01');
+```
+
+```sql
+INSERT INTO Kurse (kurs_id, kurs_name, lehrer_name) VALUES
+(1, 'Mathematik', 'Schmidt'),
+(2, 'Deutsch', 'Müller'),
+(3, 'Biologie', 'Wagner'),
+(4, 'Chemie', 'Schmidt');
+```
+
+```sql
+INSERT INTO Einschreibung (einschreibung_id, schueler_id, kurs_id, einschreibedatum) VALUES
+(1, 1, 1, '2023-09-01')
+(2, 1, 2, '2023-09-01'),
+(3, 2, 1, '2023-09-01'), 
+(4, 3, 3, '2023-09-01'),  
+(5, 4, 4, '2023-09-01');  
+```
+
+So sehen die [[wiki/SQL Tabelle\|SQL Tabelle]]n aus (in Tabell Format):
+
+Schueler:
+
+| schueler_id | vorname | nachname  | geburtsdatum |
+| :---------: | :-----: | :-------: | :----------: |
+|      1      |   Max   |  Muster   |  2005-04-15  |
+|      2      |  Anna   | Beispiel  |  2006-05-20  |
+|      3      |   Tom   | Schneider |  2004-08-12  |
+|      4      |  Lisa   |  Müller   |  2005-11-01  |
+
+Kurse:
+ 
+| kurs_id | kurs_name  | lehrer_name |
+| :-----: | :--------: | :---------: |
+|    1    | Mathematik |   Schmidt   |
+|    2    |  Deutsch   |   Müller    |
+|    3    |  Biologie  |   Wagner    |
+|    4    |   Chemie   |   Schmidt   |
+
+Einschreibung:
+
+| einschreibung_id | schueler_id | kurs_id | einschreibedatum |
+| :--------------: | :---------: | :-----: | :--------------: |
+|        1         |      1      |    1    |    2023-09-01    |
+|        2         |      1      |    2    |    2023-09-01    |
+|        3         |      2      |    1    |    2023-09-01    |
+|        4         |      3      |    3    |    2023-09-01    |
+|        5         |      4      |    4    |    2023-09-01    |
+
+>[!note] 
+>Jetzt wissen wir, wie man eine Datenbank erstellt und wie man Tabellen erstellt.
+>Nun.... Wie lesen wir die Werte?
+>>Das lernen wir gleich 😊
+
+
+
+# Tabellen bearbeiten - ALTER
+
+>[!info] 
+>Mit [[wiki/SQL ALTER\|SQL ALTER]] kannst du die Struktur einer bereits existierenden [[wiki/SQL Tabelle\|SQL Tabelle]] ändern.
+>>Du kannst [[wiki/SQL Spalte\|SQL Spalte]]n hinzufügen, entfernen, umbenennen oder deren Datentyp ändern.
+
+## Spalte hinzufügen
+```sql
+ALTER TABLE Schueler 
+ADD email VARCHAR(100);
+````
+
+> [!example] Unsere Schueler-Tabelle bekommt jetzt eine neue Spalte "email":
+
+|schueler_id|vorname|nachname|geburtsdatum|email|
+|:-:|:-:|:-:|:-:|:-:|
+|1|Max|Muster|2005-04-15|NULL|
+|2|Anna|Beispiel|2006-05-20|NULL|
+|3|Tom|Schneider|2004-08-12|NULL|
+|4|Lisa|Müller|2005-11-01|NULL|
+
+## Spalte entfernen
+
+```sql
+ALTER TABLE Schueler 
+DROP COLUMN email;
+```
+
+## Spalte umbenennen
+
+```sql
+ALTER TABLE Schueler 
+RENAME COLUMN vorname TO first_name;
+```
+
+## Datentyp ändern
+
+```sql
+ALTER TABLE Schueler 
+MODIFY nachname VARCHAR(75);
+```
+
+> [!important] Bei [[wiki/SQL ALTER\|SQL ALTER]] solltest du vorsichtig sein! Änderungen an der Tabellenstruktur können Daten verloren gehen lassen. Mache immer ein Backup bevor du ALTER verwendest.
+
+> [!note] [[wiki/SQL ALTER\|SQL ALTER]] ist besonders nützlich wenn deine [[wiki/SQL Datenbank\|SQL Datenbank]] bereits produktiv läuft und du nachträglich Änderungen brauchst.
+
+```
+
+Diese Ergänzung fügt sich nahtlos in deine bestehende SQL-Notiz ein und folgt deinem Stil mit praktischen Beispielen und der gleichen Formatierung.
+```
+
+
+# Werten anpassen / updaten
+
+> [!info] Mit [[wiki/SQL UPDATE\|SQL UPDATE]] kannst du bereits existierende Daten in einer [[wiki/SQL Tabelle\|SQL Tabelle]] ändern.
+> 
+> > Du bearbeitest die Werte in den [[wiki/SQL Spalte\|SQL Spalte]]n, ohne neue [[wiki/SQL Zeile\|SQL Zeile]]n hinzuzufügen.
+
+```sql
+UPDATE Schueler 
+SET vorname = 'Maximilian' 
+WHERE schueler_id = 1;
+```
+
+> [!example] Vorher:
+
+| schueler_id | vorname | nachname | geburtsdatum |
+| :---------: | :-----: | :------: | :----------: |
+|      1      |   Max   |  Muster  |  2005-04-15  |
+|      2      |  Anna   | Beispiel |  2006-05-20  |
+
+> [!example] Nachher:
+
+| schueler_id |  vorname   | nachname | geburtsdatum |
+| :---------: | :--------: | :------: | :----------: |
+|      1      | Maximilian |  Muster  |  2005-04-15  |
+|      2      |    Anna    | Beispiel |  2006-05-20  |
+
+## Mehrere Spalten gleichzeitig ändern
+
+```sql
+UPDATE Schueler 
+SET vorname = 'Maximilian', 
+    nachname = 'Mustermann' 
+WHERE schueler_id = 1;
+```
+
+## Alle Zeilen ändern
+
+```sql
+UPDATE Kurse 
+SET lehrer_name = 'Neu';
+```
+
+> [!important] Ohne [[wiki/SQL WHERE\|SQL WHERE]] wird **ALLES** geändert! Immer WHERE verwenden, außer du willst wirklich alle [[wiki/SQL Zeile\|SQL Zeile]]n ändern.
+
+> [!note] [[wiki/SQL UPDATE\|SQL UPDATE]] ändert nur existierende Daten. Für neue Daten nutze [[wiki/SQL INSERT\|SQL INSERT]].
+
+
+# Werten löschen / entfernen
+
+> [!info] Mit [[wiki/SQL DELETE\|SQL DELETE]] kannst du komplette [[wiki/SQL Zeile\|SQL Zeile]]n aus einer [[wiki/SQL Tabelle\|SQL Tabelle]] entfernen.
+> 
+> > Du löschst ganze Datensätze, nicht nur einzelne [[wiki/SQL Spalte\|SQL Spalte]]n.
+
+```sql
+DELETE FROM Schueler 
+WHERE schueler_id = 1;
+```
+
+> [!example] Vorher:
+
+| schueler_id | vorname | nachname  | geburtsdatum |
+| :---------: | :-----: | :-------: | :----------: |
+|      1      |   Max   |  Muster   |  2005-04-15  |
+|      2      |  Anna   | Beispiel  |  2006-05-20  |
+|      3      |   Tom   | Schneider |  2004-08-12  |
+
+> [!example] Nachher:
+
+| schueler_id | vorname | nachname  | geburtsdatum |
+| :---------: | :-----: | :-------: | :----------: |
+|      2      |  Anna   | Beispiel  |  2006-05-20  |
+|      3      |   Tom   | Schneider |  2004-08-12  |
+
+## Mehrere Zeilen löschen
+
+```sql
+DELETE FROM Schueler 
+WHERE YEAR(geburtsdatum) < 2005;
+```
+
+## Alle Zeilen löschen
+
+```sql
+DELETE FROM Kurse;
+```
+
+> [!important] Ohne [[wiki/SQL WHERE\|SQL WHERE]] wird **ALLES** gelöscht! Die [[wiki/SQL Tabelle\|SQL Tabelle]] bleibt bestehen, aber komplett leer.
+
+> [!note] [[wiki/SQL DELETE\|SQL DELETE]] löscht komplette Datensätze. Für einzelne [[wiki/SQL Spalte\|SQL Spalte]]n nutze [[wiki/SQL UPDATE\|SQL UPDATE]] mit NULL.
+
+# Werte aus den Tabellen extrahieren
+>Bevor wir anfangen, ist es wichtig zu verstehen, wie [[wiki/SQL\|SQL]] unter der Haube funktioniert.
+>>Es ist dir wahrscheinlich aufgefallen, dass [[wiki/SQL\|SQL]] mit [[wiki/SQL Tabelle\|SQL Tabelle]]n arbeitet.  
+>>Jede [[wiki/SQL Tabelle\|SQL Tabelle]] hat ihre eigenen [[wiki/SQL Spalte\|SQL Spalte]]n ([[wiki/Variable\|Variable]]n) und kann mit [[wiki/SQL SELECT\|SQL SELECT]] und [[wiki/SQL FROM\|SQL FROM]] abgefragt werden.
+
+```sql
+SELECT *
+FROM Tabellename;
+```
+
+
+In unserem Bsp würde es so aussehen:
+```sql
+SELECT *
+FROM Schueler;
+``` 
+
+| schueler_id | vorname | nachname  | geburtsdatum |
+| :---------: | :-----: | :-------: | :----------: |
+|      1      |   Max   |  Muster   |  2005-04-15  |
+|      2      |  Anna   | Beispiel  |  2006-05-20  |
+|      3      |   Tom   | Schneider |  2004-08-12  |
+|      4      |  Lisa   |  Müller   |  2005-11-01  |
+
+>[!info] [[wiki/SQL WHERE\|SQL WHERE]]
+>Es ist das **IF** in [[wiki/SQL\|SQL]].
+
+>Alle Schüler, die vor 2005 geboren sind:
+
+```sql
+SELECT vorname, nachname, geburtsdatum
+FROM Schueler
+WHERE geburtsdatum <= '2005-12-31';
+```
+
+**ODER**
+
+```sql
+SELECT vorname, nachname, geburtsdatum
+FROM Schueler
+WHERE YEAR(geburtsdatum) <= 2005;
+```
+
+___
+>[!info] 
+>Jetzt, wo du die Grundlagen von SQL gelernt hast,
+>ist es Zeit für die Vertiefung des Themas.
+>>Ab hier wirst du bestimmte Anweisungen, Syntax und noch viel mehr lernen.
+
+# SQL Algorithmus
+>Es gibt unendlich viele Wege, um eine Aufgabe in SQL zu lösen.
+>Ich zeige dir, wie **ich** es immer mache.
+
+Patient:
+
+| patient_ID | first_name | last_name | birthdate  |
+| ---------- | ---------- | --------- | ---------- |
+| 1          | Max        | Müller    | 1980-01-15 |
+| 2          | Maria      | Doe       | 1975-09-10 |
+| 3          | Lux        | Schmitz   | 1992-05-22 |
+Weight:
+
+| weight_ID | patient_ID | date       | kg   |
+| --------- | ---------- | ---------- | ---- |
+| 1         | 1          | 2024-10-10 | 82.5 |
+| 2         | 1          | 2024-11-15 | 80.0 |
+| 3         | 2          | 2024-10-05 | 68.4 |
+| 4         | 3          | 2024-10-12 | 90.2 |
+
+>[!note] Aufgabe
+>Erstelle eine SQL-Abfrage, die den Vornamen, Nachnamen, das Datum und das Gewicht (kg) jedes Patienten anzeigt.
+
+1. Welche [[wiki/SQL Spalte\|SQL Spalte]]n sind hier gefragt ?
+   >Vorname, Nachname, Datum und KG
+   >>Diese füge ich in den [[wiki/SQL SELECT\|SQL SELECT]] ein.
+   
+```sql
+SELECT Patient.first_name, Patient.last_name, Weight.date, Weight.kg
+```
+   
+| patient_ID | <mark style="background: #FFF3A3A6;">first_name</mark> | <mark style="background: #FFF3A3A6;">last_name</mark> | birthdate  |
+| ---------- | ------------------------------------------------------ | ----------------------------------------------------- | ---------- |
+| 1          | Max                                                    | Müller                                                | 1980-01-15 |
+| 2          | Maria                                                  | Doe                                                   | 1975-09-10 |
+| 3          | Lux                                                    | Schmitz                                               | 1992-05-22 |
+
+| weight_ID | patient_ID | <mark style="background: #FFF3A3A6;">date</mark> | <mark style="background: #FFF3A3A6;">kg</mark> |
+| --------- | ---------- | ------------------------------------------------ | ---------------------------------------------- |
+| 1         | 1          | 2024-10-10                                       | 82.5                                           |
+| 2         | 1          | 2024-11-15                                       | 80.0                                           |
+| 3         | 2          | 2024-10-05                                       | 68.4                                           |
+| 4         | 3          | 2024-10-12                                       | 90.2                                           |
+2. Welche Tabellen werden hier benötigt?
+   >Patient und Weight
+   >>Diese füge ich in den [[wiki/SQL FROM\|SQL FROM]] ein.
+   
+```sql
+SELECT Patient.first_name, Patient.last_name, Weight.date, Weight.kg
+FROM Patient, Weight
+```
+
+3. Welche Bedingungen müssen erfüllt werden?
+   >Bei dieser Aufgabe müssen die `patient_ID` und `weight_ID` übereinstimmen.
+   >>Diese Bedingung kommt in den [[wiki/SQL WHERE\|SQL WHERE]].
+   
+```sql
+SELECT Patient.first_name, Patient.last_name, Weight.date, Weight.kg
+FROM Patient, Weight
+WHERE Patient.patient_ID = Weight.patient_ID; 
+```
+
+>[!note] und das war's!!!
+
+## JOINs
+>Wir haben gelernt, dass man mit [[wiki/SQL FROM\|SQL FROM]] und [[wiki/SQL WHERE\|SQL WHERE]] eine Verbindung zwischen [[wiki/SQL Tabelle\|SQL Tabelle]] herstellen kann, indem man die [[wiki/Primary Key\|Primärschlüssel]] verwendet, um nur die relevanten [[wiki/Datensatz\|Datensätze]] zu filtern. 
+>>Im Vergleich dazu ermöglicht ein **[[wiki/INNER JOIN\|INNER JOIN]]** eine klarere und effizientere Methode zur Verknüpfung von Tabellen, indem die Beziehung zwischen ihnen explizit definiert wird, wodurch die Abfrage lesbarer und die Verarbeitungsgeschwindigkeit optimiert wird.
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/wiki/sql-join/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+>JOINs in [[wiki/SQL\|SQL]] sind Befehle, um [[wiki/SQL Tabelle\|SQL Tabelle]]n miteinander zu verbinden.
+>>Mit JOINs kann man spezifische Verknüpfungen zwischen Tabellen herstellen, wie [[wiki/INNER JOIN\|INNER JOIN]], [[wiki/LEFT JOIN\|LEFT JOIN]] und [[wiki/RIGHT JOIN\|RIGHT JOIN]], die es ermöglichen, Daten gezielt auszuwählen und nur die relevanten Zeilen anzuzeigen.
+>><mark style="background: #FFF3A3A6;">Dies verbessert nicht nur die Lesbarkeit der Abfragen, sondern auch die Effizienz, da nur die notwendigen Daten verarbeitet werden.</mark>
+>>Durch die Verwendung von JOINs wird die Datenbankabfrage klar strukturiert, was die Wartung und das Verständnis der Abfragen erleichtert.
+
+```
+JOIN-Typen Übersicht:
+
+          Tabelle A          Tabelle B
+          ┌────────┐         ┌────────┐
+          │   A    │         │   B    │
+          └────────┘         └────────┘
+               │                  │
+               └────────┬─────────┘
+                        │
+         ┌──────────────┼──────────────┐
+         │              │              │
+    ┌────▼────┐    ┌───▼────┐    ┌───▼─────┐
+    │ INNER   │    │ LEFT   │    │ RIGHT   │
+    │ JOIN    │    │ JOIN   │    │ JOIN    │
+    └─────────┘    └────────┘    └─────────┘
+
+Visuelle Darstellung - INNER JOIN:
+
+Tabelle A: Schueler          Tabelle B: Kurse
+┌────┬─────────┐             ┌────┬──────────┐
+│ ID │ Name    │             │ ID │ Kursname │
+├────┼─────────┤             ├────┼──────────┤
+│ 1  │ Max     │             │ 1  │ Math     │
+│ 2  │ Anna    │             │ 2  │ Deutsch  │
+└────┴─────────┘             └────┴──────────┘
+       │                            │
+       └─────────┬──────────────────┘
+                 │
+      Tabelle C: Einschreibung
+      ┌───────────┬─────────┐
+      │ SchuelerID│ KursID  │
+      ├───────────┼─────────┤
+      │     1     │    1    │
+      │     1     │    2    │
+      │     2     │    1    │
+      └───────────┴─────────┘
+
+SELECT Schueler.Name, Kurse.Kursname
+FROM Schueler
+INNER JOIN Einschreibung ON Schueler.ID = Einschreibung.SchuelerID
+INNER JOIN Kurse ON Einschreibung.KursID = Kurse.ID;
+
+Ergebnis:
+┌─────────┬──────────┐
+│ Name    │ Kursname │
+├─────────┼──────────┤
+│ Max     │ Math     │
+│ Max     │ Deutsch  │
+│ Anna    │ Math     │
+└─────────┴──────────┘
+
+Venn-Diagramme der JOINs:
+
+INNER JOIN:              LEFT JOIN:               RIGHT JOIN:
+  ┌───┐ ┌───┐           ┌───┐ ┌───┐              ┌───┐ ┌───┐
+  │ A │ │ B │           │ A │ │ B │              │ A │ │ B │
+  └─┬─┘ └─┬─┘           └─┬─┘ └─┬─┘              └─┬─┘ └─┬─┘
+    │ ███ │               │████████                ███████ │
+    └─────┘               └─────┘                  └─────┘
+   Nur         Alles von A +      Alles von B +
+   Überschneidung  Überschneidung   Überschneidung
+
+FULL OUTER JOIN:         CROSS JOIN:
+  ┌───┐ ┌───┐           ┌───┐ ┌───┐
+  │ A │ │ B │           │ A │ │ B │
+  └─┬─┘ └─┬─┘           └─┬─┘ └─┬─┘
+████████████              Jede Zeile von A
+                         mit jeder Zeile von B
+```
+
+## Die JOIN-Typen
+
+>[!summary] Übersicht
+>- **[[wiki/INNER JOIN\|INNER JOIN]]**: Nur übereinstimmende Zeilen
+>- **[[wiki/LEFT JOIN\|LEFT JOIN]]**: Alle Zeilen von links + Übereinstimmungen
+>- **[[wiki/RIGHT JOIN\|RIGHT JOIN]]**: Alle Zeilen von rechts + Übereinstimmungen
+>- **FULL OUTER JOIN**: Alle Zeilen von beiden Tabellen
+>- **CROSS JOIN**: Kartesisches Produkt (jede mit jeder)
+
+## Syntax-Vergleich
+
+>[!example] INNER JOIN
+>```sql
+>SELECT s.name, k.kursname
+>FROM Schueler s
+>INNER JOIN Kurse k ON s.kurs_id = k.id;
+>```
+
+>[!example] LEFT JOIN
+>```sql
+>SELECT s.name, k.kursname
+>FROM Schueler s
+>LEFT JOIN Kurse k ON s.kurs_id = k.id;
+>```
+
+>[!example] Alte Syntax (mit WHERE)
+>```sql
+>-- Funktioniert, aber NICHT empfohlen
+>SELECT s.name, k.kursname
+>FROM Schueler s, Kurse k
+>WHERE s.kurs_id = k.id;
+>```
+
+>[!important] Prüfungsrelevant
+>**JOIN vs WHERE:**
+>- JOIN ist EXPLIZIT und LESBAR
+>- WHERE ist IMPLIZIT und schwerer zu verstehen
+>- Moderne SQL nutzt JOIN
+>
+>**Wichtigste JOIN-Typen:**
+>1. **INNER JOIN**: Standard, nur Übereinstimmungen
+>2. **LEFT JOIN**: Wichtig für "auch wenn keine Zuordnung"
+>3. **RIGHT JOIN**: Selten genutzt (meist umgedreht als LEFT)
+>
+>**ON vs USING:**
+>- `ON`: Flexibel, verschiedene Spaltennamen
+>- `USING`: Nur wenn Spalten gleich heißen
+
+>[!tip] Best Practices
+>1. **Tabellen-Aliase verwenden**
+>   ```sql
+>   FROM Schueler s  -- ✓ Kurz und lesbar
+>   JOIN Kurse k     -- ✓
+>   ```
+>
+>2. **JOIN statt WHERE**
+>   ```sql
+>   -- ✓ RICHTIG
+>   FROM A JOIN B ON A.id = B.a_id
+>
+>   -- ✗ VERALTET
+>   FROM A, B WHERE A.id = B.a_id
+>   ```
+>
+>3. **Reihenfolge beachten**
+>   - Größte Tabelle zuerst
+>   - Dann kleinere Tabellen joinen
+
+>[!note] Siehe auch
+>- [[wiki/INNER JOIN\|INNER JOIN]] - Nur Übereinstimmungen
+>- [[wiki/LEFT JOIN\|LEFT JOIN]] - Alle von links
+>- [[wiki/RIGHT JOIN\|RIGHT JOIN]] - Alle von rechts
+>- [[wiki/How to multiple Joins\|How to multiple Joins]]
+>- [[wiki/SQL FROM\|SQL FROM]] - Tabellen auswählen
+>- [[wiki/SQL WHERE\|SQL WHERE]] - Filtern nach JOIN
+
+</div></div>
+
+
+## GROUP BY
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/wiki/sql-group-by/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+> Befehl wird verwendet, um [[wiki/SQL Zeile\|SQL Zeile]]n zu gruppieren, die gleiche Werte in bestimmten [[wiki/SQL Spalte\|SQL Spalte]]n haben. Oft mit Aggregatfunktionen wie COUNT, SUM, AVG verwendet.
+
+```sql
+-- Grundlegende Gruppierung
+SELECT Spalte_Name, COUNT(*)
+FROM Tabell_Name
+GROUP BY Spalte_Name;
+```
+
+```sql
+-- Mit mehreren Spalten
+SELECT Spalte1, Spalte2, COUNT(*)
+FROM Tabell_Name
+GROUP BY Spalte1, Spalte2;
+```
+
+```sql
+-- Mit Aggregatfunktionen
+SELECT lehrer_name, COUNT(*) as anzahl_kurse
+FROM Kurse
+GROUP BY lehrer_name;
+```
+
+> [!note] GROUP BY fasst gleiche Werte zusammen und zählt/berechnet sie.
+
+
+</div></div>
+
+
+## Having
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/wiki/sql-having/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+> Befehl wird verwendet, um Bedingungen auf gruppierte Daten anzuwenden. Funktioniert wie [[wiki/SQL WHERE\|SQL WHERE]], aber für [[wiki/SQL GROUP BY\|SQL GROUP BY]] Ergebnisse.
+
+```sql
+-- Grundlegende HAVING Bedingung
+SELECT Spalte_Name, COUNT(*)
+FROM Tabell_Name
+GROUP BY Spalte_Name
+HAVING COUNT(*) > 1;
+```
+
+```sql
+-- Mit verschiedenen Aggregatfunktionen
+SELECT lehrer_name, COUNT(*) as anzahl
+FROM Kurse
+GROUP BY lehrer_name
+HAVING COUNT(*) >= 2;
+```
+
+```sql
+-- Kombiniert mit WHERE
+SELECT spalte, AVG(wert)
+FROM tabelle
+WHERE bedingung = 'wert'
+GROUP BY spalte
+HAVING AVG(wert) > 50;
+```
+
+> [!note] WHERE filtert vor GROUP BY, HAVING filtert nach GROUP BY.
+
+</div></div>

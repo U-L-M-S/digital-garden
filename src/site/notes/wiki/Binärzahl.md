@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/binaerzahl/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2026-07-11T09:07:46.326+02:00","dg-note-properties":{"aliases":["Binär"],"created":"2023-09-14 10:11","links":null,"tags":["mathe/binärzahlen"]}}
+{"dg-publish":true,"permalink":"/wiki/binaerzahl/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2026-07-11T19:50:22.930+02:00","dg-note-properties":{"aliases":["Binär"],"created":"2023-09-14 10:11","links":null,"tags":["mathe/binärzahlen"]}}
 ---
 
 >Es ist ein Zahlsystem, bei dem man nur **zwei** Zahlen benutzt (1 und 0). 
@@ -241,3 +241,50 @@ Also ist **11010110** in Hexadezimal **D6**.
 
 
 </div></div>
+
+
+# Overflow & Underflow
+
+Wenn eine Zahl **außerhalb** des darstellbaren Bereichs liegt:
+
+| Situation | Beispiel | Folge |
+| :--- | :--- | :--- |
+| **Overflow** (zu groß) | Speicher für 4 Bit: max $2^4 - 1 = 15$. Berechnung ergibt 20. | Bits, die nicht passen, gehen verloren. Oft wird die Zahl „umgebrochen" (modulo). |
+| **Underflow** (zu klein) | Mit vorzeichenlosen Zahlen: 3 − 5 geben können? | Ungültig oder zyklisches Verhalten |
+
+> [!example] 4-Bit-Overflow
+> $1111_2 = 15$, addiere 1 → sollte 16 sein, passt aber nicht in 4 Bit. Mit zyklischem Verhalten: $15 + 1 \mod 2^4 = 0$ (Bits sind `0000`).
+
+# Zweierkomplement (für negative Zahlen)
+
+Um mit **negativen** Zahlen rechnen zu können, nutzt man das [[Zweierkomplement\|Zweierkomplement]]:
+
+- **Positive Zahlen** (MSB = 0): ganz normal.
+- **Negative Zahlen** (MSB = 1): alle Bits flippen + 1 addieren.
+
+| Dezimal | 8-Bit Binär (Zweierkomplement) |
+| :--- | :--- |
+| +5 | `0000 0101` |
+| −5 | flip: `1111 1010` + 1 = `1111 1011` |
+| +127 | `0111 1111` (max, MSB=0) |
+| −128 | `1000 0000` (min, MSB=1) |
+
+**Vorteil:** Subtraktion funktioniert wie Addition (−5 addieren = +5 subtrahieren). Die CPU braucht keine separate Subtrakt-Schaltung.
+
+# Shift-Operationen
+
+Mit [[Shift\|Shift]]-Befehlen verschieben sich die Bits um mehrere Positionen:
+
+- **Links-Shift** (`<<`): Bits nach links, rechts Nullen einfügen → entspricht Multiplikation mit 2.
+  ```
+  1101 << 1  =  1010  (14 − 26, aber nur 4 Bit: Overflow)
+  ```
+- **Rechts-Shift** (`>>`): Bits nach rechts, links je nach Variante:
+  - **Logisch:** Nullen einfügen (für vorzeichenlose Zahlen).
+  - **Arithmetisch:** MSB kopieren (für Zweierkomplement, erhält Vorzeichen).
+  ```
+  1101 >> 1  =  1110  (arithmetisch, -3 >> 1 = -2)
+  1101 >> 1  =  0110  (logisch, 13 >> 1 = 6)
+  ```
+
+- **Rotation:** Das rausgeschobene Bit kommt am anderen Ende wieder rein.

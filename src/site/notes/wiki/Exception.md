@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/exception/","tags":["informatik/programmierung","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"tags":["informatik/programmierung","GFN/prüfungsrelevant/AP2"],"aliases":["Ausnahme","Fehlerbehandlung","Exception Handling"],"links":null,"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/wiki/exception/","tags":["informatik/programmierung","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-11T09:06:05.543+02:00","dg-note-properties":{"tags":["informatik/programmierung","GFN/prüfungsrelevant/AP2"],"aliases":["Ausnahme","Fehlerbehandlung","Exception Handling"],"links":null,"created_date":"2025-11-12"}}
 ---
 
 >Eine Exception (Ausnahme) ist ein Ereignis, das während der Programmausführung auftritt und den normalen Ablauf des Programms unterbricht.
@@ -144,6 +144,39 @@ Methode A               Methode B
 >
 ># ZeroDivisionError
 >result = 10 / 0  # ← Division durch Null!
+>```
+
+## Häufige Python-Exceptions
+
+>In [[wiki/Python\|Python]] wirft der [[wiki/Interpreter\|Interpreter]] je nach Fehler eine bestimmte Exception. Die wichtigsten zum Nachschlagen:
+
+| Exception | wann |
+| :--- | :--- |
+| `KeyError` | [[wiki/Python Dictionary\|Dict]]-Schlüssel existiert nicht |
+| `IndexError` | [[wiki/Python Liste\|Listen]]-Index außerhalb des Bereichs |
+| `ValueError` | richtiger Typ, falscher Wert (z.B. `int("abc")`) |
+| `TypeError` | falscher Typ (z.B. `"a" + 1`) |
+| `NameError` | Variable/Name nicht gefunden |
+| `ImportError` | Modul/Import nicht gefunden |
+| `IOError` / `OSError` | Datei-/System-Fehler (z.B. „file not found") |
+| `ZeroDivisionError` | Division durch 0 |
+| `AttributeError` | Attribut/Methode existiert nicht |
+| `KeyboardInterrupt` | Nutzer drückt Ctrl+C |
+
+>[!note] `else` und nacktes `except`
+>Python kennt neben `except`/`finally` noch ein optionales `else` — es läuft ==nur, wenn im `try` **kein** Fehler auftrat==. Ein nacktes `except:` (ohne Typ) fängt **alles** ab, sollte aber sparsam genutzt werden.
+>```python
+>d = {"a": 1, "b": 2}
+>try:
+>    wert = d["x"]              # gibt es nicht -> KeyError
+>except KeyError:
+>    print("Key existiert nicht!")
+>except IndexError:
+>    print("Index außerhalb!")
+>except:
+>    print("irgendein anderer Fehler")
+>else:
+>    print("kein Fehler aufgetreten")     # läuft nur, wenn try ok war
 >```
 
 ## Exception vs Error
