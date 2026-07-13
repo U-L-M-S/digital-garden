@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/primaerdatentyp/","tags":["informatik/programmierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["Primärdatentyp","Primitive Datentyp"],"created_date":"2024-10-22","links":null,"tags":["informatik/programmierung"]}}
+{"dg-publish":true,"permalink":"/wiki/primaerdatentyp/","tags":["informatik/programmierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.822+02:00","dg-note-properties":{"aliases":["Primärdatentyp","Primitive Datentyp"],"created_date":"2024-10-22","links":null,"tags":["informatik/programmierung"]}}
 ---
 
 >Diese sind die Datentypen, die standardmäßig in den meisten Programmiersprachen verwendet werden.

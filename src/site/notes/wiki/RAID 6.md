@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/raid-6/","tags":["raid/doppel-parität","informatik/sicherheit/zwei-ausfälle","informatik/hardware"],"noteIcon":"","updated":"2026-07-02T15:37:49.000+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["raid/doppel-parität","informatik/sicherheit/zwei-ausfälle","informatik/hardware"]}}
+{"dg-publish":true,"permalink":"/wiki/raid-6/","tags":["raid/doppel-parität","informatik/sicherheit/zwei-ausfälle","informatik/hardware"],"noteIcon":"","updated":"2026-07-02T15:37:49.263+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["raid/doppel-parität","informatik/sicherheit/zwei-ausfälle","informatik/hardware"]}}
 ---
 
 

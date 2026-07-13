@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-interface/","tags":["informatik/programmierung/konzepte/oop/vererbung","informatik/programmierung/sprachen/java","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["Java Interface","Interface","Java Schnittstelle","interface"],"created_date":"2024-11-07","links":["https://www.youtube.com/watch?v=GhslBwrRsnw"],"tags":["informatik/programmierung/konzepte/oop/vererbung","informatik/programmierung/sprachen/java","ausbildung/gfn/ap1/vorbereitung"]}}
+{"dg-publish":true,"permalink":"/wiki/java-interface/","tags":["informatik/programmierung/konzepte/oop/vererbung","informatik/programmierung/sprachen/java","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2026-07-02T13:17:19.778+02:00","dg-note-properties":{"aliases":["Java Interface","Interface","Java Schnittstelle","interface"],"created_date":"2024-11-07","links":["https://www.youtube.com/watch?v=GhslBwrRsnw"],"tags":["informatik/programmierung/konzepte/oop/vererbung","informatik/programmierung/sprachen/java","ausbildung/gfn/ap1/vorbereitung"]}}
 ---
 
 >Ein **Interface** (Schnittstelle) in [[wiki/Java\|Java]] ist ein Vertrag, der definiert, **welche Methoden** eine [[wiki/Klasse\|Klasse]] implementieren muss, aber **nicht wie**.

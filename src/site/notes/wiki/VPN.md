@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/vpn/","tags":["informatik/netzwerk","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.000+02:00","dg-note-properties":{"created":"2024-05-06 16:17","links":null,"tags":["informatik/netzwerk","informatik/sicherheit/it-sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/vpn/","tags":["informatik/netzwerk","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.289+02:00","dg-note-properties":{"created":"2024-05-06 16:17","links":null,"tags":["informatik/netzwerk","informatik/sicherheit/it-sicherheit"]}}
 ---
 
 > Virtual Private Network 

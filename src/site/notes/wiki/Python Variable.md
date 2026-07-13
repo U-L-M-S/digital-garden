@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/python-variable/","tags":["informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2026-05-13T08:11:14.000+02:00","dg-note-properties":{"aliases":["Python Variable"],"created_date":"2024-11-02","links":null,"tags":["informatik/programmierung/sprachen/python"]}}
+{"dg-publish":true,"permalink":"/wiki/python-variable/","tags":["informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2026-05-13T08:11:14.800+02:00","dg-note-properties":{"aliases":["Python Variable"],"created_date":"2024-11-02","links":null,"tags":["informatik/programmierung/sprachen/python"]}}
 ---
 
 >In vielen Computersprachen müssen die Variablen mit dem [[wiki/Datentyp\|Datentyp]] definiert werden.

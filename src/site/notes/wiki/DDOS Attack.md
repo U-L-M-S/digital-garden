@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ddos-attack/","tags":["informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.000+02:00","dg-note-properties":{"aliases":["Distributed Denial of Service","DDOS-Angriff"],"created":"2024-07-18 14:07","links":null,"path":"Notes","tags":["informatik/sicherheit/it-sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/ddos-attack/","tags":["informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.194+02:00","dg-note-properties":{"aliases":["Distributed Denial of Service","DDOS-Angriff"],"created":"2024-07-18 14:07","links":null,"path":"Notes","tags":["informatik/sicherheit/it-sicherheit"]}}
 ---
 
 >Distributed Denial of Service

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/atomic-integer/","tags":["informatik/programmierung/sprachen/java","informatik/programmierung/pattern"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["atomic integer","atomicinteger"],"created":"2026-05-19 19:00","links":"https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/concurrent/atomic/AtomicInteger.html","path":"Notes","tags":["informatik/programmierung/sprachen/java","informatik/programmierung/pattern"]}}
+{"dg-publish":true,"permalink":"/wiki/atomic-integer/","tags":["informatik/programmierung/sprachen/java","informatik/programmierung/pattern"],"noteIcon":"","updated":"2026-07-02T13:17:19.637+02:00","dg-note-properties":{"aliases":["atomic integer","atomicinteger"],"created":"2026-05-19 19:00","links":"https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/concurrent/atomic/AtomicInteger.html","path":"Notes","tags":["informatik/programmierung/sprachen/java","informatik/programmierung/pattern"]}}
 ---
 
 >[[wiki/AtomicInteger\|AtomicInteger]] ist ein `int`-Wrapper aus `java.util.concurrent.atomic`, der **thread-safe** ist.

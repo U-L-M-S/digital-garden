@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/datasource/","tags":["informatik/programmierung/sprachen/java/framework","informatik/datenbank"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["data source","datasource","jndi datasource"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/datasource/","tags":["informatik/programmierung/sprachen/java/framework","informatik/datenbank"],"noteIcon":"","updated":"2026-07-02T13:17:19.712+02:00","dg-note-properties":{"aliases":["data source","datasource","jndi datasource"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/datenbank"]}}
 ---
 
 >Eine [[wiki/Datasource\|Datasource]] ist eine Verbindungsfabrik im [[wiki/WildFly\|WildFly]]-Container.

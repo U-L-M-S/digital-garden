@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml-assoziation/","tags":["informatik/uml/klassendiagramm","informatik/programmierung/konzepte/oop","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T15:36:33.000+02:00","dg-note-properties":{"aliases":["UML-Assoziation","Assoziation"],"created_date":"2024-11-06","links":null,"tags":["informatik/uml/klassendiagramm","informatik/programmierung/konzepte/oop","GFN/prüfungsrelevant/AP2"]}}
+{"dg-publish":true,"permalink":"/wiki/uml-assoziation/","tags":["informatik/uml/klassendiagramm","informatik/programmierung/konzepte/oop","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T15:36:33.185+02:00","dg-note-properties":{"aliases":["UML-Assoziation","Assoziation"],"created_date":"2024-11-06","links":null,"tags":["informatik/uml/klassendiagramm","informatik/programmierung/konzepte/oop","GFN/prüfungsrelevant/AP2"]}}
 ---
 
 >Eine Assoziation ist eine Beziehung zwischen zwei Klassen, die anzeigt, dass Objekte der einen Klasse mit Objekten der anderen Klasse in Verbindung stehen.

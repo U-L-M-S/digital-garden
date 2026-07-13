@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/static/","tags":["informatik/programmierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["Statische","statische","Statisc","Statischen","statischen","Statisches","statisches"],"created":"2023-09-13 13:03","links":null,"path":"Notes","tags":["informatik/programmierung"]}}
+{"dg-publish":true,"permalink":"/wiki/static/","tags":["informatik/programmierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.916+02:00","dg-note-properties":{"aliases":["Statische","statische","Statisc","Statischen","statischen","Statisches","statisches"],"created":"2023-09-13 13:03","links":null,"path":"Notes","tags":["informatik/programmierung"]}}
 ---
 
 >DE: Statische.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/breakpoint/","tags":["informatik/programmierung/debugging","entwicklung/tools","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"tags":["informatik/programmierung/debugging","entwicklung/tools","GFN/prüfungsrelevant/AP2"],"aliases":["Haltepunkt","Breakpoints"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/breakpoint/","tags":["informatik/programmierung/debugging","entwicklung/tools","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T13:17:19.652+02:00","dg-note-properties":{"tags":["informatik/programmierung/debugging","entwicklung/tools","GFN/prüfungsrelevant/AP2"],"aliases":["Haltepunkt","Breakpoints"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 >Ein Breakpoint (Haltepunkt) ist eine markierte Stelle im Code, an der das Programm während des [[wiki/Debugging\|Debugging]]s anhält.

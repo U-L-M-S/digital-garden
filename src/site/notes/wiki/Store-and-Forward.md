@@ -3,5 +3,5 @@
 ---
 
 
-**Store-and-Forward** - [[wiki/Switch\|Switch]]-Verfahren das Pakete erst prüft, dann weiterleitet.
+**Store-and-Forward** - [[Switch\|Switch]]-Verfahren das Pakete erst prüft, dann weiterleitet.
 Sicherer als [[wiki/Cut-Through\|Cut-Through]] - sortiert fehlerhafte Pakete aus, dauert aber länger.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/planen-eines-softwareproduktes/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:56:32.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn/ap2/vorbereitung"],"aliases":null,"links":null,"created_date":"2025-11-06"}}
+{"dg-publish":true,"permalink":"/wiki/planen-eines-softwareproduktes/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:56:32.190+02:00","dg-note-properties":{"tags":["ausbildung/gfn/ap2/vorbereitung"],"aliases":null,"links":null,"created_date":"2025-11-06"}}
 ---
 
 >Dieser Teil der Prüfung dauert 90 Minuten und umfasst 100 Punkte (10% der Gesamtprüfung).
@@ -444,7 +444,7 @@ ___
 |---------|---------|
 | Network Attached Storage | Storage Area Network |
 | Datei-basiert | Block-basiert |
-| Über Netzwerk wie ein Ordner | Wie eine lokale [[wiki/Festplatte\|Festplatte]] |
+| Über Netzwerk wie ein Ordner | Wie eine lokale [[Festplatte\|Festplatte]] |
 | Einfacher einzurichten | Schneller und professioneller |
 
 ### [[wiki/Cloud\|Cloud]] vs [[wiki/On-Premises\|On-Premises]]

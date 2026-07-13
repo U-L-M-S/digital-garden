@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/i-pv6-adressen/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2026-05-12T16:09:33.000+02:00","dg-note-properties":{"aliases":["IPv6 Adressen","iPv6 Adressen"],"created":"2024-07-30 10:05","links":null,"path":"Notes","tags":["informatik/netzwerk/ip/ipv6"]}}
+{"dg-publish":true,"permalink":"/wiki/i-pv6-adressen/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2026-05-12T16:09:33.340+02:00","dg-note-properties":{"aliases":["IPv6 Adressen","iPv6 Adressen"],"created":"2024-07-30 10:05","links":null,"path":"Notes","tags":["informatik/netzwerk/ip/ipv6"]}}
 ---
 
 > [[wiki/IPv6\|IPv6]] verwendet keine Klassen wie bei [[wiki/IPv4\|IPv4]] ([[wiki/IPv4-Klassennetze\|IPv4-Klassennetze]]).

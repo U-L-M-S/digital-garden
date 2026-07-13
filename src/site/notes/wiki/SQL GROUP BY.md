@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sql-group-by/","tags":["informatik/code/sql"],"noteIcon":"","updated":"2026-07-02T01:13:38.000+02:00","dg-note-properties":{"tags":["informatik/code/sql"],"aliases":null,"links":null,"created_date":"2025-09-15"}}
+{"dg-publish":true,"permalink":"/wiki/sql-group-by/","tags":["informatik/code/sql"],"noteIcon":"","updated":"2026-07-02T01:13:38.523+02:00","dg-note-properties":{"tags":["informatik/code/sql"],"aliases":null,"links":null,"created_date":"2025-09-15"}}
 ---
 
 > Befehl wird verwendet, um [[wiki/SQL Zeile\|SQL Zeile]]n zu gruppieren, die gleiche Werte in bestimmten [[wiki/SQL Spalte\|SQL Spalte]]n haben. Oft mit Aggregatfunktionen wie COUNT, SUM, AVG verwendet.

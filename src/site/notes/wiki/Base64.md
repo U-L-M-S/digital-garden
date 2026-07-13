@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/base64/","tags":["informatik/programmierung","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.000+02:00","dg-note-properties":{"aliases":["base64"],"created_date":"2024-09-24","links":null,"tags":["informatik/programmierung","informatik/sicherheit/it-sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/base64/","tags":["informatik/programmierung","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.175+02:00","dg-note-properties":{"aliases":["base64"],"created_date":"2024-09-24","links":null,"tags":["informatik/programmierung","informatik/sicherheit/it-sicherheit"]}}
 ---
 
->Es ist ein Kodierungsverfahren, das binäre Daten (wie z.B. Bilder oder Dateien) in eine Zeichenkette aus [[wiki/ASCII\|ASCII]]-Zeichen umwandelt. 
+>Es ist ein Kodierungsverfahren, das binäre Daten (wie z.B. Bilder oder Dateien) in eine Zeichenkette aus [[ASCII\|ASCII]]-Zeichen umwandelt. 
 >>Es wird oft verwendet, um Daten über Protokolle zu übertragen, die nur Text unterstützen (z.B. E-Mail oder JSON). 
 >>Base64 verwendet ein 64-Zeichen-Alphabet, bestehend aus Buchstaben (A-Z, a-z), Ziffern (0-9), sowie den Symbolen `+` und `/`.
 
 >[!example] 
->Das Wort "Hi" In Binär ([[wiki/ASCII\|ASCII]]-Werte) ist **72, 105**. 
+>Das Wort "Hi" In Binär ([[ASCII\|ASCII]]-Werte) ist **72, 105**. 
 >In [[wiki/Base64\|Base64]] lautet  **SGK=**
 
-Um ein Wort in [[wiki/Base64\|Base64]] umzuwandeln muss man erstmal jedes Buchstaben in [[wiki/Dezimal\|Dezimal]] umstelle (Lautet [[wiki/ASCII\|ASCII]]-Tabell) und diesen Werten in [[wiki/Binärzahl\|Binärzahl]] umstellen.
+Um ein Wort in [[wiki/Base64\|Base64]] umzuwandeln muss man erstmal jedes Buchstaben in [[wiki/Dezimal\|Dezimal]] umstelle (Lautet [[ASCII\|ASCII]]-Tabell) und diesen Werten in [[wiki/Binärzahl\|Binärzahl]] umstellen.
 
 Hi -> 72 und 105 -> `01001000` `01101001` 
 

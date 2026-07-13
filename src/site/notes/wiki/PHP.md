@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/php/","tags":["informatik/programmierung/sprachen/php"],"noteIcon":"","updated":"2026-07-02T18:16:25.000+02:00","dg-note-properties":{"created_date":"2024-09-05","links":null,"tags":["informatik/programmierung/sprachen/php"]}}
+{"dg-publish":true,"permalink":"/wiki/php/","tags":["informatik/programmierung/sprachen/php"],"noteIcon":"","updated":"2026-07-02T18:16:25.251+02:00","dg-note-properties":{"created_date":"2024-09-05","links":null,"tags":["informatik/programmierung/sprachen/php"]}}
 ---
 
 >PHP ist eine Computer Sprache, bei den man in die Backend sowie in die Frontend verwenden werden können.

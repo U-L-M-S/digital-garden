@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java/","tags":["GFN/LFzq17a","ausbildung/gfn/ap2","status/fertig","informatik/programmierung/sprachen/java","informatik/uml"],"noteIcon":"","updated":"2026-07-02T15:36:32.000+02:00","dg-note-properties":{"created":"2024-06-21 13:58","links":null,"tags":["GFN/LFzq17a","ausbildung/gfn/ap2","status/fertig","informatik/programmierung/sprachen/java","informatik/uml"]}}
+{"dg-publish":true,"permalink":"/wiki/java/","tags":["GFN/LFzq17a","ausbildung/gfn/ap2","status/fertig","informatik/programmierung/sprachen/java","informatik/uml"],"noteIcon":"","updated":"2026-07-02T15:36:32.394+02:00","dg-note-properties":{"created":"2024-06-21 13:58","links":null,"tags":["GFN/LFzq17a","ausbildung/gfn/ap2","status/fertig","informatik/programmierung/sprachen/java","informatik/uml"]}}
 ---
 
 > Computersprache, die [[wiki/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.

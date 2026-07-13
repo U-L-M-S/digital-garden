@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/compiler/","tags":["informatik/programmierung"],"noteIcon":"","updated":"2026-07-11T19:54:06.667+02:00","dg-note-properties":{"aliases":["Compiler","compiler"],"created_date":"2024-10-22","links":null,"tags":["informatik/programmierung"]}}
+{"dg-publish":true,"permalink":"/wiki/compiler/","tags":["informatik/programmierung"],"noteIcon":"","updated":"2026-07-11T19:54:06.000+02:00","dg-note-properties":{"aliases":["Compiler","compiler"],"created_date":"2024-10-22","links":null,"tags":["informatik/programmierung"]}}
 ---
 
 >Es übersetzt den gesamten Quellcode in einer Programmiersprache in Maschinencode (z. B. eine .exe-Datei), bevor das Programm ausgeführt wird. 

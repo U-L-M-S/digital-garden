@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/paketfilter/","tags":["filter/einfach","firewall/typ","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-11T00:30:56.818+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["filter/einfach","firewall/typ","informatik/sicherheit/it-sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/paketfilter/","tags":["filter/einfach","firewall/typ","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-11T00:30:56.000+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["filter/einfach","firewall/typ","informatik/sicherheit/it-sicherheit"]}}
 ---
 
 

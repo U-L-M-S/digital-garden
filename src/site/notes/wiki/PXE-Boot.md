@@ -3,14 +3,14 @@
 ---
 
 
->[[wiki/PXE-Boot\|PXE-Boot]] ermöglicht es einem Computer sich über das [[wiki/Netzwerk\|Netzwerk]] zu starten ohne lokales [[wiki/Betriebssystem\|Betriebssystem]] - wie ein Fernseher der sein Programm aus dem Internet holt statt von DVD.
+>[[wiki/PXE-Boot\|PXE-Boot]] ermöglicht es einem Computer sich über das [[wiki/Netzwerk\|Netzwerk]] zu starten ohne lokales [[Betriebssystem\|Betriebssystem]] - wie ein Fernseher der sein Programm aus dem Internet holt statt von DVD.
 
 >>Perfekt um viele [[PC\|PC]]s gleichzeitig zu installieren oder Diagnose-Tools zu starten ohne Festplatte.
 
 ## Definition
 
 >[!quote] Was ist [[wiki/PXE-Boot\|PXE-Boot]]?
->[[wiki/PXE-Boot\|PXE-Boot]] (Preboot Execution Environment) ist ein Verfahren um Computer über das [[wiki/Netzwerk\|Netzwerk]] zu starten bevor ein lokales [[wiki/Betriebssystem\|Betriebssystem]] lädt.
+>[[wiki/PXE-Boot\|PXE-Boot]] (Preboot Execution Environment) ist ein Verfahren um Computer über das [[wiki/Netzwerk\|Netzwerk]] zu starten bevor ein lokales [[Betriebssystem\|Betriebssystem]] lädt.
 
 ## Funktionsweise
 
@@ -65,7 +65,7 @@
 >[[TFTP\|TFTP]] ist **unverschlüsselt** - nur in sicheren internen [[wiki/Netzwerk\|Netzwerk]]en nutzen!
 
 #### 4. Boot-Image
->Das [[wiki/Betriebssystem\|Betriebssystem]] oder Tool das startet.
+>Das [[Betriebssystem\|Betriebssystem]] oder Tool das startet.
 
 **Typen:**
 - Windows PE (für Windows-Installation)
@@ -80,7 +80,7 @@
 
 **Szenario:**
 - 100 neue [[PC\|PC]]s im Büro
-- Alle sollen identisches [[wiki/Betriebssystem\|Betriebssystem]]
+- Alle sollen identisches [[Betriebssystem\|Betriebssystem]]
 - [[wiki/PXE-Boot\|PXE-Boot]] zu Windows Deployment Services (WDS)
 - Automatische Installation über [[wiki/Netzwerk\|Netzwerk]]
 
@@ -99,11 +99,11 @@
 
 **Wie:**
 - [[PC\|PC]] bootet immer über [[wiki/Netzwerk\|Netzwerk]]
-- [[wiki/Betriebssystem\|Betriebssystem]] läuft aus RAM
+- [[Betriebssystem\|Betriebssystem]] läuft aus RAM
 - Daten auf [[wiki/Server\|Server]]
 
 ### 3. Hardware-Diagnose
->Computer testen ohne installiertES [[wiki/Betriebssystem\|OS]].
+>Computer testen ohne installiertES [[Betriebssystem\|OS]].
 
 **Diagnose-Tools:**
 - Memtest86+ (RAM-Test)
@@ -111,7 +111,7 @@
 - Hardware-Inventory-Tools
 
 **Vorteil:**
-- Funktioniert auch wenn [[wiki/Betriebssystem\|Betriebssystem]] kaputt
+- Funktioniert auch wenn [[Betriebssystem\|Betriebssystem]] kaputt
 - Keine bootfähigen USBs nötig
 
 ### 4. Rescue-Systeme
@@ -120,7 +120,7 @@
 **Anwendung:**
 - Live-Linux booten
 - Daten sichern
-- [[wiki/Betriebssystem\|Betriebssystem]] reparieren
+- [[Betriebssystem\|Betriebssystem]] reparieren
 - [[wiki/Backup\|Backup]] wiederherstellen
 
 ### 5. Betriebssystem-Installation
@@ -234,7 +234,7 @@ cp /usr/lib/syslinux/pxelinux.0 /srv/tftp/
 >[[wiki/PXE-Boot\|PXE-Boot]] startet Computer über [[wiki/Netzwerk\|Netzwerk]] statt von lokaler Festplatte - ideal für Mass-Deployment und Diagnose.
 
 **Merksatz:**
->"PXE = Computer holt [[wiki/Betriebssystem\|Betriebssystem]] aus dem [[wiki/Netzwerk\|Netzwerk]] wie Fernseher Programm aus dem Internet!"
+>"PXE = Computer holt [[Betriebssystem\|Betriebssystem]] aus dem [[wiki/Netzwerk\|Netzwerk]] wie Fernseher Programm aus dem Internet!"
 
 **Der Ablauf:**
 >[[PC\|PC]] startet → [[DHCP\|DHCP]] gibt IP + Boot-Info → [[TFTP\|TFTP]] liefert Image → [[PC\|PC]] bootet

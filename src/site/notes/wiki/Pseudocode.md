@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/pseudocode/","tags":["informatik/programmierung","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-11T23:28:10.421+02:00","dg-note-properties":{"tags":["informatik/programmierung","GFN/prüfungsrelevant/AP2"],"aliases":["pseudocode"],"links":null,"created_date":"2025-09-15"}}
+{"dg-publish":true,"permalink":"/wiki/pseudocode/","tags":["informatik/programmierung","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-11T23:28:10.000+02:00","dg-note-properties":{"tags":["informatik/programmierung","GFN/prüfungsrelevant/AP2"],"aliases":["pseudocode"],"links":null,"created_date":"2025-09-15"}}
 ---
 
 > [[wiki/Pseudocode\|Pseudocode]] ist wie ein Rezept zum Kochen - du schreibst die Schritte auf, bevor du wirklich kochst. Es ist eine Zwischenstufe zwischen deiner Idee und dem echten [[Code\|Code]].

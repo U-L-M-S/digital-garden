@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/debugger/","tags":["entwicklung/fehlersuche","informatik/programmierung/tools"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"tags":["entwicklung/fehlersuche","informatik/programmierung/tools"],"aliases":["Debug-Tool","Fehlersuche-Werkzeug"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/debugger/","tags":["entwicklung/fehlersuche","informatik/programmierung/tools"],"noteIcon":"","updated":"2026-07-02T13:17:19.714+02:00","dg-note-properties":{"tags":["entwicklung/fehlersuche","informatik/programmierung/tools"],"aliases":["Debug-Tool","Fehlersuche-Werkzeug"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/power-on-self-test/","tags":["hardware/firmware","diagnostik/test"],"noteIcon":"","updated":"2026-05-13T08:58:27.000+02:00","dg-note-properties":{"tags":["hardware/firmware","diagnostik/test"],"aliases":["Boot-Test"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/wiki/power-on-self-test/","tags":["hardware/firmware","diagnostik/test"],"noteIcon":"","updated":"2026-05-13T08:58:27.420+02:00","dg-note-properties":{"tags":["hardware/firmware","diagnostik/test"],"aliases":["Boot-Test"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 
 > Automatischer Selbsttest beim Computer-Start - prüft, ob grundlegende Hardware-Komponenten funktionsfähig sind.
 
->> Wird vom [[wiki/BIOS\|BIOS]]/[[wiki/UEFI\|UEFI]] durchgeführt, bevor das [[wiki/Betriebssystem\|Betriebssystem]] gestartet wird.
+>> Wird vom [[wiki/BIOS\|BIOS]]/[[wiki/UEFI\|UEFI]] durchgeführt, bevor das [[Betriebssystem\|Betriebssystem]] gestartet wird.
 
 >[!info] POST-Ablauf
 >**Test-Reihenfolge:**
@@ -35,7 +35,7 @@
 >Nach erfolgreichem Test:
 >- Hardware-Übersicht anzeigen
 >- Boot-Geräte in eingestellter Reihenfolge prüfen
->- [[wiki/Betriebssystem\|Betriebssystem]] vom ersten verfügbaren Gerät laden
+>- [[Betriebssystem\|Betriebssystem]] vom ersten verfügbaren Gerät laden
 
 >[!caution] POST-Fehler
 >**Häufige Ursachen:**

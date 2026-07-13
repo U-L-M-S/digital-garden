@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/or-operator/","tags":["mathe","informatik/logik"],"noteIcon":"","updated":"2026-05-13T08:53:41.000+02:00","dg-note-properties":{"aliases":[],"created":"2024-07-09 16:27","links":null,"path":"Notes","tags":["mathe","informatik/logik"]}}
+{"dg-publish":true,"permalink":"/wiki/or-operator/","tags":["mathe","informatik/logik"],"noteIcon":"","updated":"2026-05-13T08:53:41.675+02:00","dg-note-properties":{"aliases":[],"created":"2024-07-09 16:27","links":null,"path":"Notes","tags":["mathe","informatik/logik"]}}
 ---
 
 >Es ist nur TRUE, wenn mindestens einer der Inputs TRUE ist.

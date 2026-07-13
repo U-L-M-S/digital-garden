@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml-aktivitaetsdiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","ausbildung/gfn/ap2/vorbereitung","GFN/prüfungsrelevant/AP2","informatik/uml/aktivitätsdiagramm"],"noteIcon":"","updated":"2026-07-02T15:36:32.000+02:00","dg-note-properties":{"aliases":["Aktivitätsdiagramm","Activity Diagram"],"created_date":"2025-02-21","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","ausbildung/gfn/ap2/vorbereitung","GFN/prüfungsrelevant/AP2","informatik/uml/aktivitätsdiagramm"]}}
+{"dg-publish":true,"permalink":"/wiki/uml-aktivitaetsdiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","ausbildung/gfn/ap2/vorbereitung","GFN/prüfungsrelevant/AP2","informatik/uml/aktivitätsdiagramm"],"noteIcon":"","updated":"2026-07-02T15:36:32.764+02:00","dg-note-properties":{"aliases":["Aktivitätsdiagramm","Activity Diagram"],"created_date":"2025-02-21","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","ausbildung/gfn/ap2/vorbereitung","GFN/prüfungsrelevant/AP2","informatik/uml/aktivitätsdiagramm"]}}
 ---
 
 

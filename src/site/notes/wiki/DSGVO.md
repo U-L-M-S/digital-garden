@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dsgvo/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.000+02:00","dg-note-properties":{"aliases":["Datenschutz-Grundverordnung"],"created_date":"2025-02-24","links":["https://dsgvo-gesetz.de/"],"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/sicherheit/it-sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/dsgvo/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.203+02:00","dg-note-properties":{"aliases":["Datenschutz-Grundverordnung"],"created_date":"2025-02-24","links":["https://dsgvo-gesetz.de/"],"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/sicherheit/it-sicherheit"]}}
 ---
 
 >Datenschutz-Grundverordnung.

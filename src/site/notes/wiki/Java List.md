@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-list/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:34:44.000+02:00","dg-note-properties":{"aliases":["Java List","java List"],"created_date":"2024-10-26","links":null,"tags":["informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/wiki/java-list/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:34:44.449+02:00","dg-note-properties":{"aliases":["Java List","java List"],"created_date":"2024-10-26","links":null,"tags":["informatik/programmierung/sprachen/java"]}}
 ---
 
 >[!summary] Regeln

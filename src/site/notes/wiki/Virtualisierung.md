@@ -38,7 +38,7 @@
 >     Virtualisierung läuft direkt auf der Hardware (z.B. VMware ESXi).
 >     
 > - **Hosted (Typ 2 Hypervisor)**  
->     Virtualisierung läuft auf einem bestehenden [[wiki/Betriebssystem\|Betriebssystem]] (z.B. VirtualBox, VMware Workstation).
+>     Virtualisierung läuft auf einem bestehenden [[Betriebssystem\|Betriebssystem]] (z.B. VirtualBox, VMware Workstation).
 >     
 > - **Desktopvirtualisierung (VDI)**  
 >     Benutzer arbeiten auf einem **virtuellen Desktop**, der zentral im Rechenzentrum läuft (z.B. Citrix, VMware Horizon).

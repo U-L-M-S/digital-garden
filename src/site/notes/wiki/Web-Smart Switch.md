@@ -3,5 +3,5 @@
 ---
 
 
-**Web-Smart Switch** - [[wiki/Switch\|Switch]] mit grundlegenden Management-Funktionen über Web-Interface.
+**Web-Smart Switch** - [[Switch\|Switch]] mit grundlegenden Management-Funktionen über Web-Interface.
 Zwischen [[wiki/Unmanaged Switch\|Unmanaged Switch]] und [[wiki/Managed Switch\|Managed Switch]] - einfache Konfiguration für mittlere Netzwerke.

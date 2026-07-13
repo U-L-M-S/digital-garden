@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/open-vpn/","tags":["informatik/netzwerk/vpn","opensource","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.000+02:00","dg-note-properties":{"created":"2025-01-07","path":"Notes","tags":["informatik/netzwerk/vpn","opensource","informatik/sicherheit/it-sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/open-vpn/","tags":["informatik/netzwerk/vpn","opensource","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.247+02:00","dg-note-properties":{"created":"2025-01-07","path":"Notes","tags":["informatik/netzwerk/vpn","opensource","informatik/sicherheit/it-sicherheit"]}}
 ---
 
 > Etabliertes [[wiki/VPN\|VPN]]-Protokoll

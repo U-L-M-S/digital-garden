@@ -3,5 +3,5 @@
 ---
 
 
-**Unmanaged Switch** - Einfacher [[wiki/Switch\|Switch]] ohne Konfigurationsmöglichkeiten.
+**Unmanaged Switch** - Einfacher [[Switch\|Switch]] ohne Konfigurationsmöglichkeiten.
 Plug-and-Play - funktioniert sofort, aber keine erweiterten Features wie [[wiki/VLAN\|VLAN]] oder QoS.

@@ -13,8 +13,8 @@
 
 > [!note] Varianten:
 > 
-> - **Endspan**: PoE wird direkt vom [[wiki/Switch\|Switch]] mitgeliefert (PoE-fähiger [[wiki/Switch\|Switch]]).
-> - **Midspan**: Ein separates PoE-Injektor-Gerät speist den Strom zusätzlich zwischen [[wiki/Switch\|Switch]] und Endgerät ein.
+> - **Endspan**: PoE wird direkt vom [[Switch\|Switch]] mitgeliefert (PoE-fähiger [[Switch\|Switch]]).
+> - **Midspan**: Ein separates PoE-Injektor-Gerät speist den Strom zusätzlich zwischen [[Switch\|Switch]] und Endgerät ein.
 
 > [!tip] Leistungsklassen:
 > 
@@ -24,8 +24,8 @@
 
 **Beispiel:**
 
-- Ein [[wiki/Access-Point\|Access-Point]] wird per [[wiki/LAN\|LAN]]-Kabel an den PoE-[[wiki/Switch\|Switch]] (Endspan) angeschlossen und erhält **[[wiki/Netzwerk\|Netzwerk]] + Strom** direkt.
-- Alternativ: Ein [[wiki/Switch\|Switch]] ohne PoE + Midspan-Injektor = PoE nachgerüstet.
+- Ein [[wiki/Access-Point\|Access-Point]] wird per [[wiki/LAN\|LAN]]-Kabel an den PoE-[[Switch\|Switch]] (Endspan) angeschlossen und erhält **[[wiki/Netzwerk\|Netzwerk]] + Strom** direkt.
+- Alternativ: Ein [[Switch\|Switch]] ohne PoE + Midspan-Injektor = PoE nachgerüstet.
 
 
 [Switch mit PoE] --------> [Access-Point]
@@ -37,6 +37,6 @@
 
 
 >[!tip] 
-> **Endspan:** [[wiki/Switch\|Switch]] liefert PoE direkt über das Ethernet-Kabel.  
+> **Endspan:** [[Switch\|Switch]] liefert PoE direkt über das Ethernet-Kabel.  
 > **Midspan:** Ein zusätzlicher Injektor speist PoE ein zwischen Switch und Endgerät.
 

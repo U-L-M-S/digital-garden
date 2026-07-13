@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/application-firewall/","tags":["filter/anwendung","firewall/typ","informatik/netzwerk/firewall","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-11T00:30:01.411+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["filter/anwendung","firewall/typ","informatik/netzwerk/firewall","informatik/sicherheit/it-sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/application-firewall/","tags":["filter/anwendung","firewall/typ","informatik/netzwerk/firewall","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-11T00:30:01.000+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["filter/anwendung","firewall/typ","informatik/netzwerk/firewall","informatik/sicherheit/it-sicherheit"]}}
 ---
 
 

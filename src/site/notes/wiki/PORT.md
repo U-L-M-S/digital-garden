@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/wiki/port/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":["PORTs"],"created_date":"2024-11-01","links":null,"tags":["informatik/netzwerk/ip/ipv4"]}}
 ---
 
->Ports im [[wiki/Netzwerk\|Netzwerk]] sind virtuelle Schnittstellen, die es ermöglichen, verschiedene Arten von Datenverkehr über ein Netzwerkprotokoll, wie [[wiki/TCP\|TCP]] oder [[wiki/UDP\|UDP]], zu unterscheiden. 
+>Ports im [[wiki/Netzwerk\|Netzwerk]] sind virtuelle Schnittstellen, die es ermöglichen, verschiedene Arten von Datenverkehr über ein Netzwerkprotokoll, wie [[wiki/TCP\|TCP]] oder [[UDP\|UDP]], zu unterscheiden. 
 >>Jeder Port hat eine eindeutige Nummer, die zwischen **0 und 65535 (2^32)** liegt. 
 
 # Hauptpunkte zu Ports:

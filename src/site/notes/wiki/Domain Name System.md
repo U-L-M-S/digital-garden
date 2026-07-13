@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/domain-name-system/","tags":["informatik/netzwerk/protokoll/namensauflösung","informatik/netzwerk/internet/verzeichnis","informatik/netzwerk/dns"],"noteIcon":"","updated":"2026-07-11T23:31:58.182+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk/protokoll/namensauflösung","informatik/netzwerk/internet/verzeichnis","informatik/netzwerk/dns"]}}
+{"dg-publish":true,"permalink":"/wiki/domain-name-system/","tags":["informatik/netzwerk/protokoll/namensauflösung","informatik/netzwerk/internet/verzeichnis","informatik/netzwerk/dns"],"noteIcon":"","updated":"2026-07-11T23:31:58.000+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk/protokoll/namensauflösung","informatik/netzwerk/internet/verzeichnis","informatik/netzwerk/dns"]}}
 ---
 
 

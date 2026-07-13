@@ -4,4 +4,4 @@
 
 >Spanning Tree Protocol
 
->Protokoll, der verwendet wird in die [[wiki/Switch\|Switch]]en um Loops in Netzwerk zu verhindern.
+>Protokoll, der verwendet wird in die [[Switch\|Switch]]en um Loops in Netzwerk zu verhindern.

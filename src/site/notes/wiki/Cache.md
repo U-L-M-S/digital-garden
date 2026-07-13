@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/cache/","tags":["performance/optimierung","speicher/zwischenspeicher"],"noteIcon":"","updated":"2026-07-11T19:49:23.959+02:00","dg-note-properties":{"aliases":["Zwischenspeicher","Caching"],"created_date":"2024-09-04","links":null,"tags":["performance/optimierung","speicher/zwischenspeicher"]}}
+{"dg-publish":true,"permalink":"/wiki/cache/","tags":["performance/optimierung","speicher/zwischenspeicher"],"noteIcon":"","updated":"2026-07-11T19:49:23.000+02:00","dg-note-properties":{"aliases":["Zwischenspeicher","Caching"],"created_date":"2024-09-04","links":null,"tags":["performance/optimierung","speicher/zwischenspeicher"]}}
 ---
 
 

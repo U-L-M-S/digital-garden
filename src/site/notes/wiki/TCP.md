@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/tcp/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2026-07-11T00:23:18.195+02:00","dg-note-properties":{"aliases":["Transmission Control Protocol"],"created":"2024-07-02 15:10","links":null,"tags":["informatik/netzwerk/protokoll"]}}
+{"dg-publish":true,"permalink":"/wiki/tcp/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2026-07-11T00:23:18.000+02:00","dg-note-properties":{"aliases":["Transmission Control Protocol"],"created":"2024-07-02 15:10","links":null,"tags":["informatik/netzwerk/protokoll"]}}
 ---
 
 >Transmission Control Protocol 
@@ -11,9 +11,9 @@ Es wird oft verwendet für Protokolle wie:
 - [[wiki/SMTP\|SMTP]](E-Mail)
 - [[wiki/FTP\|FTP]] (Datenübertragung)
 
-Es ist leider etwas langsamer als [[wiki/UDP\|UDP]].
+Es ist leider etwas langsamer als [[UDP\|UDP]].
 
-| | TCP | [[wiki/UDP\|UDP]] |
+| | TCP | [[UDP\|UDP]] |
 | :--- | :--- | :--- |
 | Verbindung | verbindungsorientiert | verbindungslos |
 | reihenfolgetreu | ✅ ja ([[wiki/Sequenznummer\|Sequenznummer]]n) | ❌ nein |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/docker-image/","tags":["informatik/virtualisierung/docker/images","informatik/virtualisierung/docker/grundlagen"],"noteIcon":"","updated":"2026-05-13T08:45:11.000+02:00","dg-note-properties":{"aliases":["Docker Image","Image","Container Image"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker/images","informatik/virtualisierung/docker/grundlagen"]}}
+{"dg-publish":true,"permalink":"/wiki/docker-image/","tags":["informatik/virtualisierung/docker/images","informatik/virtualisierung/docker/grundlagen"],"noteIcon":"","updated":"2026-05-13T08:45:11.839+02:00","dg-note-properties":{"aliases":["Docker Image","Image","Container Image"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker/images","informatik/virtualisierung/docker/grundlagen"]}}
 ---
 
 >**Docker Image**s sind Blaupausen oder Vorlagen für [[wiki/Docker Container\|Docker Container]] - wie Fotos, die nicht verändert werden können.

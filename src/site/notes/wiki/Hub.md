@@ -8,12 +8,12 @@
 ![image-7.png](/img/user/assets/IMG/image-7.png)
 ---
 
-# Unterschied Hub vs. [[wiki/Switch\|Switch]]
+# Unterschied Hub vs. [[Switch\|Switch]]
 
 |Gerät|Funktion|
 |---|---|
 |**Hub**|Leitet alle Pakete an **alle Ports** weiter (keine Intelligenz, nur Verteiler)|
-|**[[wiki/Switch\|Switch]]**|Leitet Pakete nur an den **richtigen Port** anhand der [[wiki/MAC Adresse\|MAC Adresse]] (lernt aktiv mit)|
+|**[[Switch\|Switch]]**|Leitet Pakete nur an den **richtigen Port** anhand der [[wiki/MAC Adresse\|MAC Adresse]] (lernt aktiv mit)|
 
 > [!note]  
-> Der Hub ist "dumm" und erzeugt viele [[wiki/Broadcast\|Broadcast]]s, während der [[wiki/Switch\|Switch]] gezielt [[wiki/MAC Adresse\|MAC Adresse]]n ansteuert und somit effizienter ist.
+> Der Hub ist "dumm" und erzeugt viele [[wiki/Broadcast\|Broadcast]]s, während der [[Switch\|Switch]] gezielt [[wiki/MAC Adresse\|MAC Adresse]]n ansteuert und somit effizienter ist.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/design-patterns/","tags":["softwareentwicklung/patterns","informatik/programmierung/konzepte/oop/best-practices"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"tags":["softwareentwicklung/patterns","informatik/programmierung/konzepte/oop/best-practices"],"aliases":["Entwurfsmuster","Software-Patterns","GOF-Patterns"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/design-patterns/","tags":["softwareentwicklung/patterns","informatik/programmierung/konzepte/oop/best-practices"],"noteIcon":"","updated":"2026-07-02T13:17:19.720+02:00","dg-note-properties":{"tags":["softwareentwicklung/patterns","informatik/programmierung/konzepte/oop/best-practices"],"aliases":["Entwurfsmuster","Software-Patterns","GOF-Patterns"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

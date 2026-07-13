@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-07-cyber-physische-systeme-ergaenzen/","tags":["GFN/LF07","status/in-progress"],"noteIcon":"","updated":"2026-07-02T12:18:59.000+02:00","dg-note-properties":{"tags":["GFN/LF07","status/in-progress"],"links":null,"reference":null,"path":"GFN","created":"2024-05-27 11:52"}}
+{"dg-publish":true,"permalink":"/wiki/lf-07-cyber-physische-systeme-ergaenzen/","tags":["GFN/LF07","status/in-progress"],"noteIcon":"","updated":"2026-07-02T12:18:59.091+02:00","dg-note-properties":{"tags":["GFN/LF07","status/in-progress"],"links":null,"reference":null,"path":"GFN","created":"2024-05-27 11:52"}}
 ---
 
 >[!important] 

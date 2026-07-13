@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/problem-management/","tags":["itil/service-operation","GFN/LF06","itsm"],"noteIcon":"","updated":"2026-05-13T08:56:14.000+02:00","dg-note-properties":{"tags":["itil/service-operation","GFN/LF06","itsm"],"aliases":["Problemmanagement","Problem-Management-Prozess"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/problem-management/","tags":["itil/service-operation","GFN/LF06","itsm"],"noteIcon":"","updated":"2026-05-13T08:56:14.792+02:00","dg-note-properties":{"tags":["itil/service-operation","GFN/LF06","itsm"],"aliases":["Problemmanagement","Problem-Management-Prozess"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

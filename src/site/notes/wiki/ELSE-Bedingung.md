@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/else-bedingung/","tags":["informatik/programmierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["ELSE-Bedingung"],"created_date":"2024-10-25","links":null,"tags":["informatik/programmierung"]}}
+{"dg-publish":true,"permalink":"/wiki/else-bedingung/","tags":["informatik/programmierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.733+02:00","dg-note-properties":{"aliases":["ELSE-Bedingung"],"created_date":"2024-10-25","links":null,"tags":["informatik/programmierung"]}}
 ---
 
 >Eine [[else\|else]]-Bedingung wird verwendet, um einen **Codeblock** auszuführen, wenn die vorhergehende `if`-Bedingung **falsch** ist. 

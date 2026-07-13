@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/wirtschafts-und-sozialkunde-wi-so/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:58:30.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn/ap2/vorbereitung"],"aliases":["WiSo"],"links":null,"created_date":"2025-11-06"}}
+{"dg-publish":true,"permalink":"/wiki/wirtschafts-und-sozialkunde-wi-so/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:58:30.411+02:00","dg-note-properties":{"tags":["ausbildung/gfn/ap2/vorbereitung"],"aliases":["WiSo"],"links":null,"created_date":"2025-11-06"}}
 ---
 
 

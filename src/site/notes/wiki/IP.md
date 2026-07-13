@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ip/","tags":["informatik/netzwerk/ip","informatik/netzwerk/gateway","informatik/netzwerk/subnet-mask","informatik/betriebssystem/linux"],"noteIcon":"","updated":"2026-05-12T15:55:08.000+02:00","dg-note-properties":{"aliases":["IP Adresse","IP-Adresse","Internet Protocol"],"created":"2023-09-13 13:15","links":null,"path":["Notes"],"reference":"[[wiki/IPv4\|IPv4]]","tags":["informatik/netzwerk/ip","informatik/netzwerk/gateway","informatik/netzwerk/subnet-mask","informatik/betriebssystem/linux"]}}
+{"dg-publish":true,"permalink":"/wiki/ip/","tags":["informatik/netzwerk/ip","informatik/netzwerk/gateway","informatik/netzwerk/subnet-mask","informatik/betriebssystem/linux"],"noteIcon":"","updated":"2026-05-12T15:55:08.622+02:00","dg-note-properties":{"aliases":["IP Adresse","IP-Adresse","Internet Protocol"],"created":"2023-09-13 13:15","links":null,"path":["Notes"],"reference":"[[wiki/IPv4\|IPv4]]","tags":["informatik/netzwerk/ip","informatik/netzwerk/gateway","informatik/netzwerk/subnet-mask","informatik/betriebssystem/linux"]}}
 ---
 
 >Internet Protocol

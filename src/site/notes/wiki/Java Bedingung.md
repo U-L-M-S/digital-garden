@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-bedingung/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:31:53.000+02:00","dg-note-properties":{"aliases":["java IF","Java if","Java IFs","Java Operator"],"created":"2024-06-21 16:36","links":null,"path":["Notes"],"tags":["informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/wiki/java-bedingung/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:31:53.881+02:00","dg-note-properties":{"aliases":["java IF","Java if","Java IFs","Java Operator"],"created":"2024-06-21 16:36","links":null,"path":["Notes"],"tags":["informatik/programmierung/sprachen/java"]}}
 ---
 
 # IF

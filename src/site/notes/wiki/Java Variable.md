@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-variable/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:30:35.000+02:00","dg-note-properties":{"created":"2023-08-20 16:42","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/wiki/java-variable/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:30:35.057+02:00","dg-note-properties":{"created":"2023-08-20 16:42","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java"]}}
 ---
 
 # Syntax

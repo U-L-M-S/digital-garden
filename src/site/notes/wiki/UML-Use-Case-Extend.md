@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml-use-case-extend/","tags":["informatik/uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2026-07-02T15:36:34.000+02:00","dg-note-properties":{"aliases":["UML-Use-Case-Extend","Extend-Beziehung","Extend Relationship","<<extend>>"],"created_date":"2025-11-06","links":null,"tags":["informatik/uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"]}}
+{"dg-publish":true,"permalink":"/wiki/uml-use-case-extend/","tags":["informatik/uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2026-07-02T15:36:34.104+02:00","dg-note-properties":{"aliases":["UML-Use-Case-Extend","Extend-Beziehung","Extend Relationship","<<extend>>"],"created_date":"2025-11-06","links":null,"tags":["informatik/uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"]}}
 ---
 
 >Eine **Extend-Beziehung** zeigt, dass ein Use Case einen anderen Use Case **optional** erweitern kann.

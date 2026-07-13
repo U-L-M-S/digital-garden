@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/inject/","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/sprachen/java/annotation"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["inject","cdi inject","@inject"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/sprachen/java/annotation"]}}
+{"dg-publish":true,"permalink":"/wiki/inject/","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/sprachen/java/annotation"],"noteIcon":"","updated":"2026-07-02T13:17:19.615+02:00","dg-note-properties":{"aliases":["inject","cdi inject","@inject"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/sprachen/java/annotation"]}}
 ---
 
 >[[wiki/@Inject\|@Inject]] ist die generische DI-[[wiki/Annotation\|Annotation]] aus [[wiki/CDI\|CDI]].

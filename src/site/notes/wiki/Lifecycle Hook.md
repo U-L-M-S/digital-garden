@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lifecycle-hook/","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/pattern"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["lifecycle hook","lifecycle hooks"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/pattern"]}}
+{"dg-publish":true,"permalink":"/wiki/lifecycle-hook/","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/pattern"],"noteIcon":"","updated":"2026-07-02T13:17:19.797+02:00","dg-note-properties":{"aliases":["lifecycle hook","lifecycle hooks"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/pattern"]}}
 ---
 
 >Ein [[wiki/Lifecycle Hook\|Lifecycle Hook]] ist eine Methode, die der Container an festen Punkten im Lebenszyklus einer Bean aufruft.

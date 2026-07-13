@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/wasserfallmodell/","tags":["ausbildung/gfn/ap1/vorbereitung","projektmanagement"],"noteIcon":"","updated":"2026-05-13T08:20:01.000+02:00","dg-note-properties":{"aliases":["waterfall model","Waterfall Model","Waterfall-Mdel"],"created_date":"2024-11-10","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/wasserfallmodell/","tags":["ausbildung/gfn/ap1/vorbereitung","projektmanagement"],"noteIcon":"","updated":"2026-05-13T08:20:01.437+02:00","dg-note-properties":{"aliases":["waterfall model","Waterfall Model","Waterfall-Mdel"],"created_date":"2024-11-10","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","projektmanagement"]}}
 ---
 
 

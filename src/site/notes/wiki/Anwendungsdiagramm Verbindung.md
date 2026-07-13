@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/anwendungsdiagramm-verbindung/","tags":["informatik/uml/anwendungsdiagramm"],"noteIcon":"","updated":"2026-07-02T15:36:31.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-21","links":null,"tags":["informatik/uml/anwendungsdiagramm"]}}
+{"dg-publish":true,"permalink":"/wiki/anwendungsdiagramm-verbindung/","tags":["informatik/uml/anwendungsdiagramm"],"noteIcon":"","updated":"2026-07-02T15:36:31.796+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-21","links":null,"tags":["informatik/uml/anwendungsdiagramm"]}}
 ---
 
 >Es zeigt, welche [[wiki/Anwendungsdiagramm Akteur\|Anwendungsdiagramm Akteur]] mit welchen [[wiki/Anwendungsdiagramm Anwendungsfall\|Anwendungsdiagramm Anwendungsfall]] interagieren.

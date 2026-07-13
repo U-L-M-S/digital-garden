@@ -4,4 +4,4 @@
 
 
 **Kopplungselemente** - Hardware die mehrere Netzwerk-Geräte miteinander verbindet.
-[[wiki/Hub\|HUB]], [[wiki/Switch\|Switch]], [[wiki/Router\|Router]] sind Beispiele - ab 3 Geräten im [[wiki/LAN\|LAN]] erforderlich.
+[[wiki/Hub\|HUB]], [[Switch\|Switch]], [[wiki/Router\|Router]] sind Beispiele - ab 3 Geräten im [[wiki/LAN\|LAN]] erforderlich.

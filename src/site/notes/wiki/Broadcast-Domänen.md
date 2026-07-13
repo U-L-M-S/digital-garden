@@ -4,4 +4,4 @@
 
 
 **Broadcast-Domänen** - Netzwerk-Bereich in dem [[wiki/Broadcast\|Broadcast]]-Nachrichten alle Geräte erreichen.
-[[wiki/Router\|Router]] trennen, [[wiki/Switch\|Switch]]es verbinden - [[wiki/VLAN\|VLAN]]s können Domänen in einem Switch trennen.
+[[wiki/Router\|Router]] trennen, [[Switch\|Switch]]es verbinden - [[wiki/VLAN\|VLAN]]s können Domänen in einem Switch trennen.

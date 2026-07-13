@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml/","tags":["ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","informatik/uml"],"noteIcon":"","updated":"2026-07-02T15:36:34.000+02:00","dg-note-properties":{"aliases":["Unified Modeling Language","uml"],"created_date":"2024-09-26","links":null,"tags":["ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","informatik/uml"]}}
+{"dg-publish":true,"permalink":"/wiki/uml/","tags":["ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","informatik/uml"],"noteIcon":"","updated":"2026-07-02T15:36:34.649+02:00","dg-note-properties":{"aliases":["Unified Modeling Language","uml"],"created_date":"2024-09-26","links":null,"tags":["ausbildung/gfn/ap2","GFN/prüfungsrelevant/AP2","informatik/uml"]}}
 ---
 
 

@@ -3,5 +3,5 @@
 ---
 
 
-**Source Address Table (SAT)** - Interne Tabelle im [[wiki/Switch\|Switch]] die [[MAC-Adresse\|MAC-Adresse]]n und Ports verknüpft.
+**Source Address Table (SAT)** - Interne Tabelle im [[Switch\|Switch]] die [[MAC-Adresse\|MAC-Adresse]]n und Ports verknüpft.
 "Gedächtnis" des Switches - wird durch [[MAC-Adresse\|MAC-Adresse]]n lernen aufgebaut und durch Altern gepflegt.

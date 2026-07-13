@@ -3,5 +3,5 @@
 ---
 
 
-**Cut-Through** - [[wiki/Switch\|Switch]]-Verfahren das Pakete sofort nach Zieladresse weiterleitet.
+**Cut-Through** - [[Switch\|Switch]]-Verfahren das Pakete sofort nach Zieladresse weiterleitet.
 Sehr schnell aber riskant - fehlerhafte Pakete werden ungefiltert weitergeleitet.

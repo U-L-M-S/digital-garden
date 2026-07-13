@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-collection/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"tags":["informatik/programmierung/sprachen/java"],"aliases":["java collection"],"links":null,"created_date":"2026-02-10"}}
+{"dg-publish":true,"permalink":"/wiki/java-collection/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.786+02:00","dg-note-properties":{"tags":["informatik/programmierung/sprachen/java"],"aliases":["java collection"],"links":null,"created_date":"2026-02-10"}}
 ---
 
 > Collections in [[wiki/Java\|Java]] sind alle Möglichkeiten wie wir mehrere Sachen speichern können.

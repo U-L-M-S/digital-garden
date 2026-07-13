@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/getter-methode/","tags":["informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["Getter-Methode","Java Getter Methode"],"created_date":"2024-10-21","links":"[[wiki/OOP\|OOP]]","tags":["informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/wiki/getter-methode/","tags":["informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.754+02:00","dg-note-properties":{"aliases":["Getter-Methode","Java Getter Methode"],"created_date":"2024-10-21","links":"[[wiki/OOP\|OOP]]","tags":["informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"]}}
 ---
 
 

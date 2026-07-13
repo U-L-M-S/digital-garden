@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sql-update/","tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T01:13:38.000+02:00","dg-note-properties":{"tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"aliases":["SQL UPDATE"],"links":null,"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/wiki/sql-update/","tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T01:13:38.529+02:00","dg-note-properties":{"tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"aliases":["SQL UPDATE"],"links":null,"created_date":"2025-11-12"}}
 ---
 
 >Befehl wird verwendet, um bereits existierende Daten in einer [[wiki/SQL Tabelle\|SQL Tabelle]] zu ändern.

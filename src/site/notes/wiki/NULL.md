@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/null/","tags":["informatik/programmierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["None","Undefined","NIL"],"created_date":"2024-10-11","links":null,"tags":["informatik/programmierung"]}}
+{"dg-publish":true,"permalink":"/wiki/null/","tags":["informatik/programmierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.805+02:00","dg-note-properties":{"aliases":["None","Undefined","NIL"],"created_date":"2024-10-11","links":null,"tags":["informatik/programmierung"]}}
 ---
 
 >Wir wissen, dass jede [[wiki/Variable\|Variable]] einen [[wiki/Datentyp\|Datentyp]] hat und einen Wert.  

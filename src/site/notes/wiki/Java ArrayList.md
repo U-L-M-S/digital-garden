@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-array-list/","tags":["grundlagen/array","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"tags":["grundlagen/array","informatik/programmierung/sprachen/java"],"aliases":["java ArrayList"],"links":null,"created_date":"2026-02-10"}}
+{"dg-publish":true,"permalink":"/wiki/java-array-list/","tags":["grundlagen/array","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.776+02:00","dg-note-properties":{"tags":["grundlagen/array","informatik/programmierung/sprachen/java"],"aliases":["java ArrayList"],"links":null,"created_date":"2026-02-10"}}
 ---
 
 ```java

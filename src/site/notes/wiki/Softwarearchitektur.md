@@ -293,7 +293,7 @@
 
 ## [[wiki/SAN\|SAN]] - Storage Area Network
 
->Block-basierter Speicher - wie eine lokale [[wiki/Festplatte\|Festplatte]] über Netzwerk.
+>Block-basierter Speicher - wie eine lokale [[Festplatte\|Festplatte]] über Netzwerk.
 
 **Verwendung:**
 - [[wiki/Datenbank\|Datenbank]]-Server

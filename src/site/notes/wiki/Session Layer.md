@@ -3,5 +3,5 @@
 ---
 
 
-**Session Layer (Schicht 5)** - Verbindungssteuerung im [[wiki/OSI-Schichtenmodell\|OSI-Schichtenmodell]].
+**Session Layer (Schicht 5)** - Verbindungssteuerung im [[OSI-Schichtenmodell\|OSI-Schichtenmodell]].
 Verwaltet Kommunikations-Sitzungen - öffnet, überwacht und schließt Verbindungen.

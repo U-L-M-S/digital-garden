@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/entwicklung-und-umsetzung-von-algorithmen/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:38:20.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn/ap2/vorbereitung"],"aliases":null,"links":null,"created_date":"2025-11-06"}}
+{"dg-publish":true,"permalink":"/wiki/entwicklung-und-umsetzung-von-algorithmen/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:38:20.853+02:00","dg-note-properties":{"tags":["ausbildung/gfn/ap2/vorbereitung"],"aliases":null,"links":null,"created_date":"2025-11-06"}}
 ---
 
 
@@ -232,7 +232,7 @@ void bubbleSort(int[] arr) {
 }
 ```
 
-#### [[wiki/Selection Sort\|Selection Sort]]
+#### [[Selection Sort\|Selection Sort]]
 >Sucht immer das kleinste Element und setzt es an die richtige Position.
 
 🆕 **Detailliert im Katalog 2025!**
@@ -262,7 +262,7 @@ void selectionSort(int[] arr) {
 }
 ```
 
-#### [[wiki/Insertion Sort\|Insertion Sort]]
+#### [[Insertion Sort\|Insertion Sort]]
 >Fügt Elemente eins nach dem anderen an die richtige Stelle ein - wie Karten sortieren.
 
 🆕 **Detailliert im Katalog 2025!**

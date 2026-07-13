@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/betriebskosten/","tags":["wirtschaft/bwl"],"noteIcon":"","updated":"2026-07-02T18:15:46.000+02:00","dg-note-properties":{"aliases":["Operating Costs","laufende Kosten"],"created":"2025-10-29 12:00","links":null,"path":"Notes","tags":["wirtschaft/bwl"]}}
+{"dg-publish":true,"permalink":"/wiki/betriebskosten/","tags":["wirtschaft/bwl"],"noteIcon":"","updated":"2026-07-02T18:15:46.776+02:00","dg-note-properties":{"aliases":["Operating Costs","laufende Kosten"],"created":"2025-10-29 12:00","links":null,"path":"Notes","tags":["wirtschaft/bwl"]}}
 ---
 
 >**Betriebskosten** sind alle **laufenden Kosten**, die während der Nutzung von Anlagen, Maschinen oder Produkten regelmäßig anfallen.

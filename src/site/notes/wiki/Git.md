@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/git/","tags":["status/fertig","tools/versionsverwaltung/git"],"noteIcon":"","updated":"2026-07-02T12:18:59.000+02:00","dg-note-properties":{"Links":["https://www.youtube.com/watch?v=XwWReqRfnjs"],"Path":["Tool"],"banner":"![github.jpg](/img/user/assets/Banners/github.jpg)","banner_y":0.376,"modified":"2023-08-04 21:38","tags":["status/fertig","tools/versionsverwaltung/git"]}}
+{"dg-publish":true,"permalink":"/wiki/git/","tags":["status/fertig","tools/versionsverwaltung/git"],"noteIcon":"","updated":"2026-07-02T12:18:59.059+02:00","dg-note-properties":{"Links":["https://www.youtube.com/watch?v=XwWReqRfnjs"],"Path":["Tool"],"banner":"![github.jpg](/img/user/assets/Banners/github.jpg)","banner_y":0.376,"modified":"2023-08-04 21:38","tags":["status/fertig","tools/versionsverwaltung/git"]}}
 ---
 
 >Versionskontrollsystem.  

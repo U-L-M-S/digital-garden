@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/authentifizierung/","tags":["informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-11T00:30:20.006+02:00","dg-note-properties":{"aliases":null,"created_date":"2024-10-17","links":null,"tags":["informatik/sicherheit/it-sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/authentifizierung/","tags":["informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-11T00:30:20.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2024-10-17","links":null,"tags":["informatik/sicherheit/it-sicherheit"]}}
 ---
 
 >Die Herkunft von Informationen oder Nachrichten ist verlässlich und kann bestätigt werden.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml-anwendungsdiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/uml/anwendungsdiagramm"],"noteIcon":"","updated":"2026-07-02T15:36:32.000+02:00","dg-note-properties":{"aliases":["Anwendungsdiagramm","Use-Case-Diagramm"],"created_date":"2024-11-06","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/uml/anwendungsdiagramm"]}}
+{"dg-publish":true,"permalink":"/wiki/uml-anwendungsdiagramm/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/uml/anwendungsdiagramm"],"noteIcon":"","updated":"2026-07-02T15:36:32.927+02:00","dg-note-properties":{"aliases":["Anwendungsdiagramm","Use-Case-Diagramm"],"created_date":"2024-11-06","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/uml/anwendungsdiagramm"]}}
 ---
 
 >Ein **Anwendungsfall-Diagramm** ist ein [[wiki/UML\|UML]]-Diagramm, das zeigt, wie externe Akteure (z. B. Benutzer oder andere Systeme) mit dem System über verschiedene Anwendungsfälle (Use Cases) interagieren.  

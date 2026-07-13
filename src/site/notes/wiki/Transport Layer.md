@@ -3,5 +3,5 @@
 ---
 
 
-**Transport Layer (Schicht 4)** - Zuverlässige Ende-zu-Ende-Übertragung im [[wiki/OSI-Schichtenmodell\|OSI-Schichtenmodell]].
-[[wiki/TCP\|TCP]] und [[wiki/UDP\|UDP]] arbeiten hier - sorgt für vollständige und korrekte Datenübertragung.
+**Transport Layer (Schicht 4)** - Zuverlässige Ende-zu-Ende-Übertragung im [[OSI-Schichtenmodell\|OSI-Schichtenmodell]].
+[[wiki/TCP\|TCP]] und [[UDP\|UDP]] arbeiten hier - sorgt für vollständige und korrekte Datenübertragung.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sql-insert/","tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T01:13:38.000+02:00","dg-note-properties":{"aliases":["SQL INSERT"],"created_date":"2024-10-10","links":null,"tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"]}}
+{"dg-publish":true,"permalink":"/wiki/sql-insert/","tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T01:13:38.525+02:00","dg-note-properties":{"aliases":["SQL INSERT"],"created_date":"2024-10-10","links":null,"tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"]}}
 ---
 
 >Befehl wird verwendet, um [[wiki/SQL Zeile\|SQL Zeile]]n (Werte) in die [[wiki/SQL Spalte\|SQL Spalte]]n ([[wiki/Variable\|Variable]]n) einzufügen.

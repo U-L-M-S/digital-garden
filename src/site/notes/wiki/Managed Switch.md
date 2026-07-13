@@ -3,5 +3,5 @@
 ---
 
 
-**Managed Switch** - Vollprofessioneller [[wiki/Switch\|Switch]] mit allen Konfigurations- und Überwachungsmöglichkeiten.
+**Managed Switch** - Vollprofessioneller [[Switch\|Switch]] mit allen Konfigurations- und Überwachungsmöglichkeiten.
 Unterstützt [[wiki/VLAN\|VLAN]], QoS, [[wiki/SNMP\|SNMP]], Port-Mirroring - Standard für Unternehmensnetze.

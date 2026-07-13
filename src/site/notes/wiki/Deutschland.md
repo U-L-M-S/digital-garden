@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/deutschland/","tags":["allgemein/land"],"noteIcon":"","updated":"2026-07-02T18:15:52.000+02:00","dg-note-properties":{"aliases":["Germany"],"created":"2025-10-29 12:00","links":null,"path":"Notes","tags":["allgemein/land"]}}
+{"dg-publish":true,"permalink":"/wiki/deutschland/","tags":["allgemein/land"],"noteIcon":"","updated":"2026-07-02T18:15:52.533+02:00","dg-note-properties":{"aliases":["Germany"],"created":"2025-10-29 12:00","links":null,"path":"Notes","tags":["allgemein/land"]}}
 ---
 
 >**Deutschland** ist ein Land in Mitteleuropa und Mitglied der EU.

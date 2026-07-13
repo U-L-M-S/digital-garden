@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sql-datenbank/","tags":["informatik/code/sql","informatik/datenbank"],"noteIcon":"","updated":"2026-07-02T01:13:38.000+02:00","dg-note-properties":{"aliases":["SQL Erstellung einer Datenbank"],"created_date":"2024-10-09","links":null,"tags":["informatik/code/sql","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/sql-datenbank/","tags":["informatik/code/sql","informatik/datenbank"],"noteIcon":"","updated":"2026-07-02T01:13:38.522+02:00","dg-note-properties":{"aliases":["SQL Erstellung einer Datenbank"],"created_date":"2024-10-09","links":null,"tags":["informatik/code/sql","informatik/datenbank"]}}
 ---
 
 ```sql

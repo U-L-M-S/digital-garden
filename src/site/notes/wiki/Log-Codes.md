@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/log-codes/","tags":["informatik/programmierung/sprachen/java/framework"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["wildfly log codes","log codes","wfly codes"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework"]}}
+{"dg-publish":true,"permalink":"/wiki/log-codes/","tags":["informatik/programmierung/sprachen/java/framework"],"noteIcon":"","updated":"2026-07-02T13:17:19.798+02:00","dg-note-properties":{"aliases":["wildfly log codes","log codes","wfly codes"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework"]}}
 ---
 
 >[[wiki/Log-Codes\|Log-Codes]] sind die Präfixe in [[wiki/WildFly\|WildFly]]-Logs wie `WFLYSRV0010` oder `HHH000412`.

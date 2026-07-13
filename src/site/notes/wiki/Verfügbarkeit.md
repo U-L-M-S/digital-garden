@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/verfuegbarkeit/","tags":["informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.000+02:00","dg-note-properties":{"created":"2024-03-11 13:59","links":null,"tags":["informatik/sicherheit/it-sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/verfuegbarkeit/","tags":["informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.289+02:00","dg-note-properties":{"created":"2024-03-11 13:59","links":null,"tags":["informatik/sicherheit/it-sicherheit"]}}
 ---
 
 > Informationen sollen verfügbar sein, wenn sie gebraucht werden.

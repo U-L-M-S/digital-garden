@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["GFN/LF01","GFN/prüfungsrelevant/AP1","status/fertig"],"noteIcon":"","updated":"2026-07-02T12:18:59.000+02:00","dg-note-properties":{"tags":["GFN/LF01","GFN/prüfungsrelevant/AP1","status/fertig"],"links":"https://lernplattform.gfn.de/course/view.php?id=12074&section=3","path":"GFN","created":"2024-02-05 21:10"}}
+{"dg-publish":true,"permalink":"/wiki/lf-01-das-unternehmen-und-die-eigene-rolle-im-betrieb/","tags":["GFN/LF01","GFN/prüfungsrelevant/AP1","status/fertig"],"noteIcon":"","updated":"2026-07-02T12:18:59.083+02:00","dg-note-properties":{"tags":["GFN/LF01","GFN/prüfungsrelevant/AP1","status/fertig"],"links":"https://lernplattform.gfn.de/course/view.php?id=12074&section=3","path":"GFN","created":"2024-02-05 21:10"}}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.

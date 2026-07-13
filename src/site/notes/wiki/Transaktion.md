@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/transaktion/","tags":["informatik/programmierung/sprachen/java/framework","informatik/datenbank"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["transaktion","transaction","tx"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/transaktion/","tags":["informatik/programmierung/sprachen/java/framework","informatik/datenbank"],"noteIcon":"","updated":"2026-07-02T13:17:19.864+02:00","dg-note-properties":{"aliases":["transaktion","transaction","tx"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/datenbank"]}}
 ---
 
 >Eine [[wiki/Transaktion\|Transaktion]] ist eine Einheit von Operationen, die **ganz oder gar nicht** wirken (Atomarität).

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-12-projektmanagement/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2026-05-12T15:40:49.000+02:00","dg-note-properties":{"tags":["GFN/LF12/FISI"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
+{"dg-publish":true,"permalink":"/wiki/lf-12-projektmanagement/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2026-05-12T15:40:49.080+02:00","dg-note-properties":{"tags":["GFN/LF12/FISI"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
 ---
 
 # LF12b Tag 1 - [[wiki/Projektmanagement\|Projektmanagement]] Wiederholung

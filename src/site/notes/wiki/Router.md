@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/router/","tags":["informatik/hardware","informatik/netzwerk/gateway"],"noteIcon":"","updated":"2026-05-12T15:57:19.000+02:00","dg-note-properties":{"aliases":[],"created":"2024-07-22 18:49","links":null,"tags":["informatik/hardware","informatik/netzwerk/gateway"]}}
+{"dg-publish":true,"permalink":"/wiki/router/","tags":["informatik/hardware","informatik/netzwerk/gateway"],"noteIcon":"","updated":"2026-05-12T15:57:19.677+02:00","dg-note-properties":{"aliases":[],"created":"2024-07-22 18:49","links":null,"tags":["informatik/hardware","informatik/netzwerk/gateway"]}}
 ---
 
 >Hardware, die verwendet wird, um [[wiki/Netzwerk\|Netzwerk]]en miteinander zu verbinden.

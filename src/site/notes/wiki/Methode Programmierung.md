@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/methode-programmierung/","tags":["informatik/programmierung/konzepte/oop","projektmanagement"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"created":"2024-06-24 12:49","links":null,"tags":["informatik/programmierung/konzepte/oop","projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/methode-programmierung/","tags":["informatik/programmierung/konzepte/oop","projektmanagement"],"noteIcon":"","updated":"2026-07-02T13:17:19.803+02:00","dg-note-properties":{"created":"2024-06-24 12:49","links":null,"tags":["informatik/programmierung/konzepte/oop","projektmanagement"]}}
 ---
 
 > In der Programmierung ist eine **Methode** eine [[wiki/Funktion Programmierung\|Funktion Programmierung]], die **innerhalb einer [[wiki/Klasse\|Klasse]] definiert** ist und auf **Instanzen dieser Klasse** angewendet wird.

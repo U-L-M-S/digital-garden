@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/tom/","tags":["datenschutz/massnahmen","informatik/sicherheit/organisatorisch"],"noteIcon":"","updated":"2026-07-02T15:37:49.000+02:00","dg-note-properties":{"tags":["datenschutz/massnahmen","informatik/sicherheit/organisatorisch"],"aliases":["Technische und organisatorische Maßnahmen","Technical and Organizational Measures"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/tom/","tags":["datenschutz/massnahmen","informatik/sicherheit/organisatorisch"],"noteIcon":"","updated":"2026-07-02T15:37:49.283+02:00","dg-note-properties":{"tags":["datenschutz/massnahmen","informatik/sicherheit/organisatorisch"],"aliases":["Technische und organisatorische Maßnahmen","Technical and Organizational Measures"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/static-java-methode/","tags":["informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["Static Java Methode","statische Methode"],"created_date":"2024-10-21","links":null,"tags":["informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/wiki/static-java-methode/","tags":["informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.849+02:00","dg-note-properties":{"aliases":["Static Java Methode","statische Methode"],"created_date":"2024-10-21","links":null,"tags":["informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"]}}
 ---
 
 >Wir haben gelernt: Wir brauchen ein [[wiki/Java Objekt\|Java Objekt]], damit wir mit [[wiki/OOP\|OOP]] in [[wiki/Java\|Java]] arbeiten können.

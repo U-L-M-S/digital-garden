@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sps/","tags":["technik/automatisierung","informatik/steuerungstechnik"],"noteIcon":"","updated":"2026-06-25T10:07:52.000+02:00","dg-note-properties":{"aliases":["Speicherprogrammierbare Steuerung","PLC","sps"],"created":"2026-06-25 09:20","links":null,"path":"Notes","tags":["technik/automatisierung","informatik/steuerungstechnik"]}}
+{"dg-publish":true,"permalink":"/wiki/sps/","tags":["technik/automatisierung","informatik/steuerungstechnik"],"noteIcon":"","updated":"2026-06-25T10:07:52.548+02:00","dg-note-properties":{"aliases":["Speicherprogrammierbare Steuerung","PLC","sps"],"created":"2026-06-25 09:20","links":null,"path":"Notes","tags":["technik/automatisierung","informatik/steuerungstechnik"]}}
 ---
 
 >Eine **SPS** (Speicherprogrammierbare Steuerung, engl. PLC) ist ein Industrie-Computer, der Maschinen und Anlagen steuert.

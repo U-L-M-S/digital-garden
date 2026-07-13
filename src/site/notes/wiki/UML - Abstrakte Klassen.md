@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml-abstrakte-klassen/","tags":["informatik/uml/klassendiagramm","informatik/programmierung/konzepte/oop","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2026-07-02T15:36:32.000+02:00","dg-note-properties":{"tags":["informatik/uml/klassendiagramm","informatik/programmierung/konzepte/oop","ausbildung/gfn/ap1/vorbereitung"],"aliases":["UML abstrakte Klasse","abstrakte Klasse UML","UML abstract class","abstrakte Methoden UML"],"links":null,"created_date":"2025-11-07"}}
+{"dg-publish":true,"permalink":"/wiki/uml-abstrakte-klassen/","tags":["informatik/uml/klassendiagramm","informatik/programmierung/konzepte/oop","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2026-07-02T15:36:32.495+02:00","dg-note-properties":{"tags":["informatik/uml/klassendiagramm","informatik/programmierung/konzepte/oop","ausbildung/gfn/ap1/vorbereitung"],"aliases":["UML abstrakte Klasse","abstrakte Klasse UML","UML abstract class","abstrakte Methoden UML"],"links":null,"created_date":"2025-11-07"}}
 ---
 
 >In [[wiki/UML-Klassendiagramm\|UML-Klassendiagramm]]en werden **abstrakte Klassen** als Klassen dargestellt, die **nicht direkt instanziiert** werden können und als **Vorlage** für andere Klassen dienen.

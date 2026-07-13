@@ -3,5 +3,5 @@
 ---
 
 
-**Industrielle Switche** - Robuste [[wiki/Switch\|Switch]]es für harte Umgebungen.
+**Industrielle Switche** - Robuste [[Switch\|Switch]]es für harte Umgebungen.
 Temperaturresistent, vibrationsfest - für Fabriken und Außenbereiche konzipiert.

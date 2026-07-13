@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/prozess/","tags":["projektmanagement","informatik"],"noteIcon":"","updated":"2026-07-11T19:49:39.949+02:00","dg-note-properties":{"created":"2024-05-16 09:22","links":null,"tags":["projektmanagement","informatik"]}}
+{"dg-publish":true,"permalink":"/wiki/prozess/","tags":["projektmanagement","informatik"],"noteIcon":"","updated":"2026-07-11T19:49:39.000+02:00","dg-note-properties":{"created":"2024-05-16 09:22","links":null,"tags":["projektmanagement","informatik"]}}
 ---
 
 >Eine **Aufgabe** ist in der Computerwelt eine einzelne, definierte Handlung oder Operation, die von einem Computer ausgeführt wird. Alle Aufgaben, die ein Computer durchführt, sind oft im Hintergrund verborgen und laufen automatisiert ab.
@@ -35,7 +35,7 @@ Ein Prozess ist immer in genau einem von ==drei Zuständen==:
                                 └───────────┘
 ```
 
-Die Übergänge steuert das [[wiki/Scheduling\|Scheduling]]; den Wechsel selbst macht der [[wiki/Kontextwechsel\|Kontextwechsel]].
+Die Übergänge steuert das [[Scheduling\|Scheduling]]; den Wechsel selbst macht der [[wiki/Kontextwechsel\|Kontextwechsel]].
 
 # Prozesskontrollblock (PCB)
 

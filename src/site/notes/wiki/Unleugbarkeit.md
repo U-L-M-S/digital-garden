@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/unleugbarkeit/","tags":["informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.000+02:00","dg-note-properties":{"aliases":["non-repudiation"],"created_date":"2024-11-02","links":null,"tags":["informatik/sicherheit/it-sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/unleugbarkeit/","tags":["informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.287+02:00","dg-note-properties":{"aliases":["non-repudiation"],"created_date":"2024-11-02","links":null,"tags":["informatik/sicherheit/it-sicherheit"]}}
 ---
 
 >**Unleugbarkeit** (oder Nichtabstreitbarkeit) ist ein Sicherheitsprinzip, das sicherstellt, dass ein Absender nicht leugnen kann, eine Nachricht gesendet oder eine bestimmte Aktion durchgeführt zu haben. 

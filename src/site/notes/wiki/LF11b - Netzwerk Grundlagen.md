@@ -36,7 +36,7 @@
 ### Beispiel Port-Zuordnung
 
 - Web-Server: [[wiki/TCP\|TCP]]/80 ([[wiki/HTTP\|HTTP]])
-- VoIP-Server: [[wiki/UDP\|UDP]]/5004
+- VoIP-Server: [[UDP\|UDP]]/5004
 - [[wiki/Mail-Server\|Mail-Server]]: [[wiki/TCP\|TCP]]/143 ([[wiki/IMAP\|IMAP]])
 - [[wiki/HTTPS\|HTTPS]]: [[wiki/TCP\|TCP]]/443
 
@@ -48,7 +48,7 @@
 - Zuverlässige Datenübertragung
 - Fehlerkorrektur und Reihenfolgen-Kontrolle
 
-### [[wiki/UDP\|UDP]] (User Datagram Protocol)
+### [[UDP\|UDP]] (User Datagram Protocol)
 
 - Verbindungslos
 - Schnelle [[wiki/Datenübertragung\|Datenübertragung]]

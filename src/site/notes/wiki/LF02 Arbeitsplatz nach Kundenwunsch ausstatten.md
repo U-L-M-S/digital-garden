@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["GFN/LF02","GFN/prüfungsrelevant/AP1","status/fertig"],"noteIcon":"","updated":"2026-07-02T12:18:59.000+02:00","dg-note-properties":{"tags":["GFN/LF02","GFN/prüfungsrelevant/AP1","status/fertig"],"links":["https://lernplattform.gfn.de/course/view.php?id=12341"],"reference":null,"path":["GFN"],"created":"2024-03-11 08:55"}}
+{"dg-publish":true,"permalink":"/wiki/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["GFN/LF02","GFN/prüfungsrelevant/AP1","status/fertig"],"noteIcon":"","updated":"2026-07-02T12:18:59.084+02:00","dg-note-properties":{"tags":["GFN/LF02","GFN/prüfungsrelevant/AP1","status/fertig"],"links":["https://lernplattform.gfn.de/course/view.php?id=12341"],"reference":null,"path":["GFN"],"created":"2024-03-11 08:55"}}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
@@ -62,9 +62,9 @@ Wichtige Anschlüsse:
 # III. [[wiki/Netzwerk\|Netzwerk]]
 > [[wiki/Netzwerk\|Netzwerk]]e verbinden Computer - wie Straßen zwischen Häusern.
 
-## [[wiki/Switch\|Switch]] und [[wiki/Router\|Router]]
+## [[Switch\|Switch]] und [[wiki/Router\|Router]]
 
-- [[wiki/Switch\|Switch]] - Verteiler im gleichen [[wiki/Netzwerk\|Netzwerk]]
+- [[Switch\|Switch]] - Verteiler im gleichen [[wiki/Netzwerk\|Netzwerk]]
 - [[wiki/Router\|Router]] - Wegweiser zwischen verschiedenen [[wiki/Netzwerk\|Netzwerk]]en
 
 ## [[wiki/IP-Adresse\|IP-Adresse]]n
@@ -92,8 +92,8 @@ Beispiel /24: $2^8 - 2 = 254$ Computer möglich
 3. Computer: "Danke!"
 4. Server: "Gehört dir für 24 Stunden"
 
-# IV. [[wiki/Betriebssystem\|Betriebssystem]]
-> [[wiki/Betriebssystem\|Betriebssystem]] ist der Chef im Computer - verwaltet alles.
+# IV. [[Betriebssystem\|Betriebssystem]]
+> [[Betriebssystem\|Betriebssystem]] ist der Chef im Computer - verwaltet alles.
 
 ## Aufgaben:
 
@@ -110,7 +110,7 @@ Beispiel /24: $2^8 - 2 = 254$ Computer möglich
 1. [[wiki/CPU\|CPU]] da?
 2. [[wiki/RAM\|RAM]] funktioniert?
 3. Festplatte erreichbar?
-4. [[wiki/Betriebssystem\|Betriebssystem]] starten
+4. [[Betriebssystem\|Betriebssystem]] starten
 
 # V. IT-Sicherheit
 > Schützt deine Daten vor bösen Menschen und Unfällen.

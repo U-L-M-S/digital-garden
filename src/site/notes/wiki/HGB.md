@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/hgb/","tags":["rechtliches/handelsrecht","wirtschaft/unternehmen","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T15:41:59.000+02:00","dg-note-properties":{"tags":["rechtliches/handelsrecht","wirtschaft/unternehmen","GFN/prüfungsrelevant/AP2"],"aliases":["Handelsgesetzbuch","Handelsrecht"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/hgb/","tags":["rechtliches/handelsrecht","wirtschaft/unternehmen","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T15:41:59.605+02:00","dg-note-properties":{"tags":["rechtliches/handelsrecht","wirtschaft/unternehmen","GFN/prüfungsrelevant/AP2"],"aliases":["Handelsgesetzbuch","Handelsrecht"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 >Das HGB (Handelsgesetzbuch) ist das Gesetz für Geschäfte zwischen Unternehmen (Kaufleuten).

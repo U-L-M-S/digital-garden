@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dependency-injection/","tags":["informatik/programmierung/pattern","informatik/programmierung/sprachen/java/framework"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["dependency injection","di","injection"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/pattern","informatik/programmierung/sprachen/java/framework"]}}
+{"dg-publish":true,"permalink":"/wiki/dependency-injection/","tags":["informatik/programmierung/pattern","informatik/programmierung/sprachen/java/framework"],"noteIcon":"","updated":"2026-07-02T13:17:19.718+02:00","dg-note-properties":{"aliases":["dependency injection","di","injection"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/pattern","informatik/programmierung/sprachen/java/framework"]}}
 ---
 
 >[[wiki/Dependency Injection\|Dependency Injection]] (DI) bedeutet: nicht du erstellst deine Abhängigkeiten — der Container gibt sie dir.

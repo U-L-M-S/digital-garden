@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/netzwerkprotokolle/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2026-05-12T16:02:56.000+02:00","dg-note-properties":{"aliases":[],"created":"2024-07-25 11:20","links":null,"path":"Notes","tags":["informatik/netzwerk/protokoll"]}}
+{"dg-publish":true,"permalink":"/wiki/netzwerkprotokolle/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2026-05-12T16:02:56.365+02:00","dg-note-properties":{"aliases":[],"created":"2024-07-25 11:20","links":null,"path":"Notes","tags":["informatik/netzwerk/protokoll"]}}
 ---
 
 >Ein [[wiki/Netzwerkprotokolle\|Netzwerkprotokoll]] ist eine Sammlung von Regeln und Vereinbarungen, die festlegen, wie Daten zwischen Computern oder Geräten ausgetauscht werden.

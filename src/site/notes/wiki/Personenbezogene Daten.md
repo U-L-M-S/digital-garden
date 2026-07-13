@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/personenbezogene-daten/","tags":["ausbildung/gfn/ap1","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-02-24","links":null,"tags":["ausbildung/gfn/ap1","informatik/sicherheit/it-sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/personenbezogene-daten/","tags":["ausbildung/gfn/ap1","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.254+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-02-24","links":null,"tags":["ausbildung/gfn/ap1","informatik/sicherheit/it-sicherheit"]}}
 ---
 
 >Alle Informationen, die verwendet werden, um eine [[wiki/natürliche Person\|natürliche Person]] zu identifizieren:  

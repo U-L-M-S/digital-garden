@@ -94,16 +94,16 @@ Auf ein Gelände beschränktes [[wiki/Netzwerk\|Netzwerk]].
 > Virtuelles [[wiki/LAN\|LAN]].
 
 >Aufteilen in getrennte [[wiki/LAN\|LAN]]s in gemeinsamer Infrastruktur.
->Es wird sehr häufig in [[wiki/Switch\|Switch]]es verwendet.
+>Es wird sehr häufig in [[Switch\|Switch]]es verwendet.
 
 
 
-Mit anderen Worten: 1 [[wiki/Switch\|Switch]] mit einem oder mehreren [[wiki/VLAN\|VLAN]]s.
+Mit anderen Worten: 1 [[Switch\|Switch]] mit einem oder mehreren [[wiki/VLAN\|VLAN]]s.
 ![VLAN-20240722141645311.png](/img/user/assets/IMG/VLAN-20240722141645311.png)
 ![VLAN-20240722141826439.png](/img/user/assets/IMG/VLAN-20240722141826439.png)
 
 >[!important] 
->Man kann auch [[wiki/Switch\|Switch]]es verbinden, um die Anzahl von Geräten pro [[wiki/VLAN\|VLAN]] zu erhöhen.
+>Man kann auch [[Switch\|Switch]]es verbinden, um die Anzahl von Geräten pro [[wiki/VLAN\|VLAN]] zu erhöhen.
 >Das hat aber viele Nachteile. Wie:
 >- Teuer
 >- Unübersichtlich

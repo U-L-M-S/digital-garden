@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml-terminologie/","tags":["informatik/uml/klassendiagramm"],"noteIcon":"","updated":"2026-07-02T15:36:33.000+02:00","dg-note-properties":{"aliases":["UML-Terminologie","Terminologie","UML Terminologie"],"created_date":"2024-11-06","links":null,"tags":["informatik/uml/klassendiagramm"]}}
+{"dg-publish":true,"permalink":"/wiki/uml-terminologie/","tags":["informatik/uml/klassendiagramm"],"noteIcon":"","updated":"2026-07-02T15:36:33.798+02:00","dg-note-properties":{"aliases":["UML-Terminologie","Terminologie","UML Terminologie"],"created_date":"2024-11-06","links":null,"tags":["informatik/uml/klassendiagramm"]}}
 ---
 
 >[[wiki/UML-Terminologie\|UML-Terminologie]]n bei [[wiki/UML-Klassendiagramm\|UML-Klassendiagramm]] sind die Linien, die Klassen verbinden.

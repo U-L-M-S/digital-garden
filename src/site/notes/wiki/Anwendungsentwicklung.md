@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/anwendungsentwicklung/","tags":["beruf/fachrichtung","informatik/programmierung/spezialisierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"tags":["beruf/fachrichtung","informatik/programmierung/spezialisierung"],"aliases":["FIAE","Fachinformatiker Anwendungsentwicklung","Software-Entwicklung"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/anwendungsentwicklung/","tags":["beruf/fachrichtung","informatik/programmierung/spezialisierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.634+02:00","dg-note-properties":{"tags":["beruf/fachrichtung","informatik/programmierung/spezialisierung"],"aliases":["FIAE","Fachinformatiker Anwendungsentwicklung","Software-Entwicklung"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

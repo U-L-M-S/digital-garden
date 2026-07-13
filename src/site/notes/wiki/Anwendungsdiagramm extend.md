@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/anwendungsdiagramm-extend/","tags":["informatik/uml/anwendungsdiagramm"],"noteIcon":"","updated":"2026-07-02T15:36:31.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-21","links":null,"tags":["informatik/uml/anwendungsdiagramm"]}}
+{"dg-publish":true,"permalink":"/wiki/anwendungsdiagramm-extend/","tags":["informatik/uml/anwendungsdiagramm"],"noteIcon":"","updated":"2026-07-02T15:36:31.930+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-21","links":null,"tags":["informatik/uml/anwendungsdiagramm"]}}
 ---
 
 >Es ist die optionale Erweiterung eines Anwendungsfalls.

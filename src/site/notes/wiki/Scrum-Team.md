@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/scrum-team/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2026-05-13T08:24:07.000+02:00","dg-note-properties":{"aliases":["scrum-team"],"created_date":"2024-11-22","links":null,"tags":["projektmanagement/vorgehensmodell/agile"]}}
+{"dg-publish":true,"permalink":"/wiki/scrum-team/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2026-05-13T08:24:07.925+02:00","dg-note-properties":{"aliases":["scrum-team"],"created_date":"2024-11-22","links":null,"tags":["projektmanagement/vorgehensmodell/agile"]}}
 ---
 
 >Ein Team, das aus 3 Teilen besteht und für Herstellung und Umsetzung eines Projekts verantwortlich ist.

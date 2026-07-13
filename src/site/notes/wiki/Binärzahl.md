@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/binaerzahl/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2026-07-11T19:50:22.930+02:00","dg-note-properties":{"aliases":["Binär"],"created":"2023-09-14 10:11","links":null,"tags":["mathe/binärzahlen"]}}
+{"dg-publish":true,"permalink":"/wiki/binaerzahl/","tags":["mathe/binärzahlen"],"noteIcon":"","updated":"2026-07-11T19:50:22.000+02:00","dg-note-properties":{"aliases":["Binär"],"created":"2023-09-14 10:11","links":null,"tags":["mathe/binärzahlen"]}}
 ---
 
 >Es ist ein Zahlsystem, bei dem man nur **zwei** Zahlen benutzt (1 und 0). 
@@ -107,7 +107,7 @@ Wir wissen, dass 8 [[wiki/Bit\|Bit]]s genau 1 [[wiki/Byte\|Byte]] entsprechen.
 
 
 >[!important] Klausur-Klassiker: „Wo ist mein Speicherplatz hin?"
->Festplatte mit *800 GB* gekauft → das [[wiki/Betriebssystem\|Betriebssystem]] rechnet binär und zeigt weniger an:
+>Festplatte mit *800 GB* gekauft → das [[Betriebssystem\|Betriebssystem]] rechnet binär und zeigt weniger an:
 >$$800 \cdot \frac{10^9}{2^{30}} \approx 745 \text{ GiB} \;(\text{aber als „GB" beschriftet})$$
 
 ## 

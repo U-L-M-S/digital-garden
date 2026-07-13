@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sql-delete/","tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T01:13:38.000+02:00","dg-note-properties":{"tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"aliases":["SQL DELETE"],"links":null,"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/wiki/sql-delete/","tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T01:13:38.521+02:00","dg-note-properties":{"tags":["informatik/code/sql","informatik/datenbank","GFN/prüfungsrelevant/AP2"],"aliases":["SQL DELETE"],"links":null,"created_date":"2025-11-12"}}
 ---
 
 >Befehl wird verwendet, um bereits existierende [[wiki/SQL Zeile\|SQL Zeile]]n aus einer [[wiki/SQL Tabelle\|SQL Tabelle]] zu löschen.

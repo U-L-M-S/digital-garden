@@ -17,7 +17,7 @@
 
 >[!info] Boot-Modi
 >**UEFI kann:**
->- **UEFI-Mode** - moderne [[wiki/Betriebssystem\|Betriebssystem]]e
+>- **UEFI-Mode** - moderne [[Betriebssystem\|Betriebssystem]]e
 >- **Legacy/CSM** - alte BIOS-Kompatibilität
 >- **Secure Boot** - nur signierte OS erlaubt
 

@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/bios/","tags":["ausbildung/gfn/ap1/vorbereitung","hardware/firmware","software/system"],"noteIcon":"","updated":"2026-07-11T19:54:22.301+02:00","dg-note-properties":{"tags":["ausbildung/gfn/ap1/vorbereitung","hardware/firmware","software/system"],"aliases":["Basic Input Output System","Firmware"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/wiki/bios/","tags":["ausbildung/gfn/ap1/vorbereitung","hardware/firmware","software/system"],"noteIcon":"","updated":"2026-07-11T19:54:22.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn/ap1/vorbereitung","hardware/firmware","software/system"],"aliases":["Basic Input Output System","Firmware"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 
 > Grundlegende Firmware auf dem [[wiki/Mainboard\|Mainboard]]-Chip - das erste Programm beim Computer-Start.
 
->> Initialisiert Hardware, führt Selbsttests durch und startet das [[wiki/Betriebssystem\|Betriebssystem]].
+>> Initialisiert Hardware, führt Selbsttests durch und startet das [[Betriebssystem\|Betriebssystem]].
 
 >[!info] BIOS-Funktionen
 >**Beim Start:**
 >- **[[POST\|POST]]** - Power On Self Test durchführen
 >- **Hardware initialisieren** - Grundkonfiguration
 >- **Boot-Reihenfolge** - welches Gerät zuerst
->- **[[wiki/Betriebssystem\|Betriebssystem]] laden** - vom Boot-Device
+>- **[[Betriebssystem\|Betriebssystem]] laden** - vom Boot-Device
 
 >[!info] BIOS-Einstellungen
 >**Konfiguration:**

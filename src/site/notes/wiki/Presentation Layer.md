@@ -3,5 +3,5 @@
 ---
 
 
-**Presentation Layer (Schicht 6)** - Datenformatierung und [[wiki/Verschlüsselung\|Verschlüsselung]] im [[wiki/OSI-Schichtenmodell\|OSI-Schichtenmodell]].
+**Presentation Layer (Schicht 6)** - Datenformatierung und [[wiki/Verschlüsselung\|Verschlüsselung]] im [[OSI-Schichtenmodell\|OSI-Schichtenmodell]].
 Wandelt zwischen verschiedenen Datenformaten um - macht Komprimierung und Chiffrieru ng.

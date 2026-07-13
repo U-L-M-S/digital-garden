@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/raid-1/","tags":["raid/mirroring","informatik/sicherheit/spiegelung","informatik/hardware"],"noteIcon":"","updated":"2026-07-02T15:37:49.000+02:00","dg-note-properties":{"created":"2025-08-27","links":"[[RAID]]","path":"Notes","tags":["raid/mirroring","informatik/sicherheit/spiegelung","informatik/hardware"]}}
+{"dg-publish":true,"permalink":"/wiki/raid-1/","tags":["raid/mirroring","informatik/sicherheit/spiegelung","informatik/hardware"],"noteIcon":"","updated":"2026-07-02T15:37:49.262+02:00","dg-note-properties":{"created":"2025-08-27","links":"[[RAID]]","path":"Notes","tags":["raid/mirroring","informatik/sicherheit/spiegelung","informatik/hardware"]}}
 ---
 
 

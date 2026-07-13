@@ -3,7 +3,7 @@
 ---
 
 
-> [[wiki/Betriebssystem\|Betriebssystem]]-Komponente für Organisation, Speicherung und Zugriff auf Dateien und Ordner.
+> [[Betriebssystem\|Betriebssystem]]-Komponente für Organisation, Speicherung und Zugriff auf Dateien und Ordner.
 
 >> Stellt Funktionen für Erstellen, Kopieren, Verschieben, Löschen und Suchen von Dateien bereit.
 

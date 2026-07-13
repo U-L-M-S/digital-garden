@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/rueckgabewerttyp/","tags":["informatik/programmierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["Rückgabewerttyp","rückgabewerttyp"],"created_date":"2024-10-21","links":null,"tags":["informatik/programmierung"]}}
+{"dg-publish":true,"permalink":"/wiki/rueckgabewerttyp/","tags":["informatik/programmierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.840+02:00","dg-note-properties":{"aliases":["Rückgabewerttyp","rückgabewerttyp"],"created_date":"2024-10-21","links":null,"tags":["informatik/programmierung"]}}
 ---
 
 >Der **Rückgabewerttyp** einer [[wiki/Programmierung Methode\|Programmierung Methode]] oder [[wiki/Funktion\|Funktion]] in der Programmierung gibt an, **welchen [[wiki/Datentyp\|Datentyp]]** die [[wiki/Programmierung Methode\|Programmierung Methode]] nach ihrer Ausführung zurückliefert. 

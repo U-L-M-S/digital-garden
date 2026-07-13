@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dns/","tags":["informatik/netzwerk/dns"],"noteIcon":"","updated":"2026-07-11T00:23:29.548+02:00","dg-note-properties":{"Created":"2023-07-30 19:50","Path":"Notes","Reference":"https://root-servers.org/","aliases":["Domain Name Server"],"tags":["informatik/netzwerk/dns"]}}
+{"dg-publish":true,"permalink":"/wiki/dns/","tags":["informatik/netzwerk/dns"],"noteIcon":"","updated":"2026-07-11T00:23:29.000+02:00","dg-note-properties":{"Created":"2023-07-30 19:50","Path":"Notes","Reference":"https://root-servers.org/","aliases":["Domain Name Server"],"tags":["informatik/netzwerk/dns"]}}
 ---
 
 > [[wiki/Domain\|Domain]] Name System

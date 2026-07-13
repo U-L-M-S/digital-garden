@@ -3,5 +3,5 @@
 ---
 
 
-**Application Layer (Schicht 7)** - Oberste [[wiki/OSI-Schichtenmodell\|OSI-Schichtenmodell]]-Ebene für Anwendungen.
+**Application Layer (Schicht 7)** - Oberste [[OSI-Schichtenmodell\|OSI-Schichtenmodell]]-Ebene für Anwendungen.
 Stellt Netzwerk-Funktionen für Programme bereit - HTTP, FTP, E-Mail arbeiten hier.

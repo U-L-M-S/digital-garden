@@ -4,4 +4,4 @@
 
 
 **Kollision** - Gleichzeitige Übertragung mehrerer Geräte im geteilten Medium.
-Problem bei [[wiki/Hub\|HUB]]s - [[wiki/Switch\|Switch]]es vermeiden das durch getrennte Kollisions-Domänen.
+Problem bei [[wiki/Hub\|HUB]]s - [[Switch\|Switch]]es vermeiden das durch getrennte Kollisions-Domänen.

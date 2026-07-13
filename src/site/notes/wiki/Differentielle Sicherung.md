@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/differentielle-sicherung/","tags":["informatik/backup/typ","informatik/sicherheit/it-sicherheit","änderungen/vollsicherung"],"noteIcon":"","updated":"2026-07-02T15:37:49.000+02:00","dg-note-properties":{"created":"2025-08-27","aliases":["Differenzielles Backup"],"links":"[[Backup-Strategien]]","path":"Notes","tags":["informatik/backup/typ","informatik/sicherheit/it-sicherheit","änderungen/vollsicherung"]}}
+{"dg-publish":true,"permalink":"/wiki/differentielle-sicherung/","tags":["informatik/backup/typ","informatik/sicherheit/it-sicherheit","änderungen/vollsicherung"],"noteIcon":"","updated":"2026-07-02T15:37:49.208+02:00","dg-note-properties":{"created":"2025-08-27","aliases":["Differenzielles Backup"],"links":"[[Backup-Strategien]]","path":"Notes","tags":["informatik/backup/typ","informatik/sicherheit/it-sicherheit","änderungen/vollsicherung"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/bash/","tags":["informatik/programmierung/sprachen/bash"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"tags":["informatik/programmierung/sprachen/bash"],"aliases":["Bash-Shell","Bourne Again Shell"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/bash/","tags":["informatik/programmierung/sprachen/bash"],"noteIcon":"","updated":"2026-07-02T13:17:19.644+02:00","dg-note-properties":{"tags":["informatik/programmierung/sprachen/bash"],"aliases":["Bash-Shell","Bourne Again Shell"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

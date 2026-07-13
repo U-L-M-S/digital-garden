@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ecc/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/sicherheit/it-sicherheit","informatik/sicherheit/kryptografie"],"noteIcon":"","updated":"2026-07-02T15:37:49.000+02:00","dg-note-properties":{"aliases":["Elliptic Curve Cryptography"],"created_date":"2025-03-18","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/sicherheit/it-sicherheit","informatik/sicherheit/kryptografie"]}}
+{"dg-publish":true,"permalink":"/wiki/ecc/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/sicherheit/it-sicherheit","informatik/sicherheit/kryptografie"],"noteIcon":"","updated":"2026-07-02T15:37:49.215+02:00","dg-note-properties":{"aliases":["Elliptic Curve Cryptography"],"created_date":"2025-03-18","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/sicherheit/it-sicherheit","informatik/sicherheit/kryptografie"]}}
 ---
 
 >Es ist ein Asymmetrische Verschlüsselungsverfahren, das auf der [[wiki/Mathe\|Mathematik]] elliptischer Kurven basiert.

@@ -3,7 +3,7 @@
 ---
 
 
->[[wiki/Port Security\|Port Security]] beschränkt den Netzwerkzugang basierend auf [[wiki/MAC Adresse\|MAC Adresse]]n an [[wiki/Switch\|Switch]]-Ports.
+>[[wiki/Port Security\|Port Security]] beschränkt den Netzwerkzugang basierend auf [[wiki/MAC Adresse\|MAC Adresse]]n an [[Switch\|Switch]]-Ports.
 
 >>Es verhindert unerlaubte Geräte-Verbindungen und MAC-Flooding-Angriffe.
 

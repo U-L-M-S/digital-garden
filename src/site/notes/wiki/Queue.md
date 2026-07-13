@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/queue/","tags":["datenstrukturen/queue","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:38:52.000+02:00","dg-note-properties":{"tags":["datenstrukturen/queue","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"aliases":["Warteschlange","FIFO","Queue-Datenstruktur"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/queue/","tags":["datenstrukturen/queue","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:38:52.178+02:00","dg-note-properties":{"tags":["datenstrukturen/queue","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"aliases":["Warteschlange","FIFO","Queue-Datenstruktur"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

@@ -3,5 +3,5 @@
 ---
 
 
-**Network Layer (Schicht 3)** - Routing und [[wiki/IP-Adresse\|IP-Adresse]]ierung im [[wiki/OSI-Schichtenmodell\|OSI-Schichtenmodell]].
+**Network Layer (Schicht 3)** - Routing und [[wiki/IP-Adresse\|IP-Adresse]]ierung im [[OSI-Schichtenmodell\|OSI-Schichtenmodell]].
 [[wiki/Router\|Router]] arbeiten hier - findet den besten Weg durch das [[wiki/Netzwerk\|Netzwerk]].

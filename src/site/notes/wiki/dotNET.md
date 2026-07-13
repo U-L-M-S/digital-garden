@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dot-net/","tags":["informatik/programmierung/sprachen/csharp/dotnet"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["dotnet",".net","microsoft .net"],"created":"2026-05-19 19:00","links":"https://dotnet.microsoft.com/","path":"Notes","tags":["informatik/programmierung/sprachen/csharp/dotnet"]}}
+{"dg-publish":true,"permalink":"/wiki/dot-net/","tags":["informatik/programmierung/sprachen/csharp/dotnet"],"noteIcon":"","updated":"2026-07-02T13:17:19.905+02:00","dg-note-properties":{"aliases":["dotnet",".net","microsoft .net"],"created":"2026-05-19 19:00","links":"https://dotnet.microsoft.com/","path":"Notes","tags":["informatik/programmierung/sprachen/csharp/dotnet"]}}
 ---
 
 >[[wiki/dotNET\|dotNET]] ist Microsofts plattformübergreifende Entwicklungsplattform für Web-, Desktop-, Mobile-, Cloud- und Spiele-Apps.

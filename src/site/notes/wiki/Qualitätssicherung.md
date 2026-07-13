@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/qualitaetssicherung/","tags":["GFN/LF10","GFN/prüfungsrelevant/AP2","informatik/netzwerk/iso"],"noteIcon":"","updated":"2026-07-02T01:13:38.000+02:00","dg-note-properties":{"aliases":["Qualitätssicherung"],"created_date":"2024-08-27","links":"https://de.wikipedia.org/wiki/ISO/IEC_25000","tags":["GFN/LF10","GFN/prüfungsrelevant/AP2","informatik/netzwerk/iso"]}}
+{"dg-publish":true,"permalink":"/wiki/qualitaetssicherung/","tags":["GFN/LF10","GFN/prüfungsrelevant/AP2","informatik/netzwerk/iso"],"noteIcon":"","updated":"2026-07-02T01:13:38.515+02:00","dg-note-properties":{"aliases":["Qualitätssicherung"],"created_date":"2024-08-27","links":"https://de.wikipedia.org/wiki/ISO/IEC_25000","tags":["GFN/LF10","GFN/prüfungsrelevant/AP2","informatik/netzwerk/iso"]}}
 ---
 
 >Es ist der [[wiki/Prozess\|Prozess]], der sicherstellt, dass Produkte oder Dienstleistungen bestimmte Qualitätsstandards erfüllen. Sie umfasst systematische Maßnahmen zur Vermeidung von Fehlern und zur Verbesserung der Qualität in der [[wiki/Produktion\|Produktion]] oder Entwicklung.

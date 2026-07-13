@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/wlan-standards/","tags":["informatik/netzwerk/wifi"],"noteIcon":"","updated":"2026-05-12T16:03:49.000+02:00","dg-note-properties":{"aliases":["WLAN Standards","WLAN Standard","WLAN-Standards","WLAN-Standard"],"created":"2024-08-04 22:06","links":null,"path":"Notes","tags":["informatik/netzwerk/wifi"]}}
+{"dg-publish":true,"permalink":"/wiki/wlan-standards/","tags":["informatik/netzwerk/wifi"],"noteIcon":"","updated":"2026-05-12T16:03:49.408+02:00","dg-note-properties":{"aliases":["WLAN Standards","WLAN Standard","WLAN-Standards","WLAN-Standard"],"created":"2024-08-04 22:06","links":null,"path":"Notes","tags":["informatik/netzwerk/wifi"]}}
 ---
 
 >Das Wireless Networking (IEEE 802.11) wurde in Generationen aufgeteilt und aktuell sind es 6.

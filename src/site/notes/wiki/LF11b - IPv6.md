@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-11b-i-pv6/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2026-05-12T15:40:22.000+02:00","dg-note-properties":{"tags":["informatik/netzwerk/ip/ipv6"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
+{"dg-publish":true,"permalink":"/wiki/lf-11b-i-pv6/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2026-05-12T15:40:22.670+02:00","dg-note-properties":{"tags":["informatik/netzwerk/ip/ipv6"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
 ---
 
 # LF11b - [[wiki/IPv6\|IPv6]]  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/arp/","tags":["informatik/netzwerk/protokoll","informatik/betriebssystem/linux/command","informatik/betriebssystem/windows/command"],"noteIcon":"","updated":"2026-07-11T00:23:14.897+02:00","dg-note-properties":{"aliases":["arp","ARP"],"created":"2024-07-17 16:28","links":null,"tags":["informatik/netzwerk/protokoll","informatik/betriebssystem/linux/command","informatik/betriebssystem/windows/command"]}}
+{"dg-publish":true,"permalink":"/wiki/arp/","tags":["informatik/netzwerk/protokoll","informatik/betriebssystem/linux/command","informatik/betriebssystem/windows/command"],"noteIcon":"","updated":"2026-07-11T00:23:14.000+02:00","dg-note-properties":{"aliases":["arp","ARP"],"created":"2024-07-17 16:28","links":null,"tags":["informatik/netzwerk/protokoll","informatik/betriebssystem/linux/command","informatik/betriebssystem/windows/command"]}}
 ---
 
 > Address Resolution Protocol
