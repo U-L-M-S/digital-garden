@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kaufvertrag/","tags":["rechtliches/vertragsrecht","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T15:41:59.000+02:00","dg-note-properties":{"tags":["rechtliches/vertragsrecht","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"aliases":["Kaufvertrag BGB","Kauf"],"links":null,"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/wiki/kaufvertrag/","tags":["rechtliches/vertragsrecht","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T15:41:59.609+02:00","dg-note-properties":{"tags":["rechtliches/vertragsrecht","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"aliases":["Kaufvertrag BGB","Kauf"],"links":null,"created_date":"2025-11-12"}}
 ---
 
 >Der Kaufvertrag ist ein gegenseitiger Vertrag, bei dem der Verkäufer eine Sache übereignet und der Käufer den Kaufpreis zahlt.

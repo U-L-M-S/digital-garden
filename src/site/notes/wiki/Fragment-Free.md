@@ -3,5 +3,5 @@
 ---
 
 
-**Fragment-Free** - [[wiki/Switch\|Switch]]-Verfahren das erste 64 Bytes prüft, dann weiterleitet.
+**Fragment-Free** - [[Switch\|Switch]]-Verfahren das erste 64 Bytes prüft, dann weiterleitet.
 Kompromiss zwischen [[wiki/Cut-Through\|Cut-Through]] und [[wiki/Store-and-Forward\|Store-and-Forward]] - erkennt häufige Fehlerarten schnell.

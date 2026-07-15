@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/stack/","tags":["datenstrukturen/stack","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:38:45.000+02:00","dg-note-properties":{"tags":["datenstrukturen/stack","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"aliases":["Stapel","LIFO","Stack-Datenstruktur"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/stack/","tags":["datenstrukturen/stack","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:38:45.404+02:00","dg-note-properties":{"tags":["datenstrukturen/stack","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"aliases":["Stapel","LIFO","Stack-Datenstruktur"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

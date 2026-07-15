@@ -97,7 +97,7 @@ UC (IT → Internet-Provider): "ISP liefert Bandbreite"
 >Wer ist wofür zuständig?
 
 **Beispiel mit [[wiki/RACI-Matrix\|RACI-Matrix]]:**
-- Network-Team: Responsible für [[wiki/Switch\|Switch]]-Konfiguration
+- Network-Team: Responsible für [[Switch\|Switch]]-Konfiguration
 - Security-Team: Consulted bei [[wiki/Firewall\|Firewall]]-Regeln
 - Application-Team: Informed über Changes
 
@@ -165,7 +165,7 @@ UC (IT → Internet-Provider): "ISP liefert Bandbreite"
 - L3: Network Manager (8h)
 
 **Verantwortlichkeiten:**
-- Network-Team: [[wiki/Switch\|Switch]], [[wiki/Router\|Router]], [[wiki/Firewall\|Firewall]]
+- Network-Team: [[Switch\|Switch]], [[wiki/Router\|Router]], [[wiki/Firewall\|Firewall]]
 - Application-Team: Application-spezifische Ports freischalten lassen
 
 **Kommunikation:**

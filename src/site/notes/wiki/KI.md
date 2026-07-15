@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ki/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/ai"],"noteIcon":"","updated":"2026-07-02T01:13:38.000+02:00","dg-note-properties":{"aliases":["Künstliche Intelligenz","AI","Artificial Intelligence"],"created_date":"2025-03-13","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/ai"]}}
+{"dg-publish":true,"permalink":"/wiki/ki/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/ai"],"noteIcon":"","updated":"2026-07-02T01:13:38.499+02:00","dg-note-properties":{"aliases":["Künstliche Intelligenz","AI","Artificial Intelligence"],"created_date":"2025-03-13","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/ai"]}}
 ---
 
 >Künstliche Intelligenz umfasst alles, was Computer und Maschinen befähigt, menschenähnliche Intelligenzleistungen zu erbringen. 

@@ -3,7 +3,7 @@
 ---
 
 
-> [[wiki/Betriebssystem\|Betriebssystem]]-Komponente die Kommunikation zwischen Software und Hardware-Geräten koordiniert.
+> [[Betriebssystem\|Betriebssystem]]-Komponente die Kommunikation zwischen Software und Hardware-Geräten koordiniert.
 
 >> Stellt einheitliche Schnittstellen für verschiedene Hardware-Geräte bereit durch [[Treiber\|Treiber]].
 
@@ -30,7 +30,7 @@
 >```
 
 >[!important] Plug & Play
->Moderne Geräte werden automatisch erkannt und konfiguriert - [[wiki/Betriebssystem\|Betriebssystem]] lädt passenden [[Treiber\|Treiber]] automatisch.
+>Moderne Geräte werden automatisch erkannt und konfiguriert - [[Betriebssystem\|Betriebssystem]] lädt passenden [[Treiber\|Treiber]] automatisch.
 
 >[!caution] Treiber-Probleme
 >- **Veraltete Treiber** → schlechte Performance

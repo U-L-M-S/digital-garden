@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-schaltjahr/","tags":["informatik/programmierung/algorithmen","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"aliases":["Java Schaltjahr","java Schaltjahr"],"created_date":"2024-09-18","links":null,"tags":["informatik/programmierung/algorithmen","informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/wiki/java-schaltjahr/","tags":["informatik/programmierung/algorithmen","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.783+02:00","dg-note-properties":{"aliases":["Java Schaltjahr","java Schaltjahr"],"created_date":"2024-09-18","links":null,"tags":["informatik/programmierung/algorithmen","informatik/programmierung/sprachen/java"]}}
 ---
 
 ```java

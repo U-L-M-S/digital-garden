@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code-coverage/","tags":["informatik/programmierung","informatik/testing","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T13:17:19.000+02:00","dg-note-properties":{"tags":["informatik/programmierung","informatik/testing","GFN/prüfungsrelevant/AP2"],"aliases":["Testabdeckung","Code-Abdeckung","Test Coverage"],"links":null,"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/wiki/code-coverage/","tags":["informatik/programmierung","informatik/testing","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T13:17:19.704+02:00","dg-note-properties":{"tags":["informatik/programmierung","informatik/testing","GFN/prüfungsrelevant/AP2"],"aliases":["Testabdeckung","Code-Abdeckung","Test Coverage"],"links":null,"created_date":"2025-11-12"}}
 ---
 
 >Code Coverage (Testabdeckung) ist eine Metrik, die angibt, wie viel Prozent des Codes durch [[wiki/Unit Testing\|Unit Testing]]s abgedeckt ist.

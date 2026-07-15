@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/datensatz/","tags":["informatik/code/sql","informatik/datenbank"],"noteIcon":"","updated":"2026-07-02T01:13:38.000+02:00","dg-note-properties":{"aliases":["Datensätze"],"created_date":"2024-10-15","links":null,"tags":["informatik/code/sql","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/datensatz/","tags":["informatik/code/sql","informatik/datenbank"],"noteIcon":"","updated":"2026-07-02T01:13:38.479+02:00","dg-note-properties":{"aliases":["Datensätze"],"created_date":"2024-10-15","links":null,"tags":["informatik/code/sql","informatik/datenbank"]}}
 ---
 
 >Es ist eine Gruppe von Daten, die zusammengehören und in einer strukturierten Form gespeichert werden. 
