@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/vollsicherung/","tags":["informatik/backup/typ","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.291+02:00","dg-note-properties":{"created":"2025-08-27","aliases":["Vollbackup"],"links":"[[wiki/Backup-Strategien\|Backup-Strategien]]","path":"Notes","tags":["informatik/backup/typ","informatik/sicherheit/it-sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/vollsicherung/","tags":["informatik/allgemein","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-27","aliases":["Vollbackup"],"links":"[[wiki/Backup-Strategien\|Backup-Strategien]]","path":"Notes","tags":["informatik/allgemein","informatik/sicherheit"]}}
 ---
 
 

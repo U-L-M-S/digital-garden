@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ola/","tags":["itsm/verträge","GFN/LF06","itil"],"noteIcon":"","updated":"2025-11-05T13:17:56.000+01:00","dg-note-properties":{"tags":["itsm/verträge","GFN/LF06","itil"],"aliases":["Operational Level Agreement","OLA","Betriebsvereinbarung"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/ola/","tags":["wirtschaft/itsm","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["wirtschaft/itsm","ausbildung/gfn"],"aliases":["Operational Level Agreement","OLA","Betriebsvereinbarung"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 
@@ -97,7 +97,7 @@ UC (IT → Internet-Provider): "ISP liefert Bandbreite"
 >Wer ist wofür zuständig?
 
 **Beispiel mit [[wiki/RACI-Matrix\|RACI-Matrix]]:**
-- Network-Team: Responsible für [[Switch\|Switch]]-Konfiguration
+- Network-Team: Responsible für [[wiki/Switch\|Switch]]-Konfiguration
 - Security-Team: Consulted bei [[wiki/Firewall\|Firewall]]-Regeln
 - Application-Team: Informed über Changes
 
@@ -165,7 +165,7 @@ UC (IT → Internet-Provider): "ISP liefert Bandbreite"
 - L3: Network Manager (8h)
 
 **Verantwortlichkeiten:**
-- Network-Team: [[Switch\|Switch]], [[wiki/Router\|Router]], [[wiki/Firewall\|Firewall]]
+- Network-Team: [[wiki/Switch\|Switch]], [[wiki/Router\|Router]], [[wiki/Firewall\|Firewall]]
 - Application-Team: Application-spezifische Ports freischalten lassen
 
 **Kommunikation:**

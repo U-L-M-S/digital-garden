@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-12-kundenspezifische-systemintegration-durchfuehren/","tags":["GFN/LF12/FISI"],"noteIcon":"","updated":"2025-09-05T15:24:30.000+02:00","dg-note-properties":{"tags":["GFN/LF12/FISI"],"links":null,"created_date":"2025-09-05"}}
+{"dg-publish":true,"permalink":"/wiki/lf-12-kundenspezifische-systemintegration-durchfuehren/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn"],"links":null,"created_date":"2025-09-05"}}
 ---
 
 ## Überblick

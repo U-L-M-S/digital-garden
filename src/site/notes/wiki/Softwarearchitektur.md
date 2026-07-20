@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/softwarearchitektur/","tags":["informatik/softwareentwicklung","ausbildung/gfn/ap2/vorbereitung","architektur/software"],"noteIcon":"","updated":"2025-11-07T15:12:00.000+01:00","dg-note-properties":{"tags":["informatik/softwareentwicklung","ausbildung/gfn/ap2/vorbereitung","architektur/software"],"aliases":["Software-Architektur","Architektur","Software Architecture"],"links":null,"created_date":"2025-11-07"}}
+{"dg-publish":true,"permalink":"/wiki/softwarearchitektur/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software","ausbildung/pruefung"],"aliases":["Software-Architektur","Architektur","Software Architecture"],"links":null,"created_date":"2025-11-07"}}
 ---
 
 >**Softwarearchitektur** beschreibt die grundlegende Struktur und Organisation eines [[wiki/Software\|Software]]-Systems.
@@ -293,7 +293,7 @@
 
 ## [[wiki/SAN\|SAN]] - Storage Area Network
 
->Block-basierter Speicher - wie eine lokale [[Festplatte\|Festplatte]] über Netzwerk.
+>Block-basierter Speicher - wie eine lokale [[wiki/Festplatte\|Festplatte]] über Netzwerk.
 
 **Verwendung:**
 - [[wiki/Datenbank\|Datenbank]]-Server

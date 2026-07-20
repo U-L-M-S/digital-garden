@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/server/","tags":["informatik/hardware/server"],"noteIcon":"","updated":"2026-07-11T23:28:14.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-02-09","links":null,"tags":["informatik/hardware/server"]}}
+{"dg-publish":true,"permalink":"/wiki/server/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-02-09","links":null,"tags":["informatik/system"]}}
 ---
 
 ![image-79.png](/img/user/assets/IMG/image-79.png)

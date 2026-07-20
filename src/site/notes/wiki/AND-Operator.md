@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/and-operator/","tags":["mathe","informatik/logik"],"noteIcon":"","updated":"2026-05-13T08:53:37.734+02:00","dg-note-properties":{"aliases":["AND-Operator"],"created":"2024-07-26 13:48","links":null,"path":"Notes","tags":["mathe","informatik/logik"]}}
+{"dg-publish":true,"permalink":"/wiki/and-operator/","tags":["mathematik/allgemein","mathematik/logik"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["AND-Operator"],"created":"2024-07-26 13:48","links":null,"path":"Notes","tags":["mathematik/allgemein","mathematik/logik"]}}
 ---
 
 

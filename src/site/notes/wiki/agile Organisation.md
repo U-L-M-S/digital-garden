@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/agile-organisation/","tags":["projektmanagement/vorgehensmodell/agile","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00","dg-note-properties":{"aliases":["Agile Organisation","agile Organisation"],"created_date":"2024-11-11","links":null,"tags":["projektmanagement/vorgehensmodell/agile","wirtschaft/bwl"]}}
+{"dg-publish":true,"permalink":"/wiki/agile-organisation/","tags":["wirtschaft/projektmanagement","wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Agile Organisation","agile Organisation"],"created_date":"2024-11-11","links":null,"tags":["wirtschaft/projektmanagement","wirtschaft/allgemein"]}}
 ---
 
 >Eine Organisation oder ein [[wiki/Unternehmen\|Unternehmen]], das das [[wiki/Agilitätsprinzip\|Agilitätsprinzip]] verwendet, hat die Eigenschaft, moderne und flexible Kommunikationsstrukturen zu nutzen.  

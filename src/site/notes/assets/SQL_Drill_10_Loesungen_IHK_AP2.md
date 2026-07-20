@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/sql-drill-10-loesungen-ihk-ap-2/","tags":["datenbank/sql","GFN/prüfungsrelevant/AP2/vorbereitung","drill/sql","drill/loesung"],"noteIcon":"","updated":"2026-04-27T10:37:59.275+02:00","dg-note-properties":{"tags":["datenbank/sql","GFN/prüfungsrelevant/AP2/vorbereitung","drill/sql","drill/loesung"],"aliases":["SQL Drill 10 Lösungen","SQL Übungspaket Lösungen"],"links":null,"created_date":"2026-04-27"}}
+{"dg-publish":true,"permalink":"/assets/sql-drill-10-loesungen-ihk-ap-2/","tags":["informatik/datenbank","ausbildung/pruefung","ausbildung/lernmethode"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/datenbank","ausbildung/pruefung","ausbildung/lernmethode"],"aliases":["SQL Drill 10 Lösungen","SQL Übungspaket Lösungen"],"links":null,"created_date":"2026-04-27"}}
 ---
 
 

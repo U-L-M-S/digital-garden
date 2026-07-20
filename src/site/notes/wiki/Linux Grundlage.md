@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/linux-grundlage/","tags":["GFN/LF10/FISI","informatik/betriebssystem/linux/command"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"tags":["GFN/LF10/FISI","informatik/betriebssystem/linux/command"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
+{"dg-publish":true,"permalink":"/wiki/linux-grundlage/","tags":["ausbildung/gfn","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn","informatik/system"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
 ---
 
 # Linux Grundlagen
 
-> Linux ist ein freies, mehrbenutzerfähiges [[Betriebssystem\|Betriebssystem]], das auf [[Unix\|Unix]] basiert und unter der [[GNU GPL\|GNU GPL]] steht.
+> Linux ist ein freies, mehrbenutzerfähiges [[wiki/Betriebssystem\|Betriebssystem]], das auf [[Unix\|Unix]] basiert und unter der [[GNU GPL\|GNU GPL]] steht.
 
 > > **Warum Linux lernen?** Weil es auf den meisten [[wiki/Server\|Server]]n läuft und du als IT-ler früher oder später damit konfrontiert wirst. Plus: Es ist kostenlos! 😉
 

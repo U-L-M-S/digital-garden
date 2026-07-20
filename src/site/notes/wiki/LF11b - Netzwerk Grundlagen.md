@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-11b-netzwerk-grundlagen/","tags":["informatik/netzwerk/ipv4","informatik/netzwerk/ports","informatik/netzwerk/osi","informatik/netzwerk/subnetting","GFN/LF11/FISI"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"tags":["informatik/netzwerk/ipv4","informatik/netzwerk/ports","informatik/netzwerk/osi","informatik/netzwerk/subnetting","GFN/LF11/FISI"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
+{"dg-publish":true,"permalink":"/wiki/lf-11b-netzwerk-grundlagen/","tags":["informatik/netzwerk","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/netzwerk","ausbildung/gfn"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
 ---
 
 # LF11b Tag 1 - [[wiki/Netzwerk\|Netzwerk]] Grundlagen Zusammenfassung
@@ -36,7 +36,7 @@
 ### Beispiel Port-Zuordnung
 
 - Web-Server: [[wiki/TCP\|TCP]]/80 ([[wiki/HTTP\|HTTP]])
-- VoIP-Server: [[UDP\|UDP]]/5004
+- VoIP-Server: [[wiki/UDP\|UDP]]/5004
 - [[wiki/Mail-Server\|Mail-Server]]: [[wiki/TCP\|TCP]]/143 ([[wiki/IMAP\|IMAP]])
 - [[wiki/HTTPS\|HTTPS]]: [[wiki/TCP\|TCP]]/443
 
@@ -48,7 +48,7 @@
 - Zuverlässige Datenübertragung
 - Fehlerkorrektur und Reihenfolgen-Kontrolle
 
-### [[UDP\|UDP]] (User Datagram Protocol)
+### [[wiki/UDP\|UDP]] (User Datagram Protocol)
 
 - Verbindungslos
 - Schnelle [[wiki/Datenübertragung\|Datenübertragung]]

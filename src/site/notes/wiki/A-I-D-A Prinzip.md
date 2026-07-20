@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/a-i-d-a-prinzip/","tags":["GFN/LF07","ausbildung/gfn/ap1","wirtschaft/marketing"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00","dg-note-properties":{"aliases":["AIDA-Prinzip"],"created":"2024-06-03 11:32","links":null,"path":"Notes","tags":["GFN/LF07","ausbildung/gfn/ap1","wirtschaft/marketing"]}}
+{"dg-publish":true,"permalink":"/wiki/a-i-d-a-prinzip/","tags":["ausbildung/gfn","ausbildung/pruefung","wirtschaft/marketing"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["AIDA-Prinzip"],"created":"2024-06-03 11:32","links":null,"path":"Notes","tags":["ausbildung/gfn","ausbildung/pruefung","wirtschaft/marketing"]}}
 ---
 
 > Es ist ein Prinzip, das oft in **Präsentationen** und **Marketing** verwendet wird.

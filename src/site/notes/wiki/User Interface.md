@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/user-interface/","tags":["GFN/LF10","gui"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"aliases":["Benutzeroberflächen","User-Interface","user-interface"],"created_date":"2024-08-27","links":null,"tags":["GFN/LF10","gui"]}}
+{"dg-publish":true,"permalink":"/wiki/user-interface/","tags":["ausbildung/gfn","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"aliases":["Benutzeroberflächen","User-Interface","user-interface"],"created_date":"2024-08-27","links":null,"tags":["ausbildung/gfn","informatik/software"]}}
 ---
 
 >Schnittstelle, über die Menschen mit Computern oder [[wiki/Software\|Software]] interagieren. Sie umfasst alle visuellen Elemente wie Schaltflächen, Menüs und Symbole, die zur Bedienung verwendet werden. 

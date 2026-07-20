@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/xml/","tags":["datenformat/strukturiert","markup/standards"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"tags":["datenformat/strukturiert","markup/standards"],"aliases":["Extensible Markup Language","XML-Format"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/xml/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/code"],"aliases":["Extensible Markup Language","XML-Format"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 >[[wiki/XML\|XML]] (Extensible Markup Language) ist eine Markup-Sprache für strukturierte Datendarstellung.

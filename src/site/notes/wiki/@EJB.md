@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ejb/","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/sprachen/java/annotation"],"noteIcon":"","updated":"2026-07-02T13:17:19.612+02:00","dg-note-properties":{"aliases":["ejb injection","@ejb"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/sprachen/java/annotation"]}}
+{"dg-publish":true,"permalink":"/wiki/ejb/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["ejb injection","@ejb"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >[[wiki/@EJB\|@EJB]] ist die [[wiki/Annotation\|Annotation]] für [[wiki/Dependency Injection\|Dependency Injection]] von [[wiki/Enterprise Java Bean\|EJB]]s.

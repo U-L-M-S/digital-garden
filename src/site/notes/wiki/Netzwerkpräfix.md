@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/netzwerkpraefix/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"aliases":["Network Präfix","network Präfix"],"created":"2024-07-30 12:23","links":null,"path":"Notes","tags":["informatik/netzwerk/ip/ipv6"]}}
+{"dg-publish":true,"permalink":"/wiki/netzwerkpraefix/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Network Präfix","network Präfix"],"created":"2024-07-30 12:23","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 >Die ersten 64 [[wiki/Bit\|Bit]]s der [[wiki/IPv6\|IPv6]].

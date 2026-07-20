@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/queue/","tags":["datenstrukturen/queue","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:38:52.178+02:00","dg-note-properties":{"tags":["datenstrukturen/queue","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"aliases":["Warteschlange","FIFO","Queue-Datenstruktur"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/queue/","tags":["informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/code","ausbildung/pruefung"],"aliases":["Warteschlange","FIFO","Queue-Datenstruktur"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 
@@ -41,7 +41,7 @@ queue.add(2);    // [1, 2]
 queue.add(3);    // [1, 2, 3] ← 3 ist hinten
 ```
 
-**Komplexität:** [[wiki/1. Big O(1)\|O(1)]] - konstante Zeit
+**Komplexität:** [[1. Big O(1)\|O(1)]] - konstante Zeit
 
 #### 2. dequeue() / remove() / poll() - Element entfernen
 >Entfernt das **vorderste** Element und gibt es zurück.
@@ -51,7 +51,7 @@ int element = queue.poll();  // 1 (vorne)
 // Queue ist jetzt: [2, 3]
 ```
 
-**Komplexität:** [[wiki/1. Big O(1)\|O(1)]]
+**Komplexität:** [[1. Big O(1)\|O(1)]]
 
 >[!warning] Warnung
 >- **remove()** wirft Exception bei leerer Queue
@@ -66,7 +66,7 @@ int front = queue.peek();  // 2 (bei Queue [2, 3])
 // Queue bleibt: [2, 3]
 ```
 
-**Komplexität:** [[wiki/1. Big O(1)\|O(1)]]
+**Komplexität:** [[1. Big O(1)\|O(1)]]
 
 **Unterschied:**
 - **peek()** gibt null zurück wenn leer
@@ -79,7 +79,7 @@ int front = queue.peek();  // 2 (bei Queue [2, 3])
 boolean leer = queue.isEmpty();  // true oder false
 ```
 
-**Komplexität:** [[wiki/1. Big O(1)\|O(1)]]
+**Komplexität:** [[1. Big O(1)\|O(1)]]
 
 #### 5. size() - Anzahl Elemente
 >Gibt Anzahl der Elemente zurück.
@@ -88,7 +88,7 @@ boolean leer = queue.isEmpty();  // true oder false
 int anzahl = queue.size();  // z.B. 3
 ```
 
-**Komplexität:** [[wiki/1. Big O(1)\|O(1)]]
+**Komplexität:** [[1. Big O(1)\|O(1)]]
 
 ## Implementierung in [[wiki/Java\|Java]]
 
@@ -396,7 +396,7 @@ String item = queue.take();  // Blockiert wenn leer
 
 >[!check] Vorteile
 >- **Fair** - FIFO garantiert gerechte Reihenfolge
->- **Effizient** - Alle Operationen [[wiki/1. Big O(1)\|O(1)]]
+>- **Effizient** - Alle Operationen [[1. Big O(1)\|O(1)]]
 >- **Natürliches Modell** - Passt zu vielen realen Problemen
 >- **Einfach** - Leicht zu verstehen und implementieren
 
@@ -410,18 +410,18 @@ String item = queue.take();  // Blockiert wenn leer
 
 | Operation | Zeitkomplexität | Speicherkomplexität |
 |-----------|-----------------|---------------------|
-| enqueue() | [[wiki/1. Big O(1)\|O(1)]] | [[wiki/1. Big O(1)\|O(1)]] |
-| dequeue() | [[wiki/1. Big O(1)\|O(1)]] | [[wiki/1. Big O(1)\|O(1)]] |
-| peek() | [[wiki/1. Big O(1)\|O(1)]] | [[wiki/1. Big O(1)\|O(1)]] |
-| isEmpty() | [[wiki/1. Big O(1)\|O(1)]] | [[wiki/1. Big O(1)\|O(1)]] |
-| size() | [[wiki/1. Big O(1)\|O(1)]] | [[wiki/1. Big O(1)\|O(1)]] |
+| enqueue() | [[1. Big O(1)\|O(1)]] | [[1. Big O(1)\|O(1)]] |
+| dequeue() | [[1. Big O(1)\|O(1)]] | [[1. Big O(1)\|O(1)]] |
+| peek() | [[1. Big O(1)\|O(1)]] | [[1. Big O(1)\|O(1)]] |
+| isEmpty() | [[1. Big O(1)\|O(1)]] | [[1. Big O(1)\|O(1)]] |
+| size() | [[1. Big O(1)\|O(1)]] | [[1. Big O(1)\|O(1)]] |
 
 ## Prüfungsrelevanz AP2
 
 >[!important] Für AP2 wichtig
 >- **FIFO-Prinzip** erklären können
 >- **Operationen** (enqueue, dequeue, peek) kennen
->- **Komplexität** [[wiki/1. Big O(1)\|O(1)]] für alle Operationen
+>- **Komplexität** [[1. Big O(1)\|O(1)]] für alle Operationen
 >- **Anwendungsfälle** nennen (Warteschlange, BFS, Scheduling)
 >- **Unterschied zu [[wiki/Stack\|Stack]]** erklären
 >- **Implementierung** in [[wiki/Java\|Java]] kennen

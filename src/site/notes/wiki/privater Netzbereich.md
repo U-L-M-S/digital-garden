@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/privater-netzbereich/","tags":["ausbildung/gfn/ap1","informatik/netzwerk"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"created":"2024-05-06 15:09","links":null,"path":"Notes","tags":["ausbildung/gfn/ap1","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/privater-netzbereich/","tags":["ausbildung/pruefung","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-05-06 15:09","links":null,"path":"Notes","tags":["ausbildung/pruefung","informatik/netzwerk"]}}
 ---
 
 > Unternehmensweites [[wiki/Netzwerk\|Netzwerk]] (Privat). Wird verwendet um Daten in eines [[wiki/Unternehmen\|Unternehmen]] zu verwalten/bearbeiten/teilen.
@@ -94,16 +94,16 @@ Auf ein Gelände beschränktes [[wiki/Netzwerk\|Netzwerk]].
 > Virtuelles [[wiki/LAN\|LAN]].
 
 >Aufteilen in getrennte [[wiki/LAN\|LAN]]s in gemeinsamer Infrastruktur.
->Es wird sehr häufig in [[Switch\|Switch]]es verwendet.
+>Es wird sehr häufig in [[wiki/Switch\|Switch]]es verwendet.
 
 
 
-Mit anderen Worten: 1 [[Switch\|Switch]] mit einem oder mehreren [[wiki/VLAN\|VLAN]]s.
+Mit anderen Worten: 1 [[wiki/Switch\|Switch]] mit einem oder mehreren [[wiki/VLAN\|VLAN]]s.
 ![VLAN-20240722141645311.png](/img/user/assets/IMG/VLAN-20240722141645311.png)
 ![VLAN-20240722141826439.png](/img/user/assets/IMG/VLAN-20240722141826439.png)
 
 >[!important] 
->Man kann auch [[Switch\|Switch]]es verbinden, um die Anzahl von Geräten pro [[wiki/VLAN\|VLAN]] zu erhöhen.
+>Man kann auch [[wiki/Switch\|Switch]]es verbinden, um die Anzahl von Geräten pro [[wiki/VLAN\|VLAN]] zu erhöhen.
 >Das hat aber viele Nachteile. Wie:
 >- Teuer
 >- Unübersichtlich

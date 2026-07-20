@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/inkrement/","tags":["projektmanagement/vorgehensmodell/agile"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"aliases":["inkrement"],"created_date":"2024-11-22","links":null,"tags":["projektmanagement/vorgehensmodell/agile"]}}
+{"dg-publish":true,"permalink":"/wiki/inkrement/","tags":["wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["inkrement"],"created_date":"2024-11-22","links":null,"tags":["wirtschaft/projektmanagement"]}}
 ---
 
 >Ein abgeschlossener, nutzbarer Teil eines Produkts.

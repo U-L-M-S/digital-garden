@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/zifferbereich/","tags":["mathe"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"created":"2024-07-02 10:53","links":null,"path":"Notes","tags":["mathe"]}}
+{"dg-publish":true,"permalink":"/wiki/zifferbereich/","tags":["mathematik/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-07-02 10:53","links":null,"path":"Notes","tags":["mathematik/allgemein"]}}
 ---
 
 > Alle möglichen Ziffern die in einem Zahlsystem verwendet werden 

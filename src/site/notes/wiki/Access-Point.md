@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/access-point/","tags":["informatik/netzwerk/wifi","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:01.000+01:00","dg-note-properties":{"aliases":["AC"],"created_date":"2025-03-18","links":null,"tags":["informatik/netzwerk/wifi","informatik/hardware"]}}
+{"dg-publish":true,"permalink":"/wiki/access-point/","tags":["informatik/netzwerk","informatik/hardware"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["AC"],"created_date":"2025-03-18","links":null,"tags":["informatik/netzwerk","informatik/hardware"]}}
 ---
 
 > **Access-Point (AP)** ist ein Gerät, das ein bestehendes kabelgebundenes [[wiki/Netzwerk\|Netzwerk]] um ein **WLAN** erweitert.

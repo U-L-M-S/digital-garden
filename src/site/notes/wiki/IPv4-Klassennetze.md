@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/i-pv4-klassennetze/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2026-05-12T16:03:21.701+02:00","dg-note-properties":{"aliases":[],"created":"2024-07-30 10:03","links":null,"path":["Notes"],"tags":["informatik/netzwerk/ip/ipv4"]}}
+{"dg-publish":true,"permalink":"/wiki/i-pv4-klassennetze/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":[],"created":"2024-07-30 10:03","links":null,"path":["Notes"],"tags":["informatik/netzwerk"]}}
 ---
 
 >IPv4 wurde in 5 Klassen unterteilt:
@@ -11,8 +11,7 @@
 | Klasse C | -   |  192.0.0.0 - 223.255.255.0  |         *255.255.255*.0         |
 | Klasse D | -   | 224.0.0.0 - 239.255.255.255 | Reserviert für [[wiki/Multicast\|Multicast]]ing |
 | Klasse E | -   | 240.0.0.0 - 255.255.255.255 |          Experimental           |
-{ #872578}
-
+{ #872578}
 
 
 >[!important] 

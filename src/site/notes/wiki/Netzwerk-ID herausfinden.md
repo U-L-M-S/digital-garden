@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/netzwerk-id-herausfinden/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2026-05-12T16:12:55.667+02:00","dg-note-properties":{"aliases":["Netzwerk-ID herausfinden","netzwerk-ID herausfinden"],"created":"2024-07-26 14:32","links":"http://jodies.de/ipcalc","path":"Notes","tags":["informatik/netzwerk/ip/ipv4"]}}
+{"dg-publish":true,"permalink":"/wiki/netzwerk-id-herausfinden/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Netzwerk-ID herausfinden","netzwerk-ID herausfinden"],"created":"2024-07-26 14:32","links":"http://jodies.de/ipcalc","path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 >[!example] Beispiel

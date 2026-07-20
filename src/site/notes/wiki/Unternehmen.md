@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/unternehmen/","tags":["GFN/LF01","ausbildung/gfn/ap1","wirtschaft/bwl"],"noteIcon":"","updated":"2026-05-13T08:25:35.877+02:00","dg-note-properties":{"created":"2023-10-14 12:20","links":null,"path":"Notes","tags":["GFN/LF01","ausbildung/gfn/ap1","wirtschaft/bwl"]}}
+{"dg-publish":true,"permalink":"/wiki/unternehmen/","tags":["ausbildung/gfn","ausbildung/pruefung","wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2023-10-14 12:20","links":null,"path":"Notes","tags":["ausbildung/gfn","ausbildung/pruefung","wirtschaft/allgemein"]}}
 ---
 
 ## Unternehmen

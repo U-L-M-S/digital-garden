@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/versionsverwaltung/","tags":["softwareentwicklung/verwaltung","projektmanagement/code"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"tags":["softwareentwicklung/verwaltung","projektmanagement/code"],"aliases":["Version Control","Source Control","Revisionskontrolle"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/versionsverwaltung/","tags":["informatik/software","informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software","informatik/code"],"aliases":["Version Control","Source Control","Revisionskontrolle"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

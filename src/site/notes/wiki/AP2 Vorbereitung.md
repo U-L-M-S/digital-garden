@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ap-2-vorbereitung/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2026-07-09T12:55:36.570+02:00","dg-note-properties":{"type":"wiki","harvested_from":"[[AP2 Vorbereitung 2026]]","tags":["ausbildung/gfn/ap2/vorbereitung"],"aliases":null,"links":null,"created_date":"2025-10-31"}}
+{"dg-publish":true,"permalink":"/wiki/ap-2-vorbereitung/","tags":["ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"type":"wiki","harvested_from":"[[AP2 Vorbereitung 2026]]","tags":["ausbildung/pruefung"],"aliases":null,"links":null,"created_date":"2025-10-31"}}
 ---
 
 > Die AP2-Prüfung ist in zwei Teile aufgeteilt: einen schriftlichen und einen mündlichen Teil.

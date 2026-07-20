@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-enum/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-05-12T15:32:34.196+02:00","dg-note-properties":{"aliases":["Java-enum"],"created_date":"2024-10-28","links":null,"tags":["informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/wiki/java-enum/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Java-enum"],"created_date":"2024-10-28","links":null,"tags":["informatik/software"]}}
 ---
 
 >Ein `enum` in [[wiki/Java\|Java]] ist ein spezieller [[wiki/Datentyp\|Datentyp]], der eine Sammlung von Konstanten definiert. 

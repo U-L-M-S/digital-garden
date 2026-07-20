@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/packet-filter-firewall/","tags":["informatik/netzwerk/firewall","firewall/generation-1"],"noteIcon":"","updated":"2025-11-07T11:31:50.000+01:00","dg-note-properties":{"aliases":["Paketfilter","Generation 1 Firewall"],"created":"2025-01-07","path":"Notes","tags":["informatik/netzwerk/firewall","firewall/generation-1"]}}
+{"dg-publish":true,"permalink":"/wiki/packet-filter-firewall/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Paketfilter","Generation 1 Firewall"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit"]}}
 ---
 
 > [[wiki/Firewall\|Firewall]] Generation 1 (1990er)

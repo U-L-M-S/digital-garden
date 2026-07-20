@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/primaerverkabelung/","tags":["informatik/netzwerk/kabel","GFN/LF03"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":["Flächenverkabelung"],"created":"2024-08-02 12:43","links":null,"path":"Notes","tags":["informatik/netzwerk/kabel","GFN/LF03"]}}
+{"dg-publish":true,"permalink":"/wiki/primaerverkabelung/","tags":["informatik/netzwerk","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Flächenverkabelung"],"created":"2024-08-02 12:43","links":null,"path":"Notes","tags":["informatik/netzwerk","ausbildung/gfn"]}}
 ---
 
 ![Primärverkabelung-20240802125838064.png\|388](/img/user/assets/IMG/Prim%C3%A4rverkabelung-20240802125838064.png)

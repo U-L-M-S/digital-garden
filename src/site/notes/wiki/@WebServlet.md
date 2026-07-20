@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/web-servlet/","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/sprachen/java/annotation"],"noteIcon":"","updated":"2026-07-02T13:17:19.622+02:00","dg-note-properties":{"aliases":["webservlet","@webservlet"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/programmierung/sprachen/java/annotation"]}}
+{"dg-publish":true,"permalink":"/wiki/web-servlet/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["webservlet","@webservlet"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >[[wiki/@WebServlet\|@WebServlet]] mappt eine [[wiki/HttpServlet\|HttpServlet]]-Klasse auf einen URL-Pfad.

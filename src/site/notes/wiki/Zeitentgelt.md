@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/zeitentgelt/","tags":["arbeitsrecht/entgelt"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["arbeitsrecht/entgelt"]}}
+{"dg-publish":true,"permalink":"/wiki/zeitentgelt/","tags":["wirtschaft/recht"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["wirtschaft/recht"]}}
 ---
 
 >Bezahlung nach gearbeiteter Zeit (Stunden, Tage, Monate). Häufigste Form.

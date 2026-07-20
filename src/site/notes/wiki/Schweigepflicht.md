@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/schweigepflicht/","tags":["ausbildung/pflichten","datenschutz"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["ausbildung/pflichten","datenschutz"]}}
+{"dg-publish":true,"permalink":"/wiki/schweigepflicht/","tags":["ausbildung/allgemein","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["ausbildung/allgemein","informatik/sicherheit"]}}
 ---
 
 >Betriebsgeheimnisse und vertrauliche Informationen nicht weitererzählen.

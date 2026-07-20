@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-10-benutzerschnittstellen-gestalten-und-entwickeln/","tags":["GFN/LF10","status/in-progress"],"noteIcon":"","updated":"2026-07-02T12:18:59.095+02:00","dg-note-properties":{"tags":["GFN/LF10","status/in-progress"],"links":"https://lernplattform.gfn.de/course/view.php?id=14160","created_date":"2024-08-26"}}
+{"dg-publish":true,"permalink":"/wiki/lf-10-benutzerschnittstellen-gestalten-und-entwickeln/","tags":["ausbildung/gfn","meta/status"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn","meta/status"],"links":"https://lernplattform.gfn.de/course/view.php?id=14160","created_date":"2024-08-26"}}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.

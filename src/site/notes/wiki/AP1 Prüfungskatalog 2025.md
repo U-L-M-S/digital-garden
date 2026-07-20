@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ap-1-pruefungskatalog-2025/","tags":["ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2026-07-09T12:55:36.548+02:00","dg-note-properties":{"type":"wiki","harvested_from":"[[AP2 Vorbereitung 2026]]","aliases":null,"created_date":"2025-02-11","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung"]}}
+{"dg-publish":true,"permalink":"/wiki/ap-1-pruefungskatalog-2025/","tags":["ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"type":"wiki","harvested_from":"[[AP2 Vorbereitung 2026]]","aliases":null,"created_date":"2025-02-11","links":null,"tags":["ausbildung/pruefung"]}}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung
@@ -91,7 +91,7 @@
 
 - 📶 **[[wiki/ISO\|ISO]]/[[wiki/OSI-Modell\|OSI-Modell]]** _(7 Schichten)_ 👈
     - Physical, Data Link, Network, Transport, Session, Presentation, Application + 2 Bsp für jeder Layer
-- 🖥️ **Netzwerkkomponenten** _([[wiki/Router\|Router]], [[Switch\|Switch]], [[wiki/Hub\|Hub]]_)
+- 🖥️ **Netzwerkkomponenten** _([[wiki/Router\|Router]], [[wiki/Switch\|Switch]], [[wiki/Hub\|Hub]]_)
 - 🔗 **[[wiki/IP\|IP-Adresse]]** 👈
 	- [[wiki/IPv4\|IPv4]] VS [[wiki/IPv6\|IPv6]]
 		- Unterschiede 
@@ -112,7 +112,7 @@
 		- [[wiki/IPv4-Klassennetze\|IPv4-Klassennetze]]
 		- [[wiki/APIPA\|APIPA]]
 			- Was ist das und wann taucht es auf?
-		- 📦 **[[wiki/Netzwerkprotokolle\|Netzwerkprotokolle]]** _([[wiki/TCP\|TCP]] [[UDP\|vs.]] [[UDP\|UDP]], [[wiki/DHCPv4\|DHCPv4]], [[wiki/DNS\|DNS]], [[wiki/HTTP\|HTTP]]/[[wiki/HTTPS\|HTTPS]])_
+		- 📦 **[[wiki/Netzwerkprotokolle\|Netzwerkprotokolle]]** _([[wiki/TCP\|TCP]] [[wiki/UDP\|vs.]] [[wiki/UDP\|UDP]], [[wiki/DHCPv4\|DHCPv4]], [[wiki/DNS\|DNS]], [[wiki/HTTP\|HTTP]]/[[wiki/HTTPS\|HTTPS]])_
 			- 👧 [[wiki/DHCPv4\|DHCPv4]]
 				- [[wiki/DORA-Prinzip\|DORA-Prinzip]]
 	- **[[wiki/IPv6\|IPv6]]**

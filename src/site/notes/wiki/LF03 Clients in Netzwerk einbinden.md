@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-03-clients-in-netzwerk-einbinden/","tags":["informatik/netzwerk","GFN/LF03","status/fertig"],"noteIcon":"","updated":"2026-07-02T12:18:59.085+02:00","dg-note-properties":{"tags":["informatik/netzwerk","GFN/LF03","status/fertig"],"links":"https://lernplattform.gfn.de/course/view.php?id=12581","reference":null,"created":"2024-05-03 18:07"}}
+{"dg-publish":true,"permalink":"/wiki/lf-03-clients-in-netzwerk-einbinden/","tags":["informatik/netzwerk","ausbildung/gfn","meta/status"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/netzwerk","ausbildung/gfn","meta/status"],"links":"https://lernplattform.gfn.de/course/view.php?id=12581","reference":null,"created":"2024-05-03 18:07"}}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
@@ -36,7 +36,7 @@ In größeren Organisationen braucht man Ordnung. Hier gibt es [[wiki/dedizierte
 
 ### [[wiki/LAN\|LAN]] (Local Area Network)
 
-Das ist dein "Zuhause-Netzwerk" - verbindet Computer in einem Gebäude oder einer Etage. Ab drei Systemen brauchst du [[wiki/Kopplungselemente\|Kopplungselemente]] wie einen [[wiki/Hub\|HUB]] oder [[Switch\|Switch]].
+Das ist dein "Zuhause-Netzwerk" - verbindet Computer in einem Gebäude oder einer Etage. Ab drei Systemen brauchst du [[wiki/Kopplungselemente\|Kopplungselemente]] wie einen [[wiki/Hub\|HUB]] oder [[wiki/Switch\|Switch]].
 
 ### [[wiki/WLAN\|WLAN]] (Wireless Local Area Network)
 
@@ -105,7 +105,7 @@ c = c₀/n (Brechungsindex) Typisch: 2/3 der Lichtgeschwindigkeit im Vakuum
 
 > Wie sprechen Computer miteinander? Sie brauchen gemeinsame Regeln - Protokolle. Das [[wiki/OSI-Modell\|OSI-Modell]] ist wie ein Bauplan dafür, wie Kommunikation zwischen Computern funktioniert.
 
-## Das [[OSI-Schichtenmodell\|OSI-Schichtenmodell]]
+## Das [[wiki/OSI-Schichtenmodell\|OSI-Schichtenmodell]]
 
 Stell dir vor, du schickst einen Brief ins Ausland. Verschiedene Personen/Systeme kümmern sich um verschiedene Aspekte:
 
@@ -114,17 +114,17 @@ Stell dir vor, du schickst einen Brief ins Ausland. Verschiedene Personen/System
 |7|[[wiki/Application Layer\|Application Layer]]|Anwendungsfunktionen|E-Mail-Programm|
 |6|[[wiki/Presentation Layer\|Presentation Layer]]|Verschlüsselung, Formatierung|Komprimierung|
 |5|[[wiki/Session Layer\|Session Layer]]|Verbindungssteuerung|Login-Session|
-|4|[[wiki/Transport Layer\|Transport Layer]]|Ende-zu-Ende Übertragung|[[wiki/TCP\|TCP]]/[[UDP\|UDP]]|
+|4|[[wiki/Transport Layer\|Transport Layer]]|Ende-zu-Ende Übertragung|[[wiki/TCP\|TCP]]/[[wiki/UDP\|UDP]]|
 |3|[[wiki/Network Layer\|Network Layer]]|Routing, Adressierung|[[wiki/IP\|IP]], [[wiki/Router\|Router]]|
-|2|[[wiki/Data Link Layer\|Data Link Layer]]|Fehlererkennung|[[wiki/Ethernet\|Ethernet]], [[Switch\|Switch]]|
+|2|[[wiki/Data Link Layer\|Data Link Layer]]|Fehlererkennung|[[wiki/Ethernet\|Ethernet]], [[wiki/Switch\|Switch]]|
 |1|[[wiki/Physical Layer\|Physical Layer]]|Physische Übertragung|Kabel, [[wiki/WLAN\|WLAN]]|
 
 ## Wichtige Protokolle
 
-### [[wiki/TCP\|TCP]] vs [[UDP\|UDP]]
+### [[wiki/TCP\|TCP]] vs [[wiki/UDP\|UDP]]
 
 - [[wiki/TCP\|TCP]]: Zuverlässig, aber langsamer - wie ein Einschreiben
-- [[UDP\|UDP]]: Schnell, aber unsicher - wie eine Postkarte
+- [[wiki/UDP\|UDP]]: Schnell, aber unsicher - wie eine Postkarte
 
 ### [[wiki/Ethernet\|Ethernet]] (IEEE 802.3)
 
@@ -153,15 +153,15 @@ Wie Hausnummern für Programme:
 
 ---
 
-> Jetzt wird es praktisch! [[Switch\|Switch]]es sind die Verkehrspolizisten im [[wiki/LAN\|LAN]]. Sie entscheiden, welche Daten wohin gehen, damit nicht alle gleichzeitig reden und Chaos entsteht.
+> Jetzt wird es praktisch! [[wiki/Switch\|Switch]]es sind die Verkehrspolizisten im [[wiki/LAN\|LAN]]. Sie entscheiden, welche Daten wohin gehen, damit nicht alle gleichzeitig reden und Chaos entsteht.
 
-## Wie [[Switch\|Switch]]es arbeiten
+## Wie [[wiki/Switch\|Switch]]es arbeiten
 
-Ein [[Switch\|Switch]] ist wie ein intelligenter Postbote, der sich merkt, wer wo wohnt:
+Ein [[wiki/Switch\|Switch]] ist wie ein intelligenter Postbote, der sich merkt, wer wo wohnt:
 
 ### [[MAC-Adresse\|MAC-Adresse]]n lernen
 
-1. **Lernen**: [[Switch\|Switch]] merkt sich, über welchen Port welche [[MAC-Adresse\|MAC-Adresse]] erreichbar ist
+1. **Lernen**: [[wiki/Switch\|Switch]] merkt sich, über welchen Port welche [[MAC-Adresse\|MAC-Adresse]] erreichbar ist
 2. **Weiterleiten**: Bekannte Adressen werden direkt weitergeleitet
 3. **Fluten**: Unbekannte Adressen werden an alle Ports gesendet ([[wiki/Broadcast\|Broadcast]])
 4. **Altern**: Alte Einträge werden gelöscht

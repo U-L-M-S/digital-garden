@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/strategy-pattern/","tags":["design-patterns/behavioral","informatik/programmierung/konzepte/oop/patterns","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2026-07-02T13:17:19.851+02:00","dg-note-properties":{"tags":["design-patterns/behavioral","informatik/programmierung/konzepte/oop/patterns","GFN/prüfungsrelevant/AP2/vorbereitung"],"aliases":["Strategy","Strategie-Pattern","Strategie-Muster"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/strategy-pattern/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software","ausbildung/pruefung"],"aliases":["Strategy","Strategie-Pattern","Strategie-Muster"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

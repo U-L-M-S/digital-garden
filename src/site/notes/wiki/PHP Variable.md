@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/php-variable/","tags":["informatik/programmierung/sprachen/php"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":["PHP Variable"],"created_date":"2024-09-05","links":null,"tags":["informatik/programmierung/sprachen/php"]}}
+{"dg-publish":true,"permalink":"/wiki/php-variable/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["PHP Variable"],"created_date":"2024-09-05","links":null,"tags":["informatik/code"]}}
 ---
 
 [[wiki/Variable\|Variable]]n in [[wiki/PHP\|PHP]] werden deklariert mit einen `$`.

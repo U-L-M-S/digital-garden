@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/versetzungen/","tags":["betriebsrat/mitwirkung","personalpolitik"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["betriebsrat/mitwirkung","personalpolitik"]}}
+{"dg-publish":true,"permalink":"/wiki/versetzungen/","tags":["wirtschaft/recht","wirtschaft/organisation"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["wirtschaft/recht","wirtschaft/organisation"]}}
 ---
 
 >Dauerhafte Änderung des Arbeitsplatzes oder der Tätigkeit.

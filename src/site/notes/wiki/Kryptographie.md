@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kryptographie/","tags":["informatik/sicherheit/kryptografie","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-02T13:17:19.795+02:00","dg-note-properties":{"tags":["informatik/sicherheit/kryptografie","informatik/sicherheit"],"links":null,"created_date":"2024-10-22","aliases":["cryptography"]}}
+{"dg-publish":true,"permalink":"/wiki/kryptographie/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/sicherheit"],"links":null,"created_date":"2024-10-22","aliases":["cryptography"]}}
 ---
 
 >Kryptographie ist die Wissenschaft, die Informationen verschlüsselt. Das bedeutet: Die Informationen werden so verändert, dass fremde Personen sie nicht lesen können.

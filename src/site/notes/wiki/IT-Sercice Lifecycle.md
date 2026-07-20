@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/it-sercice-lifecycle/","tags":["GFN/LF06","ausbildung/gfn/ap1"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"aliases":["IT-Service-Lebenszyklus"],"created_date":"2024-10-20","links":null,"tags":["GFN/LF06","ausbildung/gfn/ap1"]}}
+{"dg-publish":true,"permalink":"/wiki/it-sercice-lifecycle/","tags":["ausbildung/gfn","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["IT-Service-Lebenszyklus"],"created_date":"2024-10-20","links":null,"tags":["ausbildung/gfn","ausbildung/pruefung"]}}
 ---
 
 >Es beschreibt die verschiedenen Phasen, die ein IT-Service von der Planung über die Implementierung bis hin zur Wartung und schließlich zur Stilllegung durchläuft. 

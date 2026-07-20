@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/konstruktor/","tags":["informatik/programmierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.794+02:00","dg-note-properties":{"aliases":["Constructor","constructor"],"created_date":"2024-09-25","links":null,"tags":["informatik/programmierung"]}}
+{"dg-publish":true,"permalink":"/wiki/konstruktor/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Constructor","constructor"],"created_date":"2024-09-25","links":null,"tags":["informatik/code"]}}
 ---
 
 >Es ist eine spezielle [[wiki/Programmierung Methode\|Programmierung Methode]] in einer [[wiki/Klasse\|Klasse]], wo bestimmte Eigenschaften **immer** zugewiesen werden.

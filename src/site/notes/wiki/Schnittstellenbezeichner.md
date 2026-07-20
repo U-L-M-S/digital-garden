@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/schnittstellenbezeichner/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":["Interface Identifier","interface Identifier"],"created":"2024-07-30 12:25","links":null,"path":"Notes","tags":["informatik/netzwerk/ip/ipv6"]}}
+{"dg-publish":true,"permalink":"/wiki/schnittstellenbezeichner/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Interface Identifier","interface Identifier"],"created":"2024-07-30 12:25","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 >Alles anders was nicht zu [[wiki/Netzwerkpräfix\|Netzwerkpräfix]] gehört.

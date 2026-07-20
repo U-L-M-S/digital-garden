@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/virtualisierung/","tags":["informatik/virtualisierung"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-24","links":null,"tags":["informatik/virtualisierung"]}}
+{"dg-publish":true,"permalink":"/wiki/virtualisierung/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-24","links":null,"tags":["informatik/system"]}}
 ---
 
 > Erstellen einer **virtuellen Umgebung** (z.B. virtuelle Maschinen) auf echter Hardware. Mehrere virtuelle Systeme können parallel auf einem physischen Rechner laufen.
@@ -38,7 +38,7 @@
 >     Virtualisierung läuft direkt auf der Hardware (z.B. VMware ESXi).
 >     
 > - **Hosted (Typ 2 Hypervisor)**  
->     Virtualisierung läuft auf einem bestehenden [[Betriebssystem\|Betriebssystem]] (z.B. VirtualBox, VMware Workstation).
+>     Virtualisierung läuft auf einem bestehenden [[wiki/Betriebssystem\|Betriebssystem]] (z.B. VirtualBox, VMware Workstation).
 >     
 > - **Desktopvirtualisierung (VDI)**  
 >     Benutzer arbeiten auf einem **virtuellen Desktop**, der zentral im Rechenzentrum läuft (z.B. Citrix, VMware Horizon).

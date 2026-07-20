@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/schluesselattribut/","tags":["informatik/datenbank","informatik/code/sql"],"noteIcon":"","updated":"2026-07-02T01:13:38.534+02:00","dg-note-properties":{"created":"2024-05-20 13:29","links":null,"path":"Notes","tags":["informatik/datenbank","informatik/code/sql"]}}
+{"dg-publish":true,"permalink":"/wiki/schluesselattribut/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-05-20 13:29","links":null,"path":"Notes","tags":["informatik/datenbank"]}}
 ---
 
 >Einzigartiges [[wiki/Attribut\|Attribut]], das verwendet wird, um eine [[wiki/Entität\|Entität]] zu erkennen.

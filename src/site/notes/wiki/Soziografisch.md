@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/soziografisch/","tags":["marketing/segmentierung"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["marketing/segmentierung"]}}
+{"dg-publish":true,"permalink":"/wiki/soziografisch/","tags":["wirtschaft/marketing"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["wirtschaft/marketing"]}}
 ---
 
 >Einteilung nach gesellschaftlicher Stellung (Einkommen, Bildung, Beruf).

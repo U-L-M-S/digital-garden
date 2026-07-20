@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sozialversicherung/","tags":["GFN/LF01","ausbildung/gfn/ap1"],"noteIcon":"","updated":"2026-05-13T08:01:58.178+02:00","dg-note-properties":{"created":"2024-02-06 23:25","links":null,"path":"Notes","tags":["GFN/LF01","ausbildung/gfn/ap1"]}}
+{"dg-publish":true,"permalink":"/wiki/sozialversicherung/","tags":["ausbildung/gfn","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-02-06 23:25","links":null,"path":"Notes","tags":["ausbildung/gfn","ausbildung/pruefung"]}}
 ---
 
 >Es sind hauptsächlich 5 Sozialversicherungen.

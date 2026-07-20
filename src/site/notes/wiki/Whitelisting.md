@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/whitelisting/","tags":["filter/erlauben","informatik/sicherheit/it-sicherheit","informatik/sicherheit/strategie"],"noteIcon":"","updated":"2026-07-02T15:37:49.299+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["filter/erlauben","informatik/sicherheit/it-sicherheit","informatik/sicherheit/strategie"]}}
+{"dg-publish":true,"permalink":"/wiki/whitelisting/","tags":["informatik/netzwerk","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk","informatik/sicherheit"]}}
 ---
 
 

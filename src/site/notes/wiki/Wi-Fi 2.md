@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/wi-fi-2/","tags":["informatik/netzwerk/wifi"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"aliases":["Wi-Fi 2","802.11b","WLAN 2"],"created":"2024-08-04 22:23","links":null,"path":"Notes","tags":["informatik/netzwerk/wifi"]}}
+{"dg-publish":true,"permalink":"/wiki/wi-fi-2/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Wi-Fi 2","802.11b","WLAN 2"],"created":"2024-08-04 22:23","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 ![Wi-Fi 2-20240804222512402.png\|330](/img/user/assets/IMG/Wi-Fi%202-20240804222512402.png)

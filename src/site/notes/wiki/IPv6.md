@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/i-pv6/","tags":["ausbildung/gfn/ap1","informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2026-05-12T15:54:43.718+02:00","dg-note-properties":{"created":"2023-09-13 11:07","links":"https://www.youtube.com/watch?v=NfrGNngigFU","path":"Notes","tags":["ausbildung/gfn/ap1","informatik/netzwerk/ip/ipv6"]}}
+{"dg-publish":true,"permalink":"/wiki/i-pv6/","tags":["ausbildung/pruefung","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2023-09-13 11:07","links":"https://www.youtube.com/watch?v=NfrGNngigFU","path":"Notes","tags":["ausbildung/pruefung","informatik/netzwerk"]}}
 ---
 
 >128-[[wiki/Bit\|bit]]-[[wiki/Binärzahl\|Binärzahl]]en, die in [[wiki/Hexadezimal\|Hexadezimal]] dargestellt werden und 

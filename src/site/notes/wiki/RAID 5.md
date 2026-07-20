@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/raid-5/","tags":["raid/parität","kompromiss/sicherheit-performance","informatik/hardware"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"created":"2025-08-27","links":"[[RAID]]","path":"Notes","tags":["raid/parität","kompromiss/sicherheit-performance","informatik/hardware"]}}
+{"dg-publish":true,"permalink":"/wiki/raid-5/","tags":["informatik/hardware","meta/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-27","links":"[[RAID]]","path":"Notes","tags":["informatik/hardware","meta/allgemein"]}}
 ---
 
 

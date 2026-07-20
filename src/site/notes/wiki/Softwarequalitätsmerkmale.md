@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/softwarequalitaetsmerkmale/","tags":["qualitaet/iso-standards","AP2025/neu"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"tags":["qualitaet/iso-standards","AP2025/neu"],"aliases":["ISO 25010","Software Quality","Qualitäts-Charakteristika"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/softwarequalitaetsmerkmale/","tags":["wirtschaft/qualitaet","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["wirtschaft/qualitaet","ausbildung/pruefung"],"aliases":["ISO 25010","Software Quality","Qualitäts-Charakteristika"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

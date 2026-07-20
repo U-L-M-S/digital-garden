@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/berechtigungskonzepte/","tags":["informatik/sicherheit/zugriff","access-management/kontrolle"],"noteIcon":"","updated":"2026-07-02T15:37:49.178+02:00","dg-note-properties":{"tags":["informatik/sicherheit/zugriff","access-management/kontrolle"],"aliases":["Access Control","Zugriffskonzepte","Permission Management"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/berechtigungskonzepte/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/sicherheit"],"aliases":["Access Control","Zugriffskonzepte","Permission Management"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

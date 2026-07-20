@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-objekt/","tags":["informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.780+02:00","dg-note-properties":{"aliases":["Java Objekt","Java-Objekt"],"created_date":"2024-09-25","links":null,"tags":["informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/wiki/java-objekt/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Java Objekt","Java-Objekt"],"created_date":"2024-09-25","links":null,"tags":["informatik/software"]}}
 ---
 
 >Es ist eine Instanz einer [[wiki/Java klasse\|Java Klasse]] in der objektorientierten Programmierung ([[wiki/OOP\|OOP]]). 

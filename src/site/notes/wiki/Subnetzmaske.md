@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/subnetzmaske/","tags":["informatik/netzwerk/adressierung/trennung","informatik/netzwerk/aufteilung","informatik/netzwerk/subnet-mask"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"created":"2025-08-27","aliases":["Netzwerkmaske"],"links":"[[wiki/IP-Adresse\|IP-Adresse]]","path":"Notes","tags":["informatik/netzwerk/adressierung/trennung","informatik/netzwerk/aufteilung","informatik/netzwerk/subnet-mask"]}}
+{"dg-publish":true,"permalink":"/wiki/subnetzmaske/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-27","aliases":["Netzwerkmaske"],"links":"[[wiki/IP-Adresse\|IP-Adresse]]","path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 

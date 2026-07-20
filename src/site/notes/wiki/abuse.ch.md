@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/abuse-ch/","tags":["informatik/sicherheit/threat-intelligence","malware"],"noteIcon":"","updated":"2025-11-07T11:31:47.000+01:00","dg-note-properties":{"aliases":["abuse.ch services"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit/threat-intelligence","malware"]}}
+{"dg-publish":true,"permalink":"/wiki/abuse-ch/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["abuse.ch services"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit"]}}
 ---
 
 > Kostenlose Threat Intelligence Plattform

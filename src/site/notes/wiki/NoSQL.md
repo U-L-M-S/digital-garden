@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/no-sql/","tags":["datenbank/arten","big-data/speicherung"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"tags":["datenbank/arten","big-data/speicherung"],"aliases":["NoSQL-Datenbank","Not only SQL","Nicht-relationale Datenbank"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/no-sql/","tags":["informatik/datenbank","informatik/daten"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/datenbank","informatik/daten"],"aliases":["NoSQL-Datenbank","Not only SQL","Nicht-relationale Datenbank"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

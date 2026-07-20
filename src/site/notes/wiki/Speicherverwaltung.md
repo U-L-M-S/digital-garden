@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/speicherverwaltung/","tags":["software/betriebssystem","informatik/speicher"],"noteIcon":"","updated":"2026-05-13T08:50:25.841+02:00","dg-note-properties":{"tags":["software/betriebssystem","informatik/speicher"],"aliases":["Memory Management","RAM-Verwaltung"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/wiki/speicherverwaltung/","tags":["informatik/system","informatik/hardware"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/system","informatik/hardware"],"aliases":["Memory Management","RAM-Verwaltung"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 
-> [[Betriebssystem\|Betriebssystem]]-Komponente, die den [[wiki/RAM\|RAM]] zwischen laufenden Programmen aufteilt und verwaltet.
+> [[wiki/Betriebssystem\|Betriebssystem]]-Komponente, die den [[wiki/RAM\|RAM]] zwischen laufenden Programmen aufteilt und verwaltet.
 
 >> Sorgt dafür, dass jedes Programm genug Speicher bekommt, ohne andere Programme zu stören.
 

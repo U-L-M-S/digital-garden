@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-final/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"aliases":["java-final","Java Immutable","Java-Immutable","Java unveränderlich"],"created_date":"2024-10-27","links":null,"tags":["informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/wiki/java-final/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["java-final","Java Immutable","Java-Immutable","Java unveränderlich"],"created_date":"2024-10-27","links":null,"tags":["informatik/software"]}}
 ---
 
 >In [[wiki/Java\|Java]] wird `final` verwendet, wenn man [[wiki/Variable\|Variable]]n, [[wiki/Programmierung Methode\|Programmierung Methode]]n oder [[wiki/Klasse\|Klasse]]n **konstant** machen möchte.

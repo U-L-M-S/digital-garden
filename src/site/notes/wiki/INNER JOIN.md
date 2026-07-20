@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/inner-join/","tags":["informatik/code/sql","informatik/datenbank"],"noteIcon":"","updated":"2026-07-02T01:13:38.486+02:00","dg-note-properties":{"aliases":["INNER JOIN"],"created_date":"2024-10-17","links":null,"tags":["informatik/code/sql","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/inner-join/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["INNER JOIN"],"created_date":"2024-10-17","links":null,"tags":["informatik/datenbank"]}}
 ---
 
 >Es ist eine [[wiki/SQL\|SQL]]-Operation, die zwei Tabellen basierend auf einer gemeinsamen Spalte (in diesem Fall `customer_ID`) kombiniert und nur die [[wiki/Datensatz\|Datensätze]] zurückgibt, bei denen es eine Übereinstimmung in beiden Tabellen gibt. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/projektmanagement/","tags":["ausbildung/gfn/ap1","projektmanagement"],"noteIcon":"","updated":"2026-05-13T08:19:31.616+02:00","dg-note-properties":{"created":"2024-02-22 09:06","links":null,"tags":["ausbildung/gfn/ap1","projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/projektmanagement/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"created":"2024-02-22 09:06","links":null,"tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
 ---
 
 >Es kommt aus dem Lateinischen und hat als Merkmal, eine Aufgabe einmal zu machen (Ohne Wiederholung). 

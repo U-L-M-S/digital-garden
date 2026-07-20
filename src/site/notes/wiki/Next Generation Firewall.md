@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/next-generation-firewall/","tags":["informatik/netzwerk/firewall","firewall/generation-3"],"noteIcon":"","updated":"2025-11-07T11:31:55.000+01:00","dg-note-properties":{"aliases":["NGFW","Generation 3 Firewall","Application-Aware Firewall"],"created":"2025-01-07","path":"Notes","tags":["informatik/netzwerk/firewall","firewall/generation-3"]}}
+{"dg-publish":true,"permalink":"/wiki/next-generation-firewall/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["NGFW","Generation 3 Firewall","Application-Aware Firewall"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit"]}}
 ---
 
 > [[wiki/Firewall\|Firewall]] Generation 3 (ab 2010)

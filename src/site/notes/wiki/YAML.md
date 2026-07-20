@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/yaml/","tags":["konfiguration/format","informatik/virtualisierung/docker/compose"],"noteIcon":"","updated":"2025-10-29T12:59:11.000+01:00","dg-note-properties":{"aliases":["YAML Ain't Markup Language"],"created_date":"2024-09-04","links":null,"tags":["konfiguration/format","informatik/virtualisierung/docker/compose"]}}
+{"dg-publish":true,"permalink":"/wiki/yaml/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"aliases":["YAML Ain't Markup Language"],"created_date":"2024-09-04","links":null,"tags":["informatik/system"]}}
 ---
 
 

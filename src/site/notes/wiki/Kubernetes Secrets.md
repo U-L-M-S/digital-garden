@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kubernetes-secrets/","tags":["informatik/virtualisierung/kubernetes/secrets","devops/kubernetes","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.234+02:00","dg-note-properties":{"aliases":["Kubernetes Secrets","K8s Secret","Secret"],"created_date":"2025-11-06","links":null,"tags":["informatik/virtualisierung/kubernetes/secrets","devops/kubernetes","informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/kubernetes-secrets/","tags":["informatik/system","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Kubernetes Secrets","K8s Secret","Secret"],"created_date":"2025-11-06","links":null,"tags":["informatik/system","informatik/sicherheit"]}}
 ---
 
 >**Secrets** in [[wiki/Kubernetes\|Kubernetes]] speichern vertrauliche Daten wie Passwörter, API-Keys, und Zertifikate.

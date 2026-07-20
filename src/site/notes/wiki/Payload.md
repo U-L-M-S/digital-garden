@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/payload/","tags":["informatik/netzwerk/ip"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"aliases":["Payload","payload"],"created":"2024-07-22 20:30","links":null,"path":"Notes","tags":["informatik/netzwerk/ip"]}}
+{"dg-publish":true,"permalink":"/wiki/payload/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Payload","payload"],"created":"2024-07-22 20:30","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 >Es wird auch als 'Daten' genannt.  

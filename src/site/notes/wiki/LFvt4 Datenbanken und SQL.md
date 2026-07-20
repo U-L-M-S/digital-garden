@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/l-fvt4-datenbanken-und-sql/","tags":["GFN/LFvt4"],"noteIcon":"","updated":"2025-07-12T13:31:41.000+02:00","dg-note-properties":{"tags":["GFN/LFvt4"],"links":"https://lernplattform.gfn.de/course/view.php?id=14493","created_date":"2024-09-30"}}
+{"dg-publish":true,"permalink":"/wiki/l-fvt4-datenbanken-und-sql/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn"],"links":"https://lernplattform.gfn.de/course/view.php?id=14493","created_date":"2024-09-30"}}
 ---
 
 >[!important] 

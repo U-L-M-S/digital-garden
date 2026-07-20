@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/arbeitslosenversicherung/","tags":["sozialversicherung/absicherung"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["sozialversicherung/absicherung"]}}
+{"dg-publish":true,"permalink":"/wiki/arbeitslosenversicherung/","tags":["wirtschaft/sozialversicherung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["wirtschaft/sozialversicherung"]}}
 ---
 
 >Finanzielle Unterstützung bei Jobverlust und Vermittlungshilfen.

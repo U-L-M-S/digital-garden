@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/subnet-mask/","tags":["informatik/netzwerk/subnet-mask"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"created":"2023-09-13 13:26","links":null,"path":"Notes","tags":["informatik/netzwerk/subnet-mask"]}}
+{"dg-publish":true,"permalink":"/wiki/subnet-mask/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"created":"2023-09-13 13:26","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 ## Subnet Mask 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/javac/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"aliases":["javac","Java-Compiler"],"created_date":"2024-10-26","links":null,"tags":["informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/wiki/javac/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["javac","Java-Compiler"],"created_date":"2024-10-26","links":null,"tags":["informatik/software"]}}
 ---
 
 >[[wiki/Java\|Java]] [[wiki/Compiler\|Compiler]].

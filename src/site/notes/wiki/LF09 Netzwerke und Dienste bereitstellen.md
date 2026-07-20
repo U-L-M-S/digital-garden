@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["GFN/LF09","informatik/netzwerk","status/fertig"],"noteIcon":"","updated":"2026-07-02T12:18:59.094+02:00","dg-note-properties":{"tags":["GFN/LF09","informatik/netzwerk","status/fertig"],"links":"https://lernplattform.gfn.de/course/view.php?id=13592","reference":"[[wiki/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]","path":"GFN","created":"2024-07-01 09:02"}}
+{"dg-publish":true,"permalink":"/wiki/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["ausbildung/gfn","informatik/netzwerk","meta/status"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn","informatik/netzwerk","meta/status"],"links":"https://lernplattform.gfn.de/course/view.php?id=13592","reference":"[[wiki/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]","path":"GFN","created":"2024-07-01 09:02"}}
 ---
 
 >Dieses Lernfeld ist eine Erweiterung von [[wiki/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]. 
 >>Hier werden wir das Thema [[wiki/Netzwerk\|Netzwerk]] nun etwas tiefer behandeln.
 # I. Switching
 ___
-Wie der Name schon sagt, es geht hier hauptsächlich um [[Switch\|Switch]]es.
+Wie der Name schon sagt, es geht hier hauptsächlich um [[wiki/Switch\|Switch]]es.
 Andere Themen sowie [[wiki/MAC Adresse\|MAC Adresse]]n, [[wiki/Broadcast\|Broadcast]], [[wiki/arp\|arp]] und [[wiki/STP\|STP]] werden hier auch berücksichtigen.
 
-- Hier muss du in der Lager sein zu verstehen was eine [[Switch\|Switch]] und wie diese funktioniert.
+- Hier muss du in der Lager sein zu verstehen was eine [[wiki/Switch\|Switch]] und wie diese funktioniert.
 - [[wiki/MAC Adresse\|MAC Adresse]] muss du in der Lager sein zu wissen wo man es findet.
 - [[wiki/arp\|arp]] wird nur benutzt um anzuzeigen alle Rechner in das [[wiki/Netzwerk\|Netzwerk]].
-- Über [[wiki/STP\|STP]] muss du nur wissen, dass es verwendet wird um Loops  (Endlosschleifen) in [[Switch\|Switch]]es zu stoppen.
+- Über [[wiki/STP\|STP]] muss du nur wissen, dass es verwendet wird um Loops  (Endlosschleifen) in [[wiki/Switch\|Switch]]es zu stoppen.
 - Was [[wiki/PDU\|PDU]] ist und die Informationen was jeder Layer in die [[wiki/Datenpakete\|Datenpakete]] einsetzt ([[IPv5 Header\|IPv5 Header]]).
 
 # II. [[wiki/VLAN\|VLAN]]s

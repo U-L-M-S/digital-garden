@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/rentabilitaet/","tags":["ausbildung/gfn/ap1/vorbereitung","wirtschaft/bwl"],"noteIcon":"","updated":"2026-05-13T08:27:22.787+02:00","dg-note-properties":{"aliases":["ROI"],"created_date":"2025-03-16","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","wirtschaft/bwl"]}}
+{"dg-publish":true,"permalink":"/wiki/rentabilitaet/","tags":["ausbildung/pruefung","wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["ROI"],"created_date":"2025-03-16","links":null,"tags":["ausbildung/pruefung","wirtschaft/allgemein"]}}
 ---
 
 >Es misst, wie wirtschaftlich erfolgreich (profitabel) eine Investition ist.

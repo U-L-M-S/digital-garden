@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/phishing/","tags":["informatik/malware/phishing","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.255+02:00","dg-note-properties":{"aliases":null,"created":"2024-08-13 11:03","links":null,"path":"Notes","tags":["informatik/malware/phishing","informatik/sicherheit/it-sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/phishing/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created":"2024-08-13 11:03","links":null,"path":"Notes","tags":["informatik/sicherheit"]}}
 ---
 
 >Eine Methode, bei der **gefälschte E-Mails oder Webseiten** genutzt werden, um an vertrauliche Daten wie Passwörter oder Bankdaten zu gelangen.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/amortisation/","tags":["BWL/formel"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-19","links":null,"tags":["BWL/formel"]}}
+{"dg-publish":true,"permalink":"/wiki/amortisation/","tags":["wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-19","links":null,"tags":["wirtschaft/allgemein"]}}
 ---
 
 >Ab wann eine Investition anfängt [[wiki/Gewinn\|Gewinn]] zu machen und sich selbst „bezahlt“ hat (Rückfluss der Investitionskosten).

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/port-security/","tags":["netzwerk/sicherheit","switching/schutz"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"tags":["netzwerk/sicherheit","switching/schutz"],"aliases":["Switch Port Security","MAC Address Security","Port-basierte Sicherheit"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/port-security/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/sicherheit"],"aliases":["Switch Port Security","MAC Address Security","Port-basierte Sicherheit"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 
->[[wiki/Port Security\|Port Security]] beschränkt den Netzwerkzugang basierend auf [[wiki/MAC Adresse\|MAC Adresse]]n an [[Switch\|Switch]]-Ports.
+>[[wiki/Port Security\|Port Security]] beschränkt den Netzwerkzugang basierend auf [[wiki/MAC Adresse\|MAC Adresse]]n an [[wiki/Switch\|Switch]]-Ports.
 
 >>Es verhindert unerlaubte Geräte-Verbindungen und MAC-Flooding-Angriffe.
 

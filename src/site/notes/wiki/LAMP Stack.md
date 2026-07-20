@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lamp-stack/","tags":["web","GFN/LF10/FISI","informatik/server"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"tags":["web","GFN/LF10/FISI","informatik/server"],"aliases":["lAMP-Stack"],"links":null,"created_date":"2025-09-05"}}
+{"dg-publish":true,"permalink":"/wiki/lamp-stack/","tags":["informatik/web","ausbildung/gfn","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/web","ausbildung/gfn","informatik/system"],"aliases":["lAMP-Stack"],"links":null,"created_date":"2025-09-05"}}
 ---
 
 > Eine **nützliche Kombo!** [[wiki/LAMP Stack\|LAMP Stack]] ist eine kostenlose Open-Source Sammlung von Software, die zusammen eine Plattform für dynamische Webinhalte ergibt.

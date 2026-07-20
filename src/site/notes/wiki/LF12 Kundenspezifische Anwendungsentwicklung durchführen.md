@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-12-kundenspezifische-anwendungsentwicklung-durchfuehren/","tags":["GFN/LF12"],"noteIcon":"","updated":"2025-09-16T14:27:21.000+02:00","dg-note-properties":{"tags":["GFN/LF12"],"links":["https://lernplattform.gfn.de/course/view.php?id=15358"],"created_date":"2024-12-02"}}
+{"dg-publish":true,"permalink":"/wiki/lf-12-kundenspezifische-anwendungsentwicklung-durchfuehren/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn"],"links":["https://lernplattform.gfn.de/course/view.php?id=15358"],"created_date":"2024-12-02"}}
 ---
 
 >Dieses Lernfeld bereitet dich auf das Abschlussprojekt vor - den wichtigsten Teil deiner [[wiki/IHK\|IHK]]-Prüfung.

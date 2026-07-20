@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/power-interest-matrix/","tags":["projektmanagement"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-19","links":null,"tags":["projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/power-interest-matrix/","tags":["wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-19","links":null,"tags":["wirtschaft/projektmanagement"]}}
 ---
 
 >Ein Werkzeug der [[wiki/Stakeholder-Analyse\|Stakeholder-Analyse]], um [[wiki/Stakeholder\|Stakeholder]] nach **Macht (Power)** und **Interesse** am Projekt zu sortieren.

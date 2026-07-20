@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kubernetes-stateful-sets/","tags":["informatik/virtualisierung/kubernetes/statefulsets","devops/kubernetes"],"noteIcon":"","updated":"2025-11-06T16:30:46.000+01:00","dg-note-properties":{"aliases":["Kubernetes StatefulSets","K8s StatefulSet","StatefulSet"],"created_date":"2025-11-06","links":null,"tags":["informatik/virtualisierung/kubernetes/statefulsets","devops/kubernetes"]}}
+{"dg-publish":true,"permalink":"/wiki/kubernetes-stateful-sets/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Kubernetes StatefulSets","K8s StatefulSet","StatefulSet"],"created_date":"2025-11-06","links":null,"tags":["informatik/system"]}}
 ---
 
 >**StatefulSets** verwalten [[wiki/Kubernetes Pods\|Pods]] mit stabilen Identitäten und persistentem Storage für Stateful Applications.

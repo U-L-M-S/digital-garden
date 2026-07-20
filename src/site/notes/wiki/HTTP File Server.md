@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/http-file-server/","tags":["informatik/netzwerk/protokoll","informatik/programmierung/sprachen/python","software/server"],"noteIcon":"","updated":"2026-05-13T08:39:42.371+02:00","dg-note-properties":{"aliases":["HTTP Starten"],"created":"2024-08-03 20:18","links":null,"path":["Notes"],"tags":["informatik/netzwerk/protokoll","informatik/programmierung/sprachen/python","software/server"]}}
+{"dg-publish":true,"permalink":"/wiki/http-file-server/","tags":["informatik/netzwerk","informatik/code","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"aliases":["HTTP Starten"],"created":"2024-08-03 20:18","links":null,"path":["Notes"],"tags":["informatik/netzwerk","informatik/code","informatik/system"]}}
 ---
 
 >Ein [[wiki/HTTP\|HTTP]]-Server starten.

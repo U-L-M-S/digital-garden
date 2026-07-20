@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/off-premise/","tags":["infrastruktur/extern","informatik/server/ausgelagert"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["infrastruktur/extern","informatik/server/ausgelagert"]}}
+{"dg-publish":true,"permalink":"/wiki/off-premise/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/system"]}}
 ---
 
 

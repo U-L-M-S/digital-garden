@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/agilitaetsprinzip/","tags":["projektmanagement/vorgehensmodell/agile","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00","dg-note-properties":{"aliases":["Agilität-Prinzip","Agilität"],"created_date":"2024-11-11","links":null,"tags":["projektmanagement/vorgehensmodell/agile","wirtschaft/bwl"]}}
+{"dg-publish":true,"permalink":"/wiki/agilitaetsprinzip/","tags":["wirtschaft/projektmanagement","wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Agilität-Prinzip","Agilität"],"created_date":"2024-11-11","links":null,"tags":["wirtschaft/projektmanagement","wirtschaft/allgemein"]}}
 ---
 
 >Es ist die Fähigkeit eines [[wiki/Unternehmen\|Unternehmen]]s, Entscheidungen flexibel, kreativ, [[wiki/dynamic\|dynamisch]] und mit Freude zu treffen, um **schneller** und **flexibler** auf Kundenanforderungen eingehen zu können.
