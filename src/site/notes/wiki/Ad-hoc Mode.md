@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ad-hoc-mode/","tags":["informatik/netzwerk/wifi"],"noteIcon":"","updated":"2025-10-29T12:59:01.000+01:00","dg-note-properties":{"aliases":["Ad-hoc-Modus","Ad-hoc Mode"],"created":"2024-08-04 21:30","links":null,"path":"Notes","tags":["informatik/netzwerk/wifi"]}}
+{"dg-publish":true,"permalink":"/wiki/ad-hoc-mode/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Ad-hoc-Modus","Ad-hoc Mode"],"created":"2024-08-04 21:30","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 >Es ist eine [[wiki/Netzwerk\|Netzwerk]]-Konfiguration, bei der Geräte direkt miteinander kommunizieren, ohne einen zentralen [[wiki/Router\|Router]] oder Access Point. 

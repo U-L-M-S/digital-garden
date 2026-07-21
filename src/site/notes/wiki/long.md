@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/long/","tags":["speicher","informatik/programmierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.910+02:00","dg-note-properties":{"aliases":["Long","long"],"created_date":"2024-08-25","links":null,"path":"Notes","tags":["speicher","informatik/programmierung"]}}
+{"dg-publish":true,"permalink":"/wiki/long/","tags":["informatik/hardware","informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Long","long"],"created_date":"2024-08-25","links":null,"path":"Notes","tags":["informatik/hardware","informatik/code"]}}
 ---
 
 >64 [[wiki/Bit\|Bit]]s

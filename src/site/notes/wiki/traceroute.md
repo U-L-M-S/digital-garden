@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/traceroute/","tags":["informatik/betriebssystem/windows/command","informatik/netzwerk"],"noteIcon":"","updated":"2026-06-29T09:32:21.068+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-24","links":null,"tags":["informatik/betriebssystem/windows/command","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/traceroute/","tags":["informatik/system","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-24","links":null,"tags":["informatik/system","informatik/netzwerk"]}}
 ---
 
 > Zeigt den **Weg der [[wiki/Datenpakete\|Datenpakete]]** von deinem Rechner bis zum Zielserver ([[wiki/Hop\|Hop]] für [[wiki/Hop\|Hop]]).  

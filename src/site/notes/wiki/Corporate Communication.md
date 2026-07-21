@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/corporate-communication/","tags":["GFN/LF08"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00","dg-note-properties":{"created":"2024-06-22 23:28","links":null,"path":"Notes","tags":["GFN/LF08"]}}
+{"dg-publish":true,"permalink":"/wiki/corporate-communication/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-06-22 23:28","links":null,"path":"Notes","tags":["ausbildung/gfn"]}}
 ---
 
 > Wie das [[wiki/Unternehmen\|Unternehmen]] sich bewirbt.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ap-2-pruefungskatalog-2025/","tags":["ausbildung/gfn/ap2/vorbereitung"],"noteIcon":"","updated":"2026-07-09T12:55:36.553+02:00","dg-note-properties":{"type":"wiki","harvested_from":"[[AP2 Vorbereitung 2026]]","created_date":"2025-09-02","tags":["ausbildung/gfn/ap2/vorbereitung"],"links":"https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap2-als-fachinformatiker-anwendungsentwicklung-ab-2025-it-berufe-podcast-191"}}
+{"dg-publish":true,"permalink":"/wiki/ap-2-pruefungskatalog-2025/","tags":["ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"type":"wiki","harvested_from":"[[AP2 Vorbereitung 2026]]","created_date":"2025-09-02","tags":["ausbildung/pruefung"],"links":"https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap2-als-fachinformatiker-anwendungsentwicklung-ab-2025-it-berufe-podcast-191"}}
 ---
 
 # 📌 Sichere Themen für die AP2-Prüfung 2025
@@ -84,9 +84,9 @@
 - 📡 **Netzwerkgrundlagen** 👈
     - [[wiki/OSI-Modell\|OSI-Modell]], [[wiki/TCP\|TCP]]
     - [[wiki/IPv4\|IPv4]]/[[wiki/IPv6\|IPv6]], [[wiki/MAC Adresse\|MAC Adresse]]
-    - [[wiki/Routing\|Routing]], [[Switch\|Switching]], [[wiki/arp\|ARP]]
+    - [[wiki/Routing\|Routing]], [[wiki/Switch\|Switching]], [[wiki/arp\|ARP]]
 - 🔧 **Netzwerkkomponenten**
-    - [[Switch\|Switch]], [[wiki/Bridge\|Bridge]], [[wiki/Router\|Router]], [[wiki/Firewall\|Firewall]]
+    - [[wiki/Switch\|Switch]], [[wiki/Bridge\|Bridge]], [[wiki/Router\|Router]], [[wiki/Firewall\|Firewall]]
     - 🆕 [[wiki/Kerberos\|Kerberos]] (Zugriffskontrolle)
 - 🌍 **Netzwerkarten**
     - [[wiki/LAN\|LAN]]/[[wiki/WAN\|WAN]]/[[wiki/Metropolitan Area Network\|Metropolitan Area Network]]/[[wiki/GAN\|GAN]]
@@ -96,7 +96,7 @@
     - Dateifreigabe (SMB/CIFS)
     - 🆕 Datenabruf ([[wiki/ODBC\|ODBC]])
 - 📡 **Protokolle**
-    - [[wiki/TCP\|TCP]]/[[UDP\|UDP]], [[wiki/HTTP\|HTTP]]/[[wiki/HTTPS\|HTTPS]]
+    - [[wiki/TCP\|TCP]]/[[wiki/UDP\|UDP]], [[wiki/HTTP\|HTTP]]/[[wiki/HTTPS\|HTTPS]]
     - [[wiki/VPN\|VPN]]-Modelle, [[wiki/Tunneling\|Tunneling]], [[wiki/IPSec\|IPSec]]
 - 🛠️ **Netzwerkdienste**
     - [[wiki/DNS\|DNS]], [[wiki/DHCPv4\|DHCPv4]], [[wiki/Proxy\|Proxy]] 👈
@@ -183,7 +183,7 @@
     - [[wiki/UML-Vererbung\|UML-Vererbung]], [[wiki/Polymorphie\|Polymorphie]], [[wiki/Java Interface\|Java Interface]]
 - 🔍 **Algorithmen** 👈
     - Lineare Suche, Binäre Suche
-    - 🆕 [[Selection Sort\|Selection Sort]], [[Insertion Sort\|Insertion Sort]] (detailliert!)
+    - 🆕 [[wiki/Selection Sort\|Selection Sort]], [[wiki/Insertion Sort\|Insertion Sort]] (detailliert!)
     - [[wiki/Bubble Sort\|Bubble Sort]]
 - 💾 **Datenaustausch**
     - [[wiki/CSV\|CSV]], [[wiki/XML\|XML]], [[wiki/JSON\|JSON]]
@@ -232,7 +232,7 @@
 - [[wiki/Test Driven Development\|Test Driven Development]] (TDD)
 - [[wiki/Scrum\|Scrum]] (vorher nicht explizit!)
 - [[wiki/Architektur-Pattern\|Architektur-Pattern]], [[wiki/Kapselung\|Kapselung]]
-- [[Selection Sort\|Selection Sort]], [[Insertion Sort\|Insertion Sort]]
+- [[wiki/Selection Sort\|Selection Sort]], [[wiki/Insertion Sort\|Insertion Sort]]
 
 ## ❌ Gestrichene Themen
 

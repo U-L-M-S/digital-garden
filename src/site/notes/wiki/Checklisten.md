@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/checklisten/","tags":["qualitaetsmanagement/tools","prozesse/standardisierung"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00","dg-note-properties":{"tags":["qualitaetsmanagement/tools","prozesse/standardisierung"],"aliases":["Prüfliste","Kontrollliste","Checklist"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/checklisten/","tags":["wirtschaft/qualitaet","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["wirtschaft/qualitaet","informatik/system"],"aliases":["Prüfliste","Kontrollliste","Checklist"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

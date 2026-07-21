@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/deep-packet-inspection/","tags":["informatik/netzwerk","informatik/sicherheit","firewall/technik"],"noteIcon":"","updated":"2025-11-07T11:35:57.000+01:00","dg-note-properties":{"aliases":["DPI"],"created":"2025-01-07","path":"Notes","tags":["informatik/netzwerk","informatik/sicherheit","firewall/technik"]}}
+{"dg-publish":true,"permalink":"/wiki/deep-packet-inspection/","tags":["informatik/netzwerk","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["DPI"],"created":"2025-01-07","path":"Notes","tags":["informatik/netzwerk","informatik/sicherheit"]}}
 ---
 
 > Tiefe Paket-Analyse

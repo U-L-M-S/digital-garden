@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/api/","tags":["tools","informatik/programmierung"],"noteIcon":"","updated":"2026-07-02T13:17:19.626+02:00","dg-note-properties":{"aliases":["Application Programming Interfaces"],"created_date":"2024-09-27","links":null,"tags":["tools","informatik/programmierung"]}}
+{"dg-publish":true,"permalink":"/wiki/api/","tags":["meta/tools","informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Application Programming Interfaces"],"created_date":"2024-09-27","links":null,"tags":["meta/tools","informatik/code"]}}
 ---
 
 >Application Programming Interfaces

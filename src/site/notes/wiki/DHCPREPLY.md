@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dhcpreply/","tags":["informatik/netzwerk/ip/ipv6"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"tags":["informatik/netzwerk/ip/ipv6"],"aliases":null,"links":null,"created_date":"2025-09-15"}}
+{"dg-publish":true,"permalink":"/wiki/dhcpreply/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/netzwerk"],"aliases":null,"links":null,"created_date":"2025-09-15"}}
 ---
 
 >Finale Antwort des [[wiki/DHCPv6\|DHCPv6]]-Servers - "Hier ist deine [[wiki/IPv6\|IPv6]]-[[Adresse\|Adresse]] und Konfiguration!"

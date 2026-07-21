@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/http-servlet/","tags":["informatik/programmierung/sprachen/java/framework"],"noteIcon":"","updated":"2026-07-02T13:17:19.763+02:00","dg-note-properties":{"aliases":["http servlet","httpservlet"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework"]}}
+{"dg-publish":true,"permalink":"/wiki/http-servlet/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["http servlet","httpservlet"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >[[wiki/HttpServlet\|HttpServlet]] ist die Basis-Klasse aller [[wiki/Java\|Java]]-Web-Endpoints in [[wiki/Jakarta EE\|Jakarta EE]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/laptops/","tags":["informatik/hardware/mobil","computer/typ"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/hardware/mobil","computer/typ"]}}
+{"dg-publish":true,"permalink":"/wiki/laptops/","tags":["informatik/hardware","informatik/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/hardware","informatik/allgemein"]}}
 ---
 
 

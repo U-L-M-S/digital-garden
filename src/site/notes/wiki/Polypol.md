@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/polypol/","tags":["markt/struktur","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["markt/struktur","wirtschaft/bwl"]}}
+{"dg-publish":true,"permalink":"/wiki/polypol/","tags":["wirtschaft/marketing","wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["wirtschaft/marketing","wirtschaft/allgemein"]}}
 ---
 
 >Markt mit vielen Anbietern und vielen Nachfragern.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/erweiterbarkeit/","tags":["softwarearchitektur/skalierung","design/flexibilitaet"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"tags":["softwarearchitektur/skalierung","design/flexibilitaet"],"aliases":["Extensibility","Expandability","Skalierbarkeit"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/erweiterbarkeit/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software"],"aliases":["Extensibility","Expandability","Skalierbarkeit"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

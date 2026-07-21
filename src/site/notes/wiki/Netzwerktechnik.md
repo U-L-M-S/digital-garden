@@ -3,11 +3,11 @@
 ---
 
 >**Netzwerktechnik** ist der Bereich der Informatik, der sich mit Aufbau, Betrieb und Verwaltung von [[wiki/Netzwerk\|Netzwerk]]en beschäftigt.
->>Dazu gehören Hardware (z.B. [[Switch\|Switch]], [[wiki/Router\|Router]]), Protokolle (z.B. [[wiki/IPv4\|IPv4]], [[wiki/IPv6\|IPv6]]) und Konzepte wie [[wiki/Subnetting\|Subnetting]].
+>>Dazu gehören Hardware (z.B. [[wiki/Switch\|Switch]], [[wiki/Router\|Router]]), Protokolle (z.B. [[wiki/IPv4\|IPv4]], [[wiki/IPv6\|IPv6]]) und Konzepte wie [[wiki/Subnetting\|Subnetting]].
 
 # I. Kernthemen
 ___
-- **Verkabelung & Hardware** — [[Switch\|Switch]], [[wiki/Router\|Router]], Kabeltypen
+- **Verkabelung & Hardware** — [[wiki/Switch\|Switch]], [[wiki/Router\|Router]], Kabeltypen
 - **Adressierung** — [[wiki/IPv4\|IPv4]], [[wiki/IPv6\|IPv6]], [[wiki/Subnetting\|Subnetting]]
 - **Protokolle** — wie Geräte im Netzwerk kommunizieren
 - **Sicherheit** — Zugriffskontrolle, Netzwerksegmentierung

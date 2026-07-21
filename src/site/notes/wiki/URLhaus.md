@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ur-lhaus/","tags":["informatik/sicherheit/malware","threat-intelligence"],"noteIcon":"","updated":"2025-11-07T11:36:02.000+01:00","dg-note-properties":{"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit/malware","threat-intelligence"]}}
+{"dg-publish":true,"permalink":"/wiki/ur-lhaus/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit"]}}
 ---
 
 > Datenbank von [[wiki/Malware\|Malware]]-URLs

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/corporate-culture/","tags":["GFN/LF08"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00","dg-note-properties":{"created":"2024-06-22 21:57","links":null,"path":"Notes","tags":["GFN/LF08"]}}
+{"dg-publish":true,"permalink":"/wiki/corporate-culture/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-06-22 21:57","links":null,"path":"Notes","tags":["ausbildung/gfn"]}}
 ---
 
 > Die Zielen von eine [[wiki/Unternehmen\|Unternehmen]] .

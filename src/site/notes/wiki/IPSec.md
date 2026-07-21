@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ip-sec/","tags":["informatik/sicherheit/kryptografie/verschlüsselung","netzwerk/protokolle"],"noteIcon":"","updated":"2026-07-02T15:37:49.227+02:00","dg-note-properties":{"tags":["informatik/sicherheit/kryptografie/verschlüsselung","netzwerk/protokolle"],"aliases":["Internet Protocol Security","IP Security","IPSec-Protokoll"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/ip-sec/","tags":["informatik/sicherheit","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/sicherheit","informatik/netzwerk"],"aliases":["Internet Protocol Security","IP Security","IPSec-Protokoll"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

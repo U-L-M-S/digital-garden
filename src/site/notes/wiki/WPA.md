@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/wpa/","tags":["informatik/netzwerk/wifi","informatik/sicherheit/kryptografie/wifi","informatik/sicherheit/it-sicherheit","informatik/sicherheit/kryptografie"],"noteIcon":"","updated":"2026-07-02T15:37:49.294+02:00","dg-note-properties":{"aliases":["WPA","Wi-Fi Protected Access"],"created":"2024-08-04 23:11","links":null,"path":"Notes","tags":["informatik/netzwerk/wifi","informatik/sicherheit/kryptografie/wifi","informatik/sicherheit/it-sicherheit","informatik/sicherheit/kryptografie"]}}
+{"dg-publish":true,"permalink":"/wiki/wpa/","tags":["informatik/netzwerk","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["WPA","Wi-Fi Protected Access"],"created":"2024-08-04 23:11","links":null,"path":"Notes","tags":["informatik/netzwerk","informatik/sicherheit"]}}
 ---
 
 >[[wiki/Wi-Fi\|Wi-Fi]] Protected Access

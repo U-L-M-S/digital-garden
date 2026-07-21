@@ -18,7 +18,7 @@
 > [!tip] Die [[wiki/MAC Adresse\|MAC Adresse]] wird bei der **Produktion** vom Hersteller fest vergeben (kann aber im Betriebssystem „gespooft“ werden).
 
 > [!note]  
-> MAC wird verwendet für die **Kommunikation innerhalb eines lokalen Netzwerks** (z.B. bei [[Switch\|Switch]]es und [[wiki/WLAN\|WLAN]]-Netzen).
+> MAC wird verwendet für die **Kommunikation innerhalb eines lokalen Netzwerks** (z.B. bei [[wiki/Switch\|Switch]]es und [[wiki/WLAN\|WLAN]]-Netzen).
 
 > [!question] Wo finde ich die MAC-Adresse?
 > 

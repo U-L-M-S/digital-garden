@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/stack/","tags":["datenstrukturen/stack","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2026-05-13T08:38:45.404+02:00","dg-note-properties":{"tags":["datenstrukturen/stack","algorithmen/datenstrukturen","GFN/prüfungsrelevant/AP2/vorbereitung"],"aliases":["Stapel","LIFO","Stack-Datenstruktur"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/stack/","tags":["informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/code","ausbildung/pruefung"],"aliases":["Stapel","LIFO","Stack-Datenstruktur"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 
@@ -40,7 +40,7 @@ stack.push(2);  // [1, 2]
 stack.push(3);  // [1, 2, 3] ← 3 ist oben
 ```
 
-**Komplexität:** [[wiki/1. Big O(1)\|O(1)]] - konstante Zeit
+**Komplexität:** [[1. Big O(1)\|O(1)]] - konstante Zeit
 
 #### 2. pop() - Element entfernen
 >Entfernt das **oberste** Element und gibt es zurück.
@@ -50,7 +50,7 @@ int element = stack.pop();  // 3
 // Stack ist jetzt: [1, 2]
 ```
 
-**Komplexität:** [[wiki/1. Big O(1)\|O(1)]]
+**Komplexität:** [[1. Big O(1)\|O(1)]]
 
 >[!warning] Warnung
 >pop() auf leerem [[wiki/Stack\|Stack]] wirft Exception! Immer erst prüfen, ob Stack leer ist.
@@ -63,7 +63,7 @@ int top = stack.peek();  // 2 (bei Stack [1, 2])
 // Stack bleibt: [1, 2]
 ```
 
-**Komplexität:** [[wiki/1. Big O(1)\|O(1)]]
+**Komplexität:** [[1. Big O(1)\|O(1)]]
 
 #### 4. isEmpty() - Ist Stack leer?
 >Prüft ob [[wiki/Stack\|Stack]] leer ist.
@@ -72,7 +72,7 @@ int top = stack.peek();  // 2 (bei Stack [1, 2])
 boolean leer = stack.isEmpty();  // true oder false
 ```
 
-**Komplexität:** [[wiki/1. Big O(1)\|O(1)]]
+**Komplexität:** [[1. Big O(1)\|O(1)]]
 
 #### 5. size() - Anzahl Elemente
 >Gibt Anzahl der Elemente zurück.
@@ -81,7 +81,7 @@ boolean leer = stack.isEmpty();  // true oder false
 int anzahl = stack.size();  // z.B. 3
 ```
 
-**Komplexität:** [[wiki/1. Big O(1)\|O(1)]]
+**Komplexität:** [[1. Big O(1)\|O(1)]]
 
 ## Implementierung in [[wiki/Java\|Java]]
 
@@ -327,7 +327,7 @@ void depthFirstSearch(Node start) {
 
 >[!check] Vorteile
 >- **Einfach** - Leicht zu verstehen und implementieren
->- **Effizient** - Alle Operationen [[wiki/1. Big O(1)\|O(1)]]
+>- **Effizient** - Alle Operationen [[1. Big O(1)\|O(1)]]
 >- **Speichereffizient** - Kein Overhead
 >- **Natürliches Modell** - Passt zu vielen Problemen (Rekursion, Undo)
 
@@ -341,11 +341,11 @@ void depthFirstSearch(Node start) {
 
 | Operation | Zeitkomplexität | Speicherkomplexität |
 |-----------|-----------------|---------------------|
-| push() | [[wiki/1. Big O(1)\|O(1)]] | [[wiki/1. Big O(1)\|O(1)]] |
-| pop() | [[wiki/1. Big O(1)\|O(1)]] | [[wiki/1. Big O(1)\|O(1)]] |
-| peek() | [[wiki/1. Big O(1)\|O(1)]] | [[wiki/1. Big O(1)\|O(1)]] |
-| isEmpty() | [[wiki/1. Big O(1)\|O(1)]] | [[wiki/1. Big O(1)\|O(1)]] |
-| size() | [[wiki/1. Big O(1)\|O(1)]] | [[wiki/1. Big O(1)\|O(1)]] |
+| push() | [[1. Big O(1)\|O(1)]] | [[1. Big O(1)\|O(1)]] |
+| pop() | [[1. Big O(1)\|O(1)]] | [[1. Big O(1)\|O(1)]] |
+| peek() | [[1. Big O(1)\|O(1)]] | [[1. Big O(1)\|O(1)]] |
+| isEmpty() | [[1. Big O(1)\|O(1)]] | [[1. Big O(1)\|O(1)]] |
+| size() | [[1. Big O(1)\|O(1)]] | [[1. Big O(1)\|O(1)]] |
 
 ## Stack Overflow
 
@@ -370,7 +370,7 @@ void unendlicheRekursion() {
 >[!important] Für AP2 wichtig
 >- **LIFO-Prinzip** erklären können
 >- **Operationen** (push, pop, peek) kennen
->- **Komplexität** [[wiki/1. Big O(1)\|O(1)]] für alle Operationen
+>- **Komplexität** [[1. Big O(1)\|O(1)]] für alle Operationen
 >- **Anwendungsfälle** nennen (Undo, Klammerprüfung, Call Stack)
 >- **Unterschied zu [[wiki/Queue\|Queue]]** erklären
 >- **Implementierung** in [[wiki/Java\|Java]] kennen

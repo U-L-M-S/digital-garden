@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/https/","tags":["informatik/netzwerk","informatik/sicherheit/it-sicherheit"],"noteIcon":"","updated":"2026-07-02T15:37:49.220+02:00","dg-note-properties":{"aliases":["Hyper Text Transfer Protocol Secure"],"created":"2024-07-02 15:03","links":null,"path":["Notes"],"tags":["informatik/netzwerk","informatik/sicherheit/it-sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/https/","tags":["informatik/netzwerk","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Hyper Text Transfer Protocol Secure"],"created":"2024-07-02 15:03","links":null,"path":["Notes"],"tags":["informatik/netzwerk","informatik/sicherheit"]}}
 ---
 
 > Hyper Text Transfer Protocol Secure.

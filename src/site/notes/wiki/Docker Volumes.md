@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/docker-volumes/","tags":["informatik/virtualisierung/docker/storage","informatik/virtualisierung/docker/persistence"],"noteIcon":"","updated":"2026-05-13T08:45:16.388+02:00","dg-note-properties":{"aliases":["Docker Volumes","Volumes","Data Persistence"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker/storage","informatik/virtualisierung/docker/persistence"]}}
+{"dg-publish":true,"permalink":"/wiki/docker-volumes/","tags":["informatik/hardware","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Docker Volumes","Volumes","Data Persistence"],"created_date":"2024-09-04","links":null,"tags":["informatik/hardware","informatik/datenbank"]}}
 ---
 
 >**Docker Volumes** sind Dockers Art Daten dauerhaft zu speichern außerhalb des [[wiki/Docker Container\|Docker Container]]s.

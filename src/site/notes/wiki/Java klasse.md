@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-klasse/","tags":["informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.787+02:00","dg-note-properties":{"created":"2024-06-21 16:38","links":null,"path":"Notes","tags":["informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/wiki/java-klasse/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-06-21 16:38","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >In [[wiki/Java\|Java]] gibt's keine echten [[wiki/Funktion\|Funktion]]en. Denn alles wird in einer [[wiki/Java klasse\|Java klasse]] gemacht.

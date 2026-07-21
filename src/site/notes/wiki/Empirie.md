@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/empirie/","tags":["projektmanagement"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"aliases":["Empirie","empirie"],"created_date":"2024-11-19","links":null,"tags":["projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/empirie/","tags":["wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Empirie","empirie"],"created_date":"2024-11-19","links":null,"tags":["wirtschaft/projektmanagement"]}}
 ---
 
 >**Empirie** ist ein Ansatz, der auf Erfahrungen und Beobachtungen basiert, um Wissen zu gewinnen und fundierte Entscheidungen zu treffen. In der Praxis bedeutet das, dass Entscheidungen nicht rein theoretisch getroffen werden, sondern durch tatsächliche Daten und Ergebnisse unterstützt werden.  

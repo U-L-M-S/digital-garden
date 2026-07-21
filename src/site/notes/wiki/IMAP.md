@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/imap/","tags":["informatik/netzwerk/protokoll/email","synchronisation/server","informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2026-07-11T23:32:03.000+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk/protokoll/email","synchronisation/server","informatik/netzwerk/protokoll"]}}
+{"dg-publish":true,"permalink":"/wiki/imap/","tags":["informatik/netzwerk","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk","informatik/system"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/gewinn/","tags":["BWL/formel"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"created":"2023-10-10 18:20","links":null,"path":["Notes"],"tags":["BWL/formel"]}}
+{"dg-publish":true,"permalink":"/wiki/gewinn/","tags":["wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2023-10-10 18:20","links":null,"path":["Notes"],"tags":["wirtschaft/allgemein"]}}
 ---
 
 ## Gewinn 

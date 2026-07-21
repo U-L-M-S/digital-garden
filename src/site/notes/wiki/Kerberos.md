@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kerberos/","tags":["AP2025/neu","netzwerk/protokolle","informatik/sicherheit/authentifizierung"],"noteIcon":"","updated":"2026-07-02T15:37:49.231+02:00","dg-note-properties":{"tags":["AP2025/neu","netzwerk/protokolle","informatik/sicherheit/authentifizierung"],"aliases":["Kerberos-Protokoll","Network Authentication"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/kerberos/","tags":["ausbildung/pruefung","informatik/netzwerk","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"tags":["ausbildung/pruefung","informatik/netzwerk","informatik/sicherheit"],"aliases":["Kerberos-Protokoll","Network Authentication"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

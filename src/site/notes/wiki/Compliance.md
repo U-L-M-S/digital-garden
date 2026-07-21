@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/compliance/","tags":["rechtliches/compliance","informatik/sicherheit/vorschriften","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T15:37:49.191+02:00","dg-note-properties":{"tags":["rechtliches/compliance","informatik/sicherheit/vorschriften","GFN/prüfungsrelevant/AP2"],"aliases":["Regelkonformität","Gesetzestreue"],"links":null,"created_date":"2024-09-12"}}
+{"dg-publish":true,"permalink":"/wiki/compliance/","tags":["wirtschaft/recht","informatik/sicherheit","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"tags":["wirtschaft/recht","informatik/sicherheit","ausbildung/pruefung"],"aliases":["Regelkonformität","Gesetzestreue"],"links":null,"created_date":"2024-09-12"}}
 ---
 
 >Compliance bedeutet, dass ein Unternehmen alle Gesetze, Vorschriften und eigenen Regeln einhält.

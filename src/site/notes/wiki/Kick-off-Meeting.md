@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kick-off-meeting/","tags":["GFN/LF02","ausbildung/gfn/ap1"],"noteIcon":"","updated":"2026-05-13T08:57:38.607+02:00","dg-note-properties":{"aliases":["Kick-off","Kick off Meeting","Kick off"],"created_date":"2024-10-06","links":null,"tags":["GFN/LF02","ausbildung/gfn/ap1"]}}
+{"dg-publish":true,"permalink":"/wiki/kick-off-meeting/","tags":["ausbildung/gfn","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Kick-off","Kick off Meeting","Kick off"],"created_date":"2024-10-06","links":null,"tags":["ausbildung/gfn","ausbildung/pruefung"]}}
 ---
 
 >Es ist das erste Meeting, bevor ein neues [[wiki/Projektmanagement\|Projektmanagement]] startet.

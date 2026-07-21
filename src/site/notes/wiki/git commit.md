@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/git-commit/","tags":["git/commit"],"noteIcon":"","updated":"2026-05-13T08:47:26.545+02:00","dg-note-properties":{"tags":["git/commit"]}}
+{"dg-publish":true,"permalink":"/wiki/git-commit/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/system"]}}
 ---
 
 >Mit dem Befehl `git commit` und der Nachricht `this is a commit` kannst du einen Save Point speichern. Das bedeutet, hier wird ein Save Point gesetzt, und mit dem Befehl [[wiki/git log\|git log]] können sogar alle deine Save Points eingesehen werden. 
@@ -10,7 +10,7 @@ git commit -m "this is a commit"
 
 
 >[!tip] 
->Du kannst ```git commit -m "Titel #ENTER Kurz Beschreibung #ENTER"```
+>Du kannst ```git commit -m "Titel #meta/vault Kurz Beschreibung #meta/vault"```
 >eingeben. Somit wird es in deinem GitHub so aussehen:
 >![Pasted image 20230804162548.png](/img/user/assets/IMG/Pasted%20image%2020230804162548.png)
 >![Pasted image 20230804162651.png](/img/user/assets/IMG/Pasted%20image%2020230804162651.png)

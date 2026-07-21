@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/microservices/","tags":["softwarearchitektur/microservices","architektur/pattern","GFN/prüfungsrelevant/AP2/vorbereitung"],"noteIcon":"","updated":"2025-11-05T12:22:24.000+01:00","dg-note-properties":{"tags":["softwarearchitektur/microservices","architektur/pattern","GFN/prüfungsrelevant/AP2/vorbereitung"],"aliases":["Microservice","Mikroservices","Microservice-Architektur"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/microservices/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software","ausbildung/pruefung"],"aliases":["Microservice","Mikroservices","Microservice-Architektur"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

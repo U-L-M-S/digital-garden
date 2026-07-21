@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/connection-pool/","tags":["informatik/programmierung/sprachen/java/framework","informatik/datenbank"],"noteIcon":"","updated":"2026-07-02T13:17:19.706+02:00","dg-note-properties":{"aliases":["connection pool","verbindungspool","jdbc pool"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/connection-pool/","tags":["informatik/software","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["connection pool","verbindungspool","jdbc pool"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software","informatik/datenbank"]}}
 ---
 
 >Ein [[wiki/Connection Pool\|Connection Pool]] ist eine Sammlung vorgewärmter DB-Verbindungen.

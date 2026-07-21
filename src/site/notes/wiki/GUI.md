@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/gui/","tags":["gui"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"created":"2024-06-22 20:09","links":null,"path":"Notes","tags":["gui"]}}
+{"dg-publish":true,"permalink":"/wiki/gui/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-06-22 20:09","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 > **G**raphical **U**ser **I**nterface.

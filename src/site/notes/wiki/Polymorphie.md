@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/polymorphie/","tags":["ausbildung/gfn/ap1/vorbereitung","informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.821+02:00","dg-note-properties":{"aliases":["Vielgestaltigkeit"],"created_date":"2025-03-16","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/wiki/polymorphie/","tags":["ausbildung/pruefung","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Vielgestaltigkeit"],"created_date":"2025-03-16","links":null,"tags":["ausbildung/pruefung","informatik/software"]}}
 ---
 
 > **[[wiki/Polymorphie\|Polymorphie]]** _(„Vielgestaltigkeit“)_  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/eisenhower-prinzip/","tags":["zeitmanagement","GFN/LF06","produktivität"],"noteIcon":"","updated":"2025-11-05T13:17:52.000+01:00","dg-note-properties":{"tags":["zeitmanagement","GFN/LF06","produktivität"],"aliases":["Eisenhower-Matrix","Eisenhower-Box","Dringlichkeits-Wichtigkeits-Prinzip"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/eisenhower-prinzip/","tags":["ausbildung/lernmethode","ausbildung/gfn","mindset/produktivitaet"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/lernmethode","ausbildung/gfn","mindset/produktivitaet"],"aliases":["Eisenhower-Matrix","Eisenhower-Box","Dringlichkeits-Wichtigkeits-Prinzip"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

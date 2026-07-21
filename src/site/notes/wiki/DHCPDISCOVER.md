@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dhcpdiscover/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"aliases":null,"links":null,"tags":["informatik/netzwerk/protokoll"]}}
+{"dg-publish":true,"permalink":"/wiki/dhcpdiscover/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"links":null,"tags":["informatik/netzwerk"]}}
 ---
 
 >Die Nachricht, die vom Client gesendet wird, um nach verfügbaren [[wiki/DHCP-Server\|DHCP-Server]]n zu suchen.

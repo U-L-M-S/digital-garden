@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/change-the-business-leistungen/","tags":["it-service/service-arten","GFN/LF06","itsm/grundlagen","innovation"],"noteIcon":"","updated":"2025-11-05T13:10:35.000+01:00","dg-note-properties":{"tags":["it-service/service-arten","GFN/LF06","itsm/grundlagen","innovation"],"aliases":["Change the Business","CTB-Leistungen","Innovationsleistungen","Transformationsleistungen"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/change-the-business-leistungen/","tags":["wirtschaft/itsm","ausbildung/gfn","wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["wirtschaft/itsm","ausbildung/gfn","wirtschaft/allgemein"],"aliases":["Change the Business","CTB-Leistungen","Innovationsleistungen","Transformationsleistungen"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

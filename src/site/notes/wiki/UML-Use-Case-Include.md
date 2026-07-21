@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml-use-case-include/","tags":["informatik/uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"],"noteIcon":"","updated":"2026-07-02T15:36:34.299+02:00","dg-note-properties":{"aliases":["UML-Use-Case-Include","Include-Beziehung","Include Relationship","<<include>>"],"created_date":"2025-11-06","links":null,"tags":["informatik/uml/anwendungsfalldiagramm","ausbildung/gfn/ap1/vorbereitung"]}}
+{"dg-publish":true,"permalink":"/wiki/uml-use-case-include/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["UML-Use-Case-Include","Include-Beziehung","Include Relationship","<<include>>"],"created_date":"2025-11-06","links":null,"tags":["informatik/software","ausbildung/pruefung"]}}
 ---
 
 >Eine **Include-Beziehung** zeigt, dass ein Use Case einen anderen Use Case **immer** einschließt und benötigt.

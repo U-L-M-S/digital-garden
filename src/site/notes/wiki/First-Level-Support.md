@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/first-level-support/","tags":["it-service/support","GFN/LF06","helpdesk"],"noteIcon":"","updated":"2025-11-05T13:11:58.000+01:00","dg-note-properties":{"tags":["it-service/support","GFN/LF06","helpdesk"],"aliases":["1st Level Support","Level 1 Support","Frontline Support","Helpdesk"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/first-level-support/","tags":["wirtschaft/itsm","ausbildung/gfn","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["wirtschaft/itsm","ausbildung/gfn","informatik/system"],"aliases":["1st Level Support","Level 1 Support","Frontline Support","Helpdesk"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

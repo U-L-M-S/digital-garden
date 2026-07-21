@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-oop/","tags":["status/in-progress","informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2026-07-02T13:17:19.779+02:00","dg-note-properties":{"aliases":["Java OOP"],"created_date":"2024-11-02","links":null,"tags":["status/in-progress","informatik/programmierung/konzepte/oop","informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/wiki/java-oop/","tags":["meta/status","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Java OOP"],"created_date":"2024-11-02","links":null,"tags":["meta/status","informatik/software"]}}
 ---
 
 > Da du jetzt die [[wiki/Java Grundlage\|Java Grundlage]]n kennst, tauchen wir tiefer in die objektorientierte Programmierung ([[wiki/OOP\|OOP]]) von [[wiki/Java\|Java]] ein.

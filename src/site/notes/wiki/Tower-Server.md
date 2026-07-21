@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/tower-server/","tags":["informatik/hardware/server"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"aliases":["tower - Server"],"created_date":"2025-07-18","links":null,"tags":["informatik/hardware/server"]}}
+{"dg-publish":true,"permalink":"/wiki/tower-server/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["tower - Server"],"created_date":"2025-07-18","links":null,"tags":["informatik/system"]}}
 ---
 
 

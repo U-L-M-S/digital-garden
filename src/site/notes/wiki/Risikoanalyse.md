@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/risikoanalyse/","tags":["ausbildung/gfn/ap1/vorbereitung","projektmanagement"],"noteIcon":"","updated":"2025-10-29T12:59:09.000+01:00","dg-note-properties":{"aliases":[],"created_date":"2025-03-16","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/risikoanalyse/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":[],"created_date":"2025-03-16","links":null,"tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
 ---
 
 >Die Risikoanalyse beinhaltet 5 Phasen 

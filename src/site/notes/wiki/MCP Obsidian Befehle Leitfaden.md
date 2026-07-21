@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/mcp-obsidian-befehle-leitfaden/","tags":["obsidian/mcp","claude/commands","api/integration"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"tags":["obsidian/mcp","claude/commands","api/integration"],"aliases":["MCP Obsidian Befehle","Claude Obsidian Integration"],"links":null,"created_date":"2025-09-27"}}
+{"dg-publish":true,"permalink":"/wiki/mcp-obsidian-befehle-leitfaden/","tags":["meta/tools","informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["meta/tools","informatik/code"],"aliases":["MCP Obsidian Befehle","Claude Obsidian Integration"],"links":null,"created_date":"2025-09-27"}}
 ---
 
 

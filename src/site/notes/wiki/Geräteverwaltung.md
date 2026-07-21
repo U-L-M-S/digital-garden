@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/geraeteverwaltung/","tags":["software/betriebssystem","hardware/treiber"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"tags":["software/betriebssystem","hardware/treiber"],"aliases":["Device Management","Hardware-Verwaltung"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/wiki/geraeteverwaltung/","tags":["informatik/system","informatik/hardware"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/system","informatik/hardware"],"aliases":["Device Management","Hardware-Verwaltung"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 
-> [[Betriebssystem\|Betriebssystem]]-Komponente die Kommunikation zwischen Software und Hardware-Geräten koordiniert.
+> [[wiki/Betriebssystem\|Betriebssystem]]-Komponente die Kommunikation zwischen Software und Hardware-Geräten koordiniert.
 
 >> Stellt einheitliche Schnittstellen für verschiedene Hardware-Geräte bereit durch [[Treiber\|Treiber]].
 
@@ -30,7 +30,7 @@
 >```
 
 >[!important] Plug & Play
->Moderne Geräte werden automatisch erkannt und konfiguriert - [[Betriebssystem\|Betriebssystem]] lädt passenden [[Treiber\|Treiber]] automatisch.
+>Moderne Geräte werden automatisch erkannt und konfiguriert - [[wiki/Betriebssystem\|Betriebssystem]] lädt passenden [[Treiber\|Treiber]] automatisch.
 
 >[!caution] Treiber-Probleme
 >- **Veraltete Treiber** → schlechte Performance

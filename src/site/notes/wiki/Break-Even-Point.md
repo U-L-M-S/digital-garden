@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/break-even-point/","tags":["ausbildung/gfn/ap1/vorbereitung","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00","dg-note-properties":{"aliases":["Gewinnschwelle"],"created_date":"2025-03-16","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","wirtschaft/bwl"]}}
+{"dg-publish":true,"permalink":"/wiki/break-even-point/","tags":["ausbildung/pruefung","wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Gewinnschwelle"],"created_date":"2025-03-16","links":null,"tags":["ausbildung/pruefung","wirtschaft/allgemein"]}}
 ---
 
 >Die Menge, bei der deine Erlöse (Umsätze) genau deine Gesamtkosten ([[wiki/Fixkosten\|Fixkosten]] + [[wiki/Variable Kosten\|Variable Kosten]]) decken.

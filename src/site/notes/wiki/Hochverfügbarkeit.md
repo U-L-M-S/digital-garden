@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/hochverfuegbarkeit/","tags":["informatik/sicherheit/it-sicherheit","system/ausfallsicher","verfügbarkeit/hoch"],"noteIcon":"","updated":"2026-07-02T15:37:49.223+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/sicherheit/it-sicherheit","system/ausfallsicher","verfügbarkeit/hoch"]}}
+{"dg-publish":true,"permalink":"/wiki/hochverfuegbarkeit/","tags":["informatik/sicherheit","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/sicherheit","informatik/system"]}}
 ---
 
 

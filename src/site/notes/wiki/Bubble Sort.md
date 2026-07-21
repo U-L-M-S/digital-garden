@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/bubble-sort/","tags":["algorithmen/sortierung","grundlagen/einfach","informatik/programmierung/algorithmen","informatik/programmierung/algorithmen/time-complexity"],"noteIcon":"","updated":"2026-07-02T13:17:19.653+02:00","dg-note-properties":{"tags":["algorithmen/sortierung","grundlagen/einfach","informatik/programmierung/algorithmen","informatik/programmierung/algorithmen/time-complexity"],"aliases":["Blasensortierung","Bubble-Sort-Algorithmus","Bubblesort"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/bubble-sort/","tags":["informatik/code","meta/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/code","meta/allgemein"],"aliases":["Blasensortierung","Bubble-Sort-Algorithmus","Bubblesort"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/mehrlinienorganisation/","tags":["organisation/leitungssystem","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:08.000+01:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["organisation/leitungssystem","wirtschaft/bwl"]}}
+{"dg-publish":true,"permalink":"/wiki/mehrlinienorganisation/","tags":["wirtschaft/organisation","wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["wirtschaft/organisation","wirtschaft/allgemein"]}}
 ---
 
 >Mitarbeiter können mehrere Vorgesetzte je nach Fachbereich haben.

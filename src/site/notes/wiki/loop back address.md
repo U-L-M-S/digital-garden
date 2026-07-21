@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/loop-back-address/","tags":["informatik/netzwerk/loopback"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"aliases":["127.0.0.1"],"created":"2023-09-13 17:01","links":null,"path":"Notes","tags":["informatik/netzwerk/loopback"]}}
+{"dg-publish":true,"permalink":"/wiki/loop-back-address/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["127.0.0.1"],"created":"2023-09-13 17:01","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 ## loop back address 

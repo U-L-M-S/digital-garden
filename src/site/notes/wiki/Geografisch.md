@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/geografisch/","tags":["marketing/segmentierung"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["marketing/segmentierung"]}}
+{"dg-publish":true,"permalink":"/wiki/geografisch/","tags":["wirtschaft/marketing"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["wirtschaft/marketing"]}}
 ---
 
 >Einteilung der [[wiki/Kunden\|Kunden]] nach örtlichen Merkmalen (Stadt/Land, Region).

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/layers/","tags":["informatik/virtualisierung/docker/images","informatik/virtualisierung/docker/storage"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"aliases":["Image Layers","Docker Layers"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker/images","informatik/virtualisierung/docker/storage"]}}
+{"dg-publish":true,"permalink":"/wiki/layers/","tags":["informatik/system","informatik/hardware"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Image Layers","Docker Layers"],"created_date":"2024-09-04","links":null,"tags":["informatik/system","informatik/hardware"]}}
 ---
 
 

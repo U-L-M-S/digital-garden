@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dockerfile/","tags":["informatik/virtualisierung/docker/build","informatik/virtualisierung/docker/images"],"noteIcon":"","updated":"2026-05-13T08:45:13.741+02:00","dg-note-properties":{"aliases":["Dockerfile","Docker Build File"],"created_date":"2024-09-04","links":null,"tags":["informatik/virtualisierung/docker/build","informatik/virtualisierung/docker/images"]}}
+{"dg-publish":true,"permalink":"/wiki/dockerfile/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Dockerfile","Docker Build File"],"created_date":"2024-09-04","links":null,"tags":["informatik/system"]}}
 ---
 
 >**Dockerfile** ist eine Textdatei mit Anweisungen, wie ein [[wiki/Docker Image\|Docker Image]] gebaut werden soll.

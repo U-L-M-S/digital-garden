@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/subnetz-bestimmen/","tags":["informatik/netzwerk/subnetting","informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-10-29T12:59:10.000+01:00","dg-note-properties":{"aliases":[],"created":"2024-07-29 18:34","links":null,"path":["Notes"],"tags":["informatik/netzwerk/subnetting","informatik/netzwerk/ip/ipv4"]}}
+{"dg-publish":true,"permalink":"/wiki/subnetz-bestimmen/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"aliases":[],"created":"2024-07-29 18:34","links":null,"path":["Notes"],"tags":["informatik/netzwerk"]}}
 ---
 
 > Nehmen wir an, du hast eine [[wiki/IPv4\|IPv4]] und [[Netzwerkmaske\|Netzwerkmaske]] erhalten und musst nun das [[wiki/Netzwerk\|Netzwerk]] in 12 gleich große [[wiki/Subnetz\|Subnetz]]e unterteilen. Gefragt sind die 7. [[wiki/Netz-ID\|Netz-ID]] und [[wiki/Broadcast-ID\|Broadcast-ID]].  

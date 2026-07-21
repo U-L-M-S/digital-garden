@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/emulation/","tags":["informatik/virtualisierung"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"aliases":["emulation"],"created_date":"2025-07-18","links":null,"tags":["informatik/virtualisierung"]}}
+{"dg-publish":true,"permalink":"/wiki/emulation/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["emulation"],"created_date":"2025-07-18","links":null,"tags":["informatik/system"]}}
 ---
 
 > **Emulation** ist das **Nachbilden** von Hardware oder [[wiki/Software\|Software]], sodass ein System auf einem anderen System so läuft, als wäre es das Original.

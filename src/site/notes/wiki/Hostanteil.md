@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/hostanteil/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"aliases":["Hostanteil","hostanteil"],"created":"2024-07-26 13:41","links":null,"path":"Notes","tags":["informatik/netzwerk/ip/ipv4"]}}
+{"dg-publish":true,"permalink":"/wiki/hostanteil/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Hostanteil","hostanteil"],"created":"2024-07-26 13:41","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 >Es ist der Teil von den IP-Bereich, der man ändern kann und somit [[02 - RESOURCES/Notes/IP\|02 - RESOURCES/Notes/IP]]s zu jeder Rechner verteilen kann.

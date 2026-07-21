@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/vertrag/","tags":["rechtliches/vertragsrecht","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2026-07-02T15:41:59.614+02:00","dg-note-properties":{"tags":["rechtliches/vertragsrecht","wirtschaft/bwl","GFN/prüfungsrelevant/AP2"],"aliases":["Vertragsverhältnis","Rechtsgeschäft"],"links":null,"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/wiki/vertrag/","tags":["wirtschaft/recht","wirtschaft/allgemein","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["wirtschaft/recht","wirtschaft/allgemein","ausbildung/pruefung"],"aliases":["Vertragsverhältnis","Rechtsgeschäft"],"links":null,"created_date":"2025-11-12"}}
 ---
 
 >Ein Vertrag ist eine rechtlich bindende Vereinbarung zwischen mindestens zwei Parteien.

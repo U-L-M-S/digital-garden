@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/float/","tags":["informatik/programmierung","speicher"],"noteIcon":"","updated":"2026-07-02T13:17:19.906+02:00","dg-note-properties":{"aliases":["Float","float"],"created_date":"2024-08-25","links":null,"path":"Notes","tags":["informatik/programmierung","speicher"]}}
+{"dg-publish":true,"permalink":"/wiki/float/","tags":["informatik/code","informatik/hardware"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Float","float"],"created_date":"2024-08-25","links":null,"path":"Notes","tags":["informatik/code","informatik/hardware"]}}
 ---
 
 >32 [[wiki/Bit\|Bit]]s

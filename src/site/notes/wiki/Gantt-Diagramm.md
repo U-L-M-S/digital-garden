@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/gantt-diagramm/","tags":["projektmanagement","GFN/LFF4"],"noteIcon":"","updated":"2025-10-29T12:59:06.000+01:00","dg-note-properties":{"aliases":["Gantt Diagramm"],"created":"2024-08-22 15:26","links":null,"path":"Notes","tags":["projektmanagement","GFN/LFF4"]}}
+{"dg-publish":true,"permalink":"/wiki/gantt-diagramm/","tags":["wirtschaft/projektmanagement","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Gantt Diagramm"],"created":"2024-08-22 15:26","links":null,"path":"Notes","tags":["wirtschaft/projektmanagement","ausbildung/gfn"]}}
 ---
 
 >Es ist ein [[wiki/Projektmanagement\|Projektmanagement]]-Werkzeug.

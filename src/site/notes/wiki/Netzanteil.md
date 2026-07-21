@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/netzanteil/","tags":["informatik/netzwerk/ip/ipv4"],"noteIcon":"","updated":"2026-05-12T16:03:36.641+02:00","dg-note-properties":{"aliases":null,"created":"2024-07-26 13:36","links":null,"path":"Notes","tags":["informatik/netzwerk/ip/ipv4"]}}
+{"dg-publish":true,"permalink":"/wiki/netzanteil/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created":"2024-07-26 13:36","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 >Es ist der Bereich von [[wiki/IPv4\|IPv4]], bei dem es nicht änderbar ist. Es wird entweder mit der [[Netzwerkmaske\|Netzwerkmaske]] oder der [[wiki/CIDR\|CIDR]] definiert.

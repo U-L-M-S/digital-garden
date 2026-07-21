@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/marker-dateien/","tags":["informatik/programmierung/sprachen/java/framework"],"noteIcon":"","updated":"2026-07-02T13:17:19.800+02:00","dg-note-properties":{"aliases":["marker dateien","marker files","wildfly markers"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework"]}}
+{"dg-publish":true,"permalink":"/wiki/marker-dateien/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["marker dateien","marker files","wildfly markers"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >[[wiki/Marker-Dateien\|Marker-Dateien]] sind leere Dateien neben einer `.war`, die den Deployment-Status anzeigen.

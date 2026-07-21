@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/jvm/","tags":["informatik/programmierung/sprachen/java"],"noteIcon":"","updated":"2025-10-29T12:59:07.000+01:00","dg-note-properties":{"aliases":["Java Virtual Machine"],"created_date":"2024-10-26","links":null,"tags":["informatik/programmierung/sprachen/java"]}}
+{"dg-publish":true,"permalink":"/wiki/jvm/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Java Virtual Machine"],"created_date":"2024-10-26","links":null,"tags":["informatik/software"]}}
 ---
 
 >Die **Java Virtual Machine (JVM)** ist eine Laufzeitumgebung, die [[wiki/Java\|Java]]-Programme ausführt, indem sie den [[wiki/Java\|Java]]-Bytecode in maschinenspezifischen Code übersetzt. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/integrationstest/","tags":["testing/integration","qualitätssicherung/schnittstellen"],"noteIcon":"","updated":"2026-07-02T01:13:38.490+02:00","dg-note-properties":{"tags":["testing/integration","qualitätssicherung/schnittstellen"],"aliases":["Integration Testing","Interface-Test","Schnittstellentest"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/integrationstest/","tags":["informatik/software","wirtschaft/qualitaet"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software","wirtschaft/qualitaet"],"aliases":["Integration Testing","Interface-Test","Schnittstellentest"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 >[[wiki/Integrationstest\|Integrationstest]] prüft die Schnittstellen und Zusammenarbeit zwischen Software-Komponenten.

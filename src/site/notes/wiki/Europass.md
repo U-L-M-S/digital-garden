@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/europass/","tags":["bildung/nachweis"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["bildung/nachweis"]}}
+{"dg-publish":true,"permalink":"/wiki/europass/","tags":["ausbildung/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-26","path":"Notes","tags":["ausbildung/allgemein"]}}
 ---
 
 >Standardisierte Dokumente zur Darstellung von Qualifikationen und Kompetenzen.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/verschluesselung/","tags":["informatik/sicherheit","informatik/sicherheit/kryptografie"],"noteIcon":"","updated":"2026-07-02T13:17:19.883+02:00","dg-note-properties":{"tags":["informatik/sicherheit","informatik/sicherheit/kryptografie"],"aliases":["encryption","verschlüsseln"],"links":null,"created_date":"2025-08-26"}}
+{"dg-publish":true,"permalink":"/wiki/verschluesselung/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/sicherheit"],"aliases":["encryption","verschlüsseln"],"links":null,"created_date":"2025-08-26"}}
 ---
 
 >Verschlüsselung wandelt lesbare Daten (Klartext) in unlesbare Daten (Geheimtext) um. So kann niemand ohne Schlüssel die Daten lesen.

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dateiverwaltung/","tags":["software/betriebssystem","informatik/dateisystem"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00","dg-note-properties":{"tags":["software/betriebssystem","informatik/dateisystem"],"aliases":["File Management","Datei-System"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/wiki/dateiverwaltung/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/system"],"aliases":["File Management","Datei-System"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 
-> [[Betriebssystem\|Betriebssystem]]-Komponente für Organisation, Speicherung und Zugriff auf Dateien und Ordner.
+> [[wiki/Betriebssystem\|Betriebssystem]]-Komponente für Organisation, Speicherung und Zugriff auf Dateien und Ordner.
 
 >> Stellt Funktionen für Erstellen, Kopieren, Verschieben, Löschen und Suchen von Dateien bereit.
 

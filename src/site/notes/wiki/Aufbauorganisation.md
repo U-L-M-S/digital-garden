@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/aufbauorganisation/","tags":["ausbildung/gfn/ap1/vorbereitung","organisation","wirtschaft/bwl"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-17","links":null,"tags":["ausbildung/gfn/ap1/vorbereitung","organisation","wirtschaft/bwl"]}}
+{"dg-publish":true,"permalink":"/wiki/aufbauorganisation/","tags":["ausbildung/pruefung","wirtschaft/organisation","wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-17","links":null,"tags":["ausbildung/pruefung","wirtschaft/organisation","wirtschaft/allgemein"]}}
 ---
 
 >Hierarches Strukturierung des [[wiki/Unternehmen\|Unternehmen]]s, dieser wird in [[wiki/Organigramm\|Organigramm]]en dargestellt.

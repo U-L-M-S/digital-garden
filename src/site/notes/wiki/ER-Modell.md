@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/er-modell/","tags":["datenmodellierung/konzeptionell","datenbank/design","GFN/prüfungsrelevant/AP2"],"noteIcon":"","updated":"2025-11-24T20:53:13.000+01:00","dg-note-properties":{"tags":["datenmodellierung/konzeptionell","datenbank/design","GFN/prüfungsrelevant/AP2"],"aliases":["Entity-Relationship-Modell","ER-Diagramm","Entitäts-Beziehungsmodell","er-modell"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/er-modell/","tags":["informatik/datenbank","informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/datenbank","informatik/software","ausbildung/pruefung"],"aliases":["Entity-Relationship-Modell","ER-Diagramm","Entitäts-Beziehungsmodell","er-modell"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

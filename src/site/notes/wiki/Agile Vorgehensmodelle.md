@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/agile-vorgehensmodelle/","tags":["projektmanagement/vorgehensmodell/agile","GFN/LF04"],"noteIcon":"","updated":"2025-10-29T12:59:02.000+01:00","dg-note-properties":{"aliases":["Agiles Vorgehensmodelle"],"created":"2024-06-15 23:48","links":null,"path":["Notes"],"tags":["projektmanagement/vorgehensmodell/agile","GFN/LF04"]}}
+{"dg-publish":true,"permalink":"/wiki/agile-vorgehensmodelle/","tags":["wirtschaft/projektmanagement","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Agiles Vorgehensmodelle"],"created":"2024-06-15 23:48","links":null,"path":["Notes"],"tags":["wirtschaft/projektmanagement","ausbildung/gfn"]}}
 ---
 
 >**Agile Vorgehensmodelle** sind eine Herangehensweise, um das [[wiki/Projektmanagement\|Projektmanagement]] flexibler und effizienter zu gestalten, indem sie auf kontinuierliche Anpassung und Zusammenarbeit setzen.  

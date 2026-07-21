@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/git-merge/","tags":["git/merge"],"noteIcon":"","updated":"2026-05-13T08:47:49.079+02:00","dg-note-properties":{"tags":["git/merge"]}}
+{"dg-publish":true,"permalink":"/wiki/git-merge/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/system"]}}
 ---
 
 

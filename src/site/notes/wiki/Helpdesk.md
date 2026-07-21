@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/helpdesk/","tags":["it-service/support","GFN/LF06"],"noteIcon":"","updated":"2025-11-05T13:14:20.000+01:00","dg-note-properties":{"tags":["it-service/support","GFN/LF06"],"aliases":["Help Desk","Service Desk"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/helpdesk/","tags":["wirtschaft/itsm","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["wirtschaft/itsm","ausbildung/gfn"],"aliases":["Help Desk","Service Desk"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

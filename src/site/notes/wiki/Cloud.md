@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/cloud/","tags":["infrastruktur/cloud-computing","services/distributed"],"noteIcon":"","updated":"2025-10-29T12:59:04.000+01:00","dg-note-properties":{"tags":["infrastruktur/cloud-computing","services/distributed"],"aliases":["Cloud Computing","Cloud-Services","Wolken-Computing"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/cloud/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/system"],"aliases":["Cloud Computing","Cloud-Services","Wolken-Computing"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

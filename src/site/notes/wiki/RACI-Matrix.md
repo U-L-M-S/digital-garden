@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/raci-matrix/","tags":["projektmanagement/tools","GFN/LF06","organisation"],"noteIcon":"","updated":"2025-11-05T13:15:37.000+01:00","dg-note-properties":{"tags":["projektmanagement/tools","GFN/LF06","organisation"],"aliases":["RACI","RACI-Chart","Verantwortlichkeitsmatrix"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/raci-matrix/","tags":["wirtschaft/projektmanagement","ausbildung/gfn","wirtschaft/organisation"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["wirtschaft/projektmanagement","ausbildung/gfn","wirtschaft/organisation"],"aliases":["RACI","RACI-Chart","Verantwortlichkeitsmatrix"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

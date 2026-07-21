@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/cmt/","tags":["informatik/programmierung/sprachen/java/framework"],"noteIcon":"","updated":"2026-07-02T13:17:19.686+02:00","dg-note-properties":{"aliases":["Container Managed Transactions"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/programmierung/sprachen/java/framework"]}}
+{"dg-publish":true,"permalink":"/wiki/cmt/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Container Managed Transactions"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >[[wiki/CMT\|CMT]] (Container Managed Transactions) bedeutet: Der [[wiki/WildFly\|WildFly]]-Container öffnet und schließt [[wiki/Transaktion\|Transaktion]]en automatisch.

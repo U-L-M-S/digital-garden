@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kubernetes-pods/","tags":["informatik/virtualisierung/kubernetes/pods","devops/kubernetes"],"noteIcon":"","updated":"2026-05-13T08:57:44.874+02:00","dg-note-properties":{"aliases":["Kubernetes Pods","K8s Pod","Pod"],"created_date":"2025-11-06","links":null,"tags":["informatik/virtualisierung/kubernetes/pods","devops/kubernetes"]}}
+{"dg-publish":true,"permalink":"/wiki/kubernetes-pods/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Kubernetes Pods","K8s Pod","Pod"],"created_date":"2025-11-06","links":null,"tags":["informatik/system"]}}
 ---
 
 >Ein **Pod** ist die kleinste deploybare Einheit in [[wiki/Kubernetes\|Kubernetes]] und besteht aus einem oder mehreren Containern, die zusammen auf einem Node laufen.

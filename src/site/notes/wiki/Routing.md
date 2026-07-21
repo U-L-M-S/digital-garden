@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/routing/","tags":["ausbildung/gfn/ap1","informatik/netzwerk/gateway"],"noteIcon":"","updated":"2026-07-11T00:23:11.000+02:00","dg-note-properties":{"aliases":["Routing","routing"],"created":"2024-07-23 10:05","links":null,"path":"Notes","tags":["ausbildung/gfn/ap1","informatik/netzwerk/gateway"]}}
+{"dg-publish":true,"permalink":"/wiki/routing/","tags":["ausbildung/pruefung","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Routing","routing"],"created":"2024-07-23 10:05","links":null,"path":"Notes","tags":["ausbildung/pruefung","informatik/netzwerk"]}}
 ---
 
 >Methode zu [[wiki/Verwaltung\|Verwaltung]] der Weiterleitung von [[wiki/Datenpakete\|Datenpakete]]n.

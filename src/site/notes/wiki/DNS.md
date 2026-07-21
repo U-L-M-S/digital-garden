@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dns/","tags":["informatik/netzwerk/dns"],"noteIcon":"","updated":"2026-07-11T00:23:29.000+02:00","dg-note-properties":{"Created":"2023-07-30 19:50","Path":"Notes","Reference":"https://root-servers.org/","aliases":["Domain Name Server"],"tags":["informatik/netzwerk/dns"]}}
+{"dg-publish":true,"permalink":"/wiki/dns/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"Created":"2023-07-30 19:50","Path":"Notes","Reference":"https://root-servers.org/","aliases":["Domain Name Server"],"tags":["informatik/netzwerk"]}}
 ---
 
 > [[wiki/Domain\|Domain]] Name System
@@ -37,8 +37,7 @@ graph LR
     boxC --> |10\nreponse index.html| boxA
     
 ```
-{ #1245f6}
-
+{ #1245f6}
 
 
 Wie du es sehen kannst, macht der Recursive Resolver die ganze Arbeit. Um das alles schneller zu machen, wurde das [[wiki/TTL Cache\|TTL Cache]] zwischen den Root Servers und dem Recursive Resolver eingefügt.

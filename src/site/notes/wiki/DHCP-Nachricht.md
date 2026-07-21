@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dhcp-nachricht/","tags":["informatik/netzwerk/protokoll"],"noteIcon":"","updated":"2025-10-29T12:59:05.000+01:00","dg-note-properties":{"aliases":["DHCP-Nachricht","DHCP-MSG"],"created":"2024-08-02 01:33","links":null,"path":"Notes","tags":["informatik/netzwerk/protokoll"]}}
+{"dg-publish":true,"permalink":"/wiki/dhcp-nachricht/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["DHCP-Nachricht","DHCP-MSG"],"created":"2024-08-02 01:33","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 > Nachricht, die während des DHCP-Algorithmus mitgeschickt wird.

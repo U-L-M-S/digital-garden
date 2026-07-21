@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/corporate-identity/","tags":["GFN/LF08","GFN/prüfungsrelevant/AP2","marketing/branding"],"noteIcon":"","updated":"2025-11-12T09:49:29.000+01:00","dg-note-properties":{"created":"2024-06-22 21:34","links":null,"path":"Notes","tags":["GFN/LF08","GFN/prüfungsrelevant/AP2","marketing/branding"],"aliases":["CI","Unternehmensidentität"],"created_date":"2024-06-22"}}
+{"dg-publish":true,"permalink":"/wiki/corporate-identity/","tags":["ausbildung/gfn","ausbildung/pruefung","wirtschaft/marketing"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-06-22 21:34","links":null,"path":"Notes","tags":["ausbildung/gfn","ausbildung/pruefung","wirtschaft/marketing"],"aliases":["CI","Unternehmensidentität"],"created_date":"2024-06-22"}}
 ---
 
 >Corporate Identity (CI) ist die Gesamtheit aller Merkmale, die ein [[wiki/Unternehmen\|Unternehmen]] ausmachen und nach außen erkennbar machen.
