@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/entschluesselung/","tags":["informatik/sicherheit","informatik/sicherheit/kryptografie"],"noteIcon":"","updated":"2026-07-02T13:17:19.743+02:00","dg-note-properties":{"tags":["informatik/sicherheit","informatik/sicherheit/kryptografie"],"aliases":["decryption","entschlüsseln"],"links":null,"created_date":"2025-11-07"}}
+{"dg-publish":true,"permalink":"/wiki/entschluesselung/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/sicherheit"],"aliases":["decryption","entschlüsseln"],"links":null,"created_date":"2025-11-07"}}
 ---
 
 >Entschlüsselung wandelt unlesbare Daten (Geheimtext) zurück in lesbare Daten (Klartext) um. Dafür braucht man den richtigen Schlüssel.
