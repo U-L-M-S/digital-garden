@@ -218,6 +218,7 @@ dig TXT _dmarc.example.com
 **Online-Tools:**
 - https://dmarcian.com/dmarc-inspector/
 - https://mxtoolbox.com/dmarc.aspx
+- https://www.suped.com/tools/dmarc-record-generator
 
 ## Häufige Fehler
 
