@@ -5,7 +5,7 @@
 >Ein **Hub** ist ein einfaches [[wiki/Netzwerk\|Netzwerk]]gerät, das alle empfangenen [[wiki/Datenpakete\|Datenpakete]] **an alle Ports gleichzeitig** weiterleitet, unabhängig davon, wer der Empfänger ist.
 > >Es arbeitet ebenfalls auf der [[wiki/Layer 1\|Layer 1]] (Bitübertragungsschicht) des OSI-Modells und kennt keine [[wiki/MAC Adresse\|MAC Adresse]]n.
 
-![image-7.png](/img/user/assets/IMG/image-7.png)
+![image-7.png](/img/user/assets/image-7.png)
 ---
 
 # Unterschied Hub vs. [[wiki/Switch\|Switch]]
