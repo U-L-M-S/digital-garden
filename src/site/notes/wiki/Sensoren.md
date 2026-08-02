@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sensoren/","tags":["informatik/hardware","informatik/system","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/hardware","informatik/system","ausbildung/pruefung"],"aliases":["Sensor","Messaufnehmer","Fühler"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/sensoren/","tags":["informatik/hardware","informatik/system","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.654+02:00","dg-note-properties":{"tags":["informatik/hardware","informatik/system","ausbildung/pruefung"],"aliases":["Sensor","Messaufnehmer","Fühler"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

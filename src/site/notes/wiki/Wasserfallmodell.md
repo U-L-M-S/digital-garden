@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/wasserfallmodell/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["waterfall model","Waterfall Model","Waterfall-Mdel"],"created_date":"2024-11-10","links":null,"tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/wasserfallmodell/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.611+02:00","dg-note-properties":{"aliases":["waterfall model","Waterfall Model","Waterfall-Mdel"],"created_date":"2024-11-10","links":null,"tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
 ---
 
 

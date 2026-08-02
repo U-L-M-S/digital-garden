@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/persistence-xml/","tags":["informatik/software","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["persistence xml","persistence-xml"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/persistence-xml/","tags":["informatik/software","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.688+02:00","dg-note-properties":{"aliases":["persistence xml","persistence-xml"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software","informatik/datenbank"]}}
 ---
 
 >[[wiki/persistence.xml\|persistence.xml]] ist die Konfig-Datei für [[wiki/JPA\|JPA]] / [[wiki/Hibernate\|Hibernate]].

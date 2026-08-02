@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/git/","tags":["meta/status","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"Links":["https://www.youtube.com/watch?v=XwWReqRfnjs"],"Path":["Tool"],"banner":"![github.jpg](/img/user/assets/Banners/github.jpg)","banner_y":0.376,"modified":"2023-08-04 21:38","tags":["meta/status","informatik/system"]}}
+{"dg-publish":true,"permalink":"/wiki/git/","tags":["meta/status","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.835+02:00","dg-note-properties":{"Links":["https://www.youtube.com/watch?v=XwWReqRfnjs"],"Path":["Tool"],"banner":"![github.jpg](/img/user/assets/Banners/github.jpg)","banner_y":0.376,"modified":"2023-08-04 21:38","tags":["meta/status","informatik/system"]}}
 ---
 
 >Versionskontrollsystem.  

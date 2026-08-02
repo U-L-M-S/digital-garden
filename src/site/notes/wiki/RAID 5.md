@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/raid-5/","tags":["informatik/hardware","meta/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-27","links":"[[RAID]]","path":"Notes","tags":["informatik/hardware","meta/allgemein"]}}
+{"dg-publish":true,"permalink":"/wiki/raid-5/","tags":["informatik/hardware","meta/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.976+02:00","dg-note-properties":{"created":"2025-08-27","links":"[[RAID]]","path":"Notes","tags":["informatik/hardware","meta/allgemein"]}}
 ---
 
 

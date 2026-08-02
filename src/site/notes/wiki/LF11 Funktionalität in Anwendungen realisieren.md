@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-11-funktionalitaet-in-anwendungen-realisieren/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn"],"links":"https://lernplattform.gfn.de/course/view.php?id=14381","created_date":"2024-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/lf-11-funktionalitaet-in-anwendungen-realisieren/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.682+02:00","dg-note-properties":{"tags":["ausbildung/gfn"],"links":"https://lernplattform.gfn.de/course/view.php?id=14381","created_date":"2024-09-16"}}
 ---
 
 > Dieses Lernfeld 11a bringt dir bei, wie du richtige [[wiki/Software\|Software]] entwickelst - von der ersten Idee bis zum fertigen Programm.

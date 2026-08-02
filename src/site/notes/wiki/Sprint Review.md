@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sprint-review/","tags":["wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Sprint Review","sprint review"],"created_date":"2024-11-22","links":null,"tags":["wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/sprint-review/","tags":["wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.714+02:00","dg-note-properties":{"aliases":["Sprint Review","sprint review"],"created_date":"2024-11-22","links":null,"tags":["wirtschaft/projektmanagement"]}}
 ---
 
 >Es ist ein regelmäßiges Treffen am Ende eines jeden Sprints im [[wiki/Scrum\|Scrum]]-[[wiki/Prozess\|Prozess]]. Ziel ist es, das Ergebnis des Sprints zu präsentieren und Feedback von den Stakeholdern (z. B. [[wiki/Product Owner\|Product Owner]], Kunden, Manager) zu erhalten. 

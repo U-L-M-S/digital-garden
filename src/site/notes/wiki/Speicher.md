@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/speicher/","tags":["ausbildung/pruefung","informatik/hardware","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/pruefung","informatik/hardware","informatik/software"],"aliases":["Datenspeicher","Permanentspeicher"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/wiki/speicher/","tags":["ausbildung/pruefung","informatik/hardware","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.926+02:00","dg-note-properties":{"tags":["ausbildung/pruefung","informatik/hardware","informatik/software"],"aliases":["Datenspeicher","Permanentspeicher"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 
