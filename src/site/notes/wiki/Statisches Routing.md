@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/statisches-routing/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["statisches Routing"],"created":"2024-07-23 10:19","links":null,"path":["Notes"],"tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/statisches-routing/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.605+02:00","dg-note-properties":{"aliases":["statisches Routing"],"created":"2024-07-23 10:19","links":null,"path":["Notes"],"tags":["informatik/netzwerk"]}}
 ---
 
 >Die Konfiguration von  die Routing-Tabellen werden manuell von einem Administrator konfiguriert.

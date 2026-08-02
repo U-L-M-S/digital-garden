@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/testfall/","tags":["informatik/software","wirtschaft/qualitaet","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software","wirtschaft/qualitaet","ausbildung/pruefung"],"aliases":["Test Case","Testcase","Testfall QA"],"links":null,"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/wiki/testfall/","tags":["informatik/software","wirtschaft/qualitaet","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.608+02:00","dg-note-properties":{"tags":["informatik/software","wirtschaft/qualitaet","ausbildung/pruefung"],"aliases":["Test Case","Testcase","Testfall QA"],"links":null,"created_date":"2025-11-12"}}
 ---
 
 >Ein Testfall ist eine detaillierte Beschreibung, wie eine bestimmte Funktion oder ein Feature getestet werden soll, inklusive Eingabedaten, Ausführungsschritten und erwarteten Ergebnissen.

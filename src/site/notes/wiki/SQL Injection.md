@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sql-injection/","tags":["informatik/sicherheit","informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/sicherheit","informatik/datenbank","ausbildung/pruefung"],"aliases":["SQL-Injection","SQLi","SQL-Einschleusung"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/sql-injection/","tags":["informatik/sicherheit","informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.943+02:00","dg-note-properties":{"tags":["informatik/sicherheit","informatik/datenbank","ausbildung/pruefung"],"aliases":["SQL-Injection","SQLi","SQL-Einschleusung"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/authentizitaet/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Authentizität","authentizität"],"created_date":"2024-11-02","links":null,"tags":["informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/authentizitaet/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.656+02:00","dg-note-properties":{"aliases":["Authentizität","authentizität"],"created_date":"2024-11-02","links":null,"tags":["informatik/sicherheit"]}}
 ---
 
 >**Authentizität** ist ein Sicherheitsprinzip, das sicherstellt, dass die Identität des Kommunikationspartners verifiziert ist, um Vertrauen in die Herkunft der Daten zu schaffen. 

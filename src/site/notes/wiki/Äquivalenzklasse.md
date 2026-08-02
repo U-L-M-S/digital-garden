@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/aequivalenzklasse/","tags":["informatik/software","wirtschaft/qualitaet","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software","wirtschaft/qualitaet","ausbildung/pruefung"],"aliases":["Äquivalenzklassenbildung","Equivalence Class","Äquivalenzpartitionierung"],"links":null,"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/wiki/aequivalenzklasse/","tags":["informatik/software","wirtschaft/qualitaet","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.757+02:00","dg-note-properties":{"tags":["informatik/software","wirtschaft/qualitaet","ausbildung/pruefung"],"aliases":["Äquivalenzklassenbildung","Equivalence Class","Äquivalenzpartitionierung"],"links":null,"created_date":"2025-11-12"}}
 ---
 
 >Äquivalenzklassen sind Gruppen von Eingabewerten, die vom System gleich behandelt werden und daher als repräsentativ für die gesamte Gruppe getestet werden können.

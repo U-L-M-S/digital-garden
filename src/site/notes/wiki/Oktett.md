@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/oktett/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Oktett","oktett"],"created":"2024-07-09 16:11","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/oktett/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.670+02:00","dg-note-properties":{"aliases":["Oktett","oktett"],"created":"2024-07-09 16:11","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 > Ein Gruppe von 8 Bits.

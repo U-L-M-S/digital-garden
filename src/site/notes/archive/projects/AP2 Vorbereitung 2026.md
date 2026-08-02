@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/projects/ap-2-vorbereitung-2026/","tags":["ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"type":"project","status":"shipped","tags":["ausbildung/pruefung"],"aliases":null,"links":null,"created_date":"2026-04-14"}}
+{"dg-publish":true,"permalink":"/archive/projects/ap-2-vorbereitung-2026/","tags":["ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.510+02:00","dg-note-properties":{"type":"project","status":"shipped","tags":["ausbildung/pruefung"],"aliases":null,"links":null,"created_date":"2026-04-14"}}
 ---
 
 [[wiki/AP2 Teil 1 Planen eines Softwareproduktes\|AP2 Teil 1 Planen eines Softwareproduktes]] — Strategie Note 2

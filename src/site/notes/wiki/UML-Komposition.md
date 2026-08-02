@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml-komposition/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Komposition","UML Komposition"],"created_date":"2024-11-06","links":null,"tags":["informatik/software","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/uml-komposition/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.752+02:00","dg-note-properties":{"aliases":["Komposition","UML Komposition"],"created_date":"2024-11-06","links":null,"tags":["informatik/software","ausbildung/pruefung"]}}
 ---
 
 >Komposition ist die stärkste Form einer "besteht-aus"-Beziehung, bei der das Teil-Objekt NICHT ohne das Ganze existieren kann.

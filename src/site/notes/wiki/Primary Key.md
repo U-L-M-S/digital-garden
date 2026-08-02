@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/primary-key/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Primärschlüssel","Primary-Key","PK"],"created":"2024-05-20 13:31","links":null,"path":"Notes","tags":["informatik/datenbank","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/primary-key/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.926+02:00","dg-note-properties":{"aliases":["Primärschlüssel","Primary-Key","PK"],"created":"2024-05-20 13:31","links":null,"path":"Notes","tags":["informatik/datenbank","ausbildung/pruefung"]}}
 ---
 
 >Der Primary Key (Primärschlüssel) ist eine Spalte oder Kombination von [[wiki/SQL Spalte\|SQL Spalte]]n, die jeden Datensatz in einer [[wiki/SQL Tabelle\|SQL Tabelle]] eindeutig identifiziert.

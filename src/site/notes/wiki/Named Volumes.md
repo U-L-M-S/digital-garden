@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/named-volumes/","tags":["informatik/hardware","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Docker Named Volume"],"created_date":"2024-09-04","links":null,"tags":["informatik/hardware","informatik/system"]}}
+{"dg-publish":true,"permalink":"/wiki/named-volumes/","tags":["informatik/hardware","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.949+02:00","dg-note-properties":{"aliases":["Docker Named Volume"],"created_date":"2024-09-04","links":null,"tags":["informatik/hardware","informatik/system"]}}
 ---
 
 

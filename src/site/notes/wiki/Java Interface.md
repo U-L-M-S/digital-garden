@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-interface/","tags":["informatik/code","informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Java Interface","Interface","Java Schnittstelle","interface"],"created_date":"2024-11-07","links":["https://www.youtube.com/watch?v=GhslBwrRsnw"],"tags":["informatik/code","informatik/software","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/java-interface/","tags":["informatik/code","informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.722+02:00","dg-note-properties":{"aliases":["Java Interface","Interface","Java Schnittstelle","interface"],"created_date":"2024-11-07","links":["https://www.youtube.com/watch?v=GhslBwrRsnw"],"tags":["informatik/code","informatik/software","ausbildung/pruefung"]}}
 ---
 
 >Ein **Interface** (Schnittstelle) in [[wiki/Java\|Java]] ist ein Vertrag, der definiert, **welche Methoden** eine [[wiki/Klasse\|Klasse]] implementieren muss, aber **nicht wie**.

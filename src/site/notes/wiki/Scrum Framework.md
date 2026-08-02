@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/scrum-framework/","tags":["wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["scrum framework","Scrum-Framework"],"created_date":"2024-11-22","links":null,"tags":["wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/scrum-framework/","tags":["wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.841+02:00","dg-note-properties":{"aliases":["scrum framework","Scrum-Framework"],"created_date":"2024-11-22","links":null,"tags":["wirtschaft/projektmanagement"]}}
 ---
 
 >Es ist ein agiles [[wiki/Framework\|Framework]], das eine strukturierte [[wiki/Programmierung Methode\|Programmierung Methode]] bietet, um komplexe Projekte in Teams schrittweise und iterativ umzusetzen. 

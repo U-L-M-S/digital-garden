@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/white-box-test/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software","ausbildung/pruefung"],"aliases":["Whitebox-Test","Strukturtest","Glass Box Test"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/white-box-test/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.938+02:00","dg-note-properties":{"tags":["informatik/software","ausbildung/pruefung"],"aliases":["Whitebox-Test","Strukturtest","Glass Box Test"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 >White Box Test ist eine Testmethode, bei der der interne Code bekannt ist und gezielt getestet wird.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/6-g-hz-frequenzbereich/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["6 GHz Frequenzbereich","6 GHz Frequenzbereich"],"created":"2024-08-04 21:18","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/6-g-hz-frequenzbereich/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.914+02:00","dg-note-properties":{"aliases":["6 GHz Frequenzbereich","6 GHz Frequenzbereich"],"created":"2024-08-04 21:18","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 >[!multi-column]

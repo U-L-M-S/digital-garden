@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/firewall-1/","tags":["informatik/sicherheit","informatik/hardware","ausbildung/gfn","meta/status"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/sicherheit","informatik/hardware","ausbildung/gfn","meta/status"],"links":["https://www.youtube.com/playlist?list=PLNmsVeXQZj7oAAFVjNrAz1uRqIcanXreg"],"created_date":"2025-01-07"}}
+{"dg-publish":true,"permalink":"/wiki/firewall-1/","tags":["informatik/sicherheit","informatik/hardware","ausbildung/gfn","meta/status"],"noteIcon":"","updated":"2026-07-19T03:56:26.990+02:00","dg-note-properties":{"tags":["informatik/sicherheit","informatik/hardware","ausbildung/gfn","meta/status"],"links":["https://www.youtube.com/playlist?list=PLNmsVeXQZj7oAAFVjNrAz1uRqIcanXreg"],"created_date":"2025-01-07"}}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.

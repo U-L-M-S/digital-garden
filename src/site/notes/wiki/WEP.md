@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/wep/","tags":["informatik/netzwerk","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["WEP","Wired Equivalent Privacy"],"created":"2024-08-04 23:03","links":null,"path":"Notes","tags":["informatik/netzwerk","informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/wep/","tags":["informatik/netzwerk","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.896+02:00","dg-note-properties":{"aliases":["WEP","Wired Equivalent Privacy"],"created":"2024-08-04 23:03","links":null,"path":"Notes","tags":["informatik/netzwerk","informatik/sicherheit"]}}
 ---
 
 >Wired Equivalent Privacy

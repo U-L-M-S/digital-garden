@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/csv/","tags":["informatik/code","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/code","informatik/datenbank"],"aliases":["Comma Separated Values","CSV-Datei","Trennwert-Format"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/csv/","tags":["informatik/code","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.754+02:00","dg-note-properties":{"tags":["informatik/code","informatik/datenbank"],"aliases":["Comma Separated Values","CSV-Datei","Trennwert-Format"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

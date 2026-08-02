@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/aktoren/","tags":["informatik/hardware","informatik/system","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/hardware","informatik/system","ausbildung/pruefung"],"aliases":["Aktor","Stellglied","Actuator"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/aktoren/","tags":["informatik/hardware","informatik/system","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.991+02:00","dg-note-properties":{"tags":["informatik/hardware","informatik/system","ausbildung/pruefung"],"aliases":["Aktor","Stellglied","Actuator"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

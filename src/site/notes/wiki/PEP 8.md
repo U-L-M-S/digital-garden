@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/pep-8/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Python Enhancement Proposal 8"],"created_date":"2025-01-20","links":["https://peps.python.org/pep-0008/"],"tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/pep-8/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.748+02:00","dg-note-properties":{"aliases":["Python Enhancement Proposal 8"],"created_date":"2025-01-20","links":["https://peps.python.org/pep-0008/"],"tags":["informatik/code"]}}
 ---
 
 >**Python Enhancement Proposal 8**

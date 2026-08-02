@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sql-zeile/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2026-05-12T15:45:11.730+02:00","dg-note-properties":{"aliases":["SQL Zeile"],"created_date":"2024-10-09","links":null,"tags":["informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/sql-zeile/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2026-05-12T15:45:11.000+02:00","dg-note-properties":{"aliases":["SQL Zeile"],"created_date":"2024-10-09","links":null,"tags":["informatik/datenbank"]}}
 ---
 
 >Das sind die Werte, die man in die [[wiki/SQL Spalte\|SQL Spalte]] einfügt.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sync/","tags":["informatik/code","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-05-05","links":null,"tags":["informatik/code","informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/sync/","tags":["informatik/code","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.897+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-05-05","links":null,"tags":["informatik/code","informatik/software"]}}
 ---
 
 >Schritte laufen nacheinander (nicht gleichzeitig)

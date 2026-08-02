@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/power-on-self-test/","tags":["informatik/hardware","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/hardware","informatik/software"],"aliases":["Boot-Test"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/wiki/power-on-self-test/","tags":["informatik/hardware","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.746+02:00","dg-note-properties":{"tags":["informatik/hardware","informatik/software"],"aliases":["Boot-Test"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 

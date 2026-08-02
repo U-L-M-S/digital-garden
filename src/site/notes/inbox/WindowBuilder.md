@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/window-builder/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-06-21 16:03","links":null,"path":"Notes","tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/inbox/window-builder/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.577+02:00","dg-note-properties":{"created":"2024-06-21 16:03","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 Erstens, erstellt eine neues JFrame.

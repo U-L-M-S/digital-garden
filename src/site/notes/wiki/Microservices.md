@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/microservices/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software","ausbildung/pruefung"],"aliases":["Microservice","Mikroservices","Microservice-Architektur"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/microservices/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.996+02:00","dg-note-properties":{"tags":["informatik/software","ausbildung/pruefung"],"aliases":["Microservice","Mikroservices","Microservice-Architektur"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

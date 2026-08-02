@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ternaerer-operator/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["ternären Bedingungsoperator","Ternären Bedingungsoperator","Ternären Operator","Ternary Operator","ternary operator"],"created_date":"2024-09-19","links":null,"tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/ternaerer-operator/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.738+02:00","dg-note-properties":{"aliases":["ternären Bedingungsoperator","Ternären Bedingungsoperator","Ternären Operator","Ternary Operator","ternary operator"],"created_date":"2024-09-19","links":null,"tags":["informatik/code"]}}
 ---
 
 >[[wiki/IF-Bedingung\|IF-Bedingung]] in Programierung, aber in eine Zeile verkürzt.

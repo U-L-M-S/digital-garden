@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/problem-management/","tags":["wirtschaft/itsm","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["wirtschaft/itsm","ausbildung/gfn"],"aliases":["Problemmanagement","Problem-Management-Prozess"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/problem-management/","tags":["wirtschaft/itsm","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.851+02:00","dg-note-properties":{"tags":["wirtschaft/itsm","ausbildung/gfn"],"aliases":["Problemmanagement","Problem-Management-Prozess"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

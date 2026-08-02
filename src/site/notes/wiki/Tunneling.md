@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/tunneling/","tags":["informatik/netzwerk","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/netzwerk","informatik/sicherheit"],"aliases":["Protokoll-Tunneling","Network Tunneling"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/tunneling/","tags":["informatik/netzwerk","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.658+02:00","dg-note-properties":{"tags":["informatik/netzwerk","informatik/sicherheit"],"aliases":["Protokoll-Tunneling","Network Tunneling"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/quicksort/","tags":["informatik/code","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["quicksort"],"created_date":"2024-10-30","links":null,"tags":["informatik/code","informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/quicksort/","tags":["informatik/code","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.635+02:00","dg-note-properties":{"aliases":["quicksort"],"created_date":"2024-10-30","links":null,"tags":["informatik/code","informatik/software"]}}
 ---
 
 >Quicksort ist ein effizienter, rekursiver Sortieralgorithmus, der das Prinzip des Teilens und Herrschens anwendet. 

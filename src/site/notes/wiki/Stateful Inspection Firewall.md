@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/stateful-inspection-firewall/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Stateful Firewall","Generation 2 Firewall"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/stateful-inspection-firewall/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.896+02:00","dg-note-properties":{"aliases":["Stateful Firewall","Generation 2 Firewall"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit"]}}
 ---
 
 > [[wiki/Firewall\|Firewall]] Generation 2 (Ende 1990er / Anfang 2000er)

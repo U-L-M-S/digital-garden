@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kubernetes/","tags":["informatik/system","informatik/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Kubernetes","K8s","Kubernetes Cluster"],"created_date":"2025-11-06","links":null,"tags":["informatik/system","informatik/allgemein"]}}
+{"dg-publish":true,"permalink":"/wiki/kubernetes/","tags":["informatik/system","informatik/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.686+02:00","dg-note-properties":{"aliases":["Kubernetes","K8s","Kubernetes Cluster"],"created_date":"2025-11-06","links":null,"tags":["informatik/system","informatik/allgemein"]}}
 ---
 
 >**Kubernetes** (K8s) ist eine Open-Source-Plattform zur Container-Orchestrierung, die das Deployment, Skalierung und Management von containerisierten Anwendungen automatisiert.

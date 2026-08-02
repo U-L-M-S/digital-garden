@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/hbm2ddl-auto/","tags":["informatik/software","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["hbm2ddl","hibernate hbm2ddl"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/hbm2ddl-auto/","tags":["informatik/software","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.685+02:00","dg-note-properties":{"aliases":["hbm2ddl","hibernate hbm2ddl"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software","informatik/datenbank"]}}
 ---
 
 >[[wiki/hbm2ddl.auto\|hbm2ddl.auto]] steuert das Schema-Verhalten von [[wiki/Hibernate\|Hibernate]] beim Deploy.

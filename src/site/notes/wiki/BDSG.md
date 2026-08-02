@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/bdsg/","tags":["ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Bundesdatenschutzgesetz"],"created_date":"2025-02-24","links":null,"tags":["ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/bdsg/","tags":["ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.692+02:00","dg-note-properties":{"aliases":["Bundesdatenschutzgesetz"],"created_date":"2025-02-24","links":null,"tags":["ausbildung/pruefung"]}}
 ---
 
 >Bundesdatenschutzgesetz

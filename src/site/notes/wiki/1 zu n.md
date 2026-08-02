@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/1-zu-n/","tags":["informatik/datenbank","informatik/allgemein","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-05-14 11:12","links":null,"tags":["informatik/datenbank","informatik/allgemein","ausbildung/pruefung"],"aliases":["1:n","eins-zu-viele","one-to-many","n:1"],"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/wiki/1-zu-n/","tags":["informatik/datenbank","informatik/allgemein","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.964+02:00","dg-note-properties":{"created":"2024-05-14 11:12","links":null,"tags":["informatik/datenbank","informatik/allgemein","ausbildung/pruefung"],"aliases":["1:n","eins-zu-viele","one-to-many","n:1"],"created_date":"2025-11-12"}}
 ---
 
 >Eine 1:n-Beziehung (eins-zu-viele) liegt vor, wenn eine Instanz einer Entität mit mehreren Instanzen einer anderen Entität verbunden sein kann.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/last-und-performancetest/","tags":["informatik/system","informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/system","informatik/software","ausbildung/pruefung"],"aliases":["Lasttest","Performance-Test","Belastungstest"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/last-und-performancetest/","tags":["informatik/system","informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.676+02:00","dg-note-properties":{"tags":["informatik/system","informatik/software","ausbildung/pruefung"],"aliases":["Lasttest","Performance-Test","Belastungstest"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 >Last- und Performancetest prüfen, wie sich Software unter verschiedenen Belastungen verhält.

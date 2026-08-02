@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/pxe-boot/","tags":["informatik/netzwerk","ausbildung/gfn","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/netzwerk","ausbildung/gfn","informatik/system"],"aliases":["PXE","Preboot Execution Environment","Network Boot"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/pxe-boot/","tags":["informatik/netzwerk","ausbildung/gfn","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.699+02:00","dg-note-properties":{"tags":["informatik/netzwerk","ausbildung/gfn","informatik/system"],"aliases":["PXE","Preboot Execution Environment","Network Boot"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

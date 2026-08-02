@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/duale-system/","tags":["ausbildung/gfn","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-02-06 22:00","links":null,"path":"Notes","tags":["ausbildung/gfn","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/duale-system/","tags":["ausbildung/gfn","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.991+02:00","dg-note-properties":{"created":"2024-02-06 22:00","links":null,"path":"Notes","tags":["ausbildung/gfn","ausbildung/pruefung"]}}
 ---
 
 >System, das in Deutschland während der Ausbildung verwendet wird. Es wird über das [[wiki/BBiG\|BBiG]] geregelt.

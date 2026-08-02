@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/pdu/","tags":["ausbildung/pruefung","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Protocol Data Unit"],"created":"2024-07-17 16:26","links":null,"path":"Notes","tags":["ausbildung/pruefung","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/pdu/","tags":["ausbildung/pruefung","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.883+02:00","dg-note-properties":{"aliases":["Protocol Data Unit"],"created":"2024-07-17 16:26","links":null,"path":"Notes","tags":["ausbildung/pruefung","informatik/netzwerk"]}}
 ---
 
 > Protocol Data Unit

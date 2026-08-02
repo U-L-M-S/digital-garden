@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/hexadezimal-zu-dezimal/","tags":["mathematik/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-23","links":null,"tags":["mathematik/allgemein"]}}
+{"dg-publish":true,"permalink":"/wiki/hexadezimal-zu-dezimal/","tags":["mathematik/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.602+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-23","links":null,"tags":["mathematik/allgemein"]}}
 ---
 
 >[[wiki/Hexadezimal\|Hexadezimal]]-Zahl multiplizieren mit 16er-Potenzen, beginnend von rechts (16⁰):

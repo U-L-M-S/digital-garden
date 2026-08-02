@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/aes/","tags":["informatik/sicherheit","informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Advanced Encryption Standard","AES-Verschlüsselung","Rijndael"],"created_date":"2024-08-04","links":null,"tags":["informatik/sicherheit","informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/aes/","tags":["informatik/sicherheit","informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.611+02:00","dg-note-properties":{"aliases":["Advanced Encryption Standard","AES-Verschlüsselung","Rijndael"],"created_date":"2024-08-04","links":null,"tags":["informatik/sicherheit","informatik/code"]}}
 ---
 
 

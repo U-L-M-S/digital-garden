@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sql-where/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"aliases":["SQL WHERE"],"created_date":"2024-10-11","links":null,"tags":["informatik/datenbank","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/sql-where/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:27.008+02:00","dg-note-properties":{"aliases":["SQL WHERE"],"created_date":"2024-10-11","links":null,"tags":["informatik/datenbank","ausbildung/pruefung"]}}
 ---
 
 >WHERE ist die Filterbedingung in [[wiki/SQL\|SQL]] - das **IF** der Datenbankabfragen.

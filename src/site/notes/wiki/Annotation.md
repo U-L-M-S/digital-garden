@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/annotation/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["annotation","java annotation","annotations"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/annotation/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.805+02:00","dg-note-properties":{"aliases":["annotation","java annotation","annotations"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >Eine [[wiki/Annotation\|Annotation]] in [[wiki/Java\|Java]] ist ein Marker mit `@`, der vom Compiler oder Container ausgewertet wird.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/magisches-dreieck/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-15","links":null,"tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/magisches-dreieck/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.872+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-15","links":null,"tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
 ---
 
 >Das **Magische Dreieck** beschreibt die **drei wichtigsten Zielgrößen** im [[wiki/Projektmanagement\|Projektmanagement]]:

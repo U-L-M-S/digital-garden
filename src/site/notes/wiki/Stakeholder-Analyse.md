@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/stakeholder-analyse/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-19","links":null,"tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/stakeholder-analyse/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.653+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-19","links":null,"tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
 ---
 
 >**Stakeholder-Analyse** ist die systematische Ermittlung von **Personen oder Gruppen**, die ein Interesse oder **Einfluss** auf ein Projekt haben.

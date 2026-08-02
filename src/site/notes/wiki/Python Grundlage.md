@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/python-grundlage/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Python Grundlage","python Grundlage"],"created_date":"2024-11-02","links":null,"tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/python-grundlage/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.604+02:00","dg-note-properties":{"aliases":["Python Grundlage","python Grundlage"],"created_date":"2024-11-02","links":null,"tags":["informatik/code"]}}
 ---
 
 > Hier lernst du die Syntax der wichtigsten Befehle, um mit der [[wiki/Python\|Python]]-Sprache umzugehen.

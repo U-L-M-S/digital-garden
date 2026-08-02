@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/layers/","tags":["informatik/system","informatik/hardware"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Image Layers","Docker Layers"],"created_date":"2024-09-04","links":null,"tags":["informatik/system","informatik/hardware"]}}
+{"dg-publish":true,"permalink":"/wiki/layers/","tags":["informatik/system","informatik/hardware"],"noteIcon":"","updated":"2026-07-19T03:56:26.897+02:00","dg-note-properties":{"aliases":["Image Layers","Docker Layers"],"created_date":"2024-09-04","links":null,"tags":["informatik/system","informatik/hardware"]}}
 ---
 
 

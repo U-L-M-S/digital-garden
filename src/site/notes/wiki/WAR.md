@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/war/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["war datei","web archive","war file"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/war/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.771+02:00","dg-note-properties":{"aliases":["war datei","web archive","war file"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >Eine [[wiki/WAR\|WAR]]-Datei (**W**eb **AR**chive) ist eine ZIP-Datei mit einer Java-Web-App.

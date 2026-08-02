@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/pflichtenheft/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["pflichtenheft"],"created":"2024-07-01 14:24","links":null,"path":"Notes","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/pflichtenheft/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.821+02:00","dg-note-properties":{"aliases":["pflichtenheft"],"created":"2024-07-01 14:24","links":null,"path":"Notes","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
 ---
 
 >Notwendiges Dokument für die Entstehung eines Projekts.

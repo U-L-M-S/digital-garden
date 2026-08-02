@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ap-1-pruefungskatalog-2025/","tags":["ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"type":"wiki","harvested_from":"[[AP2 Vorbereitung 2026]]","aliases":null,"created_date":"2025-02-11","links":null,"tags":["ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/ap-1-pruefungskatalog-2025/","tags":["ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.688+02:00","dg-note-properties":{"type":"wiki","harvested_from":"[[AP2 Vorbereitung 2026]]","aliases":null,"created_date":"2025-02-11","links":null,"tags":["ausbildung/pruefung"]}}
 ---
 
 # 📌 Sichere Themen für die AP1-Prüfung

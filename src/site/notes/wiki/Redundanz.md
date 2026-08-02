@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/redundanz/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-06-26 09:21","links":null,"path":"Notes","tags":["informatik/datenbank","ausbildung/pruefung"],"aliases":["Datenredundanz","Doppelte Daten"]}}
+{"dg-publish":true,"permalink":"/wiki/redundanz/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.852+02:00","dg-note-properties":{"created":"2024-06-26 09:21","links":null,"path":"Notes","tags":["informatik/datenbank","ausbildung/pruefung"],"aliases":["Datenredundanz","Doppelte Daten"]}}
 ---
 
 >Redundanz ist die unnötige Wiederholung von Daten in einer Datenbank.

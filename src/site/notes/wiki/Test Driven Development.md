@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/test-driven-development/","tags":["informatik/code","wirtschaft/qualitaet","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/code","wirtschaft/qualitaet","ausbildung/pruefung"],"aliases":["TDD","Testgetriebene Entwicklung","Test-First-Development","tdd"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/test-driven-development/","tags":["informatik/code","wirtschaft/qualitaet","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.614+02:00","dg-note-properties":{"tags":["informatik/code","wirtschaft/qualitaet","ausbildung/pruefung"],"aliases":["TDD","Testgetriebene Entwicklung","Test-First-Development","tdd"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

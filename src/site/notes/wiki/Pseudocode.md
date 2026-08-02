@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/pseudocode/","tags":["informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/code","ausbildung/pruefung"],"aliases":["pseudocode"],"links":null,"created_date":"2025-09-15"}}
+{"dg-publish":true,"permalink":"/wiki/pseudocode/","tags":["informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.999+02:00","dg-note-properties":{"tags":["informatik/code","ausbildung/pruefung"],"aliases":["pseudocode"],"links":null,"created_date":"2025-09-15"}}
 ---
 
 > [[wiki/Pseudocode\|Pseudocode]] ist wie ein Rezept zum Kochen - du schreibst die Schritte auf, bevor du wirklich kochst. Es ist eine Zwischenstufe zwischen deiner Idee und dem echten [[Code\|Code]].

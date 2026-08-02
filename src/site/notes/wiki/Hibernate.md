@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/hibernate/","tags":["informatik/software","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["hibernate orm","hibernate"],"created":"2026-05-19 19:00","links":"https://hibernate.org/","path":"Notes","tags":["informatik/software","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/hibernate/","tags":["informatik/software","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.636+02:00","dg-note-properties":{"aliases":["hibernate orm","hibernate"],"created":"2026-05-19 19:00","links":"https://hibernate.org/","path":"Notes","tags":["informatik/software","informatik/datenbank"]}}
 ---
 
 >[[wiki/Hibernate\|Hibernate]] ist die [[wiki/JPA\|JPA]]-Implementierung, die in [[wiki/WildFly\|WildFly]] eingebaut ist.

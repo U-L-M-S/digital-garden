@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/stack/","tags":["informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/code","ausbildung/pruefung"],"aliases":["Stapel","LIFO","Stack-Datenstruktur"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/stack/","tags":["informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.969+02:00","dg-note-properties":{"tags":["informatik/code","ausbildung/pruefung"],"aliases":["Stapel","LIFO","Stack-Datenstruktur"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

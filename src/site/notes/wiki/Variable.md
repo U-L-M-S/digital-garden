@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/variable/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Variable","variable"],"created_date":"2024-08-25","links":null,"path":"Notes","tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/variable/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.764+02:00","dg-note-properties":{"aliases":["Variable","variable"],"created_date":"2024-08-25","links":null,"path":"Notes","tags":["informatik/code"]}}
 ---
 
 >Es ist ein **Placeholder** für einen Wert.

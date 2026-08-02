@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/anonymisierung/","tags":["ausbildung/pruefung","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["anonymisierung"],"created_date":"2025-02-24","links":null,"tags":["ausbildung/pruefung","informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/anonymisierung/","tags":["ausbildung/pruefung","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.848+02:00","dg-note-properties":{"aliases":["anonymisierung"],"created_date":"2025-02-24","links":null,"tags":["ausbildung/pruefung","informatik/sicherheit"]}}
 ---
 
 >Die Daten werden so verändert, dass eine Identifikation der Person nicht mehr möglich ist, selbst nicht mit zusätzlichen Informationen.

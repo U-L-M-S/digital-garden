@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lastenheft/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["lastenheft"],"created":"2024-07-16 09:48","links":null,"path":"Notes","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/lastenheft/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.862+02:00","dg-note-properties":{"aliases":["lastenheft"],"created":"2024-07-16 09:48","links":null,"path":"Notes","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
 ---
 
 >Notwendiges Dokument für die Definition und Beschreibung der Kundenanforderungen und Erwartungen an ein Projekt. Ein [[wiki/Lastenheft\|Lastenheft]] legt fest, was der Kunde will und braucht, und bildet die Grundlage für das [[wiki/Pflichtenheft\|Pflichtenheft]].

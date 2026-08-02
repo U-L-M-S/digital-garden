@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ssl-blacklist/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["SSLBL","SSL Blacklist abuse.ch"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/ssl-blacklist/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.911+02:00","dg-note-properties":{"aliases":["SSLBL","SSL Blacklist abuse.ch"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit"]}}
 ---
 
 > Datenbank von bösartigen SSL-Zertifikaten

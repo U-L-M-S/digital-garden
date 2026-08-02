@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/man-in-the-middle-attack/","tags":["informatik/sicherheit","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/sicherheit","ausbildung/pruefung"],"aliases":["MITM-Angriff","Mensch-in-der-Mitte-Angriff","Man-in-the-Middle"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/man-in-the-middle-attack/","tags":["informatik/sicherheit","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.908+02:00","dg-note-properties":{"tags":["informatik/sicherheit","ausbildung/pruefung"],"aliases":["MITM-Angriff","Mensch-in-der-Mitte-Angriff","Man-in-the-Middle"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/mockup/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software"],"aliases":["Mockups","Design-Mockup","UI-Mockup"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/mockup/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.638+02:00","dg-note-properties":{"tags":["informatik/software"],"aliases":["Mockups","Design-Mockup","UI-Mockup"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

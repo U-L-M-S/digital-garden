@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sop/","tags":["informatik/system","wirtschaft/qualitaet"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/system","wirtschaft/qualitaet"],"aliases":["Standard Operating Procedure","Standardverfahren","Betriebsanweisung"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/sop/","tags":["informatik/system","wirtschaft/qualitaet"],"noteIcon":"","updated":"2026-07-19T03:56:26.657+02:00","dg-note-properties":{"tags":["informatik/system","wirtschaft/qualitaet"],"aliases":["Standard Operating Procedure","Standardverfahren","Betriebsanweisung"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

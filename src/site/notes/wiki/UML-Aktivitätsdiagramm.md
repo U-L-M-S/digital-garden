@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml-aktivitaetsdiagramm/","tags":["ausbildung/pruefung","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Aktivitätsdiagramm","Activity Diagram"],"created_date":"2025-02-21","links":null,"tags":["ausbildung/pruefung","informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/uml-aktivitaetsdiagramm/","tags":["ausbildung/pruefung","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.745+02:00","dg-note-properties":{"aliases":["Aktivitätsdiagramm","Activity Diagram"],"created_date":"2025-02-21","links":null,"tags":["ausbildung/pruefung","informatik/software"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml-assoziation/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["UML-Assoziation","Assoziation"],"created_date":"2024-11-06","links":null,"tags":["informatik/software","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/uml-assoziation/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.621+02:00","dg-note-properties":{"aliases":["UML-Assoziation","Assoziation"],"created_date":"2024-11-06","links":null,"tags":["informatik/software","ausbildung/pruefung"]}}
 ---
 
 >Eine Assoziation ist eine Beziehung zwischen zwei Klassen, die anzeigt, dass Objekte der einen Klasse mit Objekten der anderen Klasse in Verbindung stehen.

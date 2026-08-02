@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/polymorphie/","tags":["ausbildung/pruefung","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Vielgestaltigkeit"],"created_date":"2025-03-16","links":null,"tags":["ausbildung/pruefung","informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/polymorphie/","tags":["ausbildung/pruefung","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.867+02:00","dg-note-properties":{"aliases":["Vielgestaltigkeit"],"created_date":"2025-03-16","links":null,"tags":["ausbildung/pruefung","informatik/software"]}}
 ---
 
 > **[[wiki/Polymorphie\|Polymorphie]]** _(„Vielgestaltigkeit“)_  

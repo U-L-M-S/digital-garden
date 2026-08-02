@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/i-pv6-public/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["IPv6 Public","iPv6 Public"],"created":"2024-07-30 10:38","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/i-pv6-public/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.995+02:00","dg-note-properties":{"aliases":["IPv6 Public","iPv6 Public"],"created":"2024-07-30 10:38","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 >Für die Kommunikation zwischen [[wiki/Router\|Router]] und [[wiki/Internet\|Internet]]. Beginnt mit **2000::/3**.

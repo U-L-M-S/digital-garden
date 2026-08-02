@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/netzwerk/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-05-19T12:07:07.450+02:00","dg-note-properties":{"aliases":["Netz"],"created":"2023-09-13 09:51","links":["https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF"],"path":["Zusammenfassungen"],"tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/netzwerk/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-05-19T12:07:07.000+02:00","dg-note-properties":{"aliases":["Netz"],"created":"2023-09-13 09:51","links":["https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF"],"path":["Zusammenfassungen"],"tags":["informatik/netzwerk"]}}
 ---
 
 >Es ist eine Gruppe von miteinander verbundenen Computern und anderen Geräten, die Daten und Ressourcen gemeinsam nutzen können. 

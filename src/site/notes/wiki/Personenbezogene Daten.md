@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/personenbezogene-daten/","tags":["ausbildung/pruefung","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-02-24","links":null,"tags":["ausbildung/pruefung","informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/personenbezogene-daten/","tags":["ausbildung/pruefung","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.673+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-02-24","links":null,"tags":["ausbildung/pruefung","informatik/sicherheit"]}}
 ---
 
 >Alle Informationen, die verwendet werden, um eine [[wiki/natürliche Person\|natürliche Person]] zu identifizieren:  

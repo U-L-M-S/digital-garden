@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-grundlage/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Java Grundlage","Java-Grundlage"],"created_date":"2024-11-02","links":null,"tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/java-grundlage/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.754+02:00","dg-note-properties":{"aliases":["Java Grundlage","Java-Grundlage"],"created_date":"2024-11-02","links":null,"tags":["informatik/software"]}}
 ---
 
 

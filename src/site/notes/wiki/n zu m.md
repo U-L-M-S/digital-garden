@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/n-zu-m/","tags":["informatik/datenbank","informatik/allgemein","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-05-14 11:43","links":null,"path":"Notes","tags":["informatik/datenbank","informatik/allgemein","ausbildung/pruefung"],"aliases":["n:m","viele-zu-viele","many-to-many","m:n"],"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/wiki/n-zu-m/","tags":["informatik/datenbank","informatik/allgemein","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.975+02:00","dg-note-properties":{"created":"2024-05-14 11:43","links":null,"path":"Notes","tags":["informatik/datenbank","informatik/allgemein","ausbildung/pruefung"],"aliases":["n:m","viele-zu-viele","many-to-many","m:n"],"created_date":"2025-11-12"}}
 ---
 
 >Eine n:m-Beziehung (viele-zu-viele) liegt vor, wenn mehrere Instanzen einer Entität mit mehreren Instanzen einer anderen Entität verbunden sein können.

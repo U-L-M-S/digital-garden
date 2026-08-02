@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assets/sql-drill-10-aufgaben-ihk-ap-2/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/datenbank","ausbildung/pruefung"],"aliases":["SQL Drill 10 Aufgaben","SQL Übungspaket AP2"],"links":null,"created_date":"2026-04-27"}}
+{"dg-publish":true,"permalink":"/assets/sql-drill-10-aufgaben-ihk-ap-2/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.539+02:00","dg-note-properties":{"tags":["informatik/datenbank","ausbildung/pruefung"],"aliases":["SQL Drill 10 Aufgaben","SQL Übungspaket AP2"],"links":null,"created_date":"2026-04-27"}}
 ---
 
 

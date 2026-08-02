@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kubernetes-jobs/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Kubernetes Jobs","K8s Job","CronJob","Batch Jobs"],"created_date":"2025-11-06","links":null,"tags":["informatik/system"]}}
+{"dg-publish":true,"permalink":"/wiki/kubernetes-jobs/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.776+02:00","dg-note-properties":{"aliases":["Kubernetes Jobs","K8s Job","CronJob","Batch Jobs"],"created_date":"2025-11-06","links":null,"tags":["informatik/system"]}}
 ---
 
 >**Jobs** in [[wiki/Kubernetes\|Kubernetes]] führen [[wiki/Kubernetes Pods\|Pods]] aus die eine Aufgabe abschließen und dann beenden.

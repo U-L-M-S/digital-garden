@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/anwendungsentwicklung/","tags":["wirtschaft/allgemein","informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["wirtschaft/allgemein","informatik/code"],"aliases":["FIAE","Fachinformatiker Anwendungsentwicklung","Software-Entwicklung"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/anwendungsentwicklung/","tags":["wirtschaft/allgemein","informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.790+02:00","dg-note-properties":{"tags":["wirtschaft/allgemein","informatik/code"],"aliases":["FIAE","Fachinformatiker Anwendungsentwicklung","Software-Entwicklung"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

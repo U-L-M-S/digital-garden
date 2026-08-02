@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-05-software-zur-verwaltung-von-daten-anpassen/","tags":["status/in-progress","informatik/datenbank","informatik/code/sql","informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2026-07-19T04:02:20.000+02:00","dg-note-properties":{"tags":["status/in-progress","informatik/datenbank","informatik/code/sql","informatik/programmierung/sprachen/python"],"links":null,"reference":null,"path":"GFN","created":"2024-05-03 18:10"}}
+{"dg-publish":true,"permalink":"/wiki/lf-05-software-zur-verwaltung-von-daten-anpassen/","tags":["status/in-progress","informatik/datenbank","informatik/code/sql","informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2026-07-19T04:02:20.015+02:00","dg-note-properties":{"tags":["status/in-progress","informatik/datenbank","informatik/code/sql","informatik/programmierung/sprachen/python"],"links":null,"reference":null,"path":"GFN","created":"2024-05-03 18:10"}}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.

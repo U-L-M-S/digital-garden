@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/product-owner/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["product owner","Produktinhaber"],"created_date":"2024-11-22","links":null,"tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/product-owner/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.678+02:00","dg-note-properties":{"aliases":["product owner","Produktinhaber"],"created_date":"2024-11-22","links":null,"tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
 ---
 
 >Ein **Product Owner** oder Produktinhaber ist eine zentrale Rolle im [[wiki/Scrum\|Scrum]]-[[wiki/Framework\|Framework]]. 

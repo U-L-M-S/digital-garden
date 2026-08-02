@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/methode-programmierung/","tags":["informatik/software","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-06-24 12:49","links":null,"tags":["informatik/software","wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/methode-programmierung/","tags":["informatik/software","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.735+02:00","dg-note-properties":{"created":"2024-06-24 12:49","links":null,"tags":["informatik/software","wirtschaft/projektmanagement"]}}
 ---
 
 > In der Programmierung ist eine **Methode** eine [[wiki/Funktion Programmierung\|Funktion Programmierung]], die **innerhalb einer [[wiki/Klasse\|Klasse]] definiert** ist und auf **Instanzen dieser Klasse** angewendet wird.

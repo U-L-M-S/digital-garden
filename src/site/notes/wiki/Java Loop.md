@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-loop/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Java Loop","java Loop"],"created_date":"2024-09-23","links":null,"tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/java-loop/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.983+02:00","dg-note-properties":{"aliases":["Java Loop","java Loop"],"created_date":"2024-09-23","links":null,"tags":["informatik/software"]}}
 ---
 
 >In [[wiki/Java\|Java]] gibt's hauptsächlich drei Loops.

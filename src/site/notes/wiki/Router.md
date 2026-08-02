@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/router/","tags":["informatik/hardware","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":[],"created":"2024-07-22 18:49","links":null,"tags":["informatik/hardware","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/router/","tags":["informatik/hardware","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.620+02:00","dg-note-properties":{"aliases":[],"created":"2024-07-22 18:49","links":null,"tags":["informatik/hardware","informatik/netzwerk"]}}
 ---
 
 >Hardware, die verwendet wird, um [[wiki/Netzwerk\|Netzwerk]]en miteinander zu verbinden.
