@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/unit-testing/","tags":["informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Unit-Testing","Unittests","Unit Testing","unittest","Unit Test"],"created_date":"2024-08-28","links":null,"tags":["informatik/code","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/unit-testing/","tags":["informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.747+02:00","dg-note-properties":{"aliases":["Unit-Testing","Unittests","Unit Testing","unittest","Unit Test"],"created_date":"2024-08-28","links":null,"tags":["informatik/code","ausbildung/pruefung"]}}
 ---
 
 >Unit Testing (Modultest) ist das Testen einzelner, isolierter Teile (Units) eines Programms.

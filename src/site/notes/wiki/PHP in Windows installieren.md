@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/php-in-windows-installieren/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["PHP in Windows installieren","pHP in Windows installieren"],"created_date":"2024-09-05","links":"https://www.youtube.com/watch?v=n04w2SzGr_U","tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/php-in-windows-installieren/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.747+02:00","dg-note-properties":{"aliases":["PHP in Windows installieren","pHP in Windows installieren"],"created_date":"2024-09-05","links":"https://www.youtube.com/watch?v=n04w2SzGr_U","tags":["informatik/code"]}}
 ---
 
 > Um [[wiki/PHP\|PHP]] zu installieren und zu konfigurieren, schau dir bitte [dieses Video](https://www.youtube.com/watch?v=Mip_RuSEoso) an und installiere danach [XAMPP](https://www.youtube.com/watch?v=G2VEf-8nepc&t=235s).

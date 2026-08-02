@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sprint-planning/","tags":["wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["sprint planning"],"created_date":"2024-11-22","links":null,"tags":["wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/sprint-planning/","tags":["wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.664+02:00","dg-note-properties":{"aliases":["sprint planning"],"created_date":"2024-11-22","links":null,"tags":["wirtschaft/projektmanagement"]}}
 ---
 
 >Es ist das Treffen zu Beginn eines Sprints, bei dem das Team festlegt, welche Aufgaben aus dem **[[wiki/Product Backlog\|Product Backlog]]** im kommenden [[wiki/Sprint\|Sprint]] bearbeitet werden sollen.

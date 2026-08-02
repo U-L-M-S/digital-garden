@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/rsa/","tags":["informatik/code","informatik/sicherheit","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["RSA","RSA-Verschlüsselung","RSA-Algorithmus","Rivest-Shamir-Adleman"],"created_date":"2024-07-09","links":null,"tags":["informatik/code","informatik/sicherheit","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/rsa/","tags":["informatik/code","informatik/sicherheit","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.815+02:00","dg-note-properties":{"aliases":["RSA","RSA-Verschlüsselung","RSA-Algorithmus","Rivest-Shamir-Adleman"],"created_date":"2024-07-09","links":null,"tags":["informatik/code","informatik/sicherheit","ausbildung/pruefung"]}}
 ---
 
 >**RSA** ist ein [[wiki/Asymmetrische Verschlüsselung\|asymmetrischer Verschlüsselungsalgorithmus]], der auf der mathematischen Schwierigkeit basiert, große Zahlen in ihre Primfaktoren zu zerlegen.

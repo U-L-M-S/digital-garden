@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/active-directory-und-gp-os/","tags":["informatik/netzwerk","informatik/system","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/netzwerk","informatik/system","ausbildung/gfn"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
+{"dg-publish":true,"permalink":"/wiki/active-directory-und-gp-os/","tags":["informatik/netzwerk","informatik/system","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.775+02:00","dg-note-properties":{"tags":["informatik/netzwerk","informatik/system","ausbildung/gfn"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
 ---
 
 # Active Directory und GPOs

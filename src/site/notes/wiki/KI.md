@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ki/","tags":["ausbildung/pruefung","informatik/daten"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Künstliche Intelligenz","AI","Artificial Intelligence"],"created_date":"2025-03-13","links":null,"tags":["ausbildung/pruefung","informatik/daten"]}}
+{"dg-publish":true,"permalink":"/wiki/ki/","tags":["ausbildung/pruefung","informatik/daten"],"noteIcon":"","updated":"2026-07-19T03:56:26.904+02:00","dg-note-properties":{"aliases":["Künstliche Intelligenz","AI","Artificial Intelligence"],"created_date":"2025-03-13","links":null,"tags":["ausbildung/pruefung","informatik/daten"]}}
 ---
 
 >Künstliche Intelligenz umfasst alles, was Computer und Maschinen befähigt, menschenähnliche Intelligenzleistungen zu erbringen. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/passwort-hashing/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/sicherheit"],"aliases":["passwort-hashing","password hashing","bcrypt","argon2","scrypt","pbkdf2"],"links":["[[wiki/Kryptographie\|Kryptographie]]","[[wiki/Hash-Funktion\|Hash-Funktion]]","[[wiki/SHA-256\|SHA-256]]"],"created_date":"2025-11-07"}}
+{"dg-publish":true,"permalink":"/wiki/passwort-hashing/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.599+02:00","dg-note-properties":{"tags":["informatik/sicherheit"],"aliases":["passwort-hashing","password hashing","bcrypt","argon2","scrypt","pbkdf2"],"links":["[[wiki/Kryptographie\|Kryptographie]]","[[wiki/Hash-Funktion\|Hash-Funktion]]","[[wiki/SHA-256\|SHA-256]]"],"created_date":"2025-11-07"}}
 ---
 
 

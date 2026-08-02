@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/unit-test/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Unit-Testing","Unittests","Unit Testing","unittest","Unit Test"],"created_date":"2024-08-28","links":null,"tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/unit-test/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.657+02:00","dg-note-properties":{"aliases":["Unit-Testing","Unittests","Unit Testing","unittest","Unit Test"],"created_date":"2024-08-28","links":null,"tags":["informatik/code"]}}
 ---
 
 >Auch als **Unittests** bekannt, sind es Code-Tests, die geschrieben werden, um die Funktionen einzelner Teile eines Programms zu testen und sicherzustellen, dass das Hauptprogramm fehlerfrei funktioniert.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/docker-hub/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Docker Hub","Hub","Public Registry"],"created_date":"2024-09-04","links":null,"tags":["informatik/system"]}}
+{"dg-publish":true,"permalink":"/wiki/docker-hub/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.752+02:00","dg-note-properties":{"aliases":["Docker Hub","Hub","Public Registry"],"created_date":"2024-09-04","links":null,"tags":["informatik/system"]}}
 ---
 
 >**Docker Hub** ist die öffentliche [[wiki/Docker Registry\|Docker Registry]] von Docker Inc.

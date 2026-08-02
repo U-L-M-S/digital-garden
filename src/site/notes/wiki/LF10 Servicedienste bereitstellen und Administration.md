@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-10-servicedienste-bereitstellen-und-administration/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn"],"links":null}}
+{"dg-publish":true,"permalink":"/wiki/lf-10-servicedienste-bereitstellen-und-administration/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.637+02:00","dg-note-properties":{"tags":["ausbildung/gfn"],"links":null}}
 ---
 
 ![[Server Services and Data Management - podcast.wav]]

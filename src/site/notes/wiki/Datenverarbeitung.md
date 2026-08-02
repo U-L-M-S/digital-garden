@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/datenverarbeitung/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-03-11 09:47","links":null,"path":"Notes","tags":["ausbildung/gfn"]}}
+{"dg-publish":true,"permalink":"/wiki/datenverarbeitung/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.754+02:00","dg-note-properties":{"created":"2024-03-11 09:47","links":null,"path":"Notes","tags":["ausbildung/gfn"]}}
 ---
 
 > Es bezeichnet den organisierten Umgang mit Datenmengen mit dem Ziel. Informationen zu gewinnen oder die Datenmenge zu verändern.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/bmc/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2023-09-24 21:57","links":null,"path":"Notes","tags":["informatik/system"]}}
+{"dg-publish":true,"permalink":"/wiki/bmc/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.936+02:00","dg-note-properties":{"created":"2023-09-24 21:57","links":null,"path":"Notes","tags":["informatik/system"]}}
 ---
 
 ## BMC

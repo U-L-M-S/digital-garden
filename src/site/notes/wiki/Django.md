@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/django/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["django"],"created":"2025-10-29 12:00","links":null,"path":"Notes","tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/django/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.605+02:00","dg-note-properties":{"aliases":["django"],"created":"2025-10-29 12:00","links":null,"path":"Notes","tags":["informatik/code"]}}
 ---
 
 >**Django** ist ein [[wiki/Framework\|Framework]] für [[wiki/Python\|Python]], mit dem man schnell und strukturiert Web-Anwendungen bauen kann.

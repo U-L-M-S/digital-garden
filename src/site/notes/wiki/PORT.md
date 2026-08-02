@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/port/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["PORTs"],"created_date":"2024-11-01","links":null,"tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/port/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.736+02:00","dg-note-properties":{"aliases":["PORTs"],"created_date":"2024-11-01","links":null,"tags":["informatik/netzwerk"]}}
 ---
 
 >Ports im [[wiki/Netzwerk\|Netzwerk]] sind virtuelle Schnittstellen, die es ermöglichen, verschiedene Arten von Datenverkehr über ein Netzwerkprotokoll, wie [[wiki/TCP\|TCP]] oder [[wiki/UDP\|UDP]], zu unterscheiden. 

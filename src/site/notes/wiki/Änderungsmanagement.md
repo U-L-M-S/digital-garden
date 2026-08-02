@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/aenderungsmanagement/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Chage Request"],"created_date":"2025-03-19","links":null,"tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/aenderungsmanagement/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.722+02:00","dg-note-properties":{"aliases":["Chage Request"],"created_date":"2025-03-19","links":null,"tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
 ---
 
 

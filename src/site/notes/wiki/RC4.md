@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/rc-4/","tags":["informatik/sicherheit","informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["RC4","RC4-Verschlüsselung","Rivest Cipher 4","ARC4"],"created_date":"2024-08-04","links":null,"tags":["informatik/sicherheit","informatik/code","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/rc-4/","tags":["informatik/sicherheit","informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.960+02:00","dg-note-properties":{"aliases":["RC4","RC4-Verschlüsselung","Rivest Cipher 4","ARC4"],"created_date":"2024-08-04","links":null,"tags":["informatik/sicherheit","informatik/code","ausbildung/pruefung"]}}
 ---
 
 >**RC4 (Rivest Cipher 4)** ist ein **Stream-Cipher** (Stromverschlüsselung), der 1987 von Ron Rivest entwickelt wurde. Er verschlüsselt Daten **byteweise** durch XOR-Verknüpfung mit einem Pseudozufallsstrom.

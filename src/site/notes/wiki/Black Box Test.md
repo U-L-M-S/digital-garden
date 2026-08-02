@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/black-box-test/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software","ausbildung/pruefung"],"aliases":["Blackbox-Test","Funktionstest"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/black-box-test/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.986+02:00","dg-note-properties":{"tags":["informatik/software","ausbildung/pruefung"],"aliases":["Blackbox-Test","Funktionstest"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 >Black Box Test ist eine Testmethode, bei der Software getestet wird, ohne den internen Code zu kennen.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/for-loop/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["For-Loop","for-loop"],"created_date":"2024-09-23","links":null,"tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/for-loop/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.607+02:00","dg-note-properties":{"aliases":["For-Loop","for-loop"],"created_date":"2024-09-23","links":null,"tags":["informatik/code"]}}
 ---
 
 > Es wird verwendet, wenn du weißt, wie oft der Code wiederholt werden soll. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/jndi/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Java Naming and Directory Interface","jndi"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/jndi/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.724+02:00","dg-note-properties":{"aliases":["Java Naming and Directory Interface","jndi"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >[[wiki/JNDI\|JNDI]] (Java Naming and Directory Interface) ist ein Verzeichnisbaum für alle gemanagete Ressourcen im [[wiki/WildFly\|WildFly]]-Container.

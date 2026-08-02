@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/binaerzahl/","tags":["mathematik/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Binär"],"created":"2023-09-14 10:11","links":null,"tags":["mathematik/allgemein"]}}
+{"dg-publish":true,"permalink":"/wiki/binaerzahl/","tags":["mathematik/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.795+02:00","dg-note-properties":{"aliases":["Binär"],"created":"2023-09-14 10:11","links":null,"tags":["mathematik/allgemein"]}}
 ---
 
 >Es ist ein Zahlsystem, bei dem man nur **zwei** Zahlen benutzt (1 und 0). 

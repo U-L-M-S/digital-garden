@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/apipa/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Automatic Private IP Addressing"],"created_date":"2025-03-23","links":null,"tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/apipa/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.942+02:00","dg-note-properties":{"aliases":["Automatic Private IP Addressing"],"created_date":"2025-03-23","links":null,"tags":["informatik/netzwerk"]}}
 ---
 
 >Es ist eine automatische Notfall-Adressvergabe im [[wiki/IPv4\|IPv4]]-Netzwerk.

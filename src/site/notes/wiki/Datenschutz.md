@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/datenschutz/","tags":["ausbildung/pruefung","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":[],"created_date":"2025-03-02","links":null,"tags":["ausbildung/pruefung","informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/datenschutz/","tags":["ausbildung/pruefung","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.691+02:00","dg-note-properties":{"aliases":[],"created_date":"2025-03-02","links":null,"tags":["ausbildung/pruefung","informatik/sicherheit"]}}
 ---
 
 >Es bedeutet, dass persönliche Informationen (z.B. Name, Adresse) so geschützt werden, dass sie nicht ohne Erlaubnis gelesen, benutzt oder weitergegeben werden.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/rbl/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Realtime Blackhole List","DNS Blacklist","DNSBL"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/rbl/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.786+02:00","dg-note-properties":{"aliases":["Realtime Blackhole List","DNS Blacklist","DNSBL"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit"]}}
 ---
 
 > Realtime Blackhole List

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/anwendungsdiagramm-generalization/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":[],"created_date":"2025-03-21","links":null,"tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/anwendungsdiagramm-generalization/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.956+02:00","dg-note-properties":{"aliases":[],"created_date":"2025-03-21","links":null,"tags":["informatik/software"]}}
 ---
 
 >Die [[wiki/Java Vererbung\|Java Vererbung]] zwischen Akteuren oder Anwendungsfällen.

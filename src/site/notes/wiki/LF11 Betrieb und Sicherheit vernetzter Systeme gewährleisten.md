@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-11-betrieb-und-sicherheit-vernetzter-systeme-gewaehrleisten/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn"],"links":null,"created_date":"2025-09-05"}}
+{"dg-publish":true,"permalink":"/wiki/lf-11-betrieb-und-sicherheit-vernetzter-systeme-gewaehrleisten/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.775+02:00","dg-note-properties":{"tags":["ausbildung/gfn"],"links":null,"created_date":"2025-09-05"}}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.

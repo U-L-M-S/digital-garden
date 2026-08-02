@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kaufvertrag/","tags":["wirtschaft/recht","wirtschaft/allgemein","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["wirtschaft/recht","wirtschaft/allgemein","ausbildung/pruefung"],"aliases":["Kaufvertrag BGB","Kauf"],"links":null,"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/wiki/kaufvertrag/","tags":["wirtschaft/recht","wirtschaft/allgemein","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.777+02:00","dg-note-properties":{"tags":["wirtschaft/recht","wirtschaft/allgemein","ausbildung/pruefung"],"aliases":["Kaufvertrag BGB","Kauf"],"links":null,"created_date":"2025-11-12"}}
 ---
 
 >Der Kaufvertrag ist ein gegenseitiger Vertrag, bei dem der Verkäufer eine Sache übereignet und der Käufer den Kaufpreis zahlt.

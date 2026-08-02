@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/b-bi-g/","tags":["ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-02-06 22:19","links":null,"path":"Notes","tags":["ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/b-bi-g/","tags":["ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.791+02:00","dg-note-properties":{"created":"2024-02-06 22:19","links":null,"path":"Notes","tags":["ausbildung/pruefung"]}}
 ---
 
 >Berufsbildungsgesetz

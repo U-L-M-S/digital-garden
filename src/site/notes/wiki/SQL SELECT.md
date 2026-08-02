@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sql-select/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["SQL SELECT"],"created_date":"2024-10-11","links":null,"tags":["informatik/datenbank","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/sql-select/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.693+02:00","dg-note-properties":{"aliases":["SQL SELECT"],"created_date":"2024-10-11","links":null,"tags":["informatik/datenbank","ausbildung/pruefung"]}}
 ---
 
 >Befehl, der verwendet wird, um die [[wiki/SQL Spalte\|SQL Spalte]] herauszusuchen.

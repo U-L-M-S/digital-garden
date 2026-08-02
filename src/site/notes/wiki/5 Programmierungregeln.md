@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/5-programmierungregeln/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Rob Pike's fünf Regeln für die Programmierung","Programmierungregeln"],"created_date":"2024-11-01","links":null,"tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/5-programmierungregeln/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.764+02:00","dg-note-properties":{"aliases":["Rob Pike's fünf Regeln für die Programmierung","Programmierungregeln"],"created_date":"2024-11-01","links":null,"tags":["informatik/code"]}}
 ---
 
 >Das sind die fünf Standard-Programmierungsregeln, die von Rob Pike erstellt wurden, und ich werde ihnen ab jetzt schrittweise folgen.  

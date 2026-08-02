@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/docker-networking/","tags":["informatik/system","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Docker Networking","Container Networking"],"created_date":"2024-09-04","links":null,"tags":["informatik/system","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/docker-networking/","tags":["informatik/system","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.622+02:00","dg-note-properties":{"aliases":["Docker Networking","Container Networking"],"created_date":"2024-09-04","links":null,"tags":["informatik/system","informatik/netzwerk"]}}
 ---
 
 >**Docker Networking** erstellt virtuelle Netzwerke, damit [[wiki/Docker Container\|Docker Container]] miteinander kommunizieren können.

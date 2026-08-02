@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dhcp-prozess/","tags":["informatik/code","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["DHCP-Prozess","dHCP-Prozess"],"created":"2024-08-02 02:45","links":null,"path":"Notes","tags":["informatik/code","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/dhcp-prozess/","tags":["informatik/code","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.948+02:00","dg-note-properties":{"aliases":["DHCP-Prozess","dHCP-Prozess"],"created":"2024-08-02 02:45","links":null,"path":"Notes","tags":["informatik/code","informatik/netzwerk"]}}
 ---
 
 >Algorithmus von [[wiki/DHCPv4\|DHCPv4]] zwischen [[wiki/DHCP-Server\|DHCP-Server]] und jedem Rechner, der neu in das [[wiki/Netzwerk\|Netzwerk]] kommt.

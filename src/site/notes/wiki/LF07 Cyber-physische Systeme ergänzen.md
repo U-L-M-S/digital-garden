@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-07-cyber-physische-systeme-ergaenzen/","tags":["ausbildung/gfn","meta/status"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn","meta/status"],"links":null,"reference":null,"path":"GFN","created":"2024-05-27 11:52"}}
+{"dg-publish":true,"permalink":"/wiki/lf-07-cyber-physische-systeme-ergaenzen/","tags":["ausbildung/gfn","meta/status"],"noteIcon":"","updated":"2026-07-19T03:56:26.708+02:00","dg-note-properties":{"tags":["ausbildung/gfn","meta/status"],"links":null,"reference":null,"path":"GFN","created":"2024-05-27 11:52"}}
 ---
 
 >[!important] 

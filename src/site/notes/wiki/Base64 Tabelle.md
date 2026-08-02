@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/base64-tabelle/","tags":["informatik/code","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Base64 Tabelle","base64 Tabelle","Base64-Tabelle"],"created_date":"2024-09-24","links":null,"tags":["informatik/code","informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/base64-tabelle/","tags":["informatik/code","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.965+02:00","dg-note-properties":{"aliases":["Base64 Tabelle","base64 Tabelle","Base64-Tabelle"],"created_date":"2024-09-24","links":null,"tags":["informatik/code","informatik/sicherheit"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["ausbildung/gfn","ausbildung/pruefung","meta/status"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn","ausbildung/pruefung","meta/status"],"links":["https://lernplattform.gfn.de/course/view.php?id=12341"],"reference":null,"path":["GFN"],"created":"2024-03-11 08:55"}}
+{"dg-publish":true,"permalink":"/wiki/lf-02-arbeitsplatz-nach-kundenwunsch-ausstatten/","tags":["ausbildung/gfn","ausbildung/pruefung","meta/status"],"noteIcon":"","updated":"2026-07-19T03:56:26.832+02:00","dg-note-properties":{"tags":["ausbildung/gfn","ausbildung/pruefung","meta/status"],"links":["https://lernplattform.gfn.de/course/view.php?id=12341"],"reference":null,"path":["GFN"],"created":"2024-03-11 08:55"}}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.

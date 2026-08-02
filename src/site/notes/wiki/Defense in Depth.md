@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/defense-in-depth/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Mehrschichtige Verteidigung","Multi-Layer Defense"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/defense-in-depth/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.601+02:00","dg-note-properties":{"aliases":["Mehrschichtige Verteidigung","Multi-Layer Defense"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit"]}}
 ---
 
 > Mehrere Sicherheitsschichten hintereinander

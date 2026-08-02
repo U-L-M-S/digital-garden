@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/gfn-home/","tags":["ausbildung/gfn","gardenEntry"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn","gardenEntry"],"links":["https://gfn.uinclis.de/"],"created":"2024-06-07 16:23"}}
+{"dg-publish":true,"permalink":"/wiki/gfn-home/","tags":["ausbildung/gfn","gardenEntry"],"noteIcon":"","updated":"2026-07-19T03:56:26.733+02:00","dg-note-properties":{"tags":["ausbildung/gfn","gardenEntry"],"links":["https://gfn.uinclis.de/"],"created":"2024-06-07 16:23"}}
 ---
 
 # Hallo zusammen 😄 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/serial-version-uid/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"aliases":["serial version uid","serialversionuid"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/serial-version-uid/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:27.002+02:00","dg-note-properties":{"aliases":["serial version uid","serialversionuid"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >[[wiki/serialVersionUID\|serialVersionUID]] ist eine `long`-Konstante in `Serializable`-Klassen.

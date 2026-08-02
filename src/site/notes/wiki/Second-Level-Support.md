@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/second-level-support/","tags":["wirtschaft/itsm","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["wirtschaft/itsm","ausbildung/gfn"],"aliases":["2nd Level Support","Level 2 Support","L2 Support"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/second-level-support/","tags":["wirtschaft/itsm","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.783+02:00","dg-note-properties":{"tags":["wirtschaft/itsm","ausbildung/gfn"],"aliases":["2nd Level Support","Level 2 Support","L2 Support"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

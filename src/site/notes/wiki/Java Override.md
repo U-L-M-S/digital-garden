@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-override/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["java-override"],"created_date":"2024-10-25","links":null,"tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/java-override/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.799+02:00","dg-note-properties":{"aliases":["java-override"],"created_date":"2024-10-25","links":null,"tags":["informatik/software"]}}
 ---
 
 >In Java bedeutet *Override*, dass eine Methode einer Basisklasse in einer abgeleiteten Klasse neu definiert wird, um deren Verhalten anzupassen. 

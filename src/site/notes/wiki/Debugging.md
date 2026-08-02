@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/debugging/","tags":["informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/code","ausbildung/pruefung"],"aliases":["debugging","Fehlersuche","Fehlerbehebung"],"links":null,"created_date":"2025-09-08"}}
+{"dg-publish":true,"permalink":"/wiki/debugging/","tags":["informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.851+02:00","dg-note-properties":{"tags":["informatik/code","ausbildung/pruefung"],"aliases":["debugging","Fehlersuche","Fehlerbehebung"],"links":null,"created_date":"2025-09-08"}}
 ---
 
 >Debugging ist der Prozess, Fehler (Bugs) im Code zu finden und zu beheben.

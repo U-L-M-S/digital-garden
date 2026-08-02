@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/l-fzq17a-objektorientierte-programmierung/","tags":["ausbildung/gfn","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn","informatik/software"],"links":["https://lernplattform.gfn.de/course/view.php?id=14978"],"created_date":"2024-10-21"}}
+{"dg-publish":true,"permalink":"/wiki/l-fzq17a-objektorientierte-programmierung/","tags":["ausbildung/gfn","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.606+02:00","dg-note-properties":{"tags":["ausbildung/gfn","informatik/software"],"links":["https://lernplattform.gfn.de/course/view.php?id=14978"],"created_date":"2024-10-21"}}
 ---
 
 >[!important] 

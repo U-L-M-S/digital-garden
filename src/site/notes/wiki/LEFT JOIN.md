@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/left-join/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["LEFT JOIN"],"created_date":"2024-10-17","links":null,"tags":["informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/left-join/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.623+02:00","dg-note-properties":{"aliases":["LEFT JOIN"],"created_date":"2024-10-17","links":null,"tags":["informatik/datenbank"]}}
 ---
 
 >Ein **LEFT JOIN** gibt **alle [[wiki/Datensatz\|Datensätze]] der linken Tabelle** (in diesem Fall `customers`) zurück, **auch wenn es keine Übereinstimmung** in der rechten Tabelle (`orders`) gibt.

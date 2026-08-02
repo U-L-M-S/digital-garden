@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/deployment-scanner/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["deployment scanner","wildfly deployment scanner"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/deployment-scanner/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.919+02:00","dg-note-properties":{"aliases":["deployment scanner","wildfly deployment scanner"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >Der [[wiki/Deployment-Scanner\|Deployment-Scanner]] ist ein [[wiki/WildFly\|WildFly]]-Subsystem, das den `deployments/`-Ordner überwacht.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml-aggregation/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Aggregation","UML Aggregation"],"created_date":"2024-11-06","links":null,"tags":["informatik/software","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/uml-aggregation/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.912+02:00","dg-note-properties":{"aliases":["Aggregation","UML Aggregation"],"created_date":"2024-11-06","links":null,"tags":["informatik/software","ausbildung/pruefung"]}}
 ---
 
 >Aggregation ist eine spezielle Form der [[wiki/UML-Assoziation\|UML-Assoziation]], die eine "hat-eine"-Beziehung darstellt, bei der das Teil-Objekt unabhängig vom Ganzen existieren kann.

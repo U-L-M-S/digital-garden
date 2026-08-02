@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml-zustandsdiagramme/","tags":["ausbildung/pruefung","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"aliases":["Zustandsdiagramme","zustandsdiagramme","State Diagram","Zustandsautomat","State Machine Diagram"],"created_date":"2025-11-06","links":null,"tags":["ausbildung/pruefung","informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/uml-zustandsdiagramme/","tags":["ausbildung/pruefung","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:27.003+02:00","dg-note-properties":{"aliases":["Zustandsdiagramme","zustandsdiagramme","State Diagram","Zustandsautomat","State Machine Diagram"],"created_date":"2025-11-06","links":null,"tags":["ausbildung/pruefung","informatik/software"]}}
 ---
 
 >Ein **Zustandsdiagramm** ist ein [[wiki/UML\|UML]]-Diagramm, das das Verhalten eines Objekts über seinen gesamten Lebenszyklus darstellt, indem es die verschiedenen Zustände und die Übergänge zwischen diesen Zustände visualisiert.

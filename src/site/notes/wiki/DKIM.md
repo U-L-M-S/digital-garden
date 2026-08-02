@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dkim/","tags":["informatik/sicherheit","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["DomainKeys Identified Mail"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/dkim/","tags":["informatik/sicherheit","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"aliases":["DomainKeys Identified Mail"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit","informatik/netzwerk"]}}
 ---
 
 > DomainKeys Identified Mail

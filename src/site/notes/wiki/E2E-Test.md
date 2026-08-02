@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/e2-e-test/","tags":["informatik/software","wirtschaft/qualitaet","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software","wirtschaft/qualitaet","ausbildung/pruefung"],"aliases":["End-to-End-Test","E2E-Testing","Vollständiger Workflow-Test"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/e2-e-test/","tags":["informatik/software","wirtschaft/qualitaet","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.665+02:00","dg-note-properties":{"tags":["informatik/software","wirtschaft/qualitaet","ausbildung/pruefung"],"aliases":["End-to-End-Test","E2E-Testing","Vollständiger Workflow-Test"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

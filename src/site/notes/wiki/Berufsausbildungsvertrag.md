@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/berufsausbildungsvertrag/","tags":["ausbildung/gfn","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2023-10-20 17:07","links":null,"path":"Notes","tags":["ausbildung/gfn","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/berufsausbildungsvertrag/","tags":["ausbildung/gfn","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.789+02:00","dg-note-properties":{"created":"2023-10-20 17:07","links":null,"path":"Notes","tags":["ausbildung/gfn","ausbildung/pruefung"]}}
 ---
 
 > [!important] 

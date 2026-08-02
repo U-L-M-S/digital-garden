@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/betriebliche-ziele/","tags":["wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2023-10-12 17:59","links":null,"path":"Notes","tags":["wirtschaft/allgemein"]}}
+{"dg-publish":true,"permalink":"/wiki/betriebliche-ziele/","tags":["wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.625+02:00","dg-note-properties":{"created":"2023-10-12 17:59","links":null,"path":"Notes","tags":["wirtschaft/allgemein"]}}
 ---
 
 ## Betriebliche Ziele 

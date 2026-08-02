@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/corporate-design/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-06-22 21:33","links":null,"path":"Notes","tags":["ausbildung/gfn"]}}
+{"dg-publish":true,"permalink":"/wiki/corporate-design/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.952+02:00","dg-note-properties":{"created":"2024-06-22 21:33","links":null,"path":"Notes","tags":["ausbildung/gfn"]}}
 ---
 
 > Teilbereich der [[wiki/Corporate Identity\|Corporate Identity]].

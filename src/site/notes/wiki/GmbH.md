@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/gmb-h/","tags":["wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"created":"2023-10-10 18:29","links":null,"path":"Notes","tags":["wirtschaft/allgemein"]}}
+{"dg-publish":true,"permalink":"/wiki/gmb-h/","tags":["wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:27.003+02:00","dg-note-properties":{"created":"2023-10-10 18:29","links":null,"path":"Notes","tags":["wirtschaft/allgemein"]}}
 ---
 
 ## GmbH 

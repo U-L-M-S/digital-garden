@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/beans-xml/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["beans xml","beans-xml"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/beans-xml/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.985+02:00","dg-note-properties":{"aliases":["beans xml","beans-xml"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >[[wiki/beans.xml\|beans.xml]] aktiviert [[wiki/CDI\|CDI]] (Contexts and Dependency Injection) in einer App.

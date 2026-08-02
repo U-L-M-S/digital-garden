@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/simulation/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["simulation"],"created_date":"2025-07-18","links":null,"tags":["informatik/system"]}}
+{"dg-publish":true,"permalink":"/wiki/simulation/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.745+02:00","dg-note-properties":{"aliases":["simulation"],"created_date":"2025-07-18","links":null,"tags":["informatik/system"]}}
 ---
 
 > **Simulation** ist das **Nachstellen von realen Prozessen oder Systemen**, um deren Verhalten unter bestimmten Bedingungen zu analysieren – ohne sie physisch auszuführen.

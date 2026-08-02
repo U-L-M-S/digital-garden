@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/bridge/","tags":["informatik/hardware"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/hardware"],"aliases":["bridge"],"links":null,"created_date":"2025-09-15"}}
+{"dg-publish":true,"permalink":"/wiki/bridge/","tags":["informatik/hardware"],"noteIcon":"","updated":"2026-07-19T03:56:26.941+02:00","dg-note-properties":{"tags":["informatik/hardware"],"aliases":["bridge"],"links":null,"created_date":"2025-09-15"}}
 ---
 
 > [[wiki/Netzwerk\|Netzwerk]]gerät, das zwei oder mehr [[wiki/Netzwerk\|Netzwerk]]segmente miteinander verbindet und dabei Kollisionsdomänen voneinander trennt. Arbeitet wie ein [[wiki/Switch\|Switch]] auf [[wiki/Layer 2\|Layer 2]] mit [[wiki/MAC Adresse\|MAC Adresse]]n.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-04-schutzbedarfsanalyse-im-eigenen-arbeitsbereich-durchfuehren/","tags":["ausbildung/gfn","meta/status"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn","meta/status"],"links":["https://lernplattform.gfn.de/course/view.php?id=12956"],"reference":null,"path":"GFN","created":"2024-05-03 18:09"}}
+{"dg-publish":true,"permalink":"/wiki/lf-04-schutzbedarfsanalyse-im-eigenen-arbeitsbereich-durchfuehren/","tags":["ausbildung/gfn","meta/status"],"noteIcon":"","updated":"2026-07-19T03:56:26.939+02:00","dg-note-properties":{"tags":["ausbildung/gfn","meta/status"],"links":["https://lernplattform.gfn.de/course/view.php?id=12956"],"reference":null,"path":"GFN","created":"2024-05-03 18:09"}}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.

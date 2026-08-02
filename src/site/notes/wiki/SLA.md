@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sla/","tags":["wirtschaft/itsm","wirtschaft/qualitaet"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["wirtschaft/itsm","wirtschaft/qualitaet"],"aliases":["Service Level Agreement","Dienstgütevereinbarung","Service-Vereinbarung"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/sla/","tags":["wirtschaft/itsm","wirtschaft/qualitaet"],"noteIcon":"","updated":"2026-07-19T03:56:26.705+02:00","dg-note-properties":{"tags":["wirtschaft/itsm","wirtschaft/qualitaet"],"aliases":["Service Level Agreement","Dienstgütevereinbarung","Service-Vereinbarung"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

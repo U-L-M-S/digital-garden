@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/daily-scrum/","tags":["wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["daily scrum"],"created_date":"2024-11-22","links":null,"tags":["wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/daily-scrum/","tags":["wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.626+02:00","dg-note-properties":{"aliases":["daily scrum"],"created_date":"2024-11-22","links":null,"tags":["wirtschaft/projektmanagement"]}}
 ---
 
 >Das **[[wiki/Daily Scrum\|Daily Scrum]]** ist ein kurzes tägliches Treffen (max. 15 Minuten), bei dem das Team den aktuellen Fortschritt bespricht.

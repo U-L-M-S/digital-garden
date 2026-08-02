@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/virtualisierung/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-24","links":null,"tags":["informatik/system"]}}
+{"dg-publish":true,"permalink":"/wiki/virtualisierung/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.988+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-24","links":null,"tags":["informatik/system"]}}
 ---
 
 > Erstellen einer **virtuellen Umgebung** (z.B. virtuelle Maschinen) auf echter Hardware. Mehrere virtuelle Systeme können parallel auf einem physischen Rechner laufen.

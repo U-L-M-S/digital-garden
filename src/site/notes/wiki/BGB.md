@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/bgb/","tags":["wirtschaft/recht","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["wirtschaft/recht","ausbildung/pruefung"],"aliases":["Bürgerliches Gesetzbuch","Zivilrecht"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/bgb/","tags":["wirtschaft/recht","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.988+02:00","dg-note-properties":{"tags":["wirtschaft/recht","ausbildung/pruefung"],"aliases":["Bürgerliches Gesetzbuch","Zivilrecht"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 >Das BGB (Bürgerliches Gesetzbuch) ist das wichtigste Gesetz für [[wiki/Vertrag\|Verträge]] zwischen Privatpersonen in Deutschland.

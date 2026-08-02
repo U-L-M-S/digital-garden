@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/j-boss-cli/","tags":["informatik/software","muckenhirn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["jboss cli","jboss-cli.bat","wildfly cli"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software","muckenhirn"]}}
+{"dg-publish":true,"permalink":"/wiki/j-boss-cli/","tags":["informatik/software","muckenhirn"],"noteIcon":"","updated":"2026-07-19T03:56:26.873+02:00","dg-note-properties":{"aliases":["jboss cli","jboss-cli.bat","wildfly cli"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software","muckenhirn"]}}
 ---
 
 >[[wiki/JBoss-CLI\|JBoss-CLI]] ist das Kommandozeilen-Tool zum Konfigurieren von [[wiki/WildFly\|WildFly]].

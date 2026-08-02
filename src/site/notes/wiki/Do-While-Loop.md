@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/do-while-loop/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Do-While-Loop","do-While-Loop"],"created_date":"2024-09-23","links":null,"tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/do-while-loop/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.633+02:00","dg-note-properties":{"aliases":["Do-While-Loop","do-While-Loop"],"created_date":"2024-09-23","links":null,"tags":["informatik/code"]}}
 ---
 
 >Das Gleiche wie bei [[wiki/While-Loop\|While-Loop]]. Es wird aber mindestens einmal wiederholt.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ap-2-pruefungskatalog-2025/","tags":["ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"type":"wiki","harvested_from":"[[AP2 Vorbereitung 2026]]","created_date":"2025-09-02","tags":["ausbildung/pruefung"],"links":"https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap2-als-fachinformatiker-anwendungsentwicklung-ab-2025-it-berufe-podcast-191"}}
+{"dg-publish":true,"permalink":"/wiki/ap-2-pruefungskatalog-2025/","tags":["ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:27.007+02:00","dg-note-properties":{"type":"wiki","harvested_from":"[[AP2 Vorbereitung 2026]]","created_date":"2025-09-02","tags":["ausbildung/pruefung"],"links":"https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap2-als-fachinformatiker-anwendungsentwicklung-ab-2025-it-berufe-podcast-191"}}
 ---
 
 # 📌 Sichere Themen für die AP2-Prüfung 2025
