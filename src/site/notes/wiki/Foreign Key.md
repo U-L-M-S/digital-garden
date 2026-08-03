@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/foreign-key/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.816+02:00","dg-note-properties":{"aliases":["Fremdschlüssel","Foreign-Key","FK"],"created_date":"2024-10-10","links":null,"tags":["informatik/datenbank","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/foreign-key/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Fremdschlüssel","Foreign-Key","FK"],"created_date":"2024-10-10","links":null,"tags":["informatik/datenbank","ausbildung/pruefung"]}}
 ---
 
 >Ein Foreign Key (Fremdschlüssel) ist eine Spalte in einer [[wiki/SQL Tabelle\|SQL Tabelle]], die auf den [[wiki/Primary Key\|Primary Key]] einer anderen Tabelle verweist.

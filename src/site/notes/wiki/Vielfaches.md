@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/vielfaches/","tags":["mathematik/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.835+02:00","dg-note-properties":{"aliases":["Vielfaches","vielfaches"],"created":"2024-07-26 22:36","links":null,"path":"Notes","tags":["mathematik/allgemein"]}}
+{"dg-publish":true,"permalink":"/wiki/vielfaches/","tags":["mathematik/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Vielfaches","vielfaches"],"created":"2024-07-26 22:36","links":null,"path":"Notes","tags":["mathematik/allgemein"]}}
 ---
 
 >Es ist das Ergebnis der Multiplikation einer Zahl mit einer ganzen Zahl.

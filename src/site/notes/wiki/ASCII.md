@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ascii/","noteIcon":"","updated":"2026-07-18T01:35:03.868+02:00","dg-note-properties":{"tags":null,"aliases":["American Standard Code for Information Interchange"],"links":null,"path":"Notes","created":"2024-08-13 08:38"}}
+{"dg-publish":true,"permalink":"/wiki/ascii/","noteIcon":"","updated":"2026-07-18T01:35:03.000+02:00","dg-note-properties":{"tags":null,"aliases":["American Standard Code for Information Interchange"],"links":null,"path":"Notes","created":"2024-08-13 08:38"}}
 ---
 
 >Zeichencodierungssystem mit 128 Zeichen.

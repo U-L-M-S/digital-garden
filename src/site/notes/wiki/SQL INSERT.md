@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sql-insert/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.956+02:00","dg-note-properties":{"aliases":["SQL INSERT"],"created_date":"2024-10-10","links":null,"tags":["informatik/datenbank","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/sql-insert/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["SQL INSERT"],"created_date":"2024-10-10","links":null,"tags":["informatik/datenbank","ausbildung/pruefung"]}}
 ---
 
 >Befehl wird verwendet, um [[wiki/SQL Zeile\|SQL Zeile]]n (Werte) in die [[wiki/SQL Spalte\|SQL Spalte]]n ([[wiki/Variable\|Variable]]n) einzufügen.

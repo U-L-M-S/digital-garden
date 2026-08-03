@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/l-fzq15a-python-entry-level-zertifizierung/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.690+02:00","dg-note-properties":{"tags":["informatik/code"],"links":["https://lernplattform.gfn.de/course/view.php?id=15889"],"created_date":"2025-01-20"}}
+{"dg-publish":true,"permalink":"/wiki/l-fzq15a-python-entry-level-zertifizierung/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/code"],"links":["https://lernplattform.gfn.de/course/view.php?id=15889"],"created_date":"2025-01-20"}}
 ---
 
 >Dieser Zusammenfassung ist eine Vorbereitung auf die PCEP - Certificated Entry-Level Python Programmer.

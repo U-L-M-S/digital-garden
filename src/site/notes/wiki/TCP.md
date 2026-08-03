@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/tcp/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.636+02:00","dg-note-properties":{"aliases":["Transmission Control Protocol"],"created":"2024-07-02 15:10","links":null,"tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/tcp/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Transmission Control Protocol"],"created":"2024-07-02 15:10","links":null,"tags":["informatik/netzwerk"]}}
 ---
 
 >Transmission Control Protocol 

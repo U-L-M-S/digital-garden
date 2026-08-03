@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sql/","tags":["ausbildung/pruefung","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.736+02:00","dg-note-properties":{"aliases":["Structured Query Language","sql"],"created":"2024-06-25 15:35","links":null,"path":"Notes","tags":["ausbildung/pruefung","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/sql/","tags":["ausbildung/pruefung","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Structured Query Language","sql"],"created":"2024-06-25 15:35","links":null,"path":"Notes","tags":["ausbildung/pruefung","informatik/datenbank"]}}
 ---
 
 >SQL (Structured Query Language) ist eine standardisierte Programmiersprache zur [[wiki/Verwaltung\|Verwaltung]] und Bearbeitung von Daten in relationalen Datenbanken.

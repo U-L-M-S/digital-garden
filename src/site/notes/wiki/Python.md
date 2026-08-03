@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/python/","tags":["ausbildung/gfn","meta/status","informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.803+02:00","dg-note-properties":{"created":"2024-06-24 10:17","links":null,"path":"Notes","tags":["ausbildung/gfn","meta/status","informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/python/","tags":["ausbildung/gfn","meta/status","informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-06-24 10:17","links":null,"path":"Notes","tags":["ausbildung/gfn","meta/status","informatik/code"]}}
 ---
 
 >Python ist eine vielseitige, hochgradig lesbare Programmiersprache, die sowohl für Einsteiger als auch für erfahrene Entwickler geeignet ist.

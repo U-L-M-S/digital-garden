@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/port-security/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.859+02:00","dg-note-properties":{"tags":["informatik/sicherheit"],"aliases":["Switch Port Security","MAC Address Security","Port-basierte Sicherheit"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/port-security/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/sicherheit"],"aliases":["Switch Port Security","MAC Address Security","Port-basierte Sicherheit"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

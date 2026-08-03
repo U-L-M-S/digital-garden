@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ssh/","tags":["informatik/system","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.946+02:00","dg-note-properties":{"aliases":["SSH","ssh","Secure Shell"],"created":"2024-07-27 20:33","links":null,"path":["Notes"],"tags":["informatik/system","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/ssh/","tags":["informatik/system","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["SSH","ssh","Secure Shell"],"created":"2024-07-27 20:33","links":null,"path":["Notes"],"tags":["informatik/system","informatik/netzwerk"]}}
 ---
 
 >Secure Shell

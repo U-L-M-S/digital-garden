@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/selection-sort/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.632+02:00","dg-note-properties":{"tags":["informatik/code"],"aliases":["Auswahlsortierung","Selection-Sort-Algorithmus"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/selection-sort/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/code"],"aliases":["Auswahlsortierung","Selection-Sort-Algorithmus"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 ![selection-600.gif](/img/user/assets/IMG/selection-600.gif)

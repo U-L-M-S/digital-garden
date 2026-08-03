@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/remove/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.688+02:00","dg-note-properties":{"aliases":["remove","@remove"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/remove/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["remove","@remove"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >[[wiki/@Remove\|@Remove]] markiert eine Methode in einer [[wiki/@Stateful\|@Stateful]]-Bean: nach dem Aufruf wird die Instanz **zerstört**.

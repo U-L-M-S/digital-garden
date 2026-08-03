@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/qualitaetssicherung/","tags":["ausbildung/gfn","ausbildung/pruefung","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.753+02:00","dg-note-properties":{"aliases":["Qualitätssicherung"],"created_date":"2024-08-27","links":"https://de.wikipedia.org/wiki/ISO/IEC_25000","tags":["ausbildung/gfn","ausbildung/pruefung","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/qualitaetssicherung/","tags":["ausbildung/gfn","ausbildung/pruefung","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Qualitätssicherung"],"created_date":"2024-08-27","links":"https://de.wikipedia.org/wiki/ISO/IEC_25000","tags":["ausbildung/gfn","ausbildung/pruefung","informatik/netzwerk"]}}
 ---
 
 >Es ist der [[wiki/Prozess\|Prozess]], der sicherstellt, dass Produkte oder Dienstleistungen bestimmte Qualitätsstandards erfüllen. Sie umfasst systematische Maßnahmen zur Vermeidung von Fehlern und zur Verbesserung der Qualität in der [[wiki/Produktion\|Produktion]] oder Entwicklung.

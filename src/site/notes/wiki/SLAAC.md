@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/slaac/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.771+02:00","dg-note-properties":{"aliases":["Stateless Address Autoconfiguration"],"created":"2024-08-02 17:29","links":null,"tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/slaac/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Stateless Address Autoconfiguration"],"created":"2024-08-02 17:29","links":null,"tags":["informatik/netzwerk"]}}
 ---
 
 > **SLAAC** = **Stateless Address Autoconfiguration**

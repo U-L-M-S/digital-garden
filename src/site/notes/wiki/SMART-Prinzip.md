@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/smart-prinzip/","tags":["wirtschaft/projektmanagement","wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.705+02:00","dg-note-properties":{"aliases":["SMART Prinzip"],"created":"2024-08-19 10:49","links":null,"path":["Notes"],"tags":["wirtschaft/projektmanagement","wirtschaft/allgemein"]}}
+{"dg-publish":true,"permalink":"/wiki/smart-prinzip/","tags":["wirtschaft/projektmanagement","wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["SMART Prinzip"],"created":"2024-08-19 10:49","links":null,"path":["Notes"],"tags":["wirtschaft/projektmanagement","wirtschaft/allgemein"]}}
 ---
 
 >Hilfsmittel zur Bestimmung von [[inbox/Unternehmensziele\|Unternehmensziele]]n.

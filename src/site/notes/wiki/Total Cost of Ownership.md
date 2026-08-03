@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/total-cost-of-ownership/","tags":["ausbildung/pruefung","wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.999+02:00","dg-note-properties":{"aliases":["TCO"],"created_date":"2025-03-19","links":null,"tags":["ausbildung/pruefung","wirtschaft/allgemein"]}}
+{"dg-publish":true,"permalink":"/wiki/total-cost-of-ownership/","tags":["ausbildung/pruefung","wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["TCO"],"created_date":"2025-03-19","links":null,"tags":["ausbildung/pruefung","wirtschaft/allgemein"]}}
 ---
 
 >Es beschreibt die **Gesamtkosten** eines Produkts über dessen gesamte Nutzungsdauer.

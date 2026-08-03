@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/acl/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.823+02:00","dg-note-properties":{"aliases":["ACL","Access Control List"],"created":"2024-08-02 18:31","links":null,"path":"Notes","tags":["informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/acl/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["ACL","Access Control List"],"created":"2024-08-02 18:31","links":null,"path":"Notes","tags":["informatik/sicherheit"]}}
 ---
 
 ![ACL-20240804000247511.png](/img/user/assets/IMG/ACL-20240804000247511.png)

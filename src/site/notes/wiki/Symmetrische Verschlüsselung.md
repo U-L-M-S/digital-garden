@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/symmetrische-verschluesselung/","tags":["ausbildung/pruefung","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.695+02:00","dg-note-properties":{"tags":["ausbildung/pruefung","informatik/sicherheit"],"aliases":["symmetric encryption","shared-key encryption","geheimer Schlüssel"],"links":null,"created_date":"2024-11-02"}}
+{"dg-publish":true,"permalink":"/wiki/symmetrische-verschluesselung/","tags":["ausbildung/pruefung","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/pruefung","informatik/sicherheit"],"aliases":["symmetric encryption","shared-key encryption","geheimer Schlüssel"],"links":null,"created_date":"2024-11-02"}}
 ---
 
 >Symmetrische Verschlüsselung ist ein Verfahren, bei dem <mark style="background: #ABF7F7A6;">Sender und Empfänger denselben geheimen Schlüssel verwenden</mark>, um Daten zu verschlüsseln und zu entschlüsseln.

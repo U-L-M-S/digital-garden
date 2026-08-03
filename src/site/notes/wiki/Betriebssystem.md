@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/betriebssystem/","tags":["ausbildung/pruefung","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.898+02:00","dg-note-properties":{"tags":["ausbildung/pruefung","informatik/system"],"aliases":["OS","Operating System","System-Software"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/wiki/betriebssystem/","tags":["ausbildung/pruefung","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/pruefung","informatik/system"],"aliases":["OS","Operating System","System-Software"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/rentabilitaet/","tags":["ausbildung/pruefung","wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.779+02:00","dg-note-properties":{"aliases":["ROI"],"created_date":"2025-03-16","links":null,"tags":["ausbildung/pruefung","wirtschaft/allgemein"]}}
+{"dg-publish":true,"permalink":"/wiki/rentabilitaet/","tags":["ausbildung/pruefung","wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["ROI"],"created_date":"2025-03-16","links":null,"tags":["ausbildung/pruefung","wirtschaft/allgemein"]}}
 ---
 
 >Es misst, wie wirtschaftlich erfolgreich (profitabel) eine Investition ist.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dsgvo/","tags":["ausbildung/pruefung","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.913+02:00","dg-note-properties":{"aliases":["Datenschutz-Grundverordnung"],"created_date":"2025-02-24","links":["https://dsgvo-gesetz.de/"],"tags":["ausbildung/pruefung","informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/dsgvo/","tags":["ausbildung/pruefung","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Datenschutz-Grundverordnung"],"created_date":"2025-02-24","links":["https://dsgvo-gesetz.de/"],"tags":["ausbildung/pruefung","informatik/sicherheit"]}}
 ---
 
 >Datenschutz-Grundverordnung.

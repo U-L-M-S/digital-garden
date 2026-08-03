@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kanban/","tags":["wirtschaft/projektmanagement","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.708+02:00","dg-note-properties":{"aliases":["Kanban","kanban","Kanban-Board","Kanban-Methode"],"created_date":"2025-11-06","links":null,"tags":["wirtschaft/projektmanagement","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/kanban/","tags":["wirtschaft/projektmanagement","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Kanban","kanban","Kanban-Board","Kanban-Methode"],"created_date":"2025-11-06","links":null,"tags":["wirtschaft/projektmanagement","ausbildung/pruefung"]}}
 ---
 
 >**Kanban** ist eine agile Projektmanagement-Methode, die Arbeitsprozesse visualisiert und den Workflow optimiert, indem Aufgaben in Spalten auf einem Board dargestellt werden.

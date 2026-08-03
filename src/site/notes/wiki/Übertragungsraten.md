@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uebertragungsraten/","tags":["ausbildung/pruefung","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.902+02:00","dg-note-properties":{"aliases":["Bandbreite"],"created_date":"2025-02-19","links":null,"tags":["ausbildung/pruefung","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/uebertragungsraten/","tags":["ausbildung/pruefung","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Bandbreite"],"created_date":"2025-02-19","links":null,"tags":["ausbildung/pruefung","informatik/netzwerk"]}}
 ---
 
 >Wie viele [[wiki/Bit\|Bit]]s pro Sekunden übertragen werden kann.

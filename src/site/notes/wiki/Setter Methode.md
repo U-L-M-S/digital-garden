@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/setter-methode/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.601+02:00","dg-note-properties":{"aliases":["Setter Methode","Setter-Methode","Java Setter Methode","Java Setter-Methode"],"created_date":"2024-10-21","links":"[[wiki/OOP\|OOP]]","tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/setter-methode/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Setter Methode","Setter-Methode","Java Setter Methode","Java Setter-Methode"],"created_date":"2024-10-21","links":"[[wiki/OOP\|OOP]]","tags":["informatik/software"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sql-join/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.674+02:00","dg-note-properties":{"aliases":["SQL JOIN"],"created_date":"2024-10-17","links":null,"tags":["informatik/datenbank","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/sql-join/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["SQL JOIN"],"created_date":"2024-10-17","links":null,"tags":["informatik/datenbank","ausbildung/pruefung"]}}
 ---
 
 >JOINs in [[wiki/SQL\|SQL]] sind Befehle, um [[wiki/SQL Tabelle\|SQL Tabelle]]n miteinander zu verbinden.

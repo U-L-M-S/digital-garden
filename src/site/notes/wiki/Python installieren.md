@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/python-installieren/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.966+02:00","dg-note-properties":{"aliases":["Python installieren","Python-Installieren"],"created":"2024-08-16 17:53","links":"https://www.python.org/downloads/","path":"Notes","tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/python-installieren/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Python installieren","Python-Installieren"],"created":"2024-08-16 17:53","links":"https://www.python.org/downloads/","path":"Notes","tags":["informatik/code"]}}
 ---
 
 >Es kann überall verwendet werden.

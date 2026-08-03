@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/thin-client/","tags":["informatik/system","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.715+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/system","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/thin-client/","tags":["informatik/system","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/system","informatik/netzwerk"]}}
 ---
 
 

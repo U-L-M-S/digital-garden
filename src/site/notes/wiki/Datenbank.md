@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/datenbank/","tags":["informatik/datenbank","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.968+02:00","dg-note-properties":{"aliases":["Database","DB"],"created_date":"2024-09-04","links":null,"tags":["informatik/datenbank","informatik/system"]}}
+{"dg-publish":true,"permalink":"/wiki/datenbank/","tags":["informatik/datenbank","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Database","DB"],"created_date":"2024-09-04","links":null,"tags":["informatik/datenbank","informatik/system"]}}
 ---
 
 

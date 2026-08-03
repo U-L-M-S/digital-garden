@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/http-file-server/","tags":["informatik/netzwerk","informatik/code","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:27.008+02:00","dg-note-properties":{"aliases":["HTTP Starten"],"created":"2024-08-03 20:18","links":null,"path":["Notes"],"tags":["informatik/netzwerk","informatik/code","informatik/system"]}}
+{"dg-publish":true,"permalink":"/wiki/http-file-server/","tags":["informatik/netzwerk","informatik/code","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"aliases":["HTTP Starten"],"created":"2024-08-03 20:18","links":null,"path":["Notes"],"tags":["informatik/netzwerk","informatik/code","informatik/system"]}}
 ---
 
 >Ein [[wiki/HTTP\|HTTP]]-Server starten.

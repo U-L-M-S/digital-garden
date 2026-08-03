@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/persistence-unit/","tags":["informatik/software","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.804+02:00","dg-note-properties":{"aliases":["persistence unit","persistence-unit","PU"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/persistence-unit/","tags":["informatik/software","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["persistence unit","persistence-unit","PU"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software","informatik/datenbank"]}}
 ---
 
 >Eine [[wiki/Persistence Unit\|Persistence Unit]] ist die logische Brücke zwischen [[wiki/JPA\|JPA]]-Code und einer [[wiki/Datasource\|Datasource]].

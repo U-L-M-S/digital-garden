@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/schnittstellenbezeichner/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.620+02:00","dg-note-properties":{"aliases":["Interface Identifier","interface Identifier"],"created":"2024-07-30 12:25","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/schnittstellenbezeichner/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Interface Identifier","interface Identifier"],"created":"2024-07-30 12:25","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 >Alles anders was nicht zu [[wiki/Netzwerkpräfix\|Netzwerkpräfix]] gehört.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/wartbarkeit/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.728+02:00","dg-note-properties":{"tags":["informatik/software","ausbildung/pruefung"],"aliases":["Maintainability","Software-Wartbarkeit","Code-Wartbarkeit"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/wartbarkeit/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software","ausbildung/pruefung"],"aliases":["Maintainability","Software-Wartbarkeit","Code-Wartbarkeit"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

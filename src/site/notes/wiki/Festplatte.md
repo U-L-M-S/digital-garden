@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/festplatte/","tags":["informatik/hardware","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.713+02:00","dg-note-properties":{"tags":["informatik/hardware","ausbildung/pruefung"],"aliases":["Hard Disk Drive","HDD","Festplatten","Disk"],"links":null,"created_date":"2025-11-07"}}
+{"dg-publish":true,"permalink":"/wiki/festplatte/","tags":["informatik/hardware","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/hardware","ausbildung/pruefung"],"aliases":["Hard Disk Drive","HDD","Festplatten","Disk"],"links":null,"created_date":"2025-11-07"}}
 ---
 
 >Eine **Festplatte** (Hard Disk Drive, HDD) ist ein magnetisches [[wiki/Speicher\|Speicher]]medium zur dauerhaften Speicherung von Daten.

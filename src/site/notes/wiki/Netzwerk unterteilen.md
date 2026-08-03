@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/netzwerk-unterteilen/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.915+02:00","dg-note-properties":{"aliases":["Netzwerk unterteilen","netzwerk unterteilen","netz unterteilen","Netz unterteilen","Subnetz unterteilen"],"created":"2024-07-29 14:23","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/netzwerk-unterteilen/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Netzwerk unterteilen","netzwerk unterteilen","netz unterteilen","Netz unterteilen","Subnetz unterteilen"],"created":"2024-07-29 14:23","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 >Bei [[wiki/Subnetting\|Subnetting]] kann man die [[wiki/Netzwerk\|Netzwerk]]en umstellen, wie man möchte.

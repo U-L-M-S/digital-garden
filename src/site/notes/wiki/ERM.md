@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/erm/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.644+02:00","dg-note-properties":{"aliases":["ERM","Entity Relationship Modell","Entity-Relationship-Modell","ER-Modell","ER-Diagramm"],"created_date":"2025-11-06","links":null,"tags":["informatik/datenbank","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/erm/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["ERM","Entity Relationship Modell","Entity-Relationship-Modell","ER-Modell","ER-Diagramm"],"created_date":"2025-11-06","links":null,"tags":["informatik/datenbank","ausbildung/pruefung"]}}
 ---
 
 >Ein **Entity-Relationship-Modell (ERM)** ist ein konzeptionelles Datenbankmodell, das die **Struktur** und **Beziehungen** zwischen Daten visualisiert.

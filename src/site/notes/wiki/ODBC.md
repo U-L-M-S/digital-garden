@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/odbc/","tags":["informatik/datenbank","informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.632+02:00","dg-note-properties":{"tags":["informatik/datenbank","informatik/code","ausbildung/pruefung"],"aliases":["Open Database Connectivity","ODBC-Treiber","Datenbankschnittstelle"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/odbc/","tags":["informatik/datenbank","informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/datenbank","informatik/code","ausbildung/pruefung"],"aliases":["Open Database Connectivity","ODBC-Treiber","Datenbankschnittstelle"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

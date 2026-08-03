@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml-use-case-akteur/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.837+02:00","dg-note-properties":{"aliases":["UML-Use-Case-Akteur","Use Case Akteur","Akteur","Actor"],"created_date":"2025-11-06","links":null,"tags":["informatik/software","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/uml-use-case-akteur/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["UML-Use-Case-Akteur","Use Case Akteur","Akteur","Actor"],"created_date":"2025-11-06","links":null,"tags":["informatik/software","ausbildung/pruefung"]}}
 ---
 
 >Ein **Akteur (Actor)** ist eine Person, Organisation oder externes System, das mit dem System interagiert.

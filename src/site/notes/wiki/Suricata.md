@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/suricata/","tags":["informatik/sicherheit","informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.925+02:00","dg-note-properties":{"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit","informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/suricata/","tags":["informatik/sicherheit","informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit","informatik/code"]}}
 ---
 
 > Open-Source [[wiki/IDS\|IDS]]/[[wiki/IPS\|IPS]]-Engine

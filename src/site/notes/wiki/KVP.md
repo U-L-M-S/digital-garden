@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kvp/","tags":["wirtschaft/qualitaet","wirtschaft/organisation","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.756+02:00","dg-note-properties":{"tags":["wirtschaft/qualitaet","wirtschaft/organisation","ausbildung/pruefung"],"aliases":["Kontinuierlicher Verbesserungsprozess","Continuous Improvement","Kaizen","kvp"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/kvp/","tags":["wirtschaft/qualitaet","wirtschaft/organisation","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["wirtschaft/qualitaet","wirtschaft/organisation","ausbildung/pruefung"],"aliases":["Kontinuierlicher Verbesserungsprozess","Continuous Improvement","Kaizen","kvp"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

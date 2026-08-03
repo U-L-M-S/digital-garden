@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/normalisierung/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.821+02:00","dg-note-properties":{"tags":["informatik/datenbank","ausbildung/pruefung"],"aliases":["Datenbanknormalisierung","Normalisierungsformen"],"links":null,"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/wiki/normalisierung/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/datenbank","ausbildung/pruefung"],"aliases":["Datenbanknormalisierung","Normalisierungsformen"],"links":null,"created_date":"2025-11-12"}}
 ---
 
 >Normalisierung ist ein Prozess in der Datenbankentwicklung, um [[wiki/Redundanz\|Redundanz]] zu vermeiden und Datenintegrität sicherzustellen.

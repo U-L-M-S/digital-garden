@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java/","tags":["ausbildung/gfn","ausbildung/pruefung","meta/status","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.822+02:00","dg-note-properties":{"created":"2024-06-21 13:58","links":null,"tags":["ausbildung/gfn","ausbildung/pruefung","meta/status","informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/java/","tags":["ausbildung/gfn","ausbildung/pruefung","meta/status","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-06-21 13:58","links":null,"tags":["ausbildung/gfn","ausbildung/pruefung","meta/status","informatik/software"]}}
 ---
 
 > Computersprache, die [[wiki/OOP\|OOP]] benutzt oder einfacher gesagt eine Objektorientierte Computersprache.

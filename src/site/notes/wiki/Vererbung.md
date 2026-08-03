@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/vererbung/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.622+02:00","dg-note-properties":{"tags":["informatik/software","ausbildung/pruefung"],"aliases":["Inheritance","Vererbung Java","extends"],"links":null,"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/wiki/vererbung/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software","ausbildung/pruefung"],"aliases":["Inheritance","Vererbung Java","extends"],"links":null,"created_date":"2025-11-12"}}
 ---
 
 >Vererbung (Inheritance) ist ein Grundprinzip der Objektorientierung, bei dem eine Klasse (Kindklasse) Eigenschaften und Methoden einer anderen Klasse (Elternklasse) übernimmt.

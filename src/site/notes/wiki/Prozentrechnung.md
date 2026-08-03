@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/prozentrechnung/","tags":["ausbildung/pruefung","mathematik/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.655+02:00","dg-note-properties":{"aliases":["Dreisatz"],"created_date":"2025-03-19","links":null,"tags":["ausbildung/pruefung","mathematik/allgemein"]}}
+{"dg-publish":true,"permalink":"/wiki/prozentrechnung/","tags":["ausbildung/pruefung","mathematik/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Dreisatz"],"created_date":"2025-03-19","links":null,"tags":["ausbildung/pruefung","mathematik/allgemein"]}}
 ---
 
 >Es ist eine Methode, um Anteile von einem [[wiki/Grundwert\|Grundwert]] als **Hundertstel** darzustellen.

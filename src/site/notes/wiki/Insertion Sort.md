@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/insertion-sort/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.955+02:00","dg-note-properties":{"tags":["informatik/code"],"aliases":["Einfügesortierung","Insertion-Sort-Algorithmus"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/insertion-sort/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/code"],"aliases":["Einfügesortierung","Insertion-Sort-Algorithmus"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 ![Insertion-sort-example.gif](/img/user/assets/IMG/Insertion-sort-example.gif)

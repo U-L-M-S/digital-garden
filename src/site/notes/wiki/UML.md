@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml/","tags":["ausbildung/pruefung","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.677+02:00","dg-note-properties":{"aliases":["Unified Modeling Language","uml"],"created_date":"2024-09-26","links":null,"tags":["ausbildung/pruefung","informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/uml/","tags":["ausbildung/pruefung","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Unified Modeling Language","uml"],"created_date":"2024-09-26","links":null,"tags":["ausbildung/pruefung","informatik/software"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/server-virtualisierung/","tags":["informatik/system","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.874+02:00","dg-note-properties":{"aliases":["server - virtualisierung"],"created_date":"2025-07-18","links":null,"tags":["informatik/system","ausbildung/gfn"]}}
+{"dg-publish":true,"permalink":"/wiki/server-virtualisierung/","tags":["informatik/system","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["server - virtualisierung"],"created_date":"2025-07-18","links":null,"tags":["informatik/system","ausbildung/gfn"]}}
 ---
 
 >Jetzt, da du [[wiki/Server - Grundlagen\|Server - Grundlagen]] gelernt hast, lass uns auf [[wiki/Virtualisierung\|Virtualisierung]] fokussieren.

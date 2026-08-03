@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/wlan/","tags":["informatik/netzwerk","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.654+02:00","dg-note-properties":{"created":"2024-05-06 16:03","links":null,"path":"Notes","tags":["informatik/netzwerk","ausbildung/gfn"]}}
+{"dg-publish":true,"permalink":"/wiki/wlan/","tags":["informatik/netzwerk","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-05-06 16:03","links":null,"path":"Notes","tags":["informatik/netzwerk","ausbildung/gfn"]}}
 ---
 
 >Wireless [[wiki/LAN\|LAN]]

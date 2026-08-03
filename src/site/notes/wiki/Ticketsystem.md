@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ticketsystem/","tags":["wirtschaft/itsm"],"noteIcon":"","updated":"2026-07-19T03:56:26.936+02:00","dg-note-properties":{"tags":["wirtschaft/itsm"],"aliases":["Issue Tracking","Bug Tracking","Service Desk"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/ticketsystem/","tags":["wirtschaft/itsm"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["wirtschaft/itsm"],"aliases":["Issue Tracking","Bug Tracking","Service Desk"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

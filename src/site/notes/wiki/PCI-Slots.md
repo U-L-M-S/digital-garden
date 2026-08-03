@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/pci-slots/","tags":["informatik/hardware"],"noteIcon":"","updated":"2026-07-19T03:56:26.696+02:00","dg-note-properties":{"tags":["informatik/hardware"],"aliases":["PCI-Express","PCIe-Slots","Erweiterungsslots"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/wiki/pci-slots/","tags":["informatik/hardware"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/hardware"],"aliases":["PCI-Express","PCIe-Slots","Erweiterungsslots"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 

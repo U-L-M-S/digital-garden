@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/queue/","tags":["informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.878+02:00","dg-note-properties":{"tags":["informatik/code","ausbildung/pruefung"],"aliases":["Warteschlange","FIFO","Queue-Datenstruktur"],"links":null,"created_date":"2025-11-05"}}
+{"dg-publish":true,"permalink":"/wiki/queue/","tags":["informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/code","ausbildung/pruefung"],"aliases":["Warteschlange","FIFO","Queue-Datenstruktur"],"links":null,"created_date":"2025-11-05"}}
 ---
 
 

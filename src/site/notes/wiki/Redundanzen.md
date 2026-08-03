@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/redundanzen/","tags":["informatik/software","informatik/daten","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.659+02:00","dg-note-properties":{"tags":["informatik/software","informatik/daten","ausbildung/pruefung"],"aliases":["Datenredundanz","Mehrfachspeicherung"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/redundanzen/","tags":["informatik/software","informatik/daten","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software","informatik/daten","ausbildung/pruefung"],"aliases":["Datenredundanz","Mehrfachspeicherung"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

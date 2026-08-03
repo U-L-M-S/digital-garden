@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/anschaffungskosten/","tags":["wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.838+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-19","links":null,"tags":["wirtschaft/allgemein"]}}
+{"dg-publish":true,"permalink":"/wiki/anschaffungskosten/","tags":["wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-19","links":null,"tags":["wirtschaft/allgemein"]}}
 ---
 
 > **Anschaffungskosten** sind alle **einmaligen Kosten**, die bei der **Beschaffung** von Anlagen, Maschinen oder Produkten entstehen.

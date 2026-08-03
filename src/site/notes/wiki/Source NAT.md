@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/source-nat/","tags":["informatik/netzwerk","mindset/sprache"],"noteIcon":"","updated":"2026-07-19T03:56:26.868+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk","mindset/sprache"]}}
+{"dg-publish":true,"permalink":"/wiki/source-nat/","tags":["informatik/netzwerk","mindset/sprache"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk","mindset/sprache"]}}
 ---
 
 

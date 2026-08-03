@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/woerterbuchattacken/","tags":["informatik/sicherheit","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.813+02:00","dg-note-properties":{"aliases":["Wörterbuchattacken","wörterbuchattacken","Dictionary Attack","Wörterbuch-Angriff"],"created_date":"2024-08-04","links":null,"tags":["informatik/sicherheit","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/woerterbuchattacken/","tags":["informatik/sicherheit","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Wörterbuchattacken","wörterbuchattacken","Dictionary Attack","Wörterbuch-Angriff"],"created_date":"2024-08-04","links":null,"tags":["informatik/sicherheit","ausbildung/pruefung"]}}
 ---
 
 >Eine **Wörterbuchattacke (Dictionary Attack)** ist ein Angriffsmethode, bei der ein Angreifer systematisch **vorbereitete Listen** von häufig verwendeten Passwörtern, Wörtern und Kombinationen durchprobiert, um Zugang zu einem System zu erhalten.

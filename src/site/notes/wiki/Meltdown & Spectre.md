@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/meltdown-and-spectre/","tags":["informatik/sicherheit","informatik/hardware","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.890+02:00","dg-note-properties":{"aliases":["Meltdown und Spectre-Schwachstelle","Meltdown and Spectre-Schwachstelle","Meltdown","Spectre"],"created_date":"2024-08-03","links":null,"tags":["informatik/sicherheit","informatik/hardware","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/meltdown-and-spectre/","tags":["informatik/sicherheit","informatik/hardware","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Meltdown und Spectre-Schwachstelle","Meltdown and Spectre-Schwachstelle","Meltdown","Spectre"],"created_date":"2024-08-03","links":null,"tags":["informatik/sicherheit","informatik/hardware","ausbildung/pruefung"]}}
 ---
 
 >**Meltdown** und **Spectre** sind kritische Hardware-Sicherheitslücken in modernen CPUs, die im Januar 2018 öffentlich bekannt wurden. Sie nutzen **Speculative Execution** (spekulative Ausführung) aus, um auf geschützte Speicherbereiche zuzugreifen.

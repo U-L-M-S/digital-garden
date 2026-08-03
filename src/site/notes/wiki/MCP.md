@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/mcp/","tags":["informatik/daten"],"noteIcon":"","updated":"2026-07-19T03:56:26.734+02:00","dg-note-properties":{"tags":["informatik/daten"],"aliases":["Model Context Protocol"],"links":["https://www.youtube.com/watch?v=GuTcle5edjk"],"created_date":"2025-09-23"}}
+{"dg-publish":true,"permalink":"/wiki/mcp/","tags":["informatik/daten"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/daten"],"aliases":["Model Context Protocol"],"links":["https://www.youtube.com/watch?v=GuTcle5edjk"],"created_date":"2025-09-23"}}
 ---
 
 > [[wiki/MCP\|MCP]] (Model Context Protocol) ist das "[[wiki/API\|API]]" für [[LLM\|LLM]]s - ein standardisiertes Protokoll für die Kommunikation zwischen [[LLM\|LLM]]s und externen Tools/Datenquellen.

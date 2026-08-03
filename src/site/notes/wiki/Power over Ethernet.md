@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/power-over-ethernet/","tags":["ausbildung/pruefung","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.906+02:00","dg-note-properties":{"aliases":["PoE"],"created_date":"2025-03-11","links":null,"tags":["ausbildung/pruefung","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/power-over-ethernet/","tags":["ausbildung/pruefung","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["PoE"],"created_date":"2025-03-11","links":null,"tags":["ausbildung/pruefung","informatik/netzwerk"]}}
 ---
 
 >**Power over [[wiki/Ethernet\|Ethernet]] (PoE)** ist eine Technik, die Geräte über ein einziges [[wiki/Ethernet\|Ethernet]]-Kabel gleichzeitig mit **Daten** und **Strom** versorgt.

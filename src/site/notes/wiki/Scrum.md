@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/scrum/","tags":["ausbildung/gfn","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.918+02:00","dg-note-properties":{"aliases":null,"created_date":"2024-11-10","links":null,"tags":["ausbildung/gfn","wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/scrum/","tags":["ausbildung/gfn","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2024-11-10","links":null,"tags":["ausbildung/gfn","wirtschaft/projektmanagement"]}}
 ---
 
 >**Scrum** ist ein **agiles [[wiki/Framework\|Framework]]**, das hauptsächlich im Bereich der Softwareentwicklung, aber auch in anderen Bereichen, wie [[wiki/Projektmanagement\|Projektmanagement]] oder Produktentwicklung, verwendet wird. 

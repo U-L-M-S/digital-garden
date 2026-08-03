@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/softwareergonomie/","tags":["ausbildung/gfn","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.756+02:00","dg-note-properties":{"aliases":["Software-Ergonomie"],"created":"2024-06-17 11:03","links":null,"tags":["ausbildung/gfn","informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/softwareergonomie/","tags":["ausbildung/gfn","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Software-Ergonomie"],"created":"2024-06-17 11:03","links":null,"tags":["ausbildung/gfn","informatik/software"]}}
 ---
 
 > Benutzerfreundliche Ausrichtung von Datenverarbeitungsprogrammen.

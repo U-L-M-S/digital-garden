@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml-klassendiagramm/","tags":["ausbildung/pruefung","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.899+02:00","dg-note-properties":{"aliases":["UML Klassendiagramm","UML Class Diagram","UML class diagram","UML-Class-Diagram","UML Class-Diagram","Klassendiagramme"],"created_date":"2024-09-26","links":null,"tags":["ausbildung/pruefung","informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/uml-klassendiagramm/","tags":["ausbildung/pruefung","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["UML Klassendiagramm","UML Class Diagram","UML class diagram","UML-Class-Diagram","UML Class-Diagram","Klassendiagramme"],"created_date":"2024-09-26","links":null,"tags":["ausbildung/pruefung","informatik/software"]}}
 ---
 
 

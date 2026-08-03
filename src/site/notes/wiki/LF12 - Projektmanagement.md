@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-12-projektmanagement/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.604+02:00","dg-note-properties":{"tags":["ausbildung/gfn"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
+{"dg-publish":true,"permalink":"/wiki/lf-12-projektmanagement/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
 ---
 
 # LF12b Tag 1 - [[wiki/Projektmanagement\|Projektmanagement]] Wiederholung

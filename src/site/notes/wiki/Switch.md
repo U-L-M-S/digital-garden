@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/switch/","tags":["ausbildung/gfn","ausbildung/pruefung","informatik/hardware","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.690+02:00","dg-note-properties":{"aliases":null,"created":"2024-07-15 15:43","links":null,"tags":["ausbildung/gfn","ausbildung/pruefung","informatik/hardware","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/switch/","tags":["ausbildung/gfn","ausbildung/pruefung","informatik/hardware","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created":"2024-07-15 15:43","links":null,"tags":["ausbildung/gfn","ausbildung/pruefung","informatik/hardware","informatik/netzwerk"]}}
 ---
 
 >[[wiki/Netzwerk\|Netzwerk]]gerät, das Datenpakete basierend auf [[wiki/MAC Adresse\|MAC Adresse]] an die richtigen Ports weiterleitet. Wenn der Empfänger nicht in der Liste eingetragen ist, wird das Datenpaket an alle weitergeleitet ([[wiki/Broadcast\|Broadcast]]). Hier sind mit 'Ports' die Switch-Anschlüsse gemeint.

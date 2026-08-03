@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/datasource/","tags":["informatik/software","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.651+02:00","dg-note-properties":{"aliases":["data source","datasource","jndi datasource"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/datasource/","tags":["informatik/software","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["data source","datasource","jndi datasource"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software","informatik/datenbank"]}}
 ---
 
 >Eine [[wiki/Datasource\|Datasource]] ist eine Verbindungsfabrik im [[wiki/WildFly\|WildFly]]-Container.

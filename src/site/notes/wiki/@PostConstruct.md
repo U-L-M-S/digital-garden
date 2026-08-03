@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/post-construct/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.942+02:00","dg-note-properties":{"aliases":["post construct","@postconstruct"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/post-construct/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["post construct","@postconstruct"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >[[wiki/@PostConstruct\|@PostConstruct]] ist ein [[wiki/Lifecycle Hook\|Lifecycle Hook]]: läuft **nach** dem Erstellen einer Bean.

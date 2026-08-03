@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/tkip/","tags":["informatik/sicherheit","informatik/netzwerk","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.816+02:00","dg-note-properties":{"aliases":["TKIP","Temporal Key Integrity Protocol","tkip"],"created_date":"2024-08-04","links":null,"tags":["informatik/sicherheit","informatik/netzwerk","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/tkip/","tags":["informatik/sicherheit","informatik/netzwerk","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["TKIP","Temporal Key Integrity Protocol","tkip"],"created_date":"2024-08-04","links":null,"tags":["informatik/sicherheit","informatik/netzwerk","ausbildung/pruefung"]}}
 ---
 
 >**Temporal Key Integrity Protocol (TKIP)** ist ein Sicherheitsprotokoll für [[wiki/WLAN\|WLAN]], das als Übergangslösung entwickelt wurde, um die Schwächen von [[wiki/WEP\|WEP]] zu beheben. Es wurde in [[wiki/Wi-Fi 4\|Wi-Fi 4]] (802.11n) standardisiert.

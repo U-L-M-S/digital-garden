@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sprint/","tags":["wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.835+02:00","dg-note-properties":{"aliases":["sprint"],"created_date":"2024-11-15","links":null,"tags":["wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/sprint/","tags":["wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["sprint"],"created_date":"2024-11-15","links":null,"tags":["wirtschaft/projektmanagement"]}}
 ---
 
 >Ein **Sprint** ist ein zentraler Bestandteil des **Scrum-Frameworks** und bezeichnet einen festen Zeitraum (meist 1–4 Wochen), in dem ein Team ein definiertes Ziel erreicht und ein potenziell nutzbares Produktinkrement liefert. 

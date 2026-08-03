@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/spring/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.614+02:00","dg-note-properties":{"aliases":["spring","Spring Boot"],"created":"2025-10-29 12:00","links":null,"path":"Notes","tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/spring/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["spring","Spring Boot"],"created":"2025-10-29 12:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >**Spring** ist ein [[wiki/Framework\|Framework]] für [[wiki/Java\|Java]], mit dem man vor allem Backend- und Webanwendungen baut.

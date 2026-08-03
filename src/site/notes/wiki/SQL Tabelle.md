@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/sql-tabelle/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.766+02:00","dg-note-properties":{"aliases":["SQL Tabelle","SQL Table"],"created_date":"2024-10-09","links":null,"tags":["informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/sql-tabelle/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["SQL Tabelle","SQL Table"],"created_date":"2024-10-09","links":null,"tags":["informatik/datenbank"]}}
 ---
 
 ```sql

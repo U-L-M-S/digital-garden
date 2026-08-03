@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ecc-speicher/","tags":["informatik/hardware","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.743+02:00","dg-note-properties":{"tags":["informatik/hardware","informatik/sicherheit"],"aliases":["Error Correcting Code","Fehlerkorrigierender Speicher"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/wiki/ecc-speicher/","tags":["informatik/hardware","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/hardware","informatik/sicherheit"],"aliases":["Error Correcting Code","Fehlerkorrigierender Speicher"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 
