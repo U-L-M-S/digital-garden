@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/cpu/","tags":["ausbildung/pruefung","informatik/hardware","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.868+02:00","dg-note-properties":{"tags":["ausbildung/pruefung","informatik/hardware","informatik/software"],"aliases":["Prozessor","Central Processing Unit","Hauptprozessor"],"links":null,"created_date":"2024-12-19"}}
+{"dg-publish":true,"permalink":"/wiki/cpu/","tags":["ausbildung/pruefung","informatik/hardware","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/pruefung","informatik/hardware","informatik/software"],"aliases":["Prozessor","Central Processing Unit","Hauptprozessor"],"links":null,"created_date":"2024-12-19"}}
 ---
 
 

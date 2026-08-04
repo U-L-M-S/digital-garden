@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/l-fzq3a-agile-scrum-foundation/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.711+02:00","dg-note-properties":{"tags":["ausbildung/gfn"],"links":["https://lernplattform.gfn.de/course/view.php?id=15094","https://scrumguides.org/","https://www.examtopics.com/exams/exin/ex0-008/view/#"],"created_date":"2024-11-10"}}
+{"dg-publish":true,"permalink":"/wiki/l-fzq3a-agile-scrum-foundation/","tags":["ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn"],"links":["https://lernplattform.gfn.de/course/view.php?id=15094","https://scrumguides.org/","https://www.examtopics.com/exams/exin/ex0-008/view/#"],"created_date":"2024-11-10"}}
 ---
 
 >Dieses Lernfeld behandelt die Grundlagen von [[wiki/Scrum\|Scrum]].

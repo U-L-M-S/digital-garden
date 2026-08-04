@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dependency-injection/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.734+02:00","dg-note-properties":{"aliases":["dependency injection","di","injection"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/dependency-injection/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["dependency injection","di","injection"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >[[wiki/Dependency Injection\|Dependency Injection]] (DI) bedeutet: nicht du erstellst deine Abhängigkeiten — der Container gibt sie dir.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/blade/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.658+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-07-18","links":null,"tags":["informatik/system"]}}
+{"dg-publish":true,"permalink":"/wiki/blade/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-07-18","links":null,"tags":["informatik/system"]}}
 ---
 
  

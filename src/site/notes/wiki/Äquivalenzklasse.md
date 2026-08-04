@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/aequivalenzklasse/","tags":["informatik/software","wirtschaft/qualitaet","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.757+02:00","dg-note-properties":{"tags":["informatik/software","wirtschaft/qualitaet","ausbildung/pruefung"],"aliases":["Äquivalenzklassenbildung","Equivalence Class","Äquivalenzpartitionierung"],"links":null,"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/wiki/aequivalenzklasse/","tags":["informatik/software","wirtschaft/qualitaet","ausbildung/pruefung"],"noteIcon":"","updated":"2026-08-04T10:50:02.900+02:00","dg-note-properties":{"tags":["informatik/software","wirtschaft/qualitaet","ausbildung/pruefung"],"aliases":["Äquivalenzklassenbildung","Equivalence Class","Äquivalenzpartitionierung"],"links":null,"created_date":"2025-11-12"}}
 ---
 
 >Äquivalenzklassen sind Gruppen von Eingabewerten, die vom System gleich behandelt werden und daher als repräsentativ für die gesamte Gruppe getestet werden können.
@@ -256,6 +256,6 @@ MIT GRENZWERTANALYSE (zusätzlich):
 ## Verwandte Konzepte
 - [[wiki/Testfall\|Testfall]] - Konkrete Testbeschreibung
 - [[Grenzwertanalyse\|Grenzwertanalyse]] - Testen an Grenzen
-- [[Black-Box-Test\|Black-Box-Test]] - Testmethode ohne Code-Kenntnis
+- [[wiki/Black Box Test\|Black-Box-Test]] - Testmethode ohne Code-Kenntnis
 - [[Testabdeckung\|Testabdeckung]] - Wie viel wird getestet?
 - [[Testplan\|Testplan]] - Sammlung von Tests

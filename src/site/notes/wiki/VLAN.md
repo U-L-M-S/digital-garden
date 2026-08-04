@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/vlan/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-05-12T15:58:43.000+02:00","dg-note-properties":{"created":"2024-05-06 16:10","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/vlan/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-05-12T15:58:43.358+02:00","dg-note-properties":{"created":"2024-05-06 16:10","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 > Virtuelles [[wiki/LAN\|LAN]].

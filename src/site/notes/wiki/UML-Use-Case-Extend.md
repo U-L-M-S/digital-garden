@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml-use-case-extend/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.895+02:00","dg-note-properties":{"aliases":["UML-Use-Case-Extend","Extend-Beziehung","Extend Relationship","<<extend>>"],"created_date":"2025-11-06","links":null,"tags":["informatik/software","ausbildung/pruefung"]}}
+{"dg-publish":true,"permalink":"/wiki/uml-use-case-extend/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["UML-Use-Case-Extend","Extend-Beziehung","Extend Relationship","<<extend>>"],"created_date":"2025-11-06","links":null,"tags":["informatik/software","ausbildung/pruefung"]}}
 ---
 
 >Eine **Extend-Beziehung** zeigt, dass ein Use Case einen anderen Use Case **optional** erweitern kann.

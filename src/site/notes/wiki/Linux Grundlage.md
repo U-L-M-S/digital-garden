@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/linux-grundlage/","tags":["ausbildung/gfn","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:27.001+02:00","dg-note-properties":{"tags":["ausbildung/gfn","informatik/system"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
+{"dg-publish":true,"permalink":"/wiki/linux-grundlage/","tags":["ausbildung/gfn","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn","informatik/system"],"aliases":null,"links":null,"created_date":"2025-09-05"}}
 ---
 
 # Linux Grundlagen

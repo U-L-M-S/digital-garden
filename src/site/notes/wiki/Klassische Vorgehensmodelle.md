@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/klassische-vorgehensmodelle/","tags":["wirtschaft/projektmanagement","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.764+02:00","dg-note-properties":{"aliases":["Klassisches Vorgehensmodelle"],"created":"2024-06-15 23:49","links":null,"tags":["wirtschaft/projektmanagement","ausbildung/gfn"]}}
+{"dg-publish":true,"permalink":"/wiki/klassische-vorgehensmodelle/","tags":["wirtschaft/projektmanagement","ausbildung/gfn"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Klassisches Vorgehensmodelle"],"created":"2024-06-15 23:49","links":null,"tags":["wirtschaft/projektmanagement","ausbildung/gfn"]}}
 ---
 
 >**Klassische Vorgehensmodelle** sind traditionellere Ansätze im [[wiki/Projektmanagement\|Projektmanagement]], die einen strukturierten und planvollen Verlauf des Projekts betonen. Sie folgen einem festen, sequentiellen Ablauf, bei dem jede Phase abgeschlossen sein muss, bevor die nächste begonnen wird.  

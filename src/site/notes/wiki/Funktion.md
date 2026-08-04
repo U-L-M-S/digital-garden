@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/funktion/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.807+02:00","dg-note-properties":{"aliases":["function"],"created_date":"2024-09-23","links":null,"tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/funktion/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["function"],"created_date":"2024-09-23","links":null,"tags":["informatik/code"]}}
 ---
 
 >Es ist ein Block von wiederverwendbarem Code, der eine bestimmte Aufgabe ausführt.

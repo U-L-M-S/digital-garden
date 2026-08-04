@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/jpa/","tags":["informatik/software","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.706+02:00","dg-note-properties":{"aliases":["Java Persistence API","Jakarta Persistence","jpa"],"created":"2026-05-19 19:00","links":"https://jakarta.ee/specifications/persistence/","path":"Notes","tags":["informatik/software","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/jpa/","tags":["informatik/software","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Java Persistence API","Jakarta Persistence","jpa"],"created":"2026-05-19 19:00","links":"https://jakarta.ee/specifications/persistence/","path":"Notes","tags":["informatik/software","informatik/datenbank"]}}
 ---
 
 >[[wiki/JPA\|JPA]] (Jakarta Persistence API) ist der Standard für [[Object Relational Mapping\|ORM]] in [[wiki/Jakarta EE\|Jakarta EE]].

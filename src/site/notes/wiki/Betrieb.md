@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/betrieb/","tags":["ausbildung/gfn","wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.758+02:00","dg-note-properties":{"created":"2023-10-14 12:26","links":null,"path":"Notes","tags":["ausbildung/gfn","wirtschaft/allgemein"]}}
+{"dg-publish":true,"permalink":"/wiki/betrieb/","tags":["ausbildung/gfn","wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2023-10-14 12:26","links":null,"path":"Notes","tags":["ausbildung/gfn","wirtschaft/allgemein"]}}
 ---
 
 ## Betrieb 

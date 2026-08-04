@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/wi-fi-6/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.843+02:00","dg-note-properties":{"aliases":["Wi-Fi 6","WLAN 6","802.11ax"],"created":"2024-08-04 22:32","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/wi-fi-6/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Wi-Fi 6","WLAN 6","802.11ax"],"created":"2024-08-04 22:32","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 ![Wi-Fi 6-20240804223321671.png\|371](/img/user/assets/IMG/Wi-Fi%206-20240804223321671.png)

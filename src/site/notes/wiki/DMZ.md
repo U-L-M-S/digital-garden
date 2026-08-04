@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dmz/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.628+02:00","dg-note-properties":{"aliases":["DMZ","Demilitarisierte Zone"],"created":"2024-08-03 23:55","links":null,"path":"Notes","tags":["informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/dmz/","tags":["informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["DMZ","Demilitarisierte Zone"],"created":"2024-08-03 23:55","links":null,"path":"Notes","tags":["informatik/sicherheit"]}}
 ---
 
 ![DMZ-20240804000213781.png](/img/user/assets/IMG/DMZ-20240804000213781.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/big-o/","tags":["informatik/code","meta/status"],"noteIcon":"","updated":"2026-07-19T03:56:26.928+02:00","dg-note-properties":{"aliases":["Zeitkomplexität","time-complexity","time complexity"],"created":"2024-07-28 22:10","links":["https://www.youtube.com/shorts/WbF2bLbAUik"],"tags":["informatik/code","meta/status"]}}
+{"dg-publish":true,"permalink":"/wiki/big-o/","tags":["informatik/code","meta/status"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Zeitkomplexität","time-complexity","time complexity"],"created":"2024-07-28 22:10","links":["https://www.youtube.com/shorts/WbF2bLbAUik"],"tags":["informatik/code","meta/status"]}}
 ---
 
 >Notation in der Informatik, die verwendet wird, um die Effizienz von Algorithmen zu beschreiben, insbesondere in Bezug auf ihre Laufzeit oder ihren Speicherbedarf, wenn die Größe der Eingabe wächst. 

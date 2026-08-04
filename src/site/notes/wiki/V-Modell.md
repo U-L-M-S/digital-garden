@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/v-modell/","tags":["ausbildung/gfn","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.817+02:00","dg-note-properties":{"aliases":["V Modell"],"created_date":"2024-11-10","links":["https://www.youtube.com/watch?v=kl9NNiZGigs"],"tags":["ausbildung/gfn","wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/v-modell/","tags":["ausbildung/gfn","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["V Modell"],"created_date":"2024-11-10","links":["https://www.youtube.com/watch?v=kl9NNiZGigs"],"tags":["ausbildung/gfn","wirtschaft/projektmanagement"]}}
 ---
 
 >Es ist ein [[wiki/Klassische Vorgehensmodelle\|Klassisches Vorgehensmodell]].

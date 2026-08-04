@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kubernetes-volumes/","tags":["informatik/hardware","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.802+02:00","dg-note-properties":{"aliases":["Kubernetes Volumes","K8s Volumes","PersistentVolume","PersistentVolumeClaim","PV","PVC"],"created_date":"2025-11-06","links":null,"tags":["informatik/hardware","informatik/system"]}}
+{"dg-publish":true,"permalink":"/wiki/kubernetes-volumes/","tags":["informatik/hardware","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Kubernetes Volumes","K8s Volumes","PersistentVolume","PersistentVolumeClaim","PV","PVC"],"created_date":"2025-11-06","links":null,"tags":["informatik/hardware","informatik/system"]}}
 ---
 
 >**Volumes** in [[wiki/Kubernetes\|Kubernetes]] ermöglichen [[wiki/Kubernetes Pods\|Pods]] Daten persistent zu speichern über Container-Neustarts hinweg.

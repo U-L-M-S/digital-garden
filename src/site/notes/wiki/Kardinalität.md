@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kardinalitaet/","tags":["ausbildung/pruefung","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.698+02:00","dg-note-properties":{"created":"2024-05-14 08:49","links":null,"path":"Notes","tags":["ausbildung/pruefung","informatik/datenbank"],"aliases":["Multiplizität","Beziehungskardinalität","kardinalität"]}}
+{"dg-publish":true,"permalink":"/wiki/kardinalitaet/","tags":["ausbildung/pruefung","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-05-14 08:49","links":null,"path":"Notes","tags":["ausbildung/pruefung","informatik/datenbank"],"aliases":["Multiplizität","Beziehungskardinalität","kardinalität"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dot-net/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.958+02:00","dg-note-properties":{"aliases":["dotnet",".net","microsoft .net"],"created":"2026-05-19 19:00","links":"https://dotnet.microsoft.com/","path":"Notes","tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/dot-net/","tags":["informatik/code"],"noteIcon":"","updated":"2026-08-04T10:40:16.140+02:00","dg-note-properties":{"aliases":["dotnet",".net","microsoft .net"],"created":"2026-05-19 19:00","links":"https://dotnet.microsoft.com/","path":"Notes","tags":["informatik/code"]}}
 ---
 
 >[[wiki/dotNET\|dotNET]] ist Microsofts plattformübergreifende Entwicklungsplattform für Web-, Desktop-, Mobile-, Cloud- und Spiele-Apps.
@@ -95,7 +95,7 @@ Was du mit [[wiki/dotNET\|dotNET]] bauen kannst:
 
 # VI. Mapping zu [[wiki/Jakarta EE\|Jakarta EE]]
 ___
-Meine mentale Brücke beim Jakarta-EE-Lernen bei [[inbox/Muckenhirn\|Muckenhirn]]:
+Meine mentale Brücke beim Jakarta-EE-Lernen bei [[inbox/Muckenhirn Automation GmbH\|Muckenhirn Automation GmbH]]:
 
 | [[wiki/dotNET\|dotNET]] | [[wiki/Jakarta EE\|Jakarta EE]] |
 |---|---|

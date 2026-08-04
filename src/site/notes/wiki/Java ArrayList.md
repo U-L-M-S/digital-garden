@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-array-list/","tags":["informatik/code","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.922+02:00","dg-note-properties":{"tags":["informatik/code","informatik/software"],"aliases":["java ArrayList"],"links":null,"created_date":"2026-02-10"}}
+{"dg-publish":true,"permalink":"/wiki/java-array-list/","tags":["informatik/code","informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/code","informatik/software"],"aliases":["java ArrayList"],"links":null,"created_date":"2026-02-10"}}
 ---
 
 ```java

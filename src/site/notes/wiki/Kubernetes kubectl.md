@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kubernetes-kubectl/","tags":["informatik/system","meta/tools"],"noteIcon":"","updated":"2026-07-19T03:56:26.651+02:00","dg-note-properties":{"aliases":["kubectl","Kubernetes CLI","K8s CLI"],"created_date":"2025-11-06","links":null,"tags":["informatik/system","meta/tools"]}}
+{"dg-publish":true,"permalink":"/wiki/kubernetes-kubectl/","tags":["informatik/system","meta/tools"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["kubectl","Kubernetes CLI","K8s CLI"],"created_date":"2025-11-06","links":null,"tags":["informatik/system","meta/tools"]}}
 ---
 
 >**kubectl** ist das Command-Line Tool zur Interaktion mit [[wiki/Kubernetes\|Kubernetes]]-Clustern.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dezimal/","tags":["mathematik/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.722+02:00","dg-note-properties":{"aliases":["dezimal"],"created":"2024-07-25 15:24","links":null,"path":"Notes","tags":["mathematik/allgemein"]}}
+{"dg-publish":true,"permalink":"/wiki/dezimal/","tags":["mathematik/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["dezimal"],"created":"2024-07-25 15:24","links":null,"path":"Notes","tags":["mathematik/allgemein"]}}
 ---
 
 >Zahlsystem, das auf der Basis 10 basiert.

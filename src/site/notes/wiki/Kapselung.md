@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kapselung/","tags":["informatik/software","informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.976+02:00","dg-note-properties":{"tags":["informatik/software","informatik/code","ausbildung/pruefung"],"aliases":["Encapsulation","Data Hiding","Datenkapselung"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/kapselung/","tags":["informatik/software","informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software","informatik/code","ausbildung/pruefung"],"aliases":["Encapsulation","Data Hiding","Datenkapselung"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

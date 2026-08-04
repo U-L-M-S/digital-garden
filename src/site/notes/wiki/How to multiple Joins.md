@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/how-to-multiple-joins/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.652+02:00","dg-note-properties":{"tags":["informatik/datenbank","ausbildung/pruefung"],"aliases":null,"links":null,"created_date":"2026-04-23"}}
+{"dg-publish":true,"permalink":"/wiki/how-to-multiple-joins/","tags":["informatik/datenbank","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/datenbank","ausbildung/pruefung"],"aliases":null,"links":null,"created_date":"2026-04-23"}}
 ---
 
 > Systematische 4-Schritte-Methode, um [[wiki/SQL\|SQL]]-Abfragen mit mehreren (3+) Tabellen sauber aufzubauen.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/entity/","tags":["informatik/software","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.723+02:00","dg-note-properties":{"aliases":["entity","jpa entity","@entity"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software","informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/entity/","tags":["informatik/software","informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["entity","jpa entity","@entity"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software","informatik/datenbank"]}}
 ---
 
 >[[wiki/@Entity\|@Entity]] markiert eine [[wiki/POJO\|POJO]]-Klasse als [[wiki/JPA\|JPA]]-managed.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/container-proxy/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.757+02:00","dg-note-properties":{"aliases":["container proxy","ejb proxy","bean proxy"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/container-proxy/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["container proxy","ejb proxy","bean proxy"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >Du bekommst **niemals** eine [[wiki/Enterprise Java Bean\|EJB]] direkt — der [[wiki/WildFly\|WildFly]]-Container gibt dir einen [[wiki/Proxy\|Proxy]].

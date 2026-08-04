@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/docker/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.667+02:00","dg-note-properties":{"aliases":["Docker","Container Platform","Docker Engine"],"created_date":"2024-09-04","links":null,"tags":["informatik/system"]}}
+{"dg-publish":true,"permalink":"/wiki/docker/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Docker","Container Platform","Docker Engine"],"created_date":"2024-09-04","links":null,"tags":["informatik/system"]}}
 ---
 
 >**Docker** ist eine [[wiki/Containerisierung\|Containerisierung]]s-Plattform, die Anwendungen in isolierten Umgebungen verpackt und startet.

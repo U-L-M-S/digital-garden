@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/docker-container/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.767+02:00","dg-note-properties":{"aliases":["Docker Container","Container"],"created_date":"2024-09-04","links":null,"tags":["informatik/system"]}}
+{"dg-publish":true,"permalink":"/wiki/docker-container/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Docker Container","Container"],"created_date":"2024-09-04","links":null,"tags":["informatik/system"]}}
 ---
 
 >**Docker Container** sind laufende Instanzen von [[wiki/Docker Image\|Docker Image]]s mit isolierter Laufzeitumgebung.

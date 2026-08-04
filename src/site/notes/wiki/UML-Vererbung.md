@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/uml-vererbung/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.942+02:00","dg-note-properties":{"aliases":[],"created_date":"2024-11-06","links":null,"tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/uml-vererbung/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":[],"created_date":"2024-11-06","links":null,"tags":["informatik/software"]}}
 ---
 
 >In [[wiki/UML\|UML]] wird Vererbung durch eine Pfeil-Linie mit einer leeren Spitze dargestellt. 

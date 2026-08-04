@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/let-s-encrypt/","tags":["informatik/sicherheit","ausbildung/zertifikate"],"noteIcon":"","updated":"2026-07-19T03:56:26.706+02:00","dg-note-properties":{"aliases":["Lets Encrypt","LE"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit","ausbildung/zertifikate"]}}
+{"dg-publish":true,"permalink":"/wiki/let-s-encrypt/","tags":["informatik/sicherheit","ausbildung/zertifikate"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Lets Encrypt","LE"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit","ausbildung/zertifikate"]}}
 ---
 
 > Kostenlose Zertifizierungsstelle (Certificate Authority)

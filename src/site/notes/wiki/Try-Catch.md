@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/try-catch/","tags":["informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.877+02:00","dg-note-properties":{"tags":["informatik/code","ausbildung/pruefung"],"aliases":["try catch","Try-Catch-Block","Exception Handling"],"links":null,"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/wiki/try-catch/","tags":["informatik/code","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/code","ausbildung/pruefung"],"aliases":["try catch","Try-Catch-Block","Exception Handling"],"links":null,"created_date":"2025-11-12"}}
 ---
 
 >Try-Catch ist ein Konstrukt zur Behandlung von [[wiki/Exception\|Exception]]s (Ausnahmen) in der Programmierung.

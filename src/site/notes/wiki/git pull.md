@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/git-pull/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.974+02:00","dg-note-properties":{"tags":["informatik/system"]}}
+{"dg-publish":true,"permalink":"/wiki/git-pull/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/system"]}}
 ---
 
 >Es funktioniert fast wie [[wiki/git clone\|git clone]]. Wird aber oft verwendet, wenn du im Team arbeitest und die neueste Version deines Codes (das, was in GitHub ist) willst.

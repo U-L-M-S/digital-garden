@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/subnetting/","tags":["ausbildung/pruefung","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.805+02:00","dg-note-properties":{"aliases":["Subnetting","subnetting"],"created":"2024-07-25 11:04","links":null,"path":"Notes","tags":["ausbildung/pruefung","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/subnetting/","tags":["ausbildung/pruefung","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Subnetting","subnetting"],"created":"2024-07-25 11:04","links":null,"path":"Notes","tags":["ausbildung/pruefung","informatik/netzwerk"]}}
 ---
 
 >Beim [[wiki/Subnetting\|Subnetting]] wird ein großes [[wiki/Netzwerk\|Netz]] in kleinere Netze unterteilt. 

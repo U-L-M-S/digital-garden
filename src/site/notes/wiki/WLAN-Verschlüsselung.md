@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/wlan-verschluesselung/","tags":["informatik/netzwerk","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.895+02:00","dg-note-properties":{"aliases":["WLAN-Verschlüsselung","Wi-Fi Verschlüsselung"],"created":"2024-08-04 22:36","links":null,"path":"Notes","tags":["informatik/netzwerk","informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/wlan-verschluesselung/","tags":["informatik/netzwerk","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["WLAN-Verschlüsselung","Wi-Fi Verschlüsselung"],"created":"2024-08-04 22:36","links":null,"path":"Notes","tags":["informatik/netzwerk","informatik/sicherheit"]}}
 ---
 
 >[[wiki/WLAN\|WLAN]] ist ein offenes [[wiki/Netzwerk\|Netzwerk]], das bedeutet, dass jeder mithören und sehen kann, was passiert, da die Übertragung über Funkwellen erfolgt. 

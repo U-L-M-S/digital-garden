@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kubernetes-ingress/","tags":["informatik/system","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.665+02:00","dg-note-properties":{"aliases":["Kubernetes Ingress","K8s Ingress","Ingress Controller"],"created_date":"2025-11-06","links":null,"tags":["informatik/system","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/kubernetes-ingress/","tags":["informatik/system","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Kubernetes Ingress","K8s Ingress","Ingress Controller"],"created_date":"2025-11-06","links":null,"tags":["informatik/system","informatik/netzwerk"]}}
 ---
 
 >**Ingress** ist eine [[wiki/Kubernetes\|Kubernetes]] API zur Verwaltung externen HTTP/HTTPS Zugriffs auf [[wiki/Kubernetes Services\|Services]].

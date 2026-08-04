@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/entitaet/","tags":["informatik/datenbank","informatik/allgemein","ausbildung/pruefung","mindset/psychologie"],"noteIcon":"","updated":"2026-07-19T03:56:26.824+02:00","dg-note-properties":{"created":"2024-05-15 15:44","links":null,"path":"Notes","tags":["informatik/datenbank","informatik/allgemein","ausbildung/pruefung","mindset/psychologie"],"aliases":["Entity","Objekt","Datenbankentität"],"created_date":"2025-11-12"}}
+{"dg-publish":true,"permalink":"/wiki/entitaet/","tags":["informatik/datenbank","informatik/allgemein","ausbildung/pruefung","mindset/psychologie"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-05-15 15:44","links":null,"path":"Notes","tags":["informatik/datenbank","informatik/allgemein","ausbildung/pruefung","mindset/psychologie"],"aliases":["Entity","Objekt","Datenbankentität"],"created_date":"2025-11-12"}}
 ---
 
 >Eine Entität ist ein eindeutig identifizierbares Objekt der realen Welt oder der Vorstellungswelt.

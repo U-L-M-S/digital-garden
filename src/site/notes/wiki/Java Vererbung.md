@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-vererbung/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.629+02:00","dg-note-properties":{"created":"2024-06-21 16:24","links":null,"path":["Notes"],"tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/java-vererbung/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-06-21 16:24","links":null,"path":["Notes"],"tags":["informatik/code"]}}
 ---
 
 >In [[wiki/Java\|Java]] ermöglicht die [[wiki/UML-Vererbung\|Vererbung]], dass eine [[wiki/Klasse\|Klasse]] (die _Kindklasse_ oder _Subklasse_) von einer anderen [[wiki/Klasse\|Klasse]] (der _Elternklasse_ oder _Superklasse_) erbt. 

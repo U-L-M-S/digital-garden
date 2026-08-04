@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/else-if-bedingung/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.705+02:00","dg-note-properties":{"aliases":["ELSE IF"],"created_date":"2024-10-25","links":null,"tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/else-if-bedingung/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["ELSE IF"],"created_date":"2024-10-25","links":null,"tags":["informatik/code"]}}
 ---
 
 >Eine `else if`-Bedingung prüft eine zusätzliche Bedingung, falls die vorherige [[wiki/IF-Bedingung\|if-Bedingung]] **falsch** war. 

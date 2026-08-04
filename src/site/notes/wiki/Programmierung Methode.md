@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/programmierung-methode/","tags":["informatik/software","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.611+02:00","dg-note-properties":{"created":"2024-06-24 12:49","links":null,"path":["Notes"],"tags":["informatik/software","wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/programmierung-methode/","tags":["informatik/software","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2024-06-24 12:49","links":null,"path":["Notes"],"tags":["informatik/software","wirtschaft/projektmanagement"]}}
 ---
 
 >Eine **Methode** ist ein systematischer, geordneter und oft wiederholbarer Ansatz, um ein bestimmtes Ziel zu erreichen oder ein Problem zu lösen. Sie beschreibt den Weg, den man geht, um eine Aufgabe zu erledigen, und umfasst eine Reihe von Schritten oder Handlungen, die in einer bestimmten Reihenfolge ausgeführt werden.

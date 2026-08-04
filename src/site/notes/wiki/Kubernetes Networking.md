@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kubernetes-networking/","tags":["informatik/system","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.687+02:00","dg-note-properties":{"aliases":["Kubernetes Networking","K8s Networking","Container Networking"],"created_date":"2025-11-06","links":null,"tags":["informatik/system","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/kubernetes-networking/","tags":["informatik/system","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Kubernetes Networking","K8s Networking","Container Networking"],"created_date":"2025-11-06","links":null,"tags":["informatik/system","informatik/netzwerk"]}}
 ---
 
 >**Kubernetes Networking** verbindet [[wiki/Kubernetes Pods\|Pods]], [[wiki/Kubernetes Services\|Services]] und externe Clients über ein Cluster-weites Netzwerk.

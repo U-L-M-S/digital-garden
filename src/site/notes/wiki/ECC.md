@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ecc/","tags":["ausbildung/pruefung","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.864+02:00","dg-note-properties":{"aliases":["Elliptic Curve Cryptography"],"created_date":"2025-03-18","links":null,"tags":["ausbildung/pruefung","informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/ecc/","tags":["ausbildung/pruefung","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Elliptic Curve Cryptography"],"created_date":"2025-03-18","links":null,"tags":["ausbildung/pruefung","informatik/sicherheit"]}}
 ---
 
 >Es ist ein Asymmetrische Verschlüsselungsverfahren, das auf der [[wiki/Mathe\|Mathematik]] elliptischer Kurven basiert.

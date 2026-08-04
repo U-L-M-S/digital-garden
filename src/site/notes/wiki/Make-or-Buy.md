@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/make-or-buy/","tags":["wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.721+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-19","links":null,"tags":["wirtschaft/allgemein"]}}
+{"dg-publish":true,"permalink":"/wiki/make-or-buy/","tags":["wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-19","links":null,"tags":["wirtschaft/allgemein"]}}
 ---
 
 > Entscheidung, ob ein [[wiki/Unternehmen\|Unternehmen]] ein Produkt/Service **selbst produziert (Make)** oder von externen Anbietern **einkauft (Buy)**.

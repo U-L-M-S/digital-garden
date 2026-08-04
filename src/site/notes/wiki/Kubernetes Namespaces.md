@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kubernetes-namespaces/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.981+02:00","dg-note-properties":{"aliases":["Kubernetes Namespaces","K8s Namespace","Namespace"],"created_date":"2025-11-06","links":null,"tags":["informatik/system"]}}
+{"dg-publish":true,"permalink":"/wiki/kubernetes-namespaces/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Kubernetes Namespaces","K8s Namespace","Namespace"],"created_date":"2025-11-06","links":null,"tags":["informatik/system"]}}
 ---
 
 >Ein **Namespace** ist eine virtuelle Trennung innerhalb eines [[wiki/Kubernetes\|Kubernetes]]-Clusters, die Ressourcen isoliert und organisiert.

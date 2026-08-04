@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ejb-jar/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.935+02:00","dg-note-properties":{"aliases":["ejb jar","ejb-jar"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/ejb-jar/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["ejb jar","ejb-jar"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >Ein [[wiki/EJB-Jar\|EJB-Jar]] ist eine JAR-Datei mit nur [[wiki/Enterprise Java Bean\|EJB]]s — ohne Web-Schicht.

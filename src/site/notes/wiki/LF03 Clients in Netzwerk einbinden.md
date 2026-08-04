@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-03-clients-in-netzwerk-einbinden/","tags":["informatik/netzwerk","ausbildung/gfn","meta/status"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/netzwerk","ausbildung/gfn","meta/status"],"links":"https://lernplattform.gfn.de/course/view.php?id=12581","reference":null,"created":"2024-05-03 18:07"}}
+{"dg-publish":true,"permalink":"/wiki/lf-03-clients-in-netzwerk-einbinden/","tags":["informatik/netzwerk","ausbildung/gfn","meta/status"],"noteIcon":"","updated":"2026-08-04T10:50:03.070+02:00","dg-note-properties":{"tags":["informatik/netzwerk","ausbildung/gfn","meta/status"],"links":"https://lernplattform.gfn.de/course/view.php?id=12581","reference":null,"created":"2024-05-03 18:07"}}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
@@ -30,7 +30,7 @@ Stell dir vor, in einer WG teilt jeder seine Sachen mit anderen - jeder ist glei
 
 ### [[wiki/Client-Server-Netzwerk\|Client-Server-Netzwerk]]
 
-In größeren Organisationen braucht man Ordnung. Hier gibt es [[wiki/dedizierte Server\|dedizierte Server]], die wie ein Hausmeister für bestimmte Aufgaben zuständig sind - [[wiki/File-Server\|File-Server]], [[wiki/Print-Server\|Print-Server]], [[wiki/Mail-Server\|Mail-Server]], [[DNS-Server\|DNS-Server]], usw.
+In größeren Organisationen braucht man Ordnung. Hier gibt es [[wiki/dedizierte Server\|dedizierte Server]], die wie ein Hausmeister für bestimmte Aufgaben zuständig sind - [[wiki/File-Server\|File-Server]], [[wiki/Print-Server\|Print-Server]], [[wiki/Mail-Server\|Mail-Server]], [[wiki/DNS Server\|DNS-Server]], usw.
 
 ## Netzwerktypen nach Reichweite
 
@@ -130,7 +130,7 @@ Stell dir vor, du schickst einen Brief ins Ausland. Verschiedene Personen/System
 
 Das ist das "Grundgesetz" für [[wiki/LAN\|LAN]]-Kommunikation. Daten werden in [[wiki/Ethernetframes\|Ethernetframes]] verpackt mit:
 
-- [[MAC-Adresse\|MAC-Adresse]] (Absender/Empfänger)
+- [[wiki/MAC Adresse\|MAC-Adresse]] (Absender/Empfänger)
 - [[wiki/EtherType\|EtherType]] (Welches Protokoll?)
 - Nutzdaten
 - [[wiki/Prüfsumme\|Prüfsumme]]
@@ -159,16 +159,16 @@ Wie Hausnummern für Programme:
 
 Ein [[wiki/Switch\|Switch]] ist wie ein intelligenter Postbote, der sich merkt, wer wo wohnt:
 
-### [[MAC-Adresse\|MAC-Adresse]]n lernen
+### [[wiki/MAC Adresse\|MAC-Adresse]]n lernen
 
-1. **Lernen**: [[wiki/Switch\|Switch]] merkt sich, über welchen Port welche [[MAC-Adresse\|MAC-Adresse]] erreichbar ist
+1. **Lernen**: [[wiki/Switch\|Switch]] merkt sich, über welchen Port welche [[wiki/MAC Adresse\|MAC-Adresse]] erreichbar ist
 2. **Weiterleiten**: Bekannte Adressen werden direkt weitergeleitet
 3. **Fluten**: Unbekannte Adressen werden an alle Ports gesendet ([[wiki/Broadcast\|Broadcast]])
 4. **Altern**: Alte Einträge werden gelöscht
 
 ### [[wiki/arp\|ARP]] (Address Resolution Protocol)
 
-Wie findet man die [[MAC-Adresse\|MAC-Adresse]] zu einer [[wiki/IP-Adresse\|IP-Adresse]]?
+Wie findet man die [[wiki/MAC Adresse\|MAC-Adresse]] zu einer [[wiki/IP-Adresse\|IP-Adresse]]?
 
 - [[wiki/ARP-Request\|ARP-Request]]: "Wer hat IP 192.168.1.10?" ([[wiki/Broadcast\|Broadcast]])
 - [[wiki/ARP-Reply\|ARP-Reply]]: "Ich! Meine MAC ist XX:XX:XX:XX:XX:XX" ([[wiki/Unicast\|Unicast]])
@@ -276,7 +276,7 @@ Funktioniert ähnlich wie [[wiki/IPv4\|IPv4]], aber:
 
 ---
 
-> Stell dir vor, du müsstest jedem neuen Gerät im Netzwerk manuell eine [[wiki/IP-Adresse\|IP-Adresse]], [[wiki/Gateway\|Gateway]] und [[DNS-Server\|DNS-Server]] zuweisen. Bei 100 Geräten wärst du Wochen beschäftigt!
+> Stell dir vor, du müsstest jedem neuen Gerät im Netzwerk manuell eine [[wiki/IP-Adresse\|IP-Adresse]], [[wiki/Gateway\|Gateway]] und [[wiki/DNS Server\|DNS-Server]] zuweisen. Bei 100 Geräten wärst du Wochen beschäftigt!
 
 ## [[wiki/DHCPv4\|DHCPv4]] (Dynamic Host Configuration Protocol)
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/architektur-pattern/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.840+02:00","dg-note-properties":{"tags":["informatik/software","ausbildung/pruefung"],"aliases":["Architectural Patterns","System-Patterns","Software-Architektur-Muster"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/architektur-pattern/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software","ausbildung/pruefung"],"aliases":["Architectural Patterns","System-Patterns","Software-Architektur-Muster"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

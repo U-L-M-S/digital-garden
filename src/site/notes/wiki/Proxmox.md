@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/proxmox/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.604+02:00","dg-note-properties":{"aliases":["Proxmox VE"],"created":"2025-01-07","path":"Notes","tags":["informatik/system"]}}
+{"dg-publish":true,"permalink":"/wiki/proxmox/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Proxmox VE"],"created":"2025-01-07","path":"Notes","tags":["informatik/system"]}}
 ---
 
 > Proxmox VE (Virtual Environment)

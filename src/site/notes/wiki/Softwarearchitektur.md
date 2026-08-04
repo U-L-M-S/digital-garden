@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/softwarearchitektur/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.863+02:00","dg-note-properties":{"tags":["informatik/software","ausbildung/pruefung"],"aliases":["Software-Architektur","Architektur","Software Architecture"],"links":null,"created_date":"2025-11-07"}}
+{"dg-publish":true,"permalink":"/wiki/softwarearchitektur/","tags":["informatik/software","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software","ausbildung/pruefung"],"aliases":["Software-Architektur","Architektur","Software Architecture"],"links":null,"created_date":"2025-11-07"}}
 ---
 
 >**Softwarearchitektur** beschreibt die grundlegende Struktur und Organisation eines [[wiki/Software\|Software]]-Systems.

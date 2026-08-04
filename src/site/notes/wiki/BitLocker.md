@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/bit-locker/","tags":["informatik/sicherheit","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.896+02:00","dg-note-properties":{"tags":["informatik/sicherheit","informatik/system"],"aliases":["Windows BitLocker","Festplattenverschlüsselung","Full Disk Encryption"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/bit-locker/","tags":["informatik/sicherheit","informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/sicherheit","informatik/system"],"aliases":["Windows BitLocker","Festplattenverschlüsselung","Full Disk Encryption"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

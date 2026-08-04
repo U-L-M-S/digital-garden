@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kubernetes-helm/","tags":["informatik/system","meta/tools"],"noteIcon":"","updated":"2026-07-19T03:56:26.932+02:00","dg-note-properties":{"aliases":["Helm","Kubernetes Helm","K8s Package Manager","Helm Charts"],"created_date":"2025-11-06","links":null,"tags":["informatik/system","meta/tools"]}}
+{"dg-publish":true,"permalink":"/wiki/kubernetes-helm/","tags":["informatik/system","meta/tools"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Helm","Kubernetes Helm","K8s Package Manager","Helm Charts"],"created_date":"2025-11-06","links":null,"tags":["informatik/system","meta/tools"]}}
 ---
 
 >**Helm** ist ein Package Manager für [[wiki/Kubernetes\|Kubernetes]] der komplexe Applikationen als wiederverwendbare Charts verpackt.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/framework/","tags":["informatik/software","informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.647+02:00","dg-note-properties":{"aliases":["framework"],"created_date":"2024-10-25","links":null,"tags":["informatik/software","informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/framework/","tags":["informatik/software","informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["framework"],"created_date":"2024-10-25","links":null,"tags":["informatik/software","informatik/code"]}}
 ---
 
 >Es ist ein **Gerüst**, das in verschiedenen Bereichen (z. B. Softwareentwicklung, [[wiki/Projektmanagement\|Projektmanagement]]) verwendet wird, um Prozesse oder Aufgaben zu erleichtern und zu strukturieren.

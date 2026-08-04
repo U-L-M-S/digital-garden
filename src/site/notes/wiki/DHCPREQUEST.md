@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dhcprequest/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.744+02:00","dg-note-properties":{"aliases":null,"created":"2024-08-02 01:51","links":null,"tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/dhcprequest/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created":"2024-08-02 01:51","links":null,"tags":["informatik/netzwerk"]}}
 ---
 
 >Die Nachricht, die vom Client gesendet wird, um das Angebot eines [[wiki/DHCP-Server\|DHCP-Server]]s anzunehmen und die gewünschten Konfigurationsparameter zu bestätigen.

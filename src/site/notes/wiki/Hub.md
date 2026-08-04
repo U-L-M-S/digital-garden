@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/hub/","tags":["ausbildung/pruefung","informatik/hardware","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.669+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-16","links":null,"tags":["ausbildung/pruefung","informatik/hardware","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/hub/","tags":["ausbildung/pruefung","informatik/hardware","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-16","links":null,"tags":["ausbildung/pruefung","informatik/hardware","informatik/netzwerk"]}}
 ---
 
 >Ein **Hub** ist ein einfaches [[wiki/Netzwerk\|Netzwerk]]gerät, das alle empfangenen [[wiki/Datenpakete\|Datenpakete]] **an alle Ports gleichzeitig** weiterleitet, unabhängig davon, wer der Empfänger ist.

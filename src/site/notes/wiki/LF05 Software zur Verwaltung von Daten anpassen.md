@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-05-software-zur-verwaltung-von-daten-anpassen/","tags":["status/in-progress","informatik/datenbank","informatik/code/sql","informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2026-07-19T04:02:20.015+02:00","dg-note-properties":{"tags":["status/in-progress","informatik/datenbank","informatik/code/sql","informatik/programmierung/sprachen/python"],"links":null,"reference":null,"path":"GFN","created":"2024-05-03 18:10"}}
+{"dg-publish":true,"permalink":"/wiki/lf-05-software-zur-verwaltung-von-daten-anpassen/","tags":["status/in-progress","informatik/datenbank","informatik/code/sql","informatik/programmierung/sprachen/python"],"noteIcon":"","updated":"2026-08-04T10:50:03.071+02:00","dg-note-properties":{"tags":["status/in-progress","informatik/datenbank","informatik/code/sql","informatik/programmierung/sprachen/python"],"links":null,"reference":null,"path":"GFN","created":"2024-05-03 18:10"}}
 ---
 
 > Du kannst gerne unter [meinem GitHub](https://github.com/U-L-M-S/digital-garden) mithelfen.
@@ -99,7 +99,7 @@ ___
 
 ## Test‑Landkarte
 - Stufen: [[Modultest\|Modultest]] → [[wiki/Integrationstest\|Integrationstest]] → [[wiki/Systemtest\|Systemtest]] → [[Abnahmetest\|Abnahmetest]]
-- Verfahren: [[Black-Box-Test\|Black-Box-Test]] (Spezifikation), [[White-Box-Test\|White-Box-Test]] (Code‑Struktur)
+- Verfahren: [[wiki/Black Box Test\|Black-Box-Test]] (Spezifikation), [[White-Box-Test\|White-Box-Test]] (Code‑Struktur)
 - Flow (optional [[wiki/tdd\|TDD]]): RED → GREEN → REFACTOR
 
 ## Doku‑Arten

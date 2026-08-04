@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/vuca/","tags":["wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.623+02:00","dg-note-properties":{"aliases":["VUCA","V-U-C-A"],"created_date":"2024-11-15","links":null,"tags":["wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/vuca/","tags":["wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["VUCA","V-U-C-A"],"created_date":"2024-11-15","links":null,"tags":["wirtschaft/projektmanagement"]}}
 ---
 
 >VUCA ist ein Akronym, das ursprünglich im militärischen Kontext entwickelt wurde, um die Herausforderungen und Bedingungen in einer unsicheren und [[wiki/dynamic\|dynamischen]] Welt zu beschreiben. 

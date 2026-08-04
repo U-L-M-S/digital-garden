@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/ipmi/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:27.008+02:00","dg-note-properties":{"created":"2023-09-24 22:19","links":null,"path":"Notes","tags":["informatik/system"]}}
+{"dg-publish":true,"permalink":"/wiki/ipmi/","tags":["informatik/system"],"noteIcon":"","updated":"2026-07-19T03:56:27.000+02:00","dg-note-properties":{"created":"2023-09-24 22:19","links":null,"path":"Notes","tags":["informatik/system"]}}
 ---
 
 ## IPMI 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/kubernetes-services/","tags":["informatik/system","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.856+02:00","dg-note-properties":{"aliases":["Kubernetes Services","K8s Service","Service"],"created_date":"2025-11-06","links":null,"tags":["informatik/system","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/kubernetes-services/","tags":["informatik/system","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Kubernetes Services","K8s Service","Service"],"created_date":"2025-11-06","links":null,"tags":["informatik/system","informatik/netzwerk"]}}
 ---
 
 >Ein **Service** in [[wiki/Kubernetes\|Kubernetes]] ist eine Abstraktion, die eine logische Menge von [[wiki/Kubernetes Pods\|Pods]] exponiert und Load Balancing bereitstellt.

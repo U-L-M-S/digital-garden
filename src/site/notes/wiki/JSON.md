@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/json/","tags":["informatik/code","informatik/web"],"noteIcon":"","updated":"2026-07-19T03:56:26.669+02:00","dg-note-properties":{"tags":["informatik/code","informatik/web"],"aliases":["JavaScript Object Notation","JSON-Format"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/json/","tags":["informatik/code","informatik/web"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/code","informatik/web"],"aliases":["JavaScript Object Notation","JSON-Format"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

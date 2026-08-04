@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/java-list/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.969+02:00","dg-note-properties":{"aliases":["Java List","java List"],"created_date":"2024-10-26","links":null,"tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/java-list/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Java List","java List"],"created_date":"2024-10-26","links":null,"tags":["informatik/software"]}}
 ---
 
 >[!summary] Regeln

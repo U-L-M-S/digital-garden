@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/i-pv6-private/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.731+02:00","dg-note-properties":{"aliases":["IPv6 Private","iPv6 Private"],"created":"2024-07-30 11:01","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/i-pv6-private/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["IPv6 Private","iPv6 Private"],"created":"2024-07-30 11:01","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 

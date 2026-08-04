@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/zeitkomplexitaet-analysieren/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.977+02:00","dg-note-properties":{"aliases":["Zeitkomplexität analysieren"],"created_date":"2024-10-31","links":null,"tags":["informatik/code"]}}
+{"dg-publish":true,"permalink":"/wiki/zeitkomplexitaet-analysieren/","tags":["informatik/code"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Zeitkomplexität analysieren"],"created_date":"2024-10-31","links":null,"tags":["informatik/code"]}}
 ---
 
 >Die [[wiki/Big O\|Zeitkomplexität]] eines Codes gibt an, wie die Laufzeit des [[wiki/Algorithmus\|Algorithmus]] mit der Größe der Eingabedaten wächst. Um die [[wiki/Big O\|Zeitkomplexität]] zu bestimmen, betrachten wir die Anzahl der Operationen, die der [[wiki/Algorithmus\|Algorithmus]] in Abhängigkeit von der Größe der Eingabe ausführt.
