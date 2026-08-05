@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/rest-api/","tags":["informatik/code","meta/tools"],"noteIcon":"","updated":"2026-07-19T03:56:26.860+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-07-21","links":null,"tags":["informatik/code","meta/tools"]}}
+{"dg-publish":true,"permalink":"/wiki/rest-api/","tags":["informatik/code","meta/tools"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-07-21","links":null,"tags":["informatik/code","meta/tools"]}}
 ---
 
 Representational State Transfer – [[wiki/API\|API]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/singleton/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.632+02:00","dg-note-properties":{"tags":["informatik/software"],"aliases":["Singleton-Pattern","Einzelstück-Muster","@Singleton","singleton ejb","singleton bean","@singleton"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/singleton/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/software"],"aliases":["Singleton-Pattern","Einzelstück-Muster","@Singleton","singleton ejb","singleton bean","@singleton"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 

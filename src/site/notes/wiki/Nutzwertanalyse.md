@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/nutzwertanalyse/","tags":["wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.933+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-19","links":null,"tags":["wirtschaft/allgemein"]}}
+{"dg-publish":true,"permalink":"/wiki/nutzwertanalyse/","tags":["wirtschaft/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":null,"created_date":"2025-03-19","links":null,"tags":["wirtschaft/allgemein"]}}
 ---
 
 >Es ist eine Methode zum **Vergleich von Alternativen**, wenn **qualitative und quantitative** Kriterien bewertet werden müssen.

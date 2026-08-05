@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/reflection/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.839+02:00","dg-note-properties":{"aliases":["java reflection","reflection"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/reflection/","tags":["informatik/software"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["java reflection","reflection"],"created":"2026-05-19 19:00","links":null,"path":"Notes","tags":["informatik/software"]}}
 ---
 
 >[[wiki/Reflection\|Reflection]] ist die Fähigkeit von [[wiki/Java\|Java]], zur Laufzeit Klassen, Felder und Methoden zu inspizieren und zu nutzen — **ohne** den Code beim Kompilieren zu kennen.

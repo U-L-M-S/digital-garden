@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/inkrement/","tags":["wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.915+02:00","dg-note-properties":{"aliases":["inkrement"],"created_date":"2024-11-22","links":null,"tags":["wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/inkrement/","tags":["wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["inkrement"],"created_date":"2024-11-22","links":null,"tags":["wirtschaft/projektmanagement"]}}
 ---
 
 >Ein abgeschlossener, nutzbarer Teil eines Produkts.

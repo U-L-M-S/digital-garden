@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/milestone/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.852+02:00","dg-note-properties":{"aliases":["Meilensteine"],"created_date":"2025-03-11","links":null,"tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
+{"dg-publish":true,"permalink":"/wiki/milestone/","tags":["ausbildung/pruefung","wirtschaft/projektmanagement"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Meilensteine"],"created_date":"2025-03-11","links":null,"tags":["ausbildung/pruefung","wirtschaft/projektmanagement"]}}
 ---
 
 >Ein **Milestone (Meilenstein)** ist ein Ereignis oder Zwischenziel innerhalb eines Projekts, das einen wichtigen Fortschritt markiert. 

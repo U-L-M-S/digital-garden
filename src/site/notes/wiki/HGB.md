@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/hgb/","tags":["wirtschaft/recht","wirtschaft/organisation","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.737+02:00","dg-note-properties":{"tags":["wirtschaft/recht","wirtschaft/organisation","ausbildung/pruefung"],"aliases":["Handelsgesetzbuch","Handelsrecht"],"links":null,"created_date":"2025-09-16"}}
+{"dg-publish":true,"permalink":"/wiki/hgb/","tags":["wirtschaft/recht","wirtschaft/organisation","ausbildung/pruefung"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["wirtschaft/recht","wirtschaft/organisation","ausbildung/pruefung"],"aliases":["Handelsgesetzbuch","Handelsrecht"],"links":null,"created_date":"2025-09-16"}}
 ---
 
 >Das HGB (Handelsgesetzbuch) ist das Gesetz für Geschäfte zwischen Unternehmen (Kaufleuten).

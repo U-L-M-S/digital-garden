@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/link-state-routing/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.947+02:00","dg-note-properties":{"aliases":["Link-State Routing","link-State Routing"],"created":"2024-07-24 14:40","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/link-state-routing/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Link-State Routing","link-State Routing"],"created":"2024-07-24 14:40","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 >Nicht der kürzeste Weg ([[wiki/Hop\|Hop]]), sondern der schnellste Weg wird hier verwendet.

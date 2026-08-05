@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dhcpadvertise/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.721+02:00","dg-note-properties":{"tags":["informatik/netzwerk"],"aliases":["dHCPADVERTISE"],"links":null,"created_date":"2025-09-15"}}
+{"dg-publish":true,"permalink":"/wiki/dhcpadvertise/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["informatik/netzwerk"],"aliases":["dHCPADVERTISE"],"links":null,"created_date":"2025-09-15"}}
 ---
 
 >Antwort des [[wiki/DHCPv6\|DHCPv6]]-Servers auf [[wiki/DHCPSOLICIT\|DHCPSOLICIT]] - "Ich bin da und kann dir helfen!"

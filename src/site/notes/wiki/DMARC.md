@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dmarc/","tags":["informatik/sicherheit","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.719+02:00","dg-note-properties":{"aliases":["Domain-based Message Authentication"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit","informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/dmarc/","tags":["informatik/sicherheit","informatik/netzwerk"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["Domain-based Message Authentication"],"created":"2025-01-07","path":"Notes","tags":["informatik/sicherheit","informatik/netzwerk"]}}
 ---
 
 > Domain-based Message Authentication, Reporting & Conformance

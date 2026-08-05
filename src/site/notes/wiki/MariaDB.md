@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/maria-db/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2026-05-19T13:40:12.034+02:00","dg-note-properties":{"aliases":["maria db","mariadb"],"created":"2026-05-19 19:00","links":"https://mariadb.org/","path":"Notes","tags":["informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/maria-db/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2026-08-04T10:40:04.477+02:00","dg-note-properties":{"aliases":["maria db","mariadb"],"created":"2026-05-19 19:00","links":"https://mariadb.org/","path":"Notes","tags":["informatik/datenbank"]}}
 ---
 
 >[[wiki/MariaDB\|MariaDB]] ist eine relationale Open-Source-Datenbank (MySQL-Fork).
->>Bei [[inbox/Muckenhirn\|Muckenhirn]] nutze ich sie für meine Lernprojekte mit [[wiki/JPA\|JPA]] / [[wiki/Hibernate\|Hibernate]].
+>>Bei [[inbox/Muckenhirn Automation GmbH\|Muckenhirn Automation GmbH]] nutze ich sie für meine Lernprojekte mit [[wiki/JPA\|JPA]] / [[wiki/Hibernate\|Hibernate]].
 
 # I. Meine Lern-DB
 ___

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/right-join/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.643+02:00","dg-note-properties":{"aliases":["RIGHT JOIN"],"created_date":"2024-10-17","links":null,"tags":["informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/right-join/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"aliases":["RIGHT JOIN"],"created_date":"2024-10-17","links":null,"tags":["informatik/datenbank"]}}
 ---
 
 >Es gibt **alle Datensätze der rechten Tabelle** (in diesem Fall `orders`) zurück, **auch wenn es keine Übereinstimmung** in der linken Tabelle (`customers`) gibt. 
