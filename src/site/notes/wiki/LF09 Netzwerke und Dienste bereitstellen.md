@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["ausbildung/gfn","informatik/netzwerk","meta/status"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn","informatik/netzwerk","meta/status"],"links":"https://lernplattform.gfn.de/course/view.php?id=13592","reference":"[[wiki/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]","path":"GFN","created":"2024-07-01 09:02"}}
+{"dg-publish":true,"permalink":"/wiki/lf-09-netzwerke-und-dienste-bereitstellen/","tags":["ausbildung/gfn","informatik/netzwerk","meta/status"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"tags":["ausbildung/gfn","informatik/netzwerk","meta/status"],"links":"https://lernplattform.gfn.de/course/view.php?id=13592","reference":"[[wiki/LF03 Clients in Netzwerk einbinden]]","path":"GFN","created":"2024-07-01 09:02"}}
 ---
 
 >Dieses Lernfeld ist eine Erweiterung von [[wiki/LF03 Clients in Netzwerk einbinden\|LF03 Clients in Netzwerk einbinden]]. 

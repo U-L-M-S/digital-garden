@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/raid-1/","tags":["informatik/hardware","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-27","links":"[[RAID]]","path":"Notes","tags":["informatik/hardware","informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/raid-1/","tags":["informatik/hardware","informatik/sicherheit"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-27","links":"[[wiki/RAID]]","path":"Notes","tags":["informatik/hardware","informatik/sicherheit"]}}
 ---
 
 

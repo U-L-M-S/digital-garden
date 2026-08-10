@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/inkrementelle-sicherung/","tags":["informatik/allgemein","informatik/sicherheit","meta/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-27","aliases":["Inkrementelles Backup"],"links":"[[Backup-Strategien]]","path":"Notes","tags":["informatik/allgemein","informatik/sicherheit","meta/allgemein"]}}
+{"dg-publish":true,"permalink":"/wiki/inkrementelle-sicherung/","tags":["informatik/allgemein","informatik/sicherheit","meta/allgemein"],"noteIcon":"","updated":"2026-07-19T03:56:26.000+02:00","dg-note-properties":{"created":"2025-08-27","aliases":["Inkrementelles Backup"],"links":"[[wiki/Backup-Strategien]]","path":"Notes","tags":["informatik/allgemein","informatik/sicherheit","meta/allgemein"]}}
 ---
 
 
