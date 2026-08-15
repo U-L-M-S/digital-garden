@@ -12,4 +12,8 @@ updates:
     ignore:
       - dependency-name: "@sindresorhus/slugify"
         # For slugify, ignore all updates.
+      - dependency-name: "@11ty/eleventy-img"
+        update-types: ["version-update:semver-major"]
+        # .eleventy.js uses the v4 API (callable module, statsSync,
+        # Image.concurrency); v7+ is ESM-only and removed those.
         
