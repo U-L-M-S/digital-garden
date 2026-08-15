@@ -30,7 +30,7 @@
         "vitest": "^4.1.0"
     },
     "dependencies": {
-        "@11ty/eleventy-img": "^4.0.2",
+        "@11ty/eleventy-img": "^7.0.0",
         "@sindresorhus/slugify": "^1.1.0",
         "axios": "^1.2.2",
         "dotenv": "^16.0.3",
