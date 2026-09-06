@@ -22,6 +22,7 @@ try {
 } catch (e) {
   // bases-engine not available, skip bases link extraction
 }
+const { pickNoteMetadata } = require("./bases-engine/noteMetadata");
 
 /**
  * Resolve a markdown link target to a vault-root-relative path.
@@ -203,7 +204,27 @@ function extractBasesLinks(content, basesNotes) {
   return links;
 }
 
-async function getGraph(data) {
+// getGraph is called from eleventyComputed, i.e. once per rendered page, but
+// its result only depends on the note collection. Recomputing it per page made
+// the build O(notes²). Cache the in-flight promise keyed on the collection
+// array itself: each build (including watch-mode rebuilds) creates a fresh
+// collections array, so the cache self-invalidates and old entries get GC'd.
+const graphCache = new WeakMap();
+
+function getGraph(data) {
+  const notes = data.collections.note;
+  if (!notes) {
+    return computeGraph(data);
+  }
+  let cached = graphCache.get(notes);
+  if (!cached) {
+    cached = computeGraph(data);
+    graphCache.set(notes, cached);
+  }
+  return cached;
+}
+
+async function computeGraph(data) {
   let nodes = {};
   let links = [];
   let stemURLs = {};
@@ -290,7 +311,7 @@ async function getGraph(data) {
     return {
       path: item.filePathStem.replace("/notes/", ""),
       url: item.url,
-      metadata: item.data,
+      metadata: pickNoteMetadata(item.data),
       fileSlug: item.fileSlug,
       // Inject computed link data for bases queries
       _links: url.outBound || [],
