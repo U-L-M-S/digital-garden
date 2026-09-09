@@ -8,6 +8,9 @@ src/site/styles/_theme.*.css
 .netlify
 .idea/
 .vercel
+
+# Generated at build time by the plugin loader
+src/site/_includes/plugins/
 .cache
 _site/
 **/.DS_Store
