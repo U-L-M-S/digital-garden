@@ -14,7 +14,7 @@ normalizeFavicon(FAVICON_SOURCE, FAVICON_NORMALIZED);
 const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier-terser");
-const pluginRss = require("@11ty/eleventy-plugin-rss").rssPlugin;
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 // Minifying inline JS/CSS is the single most expensive part of the build, and
 // nearly every page carries the same inline scripts and styles from the
