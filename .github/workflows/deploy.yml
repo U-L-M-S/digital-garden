@@ -1,0 +1,70 @@
+name: Build & Deploy digital-garden
+
+on:
+  push:
+    branches: ['**']
+  workflow_dispatch: {}
+
+concurrency:
+  group: digital-garden-ci
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: self-hosted
+    env:
+      DEPLOY_DIR: ${{ vars.DEPLOY_DIR || '/root/Docker/repos/digital-garden' }}
+      DEPLOY_REF: refs/heads/main
+    steps:
+      - uses: actions/checkout@v4
+
+      # Branches other than main: only prove the image still builds.
+      - name: Test build
+        if: github.ref != env.DEPLOY_REF
+        run: docker build -t digital-garden:ci .
+
+      - name: Preflight
+        if: github.ref == env.DEPLOY_REF
+        run: |
+          set -euo pipefail
+          test -d "${DEPLOY_DIR}/.git" \
+            || { echo "::error::${DEPLOY_DIR} is not a git checkout"; exit 1; }
+
+      # The live dir is a checkout; reset --hard only touches tracked files,
+      # so anything gitignored there survives.
+      - name: Update the deploy directory
+        if: github.ref == env.DEPLOY_REF
+        working-directory: ${{ env.DEPLOY_DIR }}
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git reset --hard origin/main
+
+      - name: Build & restart
+        if: github.ref == env.DEPLOY_REF
+        working-directory: ${{ env.DEPLOY_DIR }}
+        run: |
+          set -euo pipefail
+          docker compose build
+          docker compose up -d --force-recreate
+          docker compose ps
+
+      - name: Health check
+        if: github.ref == env.DEPLOY_REF
+        run: |
+          set -euo pipefail
+          for i in $(seq 1 12); do
+            if curl -fsS -o /dev/null http://127.0.0.1:3003/; then
+              echo "site is up"; exit 0
+            fi
+            sleep 5
+          done
+          echo "::error::no response on 127.0.0.1:3003 within 60s"
+          docker compose -f "${DEPLOY_DIR}/docker-compose.yml" logs --tail=100
+          exit 1
+
+      - name: Prune
+        if: always()
+        run: |
+          docker image prune -f
+          docker builder prune -f --filter 'until=168h'
