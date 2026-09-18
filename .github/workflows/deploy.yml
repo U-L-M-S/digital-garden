@@ -1,0 +1,22 @@
+name: Deploy to main-server
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: digital-garden-deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build image and restart container
+        run: |
+          docker compose build
+          docker compose up -d
+          docker image prune -f
