@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/wild-fly/","tags":["informatik/system","muckenhirn"],"noteIcon":"","updated":"2026-08-04T10:40:05.675+02:00","dg-note-properties":{"aliases":["JBoss","wildfly","wildfly server"],"created":"2026-05-19 19:00","links":"https://www.wildfly.org/","path":"Notes","tags":["informatik/system","muckenhirn"]}}
+{"dg-publish":true,"permalink":"/wiki/wild-fly/","tags":["informatik/system","muckenhirn"],"noteIcon":"","updated":"2026-08-04T10:40:05.000+02:00","dg-note-properties":{"aliases":["JBoss","wildfly","wildfly server"],"created":"2026-05-19 19:00","links":"https://www.wildfly.org/","path":"Notes","tags":["informatik/system","muckenhirn"]}}
 ---
 
 >[[wiki/WildFly\|WildFly]] ist ein [[wiki/Jakarta EE\|Jakarta EE]]-[[Application Server\|Application Server]] von Red Hat (früher JBoss).

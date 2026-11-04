@@ -212,7 +212,7 @@ VERERBUNG ("IS-A" Beziehung)
     └────────┘
 
 
-KOMPOSITION ("HAS-A" Beziehung)  → [[wiki/UML-Komposition\|UML-Komposition]]
+KOMPOSITION ("HAS-A" Beziehung)  → [[UML-Komposition]]
 ┌────────────────────────────────┐
 │  class Auto {                  │
 │    Motor motor;  // HAS-A      │
