@@ -21,14 +21,14 @@
    ↓
 2. BIOS/UEFI aktiviert Netzwerkkarte
    ↓
-3. Sucht [[wiki/DHCP-Server\|DHCP-Server]]
+3. Sucht [[DHCP-Server]]
    ↓
-4. [[wiki/DHCP-Server\|DHCP-Server]] antwortet mit:
-   - [[wiki/IP-Adresse\|IP-Adresse]]
-   - [[TFTP-Server\|TFTP-Server]]-Adresse
+4. [[DHCP-Server]] antwortet mit:
+   - [[IP-Adresse]]
+   - [[TFTP-Server]]-Adresse
    - Boot-Datei-Name
    ↓
-5. Lädt Boot-Image von [[TFTP-Server\|TFTP-Server]]
+5. Lädt Boot-Image von [[TFTP-Server]]
    ↓
 6. Startet Boot-Image
    ↓

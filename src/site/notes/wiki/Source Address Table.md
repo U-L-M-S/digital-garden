@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/source-address-table/","tags":["informatik/netzwerk","informatik/hardware","ausbildung/lernmethode"],"noteIcon":"","updated":"2026-08-04T10:44:12.552+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk","informatik/hardware","ausbildung/lernmethode"]}}
+{"dg-publish":true,"permalink":"/wiki/source-address-table/","tags":["informatik/netzwerk","informatik/hardware","ausbildung/lernmethode"],"noteIcon":"","updated":"2026-08-04T10:44:12.000+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk","informatik/hardware","ausbildung/lernmethode"]}}
 ---
 
 

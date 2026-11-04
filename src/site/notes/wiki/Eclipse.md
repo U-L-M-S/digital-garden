@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/eclipse/","tags":["informatik/software"],"noteIcon":"","updated":"2026-08-04T10:39:44.981+02:00","dg-note-properties":{"aliases":["eclipse","eclipse ide"],"created":"2026-05-19 19:00","links":"https://www.eclipse.org/","path":"Notes","tags":["informatik/software"]}}
+{"dg-publish":true,"permalink":"/wiki/eclipse/","tags":["informatik/software"],"noteIcon":"","updated":"2026-08-04T10:39:44.000+02:00","dg-note-properties":{"aliases":["eclipse","eclipse ide"],"created":"2026-05-19 19:00","links":"https://www.eclipse.org/","path":"Notes","tags":["informatik/software"]}}
 ---
 
 >[[wiki/Eclipse\|Eclipse]] ist die IDE, mit der ich [[wiki/Java\|Java]]-Projekte bei [[inbox/Muckenhirn Automation GmbH\|Muckenhirn Automation GmbH]] entwickle.

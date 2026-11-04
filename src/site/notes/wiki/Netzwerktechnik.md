@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/netzwerktechnik/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-02T18:16:19.739+02:00","dg-note-properties":{"aliases":null,"created":"2025-10-29 12:00","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
+{"dg-publish":true,"permalink":"/wiki/netzwerktechnik/","tags":["informatik/netzwerk"],"noteIcon":"","updated":"2026-07-02T18:16:19.000+02:00","dg-note-properties":{"aliases":null,"created":"2025-10-29 12:00","links":null,"path":"Notes","tags":["informatik/netzwerk"]}}
 ---
 
 >**Netzwerktechnik** ist der Bereich der Informatik, der sich mit Aufbau, Betrieb und Verwaltung von [[wiki/Netzwerk\|Netzwerk]]en beschäftigt.

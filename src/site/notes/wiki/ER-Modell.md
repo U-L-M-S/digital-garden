@@ -158,7 +158,7 @@ PK = Primary Key (Primärschlüssel)
 >**Schritt 1: Entitäten → Tabellen**
 >```
 >KUNDE → Tabelle "Kunde"
->├─ KundenID ([[wiki/Primary Key\|Primary Key]])
+>├─ KundenID ([[Primary Key]])
 >├─ Name
 >├─ Adresse
 >└─ Email
@@ -167,11 +167,11 @@ PK = Primary Key (Primärschlüssel)
 >**Schritt 2: Beziehungen → Fremdschlüssel**
 >```
 >1:n Beziehung:
->[[wiki/Foreign Key\|Foreign Key]] auf der "n"-Seite
+>[[Foreign Key]] auf der "n"-Seite
 >
 >Bestellung:
->├─ BestellID ([[wiki/Primary Key\|Primary Key]])
->├─ KundenID ([[wiki/Foreign Key\|Foreign Key]])  ← Verweis auf Kunde
+>├─ BestellID ([[Primary Key]])
+>├─ KundenID ([[Foreign Key]])  ← Verweis auf Kunde
 >├─ Datum
 >└─ Menge
 >```
@@ -181,8 +181,8 @@ PK = Primary Key (Primärschlüssel)
 >Student ←→ Kurs
 >
 >Neue Tabelle "Teilnahme":
->├─ StudentID ([[wiki/Foreign Key\|Foreign Key]])
->├─ KursID ([[wiki/Foreign Key\|Foreign Key]])
+>├─ StudentID ([[Foreign Key]])
+>├─ KursID ([[Foreign Key]])
 >└─ Note
 >```
 

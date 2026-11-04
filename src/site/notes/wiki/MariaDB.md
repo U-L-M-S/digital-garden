@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/maria-db/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2026-08-04T10:40:04.477+02:00","dg-note-properties":{"aliases":["maria db","mariadb"],"created":"2026-05-19 19:00","links":"https://mariadb.org/","path":"Notes","tags":["informatik/datenbank"]}}
+{"dg-publish":true,"permalink":"/wiki/maria-db/","tags":["informatik/datenbank"],"noteIcon":"","updated":"2026-08-04T10:40:04.000+02:00","dg-note-properties":{"aliases":["maria db","mariadb"],"created":"2026-05-19 19:00","links":"https://mariadb.org/","path":"Notes","tags":["informatik/datenbank"]}}
 ---
 
 >[[wiki/MariaDB\|MariaDB]] ist eine relationale Open-Source-Datenbank (MySQL-Fork).

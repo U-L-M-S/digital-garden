@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/dns-amplification/","tags":["informatik/netzwerk","informatik/sicherheit"],"noteIcon":"","updated":"2026-08-04T10:50:02.970+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk","informatik/sicherheit"]}}
+{"dg-publish":true,"permalink":"/wiki/dns-amplification/","tags":["informatik/netzwerk","informatik/sicherheit"],"noteIcon":"","updated":"2026-08-04T10:50:02.000+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk","informatik/sicherheit"]}}
 ---
 
 

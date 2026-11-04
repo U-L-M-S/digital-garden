@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/autoritative-nameserver/","tags":["informatik/netzwerk","informatik/web"],"noteIcon":"","updated":"2026-08-04T10:50:02.909+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk","informatik/web"]}}
+{"dg-publish":true,"permalink":"/wiki/autoritative-nameserver/","tags":["informatik/netzwerk","informatik/web"],"noteIcon":"","updated":"2026-08-04T10:50:02.000+02:00","dg-note-properties":{"created":"2025-08-27","path":"Notes","tags":["informatik/netzwerk","informatik/web"]}}
 ---
 
 

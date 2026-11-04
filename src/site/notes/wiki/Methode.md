@@ -47,7 +47,7 @@ KOMPONENTEN:
 ```
 UNTERSCHIED: METHODE VS. FUNKTION
 
-FUNKTION  → [[wiki/Funktion\|Funktion]]
+FUNKTION  → [[Funktion]]
 ┌─────────────────────────────────────────┐
 │ • Gehört NICHT zu einer Klasse         │
 │ • Eigenständig                          │

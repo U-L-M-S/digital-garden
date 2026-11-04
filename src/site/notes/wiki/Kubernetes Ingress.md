@@ -16,7 +16,7 @@ MIT LOADBALANCER SERVICES (teuer):
 │ LoadBalancer 2  (IP: 1.2.3.5)     │ → Service B
 │ LoadBalancer 3  (IP: 1.2.3.6)     │ → Service C
 └────────────────────────────────────┘
-3 External IPs = 3 Load Balancers = $$
+3 External IPs = 3 Load Balancers = $$$
 
 MIT INGRESS (günstig):
 ┌────────────────────────────────────┐

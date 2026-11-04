@@ -517,7 +517,8 @@ for i in range(6):
 print("\n🔄 PASSWORT ÄNDERN")
 db.passwort_aendern("bob", "BobsGeheimnis456#", "NeuesPasswort789$")
 print(f"Login mit altem PW: {db.login('bob', 'BobsGeheimnis456#')}")
-print(f"Login mit neuem PW: {db.login('bob', 'NeuesPasswort789
+print(f"Login mit neuem PW: {db.login('bob', 'NeuesPasswort789$')}")
+```
 
 **Output:**
 ```
@@ -899,138 +900,6 @@ for pw in test_passwoerter:
         for p in result['probleme']:
             print(f"  {p}")
 ```
-
-## Zusammenfassung
-
-> [!summary] Kernpunkte
-> - **NIE SHA-256/MD5 für Passwörter** - viel zu schnell!
-> - **Empfohlen**: Argon2id (modernste) oder bcrypt (battle-tested)
-> - **Salts**: Automatisch, pro User einzigartig, gegen Rainbow Tables
-> - **Pepper**: Optional, global, nicht in DB, Zusatzschutz
-> - **Langsam = Sicher**: 0.25-1s Verifizierung ideal
-> - **Memory-Hard**: Argon2/scrypt → GPU-resistent
-> - **Rate Limiting**: Max. 5 Fehlversuche, Account-Sperre
-> - **Timing-Attacks**: Fake Hash bei unbekanntem User
-> - **Migration**: Alte Hashes re-hashen, Cost-Faktor erhöhen
-> - **Best Practice 2025**: Argon2id (m=64MB, t=3, p=4) oder bcrypt (cost=12-14)
-
-## Verwandte Konzepte
-
-- [[wiki/Kryptographie\|Kryptographie]] - Übergeordnetes Thema
-- [[wiki/Hash-Funktion\|Hash-Funktion]] - Grundlagen
-- [[wiki/SHA-256\|SHA-256]] - Normale Hash-Funktion (nicht für Passwörter!)
-- [[wiki/Digitale Signatur\|Digitale Signatur]] - Verwendet Hashes
-- [[wiki/TLS\|TLS]] - Verwendet Passwort-Authentifizierung
-)}")
-```
-
-**Output:**
-{{CODE_BLOCK_12}}
-
-### Python: Pepper hinzufügen
-
-{{CODE_BLOCK_13}}
-
-## Angriffe und Gegenmaßnahmen
-
-### 1. Rainbow Table Angriffe
-
-> [!danger] Rainbow Tables
-> **Angriff**: Vorberechnete Hash-Tabellen für häufige Passwörter
->
-> **Gegenmaßnahme**: **Salts**
-> - Pro Benutzer einzigartig
-> - Macht Rainbow Tables nutzlos (müssten für jeden Salt neu berechnet werden)
-
-{{CODE_BLOCK_14}}
-
-### 2. Brute-Force / Dictionary Attacks
-
-> [!danger] Brute-Force-Angriff
-> **Angriff**: Systematisches Ausprobieren aller Kombinationen
->
-> **Gegenmaßnahme**: **Langsame Hash-Funktion**
-> - bcrypt cost=12: ~30 Hashes/Sekunde
-> - Argon2: Memory-intensiv → GPU nutzlos
-> - Rate Limiting: Max. 5 Versuche pro Account
-
-{{CODE_BLOCK_15}}
-
-**Output:**
-{{CODE_BLOCK_16}}
-
-### 3. Timing Attacks
-
-> [!caution] Timing-Angriff
-> **Angriff**: Messung der Antwortzeit → Rückschlüsse auf Benutzernamen
->
-> **Beispiel**:
-> - Unbekannter User: Sofortige Antwort (0.001s)
-> - Bekannter User: Hash-Verifikation (0.3s)
-> → Angreifer kann gültige Usernames enumerieren!
-
-**Gegenmaßnahme**:
-
-{{CODE_BLOCK_17}}
-
-### 4. GPU-Beschleunigung
-
-> [!warning] GPU-Angriffe
-> GPUs können millionen Hashes parallel berechnen:
-> - SHA-256: 100 Milliarden Hashes/s (High-End GPU)
-> - bcrypt: Schwer parallelisierbar → ~1000× langsamer
-> - Argon2: Memory-Hard → GPU-Vorteil minimal
-
-**Gegenmaßnahme**: Memory-Hard-Funktionen (Argon2, scrypt)
-
-## Best Practices
-
-> [!tip] Empfehlungen 2025
-> 1. **Algorithmus-Wahl**:
->    - **Neue Projekte**: Argon2id
->    - **Wenn Argon2 nicht verfügbar**: bcrypt (cost ≥ 12)
->    - **NIE**: SHA-256, MD5, SHA-1
->
-> 2. **Parameter**:
->    - **bcrypt**: cost = 12-14 (0.3-1s)
->    - **Argon2id**: m=64MB, t=3, p=4 (0.5s)
->    - **Ziel**: 0.25-1s Verifizierung
->
-> 3. **Salt**:
->    - Automatisch von Bibliothek generiert
->    - Mindestens 128 Bit
->    - Pro Benutzer einzigartig
->
-> 4. **Pepper** (Optional, erhöht Sicherheit):
->    - Global für alle User
->    - Nicht in Datenbank
->    - Umgebungsvariable oder HSM
->
-> 5. **Rate Limiting**:
->    - Max. 5 Fehlversuche
->    - Account-Sperre nach 5 Fehlversuchen
->    - CAPTCHA nach 3 Fehlversuchen
->
-> 6. **Timing-Attack-Schutz**:
->    - Fake Hash bei unbekanntem User
->    - Konstante Antwortzeit
->
-> 7. **Passwort-Richtlinien**:
->    - Mindestlänge: 12 Zeichen
->    - Komplexität: Groß/Klein, Zahlen, Sonderzeichen
->    - Keine häufigen Passwörter (Pwned Passwords API)
->
-> 8. **Migration**:
->    - Alte Hashes (MD5/SHA-1) → Re-Hash bei Login
->    - Cost-Faktor erhöhen mit der Zeit
->
-> 9. **Multi-Faktor-Authentifizierung**:
->    - Zusätzlich zu starkem Passwort-Hashing
->    - TOTP, SMS, Hardware-Token
-
-## Passwort-Stärke-Checker
-
-{{CODE_BLOCK_18}}
 
 ## Zusammenfassung
 

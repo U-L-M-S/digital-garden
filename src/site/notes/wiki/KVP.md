@@ -49,7 +49,7 @@ KVP-Kreislauf:
              │
              ▼
     ┌────────────────┐
-    │ Lösung finden  │  ← [[wiki/PDCA Zyklus\|PDCA Zyklus]]
+    │ Lösung finden  │  ← [[PDCA Zyklus]]
     └────────┬───────┘
              │
              ▼
